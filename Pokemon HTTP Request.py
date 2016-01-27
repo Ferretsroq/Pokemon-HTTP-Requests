@@ -2,6 +2,16 @@ from lxml import html
 import requests
 import json
 
+def PrintData(section):
+        for block in section:
+                for element in block:
+                        if(element != "sequenceNumber"):
+                                if(element == "wazaName"): 
+                                        print "Move", block[element]
+                                else: 
+                                        print element, block[element]
+                print "---"
+
 headersDictionary = {
 	'Accept' : '*/*',
 	'Accept-Encoding' : 'gzip, deflate',
@@ -36,5 +46,14 @@ requestDataList = [
 url = "http://3ds.pokemon-gl.com/frontendApi/gbu/getSeasonPokemonDetail"
 requestDataString = "&".join(requestDataList)
 r = requests.post(url, data=requestDataString, headers=headersDictionary)
-print r.text
+#print r.text
 
+pokemonData = json.loads(r.text)
+
+movesThatKOThisPokemon = pokemonData['rankingPokemonDownWaza']
+movesThatThisPokemonUses = pokemonData['rankingPokemonTrend']['wazaInfo']
+
+print "These are the moves that KO this pokemon!"
+PrintData(movesThatKOThisPokemon)
+print "These are the moves that this pokemon uses!"
+PrintData(movesThatThisPokemonUses)
