@@ -2,7 +2,7 @@ from lxml import html
 import requests
 import json
 
-headers = {
+headersDictionary = {
 	'Accept' : '*/*',
 	'Accept-Encoding' : 'gzip, deflate',
 	'Accept-Language' : 'en-US,en;q=0.8',
@@ -16,25 +16,25 @@ headers = {
 	'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
 	}
 
-dataRequest = {
-	'languageID' : '2',
-	'seasonId' : '114',
-	'battleType' : '5',
-	'timezone' : 'EST',
-	'pokemonId' : '383-0',
-	'displayNumberWaza' : '20',
-	'displayNumberTokusei' : '3',
-	'displayNumberSeikaku' : '20',
-	'displayNumberItem' : '20',
-	'displayNumberLevel' : '20',
-	'displayNumberPokemonIn' : '20',
-	'displayNumberPokemonDown' : '20',
-	'displayNumberPokemonDownWaza' : '20',
-	'timeStamp' : '1453422223192'
-	}
+requestDataList = [
+	'languageId=2',
+	'seasonId=114',
+	'battleType=5',
+	'timezone=EST',
+	'pokemonId=383-0',
+	'displayNumberWaza=20',
+	'displayNumberTokusei=3',
+	'displayNumberSeikaku=20',
+	'displayNumberItem=20',
+	'displayNumberLevel=20',
+	'displayNumberPokemonIn=20',
+	'displayNumberPokemonDown=20',
+	'displayNumberPokemonDownWaza=20',
+	'timeStamp=1453422223192'
+	]
 
 url = "http://3ds.pokemon-gl.com/frontendApi/gbu/getSeasonPokemonDetail"
-dataRequestString = "languageId=2&seasonId=114&battleType=5&timezone=EST&pokemonId=383-0&displayNumberWaza=20&displayNumberTokusei=3&displayNumberSeikaku=20&displayNumberItem=20&displayNumberLevel=20&displayNumberPokemonIn=20&displayNumberPokemonDown=20&displayNumberPokemonDownWaza=20&timeStamp=1453855574996"
-r = requests.post(url, data=dataRequestString, headers=headers)
+requestDataString = "&".join(requestDataList)
+r = requests.post(url, data=requestDataString, headers=headersDictionary)
 print r.text
 
