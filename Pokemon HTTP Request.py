@@ -79,7 +79,6 @@ url = "http://3ds.pokemon-gl.com/frontendApi/gbu/getSeasonPokemonDetail"
 
 pokemonList = [0]
 
-for dexNumber in range(721):
+for dexNumber in range(720):
     pokemonList.append(Pokemon(GetData(dexNumber+1)))
-    if(dexNumber+1 != 29 and dexNumber+1 != 32 and dexNumber+1 != 669):
-        print pokemonList[dexNumber+1]
+    print unicode(pokemonList[dexNumber+1])
