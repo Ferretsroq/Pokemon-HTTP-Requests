@@ -1,10 +1,12 @@
 from lxml import html
 import requests
 import json
+from fractions import Fraction
 
 def PrintData(section, name):
         for block in section:
                 print block['ranking'], block[name], block['usageRate']
+                listOfPercentages.append(block['usageRate']/100)
         print "\n ---------- \n"
 
 headersDictionary = {
@@ -45,10 +47,45 @@ r = requests.post(url, data=requestDataString, headers=headersDictionary)
 
 pokemonData = json.loads(r.text)
 
-movesThatKOThisPokemon = pokemonData['rankingPokemonDownWaza']
-movesThatThisPokemonUses = pokemonData['rankingPokemonTrend']['wazaInfo']
+thisPokemonName = pokemonData['rankingPokemonInfo']['name']
+thisPokemonRanking = pokemonData['rankingPokemonInfo']['ranking']
 
-print "These are the moves that KO this pokemon!"
-PrintData(movesThatKOThisPokemon, 'wazaName')
+movesThatThisPokemonKOsWith = pokemonData['rankingPokemonSuffererWaza']
+pokemonThatThisPokemonKOs = pokemonData['rankingPokemonSufferer']
+pokemonOnTheSameTeamWithThisPokemon = pokemonData['rankingPokemonIn']
+movesThatThisPokemonUses = pokemonData['rankingPokemonTrend']['wazaInfo']
+itemsThatThisPokemonUses = pokemonData['rankingPokemonTrend']['itemInfo']
+abilitiesThatThisPokemonUses = pokemonData['rankingPokemonTrend']['tokuseiInfo']
+naturesThatThisPokemonUses = pokemonData['rankingPokemonTrend']['seikakuInfo']
+pokemonThatKOThisPokemon = pokemonData['rankingPokemonDown']
+movesThatKOThisPokemon = pokemonData['rankingPokemonDownWaza']
+
+listOfPercentages = []
+listOfDenominators = []
+
+print "Pokemon Name:", thisPokemonName
+print "Rank:", thisPokemonRanking
+print "\n----------\n"
+
+print "These are the moves that this pokemon KOs with!"
+PrintData(movesThatThisPokemonKOsWith, 'wazaName')
+#print "These are the pokemon that this pokemon KOs!"
+#PrintData(pokemonThatThisPokemonKOs, 'name')
+#print "These are the pokemon that are on this pokemon's team!"
+#PrintData(pokemonOnTheSameTeamWithThisPokemon, 'name')
 print "These are the moves that this pokemon uses!"
 PrintData(movesThatThisPokemonUses, 'name')
+print "These are the items that this pokemon uses!"
+PrintData(itemsThatThisPokemonUses, 'name')
+print "These are the abilities that this pokemon uses!"
+PrintData(abilitiesThatThisPokemonUses, 'name')
+print "These are the natures that this pokemon uses!"
+PrintData(naturesThatThisPokemonUses, 'name')
+#print "These are the pokemon that KO this pokemon!"
+#PrintData(pokemonThatKOThisPokemon, 'name')
+#print "These are the moves that KO this pokemon!"
+#PrintData(movesThatKOThisPokemon, 'wazaName')
+
+for x in listOfPercentages:
+        listOfDenominators.append((Fraction(x).limit_denominator()).denominator)
+
