@@ -60,6 +60,34 @@ class Pokemon:
             for percentage in self.listOfPercentages:
                 self.listOfDenominators.append((Fraction(percentage).limit_denominator()).denominator)
 
+def orderByRanking(listOfPokemon):
+	numberOfRankedPokemon = 0
+	rankingNotFound = 0
+	numberOfPokemonWithoutThisRanking = 0
+	lowestNumber = 1
+	for pokemon in listOfPokemon:
+		if(hasattr(pokemon, 'thisPokemonRanking')):
+			numberOfRankedPokemon+=1
+	orderedList = []
+	print numberOfRankedPokemon
+	while(len(orderedList) < numberOfRankedPokemon):
+		numberOfPokemonWithoutThisRanking = 0
+		if(rankingNotFound==1): lowestNumber+=1
+		print "We are looking for rank %d" % (lowestNumber)
+		for pokemon in pokemonList:
+			if(hasattr(pokemon, 'thisPokemonRanking')):
+				if(pokemon.thisPokemonRanking == lowestNumber):
+					orderedList.append(pokemon)
+					lowestNumber+=1
+					rankingNotFound = 0
+					print pokemon, pokemon.thisPokemonRanking
+				else:
+					numberOfPokemonWithoutThisRanking+=1
+					if(numberOfPokemonWithoutThisRanking == numberOfRankedPokemon):
+						rankingNotFound = 1
+
+	return orderedList
+
 headersDictionary = {
 	'Accept' : '*/*',
 	'Accept-Encoding' : 'gzip, deflate',
@@ -82,3 +110,10 @@ pokemonList = [0]
 for dexNumber in range(720):
     pokemonList.append(Pokemon(GetData(dexNumber+1)))
     print unicode(pokemonList[dexNumber+1])
+
+orderedListByRank = orderByRanking(pokemonList)
+print orderedListByRank
+
+print "Length of ordered list: %d" % len(orderedListByRank)
+for x in orderedListByRank:
+    print x.thisPokemonRanking, x.thisPokemonName
