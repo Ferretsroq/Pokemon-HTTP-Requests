@@ -89,12 +89,11 @@ class Pokemon:
             self.movesThatKOThisPokemon = pokemonData['rankingPokemonDownWaza']
             self.listOfPercentages = []
             self.listOfDenominators = []
-            self.PopulatePercentages(self.movesThatThisPokemonKOsWith)
             self.PopulatePercentages(self.movesThatThisPokemonUses)
             self.PopulatePercentages(self.itemsThatThisPokemonUses)
             self.PopulatePercentages(self.abilitiesThatThisPokemonUses)
             self.PopulatePercentages(self.naturesThatThisPokemonUses)
-            self.PopulatePercentages(self.movesThatKOThisPokemon)
+            self.totalNumberOfThisPokemon = self.CalculateTotalNumber()
     def __repr__(self):
         return self.thisPokemonName
     def PopulatePercentages(self, numericalData):
@@ -103,7 +102,44 @@ class Pokemon:
                 self.listOfPercentages.append(element['usageRate']/100)
             for percentage in self.listOfPercentages:
                 self.listOfDenominators.append((Fraction(percentage).limit_denominator()).denominator)
-
+    def CalculateTotalNumber(self):
+        return lcmForList(self.listOfDenominators)
+    def PrintNumericalData(self, numericalData, name):
+        if(numericalData):
+            for element in numericalData:
+                print element['ranking'], element[name], str(element['usageRate'])+"%", self.totalNumberOfThisPokemon*element['usageRate']
+    def PrintNonNumericalData(self, nonNumericalData):
+        if(nonNumericalData):
+            for element in nonNumericalData:
+                print element['ranking'], element['name']
+    def PrintAllData(self):
+        print str(self.thisPokemonRanking)+':', self.thisPokemonName
+        print "Moves used:"
+        self.PrintNumericalData(movesThatThisPokemonUses, 'name')
+        print "\n ---------- \n"
+        print "Items used:"        
+        self.PrintNumericalData(itemsThatThisPokemonUses, 'name')
+        print "\n ---------- \n"
+        print "Abilities used:"
+        self.PrintNumericalData(abilitiesThatThisPokemonUses, 'name')
+        print "\n ---------- \n"
+        print "Natures used:"
+        self.PrintNumericalData(naturesThatThisPokemonUses, 'name')
+        print "\n ---------- \n"
+        print "Top teammates:"
+        self.PrintNonNumericalData(self.pokemonOnTheSameTeamWithThisPokemon)
+        print "\n ---------- \n"
+        print "Moves that this pokemon KOs with:"
+        self.PrintNumericalData(movesThatThisPokemonKOsWith, 'wazaName')
+        print "\n ---------- \n"
+        print "Moves that KO this pokemon:"
+        self.PrintNumericalData(movesThatKOThisPokemon, 'wazaName')
+        print "\n ---------- \n"
+        print "Pokemon that this pokemon KOs:"
+        self.PrintNonNumericalData(self.pokemonThatThisPokemonKOs)
+        print "\n ---------- \n"
+        print "Pokemon that KO this pokemon:"
+        self.PrintNonNumericalData(self.pokemonThatKOThisPokemon)
 def orderByRanking(listOfPokemon):
 	numberOfRankedPokemon = 0
 	rankingNotFound = 0
@@ -143,7 +179,7 @@ def lcm(a,b):
 def lcmForList(inputList):
     temp_lcm = 1
     for number in inputList:
-        temp_lcm = lcm(temp_lcm, inputList[number])
+        temp_lcm = lcm(temp_lcm, number)
     return temp_lcm
 
 headersDictionary = {
@@ -177,4 +213,4 @@ print orderedListByRank
 
 print "Length of ordered list: %d" % len(orderedListByRank)
 for x in orderedListByRank:
-    print x.thisPokemonRanking, x.thisPokemonName
+    print x.thisPokemonRanking, x.thisPokemonName, x.totalNumberOfThisPokemon
