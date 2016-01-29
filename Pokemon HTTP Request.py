@@ -115,25 +115,25 @@ class Pokemon:
     def PrintAllData(self):
         print str(self.thisPokemonRanking)+':', self.thisPokemonName
         print "Moves used:"
-        self.PrintNumericalData(movesThatThisPokemonUses, 'name')
+        self.PrintNumericalData(self.movesThatThisPokemonUses, 'name')
         print "\n ---------- \n"
         print "Items used:"        
-        self.PrintNumericalData(itemsThatThisPokemonUses, 'name')
+        self.PrintNumericalData(self.itemsThatThisPokemonUses, 'name')
         print "\n ---------- \n"
         print "Abilities used:"
-        self.PrintNumericalData(abilitiesThatThisPokemonUses, 'name')
+        self.PrintNumericalData(self.abilitiesThatThisPokemonUses, 'name')
         print "\n ---------- \n"
         print "Natures used:"
-        self.PrintNumericalData(naturesThatThisPokemonUses, 'name')
+        self.PrintNumericalData(self.naturesThatThisPokemonUses, 'name')
         print "\n ---------- \n"
         print "Top teammates:"
         self.PrintNonNumericalData(self.pokemonOnTheSameTeamWithThisPokemon)
         print "\n ---------- \n"
         print "Moves that this pokemon KOs with:"
-        self.PrintNumericalData(movesThatThisPokemonKOsWith, 'wazaName')
+        self.PrintNumericalData(self.movesThatThisPokemonKOsWith, 'wazaName')
         print "\n ---------- \n"
         print "Moves that KO this pokemon:"
-        self.PrintNumericalData(movesThatKOThisPokemon, 'wazaName')
+        self.PrintNumericalData(self.movesThatKOThisPokemon, 'wazaName')
         print "\n ---------- \n"
         print "Pokemon that this pokemon KOs:"
         self.PrintNonNumericalData(self.pokemonThatThisPokemonKOs)
