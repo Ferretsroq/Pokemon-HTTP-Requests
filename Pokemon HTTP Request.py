@@ -132,6 +132,20 @@ def orderByRanking(listOfPokemon):
 
 	return orderedList
 
+def gcd(a,b):
+    while b:
+        a,b = b, a%b
+    return a
+
+def lcm(a,b):
+    return a * b // gcd(a,b)
+
+def lcmForList(inputList):
+    temp_lcm = 1
+    for number in inputList:
+        temp_lcm = lcm(temp_lcm, inputList[number])
+    return temp_lcm
+
 headersDictionary = {
 	'Accept' : '*/*',
 	'Accept-Encoding' : 'gzip, deflate',
