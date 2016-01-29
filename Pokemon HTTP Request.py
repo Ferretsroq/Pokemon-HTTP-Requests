@@ -29,6 +29,50 @@ def GetData(pokemonID):
     pokemonData = json.loads(requests.post(url, data=requestDataString, headers=headersDictionary).text)
     return pokemonData
 
+def GetFormeData():
+    returnList = []
+    pokemonWithFormes = {
+        'Rotom-H' : '479-1',
+        'Rotom-W' : '479-2',
+        'Rotom-Frost' : '479-3',
+        'Rotom-Fan' : '479-4',
+        'Rotom-M' : '479-5',
+        'Giratina-O' : '487-1',
+        'Tornadus-T' : '641-1',
+        'Thundurus-T' : '642-1',
+        'Landorus-T' : '645-1',
+        'Kyurem-W' : '646-1',
+        'Kyurem-B' : '646-2',
+        'Meowstic-F' : '678-1',
+        'Gourgeist-Small' : '711-1',
+        'Gourgeist-Large' : '711-2',
+        'Gourgeist-Super' : '711-3'
+        }
+    for pokemon in pokemonWithFormes:
+        requestDataList = [
+        'languageId=2',
+        'seasonId=114',
+        'battleType=5',
+        'timezone=EST',
+        'pokemonId=%s' % (pokemonWithFormes[pokemon]),
+        'displayNumberWaza=20',
+        'displayNumberTokusei=3',
+        'displayNumberSeikaku=20',
+        'displayNumberItem=20',
+        'displayNumberLevel=20',
+        'displayNumberPokemonIn=20',
+        'displayNumberPokemonDown=20',
+        'displayNumberPokemonDownWaza=20',
+        'timeStamp=1453422223192'
+        ]
+        requestDataString = "&".join(requestDataList)
+        print "Now obtaining %s!" % (pokemon)
+        pokemonData = json.loads(requests.post(url, data=requestDataString, headers=headersDictionary).text)
+        pokemonData['rankingPokemonInfo']['name'] = pokemon
+        print "We obtained %s!" % (pokemon)
+        returnList.append(Pokemon(pokemonData))
+    return returnList
+        
 class Pokemon:
     def __init__(self, pokemonData):
         self.thisPokemonName = pokemonData['rankingPokemonInfo']['name']
@@ -106,10 +150,13 @@ url = "http://3ds.pokemon-gl.com/frontendApi/gbu/getSeasonPokemonDetail"
 
 
 pokemonList = [0]
+alternateFormesList = GetFormeData()
 
 for dexNumber in range(720):
     pokemonList.append(Pokemon(GetData(dexNumber+1)))
     print unicode(pokemonList[dexNumber+1])
+
+pokemonList = pokemonList + alternateFormesList
 
 orderedListByRank = orderByRanking(pokemonList)
 print orderedListByRank
