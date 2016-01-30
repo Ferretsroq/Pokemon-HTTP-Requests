@@ -1,14 +1,21 @@
+# Pokemon HTTP Request
+# This program pulls additional data from the Pokemon GL website
+# to obtain more in-depth statistics
+
 from lxml import html
 import requests
 import json
 from fractions import Fraction
+import os
 
 def PrintData(section, name):
+    '''A debugging function to print out individual blocks of data'''
     for block in section:
         print block['ranking'], block[name], block['usageRate']
     print "\n ---------- \n"
 
 def GetData(pokemonID):
+    '''Pulls the json data from PGL and converts it to a usable dictionary'''
     requestDataList = [
         'languageId=2',
         'seasonId=114',
@@ -30,6 +37,8 @@ def GetData(pokemonID):
     return pokemonData
 
 def GetFormeData():
+    '''Need to make manual HTTP requests for pokemon with alternate formes
+        yes it's supposed to be spelled that way. I hate it too.'''
     returnList = []
     pokemonWithFormes = {
         'Rotom-H' : '479-1',
@@ -74,6 +83,7 @@ def GetFormeData():
     return returnList
         
 class Pokemon:
+    '''Holds all the data for a pokemon. Probably too big.'''
     def __init__(self, pokemonData):
         self.thisPokemonName = pokemonData['rankingPokemonInfo']['name']
         if(pokemonData['rankingPokemonTrend']):
@@ -94,6 +104,11 @@ class Pokemon:
             self.PopulatePercentages(self.abilitiesThatThisPokemonUses)
             self.PopulatePercentages(self.naturesThatThisPokemonUses)
             self.totalNumberOfThisPokemon = self.CalculateTotalNumber()
+            self.CorrectBlankEntries(self.movesThatThisPokemonKOsWith, 'wazaName')
+            self.CorrectBlankEntries(self.movesThatThisPokemonUses, 'name')
+            self.CorrectBlankEntries(self.itemsThatThisPokemonUses, 'name')
+            self.CorrectBlankEntries(self.naturesThatThisPokemonUses, 'name')
+            self.CorrectBlankEntries(self.movesThatKOThisPokemon, 'wazaName')
     def __repr__(self):
         return self.thisPokemonName
     def PopulatePercentages(self, numericalData):
@@ -104,84 +119,104 @@ class Pokemon:
                 self.listOfDenominators.append((Fraction(percentage).limit_denominator()).denominator)
     def CalculateTotalNumber(self):
         return lcmForList(self.listOfDenominators)
-    def PrintNumericalData(self, numericalData, name):
+    def WriteNumericalData(self, numericalData, name, textFile):
         if(numericalData):
             for element in numericalData:
-                print element['ranking'], element[name], str(element['usageRate'])+"%", self.totalNumberOfThisPokemon*element['usageRate']
-    def PrintNonNumericalData(self, nonNumericalData):
+                textFile.write(str(element['ranking'])+':'+ element[name]+','+ str(element['usageRate'])+"%"+','+ str(self.totalNumberOfThisPokemon*element['usageRate'])+'\n')
+    def WriteNonNumericalData(self, nonNumericalData, textFile):
         if(nonNumericalData):
             for element in nonNumericalData:
-                print element['ranking'], element['name']
-    def PrintAllData(self):
-        print str(self.thisPokemonRanking)+':', self.thisPokemonName
-        print "Moves used:"
-        self.PrintNumericalData(self.movesThatThisPokemonUses, 'name')
-        print "\n ---------- \n"
-        print "Items used:"        
-        self.PrintNumericalData(self.itemsThatThisPokemonUses, 'name')
-        print "\n ---------- \n"
-        print "Abilities used:"
-        self.PrintNumericalData(self.abilitiesThatThisPokemonUses, 'name')
-        print "\n ---------- \n"
-        print "Natures used:"
-        self.PrintNumericalData(self.naturesThatThisPokemonUses, 'name')
-        print "\n ---------- \n"
-        print "Top teammates:"
-        self.PrintNonNumericalData(self.pokemonOnTheSameTeamWithThisPokemon)
-        print "\n ---------- \n"
-        print "Moves that this pokemon KOs with:"
-        self.PrintNumericalData(self.movesThatThisPokemonKOsWith, 'wazaName')
-        print "\n ---------- \n"
-        print "Moves that KO this pokemon:"
-        self.PrintNumericalData(self.movesThatKOThisPokemon, 'wazaName')
-        print "\n ---------- \n"
-        print "Pokemon that this pokemon KOs:"
-        self.PrintNonNumericalData(self.pokemonThatThisPokemonKOs)
-        print "\n ---------- \n"
-        print "Pokemon that KO this pokemon:"
-        self.PrintNonNumericalData(self.pokemonThatKOThisPokemon)
-def orderByRanking(listOfPokemon):
-	numberOfRankedPokemon = 0
-	rankingNotFound = 0
-	numberOfPokemonWithoutThisRanking = 0
-	lowestNumber = 1
-	for pokemon in listOfPokemon:
-		if(hasattr(pokemon, 'thisPokemonRanking')):
-			numberOfRankedPokemon+=1
-	orderedList = []
-	print numberOfRankedPokemon
-	while(len(orderedList) < numberOfRankedPokemon):
-		numberOfPokemonWithoutThisRanking = 0
-		if(rankingNotFound==1): lowestNumber+=1
-		print "We are looking for rank %d" % (lowestNumber)
-		for pokemon in pokemonList:
-			if(hasattr(pokemon, 'thisPokemonRanking')):
-				if(pokemon.thisPokemonRanking == lowestNumber):
-					orderedList.append(pokemon)
-					lowestNumber+=1
-					rankingNotFound = 0
-					print pokemon, pokemon.thisPokemonRanking
-				else:
-					numberOfPokemonWithoutThisRanking+=1
-					if(numberOfPokemonWithoutThisRanking == numberOfRankedPokemon):
-						rankingNotFound = 1
+                textFile.write(str(element['ranking'])+':'+ element['name']+'\n')
+    def CorrectBlankEntries(self, data, name):
+        if(data):
+            for element in data:
+                if(element['ranking'] == 0):
+                    if(element[name] == None):
+                        element[name] = 'Other'
+    def WriteAllData(self):
+        os.makedirs(os.path.join('.','Data',str(self.thisPokemonRanking)+'-'+self.thisPokemonName))
+        textFile = open(os.path.join('.','Data',str(self.thisPokemonRanking)+'-'+self.thisPokemonName,str(self.thisPokemonRanking)+'-'+self.thisPokemonName+'.txt'),'w')
 
-	return orderedList
+        textFile.write(str(self.thisPokemonRanking)+':'+ self.thisPokemonName)
+        textFile.write("\n ---------- \n")
+        textFile.write("Moves used:\n")
+        self.WriteNumericalData(self.movesThatThisPokemonUses, 'name', textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Items used:\n")
+        self.WriteNumericalData(self.itemsThatThisPokemonUses, 'name', textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Abilities used:\n")
+        self.WriteNumericalData(self.abilitiesThatThisPokemonUses, 'name', textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Natures used:\n")
+        self.WriteNumericalData(self.naturesThatThisPokemonUses, 'name', textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Top teammates:\n")
+        self.WriteNonNumericalData(self.pokemonOnTheSameTeamWithThisPokemon, textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Moves that this pokemon KOs with:\n")
+        self.WriteNumericalData(self.movesThatThisPokemonKOsWith, 'wazaName', textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Moves that KO this pokemon:\n")
+        self.WriteNumericalData(self.movesThatKOThisPokemon, 'wazaName', textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Pokemon that this pokemon KOs:\n")
+        self.WriteNonNumericalData(self.pokemonThatThisPokemonKOs,textFile)
+        textFile.write("\n ---------- \n")
+        textFile.write("Pokemon that KO this pokemon:\n")
+        self.WriteNonNumericalData(self.pokemonThatKOThisPokemon, textFile)
+        textFile.close()
+
+        
+def orderByRanking(listOfPokemon):
+    '''Orders the list of pokemon by their ranking on Battle Spot'''
+    numberOfRankedPokemon = 0
+    rankingNotFound = 0
+    numberOfPokemonWithoutThisRanking = 0
+    lowestNumber = 1
+    for pokemon in listOfPokemon:
+        if(hasattr(pokemon, 'thisPokemonRanking')):
+            numberOfRankedPokemon+=1
+    orderedList = []
+    print numberOfRankedPokemon
+    while(len(orderedList) < numberOfRankedPokemon):
+        numberOfPokemonWithoutThisRanking = 0
+        if(rankingNotFound==1): lowestNumber+=1
+        print "We are looking for rank %d" % (lowestNumber)
+        for pokemon in pokemonList:
+            if(hasattr(pokemon, 'thisPokemonRanking')):
+                if(pokemon.thisPokemonRanking == lowestNumber):
+                    orderedList.append(pokemon)
+                    lowestNumber+=1
+                    rankingNotFound = 0
+                    print pokemon, pokemon.thisPokemonRanking
+                else:
+                    numberOfPokemonWithoutThisRanking+=1
+                    if(numberOfPokemonWithoutThisRanking == numberOfRankedPokemon):
+                        rankingNotFound = 1
+
+    return orderedList
 
 def gcd(a,b):
+    '''Calculates Greatest Common Denominator for two numbers'''
     while b:
         a,b = b, a%b
     return a
 
 def lcm(a,b):
+    '''Calculates the Least Common Multiple for two numbers'''
     return a * b // gcd(a,b)
 
 def lcmForList(inputList):
+    '''Calculates the Least Common Multiple for a list of numbers'''
     temp_lcm = 1
     for number in inputList:
         temp_lcm = lcm(temp_lcm, number)
     return temp_lcm
 
+'''These hold some data for the HTTP request
+    As far as I know, the cookie and timestamp don't affect anything,
+    but the request returns an error if they are blank.'''
 headersDictionary = {
 	'Accept' : '*/*',
 	'Accept-Encoding' : 'gzip, deflate',
@@ -202,15 +237,19 @@ url = "http://3ds.pokemon-gl.com/frontendApi/gbu/getSeasonPokemonDetail"
 pokemonList = [0]
 alternateFormesList = GetFormeData()
 
+'''Populates the pokemonList with every pokemon'''
 for dexNumber in range(720):
     pokemonList.append(Pokemon(GetData(dexNumber+1)))
     print unicode(pokemonList[dexNumber+1])
 
 pokemonList = pokemonList + alternateFormesList
 
+'''Creates an ordered list, ordered by Battle Spot ranking'''
 orderedListByRank = orderByRanking(pokemonList)
 print orderedListByRank
 
 print "Length of ordered list: %d" % len(orderedListByRank)
+'''Writes the data to text files'''
 for x in orderedListByRank:
     print x.thisPokemonRanking, x.thisPokemonName, x.totalNumberOfThisPokemon
+    x.WriteAllData()

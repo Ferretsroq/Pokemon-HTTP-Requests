@@ -1,0 +1,113 @@
+79:Landorus
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,5600.0
+2:Protect,85.7142857143%,4800.0
+3:Sludge Bomb,67.8571428571%,3800.0
+4:Hidden Power,44.6428571429%,2500.0
+5:Grass Knot,25.0%,1400.0
+6:Stone Edge,19.6428571429%,1100.0
+7:Psychic,19.6428571429%,1100.0
+8:Knock Off,12.5%,700.0
+9:Rock Slide,12.5%,700.0
+10:Superpower,7.14285714286%,400.0
+11:Focus Blast,3.57142857143%,200.0
+12:Sludge Wave,1.78571428571%,100.0
+
+ ---------- 
+Items used:
+1:Life Orb,82.1428571429%,4600.0
+2:Assault Vest,7.14285714286%,400.0
+3:Choice Specs,5.35714285714%,300.0
+4:Expert Belt,3.57142857143%,200.0
+5:Choice Scarf,1.78571428571%,100.0
+
+ ---------- 
+Abilities used:
+1:Sand Force,100.0%,5600.0
+
+ ---------- 
+Natures used:
+1:Timid,55.3571428571%,3100.0
+2:Modest,25.0%,1400.0
+3:Hasty,7.14285714286%,400.0
+4:Docile,7.14285714286%,400.0
+5:Adamant,5.35714285714%,300.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Ferrothorn
+5:Xerneas
+6:Dialga
+7:Talonflame
+8:Smeargle
+9:Liepard
+10:Salamence
+11:Whimsicott
+12:Cresselia
+13:Infernape
+14:Yveltal
+15:Mawile
+16:Crobat
+17:Meowstic
+18:Giratina
+19:Rayquaza
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,61.9047619048%,3466.66666667
+2:Hidden Power,23.8095238095%,1333.33333333
+3:Stone Edge,9.52380952381%,533.333333333
+4:Sludge Bomb,4.7619047619%,266.666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.8108108108%,605.405405405
+2:Moonblast,10.8108108108%,605.405405405
+3:Brave Bird,8.10810810811%,454.054054054
+4:Flare Blitz,8.10810810811%,454.054054054
+5:Water Spout,8.10810810811%,454.054054054
+6:Eruption,8.10810810811%,454.054054054
+7:Dragon Ascent,5.40540540541%,302.702702703
+8:Origin Pulse,5.40540540541%,302.702702703
+9:Ice Beam,5.40540540541%,302.702702703
+10:Double-Edge,5.40540540541%,302.702702703
+11:Hex,2.7027027027%,151.351351351
+12:Icy Wind,2.7027027027%,151.351351351
+13:Psychic,2.7027027027%,151.351351351
+14:Low Kick,2.7027027027%,151.351351351
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Crobat
+5:Yveltal
+6:Sylveon
+7:Talonflame
+8:Landorus
+9:Mienshao
+10:Dialga
+11:Rayquaza
+12:Mawile
+13:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Kyogre
+4:Groudon
+5:Cresselia
+6:Rayquaza
+7:Kangaskhan
+8:Gengar
+9:Lopunny
+10:Gastrodon
+11:Kyogre
+12:Ho-Oh

@@ -1,0 +1,165 @@
+23:Palkia
+ ---------- 
+Moves used:
+1:Spacial Rend,98.5703536494%,131000.0
+2:Earth Power,84.8006019564%,112700.0
+3:Protect,77.2009029345%,102600.0
+4:Trick Room,64.0331075997%,85100.0
+5:Hydro Pump,25.5079006772%,33900.0
+6:Flamethrower,13.0925507901%,17400.0
+7:Gravity,10.3085026336%,13700.0
+8:Thunder,8.50263355907%,11300.0
+9:Draco Meteor,4.13844996238%,5500.0
+10:Ice Beam,3.8374717833%,5100.0
+11:Fire Blast,2.40782543266%,3200.0
+12:Aura Sphere,2.0316027088%,2700.0
+13:Thunderbolt,1.58013544018%,2100.0
+14:Power Gem,1.35440180587%,1800.0
+15:Dragon Pulse,1.35440180587%,1800.0
+16:Thunder Wave,0.677200902935%,900.0
+17:Surf,0.225733634312%,300.0
+18:Safeguard,0.150489089541%,200.0
+19:Dragon Tail,0.0752445447705%,100.0
+20:Substitute,0.0752445447705%,100.0
+0:Other,0.0752445447705%,100.0
+
+ ---------- 
+Items used:
+1:Haban Berry,36.5688487585%,48600.0
+2:Lum Berry,14.5974416855%,19400.0
+3:Life Orb,11.5124153499%,15300.0
+4:Lustrous Orb,9.85703536494%,13100.0
+5:Choice Specs,7.82543265613%,10400.0
+6:Leftovers,4.28893905192%,5700.0
+7:Roseli Berry,4.21369450715%,5600.0
+8:Expert Belt,3.23551542513%,4300.0
+9:Mental Herb,3.16027088036%,4200.0
+10:Focus Sash,1.42964635064%,1900.0
+11:Choice Scarf,0.978179082017%,1300.0
+12:Assault Vest,0.827689992476%,1100.0
+13:Sitrus Berry,0.752445447705%,1000.0
+14:Macho Brace,0.677200902935%,900.0
+15:Yache Berry,0.0752445447705%,100.0
+
+ ---------- 
+Abilities used:
+1:Pressure,85.252069225%,113300.0
+2:Telepathy,14.747930775%,19600.0
+
+ ---------- 
+Natures used:
+1:Timid,40.0300978179%,53200.0
+2:Quiet,30.0225733634%,39900.0
+3:Modest,16.6290443943%,22100.0
+4:Sassy,9.48081264108%,12600.0
+5:Relaxed,1.80586907449%,2400.0
+6:Calm,1.12866817156%,1500.0
+7:Mild,0.677200902935%,900.0
+8:Bold,0.225733634312%,300.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Cresselia
+4:Mawile
+5:Talonflame
+6:Landorus
+7:Ferrothorn
+8:Kyogre
+9:Gengar
+10:Xerneas
+11:Liepard
+12:Amoonguss
+13:Smeargle
+14:Salamence
+15:Crobat
+16:Scizor
+17:Thundurus
+18:Mewtwo
+19:Infernape
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Spacial Rend,57.3091849935%,76163.9068564
+2:Earth Power,29.107373868%,38683.6998706
+3:Hydro Pump,5.43337645537%,7220.95730918
+4:Flamethrower,3.36351875809%,4470.1164295
+5:Ice Beam,2.06985769728%,2750.84087969
+6:Thunder,0.905562742561%,1203.49288486
+7:Dragon Pulse,0.646830530401%,859.637774903
+8:Draco Meteor,0.517464424321%,687.710219922
+9:Aura Sphere,0.25873221216%,343.855109961
+10:Thunderbolt,0.25873221216%,343.855109961
+11:Fire Blast,0.12936610608%,171.927554981
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.8153446034%,23676.5929779
+2:Precipice Blades,10.533159948%,13998.5695709
+3:Moonblast,6.63198959688%,8813.91417425
+4:Double-Edge,5.72171651495%,7604.16124837
+5:Ice Beam,4.81144343303%,6394.4083225
+6:Dragon Ascent,3.90117035111%,5184.65539662
+7:Play Rough,3.7711313394%,5011.83355007
+8:Draco Meteor,3.51105331599%,4666.18985696
+9:Brave Bird,3.51105331599%,4666.18985696
+10:Sucker Punch,2.47074122237%,3283.61508453
+11:Spacial Rend,2.21066319896%,2937.97139142
+12:Earth Power,2.08062418726%,2765.14954486
+13:Power Whip,1.95058517555%,2592.32769831
+14:Origin Pulse,1.82054616385%,2419.50585176
+15:Return,1.69050715215%,2246.6840052
+16:Hyper Voice,1.56046814044%,2073.86215865
+17:Dragon Claw,1.30039011704%,1728.21846554
+18:Rock Slide,1.30039011704%,1728.21846554
+19:Earthquake,1.30039011704%,1728.21846554
+20:Foul Play,1.17035110533%,1555.39661899
+0:Other,17.6853055917%,23503.7711313
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Talonflame
+6:Rayquaza
+7:Mawile
+8:Smeargle
+9:Cresselia
+10:Xerneas
+11:Yveltal
+12:Crobat
+13:Rayquaza
+14:Thundurus
+15:Landorus
+16:Ferrothorn
+17:Dialga
+18:Palkia
+19:Gengar
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Mawile
+7:Salamence
+8:Ferrothorn
+9:Talonflame
+10:Yveltal
+11:Landorus
+12:Palkia
+13:Smeargle
+14:Cresselia
+15:Dialga
+16:Rayquaza
+17:Thundurus
+18:Kyurem
+19:Ho-Oh
+20:Gengar

@@ -1,0 +1,47 @@
+159:Gothorita
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,800.0
+2:Protect,100.0%,800.0
+3:Skill Swap,87.5%,700.0
+4:Heal Pulse,75.0%,600.0
+5:Gravity,25.0%,200.0
+6:Helping Hand,12.5%,100.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,800.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,800.0
+
+ ---------- 
+Natures used:
+1:Sassy,87.5%,700.0
+2:Calm,12.5%,100.0
+
+ ---------- 
+Top teammates:
+1:Ferrothorn
+2:Kyogre
+3:Smeargle
+4:Xerneas
+5:Rayquaza
+6:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,66.6666666667%,533.333333333
+2:Dazzling Gleam,33.3333333333%,266.666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
