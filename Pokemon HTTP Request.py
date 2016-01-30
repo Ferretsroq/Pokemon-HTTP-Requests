@@ -122,7 +122,7 @@ class Pokemon:
     def WriteNumericalData(self, numericalData, name, textFile):
         if(numericalData):
             for element in numericalData:
-                textFile.write(str(element['ranking'])+':'+ element[name]+','+ str(element['usageRate'])+"%"+','+ str(self.totalNumberOfThisPokemon*element['usageRate'])+'\n')
+                textFile.write(str(element['ranking'])+':'+ element[name]+','+ str(element['usageRate'])+"%"+','+ str(self.totalNumberOfThisPokemon*element['usageRate']/100)+'\n')
     def WriteNonNumericalData(self, nonNumericalData, textFile):
         if(nonNumericalData):
             for element in nonNumericalData:
@@ -137,7 +137,7 @@ class Pokemon:
         os.makedirs(os.path.join('.','Data',str(self.thisPokemonRanking)+'-'+self.thisPokemonName))
         textFile = open(os.path.join('.','Data',str(self.thisPokemonRanking)+'-'+self.thisPokemonName,str(self.thisPokemonRanking)+'-'+self.thisPokemonName+'.txt'),'w')
 
-        textFile.write(str(self.thisPokemonRanking)+':'+ self.thisPokemonName)
+        textFile.write(str(self.thisPokemonRanking)+':'+ self.thisPokemonName+'|'+str(self.totalNumberOfThisPokemon))
         textFile.write("\n ---------- \n")
         textFile.write("Moves used:\n")
         self.WriteNumericalData(self.movesThatThisPokemonUses, 'name', textFile)
