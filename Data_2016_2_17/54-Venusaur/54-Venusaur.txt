@@ -1,0 +1,154 @@
+54:Venusaur|476
+ ---------- 
+Moves used:
+1:Sludge Bomb,98.1092436975%,467.0
+2:Protect,78.9915966387%,376.0
+3:Sleep Powder,74.3697478992%,354.0
+4:Giga Drain,54.2016806723%,258.0
+5:Grass Knot,42.0168067227%,200.0
+6:Leech Seed,15.9663865546%,76.0
+7:Worry Seed,9.66386554622%,46.0
+8:Hidden Power,9.66386554622%,46.0
+9:Synthesis,8.82352941176%,42.0
+10:Safeguard,1.47058823529%,7.0
+11:Substitute,1.26050420168%,6.0
+12:Grass Pledge,1.05042016807%,5.0
+13:Amnesia,1.05042016807%,5.0
+14:Solar Beam,1.05042016807%,5.0
+15:Leaf Storm,0.63025210084%,3.0
+16:Seed Bomb,0.420168067227%,2.0
+17:Toxic,0.420168067227%,2.0
+18:Growth,0.420168067227%,2.0
+19:Energy Ball,0.210084033613%,1.0
+20:Earthquake,0.210084033613%,1.0
+0:Other,2.8088642523e-14%,1.3370193841e-13
+
+ ---------- 
+Items used:
+1:Venusaurite,49.3697478992%,235.0
+2:Wide Lens,29.6218487395%,141.0
+3:Life Orb,7.35294117647%,35.0
+4:Focus Sash,6.3025210084%,30.0
+5:Black Sludge,4.6218487395%,22.0
+6:Leftovers,1.47058823529%,7.0
+7:Sitrus Berry,0.63025210084%,3.0
+8:Coba Berry,0.420168067227%,2.0
+9:Zoom Lens,0.210084033613%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,92.2268907563%,439.0
+2:Overgrow,7.7731092437%,37.0
+
+ ---------- 
+Natures used:
+1:Modest,44.3277310924%,211.0
+2:Bold,25.6302521008%,122.0
+3:Timid,20.1680672269%,96.0
+4:Calm,6.51260504202%,31.0
+5:Quiet,2.52100840336%,12.0
+6:Serious,0.420168067227%,2.0
+7:Relaxed,0.420168067227%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Talonflame
+6:Salamence
+7:Ho-Oh
+8:Cresselia
+9:Aegislash
+10:Landorus
+11:Yveltal
+12:Rayquaza
+13:Thundurus
+14:Crobat
+15:Palkia
+16:Carbink
+17:Liepard
+18:Dialga
+19:Mienshao
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,51.6304347826%,245.760869565
+2:Giga Drain,25.0%,119.0
+3:Grass Knot,20.1086956522%,95.7173913043
+4:Hidden Power,1.63043478261%,7.76086956522
+5:Leaf Storm,0.54347826087%,2.58695652174
+6:Seed Bomb,0.54347826087%,2.58695652174
+7:Earthquake,0.54347826087%,2.58695652174
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,12.4590163934%,59.3049180328
+2:Eruption,8.52459016393%,40.5770491803
+3:Dazzling Gleam,8.19672131148%,39.0163934426
+4:Dragon Ascent,7.54098360656%,35.8950819672
+5:Precipice Blades,7.54098360656%,35.8950819672
+6:Ice Beam,7.54098360656%,35.8950819672
+7:Hyper Voice,5.24590163934%,24.9704918033
+8:Fire Punch,3.93442622951%,18.7278688525
+9:Brave Bird,2.95081967213%,14.0459016393
+10:Return,2.62295081967%,12.4852459016
+11:Origin Pulse,2.29508196721%,10.9245901639
+12:Moonblast,1.96721311475%,9.36393442623
+13:Gyro Ball,1.96721311475%,9.36393442623
+14:Sludge Bomb,1.96721311475%,9.36393442623
+15:Water Spout,1.6393442623%,7.80327868852
+16:Psychic,1.6393442623%,7.80327868852
+17:Spacial Rend,1.31147540984%,6.24262295082
+18:Draco Meteor,1.31147540984%,6.24262295082
+19:Rock Slide,1.31147540984%,6.24262295082
+20:Earthquake,1.31147540984%,6.24262295082
+0:Other,15.737704918%,74.9114754098
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Liepard
+6:Smeargle
+7:Talonflame
+8:Cresselia
+9:Togekiss
+10:Rayquaza
+11:Salamence
+12:Crobat
+13:Thundurus
+14:Whimsicott
+15:Palkia
+16:Rotom
+17:Yveltal
+18:Greninja
+19:Landorus
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Rayquaza
+9:Landorus
+10:Ferrothorn
+11:Cresselia
+12:Palkia
+13:Yveltal
+14:Dialga
+15:Smeargle
+16:Gengar
+17:Tornadus
+18:Gothitelle
+19:Giratina
+20:Weavile

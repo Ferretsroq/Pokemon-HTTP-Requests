@@ -1,0 +1,94 @@
+155:Walrein|34
+ ---------- 
+Moves used:
+1:Icy Wind,100.0%,34.0
+2:Super Fang,100.0%,34.0
+3:Ice Beam,100.0%,34.0
+4:Brine,50.0%,17.0
+5:Sheer Cold,50.0%,17.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,34.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Modest,70.5882352941%,24.0
+2:Bold,29.4117647059%,10.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Mewtwo
+4:Rayquaza
+5:Thundurus
+6:Kangaskhan
+7:Chandelure
+8:Infernape
+9:Mawile
+10:Crobat
+11:Ferrothorn
+12:Meowstic
+13:Terrakion
+14:Gengar
+15:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,57.1428571429%,19.4285714286
+2:Icy Wind,32.1428571429%,10.9285714286
+3:Brine,7.14285714286%,2.42857142857
+4:Sheer Cold,3.57142857143%,1.21428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,21.0526315789%,7.15789473684
+2:Origin Pulse,15.7894736842%,5.36842105263
+3:Dazzling Gleam,10.5263157895%,3.57894736842
+4:Moonblast,10.5263157895%,3.57894736842
+5:Precipice Blades,5.26315789474%,1.78947368421
+6:Psyshock,5.26315789474%,1.78947368421
+7:Iron Head,5.26315789474%,1.78947368421
+8:Zen Headbutt,5.26315789474%,1.78947368421
+9:Water Spout,5.26315789474%,1.78947368421
+10:Hyper Voice,5.26315789474%,1.78947368421
+11:Shadow Ball,5.26315789474%,1.78947368421
+12:Double-Edge,5.26315789474%,1.78947368421
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Groudon
+3:Salamence
+4:Crobat
+5:Talonflame
+6:Thundurus
+7:Tornadus
+8:Yveltal
+9:Goodra
+10:Landorus
+11:Ferrothorn
+12:Giratina
+13:Palkia
+14:Rayquaza
+15:Swampert
+16:Kangaskhan
+17:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Kyogre
+4:Cresselia
+5:Groudon
+6:Metagross
+7:Salamence
+8:Mawile
+9:Kangaskhan
+10:Gengar

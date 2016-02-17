@@ -1,0 +1,59 @@
+145:Zygarde|1
+ ---------- 
+Moves used:
+1:Land's Wrath,100.0%,1.0
+2:Extreme Speed,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Glare,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Aura Break,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Weavile
+3:Rayquaza
+4:Metagross
+5:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Land's Wrath,80.0%,0.8
+2:Extreme Speed,20.0%,0.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,27.2727272727%,0.272727272727
+2:Dazzling Gleam,18.1818181818%,0.181818181818
+3:Ice Beam,18.1818181818%,0.181818181818
+4:Precipice Blades,9.09090909091%,0.0909090909091
+5:Origin Pulse,9.09090909091%,0.0909090909091
+6:Dragon Claw,9.09090909091%,0.0909090909091
+7:Eruption,9.09090909091%,0.0909090909091
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Klefki
+2:Kyogre
+3:Mawile
+4:Smeargle
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Whimsicott
+5:Cresselia
+6:Rayquaza

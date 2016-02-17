@@ -1,0 +1,45 @@
+245:Beedrill|3
+ ---------- 
+Moves used:
+1:Poison Jab,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Twineedle,100.0%,3.0
+4:X-Scissor,66.6666666667%,2.0
+5:Pursuit,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Beedrillite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Swarm,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Landorus
+4:Liepard
+5:Entei
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Poison Jab,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,50.0%,1.5
+2:Return,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

@@ -1,0 +1,90 @@
+146:Darmanitan|25
+ ---------- 
+Moves used:
+1:Flare Blitz,100.0%,25.0
+2:Rock Slide,92.0%,23.0
+3:Zen Headbutt,48.0%,12.0
+4:U-turn,48.0%,12.0
+5:Superpower,44.0%,11.0
+6:Protect,44.0%,11.0
+7:Earthquake,12.0%,3.0
+8:Giga Impact,4.0%,1.0
+9:Rock Tomb,4.0%,1.0
+10:Thrash,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,48.0%,12.0
+2:Choice Scarf,44.0%,11.0
+3:Choice Band,8.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,25.0
+
+ ---------- 
+Natures used:
+1:Jolly,64.0%,16.0
+2:Adamant,36.0%,9.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Ferrothorn
+4:Groudon
+5:Rayquaza
+6:Aromatisse
+7:Salamence
+8:Xerneas
+9:Kangaskhan
+10:Parasect
+11:Talonflame
+12:Thundurus
+13:Smeargle
+14:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,41.6666666667%,10.4166666667
+2:Rock Slide,25.0%,6.25
+3:U-turn,16.6666666667%,4.16666666667
+4:Zen Headbutt,8.33333333333%,2.08333333333
+5:Thrash,8.33333333333%,2.08333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,25.0%,6.25
+2:Precipice Blades,18.75%,4.6875
+3:Sucker Punch,12.5%,3.125
+4:Dazzling Gleam,6.25%,1.5625
+5:Earth Power,6.25%,1.5625
+6:Brave Bird,6.25%,1.5625
+7:Gyro Ball,6.25%,1.5625
+8:Water Spout,6.25%,1.5625
+9:Eruption,6.25%,1.5625
+10:Return,6.25%,1.5625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Cresselia
+2:Kangaskhan
+3:Talonflame
+4:Thundurus
+5:Ferrothorn
+6:Groudon
+7:Kyogre
+8:Ho-Oh
+9:Crobat
+10:Jynx
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Talonflame
+6:Ferrothorn
+7:Mawile
+8:Kangaskhan

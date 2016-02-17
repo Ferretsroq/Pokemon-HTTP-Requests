@@ -1,0 +1,48 @@
+214:Regigigas|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Drain Punch,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Slow Start,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Kangaskhan
+4:Xerneas
+5:Thundurus
+6:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,33.3333333333%,0.333333333333
+2:Play Rough,33.3333333333%,0.333333333333
+3:Fire Punch,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Mawile

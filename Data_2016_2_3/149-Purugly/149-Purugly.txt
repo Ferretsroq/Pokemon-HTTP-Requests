@@ -1,0 +1,64 @@
+149:Purugly|1
+ ---------- 
+Moves used:
+1:U-turn,100.0%,1.0
+2:Fake Out,100.0%,1.0
+3:Super Fang,100.0%,1.0
+4:Hypnosis,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mewtwo
+3:Crobat
+4:Houndoom
+5:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:U-turn,85.7142857143%,0.857142857143
+2:Fake Out,14.2857142857%,0.142857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.2727272727%,0.272727272727
+2:Oblivion Wing,9.09090909091%,0.0909090909091
+3:Foul Play,9.09090909091%,0.0909090909091
+4:Earth Power,9.09090909091%,0.0909090909091
+5:Dark Pulse,9.09090909091%,0.0909090909091
+6:Rock Slide,9.09090909091%,0.0909090909091
+7:Thunderbolt,9.09090909091%,0.0909090909091
+8:Low Kick,9.09090909091%,0.0909090909091
+9:Double-Edge,9.09090909091%,0.0909090909091
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Talonflame
+3:Landorus
+4:Cresselia
+5:Infernape
+6:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Thundurus
+3:Yveltal
+4:Terrakion
+5:Palkia
+6:Sneasel
+7:Ditto
+8:Kangaskhan

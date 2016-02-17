@@ -1,0 +1,118 @@
+81:Giratina|5
+ ---------- 
+Moves used:
+1:Shadow Force,60.0%,3.0
+2:Draco Meteor,60.0%,3.0
+3:Shadow Sneak,40.0%,2.0
+4:Earth Power,40.0%,2.0
+5:Will-O-Wisp,40.0%,2.0
+6:Protect,40.0%,2.0
+7:Stone Edge,20.0%,1.0
+8:Dragon Pulse,20.0%,1.0
+9:Tailwind,20.0%,1.0
+10:Calm Mind,20.0%,1.0
+11:Dragon Claw,20.0%,1.0
+12:Shadow Ball,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,40.0%,2.0
+2:Weakness Policy,20.0%,1.0
+3:Leftovers,20.0%,1.0
+4:Haban Berry,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,80.0%,4.0
+2:Telepathy,20.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,40.0%,2.0
+2:Quiet,20.0%,1.0
+3:Adamant,20.0%,1.0
+4:Brave,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Salamence
+2:Whimsicott
+3:Mawile
+4:Gengar
+5:Xerneas
+6:Aromatisse
+7:Talonflame
+8:Greninja
+9:Landorus
+10:Thundurus
+11:Ferrothorn
+12:Audino
+13:Lickilicky
+14:Groudon
+15:Kyogre
+16:Swampert
+17:Ho-Oh
+18:Scizor
+19:Zapdos
+20:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,32.0%,1.6
+2:Shadow Sneak,20.0%,1.0
+3:Shadow Force,16.0%,0.8
+4:Shadow Ball,16.0%,0.8
+5:Draco Meteor,8.0%,0.4
+6:Dragon Pulse,8.0%,0.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.6363636364%,0.681818181818
+2:Dazzling Gleam,9.09090909091%,0.454545454545
+3:Draco Meteor,9.09090909091%,0.454545454545
+4:Sucker Punch,9.09090909091%,0.454545454545
+5:Earthquake,9.09090909091%,0.454545454545
+6:Origin Pulse,4.54545454545%,0.227272727273
+7:Moonblast,4.54545454545%,0.227272727273
+8:Earth Power,4.54545454545%,0.227272727273
+9:Brave Bird,4.54545454545%,0.227272727273
+10:Water Spout,4.54545454545%,0.227272727273
+11:Hyper Voice,4.54545454545%,0.227272727273
+12:Knock Off,4.54545454545%,0.227272727273
+13:Rock Slide,4.54545454545%,0.227272727273
+14:Ice Beam,4.54545454545%,0.227272727273
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Heatran
+4:Rayquaza
+5:Kangaskhan
+6:Yveltal
+7:Noivern
+8:Greninja
+9:Ferrothorn
+10:Cresselia
+11:Mamoswine
+12:Gastrodon
+13:Kyogre
+14:Salamence
+15:Manectric
+16:Mawile
+17:Gardevoir
+18:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Mawile
+5:Talonflame
+6:Landorus
+7:Weavile
+8:Gastrodon
+9:Rayquaza
+10:Salamence
+11:Altaria

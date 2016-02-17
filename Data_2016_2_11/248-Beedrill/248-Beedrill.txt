@@ -1,0 +1,55 @@
+248:Beedrill|4
+ ---------- 
+Moves used:
+1:Poison Jab,100.0%,4.0
+2:Protect,100.0%,4.0
+3:Twineedle,75.0%,3.0
+4:X-Scissor,50.0%,2.0
+5:Drill Run,25.0%,1.0
+6:U-turn,25.0%,1.0
+7:Pursuit,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Beedrillite,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Swarm,75.0%,3.0
+2:Sniper,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,75.0%,3.0
+2:Jolly,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Liepard
+3:Dialga
+4:Entei
+5:Yveltal
+6:Groudon
+7:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Poison Jab,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,1.0
+2:Shadow Force,25.0%,1.0
+3:Sucker Punch,25.0%,1.0
+4:Return,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Giratina
+3:Groudon

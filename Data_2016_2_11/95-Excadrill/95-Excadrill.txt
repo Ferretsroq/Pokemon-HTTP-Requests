@@ -1,0 +1,133 @@
+95:Excadrill|114
+ ---------- 
+Moves used:
+1:Iron Head,99.1228070175%,113.0
+2:Rock Slide,90.350877193%,103.0
+3:Earthquake,84.2105263158%,96.0
+4:Swords Dance,47.3684210526%,54.0
+5:Protect,30.701754386%,35.0
+6:Drill Run,21.0526315789%,24.0
+7:X-Scissor,7.01754385965%,8.0
+8:Shadow Claw,5.26315789474%,6.0
+9:Horn Drill,5.26315789474%,6.0
+10:Rock Tomb,3.50877192982%,4.0
+11:Sleep Talk,1.75438596491%,2.0
+12:Stealth Rock,0.877192982456%,1.0
+13:Facade,0.877192982456%,1.0
+14:Fissure,0.877192982456%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,53.5087719298%,61.0
+2:Expert Belt,15.7894736842%,18.0
+3:Choice Scarf,14.0350877193%,16.0
+4:Life Orb,12.2807017544%,14.0
+5:Assault Vest,2.63157894737%,3.0
+6:Choice Band,1.75438596491%,2.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,51.7543859649%,59.0
+2:Sand Rush,48.2456140351%,55.0
+
+ ---------- 
+Natures used:
+1:Jolly,60.5263157895%,69.0
+2:Adamant,39.4736842105%,45.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Talonflame
+5:Rayquaza
+6:Thundurus
+7:Kyogre
+8:Crobat
+9:Togekiss
+10:Salamence
+11:Meowstic
+12:Swampert
+13:Yveltal
+14:Greninja
+15:Kyurem
+16:Ho-Oh
+17:Klefki
+18:Dedenne
+19:Terrakion
+20:Mienshao
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,41.5384615385%,47.3538461538
+2:Rock Slide,27.6923076923%,31.5692307692
+3:Iron Head,18.4615384615%,21.0461538462
+4:Drill Run,10.7692307692%,12.2769230769
+5:Rock Tomb,1.53846153846%,1.75384615385
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,15.7142857143%,17.9142857143
+2:Precipice Blades,11.4285714286%,13.0285714286
+3:Dazzling Gleam,5.71428571429%,6.51428571429
+4:Moonblast,5.71428571429%,6.51428571429
+5:Earth Power,5.71428571429%,6.51428571429
+6:Water Spout,5.71428571429%,6.51428571429
+7:Low Kick,5.71428571429%,6.51428571429
+8:Origin Pulse,4.28571428571%,4.88571428571
+9:Flare Blitz,4.28571428571%,4.88571428571
+10:Sucker Punch,4.28571428571%,4.88571428571
+11:Power-Up Punch,2.85714285714%,3.25714285714
+12:Overheat,2.85714285714%,3.25714285714
+13:Flamethrower,2.85714285714%,3.25714285714
+14:Double-Edge,2.85714285714%,3.25714285714
+15:Dragon Ascent,1.42857142857%,1.62857142857
+16:Foul Play,1.42857142857%,1.62857142857
+17:Iron Head,1.42857142857%,1.62857142857
+18:Fire Fang,1.42857142857%,1.62857142857
+19:Feint,1.42857142857%,1.62857142857
+20:Gyro Ball,1.42857142857%,1.62857142857
+0:Other,8.57142857143%,9.77142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Talonflame
+5:Kyogre
+6:Mawile
+7:Smeargle
+8:Whimsicott
+9:Liepard
+10:Cresselia
+11:Crobat
+12:Gengar
+13:Landorus
+14:Ferrothorn
+15:Dialga
+16:Weavile
+17:Bronzong
+18:Sableye
+19:Entei
+20:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Talonflame
+6:Mawile
+7:Cresselia
+8:Rayquaza
+9:Salamence
+10:Kyurem
+11:Thundurus
+12:Mienshao
+13:Ferrothorn
+14:Rayquaza
+15:Zapdos
+16:Gengar

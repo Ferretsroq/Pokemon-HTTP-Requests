@@ -1,0 +1,70 @@
+117:Houndoom|3
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Solar Beam,66.6666666667%,2.0
+4:Role Play,33.3333333333%,1.0
+5:Heat Wave,33.3333333333%,1.0
+6:Fire Blast,33.3333333333%,1.0
+7:Flamethrower,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,66.6666666667%,2.0
+2:Unnerve,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Hasty,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Talonflame
+3:Liepard
+4:Groudon
+5:Xerneas
+6:Reshiram
+7:Thundurus
+8:Hydreigon
+9:Amoonguss
+10:Mawile
+11:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fire Blast,66.6666666667%,2.0
+2:Flamethrower,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,18.1818181818%,0.545454545455
+2:Dazzling Gleam,18.1818181818%,0.545454545455
+3:Double-Edge,18.1818181818%,0.545454545455
+4:Scald,9.09090909091%,0.272727272727
+5:Earth Power,9.09090909091%,0.272727272727
+6:Water Spout,9.09090909091%,0.272727272727
+7:Earthquake,9.09090909091%,0.272727272727
+8:Low Kick,9.09090909091%,0.272727272727
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Klefki
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Hydreigon
+4:Lopunny
+5:Kyogre
+6:Salamence
+7:Ludicolo
+8:Kangaskhan

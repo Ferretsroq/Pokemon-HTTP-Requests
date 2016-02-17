@@ -1,0 +1,84 @@
+125:Dewgong|96
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,96.0
+2:Perish Song,100.0%,96.0
+3:Disable,100.0%,96.0
+4:Protect,97.9166666667%,94.0
+5:Encore,2.08333333333%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,97.9166666667%,94.0
+2:Leftovers,1.04166666667%,1.0
+3:Lum Berry,1.04166666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,96.0
+
+ ---------- 
+Natures used:
+1:Sassy,97.9166666667%,94.0
+2:Calm,2.08333333333%,2.0
+
+ ---------- 
+Top teammates:
+1:Gothitelle
+2:Gengar
+3:Scrafty
+4:Liepard
+5:Clefairy
+6:Smeargle
+7:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fake Out,100.0%,96.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,10.0%,9.6
+2:Dazzling Gleam,8.0%,7.68
+3:Brave Bird,8.0%,7.68
+4:Moonblast,6.0%,5.76
+5:Power Whip,6.0%,5.76
+6:Spacial Rend,4.0%,3.84
+7:Water Spout,4.0%,3.84
+8:Eruption,4.0%,3.84
+9:Return,4.0%,3.84
+10:Rock Slide,4.0%,3.84
+11:Double-Edge,4.0%,3.84
+12:Precipice Blades,2.0%,1.92
+13:Power-Up Punch,2.0%,1.92
+14:Play Rough,2.0%,1.92
+15:Iron Head,2.0%,1.92
+16:Dark Pulse,2.0%,1.92
+17:Superpower,2.0%,1.92
+18:Sludge Bomb,2.0%,1.92
+19:Thunderbolt,2.0%,1.92
+20:Low Kick,2.0%,1.92
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Kangaskhan
+4:Talonflame
+5:Landorus
+6:Ferrothorn
+7:Palkia
+8:Groudon
+9:Kyogre
+10:Mawile
+11:Yveltal
+12:Salamence
+13:Medicham
+14:Ho-Oh
+15:Smeargle
+16:Gengar
+17:Raichu

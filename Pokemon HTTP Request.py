@@ -85,6 +85,7 @@ def GetFormeData():
 class Pokemon:
     '''Holds all the data for a pokemon. Probably too big.'''
     def __init__(self, pokemonData):
+        self.thisPokemonData = pokemonData
         self.thisPokemonName = pokemonData['rankingPokemonInfo']['name']
         if(pokemonData['rankingPokemonTrend']):
             self.thisPokemonRanking = pokemonData['rankingPokemonInfo']['ranking']
@@ -252,4 +253,14 @@ print "Length of ordered list: %d" % len(orderedListByRank)
 '''Writes the data to text files'''
 for x in orderedListByRank:
     print x.thisPokemonRanking, x.thisPokemonName, x.totalNumberOfThisPokemon
-    x.WriteAllData()
+
+movesFile = open(os.path.join('.','MovesData.txt'),'w')
+for pokemon in orderedListByRank:
+    movesFile.write(str(pokemon.thisPokemonRanking)+'.'+ pokemon.thisPokemonName+'|'+str(pokemon.totalNumberOfThisPokemon)+'\n')
+    movesFile.write('---\n')
+    pokemon.WriteNumericalData(pokemon.movesThatThisPokemonUses, 'name', movesFile)
+    movesFile.write("\n ---------- \n")
+
+movesFile.close()
+for pokemon in orderedListByRank:
+    pokemon.WriteAllData()

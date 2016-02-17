@@ -1,0 +1,41 @@
+273:Riolu|1
+ ---------- 
+Moves used:
+1:Feint,100.0%,1.0
+2:Follow Me,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:High Jump Kick,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Rayquaza
+3:Lugia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sacred Fire,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ho-Oh

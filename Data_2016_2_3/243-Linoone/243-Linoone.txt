@@ -1,0 +1,49 @@
+243:Linoone|3
+ ---------- 
+Moves used:
+1:Simple Beam,66.6666666667%,2.0
+2:Helping Hand,66.6666666667%,2.0
+3:Protect,66.6666666667%,2.0
+4:Super Fang,66.6666666667%,2.0
+5:Rock Smash,33.3333333333%,1.0
+6:Strength,33.3333333333%,1.0
+7:Surf,33.3333333333%,1.0
+8:Cut,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,66.6666666667%,2.0
+
+ ---------- 
+Abilities used:
+1:Quick Feet,66.6666666667%,2.0
+2:Pickup,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Rash,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Klefki
+3:Kyogre
+4:Combee
+5:Camerupt
+6:Skarmory
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Smeargle

@@ -1,0 +1,71 @@
+135:Cherrim|1
+ ---------- 
+Moves used:
+1:Heal Pulse,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Groudon
+3:Kangaskhan
+4:Ferrothorn
+5:Salamence
+6:Altaria
+7:Jumpluff
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.8148148148%,0.148148148148
+2:Brave Bird,11.1111111111%,0.111111111111
+3:Hyper Voice,11.1111111111%,0.111111111111
+4:Flamethrower,11.1111111111%,0.111111111111
+5:Double-Edge,11.1111111111%,0.111111111111
+6:Eruption,7.40740740741%,0.0740740740741
+7:Ice Beam,7.40740740741%,0.0740740740741
+8:Dragon Ascent,3.7037037037%,0.037037037037
+9:Origin Pulse,3.7037037037%,0.037037037037
+10:Overheat,3.7037037037%,0.037037037037
+11:Return,3.7037037037%,0.037037037037
+12:Fire Blast,3.7037037037%,0.037037037037
+13:Ice Punch,3.7037037037%,0.037037037037
+14:Fire Punch,3.7037037037%,0.037037037037
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Smeargle
+3:Liepard
+4:Cresselia
+5:Gastrodon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Lickilicky
+8:Rayquaza
+9:Rayquaza
+10:Ho-Oh

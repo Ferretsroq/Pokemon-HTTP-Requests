@@ -1,0 +1,70 @@
+184:Natu|20
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,20.0
+2:Protect,100.0%,20.0
+3:Ally Switch,65.0%,13.0
+4:Simple Beam,65.0%,13.0
+5:Skill Swap,35.0%,7.0
+6:Pain Split,35.0%,7.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,20.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,20.0
+
+ ---------- 
+Natures used:
+1:Relaxed,65.0%,13.0
+2:Gentle,35.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Smeargle
+3:Blissey
+4:Mawile
+5:Latias
+6:Mienshao
+7:Ferrothorn
+8:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,13.3333333333%,2.66666666667
+2:Double-Edge,13.3333333333%,2.66666666667
+3:Precipice Blades,6.66666666667%,1.33333333333
+4:Power-Up Punch,6.66666666667%,1.33333333333
+5:Dazzling Gleam,6.66666666667%,1.33333333333
+6:Play Rough,6.66666666667%,1.33333333333
+7:Brave Bird,6.66666666667%,1.33333333333
+8:Air Slash,6.66666666667%,1.33333333333
+9:Gyro Ball,6.66666666667%,1.33333333333
+10:Hyper Voice,6.66666666667%,1.33333333333
+11:Knock Off,6.66666666667%,1.33333333333
+12:Aeroblast,6.66666666667%,1.33333333333
+13:Thunderbolt,6.66666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Talonflame
+6:Thundurus
+7:Ferrothorn
+8:Togekiss
+9:Groudon
+10:Salamence
+11:Mawile
+12:Lugia

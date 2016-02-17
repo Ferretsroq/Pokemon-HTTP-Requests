@@ -1,0 +1,51 @@
+217:Furret|6
+ ---------- 
+Moves used:
+1:Helping Hand,100.0%,6.0
+2:Follow Me,100.0%,6.0
+3:Fling,83.3333333333%,5.0
+4:Charm,83.3333333333%,5.0
+5:Trick,16.6666666667%,1.0
+6:Super Fang,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Light Ball,83.3333333333%,5.0
+2:Choice Scarf,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Aegislash
+5:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,1.2
+2:Origin Pulse,20.0%,1.2
+3:Earth Power,20.0%,1.2
+4:Water Pulse,20.0%,1.2
+5:Double-Edge,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Blastoise

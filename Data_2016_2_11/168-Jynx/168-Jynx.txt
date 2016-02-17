@@ -1,0 +1,85 @@
+168:Jynx|29
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,29.0
+2:Skill Swap,86.2068965517%,25.0
+3:Lovely Kiss,82.7586206897%,24.0
+4:Icy Wind,68.9655172414%,20.0
+5:Ice Beam,17.2413793103%,5.0
+6:Grass Knot,10.3448275862%,3.0
+7:Trick,10.3448275862%,3.0
+8:Blizzard,10.3448275862%,3.0
+9:Helping Hand,6.89655172414%,2.0
+10:Perish Song,3.44827586207%,1.0
+11:Psychic,3.44827586207%,1.0
+
+ ---------- 
+Items used:
+1:Air Balloon,65.5172413793%,19.0
+2:Focus Sash,27.5862068966%,8.0
+3:Choice Scarf,6.89655172414%,2.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,100.0%,29.0
+
+ ---------- 
+Natures used:
+1:Timid,86.2068965517%,25.0
+2:Modest,13.7931034483%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Gengar
+3:Weavile
+4:Mewtwo
+5:Toxicroak
+6:Xerneas
+7:Meowstic
+8:Landorus
+9:Metagross
+10:Sableye
+11:Crobat
+12:Jellicent
+13:Groudon
+14:Ho-Oh
+15:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,50.0%,14.5
+2:Ice Beam,50.0%,14.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.1111111111%,3.22222222222
+2:U-turn,11.1111111111%,3.22222222222
+3:Eruption,11.1111111111%,3.22222222222
+4:Shadow Ball,11.1111111111%,3.22222222222
+5:Double-Edge,11.1111111111%,3.22222222222
+6:Dazzling Gleam,5.55555555556%,1.61111111111
+7:Brave Bird,5.55555555556%,1.61111111111
+8:Return,5.55555555556%,1.61111111111
+9:Earthquake,5.55555555556%,1.61111111111
+10:Thunderbolt,5.55555555556%,1.61111111111
+11:Flamethrower,5.55555555556%,1.61111111111
+12:Fire Punch,5.55555555556%,1.61111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kyurem
+3:Palkia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Gengar
+4:Xerneas
+5:Talonflame
+6:Landorus
+7:Thundurus
+8:Darmanitan
+9:Ditto

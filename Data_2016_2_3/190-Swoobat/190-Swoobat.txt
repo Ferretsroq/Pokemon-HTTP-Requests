@@ -1,0 +1,63 @@
+190:Swoobat|11
+ ---------- 
+Moves used:
+1:Protect,100.0%,11.0
+2:Super Fang,100.0%,11.0
+3:Skill Swap,81.8181818182%,9.0
+4:Tailwind,63.6363636364%,7.0
+5:After You,36.3636363636%,4.0
+6:Charm,18.1818181818%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,11.0
+
+ ---------- 
+Abilities used:
+1:Simple,81.8181818182%,9.0
+2:Unaware,18.1818181818%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,81.8181818182%,9.0
+2:Jolly,18.1818181818%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Ferrothorn
+4:Kangaskhan
+5:Ludicolo
+6:Landorus
+7:Amoonguss
+8:Cresselia
+9:Rayquaza
+10:Groudon
+11:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,25.0%,2.75
+2:Seed Bomb,12.5%,1.375
+3:Extreme Speed,12.5%,1.375
+4:Return,12.5%,1.375
+5:Rock Slide,12.5%,1.375
+6:Thunderbolt,12.5%,1.375
+7:Ice Beam,12.5%,1.375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Gourgeist
+3:Rayquaza
+4:Kyogre
+5:Aerodactyl
+6:Kangaskhan
+7:Raichu

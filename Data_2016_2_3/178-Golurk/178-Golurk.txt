@@ -1,0 +1,68 @@
+178:Golurk|5
+ ---------- 
+Moves used:
+1:Dynamic Punch,100.0%,5.0
+2:Earthquake,100.0%,5.0
+3:Phantom Force,60.0%,3.0
+4:Stone Edge,60.0%,3.0
+5:Protect,40.0%,2.0
+6:Rock Slide,40.0%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,60.0%,3.0
+2:Colbur Berry,40.0%,2.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Liepard
+3:Kyogre
+4:Giratina
+5:Sableye
+6:Ferrothorn
+7:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,25.0%,1.25
+2:Dynamic Punch,25.0%,1.25
+3:Rock Slide,25.0%,1.25
+4:Earthquake,25.0%,1.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,18.1818181818%,0.909090909091
+2:Sucker Punch,18.1818181818%,0.909090909091
+3:Origin Pulse,9.09090909091%,0.454545454545
+4:Dazzling Gleam,9.09090909091%,0.454545454545
+5:Moonblast,9.09090909091%,0.454545454545
+6:Foul Play,9.09090909091%,0.454545454545
+7:Power Whip,9.09090909091%,0.454545454545
+8:Eruption,9.09090909091%,0.454545454545
+9:Ice Beam,9.09090909091%,0.454545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Togekiss
+3:Kangaskhan
+4:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Kyurem
+5:Ferrothorn
+6:Kyogre
+7:Kangaskhan

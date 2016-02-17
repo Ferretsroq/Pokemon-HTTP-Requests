@@ -1,0 +1,134 @@
+139:Zygarde|67
+ ---------- 
+Moves used:
+1:Glare,92.5373134328%,62.0
+2:Land's Wrath,89.552238806%,60.0
+3:Extreme Speed,86.5671641791%,58.0
+4:Protect,44.776119403%,30.0
+5:Safeguard,43.2835820896%,29.0
+6:Earth Power,10.447761194%,7.0
+7:Dragon Pulse,10.447761194%,7.0
+8:Stone Edge,4.4776119403%,3.0
+9:Outrage,4.4776119403%,3.0
+10:Grass Knot,2.98507462687%,2.0
+11:Dragon Dance,2.98507462687%,2.0
+12:Dragon Tail,1.49253731343%,1.0
+13:Sludge Wave,1.49253731343%,1.0
+14:Draco Meteor,1.49253731343%,1.0
+15:Camouflage,1.49253731343%,1.0
+16:Rock Slide,1.49253731343%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,46.2686567164%,31.0
+2:Weakness Policy,23.8805970149%,16.0
+3:Earth Plate,11.9402985075%,8.0
+4:Life Orb,8.9552238806%,6.0
+5:Choice Scarf,2.98507462687%,2.0
+6:Roseli Berry,1.49253731343%,1.0
+7:Leftovers,1.49253731343%,1.0
+8:Choice Band,1.49253731343%,1.0
+9:Sitrus Berry,1.49253731343%,1.0
+
+ ---------- 
+Abilities used:
+1:Aura Break,100.0%,67.0
+
+ ---------- 
+Natures used:
+1:Jolly,49.2537313433%,33.0
+2:Adamant,37.3134328358%,25.0
+3:Modest,7.46268656716%,5.0
+4:Timid,4.4776119403%,3.0
+5:Careful,1.49253731343%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Weavile
+4:Metagross
+5:Meowstic
+6:Gengar
+7:Smeargle
+8:Gardevoir
+9:Greninja
+10:Thundurus
+11:Whimsicott
+12:Rotom
+13:Lugia
+14:Kyogre
+15:Scizor
+16:Kangaskhan
+17:Xerneas
+18:Durant
+19:Lickilicky
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Land's Wrath,60.6060606061%,40.6060606061
+2:Extreme Speed,27.2727272727%,18.2727272727
+3:Dragon Pulse,9.09090909091%,6.09090909091
+4:Outrage,3.0303030303%,2.0303030303
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,19.6078431373%,13.137254902
+2:Draco Meteor,7.8431372549%,5.25490196078
+3:Eruption,7.8431372549%,5.25490196078
+4:Precipice Blades,5.88235294118%,3.94117647059
+5:Origin Pulse,5.88235294118%,3.94117647059
+6:Ice Beam,5.88235294118%,3.94117647059
+7:Water Spout,3.92156862745%,2.62745098039
+8:Hyper Voice,3.92156862745%,2.62745098039
+9:Extreme Speed,3.92156862745%,2.62745098039
+10:Hidden Power,3.92156862745%,2.62745098039
+11:Return,3.92156862745%,2.62745098039
+12:Double-Edge,3.92156862745%,2.62745098039
+13:Dragon Ascent,1.96078431373%,1.3137254902
+14:Moonblast,1.96078431373%,1.3137254902
+15:Play Rough,1.96078431373%,1.3137254902
+16:Icicle Crash,1.96078431373%,1.3137254902
+17:Grass Knot,1.96078431373%,1.3137254902
+18:Shadow Sneak,1.96078431373%,1.3137254902
+19:Earth Power,1.96078431373%,1.3137254902
+20:Dragon Pulse,1.96078431373%,1.3137254902
+0:Other,3.92156862745%,2.62745098039
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Groudon
+4:Talonflame
+5:Thundurus
+6:Smeargle
+7:Ferrothorn
+8:Gothitelle
+9:Liepard
+10:Cresselia
+11:Lucario
+12:Rayquaza
+13:Blaziken
+14:Crobat
+15:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Rayquaza
+7:Aegislash
+8:Zekrom
+9:Terrakion
+10:Amoonguss
+11:Cresselia
+12:Palkia
+13:Dialga
+14:Weavile
+15:Mawile
+16:Gengar

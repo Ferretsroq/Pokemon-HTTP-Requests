@@ -1,0 +1,59 @@
+174:Purugly|1
+ ---------- 
+Moves used:
+1:Snatch,100.0%,1.0
+2:Fake Out,100.0%,1.0
+3:Return,100.0%,1.0
+4:Roar,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Slurpuff
+3:Lopunny
+4:Groudon
+5:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Return,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,23.0769230769%,0.230769230769
+2:Precipice Blades,7.69230769231%,0.0769230769231
+3:Oblivion Wing,7.69230769231%,0.0769230769231
+4:Foul Play,7.69230769231%,0.0769230769231
+5:Dark Pulse,7.69230769231%,0.0769230769231
+6:Hyper Voice,7.69230769231%,0.0769230769231
+7:Eruption,7.69230769231%,0.0769230769231
+8:Rock Slide,7.69230769231%,0.0769230769231
+9:Ice Beam,7.69230769231%,0.0769230769231
+10:Double-Edge,7.69230769231%,0.0769230769231
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyurem
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Yveltal
+5:Hydreigon
+6:Kyogre
+7:Ditto

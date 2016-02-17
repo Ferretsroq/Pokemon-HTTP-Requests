@@ -1,0 +1,39 @@
+289:Butterfree|1
+ ---------- 
+Moves used:
+1:Electroweb,100.0%,1.0
+2:Skill Swap,100.0%,1.0
+3:Giga Drain,100.0%,1.0
+4:Sleep Powder,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Compound Eyes,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Meowstic
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Crobat

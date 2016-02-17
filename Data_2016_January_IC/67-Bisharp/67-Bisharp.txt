@@ -1,0 +1,110 @@
+67:Bisharp|9
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,9.0
+2:Sucker Punch,100.0%,9.0
+3:Knock Off,88.8888888889%,8.0
+4:Protect,88.8888888889%,8.0
+5:Quick Guard,11.1111111111%,1.0
+6:Metal Burst,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,44.4444444444%,4.0
+2:Life Orb,44.4444444444%,4.0
+3:Black Glasses,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,9.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Infernape
+6:Groudon
+7:Mawile
+8:Yveltal
+9:Greninja
+10:Salamence
+11:Klefki
+12:Meowstic
+13:Landorus
+14:Thundurus
+15:Terrakion
+16:Volcarona
+17:Amoonguss
+18:Whimsicott
+19:Palkia
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,51.724137931%,4.65517241379
+2:Iron Head,24.1379310345%,2.1724137931
+3:Knock Off,20.6896551724%,1.86206896552
+4:Metal Burst,3.44827586207%,0.310344827586
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.0%,1.35
+2:Water Spout,10.0%,0.9
+3:Eruption,10.0%,0.9
+4:Origin Pulse,7.5%,0.675
+5:Dazzling Gleam,7.5%,0.675
+6:Low Kick,7.5%,0.675
+7:Moonblast,5.0%,0.45
+8:Extreme Speed,5.0%,0.45
+9:Bullet Punch,2.5%,0.225
+10:Earth Power,2.5%,0.225
+11:Sucker Punch,2.5%,0.225
+12:Gyro Ball,2.5%,0.225
+13:Overheat,2.5%,0.225
+14:Superpower,2.5%,0.225
+15:Rock Slide,2.5%,0.225
+16:Blizzard,2.5%,0.225
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Xerneas
+3:Landorus
+4:Cresselia
+5:Weavile
+6:Rayquaza
+7:Groudon
+8:Kyogre
+9:Greninja
+10:Amoonguss
+11:Whimsicott
+12:Palkia
+13:Bronzong
+14:Kyogre
+15:Salamence
+16:Mawile
+17:Smeargle
+18:Mewtwo
+19:Kangaskhan
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Landorus
+7:Ferrothorn
+8:Rayquaza
+9:Mawile
+10:Swampert
+11:Scizor
+12:Mewtwo

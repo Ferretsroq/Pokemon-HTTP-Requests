@@ -1,0 +1,81 @@
+216:Pikachu|15
+ ---------- 
+Moves used:
+1:Encore,73.3333333333%,11.0
+2:Protect,53.3333333333%,8.0
+3:Fake Out,40.0%,6.0
+4:Nuzzle,33.3333333333%,5.0
+5:Endeavor,33.3333333333%,5.0
+6:Hidden Power,33.3333333333%,5.0
+7:Thunder,33.3333333333%,5.0
+8:Feint,26.6666666667%,4.0
+9:Volt Switch,20.0%,3.0
+10:Toxic,20.0%,3.0
+11:Charm,13.3333333333%,2.0
+12:Quick Attack,13.3333333333%,2.0
+13:Volt Tackle,6.66666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,66.6666666667%,10.0
+2:Light Ball,33.3333333333%,5.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Jolly,33.3333333333%,5.0
+2:Timid,33.3333333333%,5.0
+3:Brave,26.6666666667%,4.0
+4:Hasty,6.66666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Meowstic
+4:Kyurem
+5:Glalie
+6:Ho-Oh
+7:Cresselia
+8:Lapras
+9:Kangaskhan
+10:Cobalion
+11:Staraptor
+12:Rayquaza
+13:Metagross
+14:Lugia
+15:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hidden Power,100.0%,15.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,18.1818181818%,2.72727272727
+2:Precipice Blades,9.09090909091%,1.36363636364
+3:Origin Pulse,9.09090909091%,1.36363636364
+4:Hyper Voice,9.09090909091%,1.36363636364
+5:Knock Off,9.09090909091%,1.36363636364
+6:Fake Out,9.09090909091%,1.36363636364
+7:Extreme Speed,9.09090909091%,1.36363636364
+8:Waterfall,9.09090909091%,1.36363636364
+9:Fire Punch,9.09090909091%,1.36363636364
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Meowstic
+4:Mienshao
+5:Rayquaza
+6:Rayquaza
+7:Kyogre
+8:Kangaskhan

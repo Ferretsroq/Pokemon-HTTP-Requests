@@ -1,0 +1,183 @@
+2:Xerneas|43118
+ ---------- 
+Moves used:
+1:Dazzling Gleam,96.8365879679%,41754.0
+2:Geomancy,94.3271951389%,40672.0
+3:Protect,92.9797300431%,40091.0
+4:Moonblast,87.9029639594%,37902.0
+5:Grass Knot,7.72067350063%,3329.0
+6:Hidden Power,5.64961269076%,2436.0
+7:Focus Blast,2.98251310358%,1286.0
+8:Sleep Talk,2.50939282898%,1082.0
+9:Psychic,2.40270884549%,1036.0
+10:Thunderbolt,1.7718818127%,764.0
+11:Psyshock,1.32195370843%,570.0
+12:Thunder,0.466162623498%,201.0
+13:Gravity,0.20872953291%,90.0
+14:Flash Cannon,0.143791456004%,62.0
+15:Thunder Wave,0.127556936778%,55.0
+16:Roar,0.125237719746%,54.0
+17:Heal Pulse,0.104364766455%,45.0
+18:Endeavor,0.0858110301962%,37.0
+19:Aromatherapy,0.0649380769052%,28.0
+20:Substitute,0.0626188598729%,27.0
+0:Other,0.224964052136%,97.0
+
+ ---------- 
+Items used:
+1:Power Herb,93.9932278863%,40528.0
+2:Choice Specs,4.10269493019%,1769.0
+3:Choice Scarf,1.34514587875%,580.0
+4:Life Orb,0.224964052136%,97.0
+5:Pixie Plate,0.0974071153579%,42.0
+6:Sitrus Berry,0.0626188598729%,27.0
+7:Lum Berry,0.0440651236143%,19.0
+8:Power Lens,0.027830604388%,12.0
+9:Expert Belt,0.0231921703233%,10.0
+10:Mental Herb,0.0162345192263%,7.0
+11:White Herb,0.013915302194%,6.0
+12:Chesto Berry,0.00695765109699%,3.0
+13:Normal Gem,0.00463843406466%,2.0
+14:Assault Vest,0.00231921703233%,1.0
+15:Power Weight,0.00231921703233%,1.0
+16:Power Anklet,0.00231921703233%,1.0
+17:Leftovers,0.00231921703233%,1.0
+18:Quick Claw,0.00231921703233%,1.0
+
+ ---------- 
+Abilities used:
+1:Fairy Aura,100.0%,43118.0
+
+ ---------- 
+Natures used:
+1:Timid,70.3117027691%,30317.0
+2:Modest,25.3745535507%,10941.0
+3:Bold,2.05482629064%,886.0
+4:Calm,0.579804258082%,250.0
+5:Quiet,0.440651236143%,190.0
+6:Naive,0.310775082332%,134.0
+7:Mild,0.3084558653%,133.0
+8:Serious,0.164664409295%,71.0
+9:Lax,0.13915302194%,60.0
+10:Hasty,0.0788533790992%,34.0
+11:Sassy,0.0487035576789%,21.0
+12:Relaxed,0.0487035576789%,21.0
+13:Rash,0.027830604388%,12.0
+14:Adamant,0.027830604388%,12.0
+15:Impish,0.0185537362586%,8.0
+16:Naughty,0.0185537362586%,8.0
+17:Docile,0.013915302194%,6.0
+18:Quirky,0.0115960851616%,5.0
+19:Hardy,0.0115960851616%,5.0
+20:Jolly,0.00927686812932%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Smeargle
+5:Salamence
+6:Kyogre
+7:Crobat
+8:Cresselia
+9:Rayquaza
+10:Liepard
+11:Gengar
+12:Amoonguss
+13:Ferrothorn
+14:Whimsicott
+15:Landorus
+16:Thundurus
+17:Mawile
+18:Weavile
+19:Togekiss
+20:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,68.2437317447%,29425.3322537
+2:Moonblast,29.5381589982%,12736.2633969
+3:Grass Knot,0.777928800717%,335.427340293
+4:Hidden Power,0.572601868186%,246.894473524
+5:Psychic,0.286300934093%,123.447236762
+6:Thunderbolt,0.19665114665%,84.7920414124
+7:Focus Blast,0.173515717632%,74.8165071286
+8:Psyshock,0.112785216461%,48.6307296336
+9:Sleep Talk,0.0491627866624%,21.1980103531
+10:Thunder,0.028919286272%,12.4694178548
+11:Struggle,0.0057838572544%,2.49388357095
+12:Rock Slide,0.0057838572544%,2.49388357095
+13:Close Combat,0.0028919286272%,1.24694178548
+14:Hyper Voice,0.0028919286272%,1.24694178548
+15:Megahorn,0.0028919286272%,1.24694178548
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.64002729327%,3725.40696831
+2:Precipice Blades,8.61443984818%,3714.37417374
+3:Moonblast,6.86596443345%,2960.46654442
+4:Double-Edge,6.21348458356%,2679.13028274
+5:Eruption,6.00452044863%,2589.02912704
+6:Gyro Ball,5.99172672609%,2583.51272975
+7:Origin Pulse,5.13454731545%,2213.91411148
+8:Iron Head,5.01513923835%,2162.42773679
+9:Water Spout,4.80617510342%,2072.32658109
+10:Brave Bird,4.46074459465%,1923.38385432
+11:Dragon Ascent,4.01296430551%,1730.30994925
+12:Sludge Bomb,2.95534990831%,1274.28777347
+13:Extreme Speed,2.90843959231%,1254.06098341
+14:Fire Punch,2.29434091006%,989.2739136
+15:Return,1.96596869803%,847.686383215
+16:Sucker Punch,1.9233229562%,829.298392256
+17:Ice Beam,1.75273998891%,755.746428419
+18:Flamethrower,1.62053818926%,698.743656446
+19:Earth Power,1.27937225468%,551.639728773
+20:Hyper Voice,1.15569960339%,498.314554992
+0:Other,14.2180903237%,6130.55618576
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Kyogre
+6:Rayquaza
+7:Talonflame
+8:Smeargle
+9:Cresselia
+10:Liepard
+11:Thundurus
+12:Crobat
+13:Landorus
+14:Yveltal
+15:Weavile
+16:Whimsicott
+17:Rayquaza
+18:Palkia
+19:Mawile
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Ferrothorn
+7:Mawile
+8:Talonflame
+9:Salamence
+10:Gengar
+11:Ho-Oh
+12:Rayquaza
+13:Aegislash
+14:Landorus
+15:Gengar
+16:Ditto
+17:Dialga
+18:Cresselia
+19:Scizor
+20:Bronzong

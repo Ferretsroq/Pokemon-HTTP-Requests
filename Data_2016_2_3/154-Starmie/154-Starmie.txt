@@ -1,0 +1,79 @@
+154:Starmie|12
+ ---------- 
+Moves used:
+1:Scald,100.0%,12.0
+2:Psychic,100.0%,12.0
+3:Trick Room,91.6666666667%,11.0
+4:Protect,91.6666666667%,11.0
+5:Minimize,8.33333333333%,1.0
+6:Ice Beam,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Iron Ball,91.6666666667%,11.0
+2:Bright Powder,8.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Analytic,91.6666666667%,11.0
+2:Natural Cure,8.33333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,91.6666666667%,11.0
+2:Timid,8.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Salamence
+4:Ferrothorn
+5:Manectric
+6:Weavile
+7:Rayquaza
+8:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,57.1428571429%,6.85714285714
+2:Psychic,42.8571428571%,5.14285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.75%,2.25
+2:Origin Pulse,12.5%,1.5
+3:Sucker Punch,12.5%,1.5
+4:Precipice Blades,6.25%,0.75
+5:Play Rough,6.25%,0.75
+6:Power Whip,6.25%,0.75
+7:Earth Power,6.25%,0.75
+8:Water Spout,6.25%,0.75
+9:Extreme Speed,6.25%,0.75
+10:Thunderbolt,6.25%,0.75
+11:Blizzard,6.25%,0.75
+12:Ice Beam,6.25%,0.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Jellicent
+4:Palkia
+5:Salamence
+6:Scizor
+7:Crobat
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Kyurem
+6:Ferrothorn
+7:Cresselia
+8:Rayquaza
+9:Mawile
+10:Zapdos

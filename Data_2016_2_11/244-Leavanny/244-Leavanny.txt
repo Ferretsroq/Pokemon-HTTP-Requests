@@ -1,0 +1,42 @@
+244:Leavanny|1
+ ---------- 
+Moves used:
+1:X-Scissor,100.0%,1.0
+2:Leaf Blade,100.0%,1.0
+3:Knock Off,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Groudon
+3:Lucario
+4:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,50.0%,0.5
+2:Double-Edge,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan

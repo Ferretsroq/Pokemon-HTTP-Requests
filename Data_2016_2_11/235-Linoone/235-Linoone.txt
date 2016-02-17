@@ -1,0 +1,48 @@
+235:Linoone|1
+ ---------- 
+Moves used:
+1:Shadow Claw,100.0%,1.0
+2:Extreme Speed,100.0%,1.0
+3:Belly Drum,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Gluttony,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Togekiss
+3:Hitmontop
+4:Kyogre
+5:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,20.0%,0.2
+2:Origin Pulse,20.0%,0.2
+3:Dazzling Gleam,20.0%,0.2
+4:Rock Slide,20.0%,0.2
+5:Fire Punch,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Rayquaza
+4:Kyogre

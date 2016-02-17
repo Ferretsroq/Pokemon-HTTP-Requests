@@ -1,0 +1,58 @@
+216:Steelix|3
+ ---------- 
+Moves used:
+1:Gyro Ball,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Earthquake,100.0%,3.0
+4:Rock Slide,66.6666666667%,2.0
+5:Stone Edge,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Steelixite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Groudon
+3:Mewtwo
+4:Landorus
+5:Salamence
+6:Nidoking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gyro Ball,57.1428571429%,1.71428571429
+2:Earthquake,28.5714285714%,0.857142857143
+3:Rock Slide,14.2857142857%,0.428571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,0.6
+2:Moonblast,20.0%,0.6
+3:Hyper Voice,20.0%,0.6
+4:Eruption,20.0%,0.6
+5:Waterfall,20.0%,0.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+2:Kangaskhan
+3:Xerneas
+4:Greninja
+5:Vileplume
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Rayquaza
+4:Salamence

@@ -1,0 +1,98 @@
+166:Glalie|18
+ ---------- 
+Moves used:
+1:Protect,83.3333333333%,15.0
+2:Explosion,77.7777777778%,14.0
+3:Return,66.6666666667%,12.0
+4:Ice Shard,55.5555555556%,10.0
+5:Sheer Cold,27.7777777778%,5.0
+6:Earthquake,27.7777777778%,5.0
+7:Icy Wind,16.6666666667%,3.0
+8:Substitute,16.6666666667%,3.0
+9:Super Fang,16.6666666667%,3.0
+10:Frost Breath,5.55555555556%,1.0
+11:Sleep Talk,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Glalitite,77.7777777778%,14.0
+2:Assault Vest,16.6666666667%,3.0
+3:Leftovers,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,66.6666666667%,12.0
+2:Moody,33.3333333333%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,55.5555555556%,10.0
+2:Adamant,22.2222222222%,4.0
+3:Modest,16.6666666667%,3.0
+4:Timid,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Reshiram
+3:Kyogre
+4:Rayquaza
+5:Miltank
+6:Ditto
+7:Xerneas
+8:Groudon
+9:Landorus
+10:Thundurus
+11:Palkia
+12:Camerupt
+13:Crobat
+14:Whimsicott
+15:Musharna
+16:Smeargle
+17:Kangaskhan
+18:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,63.6363636364%,11.4545454545
+2:Return,18.1818181818%,3.27272727273
+3:Sheer Cold,9.09090909091%,1.63636363636
+4:Icy Wind,9.09090909091%,1.63636363636
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,5.88235294118%,1.05882352941
+2:Origin Pulse,5.88235294118%,1.05882352941
+3:Power-Up Punch,5.88235294118%,1.05882352941
+4:Moonblast,5.88235294118%,1.05882352941
+5:Draco Meteor,5.88235294118%,1.05882352941
+6:Flare Blitz,5.88235294118%,1.05882352941
+7:Hyper Voice,5.88235294118%,1.05882352941
+8:Eruption,5.88235294118%,1.05882352941
+9:Low Kick,5.88235294118%,1.05882352941
+10:Double-Edge,5.88235294118%,1.05882352941
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Landorus
+3:Thundurus
+4:Ferrothorn
+5:Cresselia
+6:Salamence
+7:Lugia
+8:Gyarados
+9:Kangaskhan
+10:Kangaskhan
+11:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Kyurem
+6:Rayquaza
+7:Groudon
+8:Kyogre

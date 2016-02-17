@@ -1,0 +1,71 @@
+96:Pachirisu|4
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,4.0
+2:Follow Me,100.0%,4.0
+3:Protect,100.0%,4.0
+4:Super Fang,100.0%,4.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,75.0%,3.0
+2:Leftovers,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Clawitzer
+3:Slurpuff
+4:Aegislash
+5:Meowstic
+6:Talonflame
+7:Greninja
+8:Thundurus
+9:Amoonguss
+10:Lilligant
+11:Heatran
+12:Lopunny
+13:Rayquaza
+14:Groudon
+15:Kyogre
+16:Mewtwo
+17:Ditto
+18:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.1818181818%,0.727272727273
+2:Brave Bird,9.09090909091%,0.363636363636
+3:Water Spout,9.09090909091%,0.363636363636
+4:Eruption,9.09090909091%,0.363636363636
+5:Knock Off,9.09090909091%,0.363636363636
+6:Return,9.09090909091%,0.363636363636
+7:Rock Slide,9.09090909091%,0.363636363636
+8:High Jump Kick,9.09090909091%,0.363636363636
+9:Double-Edge,9.09090909091%,0.363636363636
+10:Fire Punch,9.09090909091%,0.363636363636
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Yveltal
+5:Talonflame
+6:Terrakion
+7:Mienshao
+8:Kyogre

@@ -1,0 +1,105 @@
+113:Trevenant|53
+ ---------- 
+Moves used:
+1:Trick Room,88.679245283%,47.0
+2:Phantom Force,69.8113207547%,37.0
+3:Curse,69.8113207547%,37.0
+4:Forest's Curse,60.3773584906%,32.0
+5:Protect,32.0754716981%,17.0
+6:Will-O-Wisp,24.5283018868%,13.0
+7:Horn Leech,16.9811320755%,9.0
+8:Skill Swap,13.2075471698%,7.0
+9:Wood Hammer,7.54716981132%,4.0
+10:Magic Coat,7.54716981132%,4.0
+11:Foul Play,5.66037735849%,3.0
+12:Leech Seed,3.77358490566%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,94.3396226415%,50.0
+2:Focus Sash,5.66037735849%,3.0
+
+ ---------- 
+Abilities used:
+1:Harvest,94.3396226415%,50.0
+2:Frisk,5.66037735849%,3.0
+
+ ---------- 
+Natures used:
+1:Careful,69.8113207547%,37.0
+2:Sassy,26.4150943396%,14.0
+3:Impish,3.77358490566%,2.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Sylveon
+4:Yveltal
+5:Kyogre
+6:Mawile
+7:Landorus
+8:Talonflame
+9:Crobat
+10:Xerneas
+11:Cresselia
+12:Smeargle
+13:Kyurem
+14:Gigalith
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,87.5%,46.375
+2:Wood Hammer,12.5%,6.625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,12.8205128205%,6.79487179487
+2:Ice Beam,10.2564102564%,5.4358974359
+3:Dragon Ascent,7.69230769231%,4.07692307692
+4:Dazzling Gleam,7.69230769231%,4.07692307692
+5:Overheat,7.69230769231%,4.07692307692
+6:Knock Off,7.69230769231%,4.07692307692
+7:Moonblast,5.12820512821%,2.71794871795
+8:Brave Bird,5.12820512821%,2.71794871795
+9:Hyper Voice,5.12820512821%,2.71794871795
+10:Fire Punch,5.12820512821%,2.71794871795
+11:Phantom Force,2.5641025641%,1.35897435897
+12:Foul Play,2.5641025641%,1.35897435897
+13:Shadow Force,2.5641025641%,1.35897435897
+14:Iron Head,2.5641025641%,1.35897435897
+15:Sucker Punch,2.5641025641%,1.35897435897
+16:U-turn,2.5641025641%,1.35897435897
+17:Gyro Ball,2.5641025641%,1.35897435897
+18:Shadow Ball,2.5641025641%,1.35897435897
+19:Sludge Bomb,2.5641025641%,1.35897435897
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Landorus
+4:Ferrothorn
+5:Amoonguss
+6:Togekiss
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Rayquaza
+4:Kyogre
+5:Talonflame
+6:Giratina
+7:Weavile
+8:Salamence
+9:Ditto
+10:Yveltal
+11:Ferrothorn
+12:Liepard
+13:Rayquaza
+14:Mawile
+15:Crobat
+16:Kangaskhan
+17:Gengar

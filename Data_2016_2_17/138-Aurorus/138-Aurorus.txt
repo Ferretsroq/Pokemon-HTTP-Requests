@@ -1,0 +1,126 @@
+138:Aurorus|69
+ ---------- 
+Moves used:
+1:Protect,88.4057971014%,61.0
+2:Nature Power,65.2173913043%,45.0
+3:Mirror Coat,63.768115942%,44.0
+4:Roar,63.768115942%,44.0
+5:Hyper Voice,34.7826086957%,24.0
+6:Encore,24.6376811594%,17.0
+7:Ancient Power,21.7391304348%,15.0
+8:Hyper Beam,21.7391304348%,15.0
+9:Freeze-Dry,10.1449275362%,7.0
+10:Earth Power,1.44927536232%,1.0
+11:Sleep Talk,1.44927536232%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,71.0144927536%,49.0
+2:Mental Herb,14.4927536232%,10.0
+3:Choice Scarf,8.69565217391%,6.0
+4:Icicle Plate,2.89855072464%,2.0
+5:Choice Specs,2.89855072464%,2.0
+
+ ---------- 
+Abilities used:
+1:Refrigerate,100.0%,69.0
+
+ ---------- 
+Natures used:
+1:Modest,49.2753623188%,34.0
+2:Quiet,24.6376811594%,17.0
+3:Calm,17.3913043478%,12.0
+4:Timid,8.69565217391%,6.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Liepard
+3:Pinsir
+4:Carbink
+5:Groudon
+6:Probopass
+7:Lucario
+8:Ditto
+9:Xerneas
+10:Giratina
+11:Kangaskhan
+12:Venusaur
+13:Crobat
+14:Mewtwo
+15:Reshiram
+16:Talonflame
+17:Giratina
+18:Palkia
+19:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nature Power,69.696969697%,48.0909090909
+2:Hyper Voice,22.7272727273%,15.6818181818
+3:Mirror Coat,7.57575757576%,5.22727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,12.9032258065%,8.90322580645
+2:Dazzling Gleam,6.45161290323%,4.45161290323
+3:Moonblast,6.45161290323%,4.45161290323
+4:Iron Head,6.45161290323%,4.45161290323
+5:Earth Power,6.45161290323%,4.45161290323
+6:Sucker Punch,6.45161290323%,4.45161290323
+7:Gyro Ball,6.45161290323%,4.45161290323
+8:Water Spout,6.45161290323%,4.45161290323
+9:Precipice Blades,3.22580645161%,2.22580645161
+10:Sacred Sword,3.22580645161%,2.22580645161
+11:Dark Pulse,3.22580645161%,2.22580645161
+12:Flare Blitz,3.22580645161%,2.22580645161
+13:Hyper Voice,3.22580645161%,2.22580645161
+14:Extreme Speed,3.22580645161%,2.22580645161
+15:Hidden Power,3.22580645161%,2.22580645161
+16:Rock Slide,3.22580645161%,2.22580645161
+17:High Jump Kick,3.22580645161%,2.22580645161
+18:Fire Blast,3.22580645161%,2.22580645161
+19:Psychic,3.22580645161%,2.22580645161
+20:Low Kick,3.22580645161%,2.22580645161
+0:Other,3.22580645161%,2.22580645161
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Crobat
+4:Rayquaza
+5:Xerneas
+6:Talonflame
+7:Kangaskhan
+8:Thundurus
+9:Liepard
+10:Rayquaza
+11:Smeargle
+12:Gengar
+13:Yveltal
+14:Landorus
+15:Togekiss
+16:Garchomp
+17:Kyogre
+18:Ho-Oh
+19:Hitmontop
+20:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Mawile
+5:Aegislash
+6:Ferrothorn
+7:Salamence
+8:Yveltal
+9:Talonflame
+10:Landorus
+11:Mienshao
+12:Cresselia
+13:Rayquaza
+14:Kangaskhan
+15:Clefairy

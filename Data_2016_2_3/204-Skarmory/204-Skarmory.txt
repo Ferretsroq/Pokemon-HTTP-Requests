@@ -1,0 +1,54 @@
+204:Skarmory|8
+ ---------- 
+Moves used:
+1:Feint,87.5%,7.0
+2:Roost,87.5%,7.0
+3:Protect,87.5%,7.0
+4:Toxic,87.5%,7.0
+5:Night Slash,12.5%,1.0
+6:Steel Wing,12.5%,1.0
+7:Spikes,12.5%,1.0
+8:Fly,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Red Card,87.5%,7.0
+2:Metal Coat,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,87.5%,7.0
+2:Keen Eye,12.5%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,87.5%,7.0
+2:Careful,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Mienshao
+4:Talonflame
+5:Combee
+6:Camerupt
+7:Linoone
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,100.0%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,66.6666666667%,5.33333333333
+2:Hyper Beam,33.3333333333%,2.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Porygon-Z

@@ -1,0 +1,87 @@
+175:Sawk|30
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,30.0
+2:Knock Off,96.6666666667%,29.0
+3:Rock Slide,96.6666666667%,29.0
+4:Double Kick,96.6666666667%,29.0
+5:Quick Guard,3.33333333333%,1.0
+6:Helping Hand,3.33333333333%,1.0
+7:Protect,3.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,96.6666666667%,29.0
+2:Sitrus Berry,3.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,30.0
+
+ ---------- 
+Natures used:
+1:Jolly,96.6666666667%,29.0
+2:Adamant,3.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Groudon
+3:Ho-Oh
+4:Mawile
+5:Togekiss
+6:Thundurus
+7:Rayquaza
+8:Xerneas
+9:Ferrothorn
+10:Palkia
+11:Dialga
+12:Kyogre
+13:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,45.4545454545%,13.6363636364
+2:Rock Slide,27.2727272727%,8.18181818182
+3:Double Kick,18.1818181818%,5.45454545455
+4:Knock Off,9.09090909091%,2.72727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,19.2307692308%,5.76923076923
+2:Brave Bird,19.2307692308%,5.76923076923
+3:Precipice Blades,11.5384615385%,3.46153846154
+4:Eruption,11.5384615385%,3.46153846154
+5:Hyper Voice,7.69230769231%,2.30769230769
+6:Dragon Ascent,3.84615384615%,1.15384615385
+7:Play Rough,3.84615384615%,1.15384615385
+8:Psystrike,3.84615384615%,1.15384615385
+9:Foul Play,3.84615384615%,1.15384615385
+10:Water Spout,3.84615384615%,1.15384615385
+11:Overheat,3.84615384615%,1.15384615385
+12:Flamethrower,3.84615384615%,1.15384615385
+13:Double-Edge,3.84615384615%,1.15384615385
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Hydreigon
+4:Whimsicott
+5:Liepard
+6:Infernape
+7:Kangaskhan
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Salamence
+5:Liepard
+6:Rayquaza
+7:Kyogre
+8:Mawile
+9:Mewtwo
+10:Kangaskhan

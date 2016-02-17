@@ -1,0 +1,149 @@
+21:Weavile|114
+ ---------- 
+Moves used:
+1:Fake Out,97.3684210526%,111.0
+2:Knock Off,92.1052631579%,105.0
+3:Icicle Crash,76.3157894737%,87.0
+4:Low Kick,39.4736842105%,45.0
+5:Feint,35.9649122807%,41.0
+6:Ice Punch,14.0350877193%,16.0
+7:Ice Shard,13.1578947368%,15.0
+8:Taunt,7.89473684211%,9.0
+9:Foul Play,7.01754385965%,8.0
+10:Protect,6.14035087719%,7.0
+11:Fling,2.63157894737%,3.0
+12:Snatch,2.63157894737%,3.0
+13:Beat Up,1.75438596491%,2.0
+14:Assurance,0.877192982456%,1.0
+15:Brick Break,0.877192982456%,1.0
+16:Thief,0.877192982456%,1.0
+17:Screech,0.877192982456%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,58.7719298246%,67.0
+2:Life Orb,33.3333333333%,38.0
+3:Expert Belt,1.75438596491%,2.0
+4:Lum Berry,1.75438596491%,2.0
+5:Assault Vest,0.877192982456%,1.0
+6:Air Balloon,0.877192982456%,1.0
+7:Razor Fang,0.877192982456%,1.0
+8:King's Rock,0.877192982456%,1.0
+9:Lansat Berry,0.877192982456%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,92.9824561404%,106.0
+2:Pickpocket,7.01754385965%,8.0
+
+ ---------- 
+Natures used:
+1:Jolly,97.3684210526%,111.0
+2:Adamant,1.75438596491%,2.0
+3:Naive,0.877192982456%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Ferrothorn
+4:Crobat
+5:Groudon
+6:Cresselia
+7:Xerneas
+8:Salamence
+9:Mawile
+10:Thundurus
+11:Aegislash
+12:Talonflame
+13:Gengar
+14:Kangaskhan
+15:Landorus
+16:Amoonguss
+17:Ho-Oh
+18:Smeargle
+19:Whimsicott
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Crash,35.4203935599%,40.3792486583
+2:Knock Off,28.9803220036%,33.0375670841
+3:Feint,10.5545617174%,12.0322003578
+4:Low Kick,8.7656529517%,9.99284436494
+5:Ice Punch,6.97674418605%,7.95348837209
+6:Ice Shard,3.75670840787%,4.28264758497
+7:Fake Out,3.04114490161%,3.46690518784
+8:Assurance,1.25223613596%,1.42754919499
+9:Foul Play,1.07334525939%,1.22361359571
+10:Thief,0.178890876565%,0.203935599284
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.2593235039%,19.6756287944
+2:Low Kick,7.54553339115%,8.60190806592
+3:Origin Pulse,5.9843885516%,6.82220294883
+4:Precipice Blades,5.81092801388%,6.62445793582
+5:Water Spout,5.72419774501%,6.52558542931
+6:Eruption,4.59670424978%,5.24024284475
+7:Rock Slide,4.42324371206%,5.04249783174
+8:Brave Bird,3.90286209887%,4.44926279271
+9:Gyro Ball,3.72940156114%,4.25151777971
+10:Double-Edge,3.46921075455%,3.95490026019
+11:Power-Up Punch,2.94882914137%,3.36166522116
+12:Iron Head,2.42844752819%,2.76843018213
+13:Sucker Punch,2.25498699046%,2.57068516912
+14:Extreme Speed,2.1682567216%,2.47181266262
+15:Hyper Voice,1.73460537728%,1.9774501301
+16:Ice Beam,1.38768430182%,1.58196010408
+17:Earth Power,1.30095403296%,1.48308759757
+18:Fake Out,1.30095403296%,1.48308759757
+19:Fire Punch,1.30095403296%,1.48308759757
+20:Moonblast,1.21422376409%,1.38421509107
+0:Other,15.0043365134%,17.1049436253
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Salamence
+3:Talonflame
+4:Thundurus
+5:Kangaskhan
+6:Smeargle
+7:Rayquaza
+8:Cresselia
+9:Xerneas
+10:Landorus
+11:Amoonguss
+12:Kyogre
+13:Gengar
+14:Liepard
+15:Weavile
+16:Groudon
+17:Ferrothorn
+18:Whimsicott
+19:Meowstic
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Talonflame
+6:Ferrothorn
+7:Mawile
+8:Rayquaza
+9:Salamence
+10:Landorus
+11:Weavile
+12:Yveltal
+13:Ho-Oh
+14:Mienshao
+15:Dialga
+16:Rayquaza
+17:Scizor
+18:Gengar
+19:Aegislash
+20:Thundurus

@@ -1,0 +1,143 @@
+78:Aerodactyl|254
+ ---------- 
+Moves used:
+1:Rock Slide,96.8503937008%,246.0
+2:Tailwind,77.9527559055%,198.0
+3:Wide Guard,71.6535433071%,182.0
+4:Protect,61.811023622%,157.0
+5:Taunt,36.2204724409%,92.0
+6:Iron Head,14.9606299213%,38.0
+7:Sky Drop,12.5984251969%,32.0
+8:Substitute,6.29921259843%,16.0
+9:Earthquake,6.29921259843%,16.0
+10:Iron Tail,3.93700787402%,10.0
+11:Rock Tomb,3.14960629921%,8.0
+12:Smack Down,2.75590551181%,7.0
+13:Fire Fang,1.96850393701%,5.0
+14:Swagger,1.96850393701%,5.0
+15:Aqua Tail,1.1811023622%,3.0
+16:Ice Fang,0.393700787402%,1.0
+
+ ---------- 
+Items used:
+1:Aerodactylite,26.7716535433%,68.0
+2:Wide Lens,24.0157480315%,61.0
+3:Focus Sash,15.7480314961%,40.0
+4:Lum Berry,15.7480314961%,40.0
+5:Yache Berry,6.69291338583%,17.0
+6:Chesto Berry,3.14960629921%,8.0
+7:Mental Herb,2.36220472441%,6.0
+8:Life Orb,1.96850393701%,5.0
+9:Rocky Helmet,1.57480314961%,4.0
+10:Muscle Band,1.1811023622%,3.0
+11:Choice Band,0.787401574803%,2.0
+
+ ---------- 
+Abilities used:
+1:Unnerve,61.0236220472%,155.0
+2:Pressure,35.8267716535%,91.0
+3:Rock Head,3.14960629921%,8.0
+
+ ---------- 
+Natures used:
+1:Jolly,95.6692913386%,243.0
+2:Adamant,4.33070866142%,11.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Smeargle
+3:Kangaskhan
+4:Xerneas
+5:Mawile
+6:Rayquaza
+7:Talonflame
+8:Giratina
+9:Palkia
+10:Garchomp
+11:Salamence
+12:Lapras
+13:Landorus
+14:Ferrothorn
+15:Kyurem
+16:Yveltal
+17:Sableye
+18:Latias
+19:Mewtwo
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,96.875%,246.0625
+2:Sky Drop,2.08333333333%,5.29166666667
+3:Iron Head,1.04166666667%,2.64583333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.2994350282%,28.7005649718
+2:Moonblast,9.0395480226%,22.9604519774
+3:Ice Beam,7.90960451977%,20.0903954802
+4:Sucker Punch,6.21468926554%,15.7853107345
+5:Rock Slide,6.21468926554%,15.7853107345
+6:Origin Pulse,5.08474576271%,12.9152542373
+7:Eruption,3.95480225989%,10.0451977401
+8:Iron Head,2.82485875706%,7.17514124294
+9:Gyro Ball,2.82485875706%,7.17514124294
+10:Thunderbolt,2.82485875706%,7.17514124294
+11:Flamethrower,2.82485875706%,7.17514124294
+12:Double-Edge,2.82485875706%,7.17514124294
+13:Water Spout,2.25988700565%,5.74011299435
+14:Thunder,2.25988700565%,5.74011299435
+15:Psystrike,1.69491525424%,4.30508474576
+16:Foul Play,1.69491525424%,4.30508474576
+17:Draco Meteor,1.69491525424%,4.30508474576
+18:Blizzard,1.69491525424%,4.30508474576
+19:Power-Up Punch,1.12994350282%,2.87005649718
+20:Grass Knot,1.12994350282%,2.87005649718
+0:Other,21.4689265537%,54.5310734463
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Crobat
+3:Xerneas
+4:Kangaskhan
+5:Liepard
+6:Salamence
+7:Weavile
+8:Rayquaza
+9:Kyogre
+10:Ho-Oh
+11:Smeargle
+12:Meowstic
+13:Thundurus
+14:Amoonguss
+15:Whimsicott
+16:Dialga
+17:Togekiss
+18:Rayquaza
+19:Yveltal
+20:Greninja
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Landorus
+6:Rayquaza
+7:Ferrothorn
+8:Salamence
+9:Yveltal
+10:Mawile
+11:Kyurem
+12:Thundurus
+13:Liepard
+14:Aegislash
+15:Cresselia
+16:Smeargle
+17:Mewtwo
+18:Zapdos
+19:Gengar
+20:Talonflame

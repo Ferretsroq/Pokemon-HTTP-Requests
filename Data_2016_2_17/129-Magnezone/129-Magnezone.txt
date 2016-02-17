@@ -1,0 +1,133 @@
+129:Magnezone|88
+ ---------- 
+Moves used:
+1:Flash Cannon,100.0%,88.0
+2:Thunderbolt,54.5454545455%,48.0
+3:Protect,52.2727272727%,46.0
+4:Magic Coat,47.7272727273%,42.0
+5:Hidden Power,47.7272727273%,42.0
+6:Thunder,43.1818181818%,38.0
+7:Volt Switch,36.3636363636%,32.0
+8:Mirror Coat,10.2272727273%,9.0
+9:Discharge,5.68181818182%,5.0
+10:Hyper Beam,2.27272727273%,2.0
+
+ ---------- 
+Items used:
+1:Custap Berry,45.4545454545%,40.0
+2:Assault Vest,21.5909090909%,19.0
+3:Choice Specs,19.3181818182%,17.0
+4:Air Balloon,12.5%,11.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,54.5454545455%,48.0
+2:Analytic,45.4545454545%,40.0
+
+ ---------- 
+Natures used:
+1:Modest,92.0454545455%,81.0
+2:Quiet,7.95454545455%,7.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Yveltal
+5:Mienshao
+6:Ho-Oh
+7:Liepard
+8:Kangaskhan
+9:Togekiss
+10:Mawile
+11:Cresselia
+12:Landorus
+13:Dialga
+14:Banette
+15:Crobat
+16:Musharna
+17:Ditto
+18:Gengar
+19:Tornadus
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flash Cannon,35.2112676056%,30.985915493
+2:Thunderbolt,33.8028169014%,29.7464788732
+3:Thunder,16.9014084507%,14.8732394366
+4:Volt Switch,5.6338028169%,4.95774647887
+5:Hidden Power,4.22535211268%,3.71830985915
+6:Discharge,2.81690140845%,2.47887323944
+7:Mirror Coat,1.40845070423%,1.23943661972
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,13.1147540984%,11.5409836066
+2:Water Spout,9.83606557377%,8.65573770492
+3:Precipice Blades,6.55737704918%,5.77049180328
+4:Origin Pulse,6.55737704918%,5.77049180328
+5:Moonblast,6.55737704918%,5.77049180328
+6:Earth Power,6.55737704918%,5.77049180328
+7:Sucker Punch,6.55737704918%,5.77049180328
+8:Dazzling Gleam,4.91803278689%,4.32786885246
+9:Dark Pulse,3.27868852459%,2.88524590164
+10:Flare Blitz,3.27868852459%,2.88524590164
+11:Rock Slide,3.27868852459%,2.88524590164
+12:Earthquake,3.27868852459%,2.88524590164
+13:Low Kick,3.27868852459%,2.88524590164
+14:Shadow Force,1.6393442623%,1.44262295082
+15:Iron Head,1.6393442623%,1.44262295082
+16:Brave Bird,1.6393442623%,1.44262295082
+17:Focus Blast,1.6393442623%,1.44262295082
+18:Hyper Voice,1.6393442623%,1.44262295082
+19:Superpower,1.6393442623%,1.44262295082
+20:Shadow Ball,1.6393442623%,1.44262295082
+0:Other,9.83606557377%,8.65573770492
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Talonflame
+4:Crobat
+5:Smeargle
+6:Kangaskhan
+7:Whimsicott
+8:Salamence
+9:Mawile
+10:Yveltal
+11:Liepard
+12:Cresselia
+13:Weavile
+14:Ho-Oh
+15:Thundurus
+16:Tornadus
+17:Ferrothorn
+18:Amoonguss
+19:Palkia
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Rayquaza
+6:Kangaskhan
+7:Yveltal
+8:Mawile
+9:Smeargle
+10:Gengar
+11:Greninja
+12:Kyurem
+13:Cresselia
+14:Giratina
+15:Toxicroak
+16:Lucario
+17:Garchomp
+18:Salamence
+19:Mawile
+20:Mewtwo

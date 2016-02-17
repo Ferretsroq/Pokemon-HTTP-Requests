@@ -1,0 +1,42 @@
+270:Omastar|1
+ ---------- 
+Moves used:
+1:Shell Smash,100.0%,1.0
+2:Scald,100.0%,1.0
+3:Earth Power,100.0%,1.0
+4:Ancient Power,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mewtwo
+3:Terrakion
+4:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,50.0%,0.5
+2:Water Spout,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre

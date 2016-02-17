@@ -1,0 +1,92 @@
+172:Blissey|26
+ ---------- 
+Moves used:
+1:Soft-Boiled,100.0%,26.0
+2:Minimize,100.0%,26.0
+3:Calm Mind,84.6153846154%,22.0
+4:Ice Beam,65.3846153846%,17.0
+5:Seismic Toss,19.2307692308%,5.0
+6:Toxic,15.3846153846%,4.0
+7:Flamethrower,15.3846153846%,4.0
+
+ ---------- 
+Items used:
+1:Kee Berry,57.6923076923%,15.0
+2:Lum Berry,19.2307692308%,5.0
+3:Bright Powder,15.3846153846%,4.0
+4:Mental Herb,7.69230769231%,2.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,65.3846153846%,17.0
+2:Serene Grace,26.9230769231%,7.0
+3:Healer,7.69230769231%,2.0
+
+ ---------- 
+Natures used:
+1:Relaxed,50.0%,13.0
+2:Bold,50.0%,13.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Natu
+3:Latias
+4:Smeargle
+5:Mienshao
+6:Palkia
+7:Togekiss
+8:Mewtwo
+9:Carbink
+10:Terrakion
+11:Ferrothorn
+12:Sableye
+13:Kangaskhan
+14:Groudon
+15:Breloom
+16:Suicune
+17:Gengar
+18:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,81.8181818182%,21.2727272727
+2:Seismic Toss,18.1818181818%,4.72727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,18.1818181818%,4.72727272727
+2:Knock Off,18.1818181818%,4.72727272727
+3:Low Kick,18.1818181818%,4.72727272727
+4:Hurricane,9.09090909091%,2.36363636364
+5:Dragon Claw,9.09090909091%,2.36363636364
+6:Extreme Speed,9.09090909091%,2.36363636364
+7:Double-Edge,9.09090909091%,2.36363636364
+8:Fire Punch,9.09090909091%,2.36363636364
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Whimsicott
+3:Yveltal
+4:Xerneas
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Ferrothorn
+9:Togekiss
+10:Weavile
+11:Bronzong
+12:Rayquaza
+13:Rayquaza
+14:Groudon
+15:Lugia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Yveltal
+3:Rayquaza
+4:Kangaskhan
+5:Mienshao
+6:Dragonite

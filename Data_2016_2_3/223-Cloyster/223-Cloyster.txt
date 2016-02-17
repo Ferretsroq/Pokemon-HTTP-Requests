@@ -1,0 +1,49 @@
+223:Cloyster|1
+ ---------- 
+Moves used:
+1:Shell Smash,100.0%,1.0
+2:Ice Shard,100.0%,1.0
+3:Rock Blast,100.0%,1.0
+4:Icicle Spear,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Staraptor
+3:Yveltal
+4:Houndoom
+5:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Spear,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,40.0%,0.4
+2:Rock Slide,40.0%,0.4
+3:Brave Bird,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Landorus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Camerupt
+3:Tyranitar
+4:Crobat

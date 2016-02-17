@@ -1,0 +1,68 @@
+182:Mantine|7
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,7.0
+2:Tailwind,100.0%,7.0
+3:Helping Hand,71.4285714286%,5.0
+4:Mirror Coat,57.1428571429%,4.0
+5:Ice Beam,28.5714285714%,2.0
+6:Air Slash,14.2857142857%,1.0
+7:Protect,14.2857142857%,1.0
+8:Haze,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,42.8571428571%,3.0
+2:Sitrus Berry,28.5714285714%,2.0
+3:King's Rock,14.2857142857%,1.0
+4:Wacan Berry,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,57.1428571429%,4.0
+2:Swift Swim,42.8571428571%,3.0
+
+ ---------- 
+Natures used:
+1:Bold,57.1428571429%,4.0
+2:Calm,42.8571428571%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Groudon
+4:Metagross
+5:Xerneas
+6:Mawile
+7:Cresselia
+8:Klefki
+9:Meowstic
+10:Kangaskhan
+11:Yveltal
+12:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Extreme Speed,25.0%,1.75
+2:Dragon Ascent,12.5%,0.875
+3:Sucker Punch,12.5%,0.875
+4:Fake Out,12.5%,0.875
+5:Return,12.5%,0.875
+6:Rock Slide,12.5%,0.875
+7:Ice Beam,12.5%,0.875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Kangaskhan
+3:Greninja
+4:Liepard
+5:Rayquaza
+6:Kyogre

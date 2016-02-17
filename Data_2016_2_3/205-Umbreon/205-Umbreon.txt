@@ -1,0 +1,67 @@
+205:Umbreon|8
+ ---------- 
+Moves used:
+1:Foul Play,75.0%,6.0
+2:Snarl,62.5%,5.0
+3:Helping Hand,50.0%,4.0
+4:Moonlight,37.5%,3.0
+5:Swagger,37.5%,3.0
+6:Substitute,37.5%,3.0
+7:Toxic,37.5%,3.0
+8:Protect,25.0%,2.0
+9:Taunt,12.5%,1.0
+10:Heal Bell,12.5%,1.0
+11:Confuse Ray,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,50.0%,4.0
+2:Leftovers,37.5%,3.0
+3:Quick Claw,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,75.0%,6.0
+2:Synchronize,25.0%,2.0
+
+ ---------- 
+Natures used:
+1:Sassy,37.5%,3.0
+2:Calm,37.5%,3.0
+3:Careful,12.5%,1.0
+4:Bold,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Garchomp
+4:Landorus
+5:Scizor
+6:Xerneas
+7:Sylveon
+8:Meowstic
+9:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,1.33333333333
+2:Bug Bite,16.6666666667%,1.33333333333
+3:Power Whip,16.6666666667%,1.33333333333
+4:Eruption,16.6666666667%,1.33333333333
+5:Low Kick,16.6666666667%,1.33333333333
+6:Surf,16.6666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Ferrothorn
+3:Palkia
+4:Weavile
+5:Scizor

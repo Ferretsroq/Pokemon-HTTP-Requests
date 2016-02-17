@@ -1,0 +1,105 @@
+104:Aron|67
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,67.0
+2:Protect,100.0%,67.0
+3:Toxic,50.7462686567%,34.0
+4:Sandstorm,40.2985074627%,27.0
+5:Rock Tomb,37.3134328358%,25.0
+6:Swagger,25.3731343284%,17.0
+7:Sleep Talk,17.9104477612%,12.0
+8:Stealth Rock,13.4328358209%,9.0
+9:Tackle,10.447761194%,7.0
+10:Rock Slide,4.4776119403%,3.0
+
+ ---------- 
+Items used:
+1:Berry Juice,62.6865671642%,42.0
+2:Shell Bell,37.3134328358%,25.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,67.0
+
+ ---------- 
+Natures used:
+1:Timid,25.3731343284%,17.0
+2:Careful,20.8955223881%,14.0
+3:Modest,13.4328358209%,9.0
+4:Naughty,11.9402985075%,8.0
+5:Adamant,11.9402985075%,8.0
+6:Docile,7.46268656716%,5.0
+7:Brave,5.97014925373%,4.0
+8:Quirky,2.98507462687%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Infernape
+3:Rayquaza
+4:Xerneas
+5:Liepard
+6:Kangaskhan
+7:Porygon2
+8:Mawile
+9:Zapdos
+10:Kyogre
+11:Lugia
+12:Aromatisse
+13:Meowstic
+14:Giratina
+15:Mr. Mime
+16:Talonflame
+17:Landorus
+18:Palkia
+19:Garchomp
+20:Sylveon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,10.2040816327%,6.83673469388
+2:Origin Pulse,8.16326530612%,5.4693877551
+3:Dazzling Gleam,8.16326530612%,5.4693877551
+4:Low Kick,8.16326530612%,5.4693877551
+5:Gyro Ball,6.12244897959%,4.10204081633
+6:Fake Out,6.12244897959%,4.10204081633
+7:Ice Beam,6.12244897959%,4.10204081633
+8:Precipice Blades,4.08163265306%,2.73469387755
+9:Foul Play,4.08163265306%,2.73469387755
+10:Flare Blitz,4.08163265306%,2.73469387755
+11:Water Spout,4.08163265306%,2.73469387755
+12:Eruption,4.08163265306%,2.73469387755
+13:Extreme Speed,4.08163265306%,2.73469387755
+14:Power-Up Punch,2.04081632653%,1.36734693878
+15:Scald,2.04081632653%,1.36734693878
+16:Earth Power,2.04081632653%,1.36734693878
+17:Dragon Pulse,2.04081632653%,1.36734693878
+18:Close Combat,2.04081632653%,1.36734693878
+19:Return,2.04081632653%,1.36734693878
+20:Super Fang,2.04081632653%,1.36734693878
+0:Other,4.08163265306%,2.73469387755
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Xerneas
+6:Ferrothorn
+7:Talonflame
+8:Liepard
+9:Cresselia
+10:Sylveon
+11:Dialga
+12:Lucario
+13:Rayquaza
+14:Rayquaza
+15:Crobat
+16:Ditto

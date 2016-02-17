@@ -1,0 +1,49 @@
+209:Vileplume|1
+ ---------- 
+Moves used:
+1:After You,100.0%,1.0
+2:Sludge Bomb,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Sleep Powder,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Landorus
+3:Groudon
+4:Sableye
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,50.0%,0.5
+2:Ice Punch,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Whimsicott
+3:Cresselia
+4:Kyogre
+5:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan

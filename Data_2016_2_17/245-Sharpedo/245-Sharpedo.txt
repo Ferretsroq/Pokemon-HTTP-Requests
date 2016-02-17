@@ -1,0 +1,61 @@
+245:Sharpedo|6
+ ---------- 
+Moves used:
+1:Crunch,83.3333333333%,5.0
+2:Waterfall,83.3333333333%,5.0
+3:Ice Beam,83.3333333333%,5.0
+4:Protect,66.6666666667%,4.0
+5:Scald,16.6666666667%,1.0
+6:Dark Pulse,16.6666666667%,1.0
+7:Dive,16.6666666667%,1.0
+8:Destiny Bond,16.6666666667%,1.0
+9:Surf,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Sharpedonite,66.6666666667%,4.0
+2:Focus Sash,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,83.3333333333%,5.0
+2:Rough Skin,16.6666666667%,1.0
+
+ ---------- 
+Natures used:
+1:Naughty,66.6666666667%,4.0
+2:Modest,16.6666666667%,1.0
+3:Naive,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Crobat
+4:Ferrothorn
+5:Salamence
+6:Xerneas
+7:Tropius
+8:Mawile
+9:Azumarill
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Crunch,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,25.0%,1.5
+2:Precipice Blades,25.0%,1.5
+3:Spacial Rend,25.0%,1.5
+4:Eruption,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Palkia
+3:Rayquaza

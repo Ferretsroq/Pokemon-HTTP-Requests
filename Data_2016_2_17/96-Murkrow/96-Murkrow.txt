@@ -1,0 +1,123 @@
+96:Murkrow|164
+ ---------- 
+Moves used:
+1:Taunt,89.0243902439%,146.0
+2:Protect,70.1219512195%,115.0
+3:Torment,68.9024390244%,113.0
+4:Perish Song,68.9024390244%,113.0
+5:Tailwind,25.6097560976%,42.0
+6:Quash,17.0731707317%,28.0
+7:Foul Play,17.0731707317%,28.0
+8:Snarl,11.5853658537%,19.0
+9:Haze,11.5853658537%,19.0
+10:Feather Dance,9.14634146341%,15.0
+11:Thunder Wave,6.09756097561%,10.0
+12:Snatch,3.0487804878%,5.0
+13:Brave Bird,0.609756097561%,1.0
+14:Roost,0.609756097561%,1.0
+15:Swagger,0.609756097561%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,78.0487804878%,128.0
+2:Eviolite,21.3414634146%,35.0
+3:Mental Herb,0.609756097561%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,164.0
+
+ ---------- 
+Natures used:
+1:Careful,51.8292682927%,85.0
+2:Timid,25.6097560976%,42.0
+3:Calm,11.5853658537%,19.0
+4:Impish,6.70731707317%,11.0
+5:Bold,3.0487804878%,5.0
+6:Jolly,0.609756097561%,1.0
+7:Adamant,0.609756097561%,1.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Sableye
+3:Probopass
+4:Groudon
+5:Kyogre
+6:Kangaskhan
+7:Rayquaza
+8:Yveltal
+9:Mawile
+10:Xerneas
+11:Kyurem
+12:Smeargle
+13:Lopunny
+14:Meowstic
+15:Talonflame
+16:Mienshao
+17:Salamence
+18:Crobat
+19:Ferrothorn
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,77.7777777778%,127.555555556
+2:Snarl,22.2222222222%,36.4444444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,7.20720720721%,11.8198198198
+2:Rock Slide,7.20720720721%,11.8198198198
+3:Origin Pulse,6.30630630631%,10.3423423423
+4:Water Spout,6.30630630631%,10.3423423423
+5:Hyper Voice,6.30630630631%,10.3423423423
+6:Eruption,5.40540540541%,8.86486486486
+7:Extreme Speed,5.40540540541%,8.86486486486
+8:Ice Beam,5.40540540541%,8.86486486486
+9:Double-Edge,4.5045045045%,7.38738738739
+10:Dragon Ascent,2.7027027027%,4.43243243243
+11:Precipice Blades,2.7027027027%,4.43243243243
+12:Play Rough,2.7027027027%,4.43243243243
+13:Return,2.7027027027%,4.43243243243
+14:Snarl,1.8018018018%,2.95495495495
+15:Foul Play,1.8018018018%,2.95495495495
+16:Grass Knot,1.8018018018%,2.95495495495
+17:Brave Bird,1.8018018018%,2.95495495495
+18:Dragon Pulse,1.8018018018%,2.95495495495
+19:Feint,1.8018018018%,2.95495495495
+20:Gyro Ball,1.8018018018%,2.95495495495
+0:Other,18.018018018%,29.5495495495
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Talonflame
+4:Landorus
+5:Cresselia
+6:Kyogre
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Salamence
+5:Xerneas
+6:Kangaskhan
+7:Mawile
+8:Ferrothorn
+9:Yveltal
+10:Talonflame
+11:Amoonguss
+12:Liepard
+13:Cresselia
+14:Weavile
+15:Raichu
+16:Klefki
+17:Pyroar
+18:Kyurem
+19:Zekrom
+20:Thundurus

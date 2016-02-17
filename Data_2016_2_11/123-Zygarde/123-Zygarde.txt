@@ -1,0 +1,127 @@
+123:Zygarde|73
+ ---------- 
+Moves used:
+1:Extreme Speed,100.0%,73.0
+2:Glare,98.6301369863%,72.0
+3:Land's Wrath,82.1917808219%,60.0
+4:Safeguard,39.7260273973%,29.0
+5:Protect,39.7260273973%,29.0
+6:Coil,17.8082191781%,13.0
+7:Earthquake,17.8082191781%,13.0
+8:Dragon Dance,1.3698630137%,1.0
+9:Outrage,1.3698630137%,1.0
+10:Rock Slide,1.3698630137%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,41.095890411%,30.0
+2:Weakness Policy,23.2876712329%,17.0
+3:Sitrus Berry,17.8082191781%,13.0
+4:Earth Plate,16.4383561644%,12.0
+5:Choice Band,1.3698630137%,1.0
+
+ ---------- 
+Abilities used:
+1:Aura Break,100.0%,73.0
+
+ ---------- 
+Natures used:
+1:Adamant,57.5342465753%,42.0
+2:Jolly,42.4657534247%,31.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Meowstic
+4:Metagross
+5:Weavile
+6:Gengar
+7:Garchomp
+8:Salamence
+9:Smeargle
+10:Gardevoir
+11:Greninja
+12:Thundurus
+13:Kyogre
+14:Sceptile
+15:Scizor
+16:Kangaskhan
+17:Tyrantrum
+18:Lickilicky
+19:Ludicolo
+20:Hydreigon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Land's Wrath,51.1627906977%,37.3488372093
+2:Extreme Speed,39.5348837209%,28.8604651163
+3:Earthquake,9.3023255814%,6.79069767442
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,23.6363636364%,17.2545454545
+2:Draco Meteor,9.09090909091%,6.63636363636
+3:Eruption,9.09090909091%,6.63636363636
+4:Ice Beam,7.27272727273%,5.30909090909
+5:Origin Pulse,5.45454545455%,3.98181818182
+6:Extreme Speed,5.45454545455%,3.98181818182
+7:Precipice Blades,3.63636363636%,2.65454545455
+8:Hidden Power,3.63636363636%,2.65454545455
+9:Return,3.63636363636%,2.65454545455
+10:Double-Edge,3.63636363636%,2.65454545455
+11:Dragon Ascent,1.81818181818%,1.32727272727
+12:Moonblast,1.81818181818%,1.32727272727
+13:Play Rough,1.81818181818%,1.32727272727
+14:Icicle Crash,1.81818181818%,1.32727272727
+15:Snarl,1.81818181818%,1.32727272727
+16:Grass Knot,1.81818181818%,1.32727272727
+17:Shadow Sneak,1.81818181818%,1.32727272727
+18:Bullet Punch,1.81818181818%,1.32727272727
+19:Earth Power,1.81818181818%,1.32727272727
+20:Dragon Pulse,1.81818181818%,1.32727272727
+0:Other,5.45454545455%,3.98181818182
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Thundurus
+4:Smeargle
+5:Groudon
+6:Talonflame
+7:Liepard
+8:Yveltal
+9:Greninja
+10:Ferrothorn
+11:Amoonguss
+12:Gothitelle
+13:Whimsicott
+14:Cresselia
+15:Weavile
+16:Lucario
+17:Infernape
+18:Rayquaza
+19:Flygon
+20:Aron
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Kyogre
+5:Rayquaza
+6:Kangaskhan
+7:Aegislash
+8:Cresselia
+9:Yveltal
+10:Zekrom
+11:Terrakion
+12:Amoonguss
+13:Palkia
+14:Dialga
+15:Weavile
+16:Mawile
+17:Scizor
+18:Gengar

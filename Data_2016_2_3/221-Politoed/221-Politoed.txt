@@ -1,0 +1,66 @@
+221:Politoed|5
+ ---------- 
+Moves used:
+1:Scald,100.0%,5.0
+2:Ice Beam,60.0%,3.0
+3:Focus Blast,40.0%,2.0
+4:Helping Hand,40.0%,2.0
+5:Perish Song,40.0%,2.0
+6:Protect,40.0%,2.0
+7:Rain Dance,20.0%,1.0
+8:Hidden Power,20.0%,1.0
+9:Psychic,20.0%,1.0
+10:Surf,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,40.0%,2.0
+2:Sitrus Berry,40.0%,2.0
+3:Assault Vest,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Drizzle,60.0%,3.0
+2:Water Absorb,40.0%,2.0
+
+ ---------- 
+Natures used:
+1:Calm,40.0%,2.0
+2:Timid,40.0%,2.0
+3:Modest,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Amoonguss
+2:Ludicolo
+3:Lugia
+4:Gengar
+5:Landorus
+6:Jellicent
+7:Serperior
+8:Palkia
+9:Mawile
+10:Gardevoir
+11:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,50.0%,2.5
+2:Ice Beam,50.0%,2.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,66.6666666667%,3.33333333333
+2:Dragon Pulse,33.3333333333%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Landorus
+3:Whimsicott
+4:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Dialga

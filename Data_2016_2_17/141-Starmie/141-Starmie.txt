@@ -1,0 +1,96 @@
+141:Starmie|65
+ ---------- 
+Moves used:
+1:Scald,100.0%,65.0
+2:Psychic,100.0%,65.0
+3:Trick Room,96.9230769231%,63.0
+4:Protect,96.9230769231%,63.0
+5:Minimize,3.07692307692%,2.0
+6:Ice Beam,3.07692307692%,2.0
+
+ ---------- 
+Items used:
+1:Iron Ball,96.9230769231%,63.0
+2:Bright Powder,3.07692307692%,2.0
+
+ ---------- 
+Abilities used:
+1:Analytic,96.9230769231%,63.0
+2:Natural Cure,3.07692307692%,2.0
+
+ ---------- 
+Natures used:
+1:Quiet,96.9230769231%,63.0
+2:Timid,3.07692307692%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Ho-Oh
+4:Salamence
+5:Manectric
+6:Weavile
+7:Rayquaza
+8:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,61.1111111111%,39.7222222222
+2:Psychic,38.8888888889%,25.2777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,13.1578947368%,8.55263157895
+2:Origin Pulse,10.5263157895%,6.84210526316
+3:Dazzling Gleam,10.5263157895%,6.84210526316
+4:Precipice Blades,7.89473684211%,5.13157894737
+5:Water Spout,7.89473684211%,5.13157894737
+6:Play Rough,5.26315789474%,3.42105263158
+7:Power Whip,5.26315789474%,3.42105263158
+8:Earth Power,5.26315789474%,3.42105263158
+9:Rock Slide,5.26315789474%,3.42105263158
+10:Thunder,5.26315789474%,3.42105263158
+11:Thunderbolt,5.26315789474%,3.42105263158
+12:Flash Cannon,2.63157894737%,1.71052631579
+13:Dragon Pulse,2.63157894737%,1.71052631579
+14:Seed Bomb,2.63157894737%,1.71052631579
+15:Extreme Speed,2.63157894737%,1.71052631579
+16:Sludge Bomb,2.63157894737%,1.71052631579
+17:Blizzard,2.63157894737%,1.71052631579
+18:Ice Beam,2.63157894737%,1.71052631579
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Gengar
+4:Talonflame
+5:Salamence
+6:Kangaskhan
+7:Terrakion
+8:Jellicent
+9:Liepard
+10:Palkia
+11:Rayquaza
+12:Scizor
+13:Slowbro
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Ferrothorn
+5:Mawile
+6:Kangaskhan
+7:Dialga
+8:Kyogre
+9:Yveltal
+10:Kyurem
+11:Thundurus
+12:Cresselia
+13:Rayquaza
+14:Flygon
+15:Zapdos
+16:Gengar

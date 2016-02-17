@@ -1,0 +1,45 @@
+198:Articuno|1
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,1.0
+2:Hurricane,100.0%,1.0
+3:Sheer Cold,100.0%,1.0
+4:Blizzard,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Thundurus
+2:Infernape
+3:Rayquaza
+4:Kyogre
+5:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,33.3333333333%,0.333333333333
+2:Origin Pulse,33.3333333333%,0.333333333333
+3:Flash Cannon,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Aegislash
+2:Rayquaza
+3:Kyogre

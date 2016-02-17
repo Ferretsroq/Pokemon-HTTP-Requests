@@ -1,0 +1,96 @@
+185:Regigigas|26
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,26.0
+2:Knock Off,73.0769230769%,19.0
+3:Return,53.8461538462%,14.0
+4:Drain Punch,46.1538461538%,12.0
+5:Crush Grip,38.4615384615%,10.0
+6:Thunder Wave,34.6153846154%,9.0
+7:Safeguard,26.9230769231%,7.0
+8:Rock Slide,26.9230769231%,7.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,61.5384615385%,16.0
+2:Silk Scarf,23.0769230769%,6.0
+3:Lum Berry,15.3846153846%,4.0
+
+ ---------- 
+Abilities used:
+1:Slow Start,100.0%,26.0
+
+ ---------- 
+Natures used:
+1:Careful,34.6153846154%,9.0
+2:Impish,26.9230769231%,7.0
+3:Jolly,19.2307692308%,5.0
+4:Adamant,19.2307692308%,5.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Kyogre
+3:Mienshao
+4:Rayquaza
+5:Groudon
+6:Yveltal
+7:Durant
+8:Crobat
+9:Kangaskhan
+10:Latios
+11:Xerneas
+12:Heatran
+13:Salamence
+14:Scizor
+15:Thundurus
+16:Liepard
+17:Dialga
+18:Mawile
+19:Sableye
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,33.3333333333%,8.66666666667
+2:Return,33.3333333333%,8.66666666667
+3:Crush Grip,11.1111111111%,2.88888888889
+4:Drain Punch,11.1111111111%,2.88888888889
+5:Rock Slide,11.1111111111%,2.88888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,20.0%,5.2
+2:Dragon Ascent,6.66666666667%,1.73333333333
+3:Precipice Blades,6.66666666667%,1.73333333333
+4:Dazzling Gleam,6.66666666667%,1.73333333333
+5:Play Rough,6.66666666667%,1.73333333333
+6:Psyshock,6.66666666667%,1.73333333333
+7:Brave Bird,6.66666666667%,1.73333333333
+8:U-turn,6.66666666667%,1.73333333333
+9:Water Spout,6.66666666667%,1.73333333333
+10:Superpower,6.66666666667%,1.73333333333
+11:Ice Beam,6.66666666667%,1.73333333333
+12:Fire Punch,6.66666666667%,1.73333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Landorus
+4:Ferrothorn
+5:Giratina
+6:Rayquaza
+7:Kyogre
+8:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Groudon
+4:Kyogre
+5:Talonflame
+6:Cresselia
+7:Rayquaza
+8:Mawile

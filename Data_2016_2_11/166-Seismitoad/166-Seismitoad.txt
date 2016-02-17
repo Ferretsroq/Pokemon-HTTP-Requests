@@ -1,0 +1,115 @@
+166:Seismitoad|29
+ ---------- 
+Moves used:
+1:Earth Power,82.7586206897%,24.0
+2:After You,48.275862069%,14.0
+3:Protect,48.275862069%,14.0
+4:Scald,41.3793103448%,12.0
+5:Icy Wind,34.4827586207%,10.0
+6:Endeavor,31.0344827586%,9.0
+7:Sludge Bomb,31.0344827586%,9.0
+8:Surf,31.0344827586%,9.0
+9:Grass Knot,20.6896551724%,6.0
+10:Drain Punch,17.2413793103%,5.0
+11:Gastro Acid,13.7931034483%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,55.1724137931%,16.0
+2:Assault Vest,20.6896551724%,6.0
+3:Lum Berry,10.3448275862%,3.0
+4:Earth Plate,6.89655172414%,2.0
+5:Expert Belt,6.89655172414%,2.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,79.3103448276%,23.0
+2:Water Absorb,20.6896551724%,6.0
+
+ ---------- 
+Natures used:
+1:Bold,48.275862069%,14.0
+2:Timid,31.0344827586%,9.0
+3:Quiet,17.2413793103%,5.0
+4:Modest,3.44827586207%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Rayquaza
+4:Ditto
+5:Crobat
+6:Ferrothorn
+7:Yveltal
+8:Mewtwo
+9:Xerneas
+10:Greninja
+11:Clefairy
+12:Thundurus
+13:Palkia
+14:Togekiss
+15:Groudon
+16:Salamence
+17:Mawile
+18:Ho-Oh
+19:Scizor
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,50.0%,14.5
+2:Surf,21.4285714286%,6.21428571429
+3:Icy Wind,14.2857142857%,4.14285714286
+4:Scald,7.14285714286%,2.07142857143
+5:Sludge Bomb,7.14285714286%,2.07142857143
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.69565217391%,2.52173913043
+2:Dazzling Gleam,8.69565217391%,2.52173913043
+3:Earth Power,8.69565217391%,2.52173913043
+4:Water Spout,8.69565217391%,2.52173913043
+5:Return,8.69565217391%,2.52173913043
+6:Play Rough,4.34782608696%,1.26086956522
+7:Grass Knot,4.34782608696%,1.26086956522
+8:Power Whip,4.34782608696%,1.26086956522
+9:U-turn,4.34782608696%,1.26086956522
+10:Gyro Ball,4.34782608696%,1.26086956522
+11:Hyper Voice,4.34782608696%,1.26086956522
+12:Eruption,4.34782608696%,1.26086956522
+13:Knock Off,4.34782608696%,1.26086956522
+14:Giga Drain,4.34782608696%,1.26086956522
+15:Explosion,4.34782608696%,1.26086956522
+16:Hydro Pump,4.34782608696%,1.26086956522
+17:Flamethrower,4.34782608696%,1.26086956522
+18:Double-Edge,4.34782608696%,1.26086956522
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Whimsicott
+4:Amoonguss
+5:Liepard
+6:Rayquaza
+7:Kecleon
+8:Manectric
+9:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Landorus
+5:Salamence
+6:Kangaskhan
+7:Yveltal
+8:Greninja
+9:Ferrothorn
+10:Amoonguss
+11:Palkia
+12:Bronzong
+13:Mawile
+14:Smeargle

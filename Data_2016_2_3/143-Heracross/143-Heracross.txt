@@ -1,0 +1,76 @@
+143:Heracross|27
+ ---------- 
+Moves used:
+1:Protect,100.0%,27.0
+2:Pin Missile,100.0%,27.0
+3:Rock Blast,96.2962962963%,26.0
+4:Arm Thrust,85.1851851852%,23.0
+5:Bullet Seed,11.1111111111%,3.0
+6:Close Combat,7.40740740741%,2.0
+
+ ---------- 
+Items used:
+1:Heracronite,100.0%,27.0
+
+ ---------- 
+Abilities used:
+1:Guts,92.5925925926%,25.0
+2:Moxie,7.40740740741%,2.0
+
+ ---------- 
+Natures used:
+1:Brave,92.5925925926%,25.0
+2:Jolly,7.40740740741%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Cresselia
+4:Bronzong
+5:Liepard
+6:Groudon
+7:Xerneas
+8:Whimsicott
+9:Gastrodon
+10:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Pin Missile,60.0%,16.2
+2:Rock Blast,20.0%,5.4
+3:Arm Thrust,20.0%,5.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,17.6470588235%,4.76470588235
+2:Dragon Ascent,11.7647058824%,3.17647058824
+3:Brave Bird,11.7647058824%,3.17647058824
+4:Precipice Blades,5.88235294118%,1.58823529412
+5:Moonblast,5.88235294118%,1.58823529412
+6:Zen Headbutt,5.88235294118%,1.58823529412
+7:Air Slash,5.88235294118%,1.58823529412
+8:Water Spout,5.88235294118%,1.58823529412
+9:Eruption,5.88235294118%,1.58823529412
+10:Heat Wave,5.88235294118%,1.58823529412
+11:Ice Beam,5.88235294118%,1.58823529412
+12:Fire Punch,5.88235294118%,1.58823529412
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Cresselia
+3:Weavile
+4:Ditto
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Talonflame
+4:Rayquaza
+5:Xerneas
+6:Togekiss
+7:Metagross
+8:Houndoom

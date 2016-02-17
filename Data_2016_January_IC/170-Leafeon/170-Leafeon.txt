@@ -1,0 +1,41 @@
+170:Leafeon|1
+ ---------- 
+Moves used:
+1:Leaf Blade,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Iron Tail,100.0%,1.0
+4:Swords Dance,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Ferrothorn
+2:Cresselia
+3:Groudon
+4:Smeargle
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

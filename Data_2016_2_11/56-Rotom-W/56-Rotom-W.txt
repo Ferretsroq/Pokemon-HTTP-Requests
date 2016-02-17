@@ -1,0 +1,159 @@
+56:Rotom-W|322
+ ---------- 
+Moves used:
+1:Hydro Pump,90.0621118012%,290.0
+2:Thunderbolt,87.5776397516%,282.0
+3:Protect,56.8322981366%,183.0
+4:Will-O-Wisp,47.8260869565%,154.0
+5:Thunder Wave,27.6397515528%,89.0
+6:Hidden Power,9.31677018634%,30.0
+7:Volt Switch,9.00621118012%,29.0
+8:Light Screen,9.00621118012%,29.0
+9:Foul Play,7.45341614907%,24.0
+10:Discharge,7.45341614907%,24.0
+11:Snatch,7.45341614907%,24.0
+12:Trick,6.52173913043%,21.0
+13:Electroweb,6.21118012422%,20.0
+14:Pain Split,5.27950310559%,17.0
+15:Thunder,4.96894409938%,16.0
+16:Rest,4.34782608696%,14.0
+17:Swagger,3.72670807453%,12.0
+18:Dark Pulse,3.10559006211%,10.0
+19:Reflect,2.7950310559%,9.0
+20:Shadow Ball,1.24223602484%,4.0
+0:Other,2.17391304348%,7.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,61.1801242236%,197.0
+2:Leftovers,13.3540372671%,43.0
+3:Assault Vest,5.5900621118%,18.0
+4:Choice Scarf,4.65838509317%,15.0
+5:Choice Specs,3.41614906832%,11.0
+6:Lum Berry,3.10559006211%,10.0
+7:Safety Goggles,2.17391304348%,7.0
+8:Chesto Berry,1.86335403727%,6.0
+9:Power Herb,1.24223602484%,4.0
+10:Eject Button,0.931677018634%,3.0
+11:Rocky Helmet,0.931677018634%,3.0
+12:Life Orb,0.310559006211%,1.0
+13:Magnet,0.310559006211%,1.0
+14:Bright Powder,0.310559006211%,1.0
+15:Rindo Berry,0.310559006211%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,322.0
+
+ ---------- 
+Natures used:
+1:Modest,46.2732919255%,149.0
+2:Calm,27.0186335404%,87.0
+3:Bold,20.1863354037%,65.0
+4:Mild,3.72670807453%,12.0
+5:Timid,2.7950310559%,9.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Groudon
+4:Talonflame
+5:Kangaskhan
+6:Landorus
+7:Kyogre
+8:Salamence
+9:Yveltal
+10:Crobat
+11:Mawile
+12:Aegislash
+13:Mewtwo
+14:Kyurem
+15:Ho-Oh
+16:Mienshao
+17:Ferrothorn
+18:Weavile
+19:Thundurus
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,58.3333333333%,187.833333333
+2:Hydro Pump,18.8888888889%,60.8222222222
+3:Discharge,5.55555555556%,17.8888888889
+4:Thunder,5.0%,16.1
+5:Electroweb,3.33333333333%,10.7333333333
+6:Volt Switch,3.33333333333%,10.7333333333
+7:Dark Pulse,2.22222222222%,7.15555555556
+8:Hidden Power,2.22222222222%,7.15555555556
+9:Foul Play,1.11111111111%,3.57777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.0502512563%,32.3618090452
+2:Moonblast,9.54773869347%,30.743718593
+3:Power Whip,7.53768844221%,24.2713567839
+4:Water Spout,7.53768844221%,24.2713567839
+5:Draco Meteor,5.02512562814%,16.1809045226
+6:Double-Edge,5.02512562814%,16.1809045226
+7:Sludge Bomb,4.52261306533%,14.5628140704
+8:Origin Pulse,4.02010050251%,12.9447236181
+9:Dragon Ascent,3.01507537688%,9.70854271357
+10:Precipice Blades,2.51256281407%,8.09045226131
+11:Play Rough,2.51256281407%,8.09045226131
+12:Eruption,2.51256281407%,8.09045226131
+13:Knock Off,2.51256281407%,8.09045226131
+14:Extreme Speed,2.51256281407%,8.09045226131
+15:Return,2.51256281407%,8.09045226131
+16:Dragon Claw,2.01005025126%,6.47236180905
+17:Hyper Voice,2.01005025126%,6.47236180905
+18:Rock Slide,2.01005025126%,6.47236180905
+19:Power-Up Punch,1.50753768844%,4.85427135678
+20:Thunderbolt,1.50753768844%,4.85427135678
+0:Other,19.5979899497%,63.1055276382
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Crobat
+3:Talonflame
+4:Groudon
+5:Mawile
+6:Xerneas
+7:Smeargle
+8:Kangaskhan
+9:Gengar
+10:Cresselia
+11:Salamence
+12:Landorus
+13:Togekiss
+14:Thundurus
+15:Liepard
+16:Rayquaza
+17:Rayquaza
+18:Yveltal
+19:Ferrothorn
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Rayquaza
+6:Ferrothorn
+7:Mawile
+8:Gengar
+9:Landorus
+10:Salamence
+11:Yveltal
+12:Thundurus
+13:Dialga
+14:Palkia
+15:Garchomp
+16:Infernape
+17:Rayquaza
+18:Sylveon
+19:Malamar
+20:Aegislash

@@ -1,0 +1,164 @@
+33:Raichu|2117
+ ---------- 
+Moves used:
+1:Fake Out,99.9527633444%,2116.0
+2:Feint,61.1242324043%,1294.0
+3:Nuzzle,53.0467642891%,1123.0
+4:Volt Tackle,52.6216343883%,1114.0
+5:Encore,35.7109116675%,756.0
+6:Thunderbolt,26.9721303732%,571.0
+7:Protect,17.288615966%,366.0
+8:Helping Hand,13.8875767596%,294.0
+9:Endeavor,10.108644308%,214.0
+10:Hidden Power,5.24326877657%,111.0
+11:Thunder Wave,4.81813887577%,102.0
+12:Fling,4.20406235239%,89.0
+13:Discharge,3.92064241852%,83.0
+14:Thunder,2.7397260274%,58.0
+15:Brick Break,2.31459612659%,49.0
+16:Knock Off,1.51157298063%,32.0
+17:Swagger,1.46433632499%,31.0
+18:Volt Switch,1.3698630137%,29.0
+19:Grass Knot,0.614076523382%,13.0
+20:Substitute,0.425129900803%,9.0
+0:Other,0.661313179027%,14.0
+
+ ---------- 
+Items used:
+1:Focus Sash,45.6306093529%,966.0
+2:Zap Plate,35.7109116675%,756.0
+3:Magnet,6.3297118564%,134.0
+4:Assault Vest,3.68445914029%,78.0
+5:Lansat Berry,2.17288615966%,46.0
+6:Life Orb,1.93670288144%,41.0
+7:King's Rock,1.88946622579%,40.0
+8:Air Balloon,1.13367973547%,24.0
+9:Bright Powder,0.425129900803%,9.0
+10:Lum Berry,0.330656589513%,7.0
+11:Eject Button,0.188946622579%,4.0
+12:Expert Belt,0.141709966934%,3.0
+13:Salac Berry,0.141709966934%,3.0
+14:Shuca Berry,0.0944733112896%,2.0
+15:Light Ball,0.0472366556448%,1.0
+16:Sitrus Berry,0.0472366556448%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,82.9475673122%,1756.0
+2:Static,17.0524326878%,361.0
+
+ ---------- 
+Natures used:
+1:Jolly,57.8176665092%,1224.0
+2:Timid,32.4043457723%,686.0
+3:Naive,4.91261218706%,104.0
+4:Hasty,2.50354274917%,53.0
+5:Modest,1.98393953708%,42.0
+6:Adamant,0.330656589513%,7.0
+7:Bashful,0.0472366556448%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Gengar
+4:Xerneas
+5:Groudon
+6:Salamence
+7:Talonflame
+8:Kangaskhan
+9:Scizor
+10:Ferrothorn
+11:Yveltal
+12:Crobat
+13:Landorus
+14:Ho-Oh
+15:Mawile
+16:Togekiss
+17:Smeargle
+18:Togetic
+19:Dialga
+20:Lugia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,50.4702194357%,1068.45454545
+2:Thunderbolt,23.0407523511%,487.772727273
+3:Feint,14.4200626959%,305.272727273
+4:Fake Out,3.13479623824%,66.3636363636
+5:Discharge,2.35109717868%,49.7727272727
+6:Thunder,2.35109717868%,49.7727272727
+7:Nuzzle,2.03761755486%,43.1363636364
+8:Hidden Power,1.2539184953%,26.5454545455
+9:Volt Switch,0.783699059561%,16.5909090909
+10:Brick Break,0.156739811912%,3.31818181818
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.2786489747%,238.768998794
+2:Precipice Blades,7.17732207479%,151.943908323
+3:Water Spout,7.17732207479%,151.943908323
+4:Double-Edge,7.11700844391%,150.667068758
+5:Origin Pulse,6.75512665862%,143.006031363
+6:Eruption,6.27261761158%,132.791314837
+7:Extreme Speed,3.98069963812%,84.271411339
+8:Earth Power,3.86007237636%,81.7177322075
+9:Rock Slide,3.13630880579%,66.3956574186
+10:Sucker Punch,3.01568154403%,63.8419782871
+11:Return,2.35223160434%,49.7967430639
+12:Earthquake,2.23160434258%,47.2430639324
+13:Sludge Bomb,2.05066344994%,43.4125452352
+14:Knock Off,1.93003618818%,40.8588661037
+15:Brave Bird,1.74909529554%,37.0283474065
+16:Hyper Voice,1.62846803378%,34.474668275
+17:Ice Beam,1.5681544029%,33.1978287093
+18:Dragon Ascent,1.26658624849%,26.8136308806
+19:Power Whip,1.20627261761%,25.5367913148
+20:Play Rough,0.904704463209%,19.1525934861
+0:Other,16.8878166466%,357.515078408
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kyogre
+3:Crobat
+4:Smeargle
+5:Xerneas
+6:Kangaskhan
+7:Yveltal
+8:Rayquaza
+9:Gengar
+10:Togekiss
+11:Groudon
+12:Liepard
+13:Thundurus
+14:Cresselia
+15:Weavile
+16:Salamence
+17:Gengar
+18:Whimsicott
+19:Ferrothorn
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Landorus
+8:Ferrothorn
+9:Mawile
+10:Talonflame
+11:Yveltal
+12:Gengar
+13:Weavile
+14:Rayquaza
+15:Gengar
+16:Cresselia
+17:Palkia
+18:Kyurem
+19:Terrakion
+20:Kyogre

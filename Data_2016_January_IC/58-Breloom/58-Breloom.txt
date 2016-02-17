@@ -1,0 +1,126 @@
+58:Breloom|15
+ ---------- 
+Moves used:
+1:Spore,100.0%,15.0
+2:Bullet Seed,93.3333333333%,14.0
+3:Mach Punch,80.0%,12.0
+4:Protect,66.6666666667%,10.0
+5:Rock Tomb,20.0%,3.0
+6:Superpower,20.0%,3.0
+7:Seed Bomb,6.66666666667%,1.0
+8:Feint,6.66666666667%,1.0
+9:Rock Slide,6.66666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,73.3333333333%,11.0
+2:Choice Scarf,20.0%,3.0
+3:Life Orb,6.66666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Technician,93.3333333333%,14.0
+2:Effect Spore,6.66666666667%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,53.3333333333%,8.0
+2:Adamant,46.6666666667%,7.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Crobat
+6:Talonflame
+7:Yveltal
+8:Landorus
+9:Salamence
+10:Scizor
+11:Gengar
+12:Aegislash
+13:Mawile
+14:Sylveon
+15:Greninja
+16:Thundurus
+17:Stunfisk
+18:Chandelure
+19:Ferrothorn
+20:Gothitelle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Mach Punch,71.875%,10.78125
+2:Bullet Seed,15.625%,2.34375
+3:Rock Slide,6.25%,0.9375
+4:Rock Tomb,3.125%,0.46875
+5:Superpower,3.125%,0.46875
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.1025641026%,2.11538461538
+2:Double-Edge,8.97435897436%,1.34615384615
+3:Ice Beam,7.69230769231%,1.15384615385
+4:Water Spout,6.41025641026%,0.961538461538
+5:Iron Head,5.12820512821%,0.769230769231
+6:Eruption,5.12820512821%,0.769230769231
+7:Precipice Blades,3.84615384615%,0.576923076923
+8:Gyro Ball,3.84615384615%,0.576923076923
+9:Return,3.84615384615%,0.576923076923
+10:Sludge Bomb,3.84615384615%,0.576923076923
+11:Brave Bird,2.5641025641%,0.384615384615
+12:Hyper Voice,2.5641025641%,0.384615384615
+13:Extreme Speed,2.5641025641%,0.384615384615
+14:Rock Slide,2.5641025641%,0.384615384615
+15:Thunderbolt,2.5641025641%,0.384615384615
+16:Flamethrower,2.5641025641%,0.384615384615
+17:Power-Up Punch,1.28205128205%,0.192307692308
+18:Icicle Crash,1.28205128205%,0.192307692308
+19:Clear Smog,1.28205128205%,0.192307692308
+20:Round,1.28205128205%,0.192307692308
+0:Other,15.3846153846%,2.30769230769
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Liepard
+4:Kyogre
+5:Xerneas
+6:Greninja
+7:Whimsicott
+8:Mawile
+9:Meowstic
+10:Hydreigon
+11:Ferrothorn
+12:Gastrodon
+13:Rayquaza
+14:Rayquaza
+15:Ho-Oh
+16:Smeargle
+17:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Groudon
+4:Kyogre
+5:Mawile
+6:Salamence
+7:Ho-Oh
+8:Landorus
+9:Thundurus
+10:Ferrothorn
+11:Amoonguss
+12:Cresselia
+13:Rayquaza
+14:Gengar
+15:Yveltal
+16:Sylveon
+17:Talonflame
+18:Liepard
+19:Heatran
+20:Weavile

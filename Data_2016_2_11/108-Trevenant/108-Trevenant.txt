@@ -1,0 +1,114 @@
+108:Trevenant|89
+ ---------- 
+Moves used:
+1:Trick Room,91.0112359551%,81.0
+2:Phantom Force,83.1460674157%,74.0
+3:Curse,82.0224719101%,73.0
+4:Protect,69.6629213483%,62.0
+5:Forest's Curse,34.8314606742%,31.0
+6:Will-O-Wisp,12.3595505618%,11.0
+7:Wood Hammer,7.86516853933%,7.0
+8:Leech Seed,5.61797752809%,5.0
+9:Horn Leech,4.49438202247%,4.0
+10:Foul Play,4.49438202247%,4.0
+11:Magic Coat,3.37078651685%,3.0
+12:Destiny Bond,1.12359550562%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,95.5056179775%,85.0
+2:Focus Sash,4.49438202247%,4.0
+
+ ---------- 
+Abilities used:
+1:Harvest,95.5056179775%,85.0
+2:Frisk,4.49438202247%,4.0
+
+ ---------- 
+Natures used:
+1:Careful,82.0224719101%,73.0
+2:Sassy,8.98876404494%,8.0
+3:Impish,4.49438202247%,4.0
+4:Brave,3.37078651685%,3.0
+5:Relaxed,1.12359550562%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Yveltal
+4:Sylveon
+5:Mawile
+6:Groudon
+7:Talonflame
+8:Landorus
+9:Cresselia
+10:Liepard
+11:Kyurem
+12:Ferrothorn
+13:Gigalith
+14:Weavile
+15:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,92.8571428571%,82.6428571429
+2:Destiny Bond,7.14285714286%,6.35714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,18.1818181818%,16.1818181818
+2:Ice Beam,15.1515151515%,13.4848484848
+3:Dragon Ascent,9.09090909091%,8.09090909091
+4:Dazzling Gleam,9.09090909091%,8.09090909091
+5:Brave Bird,9.09090909091%,8.09090909091
+6:Moonblast,4.54545454545%,4.04545454545
+7:Iron Head,3.0303030303%,2.69696969697
+8:Overheat,3.0303030303%,2.69696969697
+9:Hyper Voice,3.0303030303%,2.69696969697
+10:Psychic,3.0303030303%,2.69696969697
+11:Fire Punch,3.0303030303%,2.69696969697
+12:Precipice Blades,1.51515151515%,1.34848484848
+13:Play Rough,1.51515151515%,1.34848484848
+14:Phantom Force,1.51515151515%,1.34848484848
+15:Foul Play,1.51515151515%,1.34848484848
+16:Power Whip,1.51515151515%,1.34848484848
+17:Sucker Punch,1.51515151515%,1.34848484848
+18:U-turn,1.51515151515%,1.34848484848
+19:Gyro Ball,1.51515151515%,1.34848484848
+20:Shadow Ball,1.51515151515%,1.34848484848
+0:Other,1.51515151515%,1.34848484848
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Ferrothorn
+4:Thundurus
+5:Amoonguss
+6:Togekiss
+7:Crobat
+8:Gengar
+9:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Rayquaza
+6:Mawile
+7:Ferrothorn
+8:Cresselia
+9:Rayquaza
+10:Salamence
+11:Ditto
+12:Whimsicott
+13:Liepard
+14:Giratina
+15:Ho-Oh
+16:Crobat
+17:Kangaskhan
+18:Gengar
+19:Nidoking

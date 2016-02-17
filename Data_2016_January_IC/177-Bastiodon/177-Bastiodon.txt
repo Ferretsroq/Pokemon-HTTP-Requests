@@ -1,0 +1,43 @@
+177:Bastiodon|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Metal Sound,100.0%,1.0
+3:Magic Coat,100.0%,1.0
+4:Roar,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Chople Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Talonflame
+3:Cresselia
+4:Groudon
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,0.5
+2:Double Kick,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Terrakion
+2:Groudon

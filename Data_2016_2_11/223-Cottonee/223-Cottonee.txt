@@ -1,0 +1,66 @@
+223:Cottonee|7
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,7.0
+2:Encore,85.7142857143%,6.0
+3:Safeguard,42.8571428571%,3.0
+4:Tailwind,28.5714285714%,2.0
+5:Fake Tears,28.5714285714%,2.0
+6:Protect,28.5714285714%,2.0
+7:Substitute,28.5714285714%,2.0
+8:Leech Seed,28.5714285714%,2.0
+9:Swagger,14.2857142857%,1.0
+10:Toxic,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Prankster,71.4285714286%,5.0
+2:Infiltrator,28.5714285714%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,71.4285714286%,5.0
+2:Bold,28.5714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Greninja
+5:Ferrothorn
+6:Giratina
+7:Rayquaza
+8:Amoonguss
+9:Kyogre
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,14.2857142857%,1.0
+2:Hyper Voice,14.2857142857%,1.0
+3:Eruption,14.2857142857%,1.0
+4:Fake Out,14.2857142857%,1.0
+5:Extreme Speed,14.2857142857%,1.0
+6:Psychic,14.2857142857%,1.0
+7:Ice Beam,14.2857142857%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Cresselia
+3:Rayquaza
+4:Groudon
+5:Kyogre
+6:Gardevoir
+7:Ludicolo

@@ -1,0 +1,43 @@
+255:Weezing|1
+ ---------- 
+Moves used:
+1:Will-O-Wisp,100.0%,1.0
+2:Pain Split,100.0%,1.0
+3:Toxic,100.0%,1.0
+4:Flamethrower,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flamethrower,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,0.5
+2:Iron Head,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Mawile

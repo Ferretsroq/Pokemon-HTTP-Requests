@@ -1,0 +1,75 @@
+209:Tyrantrum|16
+ ---------- 
+Moves used:
+1:Head Smash,100.0%,16.0
+2:Earthquake,100.0%,16.0
+3:Dragon Claw,93.75%,15.0
+4:Iron Head,81.25%,13.0
+5:Dragon Dance,18.75%,3.0
+6:Ice Fang,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,81.25%,13.0
+2:Focus Sash,12.5%,2.0
+3:Lum Berry,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Rock Head,100.0%,16.0
+
+ ---------- 
+Natures used:
+1:Jolly,87.5%,14.0
+2:Adamant,12.5%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Heliolisk
+3:Yveltal
+4:Kyogre
+5:Metagross
+6:Gothitelle
+7:Talonflame
+8:Lickilicky
+9:Hippowdon
+10:Scizor
+11:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Head Smash,100.0%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,14.2857142857%,2.28571428571
+2:Precipice Blades,7.14285714286%,1.14285714286
+3:Origin Pulse,7.14285714286%,1.14285714286
+4:Dazzling Gleam,7.14285714286%,1.14285714286
+5:Moonblast,7.14285714286%,1.14285714286
+6:Foul Play,7.14285714286%,1.14285714286
+7:Draco Meteor,7.14285714286%,1.14285714286
+8:Earth Power,7.14285714286%,1.14285714286
+9:Brave Bird,7.14285714286%,1.14285714286
+10:Eruption,7.14285714286%,1.14285714286
+11:Fake Out,7.14285714286%,1.14285714286
+12:Extreme Speed,7.14285714286%,1.14285714286
+13:Earthquake,7.14285714286%,1.14285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+2:Togekiss
+3:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Rayquaza
+5:Talonflame
+6:Liepard
+7:Kyogre
+8:Salamence

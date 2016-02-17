@@ -1,0 +1,55 @@
+201:Misdreavus|14
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,14.0
+2:Skill Swap,100.0%,14.0
+3:Imprison,57.1428571429%,8.0
+4:Thunder Wave,57.1428571429%,8.0
+5:Will-O-Wisp,42.8571428571%,6.0
+6:Pain Split,35.7142857143%,5.0
+7:Foul Play,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,14.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,14.0
+
+ ---------- 
+Natures used:
+1:Calm,57.1428571429%,8.0
+2:Sassy,42.8571428571%,6.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Landorus
+4:Kyogre
+5:Smeargle
+6:Kangaskhan
+7:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,14.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,4.66666666667
+2:Origin Pulse,16.6666666667%,2.33333333333
+3:Shadow Force,16.6666666667%,2.33333333333
+4:Psycho Cut,16.6666666667%,2.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Giratina
+3:Kyogre
+4:Mewtwo

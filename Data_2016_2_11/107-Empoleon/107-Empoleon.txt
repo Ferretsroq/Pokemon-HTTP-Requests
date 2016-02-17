@@ -1,0 +1,130 @@
+107:Empoleon|90
+ ---------- 
+Moves used:
+1:Ice Beam,100.0%,90.0
+2:Flash Cannon,97.7777777778%,88.0
+3:Grass Knot,95.5555555556%,86.0
+4:Scald,91.1111111111%,82.0
+5:Aqua Jet,5.55555555556%,5.0
+6:Protect,5.55555555556%,5.0
+7:Steel Wing,2.22222222222%,2.0
+8:Hydro Pump,2.22222222222%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,48.8888888889%,44.0
+2:Shuca Berry,43.3333333333%,39.0
+3:Leftovers,5.55555555556%,5.0
+4:Expert Belt,2.22222222222%,2.0
+
+ ---------- 
+Abilities used:
+1:Torrent,96.6666666667%,87.0
+2:Defiant,3.33333333333%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,53.3333333333%,48.0
+2:Calm,43.3333333333%,39.0
+3:Quiet,3.33333333333%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Crobat
+4:Krookodile
+5:Gastrodon
+6:Groudon
+7:Serperior
+8:Togekiss
+9:Kangaskhan
+10:Mienshao
+11:Venusaur
+12:Yveltal
+13:Hydreigon
+14:Whimsicott
+15:Rotom
+16:Weavile
+17:Giratina
+18:Kyogre
+19:Granbull
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,32.7272727273%,29.4545454545
+2:Ice Beam,30.9090909091%,27.8181818182
+3:Flash Cannon,20.0%,18.0
+4:Grass Knot,12.7272727273%,11.4545454545
+5:Aqua Jet,1.81818181818%,1.63636363636
+6:Steel Wing,1.81818181818%,1.63636363636
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.57142857143%,7.71428571429
+2:Water Spout,8.57142857143%,7.71428571429
+3:Dragon Ascent,5.71428571429%,5.14285714286
+4:Precipice Blades,5.71428571429%,5.14285714286
+5:Power-Up Punch,5.71428571429%,5.14285714286
+6:Eruption,5.71428571429%,5.14285714286
+7:Thunder,5.71428571429%,5.14285714286
+8:Sucker Punch,4.28571428571%,3.85714285714
+9:Earthquake,4.28571428571%,3.85714285714
+10:Thunderbolt,4.28571428571%,3.85714285714
+11:Low Kick,4.28571428571%,3.85714285714
+12:Earth Power,2.85714285714%,2.57142857143
+13:Flare Blitz,2.85714285714%,2.57142857143
+14:Knock Off,2.85714285714%,2.57142857143
+15:Superpower,2.85714285714%,2.57142857143
+16:Rock Slide,2.85714285714%,2.57142857143
+17:Ice Beam,2.85714285714%,2.57142857143
+18:Fire Punch,2.85714285714%,2.57142857143
+19:Origin Pulse,1.42857142857%,1.28571428571
+20:Foul Play,1.42857142857%,1.28571428571
+0:Other,11.4285714286%,10.2857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Salamence
+3:Xerneas
+4:Kyogre
+5:Rayquaza
+6:Kangaskhan
+7:Weavile
+8:Groudon
+9:Thundurus
+10:Whimsicott
+11:Smeargle
+12:Clefairy
+13:Sylveon
+14:Meowstic
+15:Zekrom
+16:Mienshao
+17:Amoonguss
+18:Liepard
+19:Scizor
+20:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Yveltal
+7:Talonflame
+8:Landorus
+9:Thundurus
+10:Ferrothorn
+11:Cresselia
+12:Rayquaza
+13:Mawile
+14:Giratina
+15:Salamence
+16:Breloom
+17:Swampert
+18:Zapdos
+19:Raichu

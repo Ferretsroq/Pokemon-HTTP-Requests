@@ -1,0 +1,95 @@
+163:Flygon|40
+ ---------- 
+Moves used:
+1:Draco Meteor,100.0%,40.0
+2:Earth Power,100.0%,40.0
+3:Tailwind,82.5%,33.0
+4:Feint,82.5%,33.0
+5:Protect,17.5%,7.0
+6:Flamethrower,17.5%,7.0
+
+ ---------- 
+Items used:
+1:Focus Sash,82.5%,33.0
+2:Life Orb,17.5%,7.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,40.0
+
+ ---------- 
+Natures used:
+1:Naive,82.5%,33.0
+2:Timid,17.5%,7.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Zekrom
+4:Crobat
+5:Greninja
+6:Thundurus
+7:Xerneas
+8:Kyurem
+9:Rayquaza
+10:Klefki
+11:Reshiram
+12:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,47.3684210526%,18.9473684211
+2:Draco Meteor,21.0526315789%,8.42105263158
+3:Feint,15.7894736842%,6.31578947368
+4:Flamethrower,15.7894736842%,6.31578947368
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,11.1111111111%,4.44444444444
+2:Gyro Ball,11.1111111111%,4.44444444444
+3:Water Spout,11.1111111111%,4.44444444444
+4:Eruption,11.1111111111%,4.44444444444
+5:Ice Beam,11.1111111111%,4.44444444444
+6:Dazzling Gleam,7.40740740741%,2.96296296296
+7:Moonblast,3.7037037037%,1.48148148148
+8:Scald,3.7037037037%,1.48148148148
+9:Spacial Rend,3.7037037037%,1.48148148148
+10:Iron Head,3.7037037037%,1.48148148148
+11:Flash Cannon,3.7037037037%,1.48148148148
+12:Sucker Punch,3.7037037037%,1.48148148148
+13:Rock Slide,3.7037037037%,1.48148148148
+14:Quick Attack,3.7037037037%,1.48148148148
+15:Flamethrower,3.7037037037%,1.48148148148
+16:Double-Edge,3.7037037037%,1.48148148148
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Ferrothorn
+3:Kangaskhan
+4:Yveltal
+5:Xerneas
+6:Kyurem
+7:Whimsicott
+8:Dialga
+9:Kyogre
+10:Salamence
+11:Ditto
+12:Starmie
+13:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Cresselia
+3:Groudon
+4:Mawile
+5:Xerneas
+6:Ferrothorn
+7:Palkia
+8:Magnezone
+9:Bronzong
+10:Gastrodon
+11:Staraptor
+12:Kangaskhan

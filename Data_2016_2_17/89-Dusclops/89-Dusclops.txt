@@ -1,0 +1,130 @@
+89:Dusclops|189
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,189.0
+2:Night Shade,73.0158730159%,138.0
+3:Skill Swap,60.8465608466%,115.0
+4:Will-O-Wisp,53.4391534392%,101.0
+5:Haze,46.0317460317%,87.0
+6:Pain Split,44.9735449735%,85.0
+7:Gravity,7.40740740741%,14.0
+8:Disable,5.82010582011%,11.0
+9:Confuse Ray,3.1746031746%,6.0
+10:Taunt,1.5873015873%,3.0
+11:Protect,1.5873015873%,3.0
+12:Ice Punch,1.0582010582%,2.0
+13:Destiny Bond,0.529100529101%,1.0
+14:Curse,0.529100529101%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,189.0
+
+ ---------- 
+Abilities used:
+1:Frisk,83.5978835979%,158.0
+2:Pressure,16.4021164021%,31.0
+
+ ---------- 
+Natures used:
+1:Relaxed,68.253968254%,129.0
+2:Sassy,27.5132275132%,52.0
+3:Careful,3.7037037037%,7.0
+4:Bold,0.529100529101%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Rayquaza
+4:Togekiss
+5:Talonflame
+6:Groudon
+7:Ferrothorn
+8:Nidoqueen
+9:Yveltal
+10:Hariyama
+11:Kangaskhan
+12:Xerneas
+13:Salamence
+14:Liepard
+15:Smeargle
+16:Lapras
+17:Thundurus
+18:Amoonguss
+19:Kecleon
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Night Shade,100.0%,189.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.8108108108%,20.4324324324
+2:Moonblast,9.90990990991%,18.7297297297
+3:Eruption,8.10810810811%,15.3243243243
+4:Origin Pulse,7.20720720721%,13.6216216216
+5:Dragon Ascent,6.30630630631%,11.9189189189
+6:Precipice Blades,6.30630630631%,11.9189189189
+7:Water Spout,6.30630630631%,11.9189189189
+8:Brave Bird,5.40540540541%,10.2162162162
+9:Draco Meteor,4.5045045045%,8.51351351351
+10:Sucker Punch,3.6036036036%,6.81081081081
+11:Shadow Ball,3.6036036036%,6.81081081081
+12:Hyper Voice,2.7027027027%,5.10810810811
+13:Flamethrower,2.7027027027%,5.10810810811
+14:Foul Play,1.8018018018%,3.40540540541
+15:Spacial Rend,1.8018018018%,3.40540540541
+16:Power Whip,1.8018018018%,3.40540540541
+17:Dragon Pulse,1.8018018018%,3.40540540541
+18:Air Slash,1.8018018018%,3.40540540541
+19:Dark Pulse,1.8018018018%,3.40540540541
+20:Shadow Force,0.900900900901%,1.7027027027
+0:Other,9.00900900901%,17.027027027
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Cresselia
+4:Xerneas
+5:Talonflame
+6:Thundurus
+7:Weavile
+8:Salamence
+9:Crobat
+10:Aegislash
+11:Ferrothorn
+12:Amoonguss
+13:Seismitoad
+14:Palkia
+15:Bronzong
+16:Rayquaza
+17:Rayquaza
+18:Mawile
+19:Ho-Oh
+20:Lugia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Salamence
+6:Talonflame
+7:Kangaskhan
+8:Dialga
+9:Aegislash
+10:Ferrothorn
+11:Palkia
+12:Togekiss
+13:Mawile
+14:Ho-Oh
+15:Yveltal
+16:Noivern
+17:Hydreigon
+18:Liepard
+19:Cresselia
+20:Giratina

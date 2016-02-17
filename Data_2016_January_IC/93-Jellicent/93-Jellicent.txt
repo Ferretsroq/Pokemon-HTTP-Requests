@@ -1,0 +1,87 @@
+93:Jellicent|4
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,4.0
+2:Water Spout,50.0%,2.0
+3:Will-O-Wisp,50.0%,2.0
+4:Protect,50.0%,2.0
+5:Recover,50.0%,2.0
+6:Scald,25.0%,1.0
+7:Shadow Ball,25.0%,1.0
+8:Icy Wind,25.0%,1.0
+9:Ice Beam,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,50.0%,2.0
+2:Sitrus Berry,25.0%,1.0
+3:Lum Berry,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Cursed Body,75.0%,3.0
+2:Water Absorb,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,50.0%,2.0
+2:Sassy,25.0%,1.0
+3:Relaxed,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Kyogre
+3:Groudon
+4:Talonflame
+5:Landorus
+6:Thundurus
+7:Amoonguss
+8:Whimsicott
+9:Liepard
+10:Cresselia
+11:Palkia
+12:Latias
+13:Ho-Oh
+14:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Water Spout,47.0588235294%,1.88235294118
+2:Scald,41.1764705882%,1.64705882353
+3:Icy Wind,11.7647058824%,0.470588235294
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,42.8571428571%,1.71428571429
+2:Moonblast,9.52380952381%,0.380952380952
+3:Earth Power,9.52380952381%,0.380952380952
+4:Hyper Voice,9.52380952381%,0.380952380952
+5:Dragon Ascent,4.7619047619%,0.190476190476
+6:Dazzling Gleam,4.7619047619%,0.190476190476
+7:Foul Play,4.7619047619%,0.190476190476
+8:Power Whip,4.7619047619%,0.190476190476
+9:Brave Bird,4.7619047619%,0.190476190476
+10:Thunderbolt,4.7619047619%,0.190476190476
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Smeargle
+5:Salamence
+6:Sableye
+7:Hitmontop
+8:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Talonflame
+5:Thundurus
+6:Ferrothorn
+7:Liepard
+8:Rayquaza

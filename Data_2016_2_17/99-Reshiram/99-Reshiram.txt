@@ -1,0 +1,143 @@
+99:Reshiram|150
+ ---------- 
+Moves used:
+1:Fusion Flare,65.3333333333%,98.0
+2:Draco Meteor,59.3333333333%,89.0
+3:Earth Power,49.3333333333%,74.0
+4:Protect,49.3333333333%,74.0
+5:Dragon Pulse,38.6666666667%,58.0
+6:Tailwind,24.0%,36.0
+7:Substitute,20.6666666667%,31.0
+8:Flamethrower,18.6666666667%,28.0
+9:Focus Blast,18.0%,27.0
+10:Solar Beam,18.0%,27.0
+11:Blue Flare,17.3333333333%,26.0
+12:Heat Wave,8.66666666667%,13.0
+13:Shadow Ball,6.0%,9.0
+14:Stone Edge,2.0%,3.0
+15:Extrasensory,2.0%,3.0
+16:Dragon Breath,1.33333333333%,2.0
+17:Slash,1.33333333333%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,48.6666666667%,73.0
+2:Air Balloon,24.0%,36.0
+3:Choice Scarf,24.0%,36.0
+4:Assault Vest,2.0%,3.0
+5:Shuca Berry,1.33333333333%,2.0
+
+ ---------- 
+Abilities used:
+1:Turboblaze,100.0%,150.0
+
+ ---------- 
+Natures used:
+1:Timid,40.6666666667%,61.0
+2:Modest,34.6666666667%,52.0
+3:Calm,24.0%,36.0
+4:Quirky,0.666666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Talonflame
+4:Zekrom
+5:Raichu
+6:Crobat
+7:Groudon
+8:Garchomp
+9:Ditto
+10:Xerneas
+11:Thundurus
+12:Glalie
+13:Landorus
+14:Whimsicott
+15:Venusaur
+16:Mienshao
+17:Amoonguss
+18:Archeops
+19:Bronzong
+20:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fusion Flare,36.0824742268%,54.1237113402
+2:Dragon Pulse,22.6804123711%,34.0206185567
+3:Draco Meteor,16.4948453608%,24.7422680412
+4:Earth Power,10.3092783505%,15.4639175258
+5:Flamethrower,6.18556701031%,9.27835051546
+6:Blue Flare,5.15463917526%,7.73195876289
+7:Heat Wave,2.0618556701%,3.09278350515
+8:Focus Blast,1.03092783505%,1.54639175258
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.4757281553%,26.213592233
+2:Dazzling Gleam,11.6504854369%,17.4757281553
+3:Origin Pulse,5.82524271845%,8.73786407767
+4:Earth Power,5.82524271845%,8.73786407767
+5:Double-Edge,5.82524271845%,8.73786407767
+6:Moonblast,4.85436893204%,7.28155339806
+7:Sucker Punch,4.85436893204%,7.28155339806
+8:Water Spout,3.88349514563%,5.82524271845
+9:Earthquake,3.88349514563%,5.82524271845
+10:Draco Meteor,2.91262135922%,4.36893203883
+11:Extreme Speed,2.91262135922%,4.36893203883
+12:Dragon Ascent,1.94174757282%,2.91262135922
+13:Play Rough,1.94174757282%,2.91262135922
+14:Spacial Rend,1.94174757282%,2.91262135922
+15:Fake Out,1.94174757282%,2.91262135922
+16:Rock Slide,1.94174757282%,2.91262135922
+17:Ice Beam,1.94174757282%,2.91262135922
+18:Oblivion Wing,0.970873786408%,1.45631067961
+19:Scald,0.970873786408%,1.45631067961
+20:Stone Edge,0.970873786408%,1.45631067961
+0:Other,7.76699029126%,11.6504854369
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Cresselia
+5:Salamence
+6:Talonflame
+7:Ferrothorn
+8:Yveltal
+9:Rayquaza
+10:Smeargle
+11:Whimsicott
+12:Weavile
+13:Mawile
+14:Crobat
+15:Mienshao
+16:Liepard
+17:Abomasnow
+18:Sableye
+19:Gengar
+20:Aegislash
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Landorus
+7:Mawile
+8:Palkia
+9:Yveltal
+10:Salamence
+11:Thundurus
+12:Cresselia
+13:Giratina
+14:Rayquaza
+15:Salamence
+16:Breloom
+17:Ho-Oh
+18:Lugia
+19:Aerodactyl
+20:Gengar

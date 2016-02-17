@@ -1,0 +1,90 @@
+187:Audino|25
+ ---------- 
+Moves used:
+1:Heal Pulse,76.0%,19.0
+2:Trick Room,64.0%,16.0
+3:Helping Hand,56.0%,14.0
+4:Magic Coat,48.0%,12.0
+5:Icy Wind,36.0%,9.0
+6:Simple Beam,28.0%,7.0
+7:Safeguard,28.0%,7.0
+8:Entrainment,12.0%,3.0
+9:Encore,12.0%,3.0
+10:Heal Bell,12.0%,3.0
+11:Dazzling Gleam,8.0%,2.0
+12:Gravity,8.0%,2.0
+13:Skill Swap,4.0%,1.0
+14:Protect,4.0%,1.0
+15:Thunder Wave,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Audinite,56.0%,14.0
+2:Mental Herb,32.0%,8.0
+3:Safety Goggles,12.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,88.0%,22.0
+2:Healer,12.0%,3.0
+
+ ---------- 
+Natures used:
+1:Bold,48.0%,12.0
+2:Sassy,28.0%,7.0
+3:Calm,12.0%,3.0
+4:Relaxed,12.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Cresselia
+4:Landorus
+5:Amoonguss
+6:Kyogre
+7:Crobat
+8:Kyurem
+9:Rayquaza
+10:Salamence
+11:Mawile
+12:Sableye
+13:Cobalion
+14:Ferrothorn
+15:Liepard
+16:Manectric
+17:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,100.0%,25.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,21.0526315789%,5.26315789474
+2:Dazzling Gleam,15.7894736842%,3.94736842105
+3:Earthquake,10.5263157895%,2.63157894737
+4:Double-Edge,10.5263157895%,2.63157894737
+5:Origin Pulse,5.26315789474%,1.31578947368
+6:Moonblast,5.26315789474%,1.31578947368
+7:Iron Head,5.26315789474%,1.31578947368
+8:Water Spout,5.26315789474%,1.31578947368
+9:Hyper Voice,5.26315789474%,1.31578947368
+10:Extreme Speed,5.26315789474%,1.31578947368
+11:Return,5.26315789474%,1.31578947368
+12:Flamethrower,5.26315789474%,1.31578947368
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Landorus
+6:Rayquaza
+7:Salamence
+8:Mawile

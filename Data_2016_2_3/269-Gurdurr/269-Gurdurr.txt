@@ -1,0 +1,39 @@
+269:Gurdurr|1
+ ---------- 
+Moves used:
+1:Drain Punch,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Rain Dance,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Archeops
+3:Tympole
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Oblivion Wing,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal

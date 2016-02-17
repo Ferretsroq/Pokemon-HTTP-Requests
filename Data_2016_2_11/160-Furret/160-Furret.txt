@@ -1,0 +1,87 @@
+160:Furret|32
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,32.0
+2:Charm,96.875%,31.0
+3:Knock Off,84.375%,27.0
+4:Protect,84.375%,27.0
+5:Helping Hand,15.625%,5.0
+6:Fling,12.5%,4.0
+7:Trick,3.125%,1.0
+8:Super Fang,3.125%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,71.875%,23.0
+2:Focus Sash,12.5%,4.0
+3:Light Ball,12.5%,4.0
+4:Choice Scarf,3.125%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,32.0
+
+ ---------- 
+Natures used:
+1:Impish,71.875%,23.0
+2:Jolly,28.125%,9.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Azumarill
+4:Raichu
+5:Xerneas
+6:Groudon
+7:Ferrothorn
+8:Salamence
+9:Aegislash
+10:Mawile
+11:Landorus
+12:Heatran
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,10.0%,3.2
+2:Origin Pulse,6.66666666667%,2.13333333333
+3:Power-Up Punch,6.66666666667%,2.13333333333
+4:Dazzling Gleam,6.66666666667%,2.13333333333
+5:Earth Power,6.66666666667%,2.13333333333
+6:Water Spout,6.66666666667%,2.13333333333
+7:Return,6.66666666667%,2.13333333333
+8:Ice Beam,6.66666666667%,2.13333333333
+9:Double-Edge,6.66666666667%,2.13333333333
+10:Dragon Ascent,3.33333333333%,1.06666666667
+11:Precipice Blades,3.33333333333%,1.06666666667
+12:Oblivion Wing,3.33333333333%,1.06666666667
+13:Moonblast,3.33333333333%,1.06666666667
+14:Play Rough,3.33333333333%,1.06666666667
+15:Foul Play,3.33333333333%,1.06666666667
+16:Brave Bird,3.33333333333%,1.06666666667
+17:Eruption,3.33333333333%,1.06666666667
+18:Extreme Speed,3.33333333333%,1.06666666667
+19:Psychic,3.33333333333%,1.06666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Xerneas
+5:Salamence
+6:Yveltal
+7:Meowstic
+8:Talonflame
+9:Liepard
+10:Rayquaza
+11:Rayquaza
+12:Kyogre
+13:Mawile
+14:Mewtwo

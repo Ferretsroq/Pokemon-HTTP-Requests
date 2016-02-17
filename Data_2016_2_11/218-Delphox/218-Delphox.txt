@@ -1,0 +1,71 @@
+218:Delphox|9
+ ---------- 
+Moves used:
+1:Psychic,88.8888888889%,8.0
+2:Fire Blast,77.7777777778%,7.0
+3:Heat Wave,66.6666666667%,6.0
+4:Calm Mind,55.5555555556%,5.0
+5:Skill Swap,33.3333333333%,3.0
+6:Hypnosis,33.3333333333%,3.0
+7:Dazzling Gleam,11.1111111111%,1.0
+8:Overheat,11.1111111111%,1.0
+9:Trick,11.1111111111%,1.0
+10:Protect,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,55.5555555556%,5.0
+2:Focus Sash,33.3333333333%,3.0
+3:Choice Scarf,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Blaze,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Timid,88.8888888889%,8.0
+2:Modest,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Mewtwo
+5:Gengar
+6:Landorus
+7:Cresselia
+8:Dialga
+9:Togekiss
+10:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,50.0%,4.5
+2:Fire Blast,25.0%,2.25
+3:Psychic,25.0%,2.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,28.5714285714%,2.57142857143
+2:Earth Power,14.2857142857%,1.28571428571
+3:Hyper Voice,14.2857142857%,1.28571428571
+4:Fake Out,14.2857142857%,1.28571428571
+5:Extreme Speed,14.2857142857%,1.28571428571
+6:Earthquake,14.2857142857%,1.28571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Togekiss
+2:Ho-Oh
+3:Smeargle
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Groudon
+4:Salamence
+5:Kangaskhan

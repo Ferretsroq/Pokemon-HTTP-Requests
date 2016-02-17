@@ -1,0 +1,137 @@
+116:Seismitoad|116
+ ---------- 
+Moves used:
+1:Earth Power,95.6896551724%,111.0
+2:Scald,80.1724137931%,93.0
+3:Grass Knot,74.1379310345%,86.0
+4:Icy Wind,74.1379310345%,86.0
+5:Sludge Bomb,17.2413793103%,20.0
+6:Protect,15.5172413793%,18.0
+7:After You,13.7931034483%,16.0
+8:Endeavor,12.9310344828%,15.0
+9:Surf,10.3448275862%,12.0
+10:Gastro Acid,4.31034482759%,5.0
+11:Muddy Water,1.72413793103%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,74.1379310345%,86.0
+2:Focus Sash,20.6896551724%,24.0
+3:Lum Berry,3.44827586207%,4.0
+4:Earth Plate,0.862068965517%,1.0
+5:Custap Berry,0.862068965517%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,74.1379310345%,86.0
+2:Swift Swim,25.8620689655%,30.0
+
+ ---------- 
+Natures used:
+1:Quiet,67.2413793103%,78.0
+2:Bold,12.9310344828%,15.0
+3:Timid,11.2068965517%,13.0
+4:Modest,6.89655172414%,8.0
+5:Sassy,1.72413793103%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Crobat
+4:Kyogre
+5:Kangaskhan
+6:Togekiss
+7:Ferrothorn
+8:Ditto
+9:Froslass
+10:Raichu
+11:Talonflame
+12:Weavile
+13:Yveltal
+14:Reshiram
+15:Dialga
+16:Mawile
+17:Clefairy
+18:Xerneas
+19:Ambipom
+20:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,33.8983050847%,39.3220338983
+2:Earth Power,27.1186440678%,31.4576271186
+3:Icy Wind,25.4237288136%,29.4915254237
+4:Surf,6.77966101695%,7.86440677966
+5:Grass Knot,5.08474576271%,5.89830508475
+6:Sludge Bomb,1.69491525424%,1.96610169492
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.2272727273%,11.8636363636
+2:Dragon Ascent,9.09090909091%,10.5454545455
+3:Moonblast,5.68181818182%,6.59090909091
+4:Earth Power,5.68181818182%,6.59090909091
+5:Hyper Voice,5.68181818182%,6.59090909091
+6:Ice Beam,5.68181818182%,6.59090909091
+7:Water Spout,4.54545454545%,5.27272727273
+8:Double-Edge,4.54545454545%,5.27272727273
+9:Precipice Blades,3.40909090909%,3.95454545455
+10:Origin Pulse,3.40909090909%,3.95454545455
+11:Brave Bird,3.40909090909%,3.95454545455
+12:Gyro Ball,3.40909090909%,3.95454545455
+13:Eruption,3.40909090909%,3.95454545455
+14:Return,3.40909090909%,3.95454545455
+15:Play Rough,2.27272727273%,2.63636363636
+16:Power Whip,2.27272727273%,2.63636363636
+17:Dragon Pulse,2.27272727273%,2.63636363636
+18:Fake Out,2.27272727273%,2.63636363636
+19:Hidden Power,2.27272727273%,2.63636363636
+20:Psychic,2.27272727273%,2.63636363636
+0:Other,13.6363636364%,15.8181818182
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Kangaskhan
+4:Whimsicott
+5:Dialga
+6:Smeargle
+7:Xerneas
+8:Cresselia
+9:Rayquaza
+10:Kyogre
+11:Salamence
+12:Mawile
+13:Landorus
+14:Thundurus
+15:Terrakion
+16:Amoonguss
+17:Gothitelle
+18:Weavile
+19:Rayquaza
+20:Metagross
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Rayquaza
+7:Talonflame
+8:Thundurus
+9:Bronzong
+10:Rayquaza
+11:Ferrothorn
+12:Palkia
+13:Dialga
+14:Mawile
+15:Yveltal
+16:Kyurem
+17:Landorus
+18:Amoonguss
+19:Liepard
+20:Cresselia

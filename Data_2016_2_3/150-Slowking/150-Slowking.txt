@@ -1,0 +1,76 @@
+150:Slowking|25
+ ---------- 
+Moves used:
+1:Trick Room,88.0%,22.0
+2:Skill Swap,60.0%,15.0
+3:Scald,40.0%,10.0
+4:Magic Coat,40.0%,10.0
+5:Safeguard,36.0%,9.0
+6:Swagger,36.0%,9.0
+7:After You,24.0%,6.0
+8:Foul Play,24.0%,6.0
+9:Psychic,24.0%,6.0
+10:Protect,16.0%,4.0
+11:Flamethrower,12.0%,3.0
+
+ ---------- 
+Items used:
+1:Lum Berry,96.0%,24.0
+2:Sitrus Berry,4.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,76.0%,19.0
+2:Regenerator,24.0%,6.0
+
+ ---------- 
+Natures used:
+1:Bold,40.0%,10.0
+2:Relaxed,36.0%,9.0
+3:Sassy,24.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Kyogre
+3:Groudon
+4:Ferrothorn
+5:Mawile
+6:Rayquaza
+7:Kangaskhan
+8:Whimsicott
+9:Azumarill
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,4.16666666667
+2:Power Whip,11.1111111111%,2.77777777778
+3:U-turn,11.1111111111%,2.77777777778
+4:Double-Edge,11.1111111111%,2.77777777778
+5:Dazzling Gleam,5.55555555556%,1.38888888889
+6:Moonblast,5.55555555556%,1.38888888889
+7:Sucker Punch,5.55555555556%,1.38888888889
+8:Hyper Voice,5.55555555556%,1.38888888889
+9:Eruption,5.55555555556%,1.38888888889
+10:Extreme Speed,5.55555555556%,1.38888888889
+11:Return,5.55555555556%,1.38888888889
+12:Earthquake,5.55555555556%,1.38888888889
+13:Thunder,5.55555555556%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Landorus
+5:Ferrothorn
+6:Salamence
+7:Rayquaza
+8:Kyogre
+9:Gyarados

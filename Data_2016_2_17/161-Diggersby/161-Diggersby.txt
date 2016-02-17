@@ -1,0 +1,125 @@
+161:Diggersby|41
+ ---------- 
+Moves used:
+1:Earthquake,80.487804878%,33.0
+2:Frustration,46.3414634146%,19.0
+3:Quick Attack,46.3414634146%,19.0
+4:Knock Off,43.9024390244%,18.0
+5:Return,43.9024390244%,18.0
+6:Protect,43.9024390244%,18.0
+7:Foul Play,26.8292682927%,11.0
+8:Swords Dance,17.0731707317%,7.0
+9:Rock Slide,12.1951219512%,5.0
+10:Double Kick,12.1951219512%,5.0
+11:Ice Punch,9.75609756098%,4.0
+12:Superpower,7.31707317073%,3.0
+13:Fire Punch,7.31707317073%,3.0
+14:Giga Impact,2.43902439024%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,31.7073170732%,13.0
+2:Choice Scarf,29.2682926829%,12.0
+3:Choice Band,26.8292682927%,11.0
+4:Life Orb,12.1951219512%,5.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,41.0
+
+ ---------- 
+Natures used:
+1:Adamant,73.1707317073%,30.0
+2:Jolly,19.512195122%,8.0
+3:Careful,7.31707317073%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Infernape
+4:Kyogre
+5:Yveltal
+6:Rayquaza
+7:Talonflame
+8:Cresselia
+9:Mawile
+10:Gengar
+11:Ferrothorn
+12:Lucario
+13:Blastoise
+14:Sylveon
+15:Meowstic
+16:Giratina
+17:Glaceon
+18:Togekiss
+19:Lopunny
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,28.0%,11.48
+2:Frustration,24.0%,9.84
+3:Quick Attack,12.0%,4.92
+4:Foul Play,8.0%,3.28
+5:Return,8.0%,3.28
+6:Ice Punch,8.0%,3.28
+7:Superpower,4.0%,1.64
+8:Rock Slide,4.0%,1.64
+9:Double Kick,4.0%,1.64
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.9032258065%,5.29032258065
+2:Eruption,12.9032258065%,5.29032258065
+3:Water Spout,9.67741935484%,3.96774193548
+4:Hyper Voice,9.67741935484%,3.96774193548
+5:Precipice Blades,6.45161290323%,2.64516129032
+6:Origin Pulse,3.22580645161%,1.32258064516
+7:Power-Up Punch,3.22580645161%,1.32258064516
+8:Moonblast,3.22580645161%,1.32258064516
+9:Spacial Rend,3.22580645161%,1.32258064516
+10:Flash Cannon,3.22580645161%,1.32258064516
+11:Bullet Punch,3.22580645161%,1.32258064516
+12:Earth Power,3.22580645161%,1.32258064516
+13:Brave Bird,3.22580645161%,1.32258064516
+14:Sucker Punch,3.22580645161%,1.32258064516
+15:Gyro Ball,3.22580645161%,1.32258064516
+16:Hammer Arm,3.22580645161%,1.32258064516
+17:Tri Attack,3.22580645161%,1.32258064516
+18:Ice Beam,3.22580645161%,1.32258064516
+19:Double-Edge,3.22580645161%,1.32258064516
+20:Fire Punch,3.22580645161%,1.32258064516
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Xerneas
+3:Rayquaza
+4:Groudon
+5:Kyogre
+6:Kangaskhan
+7:Greninja
+8:Liepard
+9:Weavile
+10:Salamence
+11:Mawile
+12:Smeargle
+13:Crobat
+14:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Ferrothorn
+9:Cresselia
+10:Palkia
+11:Dialga
+12:Porygon-Z
+13:Scizor

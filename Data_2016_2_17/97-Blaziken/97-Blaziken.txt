@@ -1,0 +1,160 @@
+97:Blaziken|162
+ ---------- 
+Moves used:
+1:Protect,98.7654320988%,160.0
+2:Flare Blitz,69.7530864198%,113.0
+3:Low Kick,49.3827160494%,80.0
+4:Swords Dance,28.3950617284%,46.0
+5:Superpower,25.9259259259%,42.0
+6:Rock Slide,24.0740740741%,39.0
+7:Double Kick,14.8148148148%,24.0
+8:High Jump Kick,13.5802469136%,22.0
+9:Hidden Power,12.962962963%,21.0
+10:Overheat,12.3456790123%,20.0
+11:Bulk Up,11.1111111111%,18.0
+12:Fire Punch,8.64197530864%,14.0
+13:Baton Pass,4.93827160494%,8.0
+14:Will-O-Wisp,4.32098765432%,7.0
+15:Feint,3.7037037037%,6.0
+16:Blaze Kick,3.08641975309%,5.0
+17:Heat Wave,3.08641975309%,5.0
+18:Focus Blast,2.46913580247%,4.0
+19:Stone Edge,1.85185185185%,3.0
+20:Earthquake,1.85185185185%,3.0
+0:Other,4.93827160494%,8.0
+
+ ---------- 
+Items used:
+1:Blazikenite,39.5061728395%,64.0
+2:Life Orb,19.7530864198%,32.0
+3:Air Balloon,16.049382716%,26.0
+4:Focus Sash,16.049382716%,26.0
+5:Fist Plate,3.08641975309%,5.0
+6:Expert Belt,2.46913580247%,4.0
+7:Coba Berry,2.46913580247%,4.0
+8:Wise Glasses,0.617283950617%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,92.5925925926%,150.0
+2:Blaze,7.40740740741%,12.0
+
+ ---------- 
+Natures used:
+1:Adamant,55.5555555556%,90.0
+2:Jolly,20.987654321%,34.0
+3:Naive,9.25925925926%,15.0
+4:Naughty,5.55555555556%,9.0
+5:Rash,4.32098765432%,7.0
+6:Impish,2.46913580247%,4.0
+7:Timid,1.85185185185%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Xerneas
+5:Togekiss
+6:Dialga
+7:Ferrothorn
+8:Cresselia
+9:Giratina
+10:Salamence
+11:Kangaskhan
+12:Thundurus
+13:Smeargle
+14:Tornadus
+15:Palkia
+16:Crobat
+17:Aegislash
+18:Landorus
+19:Whimsicott
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,30.5263157895%,49.4526315789
+2:Low Kick,27.3684210526%,44.3368421053
+3:Superpower,8.42105263158%,13.6421052632
+4:Rock Slide,8.42105263158%,13.6421052632
+5:Hidden Power,5.26315789474%,8.52631578947
+6:High Jump Kick,5.26315789474%,8.52631578947
+7:Fire Punch,4.21052631579%,6.82105263158
+8:Feint,2.10526315789%,3.41052631579
+9:Blaze Kick,2.10526315789%,3.41052631579
+10:Double Kick,2.10526315789%,3.41052631579
+11:Focus Blast,1.05263157895%,1.70526315789
+12:Overheat,1.05263157895%,1.70526315789
+13:Heat Wave,1.05263157895%,1.70526315789
+14:Fire Blast,1.05263157895%,1.70526315789
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.8644067797%,19.2203389831
+2:Water Spout,7.62711864407%,12.3559322034
+3:Precipice Blades,6.77966101695%,10.9830508475
+4:Brave Bird,6.77966101695%,10.9830508475
+5:Sucker Punch,5.93220338983%,9.61016949153
+6:Hyper Voice,5.08474576271%,8.23728813559
+7:Earthquake,5.08474576271%,8.23728813559
+8:Double-Edge,5.08474576271%,8.23728813559
+9:Dragon Ascent,4.23728813559%,6.86440677966
+10:Earth Power,3.38983050847%,5.49152542373
+11:Origin Pulse,2.54237288136%,4.1186440678
+12:Eruption,2.54237288136%,4.1186440678
+13:Psystrike,1.69491525424%,2.74576271186
+14:Foul Play,1.69491525424%,2.74576271186
+15:Extreme Speed,1.69491525424%,2.74576271186
+16:Sludge Bomb,1.69491525424%,2.74576271186
+17:Fire Punch,1.69491525424%,2.74576271186
+18:Land's Wrath,0.847457627119%,1.37288135593
+19:Oblivion Wing,0.847457627119%,1.37288135593
+20:Moonblast,0.847457627119%,1.37288135593
+0:Other,11.0169491525%,17.8474576271
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Crobat
+4:Ferrothorn
+5:Kyogre
+6:Groudon
+7:Yveltal
+8:Cresselia
+9:Dialga
+10:Smeargle
+11:Landorus
+12:Amoonguss
+13:Talonflame
+14:Whimsicott
+15:Weavile
+16:Salamence
+17:Mawile
+18:Kyurem
+19:Thundurus
+20:Hydreigon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Landorus
+8:Rayquaza
+9:Ho-Oh
+10:Yveltal
+11:Gengar
+12:Rayquaza
+13:Zygarde
+14:Zekrom
+15:Thundurus
+16:Tornadus
+17:Bisharp
+18:Liepard
+19:Cresselia
+20:Giratina

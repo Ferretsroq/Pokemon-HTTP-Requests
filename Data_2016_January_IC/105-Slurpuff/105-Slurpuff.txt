@@ -1,0 +1,80 @@
+105:Slurpuff|3
+ ---------- 
+Moves used:
+1:Play Rough,66.6666666667%,2.0
+2:Belly Drum,66.6666666667%,2.0
+3:Protect,66.6666666667%,2.0
+4:Dazzling Gleam,33.3333333333%,1.0
+5:Energy Ball,33.3333333333%,1.0
+6:Drain Punch,33.3333333333%,1.0
+7:Copycat,33.3333333333%,1.0
+8:Psychic,33.3333333333%,1.0
+9:Flamethrower,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,66.6666666667%,2.0
+2:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,66.6666666667%,2.0
+2:Sweet Veil,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,33.3333333333%,1.0
+2:Timid,33.3333333333%,1.0
+3:Adamant,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Meowstic
+5:Lilligant
+6:Whimsicott
+7:Purugly
+8:Lopunny
+9:Pachirisu
+10:Rayquaza
+11:Kyogre
+12:Mawile
+13:Scizor
+14:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Play Rough,40.0%,1.2
+2:Dazzling Gleam,20.0%,0.6
+3:Drain Punch,20.0%,0.6
+4:Psychic,20.0%,0.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,45.4545454545%,1.36363636364
+2:Dragon Ascent,9.09090909091%,0.272727272727
+3:Dazzling Gleam,9.09090909091%,0.272727272727
+4:Fusion Flare,9.09090909091%,0.272727272727
+5:Foul Play,9.09090909091%,0.272727272727
+6:Iron Head,9.09090909091%,0.272727272727
+7:Brave Bird,9.09090909091%,0.272727272727
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Meowstic
+3:Smeargle
+4:Crobat
+5:Typhlosion
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Talonflame
+4:Kyurem
+5:Liepard
+6:Dialga
+7:Rayquaza

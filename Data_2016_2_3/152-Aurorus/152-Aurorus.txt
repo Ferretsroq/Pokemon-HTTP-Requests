@@ -1,0 +1,87 @@
+152:Aurorus|24
+ ---------- 
+Moves used:
+1:Protect,95.8333333333%,23.0
+2:Hyper Voice,66.6666666667%,16.0
+3:Encore,66.6666666667%,16.0
+4:Hyper Beam,37.5%,9.0
+5:Nature Power,33.3333333333%,8.0
+6:Ancient Power,29.1666666667%,7.0
+7:Mirror Coat,29.1666666667%,7.0
+8:Roar,29.1666666667%,7.0
+9:Sleep Talk,4.16666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,95.8333333333%,23.0
+2:Choice Specs,4.16666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Refrigerate,100.0%,24.0
+
+ ---------- 
+Natures used:
+1:Quiet,66.6666666667%,16.0
+2:Modest,33.3333333333%,8.0
+
+ ---------- 
+Top teammates:
+1:Carbink
+2:Groudon
+3:Probopass
+4:Liepard
+5:Smeargle
+6:Giratina
+7:Ditto
+8:Venusaur
+9:Mewtwo
+10:Giratina
+11:Pinsir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,61.5384615385%,14.7692307692
+2:Nature Power,38.4615384615%,9.23076923077
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,15.3846153846%,3.69230769231
+2:Dazzling Gleam,7.69230769231%,1.84615384615
+3:Moonblast,7.69230769231%,1.84615384615
+4:Earth Power,7.69230769231%,1.84615384615
+5:Dark Pulse,7.69230769231%,1.84615384615
+6:Gyro Ball,7.69230769231%,1.84615384615
+7:Hyper Voice,7.69230769231%,1.84615384615
+8:Hidden Power,7.69230769231%,1.84615384615
+9:Rock Slide,7.69230769231%,1.84615384615
+10:Fire Blast,7.69230769231%,1.84615384615
+11:Psychic,7.69230769231%,1.84615384615
+12:Low Kick,7.69230769231%,1.84615384615
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Salamence
+3:Thundurus
+4:Liepard
+5:Rayquaza
+6:Groudon
+7:Hitmontop
+8:Crobat
+9:Ditto
+10:Kangaskhan
+11:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Mawile
+3:Yveltal
+4:Landorus
+5:Ferrothorn
+6:Cresselia
+7:Groudon
+8:Salamence
+9:Kangaskhan
+10:Clefairy

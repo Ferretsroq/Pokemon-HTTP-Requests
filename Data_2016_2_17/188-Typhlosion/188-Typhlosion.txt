@@ -1,0 +1,103 @@
+188:Typhlosion|25
+ ---------- 
+Moves used:
+1:Eruption,100.0%,25.0
+2:Focus Blast,88.0%,22.0
+3:Fire Blast,56.0%,14.0
+4:Protect,48.0%,12.0
+5:Solar Beam,40.0%,10.0
+6:Hidden Power,28.0%,7.0
+7:Flamethrower,20.0%,5.0
+8:Extrasensory,8.0%,2.0
+9:Overheat,8.0%,2.0
+10:Flame Charge,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,52.0%,13.0
+2:Choice Specs,32.0%,8.0
+3:Life Orb,16.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,60.0%,15.0
+2:Blaze,40.0%,10.0
+
+ ---------- 
+Natures used:
+1:Timid,60.0%,15.0
+2:Modest,40.0%,10.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Rayquaza
+4:Whimsicott
+5:Kyogre
+6:Charizard
+7:Gengar
+8:Lugia
+9:Xerneas
+10:Mienshao
+11:Ferrothorn
+12:Jellicent
+13:Rotom
+14:Mamoswine
+15:Lopunny
+16:Gastrodon
+17:Floatzel
+18:Mawile
+19:Feraligatr
+20:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Eruption,83.3333333333%,20.8333333333
+2:Focus Blast,5.55555555556%,1.38888888889
+3:Hidden Power,5.55555555556%,1.38888888889
+4:Fire Blast,5.55555555556%,1.38888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,16.6666666667%,4.16666666667
+2:Precipice Blades,11.1111111111%,2.77777777778
+3:Dazzling Gleam,11.1111111111%,2.77777777778
+4:Earthquake,11.1111111111%,2.77777777778
+5:Origin Pulse,5.55555555556%,1.38888888889
+6:Earth Power,5.55555555556%,1.38888888889
+7:Brave Bird,5.55555555556%,1.38888888889
+8:Water Spout,5.55555555556%,1.38888888889
+9:Hyper Voice,5.55555555556%,1.38888888889
+10:Extreme Speed,5.55555555556%,1.38888888889
+11:Return,5.55555555556%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyurem
+5:Landorus
+6:Terrakion
+7:Mienshao
+8:Salamence
+9:Sableye
+10:Smeargle
+11:Crobat
+12:Gengar
+13:Venusaur
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Salamence
+4:Xerneas
+5:Talonflame
+6:Krookodile
+7:Garchomp
+8:Rayquaza
+9:Kyogre
+10:Kyogre
+11:Smeargle

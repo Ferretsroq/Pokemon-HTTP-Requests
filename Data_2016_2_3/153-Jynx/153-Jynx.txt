@@ -1,0 +1,74 @@
+153:Jynx|24
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,24.0
+2:Skill Swap,95.8333333333%,23.0
+3:Lovely Kiss,91.6666666667%,22.0
+4:Icy Wind,79.1666666667%,19.0
+5:Ice Beam,16.6666666667%,4.0
+6:Helping Hand,8.33333333333%,2.0
+7:Perish Song,4.16666666667%,1.0
+8:Psychic,4.16666666667%,1.0
+
+ ---------- 
+Items used:
+1:Air Balloon,75.0%,18.0
+2:Focus Sash,25.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,100.0%,24.0
+
+ ---------- 
+Natures used:
+1:Timid,95.8333333333%,23.0
+2:Modest,4.16666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Gengar
+3:Weavile
+4:Mewtwo
+5:Toxicroak
+6:Meowstic
+7:Landorus
+8:Xerneas
+9:Groudon
+10:Metagross
+11:Ho-Oh
+12:Kangaskhan
+13:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,66.6666666667%,16.0
+2:Icy Wind,33.3333333333%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.3846153846%,3.69230769231
+2:U-turn,15.3846153846%,3.69230769231
+3:Double-Edge,15.3846153846%,3.69230769231
+4:Dazzling Gleam,7.69230769231%,1.84615384615
+5:Brave Bird,7.69230769231%,1.84615384615
+6:Return,7.69230769231%,1.84615384615
+7:Thunderbolt,7.69230769231%,1.84615384615
+8:Flamethrower,7.69230769231%,1.84615384615
+9:Fire Punch,7.69230769231%,1.84615384615
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Palkia
+3:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Landorus
+6:Thundurus
+7:Darmanitan

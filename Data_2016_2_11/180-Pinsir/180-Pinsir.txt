@@ -1,0 +1,71 @@
+180:Pinsir|22
+ ---------- 
+Moves used:
+1:Feint,100.0%,22.0
+2:Focus Punch,100.0%,22.0
+3:Protect,100.0%,22.0
+4:Me First,59.0909090909%,13.0
+5:Thief,40.9090909091%,9.0
+
+ ---------- 
+Items used:
+1:Pinsirite,59.0909090909%,13.0
+2:Persim Berry,40.9090909091%,9.0
+
+ ---------- 
+Abilities used:
+1:Hyper Cutter,100.0%,22.0
+
+ ---------- 
+Natures used:
+1:Adamant,81.8181818182%,18.0
+2:Jolly,18.1818181818%,4.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Kangaskhan
+4:Aurorus
+5:Ditto
+6:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,61.1111111111%,13.4444444444
+2:Focus Punch,33.3333333333%,7.33333333333
+3:Thief,5.55555555556%,1.22222222222
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,25.0%,5.5
+2:Dazzling Gleam,16.6666666667%,3.66666666667
+3:Dragon Ascent,8.33333333333%,1.83333333333
+4:Origin Pulse,8.33333333333%,1.83333333333
+5:Facade,8.33333333333%,1.83333333333
+6:Rock Slide,8.33333333333%,1.83333333333
+7:Blizzard,8.33333333333%,1.83333333333
+8:Flamethrower,8.33333333333%,1.83333333333
+9:Double-Edge,8.33333333333%,1.83333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Xerneas
+4:Talonflame
+5:Ferrothorn
+6:Cresselia
+7:Kyogre
+8:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Xerneas
+3:Groudon
+4:Kyurem
+5:Rayquaza
+6:Kyogre
+7:Salamence
+8:Kangaskhan

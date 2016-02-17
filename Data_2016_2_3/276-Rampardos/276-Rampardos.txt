@@ -1,0 +1,41 @@
+276:Rampardos|1
+ ---------- 
+Moves used:
+1:Head Smash,100.0%,1.0
+2:Zen Headbutt,100.0%,1.0
+3:Superpower,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Groudon
+3:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

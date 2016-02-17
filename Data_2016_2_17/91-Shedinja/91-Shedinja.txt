@@ -1,0 +1,141 @@
+91:Shedinja|183
+ ---------- 
+Moves used:
+1:Protect,68.8524590164%,126.0
+2:Toxic,58.4699453552%,107.0
+3:Confuse Ray,46.4480874317%,85.0
+4:Will-O-Wisp,44.262295082%,81.0
+5:Shadow Ball,39.8907103825%,73.0
+6:Shadow Sneak,38.2513661202%,70.0
+7:Phantom Force,25.1366120219%,46.0
+8:Bug Bite,19.1256830601%,35.0
+9:Sunny Day,19.1256830601%,35.0
+10:Shadow Claw,10.9289617486%,20.0
+11:X-Scissor,9.83606557377%,18.0
+12:Swagger,7.10382513661%,13.0
+13:Hone Claws,5.46448087432%,10.0
+14:Endure,2.73224043716%,5.0
+15:Dig,2.73224043716%,5.0
+16:Silver Wind,0.546448087432%,1.0
+17:Mud-Slap,0.546448087432%,1.0
+18:Spite,0.546448087432%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,93.4426229508%,171.0
+2:Safety Goggles,3.27868852459%,6.0
+3:Lum Berry,3.27868852459%,6.0
+
+ ---------- 
+Abilities used:
+1:Wonder Guard,100.0%,183.0
+
+ ---------- 
+Natures used:
+1:Timid,25.6830601093%,47.0
+2:Lonely,24.5901639344%,45.0
+3:Adamant,18.5792349727%,34.0
+4:Modest,12.5683060109%,23.0
+5:Jolly,7.10382513661%,13.0
+6:Hasty,6.01092896175%,11.0
+7:Naughty,3.27868852459%,6.0
+8:Brave,2.18579234973%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Golduck
+4:Xerneas
+5:Groudon
+6:Rayquaza
+7:Landorus
+8:Salamence
+9:Sableye
+10:Aegislash
+11:Rotom
+12:Mawile
+13:Talonflame
+14:Porygon2
+15:Lapras
+16:Crobat
+17:Gengar
+18:Ho-Oh
+19:Lugia
+20:Chansey
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,38.2978723404%,70.085106383
+2:Phantom Force,21.2765957447%,38.9361702128
+3:Shadow Ball,21.2765957447%,38.9361702128
+4:Bug Bite,8.51063829787%,15.5744680851
+5:X-Scissor,6.3829787234%,11.6808510638
+6:Shadow Claw,4.25531914894%,7.78723404255
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,9.09090909091%,16.6363636364
+2:Brave Bird,7.57575757576%,13.8636363636
+3:Rock Slide,6.06060606061%,11.0909090909
+4:Air Slash,4.54545454545%,8.31818181818
+5:Overheat,4.54545454545%,8.31818181818
+6:Hyper Voice,4.54545454545%,8.31818181818
+7:Eruption,4.54545454545%,8.31818181818
+8:Foul Play,3.0303030303%,5.54545454545
+9:Sucker Punch,3.0303030303%,5.54545454545
+10:Crunch,3.0303030303%,5.54545454545
+11:Fire Punch,3.0303030303%,5.54545454545
+12:Freeze-Dry,1.51515151515%,2.77272727273
+13:Snarl,1.51515151515%,2.77272727273
+14:Smack Down,1.51515151515%,2.77272727273
+15:Iron Head,1.51515151515%,2.77272727273
+16:Dragon Pulse,1.51515151515%,2.77272727273
+17:Me First,1.51515151515%,2.77272727273
+18:Knock Off,1.51515151515%,2.77272727273
+19:Double-Edge,1.51515151515%,2.77272727273
+20:Thunder Punch,1.51515151515%,2.77272727273
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Crobat
+3:Talonflame
+4:Cresselia
+5:Rayquaza
+6:Gengar
+7:Landorus
+8:Ludicolo
+9:Gengar
+10:Aegislash
+11:Meowstic
+12:Thundurus
+13:Mienshao
+14:Ferrothorn
+15:Gothitelle
+16:Whimsicott
+17:Liepard
+18:Palkia
+19:Dialga
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Rayquaza
+4:Salamence
+5:Talonflame
+6:Togekiss
+7:Rayquaza
+8:Liepard
+9:Yveltal
+10:Greninja
+11:Reshiram
+12:Weavile
+13:Infernape
+14:Mawile
+15:Ho-Oh
+16:Xatu
+17:Crobat
+18:Articuno

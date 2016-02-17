@@ -1,0 +1,40 @@
+308:Tropius|1
+ ---------- 
+Moves used:
+1:Bulldoze,100.0%,1.0
+2:Sweet Scent,100.0%,1.0
+3:Strength,100.0%,1.0
+4:Fly,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Salamence
+3:Sharpedo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Strength,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Spacial Rend,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Palkia

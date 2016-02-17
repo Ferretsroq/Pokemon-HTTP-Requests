@@ -1,0 +1,76 @@
+220:Braviary|13
+ ---------- 
+Moves used:
+1:Superpower,100.0%,13.0
+2:Brave Bird,84.6153846154%,11.0
+3:Facade,69.2307692308%,9.0
+4:Retaliate,53.8461538462%,7.0
+5:Return,30.7692307692%,4.0
+6:Tailwind,23.0769230769%,3.0
+7:Rock Slide,23.0769230769%,3.0
+8:Fly,15.3846153846%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,76.9230769231%,10.0
+2:Lum Berry,23.0769230769%,3.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Adamant,92.3076923077%,12.0
+2:Jolly,7.69230769231%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Crobat
+4:Xerneas
+5:Scizor
+6:Nidoking
+7:Klefki
+8:Meowstic
+9:Landorus
+10:Reshiram
+11:Charizard
+12:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,66.6666666667%,8.66666666667
+2:Return,22.2222222222%,2.88888888889
+3:Superpower,11.1111111111%,1.44444444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,16.6666666667%,2.16666666667
+2:Gyro Ball,16.6666666667%,2.16666666667
+3:Hyper Voice,16.6666666667%,2.16666666667
+4:Foul Play,8.33333333333%,1.08333333333
+5:Extreme Speed,8.33333333333%,1.08333333333
+6:Rock Slide,8.33333333333%,1.08333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Landorus
+3:Ferrothorn
+4:Amoonguss
+5:Togekiss
+6:Salamence
+7:Hitmontop
+8:Kangaskhan
+9:Machamp
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Kyogre
+3:Salamence
+4:Liepard
+5:Rayquaza
+6:Groudon

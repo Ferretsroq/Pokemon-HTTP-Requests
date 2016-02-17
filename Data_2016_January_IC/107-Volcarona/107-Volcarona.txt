@@ -1,0 +1,80 @@
+107:Volcarona|3
+ ---------- 
+Moves used:
+1:Bug Buzz,66.6666666667%,2.0
+2:Heat Wave,66.6666666667%,2.0
+3:Protect,66.6666666667%,2.0
+4:Hurricane,33.3333333333%,1.0
+5:Quiver Dance,33.3333333333%,1.0
+6:Rage Powder,33.3333333333%,1.0
+7:Tailwind,33.3333333333%,1.0
+8:Hidden Power,33.3333333333%,1.0
+9:Fire Blast,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,33.3333333333%,1.0
+2:Sitrus Berry,33.3333333333%,1.0
+3:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Flame Body,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Modest,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Greninja
+4:Kyurem
+5:Landorus
+6:Bisharp
+7:Ferrothorn
+8:Amoonguss
+9:Whimsicott
+10:Groudon
+11:Mawile
+12:Sableye
+13:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,55.5555555556%,1.66666666667
+2:Bug Buzz,33.3333333333%,1.0
+3:Hidden Power,11.1111111111%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Psystrike,16.6666666667%,0.5
+2:Brave Bird,16.6666666667%,0.5
+3:Water Spout,16.6666666667%,0.5
+4:Eruption,16.6666666667%,0.5
+5:Origin Pulse,8.33333333333%,0.25
+6:Hyper Voice,8.33333333333%,0.25
+7:Extreme Speed,8.33333333333%,0.25
+8:Rock Slide,8.33333333333%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Liepard
+3:Weavile
+4:Groudon
+5:Kyogre
+6:Crobat
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Talonflame
+3:Groudon
+4:Mewtwo
+5:Rayquaza
+6:Salamence
+7:Tyranitar

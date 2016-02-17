@@ -1,0 +1,39 @@
+168:Gliscor|1
+ ---------- 
+Moves used:
+1:Facade,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Earthquake,100.0%,1.0
+4:Swords Dance,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Poison Heal,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Greninja
+3:Whimsicott
+4:Dialga
+5:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

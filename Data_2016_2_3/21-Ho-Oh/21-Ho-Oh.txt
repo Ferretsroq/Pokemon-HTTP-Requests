@@ -1,0 +1,168 @@
+21:Ho-Oh|2841
+ ---------- 
+Moves used:
+1:Sacred Fire,99.6832101373%,2832.0
+2:Brave Bird,98.83843717%,2808.0
+3:Protect,58.4653291095%,1661.0
+4:Recover,52.6927138332%,1497.0
+5:Substitute,29.5670538543%,840.0
+6:Tailwind,27.5255191834%,782.0
+7:Roost,10.6652587117%,303.0
+8:Thunder Wave,4.99824005632%,142.0
+9:Roar,4.25906370996%,121.0
+10:Earthquake,3.44948961633%,98.0
+11:Iron Head,2.95670538543%,84.0
+12:Earth Power,1.58394931362%,45.0
+13:Flame Charge,0.879971840901%,25.0
+14:Psych Up,0.809574093629%,23.0
+15:Weather Ball,0.703977472721%,20.0
+16:Reflect,0.633579725449%,18.0
+17:Whirlwind,0.457585357269%,13.0
+18:Fire Blast,0.316789862724%,9.0
+19:Safeguard,0.281590989088%,8.0
+20:Toxic,0.246392115452%,7.0
+0:Other,0.985568461809%,28.0
+
+ ---------- 
+Items used:
+1:Leftovers,62.1260119676%,1765.0
+2:Sitrus Berry,13.1291798662%,373.0
+3:Lum Berry,11.0172474481%,313.0
+4:Charti Berry,2.92150651179%,83.0
+5:Kee Berry,2.28792678634%,65.0
+6:Choice Band,2.28792678634%,65.0
+7:Maranga Berry,1.83034142907%,52.0
+8:Assault Vest,1.12636395635%,32.0
+9:Rocky Helmet,0.739176346357%,21.0
+10:Life Orb,0.739176346357%,21.0
+11:Muscle Band,0.457585357269%,13.0
+12:Chesto Berry,0.422386483633%,12.0
+13:Passho Berry,0.246392115452%,7.0
+14:Weakness Policy,0.211193241816%,6.0
+15:Red Card,0.211193241816%,6.0
+16:Bright Powder,0.140795494544%,4.0
+17:Safety Goggles,0.035198873636%,1.0
+18:Lucky Egg,0.035198873636%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,99.7184090109%,2833.0
+2:Regenerator,0.281590989088%,8.0
+
+ ---------- 
+Natures used:
+1:Adamant,39.4931362196%,1122.0
+2:Careful,35.9380499824%,1021.0
+3:Jolly,16.7194649771%,475.0
+4:Impish,4.25906370996%,121.0
+5:Relaxed,1.61914818726%,46.0
+6:Naughty,0.739176346357%,21.0
+7:Brave,0.668778599085%,19.0
+8:Calm,0.281590989088%,8.0
+9:Modest,0.17599436818%,5.0
+10:Bashful,0.105596620908%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Rayquaza
+6:Cresselia
+7:Ferrothorn
+8:Crobat
+9:Thundurus
+10:Mienshao
+11:Mawile
+12:Landorus
+13:Lapras
+14:Togekiss
+15:Yveltal
+16:Liepard
+17:Gengar
+18:Xerneas
+19:Amoonguss
+20:Garchomp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,59.7371565114%,1697.13261649
+2:Sacred Fire,38.7096774194%,1099.74193548
+3:Flame Charge,0.418160095579%,11.8799283154
+4:Earthquake,0.418160095579%,11.8799283154
+5:Earth Power,0.238948626045%,6.78853046595
+6:Weather Ball,0.179211469534%,5.09139784946
+7:Iron Head,0.119474313023%,3.39426523297
+8:Heat Wave,0.119474313023%,3.39426523297
+9:Punishment,0.0597371565114%,1.69713261649
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,17.1806167401%,488.101321586
+2:Double-Edge,10.6356198867%,302.157960982
+3:Origin Pulse,7.11139081183%,202.034612964
+4:Water Spout,6.54499685337%,185.943360604
+5:Dragon Ascent,4.40528634361%,125.154185022
+6:Eruption,4.34235368156%,123.366268093
+7:Precipice Blades,3.7759597231%,107.275015733
+8:Brave Bird,3.58716173694%,101.911264947
+9:Return,3.14663310258%,89.3958464443
+10:Foul Play,2.64317180617%,75.0925110132
+11:Dazzling Gleam,2.45437382001%,69.7287602266
+12:Moonblast,2.26557583386%,64.3650094399
+13:Stone Edge,1.76211453744%,50.0616740088
+14:Thunderbolt,1.76211453744%,50.0616740088
+15:Knock Off,1.44745122719%,41.1220893644
+16:Sucker Punch,1.32158590308%,37.5462555066
+17:Extreme Speed,1.25865324103%,35.7583385777
+18:Scald,1.06985525488%,30.3945877911
+19:Rock Tomb,1.06985525488%,30.3945877911
+20:Hyper Voice,1.06985525488%,30.3945877911
+0:Other,13.5305223411%,384.402139711
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Talonflame
+4:Kyogre
+5:Groudon
+6:Smeargle
+7:Ferrothorn
+8:Rayquaza
+9:Crobat
+10:Cresselia
+11:Salamence
+12:Mawile
+13:Thundurus
+14:Amoonguss
+15:Weavile
+16:Landorus
+17:Whimsicott
+18:Togekiss
+19:Ho-Oh
+20:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Xerneas
+6:Salamence
+7:Landorus
+8:Yveltal
+9:Talonflame
+10:Ho-Oh
+11:Rayquaza
+12:Liepard
+13:Mawile
+14:Thundurus
+15:Palkia
+16:Smeargle
+17:Weavile
+18:Ditto
+19:Zekrom
+20:Ferrothorn

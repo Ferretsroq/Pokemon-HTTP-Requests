@@ -1,0 +1,129 @@
+91:Camerupt|88
+ ---------- 
+Moves used:
+1:Earth Power,98.8636363636%,87.0
+2:Protect,98.8636363636%,87.0
+3:Eruption,63.6363636364%,56.0
+4:Heat Wave,56.8181818182%,50.0
+5:Iron Head,20.4545454545%,18.0
+6:Fire Blast,15.9090909091%,14.0
+7:Hidden Power,11.3636363636%,10.0
+8:Rock Slide,11.3636363636%,10.0
+9:Flash Cannon,7.95454545455%,7.0
+10:Ancient Power,7.95454545455%,7.0
+11:Flamethrower,3.40909090909%,3.0
+12:Flame Charge,1.13636363636%,1.0
+13:Yawn,1.13636363636%,1.0
+14:Earthquake,1.13636363636%,1.0
+
+ ---------- 
+Items used:
+1:Cameruptite,98.8636363636%,87.0
+2:Expert Belt,1.13636363636%,1.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,81.8181818182%,72.0
+2:Magma Armor,18.1818181818%,16.0
+
+ ---------- 
+Natures used:
+1:Quiet,96.5909090909%,85.0
+2:Modest,2.27272727273%,2.0
+3:Naughty,1.13636363636%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Smeargle
+3:Dialga
+4:Kyogre
+5:Landorus
+6:Cresselia
+7:Xerneas
+8:Palkia
+9:Aromatisse
+10:Sylveon
+11:Gourgeist
+12:Hitmontop
+13:Exeggutor
+14:Altaria
+15:Snorlax
+16:Weavile
+17:Dusclops
+18:Espeon
+19:Escavalier
+20:Scrafty
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,50.0%,44.0
+2:Eruption,21.4285714286%,18.8571428571
+3:Heat Wave,16.6666666667%,14.6666666667
+4:Iron Head,7.14285714286%,6.28571428571
+5:Flash Cannon,2.38095238095%,2.09523809524
+6:Hidden Power,2.38095238095%,2.09523809524
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.4545454545%,18.0
+2:Origin Pulse,11.3636363636%,10.0
+3:Earth Power,11.3636363636%,10.0
+4:Brave Bird,6.81818181818%,6.0
+5:Return,6.81818181818%,6.0
+6:Double-Edge,6.81818181818%,6.0
+7:Dazzling Gleam,4.54545454545%,4.0
+8:Hidden Power,4.54545454545%,4.0
+9:Dragon Ascent,2.27272727273%,2.0
+10:Play Rough,2.27272727273%,2.0
+11:Snarl,2.27272727273%,2.0
+12:Power Whip,2.27272727273%,2.0
+13:Sucker Punch,2.27272727273%,2.0
+14:Water Spout,2.27272727273%,2.0
+15:Hyper Voice,2.27272727273%,2.0
+16:Eruption,2.27272727273%,2.0
+17:Shadow Ball,2.27272727273%,2.0
+18:Earthquake,2.27272727273%,2.0
+19:Ice Beam,2.27272727273%,2.0
+20:Hydro Pump,2.27272727273%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Aegislash
+5:Ferrothorn
+6:Liepard
+7:Aegislash
+8:Talonflame
+9:Thundurus
+10:Amoonguss
+11:Togekiss
+12:Bronzong
+13:Staraptor
+14:Kyogre
+15:Salamence
+16:Hitmontop
+17:Smeargle
+18:Scizor
+19:Crobat
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Mawile
+7:Ho-Oh
+8:Yveltal
+9:Aegislash
+10:Talonflame
+11:Ferrothorn
+12:Garchomp
+13:Rayquaza
+14:Groudon
+15:Smeargle

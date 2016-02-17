@@ -1,0 +1,126 @@
+96:Excadrill|77
+ ---------- 
+Moves used:
+1:Iron Head,98.7012987013%,76.0
+2:Rock Slide,85.7142857143%,66.0
+3:Earthquake,81.8181818182%,63.0
+4:Swords Dance,53.2467532468%,41.0
+5:Protect,38.961038961%,30.0
+6:Drill Run,20.7792207792%,16.0
+7:Horn Drill,6.49350649351%,5.0
+8:Rock Tomb,5.19480519481%,4.0
+9:Sleep Talk,2.5974025974%,2.0
+10:Stealth Rock,1.2987012987%,1.0
+11:Shadow Claw,1.2987012987%,1.0
+12:Fissure,1.2987012987%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,57.1428571429%,44.0
+2:Expert Belt,20.7792207792%,16.0
+3:Life Orb,11.6883116883%,9.0
+4:Assault Vest,3.8961038961%,3.0
+5:Choice Scarf,3.8961038961%,3.0
+6:Choice Band,2.5974025974%,2.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,50.6493506494%,39.0
+2:Sand Rush,49.3506493506%,38.0
+
+ ---------- 
+Natures used:
+1:Jolly,59.7402597403%,46.0
+2:Adamant,40.2597402597%,31.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Rayquaza
+5:Thundurus
+6:Talonflame
+7:Kyogre
+8:Togekiss
+9:Meowstic
+10:Yveltal
+11:Greninja
+12:Kyurem
+13:Terrakion
+14:Swampert
+15:Crobat
+16:Cresselia
+17:Salamence
+18:Mewtwo
+19:Clefairy
+20:Klefki
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,41.3043478261%,31.8043478261
+2:Iron Head,23.9130434783%,18.4130434783
+3:Rock Slide,23.9130434783%,18.4130434783
+4:Drill Run,8.69565217391%,6.69565217391
+5:Rock Tomb,2.17391304348%,1.67391304348
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.0%,12.32
+2:Eruption,14.0%,10.78
+3:Water Spout,10.0%,7.7
+4:Dazzling Gleam,6.0%,4.62
+5:Earth Power,6.0%,4.62
+6:Sucker Punch,6.0%,4.62
+7:Origin Pulse,4.0%,3.08
+8:Power-Up Punch,4.0%,3.08
+9:Moonblast,4.0%,3.08
+10:Overheat,4.0%,3.08
+11:Low Kick,4.0%,3.08
+12:Flamethrower,4.0%,3.08
+13:Double-Edge,4.0%,3.08
+14:Foul Play,2.0%,1.54
+15:Iron Head,2.0%,1.54
+16:Flare Blitz,2.0%,1.54
+17:Shadow Ball,2.0%,1.54
+18:Psychic,2.0%,1.54
+19:Ice Beam,2.0%,1.54
+20:Fire Punch,2.0%,1.54
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Cresselia
+6:Talonflame
+7:Whimsicott
+8:Liepard
+9:Mawile
+10:Smeargle
+11:Crobat
+12:Thundurus
+13:Dialga
+14:Weavile
+15:Rayquaza
+16:Sableye
+17:Scizor
+18:Gengar
+19:Parasect
+20:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Cresselia
+6:Salamence
+7:Mawile
+8:Talonflame
+9:Kyurem
+10:Thundurus
+11:Rayquaza
+12:Gengar

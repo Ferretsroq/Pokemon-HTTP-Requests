@@ -1,0 +1,58 @@
+233:Tympole|5
+ ---------- 
+Moves used:
+1:After You,80.0%,4.0
+2:Endeavor,80.0%,4.0
+3:Icy Wind,80.0%,4.0
+4:Protect,80.0%,4.0
+5:Earth Power,20.0%,1.0
+6:Hidden Power,20.0%,1.0
+7:Sludge Bomb,20.0%,1.0
+8:Hydro Pump,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,80.0%,4.0
+2:Choice Specs,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,80.0%,4.0
+2:Modest,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Zekrom
+6:Archeops
+7:Gurdurr
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,100.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,1.0
+2:Hurricane,20.0%,1.0
+3:Sucker Punch,20.0%,1.0
+4:Ice Beam,20.0%,1.0
+5:Double-Edge,20.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Sceptile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Tornadus
+4:Cresselia

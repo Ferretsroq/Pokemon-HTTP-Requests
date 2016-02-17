@@ -1,0 +1,49 @@
+235:Tyrantrum|3
+ ---------- 
+Moves used:
+1:Head Smash,100.0%,3.0
+2:Dragon Dance,100.0%,3.0
+3:Earthquake,100.0%,3.0
+4:Dragon Claw,66.6666666667%,2.0
+5:Ice Fang,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,66.6666666667%,2.0
+2:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Rock Head,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.6666666667%,2.0
+2:Jolly,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Gothitelle
+2:Kyogre
+3:Talonflame
+4:Lickilicky
+5:Hippowdon
+6:Scizor
+7:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,33.3333333333%,1.0
+2:Brave Bird,33.3333333333%,1.0
+3:Eruption,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame

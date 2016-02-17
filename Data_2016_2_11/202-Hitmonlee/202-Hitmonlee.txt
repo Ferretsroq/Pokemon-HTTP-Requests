@@ -1,0 +1,67 @@
+202:Hitmonlee|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Fake Out,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Low Kick,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Normal Gem,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Metagross
+3:Golduck
+4:Palkia
+5:Ho-Oh
+6:Mismagius
+7:Cofagrigus
+8:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,0.142857142857
+2:Double-Edge,14.2857142857%,0.142857142857
+3:Dragon Ascent,7.14285714286%,0.0714285714286
+4:Play Rough,7.14285714286%,0.0714285714286
+5:Iron Head,7.14285714286%,0.0714285714286
+6:Earth Power,7.14285714286%,0.0714285714286
+7:Brave Bird,7.14285714286%,0.0714285714286
+8:Feint,7.14285714286%,0.0714285714286
+9:Hyper Voice,7.14285714286%,0.0714285714286
+10:Eruption,7.14285714286%,0.0714285714286
+11:Psychic,7.14285714286%,0.0714285714286
+12:Ice Beam,7.14285714286%,0.0714285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Cresselia
+3:Mawile
+4:Dialga
+5:Weavile
+6:Rayquaza
+7:Groudon
+8:Salamence
+9:Ho-Oh
+10:Kangaskhan
+11:Kangaskhan

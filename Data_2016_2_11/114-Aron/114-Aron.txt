@@ -1,0 +1,114 @@
+114:Aron|84
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,84.0
+2:Protect,100.0%,84.0
+3:Toxic,51.1904761905%,43.0
+4:Sandstorm,40.4761904762%,34.0
+5:Rock Tomb,25.0%,21.0
+6:Swagger,23.8095238095%,20.0
+7:Stealth Rock,16.6666666667%,14.0
+8:Sleep Talk,15.4761904762%,13.0
+9:Tackle,9.52380952381%,8.0
+10:Roar,7.14285714286%,6.0
+11:Bulldoze,3.57142857143%,3.0
+12:Rock Slide,3.57142857143%,3.0
+
+ ---------- 
+Items used:
+1:Berry Juice,65.4761904762%,55.0
+2:Shell Bell,34.5238095238%,29.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,84.0
+
+ ---------- 
+Natures used:
+1:Timid,23.8095238095%,20.0
+2:Modest,17.8571428571%,15.0
+3:Careful,15.4761904762%,13.0
+4:Naughty,10.7142857143%,9.0
+5:Adamant,10.7142857143%,9.0
+6:Quirky,5.95238095238%,5.0
+7:Docile,5.95238095238%,5.0
+8:Brave,5.95238095238%,5.0
+9:Relaxed,3.57142857143%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Infernape
+3:Xerneas
+4:Rayquaza
+5:Liepard
+6:Kangaskhan
+7:Kyogre
+8:Porygon2
+9:Mawile
+10:Meowstic
+11:Zapdos
+12:Cresselia
+13:Giratina
+14:Palkia
+15:Dialga
+16:Lugia
+17:Talonflame
+18:Smeargle
+19:Sylveon
+20:Aromatisse
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Tackle,100.0%,84.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.1694915254%,8.54237288136
+2:Origin Pulse,6.77966101695%,5.69491525424
+3:Water Spout,6.77966101695%,5.69491525424
+4:Hyper Voice,6.77966101695%,5.69491525424
+5:Fake Out,6.77966101695%,5.69491525424
+6:Ice Beam,6.77966101695%,5.69491525424
+7:Precipice Blades,5.08474576271%,4.27118644068
+8:Extreme Speed,5.08474576271%,4.27118644068
+9:Low Kick,5.08474576271%,4.27118644068
+10:Flare Blitz,3.38983050847%,2.84745762712
+11:Gyro Ball,3.38983050847%,2.84745762712
+12:Eruption,3.38983050847%,2.84745762712
+13:Earthquake,3.38983050847%,2.84745762712
+14:Double-Edge,3.38983050847%,2.84745762712
+15:Power-Up Punch,1.69491525424%,1.42372881356
+16:Moonblast,1.69491525424%,1.42372881356
+17:Foul Play,1.69491525424%,1.42372881356
+18:Earth Power,1.69491525424%,1.42372881356
+19:Brave Bird,1.69491525424%,1.42372881356
+20:Dragon Pulse,1.69491525424%,1.42372881356
+0:Other,8.47457627119%,7.1186440678
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Talonflame
+6:Salamence
+7:Ferrothorn
+8:Cresselia
+9:Rayquaza
+10:Zygarde
+11:Sylveon
+12:Landorus
+13:Liepard
+14:Dialga
+15:Weavile
+16:Lucario
+17:Rayquaza
+18:Dragonite
+19:Ditto
+20:Venusaur

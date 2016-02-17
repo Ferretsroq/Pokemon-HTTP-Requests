@@ -1,0 +1,55 @@
+209:Zebstrika|7
+ ---------- 
+Moves used:
+1:Hidden Power,100.0%,7.0
+2:Magnet Rise,71.4285714286%,5.0
+3:Overheat,71.4285714286%,5.0
+4:Thunderbolt,71.4285714286%,5.0
+5:Ion Deluge,28.5714285714%,2.0
+6:Wild Charge,28.5714285714%,2.0
+7:Protect,28.5714285714%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,71.4285714286%,5.0
+2:Expert Belt,28.5714285714%,2.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Timid,71.4285714286%,5.0
+2:Naive,28.5714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Raichu
+2:Reshiram
+3:Kyogre
+4:Xerneas
+5:Landorus
+6:Rayquaza
+7:Kangaskhan
+8:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,40.0%,2.8
+2:Snarl,20.0%,1.4
+3:Water Spout,20.0%,1.4
+4:Double-Edge,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal
+3:Kyogre
+4:Kangaskhan

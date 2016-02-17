@@ -1,0 +1,67 @@
+201:Stantler|19
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,19.0
+2:Magic Room,52.6315789474%,10.0
+3:Mud Sport,52.6315789474%,10.0
+4:Trick Room,47.3684210526%,9.0
+5:Gravity,47.3684210526%,9.0
+6:Hypnosis,47.3684210526%,9.0
+7:Thunder Wave,36.8421052632%,7.0
+8:Protect,15.7894736842%,3.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,52.6315789474%,10.0
+2:Mental Herb,47.3684210526%,9.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Jolly,52.6315789474%,10.0
+2:Sassy,47.3684210526%,9.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Crobat
+5:Kangaskhan
+6:Greninja
+7:Ferrothorn
+8:Yveltal
+9:Meowstic
+10:Amoonguss
+11:Liepard
+12:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,26.6666666667%,5.06666666667
+2:Precipice Blades,13.3333333333%,2.53333333333
+3:Double-Edge,13.3333333333%,2.53333333333
+4:Origin Pulse,6.66666666667%,1.26666666667
+5:Snarl,6.66666666667%,1.26666666667
+6:Water Spout,6.66666666667%,1.26666666667
+7:Hyper Voice,6.66666666667%,1.26666666667
+8:Eruption,6.66666666667%,1.26666666667
+9:Fake Out,6.66666666667%,1.26666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Yveltal

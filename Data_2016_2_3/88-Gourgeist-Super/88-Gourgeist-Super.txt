@@ -1,0 +1,128 @@
+88:Gourgeist-Super|92
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,92.0
+2:Seed Bomb,55.4347826087%,51.0
+3:Protect,50.0%,46.0
+4:Destiny Bond,47.8260869565%,44.0
+5:Trick-or-Treat,33.6956521739%,31.0
+6:Skill Swap,31.5217391304%,29.0
+7:Will-O-Wisp,18.4782608696%,17.0
+8:Explosion,14.1304347826%,13.0
+9:Magic Coat,11.9565217391%,11.0
+10:Rock Slide,10.8695652174%,10.0
+11:Foul Play,9.78260869565%,9.0
+12:Safeguard,8.69565217391%,8.0
+13:Worry Seed,5.4347826087%,5.0
+14:Bullet Seed,1.08695652174%,1.0
+15:Pain Split,1.08695652174%,1.0
+
+ ---------- 
+Items used:
+1:Occa Berry,33.6956521739%,31.0
+2:Coba Berry,31.5217391304%,29.0
+3:Focus Sash,28.2608695652%,26.0
+4:Normal Gem,3.26086956522%,3.0
+5:Mental Herb,3.26086956522%,3.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,85.8695652174%,79.0
+2:Frisk,14.1304347826%,13.0
+
+ ---------- 
+Natures used:
+1:Sassy,67.3913043478%,62.0
+2:Relaxed,20.652173913%,19.0
+3:Brave,11.9565217391%,11.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Groudon
+4:Kangaskhan
+5:Talonflame
+6:Landorus
+7:Smeargle
+8:Liepard
+9:Palkia
+10:Rayquaza
+11:Yveltal
+12:Camerupt
+13:Xerneas
+14:Sylveon
+15:Lucario
+16:Dialga
+17:Ferrothorn
+18:Cresselia
+19:Crobat
+20:Hitmontop
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,44.0%,40.48
+2:Destiny Bond,40.0%,36.8
+3:Rock Slide,12.0%,11.04
+4:Explosion,4.0%,3.68
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.393442623%,15.0819672131
+2:Brave Bird,11.4754098361%,10.5573770492
+3:Eruption,11.4754098361%,10.5573770492
+4:Hyper Voice,6.55737704918%,6.03278688525
+5:Precipice Blades,3.27868852459%,3.01639344262
+6:Moonblast,3.27868852459%,3.01639344262
+7:Grass Knot,3.27868852459%,3.01639344262
+8:Flare Blitz,3.27868852459%,3.01639344262
+9:Ice Beam,3.27868852459%,3.01639344262
+10:Dragon Ascent,1.6393442623%,1.50819672131
+11:Play Rough,1.6393442623%,1.50819672131
+12:Clear Smog,1.6393442623%,1.50819672131
+13:Dark Pulse,1.6393442623%,1.50819672131
+14:Gyro Ball,1.6393442623%,1.50819672131
+15:Knock Off,1.6393442623%,1.50819672131
+16:Heat Wave,1.6393442623%,1.50819672131
+17:Rock Slide,1.6393442623%,1.50819672131
+18:Psychic,1.6393442623%,1.50819672131
+19:Earthquake,1.6393442623%,1.50819672131
+20:Double-Edge,1.6393442623%,1.50819672131
+0:Other,1.6393442623%,1.50819672131
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Xerneas
+4:Talonflame
+5:Kyogre
+6:Landorus
+7:Ferrothorn
+8:Amoonguss
+9:Cresselia
+10:Porygon-Z
+11:Salamence
+12:Altaria
+13:Swampert
+14:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Talonflame
+4:Amoonguss
+5:Salamence
+6:Landorus
+7:Kyogre
+8:Hydreigon
+9:Bisharp
+10:Ferrothorn
+11:Cresselia
+12:Infernape
+13:Rayquaza
+14:Altaria
+15:Mawile
+16:Ho-Oh
+17:Kangaskhan

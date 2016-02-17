@@ -1,0 +1,39 @@
+186:Camerupt|1
+ ---------- 
+Moves used:
+1:Lava Plume,100.0%,1.0
+2:Earth Power,100.0%,1.0
+3:Overheat,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Cameruptite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Magma Armor,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Amoonguss
+3:Groudon
+4:Crobat
+5:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

@@ -1,0 +1,77 @@
+199:Durant|14
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,14.0
+2:Protect,64.2857142857%,9.0
+3:Endeavor,50.0%,7.0
+4:Superpower,50.0%,7.0
+5:Entrainment,42.8571428571%,6.0
+6:X-Scissor,42.8571428571%,6.0
+7:Guillotine,42.8571428571%,6.0
+8:Rock Slide,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,42.8571428571%,6.0
+2:Focus Sash,35.7142857143%,5.0
+3:Wide Lens,14.2857142857%,2.0
+4:Expert Belt,7.14285714286%,1.0
+
+ ---------- 
+Abilities used:
+1:Hustle,100.0%,14.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,14.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Crobat
+3:Regigigas
+4:Latios
+5:Sableye
+6:Kyurem
+7:Talonflame
+8:Ho-Oh
+9:Mewtwo
+10:Raichu
+11:Groudon
+12:Salamence
+13:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,60.0%,8.4
+2:X-Scissor,40.0%,5.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,11.1111111111%,1.55555555556
+2:Dazzling Gleam,11.1111111111%,1.55555555556
+3:Moonblast,11.1111111111%,1.55555555556
+4:Sucker Punch,11.1111111111%,1.55555555556
+5:Eruption,11.1111111111%,1.55555555556
+6:Knock Off,11.1111111111%,1.55555555556
+7:Heat Wave,11.1111111111%,1.55555555556
+8:Fire Blast,11.1111111111%,1.55555555556
+9:Flamethrower,11.1111111111%,1.55555555556
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Klefki
+3:Kyogre
+4:Kyogre
+5:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Salamence
+3:Yveltal
+4:Landorus
+5:Chandelure
+6:Groudon
+7:Kyogre

@@ -1,0 +1,45 @@
+173:Abomasnow|1
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Blizzard,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Abomasite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Warning,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Greninja
+2:Cresselia
+3:Infernape
+4:Kyogre
+5:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,50.0%,0.5
+2:Ice Beam,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn

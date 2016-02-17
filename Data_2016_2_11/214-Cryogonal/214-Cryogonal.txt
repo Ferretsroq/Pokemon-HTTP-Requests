@@ -1,0 +1,57 @@
+214:Cryogonal|1
+ ---------- 
+Moves used:
+1:Ice Shard,100.0%,1.0
+2:Magic Coat,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Light Screen,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Light Clay,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Nidoking
+3:Mienshao
+4:Kyogre
+5:Smeargle
+6:Aerodactyl
+7:Xerneas
+8:Lopunny
+9:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Shard,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,37.5%,0.375
+2:Precipice Blades,12.5%,0.125
+3:Psystrike,12.5%,0.125
+4:Bullet Punch,12.5%,0.125
+5:Brave Bird,12.5%,0.125
+6:Rock Slide,12.5%,0.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Metagross
+4:Mawile
+5:Crobat
+6:Mewtwo

@@ -1,0 +1,55 @@
+242:Absol|3
+ ---------- 
+Moves used:
+1:Sucker Punch,100.0%,3.0
+2:Detect,100.0%,3.0
+3:Iron Tail,66.6666666667%,2.0
+4:Swords Dance,66.6666666667%,2.0
+5:Play Rough,33.3333333333%,1.0
+6:Snatch,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Absolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Super Luck,66.6666666667%,2.0
+2:Pressure,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.6666666667%,2.0
+2:Jolly,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Meowstic
+4:Mienshao
+5:Giratina
+6:Groudon
+7:Blaziken
+8:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,66.6666666667%,2.0
+2:Iron Tail,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Flash Cannon,50.0%,1.5
+2:Sacred Fire,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Dialga
+2:Ho-Oh

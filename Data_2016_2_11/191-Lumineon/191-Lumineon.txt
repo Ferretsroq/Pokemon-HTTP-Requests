@@ -1,0 +1,77 @@
+191:Lumineon|18
+ ---------- 
+Moves used:
+1:Soak,100.0%,18.0
+2:Tailwind,100.0%,18.0
+3:Protect,83.3333333333%,15.0
+4:Icy Wind,44.4444444444%,8.0
+5:Ice Beam,38.8888888889%,7.0
+6:Scald,11.1111111111%,2.0
+7:Charm,11.1111111111%,2.0
+8:Safeguard,5.55555555556%,1.0
+9:Swagger,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,9.0
+2:Sitrus Berry,50.0%,9.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Timid,55.5555555556%,10.0
+2:Calm,44.4444444444%,8.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Smeargle
+3:Kangaskhan
+4:Xerneas
+5:Groudon
+6:Togekiss
+7:Kyogre
+8:Ferrothorn
+9:Rayquaza
+10:Talonflame
+11:Serperior
+12:Shedinja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,100.0%,18.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.6470588235%,3.17647058824
+2:Double-Edge,17.6470588235%,3.17647058824
+3:Thunderbolt,11.7647058824%,2.11764705882
+4:Dazzling Gleam,5.88235294118%,1.05882352941
+5:Play Rough,5.88235294118%,1.05882352941
+6:Snarl,5.88235294118%,1.05882352941
+7:Volt Switch,5.88235294118%,1.05882352941
+8:Power Whip,5.88235294118%,1.05882352941
+9:Hyper Voice,5.88235294118%,1.05882352941
+10:Eruption,5.88235294118%,1.05882352941
+11:Focus Punch,5.88235294118%,1.05882352941
+12:Rock Slide,5.88235294118%,1.05882352941
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Thundurus
+5:Terrakion
+6:Ferrothorn
+7:Salamence
+8:Manectric
+9:Mawile
+10:Umbreon

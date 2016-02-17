@@ -1,0 +1,78 @@
+100:Aron|4
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,4.0
+2:Protect,100.0%,4.0
+3:Aerial Ace,50.0%,2.0
+4:Toxic,50.0%,2.0
+5:Earth Power,25.0%,1.0
+6:Swagger,25.0%,1.0
+7:Sandstorm,25.0%,1.0
+8:Roar,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Shell Bell,50.0%,2.0
+2:Berry Juice,50.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Gentle,25.0%,1.0
+2:Quiet,25.0%,1.0
+3:Relaxed,25.0%,1.0
+4:Brave,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Yveltal
+5:Klefki
+6:Mienshao
+7:Liepard
+8:Cresselia
+9:Groudon
+10:Mawile
+11:Ludicolo
+12:Hitmontop
+13:Ditto
+14:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.5%,0.5
+2:Water Spout,12.5%,0.5
+3:Dazzling Gleam,6.25%,0.25
+4:Shadow Sneak,6.25%,0.25
+5:Air Slash,6.25%,0.25
+6:Hyper Voice,6.25%,0.25
+7:Eruption,6.25%,0.25
+8:Shadow Ball,6.25%,0.25
+9:Return,6.25%,0.25
+10:Thunderbolt,6.25%,0.25
+11:Ice Beam,6.25%,0.25
+12:Double-Edge,6.25%,0.25
+13:Fire Punch,6.25%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Cresselia
+6:Giratina
+7:Togekiss
+8:Salamence
+9:Gengar

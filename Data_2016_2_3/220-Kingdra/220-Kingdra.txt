@@ -1,0 +1,54 @@
+220:Kingdra|5
+ ---------- 
+Moves used:
+1:Muddy Water,80.0%,4.0
+2:Ice Beam,80.0%,4.0
+3:Dragon Pulse,60.0%,3.0
+4:Sleep Talk,60.0%,3.0
+5:Draco Meteor,40.0%,2.0
+6:Flash Cannon,40.0%,2.0
+7:Scald,20.0%,1.0
+8:Protect,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,60.0%,3.0
+2:Choice Specs,40.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Ferrothorn
+4:Meowstic
+5:Greninja
+6:Hariyama
+7:Crobat
+8:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,50.0%,2.5
+2:Dragon Ascent,25.0%,1.25
+3:Draco Meteor,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyurem
+2:Rayquaza
+3:Rayquaza
+4:Kyogre

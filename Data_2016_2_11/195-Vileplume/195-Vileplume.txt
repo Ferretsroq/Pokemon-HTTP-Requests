@@ -1,0 +1,76 @@
+195:Vileplume|17
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,17.0
+2:Protect,94.1176470588%,16.0
+3:After You,88.2352941176%,15.0
+4:Sludge Bomb,76.4705882353%,13.0
+5:Moonblast,23.5294117647%,4.0
+6:Grass Knot,17.6470588235%,3.0
+
+ ---------- 
+Items used:
+1:Focus Sash,88.2352941176%,15.0
+2:Life Orb,5.88235294118%,1.0
+3:Sitrus Berry,5.88235294118%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Timid,70.5882352941%,12.0
+2:Modest,29.4117647059%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Sableye
+3:Salamence
+4:Talonflame
+5:Scrafty
+6:Cresselia
+7:Kyogre
+8:Xerneas
+9:Mawile
+10:Amoonguss
+11:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,57.1428571429%,9.71428571429
+2:Grass Knot,28.5714285714%,4.85714285714
+3:Moonblast,14.2857142857%,2.42857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,22.2222222222%,3.77777777778
+2:Precipice Blades,11.1111111111%,1.88888888889
+3:Dazzling Gleam,11.1111111111%,1.88888888889
+4:Spacial Rend,11.1111111111%,1.88888888889
+5:Gyro Ball,11.1111111111%,1.88888888889
+6:Hyper Voice,11.1111111111%,1.88888888889
+7:Eruption,11.1111111111%,1.88888888889
+8:Rock Slide,11.1111111111%,1.88888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Whimsicott
+3:Kyogre
+4:Salamence
+5:Breloom
+6:Mewtwo
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyurem
+4:Ferrothorn
+5:Cresselia
+6:Palkia
+7:Salamence
+8:Steelix

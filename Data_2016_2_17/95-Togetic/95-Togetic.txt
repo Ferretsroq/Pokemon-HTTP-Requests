@@ -1,0 +1,127 @@
+95:Togetic|165
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,165.0
+2:Tailwind,84.2424242424%,139.0
+3:After You,66.0606060606%,109.0
+4:Dazzling Gleam,63.0303030303%,104.0
+5:Magic Coat,21.2121212121%,35.0
+6:Thunder Wave,20.0%,33.0
+7:Protect,19.3939393939%,32.0
+8:Encore,7.87878787879%,13.0
+9:Roost,5.45454545455%,9.0
+10:Fire Blast,5.45454545455%,9.0
+11:Grass Knot,1.81818181818%,3.0
+12:Flamethrower,1.81818181818%,3.0
+13:Water Pulse,1.21212121212%,2.0
+14:Charm,1.21212121212%,2.0
+15:Psych Up,0.606060606061%,1.0
+16:Baton Pass,0.606060606061%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,96.9696969697%,160.0
+2:Everstone,3.0303030303%,5.0
+
+ ---------- 
+Abilities used:
+1:Super Luck,56.9696969697%,94.0
+2:Serene Grace,25.4545454545%,42.0
+3:Hustle,17.5757575758%,29.0
+
+ ---------- 
+Natures used:
+1:Bold,66.0606060606%,109.0
+2:Calm,24.8484848485%,41.0
+3:Sassy,5.45454545455%,9.0
+4:Relaxed,3.63636363636%,6.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Raichu
+4:Gengar
+5:Scizor
+6:Groudon
+7:Xerneas
+8:Kangaskhan
+9:Zekrom
+10:Ferrothorn
+11:Cresselia
+12:Metagross
+13:Crobat
+14:Talonflame
+15:Ho-Oh
+16:Azumarill
+17:Liepard
+18:Weavile
+19:Ludicolo
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,80.0%,132.0
+2:Grass Knot,6.66666666667%,11.0
+3:Fire Blast,6.66666666667%,11.0
+4:Flamethrower,6.66666666667%,11.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,9.83606557377%,16.2295081967
+2:Water Spout,8.19672131148%,13.5245901639
+3:Double-Edge,8.19672131148%,13.5245901639
+4:Iron Head,7.37704918033%,12.1721311475
+5:Gyro Ball,7.37704918033%,12.1721311475
+6:Eruption,6.55737704918%,10.8196721311
+7:Dazzling Gleam,5.73770491803%,9.46721311475
+8:Origin Pulse,4.91803278689%,8.11475409836
+9:Hyper Voice,4.09836065574%,6.76229508197
+10:Rock Slide,4.09836065574%,6.76229508197
+11:Ice Beam,3.27868852459%,5.40983606557
+12:Flamethrower,3.27868852459%,5.40983606557
+13:Scald,2.45901639344%,4.05737704918
+14:Flash Cannon,2.45901639344%,4.05737704918
+15:Brave Bird,2.45901639344%,4.05737704918
+16:Precipice Blades,1.6393442623%,2.70491803279
+17:Return,1.6393442623%,2.70491803279
+18:Thunder,1.6393442623%,2.70491803279
+19:Thunderbolt,1.6393442623%,2.70491803279
+20:Oblivion Wing,0.819672131148%,1.35245901639
+0:Other,12.2950819672%,20.2868852459
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Liepard
+3:Yveltal
+4:Aegislash
+5:Landorus
+6:Hydreigon
+7:Dialga
+8:Infernape
+9:Salamence
+10:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Rayquaza
+5:Ferrothorn
+6:Xerneas
+7:Mawile
+8:Salamence
+9:Aegislash
+10:Dialga
+11:Rayquaza
+12:Yveltal
+13:Talonflame
+14:Kyurem
+15:Ho-Oh
+16:Greninja
+17:Thundurus
+18:Terrakion
+19:Amoonguss
+20:Cresselia

@@ -1,0 +1,122 @@
+92:Shedinja|121
+ ---------- 
+Moves used:
+1:Toxic,68.5950413223%,83.0
+2:Protect,58.6776859504%,71.0
+3:Confuse Ray,53.7190082645%,65.0
+4:Will-O-Wisp,51.2396694215%,62.0
+5:Shadow Ball,48.7603305785%,59.0
+6:Shadow Sneak,34.7107438017%,42.0
+7:Phantom Force,20.6611570248%,25.0
+8:X-Scissor,13.2231404959%,16.0
+9:Bug Bite,11.5702479339%,14.0
+10:Sunny Day,11.5702479339%,14.0
+11:Shadow Claw,10.7438016529%,13.0
+12:Endure,8.26446280992%,10.0
+13:Hone Claws,4.13223140496%,5.0
+14:Swagger,3.30578512397%,4.0
+15:Mud-Slap,0.826446280992%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,92.5619834711%,112.0
+2:Safety Goggles,4.13223140496%,5.0
+3:Lum Berry,3.30578512397%,4.0
+
+ ---------- 
+Abilities used:
+1:Wonder Guard,100.0%,121.0
+
+ ---------- 
+Natures used:
+1:Timid,30.5785123967%,37.0
+2:Adamant,21.4876033058%,26.0
+3:Modest,15.7024793388%,19.0
+4:Lonely,11.5702479339%,14.0
+5:Jolly,8.26446280992%,10.0
+6:Hasty,4.95867768595%,6.0
+7:Brave,4.13223140496%,5.0
+8:Naughty,3.30578512397%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Golduck
+4:Sableye
+5:Xerneas
+6:Groudon
+7:Salamence
+8:Landorus
+9:Rayquaza
+10:Mawile
+11:Talonflame
+12:Lapras
+13:Aegislash
+14:Rotom
+15:Ho-Oh
+16:Porygon2
+17:Ferrothorn
+18:Crobat
+19:Cresselia
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,38.0952380952%,46.0952380952
+2:Shadow Ball,28.5714285714%,34.5714285714
+3:Phantom Force,14.2857142857%,17.2857142857
+4:X-Scissor,14.2857142857%,17.2857142857
+5:Shadow Claw,4.7619047619%,5.7619047619
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,9.09090909091%,11.0
+2:Fire Punch,9.09090909091%,11.0
+3:Air Slash,6.81818181818%,8.25
+4:Rock Slide,6.81818181818%,8.25
+5:Foul Play,4.54545454545%,5.5
+6:Brave Bird,4.54545454545%,5.5
+7:Sucker Punch,4.54545454545%,5.5
+8:Hyper Voice,4.54545454545%,5.5
+9:Eruption,4.54545454545%,5.5
+10:Freeze-Dry,2.27272727273%,2.75
+11:Smack Down,2.27272727273%,2.75
+12:Dragon Pulse,2.27272727273%,2.75
+13:Overheat,2.27272727273%,2.75
+14:Crunch,2.27272727273%,2.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Cresselia
+3:Kyogre
+4:Ludicolo
+5:Crobat
+6:Xerneas
+7:Aegislash
+8:Mienshao
+9:Whimsicott
+10:Liepard
+11:Palkia
+12:Rayquaza
+13:Mawile
+14:Hitmontop
+15:Gengar
+16:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Togekiss
+4:Rayquaza
+5:Liepard
+6:Salamence
+7:Greninja
+8:Reshiram
+9:Rayquaza
+10:Ho-Oh
+11:Crobat
+12:Articuno
+13:Ditto

@@ -1,0 +1,42 @@
+234:Registeel|1
+ ---------- 
+Moves used:
+1:Stealth Rock,100.0%,1.0
+2:Iron Head,100.0%,1.0
+3:Explosion,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Xerneas
+3:Aerodactyl
+4:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,33.3333333333%,0.333333333333
+2:Low Kick,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Lopunny
+2:Kangaskhan

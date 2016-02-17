@@ -1,0 +1,108 @@
+61:Jumpluff|13
+ ---------- 
+Moves used:
+1:Rage Powder,84.6153846154%,11.0
+2:Encore,76.9230769231%,10.0
+3:Sleep Powder,76.9230769231%,10.0
+4:Protect,53.8461538462%,7.0
+5:Helping Hand,38.4615384615%,5.0
+6:Grass Knot,30.7692307692%,4.0
+7:Worry Seed,15.3846153846%,2.0
+8:Giga Drain,7.69230769231%,1.0
+9:Cotton Spore,7.69230769231%,1.0
+10:Tail Whip,7.69230769231%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,46.1538461538%,6.0
+2:Mental Herb,23.0769230769%,3.0
+3:Sitrus Berry,15.3846153846%,2.0
+4:Wide Lens,7.69230769231%,1.0
+5:Lum Berry,7.69230769231%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Timid,84.6153846154%,11.0
+2:Modest,7.69230769231%,1.0
+3:Bold,7.69230769231%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Salamence
+6:Kyogre
+7:Thundurus
+8:Ferrothorn
+9:Cresselia
+10:Smeargle
+11:Crobat
+12:Kyurem
+13:Landorus
+14:Tornadus
+15:Giratina
+16:Togekiss
+17:Bronzong
+18:Cherrim
+19:Metagross
+20:Altaria
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,13.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,22.0338983051%,2.86440677966
+2:Eruption,11.8644067797%,1.54237288136
+3:Ice Beam,11.8644067797%,1.54237288136
+4:Hyper Voice,10.1694915254%,1.32203389831
+5:Double-Edge,6.77966101695%,0.881355932203
+6:Dragon Ascent,3.38983050847%,0.440677966102
+7:Water Spout,3.38983050847%,0.440677966102
+8:Return,3.38983050847%,0.440677966102
+9:Icy Wind,3.38983050847%,0.440677966102
+10:Rock Slide,3.38983050847%,0.440677966102
+11:Icicle Crash,1.69491525424%,0.220338983051
+12:Flash Cannon,1.69491525424%,0.220338983051
+13:Shadow Sneak,1.69491525424%,0.220338983051
+14:Dragon Pulse,1.69491525424%,0.220338983051
+15:Gyro Ball,1.69491525424%,0.220338983051
+16:Rock Tomb,1.69491525424%,0.220338983051
+17:Shadow Ball,1.69491525424%,0.220338983051
+18:Sacred Fire,1.69491525424%,0.220338983051
+19:Psychic,1.69491525424%,0.220338983051
+20:Ice Punch,1.69491525424%,0.220338983051
+0:Other,1.69491525424%,0.220338983051
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Kyogre
+5:Kangaskhan
+6:Cresselia
+7:Dialga
+8:Gengar
+9:Greninja
+10:Kyurem
+11:Ferrothorn
+12:Gothitelle
+13:Giratina
+14:Weavile
+15:Lucario
+16:Rayquaza
+17:Rayquaza
+18:Ho-Oh

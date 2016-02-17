@@ -1,0 +1,81 @@
+164:Hawlucha|19
+ ---------- 
+Moves used:
+1:Quick Guard,84.2105263158%,16.0
+2:Ally Switch,78.9473684211%,15.0
+3:Endeavor,78.9473684211%,15.0
+4:Encore,57.8947368421%,11.0
+5:Tailwind,52.6315789474%,10.0
+6:Acrobatics,10.5263157895%,2.0
+7:Sky Attack,10.5263157895%,2.0
+8:High Jump Kick,10.5263157895%,2.0
+9:Fling,5.26315789474%,1.0
+10:Superpower,5.26315789474%,1.0
+11:Helping Hand,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,78.9473684211%,15.0
+2:Power Herb,10.5263157895%,2.0
+3:King's Rock,5.26315789474%,1.0
+4:White Herb,5.26315789474%,1.0
+
+ ---------- 
+Abilities used:
+1:Limber,78.9473684211%,15.0
+2:Unburden,21.0526315789%,4.0
+
+ ---------- 
+Natures used:
+1:Jolly,89.4736842105%,17.0
+2:Adamant,10.5263157895%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyurem
+4:Ferrothorn
+5:Gothitelle
+6:Rayquaza
+7:Ditto
+8:Yveltal
+9:Meowstic
+10:Thundurus
+11:Scolipede
+12:Kyogre
+13:Smeargle
+14:Crobat
+15:Gengar
+16:Machoke
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Acrobatics,66.6666666667%,12.6666666667
+2:Sky Attack,33.3333333333%,6.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,21.4285714286%,4.07142857143
+2:Origin Pulse,14.2857142857%,2.71428571429
+3:Brave Bird,14.2857142857%,2.71428571429
+4:Water Spout,14.2857142857%,2.71428571429
+5:Precipice Blades,7.14285714286%,1.35714285714
+6:Eruption,7.14285714286%,1.35714285714
+7:Rock Slide,7.14285714286%,1.35714285714
+8:Explosion,7.14285714286%,1.35714285714
+9:Fire Punch,7.14285714286%,1.35714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Sableye
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Landorus

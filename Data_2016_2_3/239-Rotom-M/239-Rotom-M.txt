@@ -1,0 +1,44 @@
+239:Rotom-M|3
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,3.0
+2:Leaf Storm,100.0%,3.0
+3:Dark Pulse,100.0%,3.0
+4:Thunderbolt,100.0%,3.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Modest,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Gengar
+3:Liepard
+4:Xerneas
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Blue Flare,33.3333333333%,1.0
+2:Ice Beam,33.3333333333%,1.0
+3:Flamethrower,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Reshiram
+2:Kyogre

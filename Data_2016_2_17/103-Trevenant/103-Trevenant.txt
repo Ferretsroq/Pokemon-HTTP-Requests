@@ -1,0 +1,127 @@
+103:Trevenant|140
+ ---------- 
+Moves used:
+1:Trick Room,95.0%,133.0
+2:Phantom Force,85.0%,119.0
+3:Curse,84.2857142857%,118.0
+4:Protect,77.1428571429%,108.0
+5:Forest's Curse,24.2857142857%,34.0
+6:Will-O-Wisp,12.8571428571%,18.0
+7:Horn Leech,7.14285714286%,10.0
+8:Wood Hammer,6.42857142857%,9.0
+9:Leech Seed,2.85714285714%,4.0
+10:Magic Coat,2.14285714286%,3.0
+11:Foul Play,1.42857142857%,2.0
+12:Destiny Bond,0.714285714286%,1.0
+13:Substitute,0.714285714286%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,94.2857142857%,132.0
+2:Focus Sash,4.28571428571%,6.0
+3:Mental Herb,1.42857142857%,2.0
+
+ ---------- 
+Abilities used:
+1:Harvest,94.2857142857%,132.0
+2:Frisk,5.71428571429%,8.0
+
+ ---------- 
+Natures used:
+1:Careful,88.5714285714%,124.0
+2:Brave,4.28571428571%,6.0
+3:Sassy,3.57142857143%,5.0
+4:Impish,2.85714285714%,4.0
+5:Relaxed,0.714285714286%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Yveltal
+4:Sylveon
+5:Mawile
+6:Groudon
+7:Landorus
+8:Talonflame
+9:Sableye
+10:Cresselia
+11:Liepard
+12:Salamence
+13:Kyurem
+14:Gigalith
+15:Weavile
+16:Rayquaza
+17:Scizor
+18:Nidoqueen
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,84.0%,117.6
+2:Wood Hammer,8.0%,11.2
+3:Horn Leech,4.0%,5.6
+4:Destiny Bond,4.0%,5.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,14.4329896907%,20.206185567
+2:Ice Beam,10.3092783505%,14.4329896907
+3:Dragon Ascent,9.27835051546%,12.9896907216
+4:Brave Bird,9.27835051546%,12.9896907216
+5:Dazzling Gleam,8.24742268041%,11.5463917526
+6:Moonblast,4.12371134021%,5.77319587629
+7:Hyper Voice,3.09278350515%,4.32989690722
+8:Fire Punch,3.09278350515%,4.32989690722
+9:Precipice Blades,2.0618556701%,2.88659793814
+10:Iron Head,2.0618556701%,2.88659793814
+11:Power Whip,2.0618556701%,2.88659793814
+12:Fire Fang,2.0618556701%,2.88659793814
+13:Flare Blitz,2.0618556701%,2.88659793814
+14:Water Spout,2.0618556701%,2.88659793814
+15:Overheat,2.0618556701%,2.88659793814
+16:Knock Off,2.0618556701%,2.88659793814
+17:Psychic,2.0618556701%,2.88659793814
+18:Play Rough,1.03092783505%,1.44329896907
+19:Phantom Force,1.03092783505%,1.44329896907
+20:Foul Play,1.03092783505%,1.44329896907
+0:Other,6.18556701031%,8.65979381443
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Ferrothorn
+4:Groudon
+5:Gengar
+6:Terrakion
+7:Amoonguss
+8:Gothitelle
+9:Scrafty
+10:Liepard
+11:Togekiss
+12:Mawile
+13:Ludicolo
+14:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Rayquaza
+6:Mawile
+7:Ferrothorn
+8:Rayquaza
+9:Salamence
+10:Cresselia
+11:Ho-Oh
+12:Ditto
+13:Landorus
+14:Liepard
+15:Giratina
+16:Dialga
+17:Metagross
+18:Crobat
+19:Kangaskhan
+20:Gengar

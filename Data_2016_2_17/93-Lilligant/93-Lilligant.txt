@@ -1,0 +1,132 @@
+93:Lilligant|177
+ ---------- 
+Moves used:
+1:Sleep Powder,92.0903954802%,163.0
+2:Protect,87.0056497175%,154.0
+3:After You,71.186440678%,126.0
+4:Grass Knot,54.802259887%,97.0
+5:Teeter Dance,38.418079096%,68.0
+6:Leaf Storm,27.6836158192%,49.0
+7:Healing Wish,10.7344632768%,19.0
+8:Helping Hand,4.5197740113%,8.0
+9:Charm,3.38983050847%,6.0
+10:Giga Drain,3.38983050847%,6.0
+11:Hidden Power,2.82485875706%,5.0
+12:Worry Seed,2.25988700565%,4.0
+13:Role Play,1.12994350282%,2.0
+14:Quiver Dance,0.564971751412%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,78.5310734463%,139.0
+2:Coba Berry,7.90960451977%,14.0
+3:Wide Lens,4.5197740113%,8.0
+4:Sitrus Berry,3.38983050847%,6.0
+5:Life Orb,2.25988700565%,4.0
+6:Lum Berry,1.69491525424%,3.0
+7:Mental Herb,1.12994350282%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,177.0
+
+ ---------- 
+Natures used:
+1:Timid,82.4858757062%,146.0
+2:Jolly,8.47457627119%,15.0
+3:Bold,5.08474576271%,9.0
+4:Modest,2.25988700565%,4.0
+5:Hasty,1.69491525424%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Salamence
+6:Kyurem
+7:Cresselia
+8:Hawlucha
+9:Rayquaza
+10:Raichu
+11:Metagross
+12:Landorus
+13:Thundurus
+14:Mawile
+15:Crobat
+16:Thundurus
+17:Kyogre
+18:Aromatisse
+19:Palkia
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,62.1621621622%,110.027027027
+2:Leaf Storm,37.8378378378%,66.972972973
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,12.7272727273%,22.5272727273
+2:Ice Beam,12.7272727273%,22.5272727273
+3:Double-Edge,11.8181818182%,20.9181818182
+4:Dazzling Gleam,9.09090909091%,16.0909090909
+5:Brave Bird,6.36363636364%,11.2636363636
+6:Precipice Blades,4.54545454545%,8.04545454545
+7:Moonblast,4.54545454545%,8.04545454545
+8:Eruption,4.54545454545%,8.04545454545
+9:Water Spout,2.72727272727%,4.82727272727
+10:Return,2.72727272727%,4.82727272727
+11:Origin Pulse,1.81818181818%,3.21818181818
+12:Snarl,1.81818181818%,3.21818181818
+13:Bug Bite,1.81818181818%,3.21818181818
+14:Gyro Ball,1.81818181818%,3.21818181818
+15:Frustration,1.81818181818%,3.21818181818
+16:Dragon Ascent,0.909090909091%,1.60909090909
+17:Oblivion Wing,0.909090909091%,1.60909090909
+18:Power-Up Punch,0.909090909091%,1.60909090909
+19:Iron Head,0.909090909091%,1.60909090909
+20:Leaf Storm,0.909090909091%,1.60909090909
+0:Other,10.9090909091%,19.3090909091
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Smeargle
+5:Whimsicott
+6:Cresselia
+7:Yveltal
+8:Lilligant
+9:Liepard
+10:Palkia
+11:Dialga
+12:Mawile
+13:Espeon
+14:Crobat
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Salamence
+3:Xerneas
+4:Groudon
+5:Kyogre
+6:Cresselia
+7:Talonflame
+8:Ho-Oh
+9:Yveltal
+10:Ferrothorn
+11:Kyogre
+12:Scizor
+13:Aegislash
+14:Greninja
+15:Kyurem
+16:Lilligant
+17:Weavile
+18:Rayquaza
+19:Mewtwo
+20:Mewtwo

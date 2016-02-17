@@ -1,0 +1,89 @@
+170:Swoobat|27
+ ---------- 
+Moves used:
+1:Skill Swap,92.5925925926%,25.0
+2:Protect,74.0740740741%,20.0
+3:Super Fang,74.0740740741%,20.0
+4:Tailwind,66.6666666667%,18.0
+5:Taunt,25.9259259259%,7.0
+6:Reflect,25.9259259259%,7.0
+7:Thunder Wave,18.5185185185%,5.0
+8:After You,14.8148148148%,4.0
+9:Charm,7.40740740741%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,27.0
+
+ ---------- 
+Abilities used:
+1:Simple,92.5925925926%,25.0
+2:Unaware,7.40740740741%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,92.5925925926%,25.0
+2:Jolly,7.40740740741%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Ferrothorn
+5:Rotom
+6:Gengar
+7:Yveltal
+8:Ludicolo
+9:Landorus
+10:Amoonguss
+11:Cresselia
+12:Rayquaza
+13:Groudon
+14:Nidoqueen
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.0434782609%,3.52173913043
+2:Gyro Ball,8.69565217391%,2.34782608696
+3:Eruption,8.69565217391%,2.34782608696
+4:Ice Beam,8.69565217391%,2.34782608696
+5:Wild Charge,4.34782608696%,1.17391304348
+6:Iron Head,4.34782608696%,1.17391304348
+7:Brave Bird,4.34782608696%,1.17391304348
+8:Seed Bomb,4.34782608696%,1.17391304348
+9:Sucker Punch,4.34782608696%,1.17391304348
+10:Hyper Voice,4.34782608696%,1.17391304348
+11:Knock Off,4.34782608696%,1.17391304348
+12:Extreme Speed,4.34782608696%,1.17391304348
+13:Return,4.34782608696%,1.17391304348
+14:Rock Slide,4.34782608696%,1.17391304348
+15:Explosion,4.34782608696%,1.17391304348
+16:Thunderbolt,4.34782608696%,1.17391304348
+17:Low Kick,4.34782608696%,1.17391304348
+18:Double-Edge,4.34782608696%,1.17391304348
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Landorus
+4:Ferrothorn
+5:Groudon
+6:Gourgeist
+7:Talonflame
+8:Thundurus
+9:Cresselia
+10:Lopunny
+11:Rayquaza
+12:Kyogre
+13:Salamence
+14:Mawile
+15:Aerodactyl
+16:Raichu

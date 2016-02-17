@@ -1,0 +1,90 @@
+150:Gourgeist|1
+ ---------- 
+Moves used:
+1:Trick-or-Treat,100.0%,1.0
+2:Seed Bomb,100.0%,1.0
+3:Trick,100.0%,1.0
+4:Destiny Bond,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Giratina
+3:Sableye
+4:Aegislash
+5:Chandelure
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,53.3333333333%,0.533333333333
+2:Seed Bomb,46.6666666667%,0.466666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,22.9166666667%,0.229166666667
+2:Dazzling Gleam,10.4166666667%,0.104166666667
+3:Ice Beam,10.4166666667%,0.104166666667
+4:Hyper Voice,8.33333333333%,0.0833333333333
+5:Origin Pulse,4.16666666667%,0.0416666666667
+6:Oblivion Wing,4.16666666667%,0.0416666666667
+7:Moonblast,4.16666666667%,0.0416666666667
+8:Overheat,4.16666666667%,0.0416666666667
+9:Flamethrower,4.16666666667%,0.0416666666667
+10:Dragon Ascent,2.08333333333%,0.0208333333333
+11:Icicle Crash,2.08333333333%,0.0208333333333
+12:Snarl,2.08333333333%,0.0208333333333
+13:Spacial Rend,2.08333333333%,0.0208333333333
+14:Brave Bird,2.08333333333%,0.0208333333333
+15:Dark Pulse,2.08333333333%,0.0208333333333
+16:Water Spout,2.08333333333%,0.0208333333333
+17:Knock Off,2.08333333333%,0.0208333333333
+18:Heat Wave,2.08333333333%,0.0208333333333
+19:Sacred Fire,2.08333333333%,0.0208333333333
+20:Sludge Bomb,2.08333333333%,0.0208333333333
+0:Other,4.16666666667%,0.0416666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Smeargle
+5:Yveltal
+6:Weavile
+7:Xerneas
+8:Hydreigon
+9:Scrafty
+10:Swoobat
+11:Liepard
+12:Rayquaza
+13:Crobat
+14:Kangaskhan
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Yveltal
+6:Ho-Oh
+7:Hydreigon
+8:Palkia
+9:Weavile
+10:Rayquaza
+11:Rayquaza
+12:Gengar
+13:Charizard

@@ -1,0 +1,39 @@
+210:Beedrill|1
+ ---------- 
+Moves used:
+1:Poison Jab,100.0%,1.0
+2:U-turn,100.0%,1.0
+3:Knock Off,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Beedrillite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swarm,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Whimsicott
+3:Groudon
+4:Smeargle
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

@@ -1,0 +1,84 @@
+176:Slowking|23
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,23.0
+2:Skill Swap,60.8695652174%,14.0
+3:Scald,43.4782608696%,10.0
+4:Magic Coat,43.4782608696%,10.0
+5:Safeguard,34.7826086957%,8.0
+6:Swagger,34.7826086957%,8.0
+7:Grass Knot,21.7391304348%,5.0
+8:Slack Off,21.7391304348%,5.0
+9:Psychic,21.7391304348%,5.0
+10:Protect,17.3913043478%,4.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,23.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Bold,65.2173913043%,15.0
+2:Relaxed,34.7826086957%,8.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Groudon
+3:Mawile
+4:Kyogre
+5:Ferrothorn
+6:Kangaskhan
+7:Hariyama
+8:Nidoqueen
+9:Azumarill
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,100.0%,23.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.6363636364%,3.13636363636
+2:Power Whip,9.09090909091%,2.09090909091
+3:U-turn,9.09090909091%,2.09090909091
+4:Eruption,9.09090909091%,2.09090909091
+5:Dazzling Gleam,4.54545454545%,1.04545454545
+6:Moonblast,4.54545454545%,1.04545454545
+7:Foul Play,4.54545454545%,1.04545454545
+8:Dark Pulse,4.54545454545%,1.04545454545
+9:Sucker Punch,4.54545454545%,1.04545454545
+10:Water Spout,4.54545454545%,1.04545454545
+11:Hyper Voice,4.54545454545%,1.04545454545
+12:Shadow Ball,4.54545454545%,1.04545454545
+13:Extreme Speed,4.54545454545%,1.04545454545
+14:Return,4.54545454545%,1.04545454545
+15:Earthquake,4.54545454545%,1.04545454545
+16:Thunder,4.54545454545%,1.04545454545
+17:Double-Edge,4.54545454545%,1.04545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Amoonguss
+2:Groudon
+3:Crobat
+4:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Landorus
+5:Ferrothorn
+6:Kyogre
+7:Yveltal
+8:Aegislash
+9:Rayquaza
+10:Salamence
+11:Sableye
+12:Gyarados

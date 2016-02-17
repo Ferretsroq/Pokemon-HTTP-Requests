@@ -1,0 +1,93 @@
+70:Togetic|9
+ ---------- 
+Moves used:
+1:Dazzling Gleam,88.8888888889%,8.0
+2:Tailwind,88.8888888889%,8.0
+3:Follow Me,88.8888888889%,8.0
+4:After You,55.5555555556%,5.0
+5:Roost,11.1111111111%,1.0
+6:Endeavor,11.1111111111%,1.0
+7:Magic Coat,11.1111111111%,1.0
+8:Heal Bell,11.1111111111%,1.0
+9:Protect,11.1111111111%,1.0
+10:Toxic,11.1111111111%,1.0
+11:Thunder Wave,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,9.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,66.6666666667%,6.0
+2:Super Luck,33.3333333333%,3.0
+
+ ---------- 
+Natures used:
+1:Bold,77.7777777778%,7.0
+2:Calm,22.2222222222%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Gengar
+4:Scizor
+5:Raichu
+6:Xerneas
+7:Liepard
+8:Yveltal
+9:Tornadus
+10:Mienshao
+11:Magnezone
+12:Bronzong
+13:Infernape
+14:Metagross
+15:Crobat
+16:Kangaskhan
+17:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,100.0%,9.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,15.3846153846%,1.38461538462
+2:Origin Pulse,11.5384615385%,1.03846153846
+3:Precipice Blades,7.69230769231%,0.692307692308
+4:Eruption,7.69230769231%,0.692307692308
+5:Double-Edge,7.69230769231%,0.692307692308
+6:Dragon Ascent,3.84615384615%,0.346153846154
+7:Fusion Flare,3.84615384615%,0.346153846154
+8:Bolt Strike,3.84615384615%,0.346153846154
+9:Shadow Force,3.84615384615%,0.346153846154
+10:Flash Cannon,3.84615384615%,0.346153846154
+11:Gyro Ball,3.84615384615%,0.346153846154
+12:Hyper Voice,3.84615384615%,0.346153846154
+13:Sacred Fire,3.84615384615%,0.346153846154
+14:Psychic,3.84615384615%,0.346153846154
+15:Thunder,3.84615384615%,0.346153846154
+16:Flamethrower,3.84615384615%,0.346153846154
+17:Thunder Punch,3.84615384615%,0.346153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Amoonguss
+2:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Dialga
+4:Kangaskhan
+5:Kyurem
+6:Zekrom
+7:Ferrothorn
+8:Cresselia
+9:Giratina
+10:Palkia
+11:Rayquaza
+12:Salamence
+13:Ho-Oh

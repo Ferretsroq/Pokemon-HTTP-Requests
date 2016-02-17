@@ -1,0 +1,164 @@
+53:Zekrom|515
+ ---------- 
+Moves used:
+1:Fusion Bolt,71.067961165%,366.0
+2:Bolt Strike,60.9708737864%,314.0
+3:Draco Meteor,49.5145631068%,255.0
+4:Dragon Claw,46.213592233%,238.0
+5:Protect,46.213592233%,238.0
+6:Rock Slide,30.0970873786%,155.0
+7:Tailwind,23.8834951456%,123.0
+8:Outrage,18.0582524272%,93.0
+9:Volt Switch,16.5048543689%,85.0
+10:Earth Power,13.2038834951%,68.0
+11:Hidden Power,3.88349514563%,20.0
+12:Dragon Tail,2.33009708738%,12.0
+13:Crunch,2.33009708738%,12.0
+14:Safeguard,2.33009708738%,12.0
+15:Giga Impact,2.1359223301%,11.0
+16:Zen Headbutt,1.74757281553%,9.0
+17:Thunder Wave,1.55339805825%,8.0
+18:Rock Tomb,1.35922330097%,7.0
+19:Hone Claws,1.16504854369%,6.0
+20:Shadow Claw,1.16504854369%,6.0
+0:Other,4.27184466019%,22.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,50.0970873786%,258.0
+2:Life Orb,20.9708737864%,108.0
+3:Shuca Berry,8.93203883495%,46.0
+4:Focus Sash,4.66019417476%,24.0
+5:Zap Plate,3.49514563107%,18.0
+6:Expert Belt,3.1067961165%,16.0
+7:Haban Berry,2.91262135922%,15.0
+8:Assault Vest,1.74757281553%,9.0
+9:Lum Berry,1.35922330097%,7.0
+10:Safety Goggles,0.970873786408%,5.0
+11:Weakness Policy,0.582524271845%,3.0
+12:Air Balloon,0.582524271845%,3.0
+13:Wide Lens,0.388349514563%,2.0
+
+ ---------- 
+Abilities used:
+1:Teravolt,100.0%,515.0
+
+ ---------- 
+Natures used:
+1:Adamant,30.2912621359%,156.0
+2:Naughty,16.6990291262%,86.0
+3:Jolly,16.1165048544%,83.0
+4:Lonely,10.0970873786%,52.0
+5:Rash,7.3786407767%,38.0
+6:Quiet,6.79611650485%,35.0
+7:Naive,4.85436893204%,25.0
+8:Mild,3.30097087379%,17.0
+9:Brave,3.30097087379%,17.0
+10:Hasty,0.776699029126%,4.0
+11:Calm,0.388349514563%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Talonflame
+5:Landorus
+6:Gengar
+7:Ferrothorn
+8:Crobat
+9:Salamence
+10:Greninja
+11:Scizor
+12:Reshiram
+13:Cresselia
+14:Thundurus
+15:Mawile
+16:Amoonguss
+17:Ditto
+18:Lumineon
+19:Rayquaza
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fusion Bolt,43.3139534884%,223.066860465
+2:Bolt Strike,23.5465116279%,121.264534884
+3:Draco Meteor,13.0813953488%,67.3691860465
+4:Dragon Claw,9.01162790698%,46.4098837209
+5:Outrage,4.6511627907%,23.9534883721
+6:Rock Slide,4.06976744186%,20.9593023256
+7:Volt Switch,1.16279069767%,5.98837209302
+8:Hidden Power,0.581395348837%,2.99418604651
+9:Earth Power,0.290697674419%,1.49709302326
+10:Struggle,0.290697674419%,1.49709302326
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.1301775148%,62.4704142012
+2:Precipice Blades,9.4674556213%,48.7573964497
+3:Ice Beam,8.28402366864%,42.6627218935
+4:Earth Power,7.10059171598%,36.5680473373
+5:Draco Meteor,6.50887573964%,33.5207100592
+6:Moonblast,5.32544378698%,27.426035503
+7:Sucker Punch,4.43786982249%,22.8550295858
+8:Water Spout,4.14201183432%,21.3313609467
+9:Eruption,3.84615384615%,19.8076923077
+10:Double-Edge,2.95857988166%,15.2366863905
+11:Play Rough,2.66272189349%,13.7130177515
+12:Earthquake,2.66272189349%,13.7130177515
+13:Spacial Rend,2.36686390533%,12.1893491124
+14:Extreme Speed,2.07100591716%,10.6656804734
+15:Origin Pulse,1.77514792899%,9.14201183432
+16:Rock Slide,1.77514792899%,9.14201183432
+17:Shadow Ball,1.47928994083%,7.61834319527
+18:Low Kick,1.47928994083%,7.61834319527
+19:Dragon Pulse,1.18343195266%,6.09467455621
+20:Dragon Claw,1.18343195266%,6.09467455621
+0:Other,11.5384615385%,59.4230769231
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Crobat
+3:Kangaskhan
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Xerneas
+8:Yveltal
+9:Groudon
+10:Ho-Oh
+11:Thundurus
+12:Liepard
+13:Togekiss
+14:Gengar
+15:Palkia
+16:Weavile
+17:Mawile
+18:Smeargle
+19:Gengar
+20:Cresselia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Mawile
+8:Palkia
+9:Landorus
+10:Yveltal
+11:Aegislash
+12:Dialga
+13:Ditto
+14:Gengar
+15:Cresselia
+16:Kyogre
+17:Kyurem
+18:Ferrothorn
+19:Giratina
+20:Lopunny

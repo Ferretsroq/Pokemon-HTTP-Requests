@@ -1,0 +1,43 @@
+157:Klinklang|1
+ ---------- 
+Moves used:
+1:Gear Grind,100.0%,1.0
+2:Shift Gear,100.0%,1.0
+3:Metal Sound,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Amoonguss
+2:Cresselia
+3:Palkia
+4:Groudon
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Flare Blitz,50.0%,0.5
+2:Fire Punch,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Kangaskhan

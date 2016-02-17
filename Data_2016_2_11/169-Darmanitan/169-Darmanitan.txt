@@ -1,0 +1,103 @@
+169:Darmanitan|28
+ ---------- 
+Moves used:
+1:Flare Blitz,96.4285714286%,27.0
+2:Rock Slide,92.8571428571%,26.0
+3:Superpower,57.1428571429%,16.0
+4:U-turn,50.0%,14.0
+5:Zen Headbutt,42.8571428571%,12.0
+6:Protect,39.2857142857%,11.0
+7:Giga Impact,3.57142857143%,1.0
+8:Rock Tomb,3.57142857143%,1.0
+9:Fire Blast,3.57142857143%,1.0
+10:Psychic,3.57142857143%,1.0
+11:Earthquake,3.57142857143%,1.0
+12:Thrash,3.57142857143%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,42.8571428571%,12.0
+2:Choice Band,28.5714285714%,8.0
+3:Choice Scarf,25.0%,7.0
+4:Assault Vest,3.57142857143%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,96.4285714286%,27.0
+2:Zen Mode,3.57142857143%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,67.8571428571%,19.0
+2:Adamant,28.5714285714%,8.0
+3:Modest,3.57142857143%,1.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Xerneas
+3:Aromatisse
+4:Groudon
+5:Kyogre
+6:Ferrothorn
+7:Talonflame
+8:Mewtwo
+9:Rayquaza
+10:Salamence
+11:Kangaskhan
+12:Golduck
+13:Parasect
+14:Amoonguss
+15:Zekrom
+16:Zorua
+17:Archeops
+18:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,47.0588235294%,13.1764705882
+2:Rock Slide,17.6470588235%,4.94117647059
+3:U-turn,11.7647058824%,3.29411764706
+4:Fire Blast,11.7647058824%,3.29411764706
+5:Zen Headbutt,5.88235294118%,1.64705882353
+6:Thrash,5.88235294118%,1.64705882353
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,4.66666666667
+2:Origin Pulse,16.6666666667%,4.66666666667
+3:Earth Power,11.1111111111%,3.11111111111
+4:Sucker Punch,11.1111111111%,3.11111111111
+5:Dazzling Gleam,5.55555555556%,1.55555555556
+6:Spacial Rend,5.55555555556%,1.55555555556
+7:Gyro Ball,5.55555555556%,1.55555555556
+8:Water Spout,5.55555555556%,1.55555555556
+9:Eruption,5.55555555556%,1.55555555556
+10:Return,5.55555555556%,1.55555555556
+11:Rock Slide,5.55555555556%,1.55555555556
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Cresselia
+2:Talonflame
+3:Ferrothorn
+4:Scizor
+5:Xerneas
+6:Groudon
+7:Kyogre
+8:Mawile
+9:Ho-Oh
+10:Crobat
+11:Jynx
+12:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Ferrothorn
+6:Palkia
+7:Mawile
+8:Kangaskhan

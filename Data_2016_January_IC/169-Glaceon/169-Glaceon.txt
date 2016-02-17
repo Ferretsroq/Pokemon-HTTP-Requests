@@ -1,0 +1,49 @@
+169:Glaceon|1
+ ---------- 
+Moves used:
+1:Shadow Ball,100.0%,1.0
+2:Hidden Power,100.0%,1.0
+3:Blizzard,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Ice Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Snorlax
+4:Kangaskhan
+5:Cloyster
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,40.0%,0.4
+2:Origin Pulse,20.0%,0.2
+3:Dark Pulse,20.0%,0.2
+4:Fire Punch,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal
+3:Groudon
+4:Kyogre

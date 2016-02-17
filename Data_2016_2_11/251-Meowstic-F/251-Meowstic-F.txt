@@ -1,0 +1,58 @@
+251:Meowstic-F|3
+ ---------- 
+Moves used:
+1:Psyshock,66.6666666667%,2.0
+2:Stored Power,33.3333333333%,1.0
+3:Dark Pulse,33.3333333333%,1.0
+4:Gravity,33.3333333333%,1.0
+5:Calm Mind,33.3333333333%,1.0
+6:Assist,33.3333333333%,1.0
+7:Fake Out,33.3333333333%,1.0
+8:Hidden Power,33.3333333333%,1.0
+9:Protect,33.3333333333%,1.0
+10:Barrier,33.3333333333%,1.0
+11:Psychic,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,33.3333333333%,1.0
+2:Life Orb,33.3333333333%,1.0
+3:Leftovers,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Palkia
+3:Rayquaza
+4:Groudon
+5:Medicham
+6:Ho-Oh
+7:Umbreon
+8:Lapras
+9:Ponyta
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,1.0
+2:Play Rough,33.3333333333%,1.0
+3:Double-Edge,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Mawile
+3:Kangaskhan

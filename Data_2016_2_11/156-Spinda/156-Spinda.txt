@@ -1,0 +1,68 @@
+156:Spinda|17
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,17.0
+2:Icy Wind,100.0%,17.0
+3:Copycat,94.1176470588%,16.0
+4:Helping Hand,94.1176470588%,16.0
+5:Fake Out,5.88235294118%,1.0
+6:Encore,5.88235294118%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,17.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,17.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Landorus
+4:Ferrothorn
+5:Liepard
+6:Whimsicott
+7:Palkia
+8:Mawile
+9:Greninja
+10:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,100.0%,17.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.75%,3.1875
+2:Precipice Blades,12.5%,2.125
+3:Double-Edge,12.5%,2.125
+4:Dragon Ascent,6.25%,1.0625
+5:Origin Pulse,6.25%,1.0625
+6:Dragon Pulse,6.25%,1.0625
+7:Water Spout,6.25%,1.0625
+8:Rock Slide,6.25%,1.0625
+9:Explosion,6.25%,1.0625
+10:Thunderbolt,6.25%,1.0625
+11:Ice Beam,6.25%,1.0625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Landorus
+5:Thundurus
+6:Dialga
+7:Rayquaza
+8:Salamence
+9:Kangaskhan

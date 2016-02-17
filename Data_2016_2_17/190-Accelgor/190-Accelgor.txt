@@ -1,0 +1,73 @@
+190:Accelgor|24
+ ---------- 
+Moves used:
+1:Final Gambit,100.0%,24.0
+2:Encore,95.8333333333%,23.0
+3:Acid Spray,66.6666666667%,16.0
+4:Protect,45.8333333333%,11.0
+5:Feint,41.6666666667%,10.0
+6:Gastro Acid,33.3333333333%,8.0
+7:Knock Off,12.5%,3.0
+8:Bug Buzz,4.16666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,79.1666666667%,19.0
+2:Bright Powder,20.8333333333%,5.0
+
+ ---------- 
+Abilities used:
+1:Sticky Hold,62.5%,15.0
+2:Hydration,37.5%,9.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,24.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kangaskhan
+3:Clefairy
+4:Rayquaza
+5:Kyogre
+6:Mawile
+7:Kyurem
+8:Zekrom
+9:Talonflame
+10:Landorus
+11:Hydreigon
+12:Lopunny
+13:Spinda
+14:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Final Gambit,100.0%,24.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,5.88235294118%,1.41176470588
+2:Sky Drop,5.88235294118%,1.41176470588
+3:Bullet Punch,5.88235294118%,1.41176470588
+4:Gyro Ball,5.88235294118%,1.41176470588
+5:Hyper Voice,5.88235294118%,1.41176470588
+6:Psychic,5.88235294118%,1.41176470588
+7:Double-Edge,5.88235294118%,1.41176470588
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Ferrothorn
+3:Palkia
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Thundurus
+2:Ferrothorn
+3:Cresselia
+4:Kyogre
+5:Salamence
+6:Scizor
+7:Kangaskhan

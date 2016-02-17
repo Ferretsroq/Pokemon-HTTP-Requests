@@ -1,0 +1,66 @@
+242:Illumise|7
+ ---------- 
+Moves used:
+1:Encore,100.0%,7.0
+2:Fake Tears,57.1428571429%,4.0
+3:Thunder Wave,57.1428571429%,4.0
+4:Sweet Scent,42.8571428571%,3.0
+5:Protect,42.8571428571%,3.0
+6:Light Screen,42.8571428571%,3.0
+7:Helping Hand,28.5714285714%,2.0
+8:Tailwind,14.2857142857%,1.0
+9:Swagger,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,42.8571428571%,3.0
+2:Sitrus Berry,42.8571428571%,3.0
+3:Mental Herb,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Bold,57.1428571429%,4.0
+2:Timid,28.5714285714%,2.0
+3:Calm,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Sceptile
+3:Lugia
+4:Kyogre
+5:Kangaskhan
+6:Yveltal
+7:Dedenne
+8:Kyurem
+9:Ferrothorn
+10:Rayquaza
+11:Groudon
+12:Zapdos
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,1.4
+2:Water Spout,20.0%,1.4
+3:Hyper Voice,20.0%,1.4
+4:Rock Slide,20.0%,1.4
+5:Double-Edge,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kangaskhan

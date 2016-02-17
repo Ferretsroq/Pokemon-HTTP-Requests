@@ -1,0 +1,109 @@
+142:Archeops|45
+ ---------- 
+Moves used:
+1:Rock Slide,100.0%,45.0
+2:Quick Guard,97.7777777778%,44.0
+3:Tailwind,73.3333333333%,33.0
+4:Ally Switch,55.5555555556%,25.0
+5:Stealth Rock,37.7777777778%,17.0
+6:Roar,24.4444444444%,11.0
+7:Endeavor,4.44444444444%,2.0
+8:Acrobatics,2.22222222222%,1.0
+9:Protect,2.22222222222%,1.0
+10:Sky Attack,2.22222222222%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,42.2222222222%,19.0
+2:Lum Berry,31.1111111111%,14.0
+3:Sitrus Berry,24.4444444444%,11.0
+4:Power Herb,2.22222222222%,1.0
+
+ ---------- 
+Abilities used:
+1:Defeatist,100.0%,45.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,45.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mienshao
+3:Rayquaza
+4:Xerneas
+5:Ho-Oh
+6:Noivern
+7:Reshiram
+8:Smeargle
+9:Gengar
+10:Dialga
+11:Salamence
+12:Groudon
+13:Yveltal
+14:Zekrom
+15:Scizor
+16:Mewtwo
+17:Charizard
+18:Talonflame
+19:Landorus
+20:Virizion
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,45.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.9189189189%,8.51351351351
+2:Origin Pulse,10.8108108108%,4.86486486486
+3:Rock Slide,10.8108108108%,4.86486486486
+4:Dragon Ascent,5.40540540541%,2.43243243243
+5:Precipice Blades,5.40540540541%,2.43243243243
+6:Brave Bird,5.40540540541%,2.43243243243
+7:Gyro Ball,5.40540540541%,2.43243243243
+8:Hyper Voice,5.40540540541%,2.43243243243
+9:Thunderbolt,5.40540540541%,2.43243243243
+10:Moonblast,2.7027027027%,1.21621621622
+11:Icicle Crash,2.7027027027%,1.21621621622
+12:Spacial Rend,2.7027027027%,1.21621621622
+13:Draco Meteor,2.7027027027%,1.21621621622
+14:Dragon Pulse,2.7027027027%,1.21621621622
+15:Flare Blitz,2.7027027027%,1.21621621622
+16:Feint,2.7027027027%,1.21621621622
+17:Knock Off,2.7027027027%,1.21621621622
+18:Shadow Ball,2.7027027027%,1.21621621622
+19:Ice Beam,2.7027027027%,1.21621621622
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Smeargle
+3:Crobat
+4:Xerneas
+5:Liepard
+6:Groudon
+7:Kyogre
+8:Mewtwo
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Landorus
+4:Groudon
+5:Salamence
+6:Talonflame
+7:Thundurus
+8:Ferrothorn
+9:Weavile
+10:Mienshao
+11:Cresselia
+12:Palkia
+13:Rayquaza
+14:Rayquaza
+15:Sceptile
+16:Ho-Oh
+17:Gengar

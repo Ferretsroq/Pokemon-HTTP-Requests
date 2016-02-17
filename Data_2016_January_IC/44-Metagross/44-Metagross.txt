@@ -1,0 +1,129 @@
+44:Metagross|23
+ ---------- 
+Moves used:
+1:Zen Headbutt,91.3043478261%,21.0
+2:Protect,78.2608695652%,18.0
+3:Bullet Punch,69.5652173913%,16.0
+4:Iron Head,56.5217391304%,13.0
+5:Meteor Mash,43.4782608696%,10.0
+6:Ice Punch,39.1304347826%,9.0
+7:Earthquake,8.69565217391%,2.0
+8:Hammer Arm,4.34782608696%,1.0
+9:Substitute,4.34782608696%,1.0
+10:Agility,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Metagrossite,69.5652173913%,16.0
+2:Assault Vest,13.0434782609%,3.0
+3:Weakness Policy,4.34782608696%,1.0
+4:Life Orb,4.34782608696%,1.0
+5:Expert Belt,4.34782608696%,1.0
+6:Sitrus Berry,4.34782608696%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Jolly,65.2173913043%,15.0
+2:Adamant,30.4347826087%,7.0
+3:Brave,4.34782608696%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Yveltal
+5:Crobat
+6:Rayquaza
+7:Xerneas
+8:Liepard
+9:Gengar
+10:Landorus
+11:Zekrom
+12:Kangaskhan
+13:Sylveon
+14:Talonflame
+15:Thundurus
+16:Hydreigon
+17:Mienshao
+18:Cresselia
+19:Weavile
+20:Hitmontop
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Punch,28.2828282828%,6.50505050505
+2:Iron Head,21.2121212121%,4.87878787879
+3:Zen Headbutt,21.2121212121%,4.87878787879
+4:Meteor Mash,20.202020202%,4.64646464646
+5:Ice Punch,9.09090909091%,2.09090909091
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,13.9534883721%,3.20930232558
+2:Eruption,11.6279069767%,2.67441860465
+3:Origin Pulse,9.3023255814%,2.13953488372
+4:Earth Power,9.3023255814%,2.13953488372
+5:Water Spout,9.3023255814%,2.13953488372
+6:Precipice Blades,6.97674418605%,1.60465116279
+7:Dazzling Gleam,5.81395348837%,1.33720930233
+8:Moonblast,4.6511627907%,1.06976744186
+9:Flare Blitz,3.48837209302%,0.802325581395
+10:Fire Punch,3.48837209302%,0.802325581395
+11:Scald,2.32558139535%,0.53488372093
+12:Shadow Ball,2.32558139535%,0.53488372093
+13:Extreme Speed,2.32558139535%,0.53488372093
+14:Flamethrower,2.32558139535%,0.53488372093
+15:Power-Up Punch,1.16279069767%,0.267441860465
+16:Play Rough,1.16279069767%,0.267441860465
+17:Fusion Flare,1.16279069767%,0.267441860465
+18:Bolt Strike,1.16279069767%,0.267441860465
+19:Shadow Sneak,1.16279069767%,0.267441860465
+20:Overheat,1.16279069767%,0.267441860465
+0:Other,4.6511627907%,1.06976744186
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Salamence
+4:Smeargle
+5:Thundurus
+6:Weavile
+7:Crobat
+8:Gengar
+9:Yveltal
+10:Talonflame
+11:Ferrothorn
+12:Amoonguss
+13:Whimsicott
+14:Togekiss
+15:Lopunny
+16:Rayquaza
+17:Groudon
+18:Ho-Oh
+19:Clefairy
+20:Landorus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Mawile
+6:Talonflame
+7:Cresselia
+8:Gengar
+9:Aegislash
+10:Kyurem
+11:Zekrom
+12:Rayquaza
+13:Rayquaza
+14:Kyogre
+15:Salamence
+16:Ditto

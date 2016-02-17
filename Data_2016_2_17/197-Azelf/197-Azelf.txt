@@ -1,0 +1,99 @@
+197:Azelf|21
+ ---------- 
+Moves used:
+1:Explosion,57.1428571429%,12.0
+2:Zen Headbutt,52.380952381%,11.0
+3:Skill Swap,47.619047619%,10.0
+4:Psychic,47.619047619%,10.0
+5:Safeguard,42.8571428571%,9.0
+6:Thunder Wave,42.8571428571%,9.0
+7:Knock Off,28.5714285714%,6.0
+8:Fire Punch,28.5714285714%,6.0
+9:Trick,14.2857142857%,3.0
+10:Ice Punch,14.2857142857%,3.0
+11:Reflect,9.52380952381%,2.0
+12:Light Screen,9.52380952381%,2.0
+13:Detect,4.7619047619%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,42.8571428571%,9.0
+2:Mind Plate,28.5714285714%,6.0
+3:Focus Sash,19.0476190476%,4.0
+4:Light Clay,9.52380952381%,2.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,21.0
+
+ ---------- 
+Natures used:
+1:Jolly,52.380952381%,11.0
+2:Timid,42.8571428571%,9.0
+3:Naive,4.7619047619%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Musharna
+4:Kyogre
+5:Metagross
+6:Liepard
+7:Rayquaza
+8:Gardevoir
+9:Kangaskhan
+10:Malamar
+11:Landorus
+12:Ferrothorn
+13:Cresselia
+14:Meowstic
+15:Talonflame
+16:Zekrom
+17:Terrakion
+18:Mawile
+19:Smeargle
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,60.0%,12.6
+2:Psychic,20.0%,4.2
+3:Zen Headbutt,10.0%,2.1
+4:Knock Off,10.0%,2.1
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,10.5263157895%,2.21052631579
+2:Dazzling Gleam,5.26315789474%,1.10526315789
+3:Play Rough,5.26315789474%,1.10526315789
+4:Scald,5.26315789474%,1.10526315789
+5:Brave Bird,5.26315789474%,1.10526315789
+6:Sucker Punch,5.26315789474%,1.10526315789
+7:Water Spout,5.26315789474%,1.10526315789
+8:Hyper Voice,5.26315789474%,1.10526315789
+9:Eruption,5.26315789474%,1.10526315789
+10:Shadow Ball,5.26315789474%,1.10526315789
+11:Frustration,5.26315789474%,1.10526315789
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Kangaskhan
+3:Aegislash
+4:Amoonguss
+5:Groudon
+6:Scizor
+7:Crobat
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Aegislash
+5:Talonflame
+6:Groudon
+7:Salamence
+8:Mawile

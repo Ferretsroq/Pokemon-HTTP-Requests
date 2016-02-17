@@ -1,0 +1,83 @@
+91:Gourgeist-Super|4
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,4.0
+2:Seed Bomb,100.0%,4.0
+3:Worry Seed,50.0%,2.0
+4:Will-O-Wisp,50.0%,2.0
+5:Trick-or-Treat,25.0%,1.0
+6:Skill Swap,25.0%,1.0
+7:Magic Coat,25.0%,1.0
+8:Destiny Bond,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Coba Berry,50.0%,2.0
+2:Focus Sash,25.0%,1.0
+3:Mental Herb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Relaxed,50.0%,2.0
+2:Sassy,25.0%,1.0
+3:Brave,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Talonflame
+4:Cresselia
+5:Ferrothorn
+6:Dialga
+7:Yveltal
+8:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,87.5%,3.5
+2:Destiny Bond,12.5%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,14.2857142857%,0.571428571429
+2:Ice Beam,14.2857142857%,0.571428571429
+3:Precipice Blades,9.52380952381%,0.380952380952
+4:Dazzling Gleam,9.52380952381%,0.380952380952
+5:Brave Bird,9.52380952381%,0.380952380952
+6:Hyper Voice,9.52380952381%,0.380952380952
+7:Origin Pulse,4.7619047619%,0.190476190476
+8:Moonblast,4.7619047619%,0.190476190476
+9:Play Rough,4.7619047619%,0.190476190476
+10:Snarl,4.7619047619%,0.190476190476
+11:Eruption,4.7619047619%,0.190476190476
+12:Rock Slide,4.7619047619%,0.190476190476
+13:Fire Punch,4.7619047619%,0.190476190476
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Talonflame
+3:Thundurus
+4:Groudon
+5:Kyogre
+6:Mawile
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Rayquaza
+5:Kyogre
+6:Salamence
+7:Yveltal
+8:Cresselia
+9:Rayquaza
+10:Kyogre
+11:Mawile

@@ -1,0 +1,79 @@
+85:Blaziken|5
+ ---------- 
+Moves used:
+1:Flare Blitz,80.0%,4.0
+2:Protect,60.0%,3.0
+3:Low Kick,60.0%,3.0
+4:Swords Dance,60.0%,3.0
+5:Stone Edge,20.0%,1.0
+6:Poison Jab,20.0%,1.0
+7:Overheat,20.0%,1.0
+8:Superpower,20.0%,1.0
+9:Rock Slide,20.0%,1.0
+10:High Jump Kick,20.0%,1.0
+11:Thunder Punch,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Blazikenite,40.0%,2.0
+2:Air Balloon,20.0%,1.0
+3:Life Orb,20.0%,1.0
+4:Choice Band,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,80.0%,4.0
+2:Blaze,20.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,80.0%,4.0
+2:Gentle,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Aegislash
+2:Rayquaza
+3:Xerneas
+4:Groudon
+5:Kyogre
+6:Klefki
+7:Tornadus
+8:Ferrothorn
+9:Whimsicott
+10:Togekiss
+11:Weavile
+12:Garchomp
+13:Gastrodon
+14:Latios
+15:Salamence
+16:Gardevoir
+17:Lugia
+18:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,50.0%,2.5
+2:Flare Blitz,25.0%,1.25
+3:Superpower,25.0%,1.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,1.66666666667
+2:Dragon Ascent,16.6666666667%,0.833333333333
+3:Brave Bird,16.6666666667%,0.833333333333
+4:Thunderbolt,16.6666666667%,0.833333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Groudon
+3:Kangaskhan
+4:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Thundurus
+3:Rayquaza
+4:Ho-Oh

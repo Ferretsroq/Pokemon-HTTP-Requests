@@ -1,0 +1,41 @@
+163:Audino|1
+ ---------- 
+Moves used:
+1:Heal Pulse,100.0%,1.0
+2:Simple Beam,100.0%,1.0
+3:Trick Room,100.0%,1.0
+4:Encore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Healer,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Giratina
+3:Groudon
+4:Mawile
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earthquake,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus

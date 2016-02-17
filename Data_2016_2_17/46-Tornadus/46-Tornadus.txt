@@ -1,0 +1,163 @@
+46:Tornadus|790
+ ---------- 
+Moves used:
+1:Tailwind,97.2151898734%,768.0
+2:Taunt,87.5949367089%,692.0
+3:Hurricane,80.7594936709%,638.0
+4:Role Play,69.8734177215%,552.0
+5:Protect,15.3164556962%,121.0
+6:Heat Wave,12.6582278481%,100.0
+7:Air Slash,11.5189873418%,91.0
+8:Icy Wind,8.22784810127%,65.0
+9:Swagger,4.43037974684%,35.0
+10:Grass Knot,3.54430379747%,28.0
+11:Toxic,3.41772151899%,27.0
+12:Superpower,1.89873417722%,15.0
+13:Focus Blast,1.39240506329%,11.0
+14:Acrobatics,1.13924050633%,9.0
+15:Sludge Bomb,0.253164556962%,2.0
+16:Incinerate,0.126582278481%,1.0
+17:Foul Play,0.126582278481%,1.0
+18:U-turn,0.126582278481%,1.0
+19:Rain Dance,0.126582278481%,1.0
+20:Hidden Power,0.126582278481%,1.0
+0:Other,0.126582278481%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,45.1898734177%,357.0
+2:Life Orb,13.417721519%,106.0
+3:Sitrus Berry,10.253164557%,81.0
+4:Lum Berry,10.253164557%,81.0
+5:Safety Goggles,3.79746835443%,30.0
+6:Eject Button,2.78481012658%,22.0
+7:Sharp Beak,1.89873417722%,15.0
+8:Yache Berry,1.89873417722%,15.0
+9:Bright Powder,1.51898734177%,12.0
+10:Leftovers,1.01265822785%,8.0
+11:Mental Herb,1.01265822785%,8.0
+12:Rowap Berry,0.632911392405%,5.0
+13:Charti Berry,0.632911392405%,5.0
+14:Sky Plate,0.379746835443%,3.0
+15:Rocky Helmet,0.126582278481%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,790.0
+
+ ---------- 
+Natures used:
+1:Timid,72.2784810127%,571.0
+2:Gentle,6.07594936709%,48.0
+3:Modest,5.94936708861%,47.0
+4:Hardy,4.30379746835%,34.0
+5:Calm,3.79746835443%,30.0
+6:Bold,3.16455696203%,25.0
+7:Naive,2.6582278481%,21.0
+8:Adamant,1.13924050633%,9.0
+9:Hasty,0.632911392405%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Ferrothorn
+5:Xerneas
+6:Rayquaza
+7:Mawile
+8:Landorus
+9:Yveltal
+10:Salamence
+11:Cresselia
+12:Infernape
+13:Palkia
+14:Ho-Oh
+15:Landorus
+16:Dialga
+17:Weavile
+18:Smeargle
+19:Crobat
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,68.6666666667%,542.466666667
+2:Air Slash,12.6666666667%,100.066666667
+3:Icy Wind,8.66666666667%,68.4666666667
+4:Heat Wave,6.0%,47.4
+5:Acrobatics,1.33333333333%,10.5333333333
+6:Grass Knot,0.666666666667%,5.26666666667
+7:Focus Blast,0.666666666667%,5.26666666667
+8:Superpower,0.666666666667%,5.26666666667
+9:Hidden Power,0.666666666667%,5.26666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.1607963247%,119.770290965
+2:Rock Slide,5.81929555896%,45.9724349158
+3:Double-Edge,5.66615620214%,44.7626339969
+4:Eruption,5.51301684533%,43.5528330781
+5:Water Spout,5.05359877489%,39.9234303216
+6:Origin Pulse,4.74732006126%,37.5038284839
+7:Brave Bird,4.74732006126%,37.5038284839
+8:Hyper Voice,4.28790199081%,33.8744257274
+9:Ice Beam,3.98162327718%,31.4548238897
+10:Extreme Speed,3.82848392037%,30.2450229709
+11:Sucker Punch,3.21592649311%,25.4058192956
+12:Thunderbolt,3.21592649311%,25.4058192956
+13:Gyro Ball,2.90964777948%,22.9862174579
+14:Foul Play,2.45022970904%,19.3568147014
+15:Return,2.29709035222%,18.1470137825
+16:Fake Out,1.68453292496%,13.3078101072
+17:Precipice Blades,1.37825421133%,10.8882082695
+18:Moonblast,1.22511485452%,9.67840735069
+19:Knock Off,1.22511485452%,9.67840735069
+20:Fire Punch,1.0719754977%,8.46860643185
+0:Other,19.1424196018%,151.225114855
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Crobat
+4:Ferrothorn
+5:Whimsicott
+6:Rayquaza
+7:Groudon
+8:Liepard
+9:Smeargle
+10:Xerneas
+11:Landorus
+12:Mienshao
+13:Amoonguss
+14:Cresselia
+15:Kyogre
+16:Salamence
+17:Gengar
+18:Thundurus
+19:Palkia
+20:Lopunny
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Rayquaza
+8:Ferrothorn
+9:Yveltal
+10:Landorus
+11:Thundurus
+12:Liepard
+13:Cresselia
+14:Rayquaza
+15:Mawile
+16:Weavile
+17:Kyurem
+18:Terrakion
+19:Palkia
+20:Gengar

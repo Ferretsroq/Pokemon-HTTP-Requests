@@ -1,0 +1,142 @@
+55:Venusaur|234
+ ---------- 
+Moves used:
+1:Sludge Bomb,100.0%,234.0
+2:Protect,77.7777777778%,182.0
+3:Sleep Powder,77.7777777778%,182.0
+4:Giga Drain,61.9658119658%,145.0
+5:Grass Knot,36.7521367521%,86.0
+6:Worry Seed,11.1111111111%,26.0
+7:Synthesis,10.6837606838%,25.0
+8:Leech Seed,10.2564102564%,24.0
+9:Hidden Power,6.41025641026%,15.0
+10:Substitute,2.99145299145%,7.0
+11:Leaf Storm,2.13675213675%,5.0
+12:Toxic,0.854700854701%,2.0
+13:Grass Pledge,0.42735042735%,1.0
+14:Frenzy Plant,0.42735042735%,1.0
+15:Roar,0.42735042735%,1.0
+
+ ---------- 
+Items used:
+1:Venusaurite,53.4188034188%,125.0
+2:Wide Lens,16.6666666667%,39.0
+3:Life Orb,11.1111111111%,26.0
+4:Focus Sash,10.6837606838%,25.0
+5:Black Sludge,5.55555555556%,13.0
+6:Sitrus Berry,1.28205128205%,3.0
+7:Choice Scarf,0.854700854701%,2.0
+8:Coba Berry,0.42735042735%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,96.1538461538%,225.0
+2:Overgrow,3.84615384615%,9.0
+
+ ---------- 
+Natures used:
+1:Modest,39.3162393162%,92.0
+2:Bold,28.2051282051%,66.0
+3:Timid,21.3675213675%,50.0
+4:Calm,10.6837606838%,25.0
+5:Sassy,0.42735042735%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Cresselia
+8:Carbink
+9:Crobat
+10:Aegislash
+11:Ho-Oh
+12:Thundurus
+13:Probopass
+14:Mienshao
+15:Liepard
+16:Yveltal
+17:Giratina
+18:Rayquaza
+19:Raichu
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,59.0909090909%,138.272727273
+2:Grass Knot,20.4545454545%,47.8636363636
+3:Giga Drain,19.3181818182%,45.2045454545
+4:Leaf Storm,1.13636363636%,2.65909090909
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,10.9677419355%,25.664516129
+2:Precipice Blades,8.38709677419%,19.6258064516
+3:Eruption,8.38709677419%,19.6258064516
+4:Dazzling Gleam,7.74193548387%,18.1161290323
+5:Dragon Ascent,7.09677419355%,16.6064516129
+6:Hyper Voice,6.45161290323%,15.0967741935
+7:Gyro Ball,4.51612903226%,10.5677419355
+8:Ice Beam,4.51612903226%,10.5677419355
+9:Fire Punch,3.22580645161%,7.54838709677
+10:Brave Bird,2.58064516129%,6.03870967742
+11:Sucker Punch,2.58064516129%,6.03870967742
+12:Return,2.58064516129%,6.03870967742
+13:Origin Pulse,1.93548387097%,4.52903225806
+14:Moonblast,1.93548387097%,4.52903225806
+15:Hurricane,1.93548387097%,4.52903225806
+16:Water Spout,1.93548387097%,4.52903225806
+17:Psychic,1.93548387097%,4.52903225806
+18:Earthquake,1.93548387097%,4.52903225806
+19:Psyshock,1.29032258065%,3.01935483871
+20:Overheat,1.29032258065%,3.01935483871
+0:Other,16.7741935484%,39.2516129032
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Togekiss
+6:Liepard
+7:Crobat
+8:Meowstic
+9:Thundurus
+10:Cresselia
+11:Rayquaza
+12:Salamence
+13:Swampert
+14:Smeargle
+15:Sylveon
+16:Greninja
+17:Landorus
+18:Whimsicott
+19:Palkia
+20:Porygon-Z
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Salamence
+5:Kyogre
+6:Rayquaza
+7:Ferrothorn
+8:Talonflame
+9:Rayquaza
+10:Landorus
+11:Tornadus
+12:Gothitelle
+13:Giratina
+14:Mawile
+15:Ho-Oh
+16:Smeargle
+17:Gengar
+18:Gengar
+19:Yveltal
+20:Tornadus

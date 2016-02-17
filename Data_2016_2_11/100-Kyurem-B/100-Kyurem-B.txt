@@ -1,0 +1,143 @@
+100:Kyurem-B|95
+ ---------- 
+Moves used:
+1:Fusion Bolt,100.0%,95.0
+2:Protect,74.7368421053%,71.0
+3:Ice Beam,56.8421052632%,54.0
+4:Earth Power,51.5789473684%,49.0
+5:Freeze Shock,33.6842105263%,32.0
+6:Dragon Claw,23.1578947368%,22.0
+7:Outrage,18.9473684211%,18.0
+8:Iron Head,13.6842105263%,13.0
+9:Facade,10.5263157895%,10.0
+10:Rock Slide,9.47368421053%,9.0
+11:Draco Meteor,4.21052631579%,4.0
+12:Hidden Power,2.10526315789%,2.0
+13:Blizzard,1.05263157895%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,49.4736842105%,47.0
+2:Choice Scarf,24.2105263158%,23.0
+3:Power Herb,21.0526315789%,20.0
+4:Haban Berry,3.15789473684%,3.0
+5:Power Anklet,1.05263157895%,1.0
+6:Focus Sash,1.05263157895%,1.0
+
+ ---------- 
+Abilities used:
+1:Teravolt,100.0%,95.0
+
+ ---------- 
+Natures used:
+1:Hasty,27.3684210526%,26.0
+2:Adamant,25.2631578947%,24.0
+3:Naughty,21.0526315789%,20.0
+4:Jolly,13.6842105263%,13.0
+5:Mild,3.15789473684%,3.0
+6:Naive,3.15789473684%,3.0
+7:Timid,3.15789473684%,3.0
+8:Lonely,3.15789473684%,3.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Cresselia
+5:Lapras
+6:Crobat
+7:Whimsicott
+8:Meowstic
+9:Salamence
+10:Talonflame
+11:Ferrothorn
+12:Thundurus
+13:Terrakion
+14:Xerneas
+15:Lopunny
+16:Scizor
+17:Smeargle
+18:Gengar
+19:Machamp
+20:Reshiram
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,39.5348837209%,37.5581395349
+2:Fusion Bolt,32.5581395349%,30.9302325581
+3:Outrage,11.6279069767%,11.0465116279
+4:Earth Power,6.97674418605%,6.62790697674
+5:Freeze Shock,4.6511627907%,4.41860465116
+6:Dragon Claw,2.32558139535%,2.20930232558
+7:Blizzard,2.32558139535%,2.20930232558
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,15.8333333333
+2:Low Kick,12.1212121212%,11.5151515152
+3:Eruption,10.6060606061%,10.0757575758
+4:Precipice Blades,7.57575757576%,7.19696969697
+5:Draco Meteor,7.57575757576%,7.19696969697
+6:Moonblast,4.54545454545%,4.31818181818
+7:Sucker Punch,3.0303030303%,2.87878787879
+8:Gyro Ball,3.0303030303%,2.87878787879
+9:Hyper Voice,3.0303030303%,2.87878787879
+10:Knock Off,3.0303030303%,2.87878787879
+11:Dragon Ascent,1.51515151515%,1.43939393939
+12:Origin Pulse,1.51515151515%,1.43939393939
+13:Oblivion Wing,1.51515151515%,1.43939393939
+14:Power-Up Punch,1.51515151515%,1.43939393939
+15:Play Rough,1.51515151515%,1.43939393939
+16:Foul Play,1.51515151515%,1.43939393939
+17:Spacial Rend,1.51515151515%,1.43939393939
+18:Flare Blitz,1.51515151515%,1.43939393939
+19:Dragon Claw,1.51515151515%,1.43939393939
+20:Water Spout,1.51515151515%,1.43939393939
+0:Other,9.09090909091%,8.63636363636
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kyogre
+3:Crobat
+4:Yveltal
+5:Talonflame
+6:Landorus
+7:Xerneas
+8:Smeargle
+9:Gengar
+10:Thundurus
+11:Mienshao
+12:Amoonguss
+13:Liepard
+14:Giratina
+15:Togekiss
+16:Infernape
+17:Rayquaza
+18:Groudon
+19:Kyogre
+20:Metagross
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Rayquaza
+5:Ferrothorn
+6:Liepard
+7:Kyogre
+8:Salamence
+9:Mawile
+10:Yveltal
+11:Sylveon
+12:Talonflame
+13:Carracosta
+14:Palkia
+15:Weavile
+16:Altaria
+17:Smeargle
+18:Typhlosion
+19:Aerodactyl
+20:Gengar

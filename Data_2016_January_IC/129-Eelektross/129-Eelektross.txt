@@ -1,0 +1,51 @@
+129:Eelektross|2
+ ---------- 
+Moves used:
+1:Gastro Acid,100.0%,2.0
+2:Thunder Wave,100.0%,2.0
+3:Acid Spray,50.0%,1.0
+4:Protect,50.0%,1.0
+5:Super Fang,50.0%,1.0
+6:Flamethrower,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,1.0
+2:Lum Berry,50.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Quiet,50.0%,1.0
+2:Bold,50.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Crobat
+4:Xerneas
+5:Cresselia
+6:Rayquaza
+7:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,33.3333333333%,0.666666666667
+2:Water Spout,33.3333333333%,0.666666666667
+3:Hyper Voice,33.3333333333%,0.666666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Salamence

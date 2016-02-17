@@ -1,0 +1,55 @@
+206:Exeggutor|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Gravity,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Hypnosis,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Smeargle
+4:Crobat
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.1818181818%,0.181818181818
+2:Double-Edge,18.1818181818%,0.181818181818
+3:Dragon Ascent,9.09090909091%,0.0909090909091
+4:Iron Head,9.09090909091%,0.0909090909091
+5:Brave Bird,9.09090909091%,0.0909090909091
+6:Water Spout,9.09090909091%,0.0909090909091
+7:Hyper Voice,9.09090909091%,0.0909090909091
+8:Knock Off,9.09090909091%,0.0909090909091
+9:Ice Beam,9.09090909091%,0.0909090909091
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Xerneas
+3:Kyogre
+4:Weavile
+5:Rayquaza
+6:Mawile
+7:Ho-Oh

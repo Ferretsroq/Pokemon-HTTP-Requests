@@ -1,0 +1,81 @@
+176:Electrode|16
+ ---------- 
+Moves used:
+1:Taunt,56.25%,9.0
+2:Protect,56.25%,9.0
+3:Foul Play,43.75%,7.0
+4:Swagger,43.75%,7.0
+5:Thunder Wave,43.75%,7.0
+6:Round,37.5%,6.0
+7:Charge Beam,37.5%,6.0
+8:Magic Coat,37.5%,6.0
+9:Light Screen,18.75%,3.0
+10:Thunderbolt,12.5%,2.0
+11:Volt Switch,6.25%,1.0
+12:Discharge,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,43.75%,7.0
+2:Mental Herb,43.75%,7.0
+3:Light Clay,12.5%,2.0
+
+ ---------- 
+Abilities used:
+1:Soundproof,43.75%,7.0
+2:Static,43.75%,7.0
+3:Aftermath,12.5%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,16.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Mawile
+4:Yveltal
+5:Sylveon
+6:Mewtwo
+7:Talonflame
+8:Xerneas
+9:Thundurus
+10:Sceptile
+11:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,80.0%,12.8
+2:Charge Beam,20.0%,3.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,18.1818181818%,2.90909090909
+2:Eruption,18.1818181818%,2.90909090909
+3:Origin Pulse,9.09090909091%,1.45454545455
+4:Dazzling Gleam,9.09090909091%,1.45454545455
+5:Power Whip,9.09090909091%,1.45454545455
+6:Knock Off,9.09090909091%,1.45454545455
+7:Extreme Speed,9.09090909091%,1.45454545455
+8:Super Fang,9.09090909091%,1.45454545455
+9:Earthquake,9.09090909091%,1.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Talonflame
+3:Crobat
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Landorus
+6:Ferrothorn
+7:Rayquaza
+8:Kyogre
+9:Crobat

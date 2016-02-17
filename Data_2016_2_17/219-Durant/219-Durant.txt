@@ -1,0 +1,81 @@
+219:Durant|13
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,13.0
+2:Protect,61.5384615385%,8.0
+3:Entrainment,53.8461538462%,7.0
+4:Guillotine,46.1538461538%,6.0
+5:X-Scissor,38.4615384615%,5.0
+6:Endeavor,38.4615384615%,5.0
+7:Superpower,38.4615384615%,5.0
+8:Thunder Wave,15.3846153846%,2.0
+9:Rock Slide,7.69230769231%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,46.1538461538%,6.0
+2:Custap Berry,38.4615384615%,5.0
+3:Wide Lens,15.3846153846%,2.0
+
+ ---------- 
+Abilities used:
+1:Hustle,84.6153846154%,11.0
+2:Truant,15.3846153846%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,13.0
+
+ ---------- 
+Top teammates:
+1:Crobat
+2:Regigigas
+3:Rayquaza
+4:Latios
+5:Kyurem
+6:Sableye
+7:Zygarde
+8:Talonflame
+9:Weavile
+10:Ho-Oh
+11:Lugia
+12:Mewtwo
+13:Raichu
+14:Groudon
+15:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,50.0%,6.5
+2:X-Scissor,50.0%,6.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,11.1111111111%,1.44444444444
+2:Dazzling Gleam,11.1111111111%,1.44444444444
+3:Brave Bird,11.1111111111%,1.44444444444
+4:Sucker Punch,11.1111111111%,1.44444444444
+5:Eruption,11.1111111111%,1.44444444444
+6:Knock Off,11.1111111111%,1.44444444444
+7:Heat Wave,11.1111111111%,1.44444444444
+8:Return,11.1111111111%,1.44444444444
+9:Fire Blast,11.1111111111%,1.44444444444
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Klefki
+2:Kyogre
+3:Kyogre
+4:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Talonflame
+4:Landorus
+5:Chandelure
+6:Groudon
+7:Kyogre
+8:Salamence
+9:Kangaskhan

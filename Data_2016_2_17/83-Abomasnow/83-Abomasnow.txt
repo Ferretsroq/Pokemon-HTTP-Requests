@@ -1,0 +1,143 @@
+83:Abomasnow|223
+ ---------- 
+Moves used:
+1:Blizzard,94.1704035874%,210.0
+2:Protect,77.5784753363%,173.0
+3:Ice Shard,70.8520179372%,158.0
+4:Grass Knot,70.4035874439%,157.0
+5:Ice Beam,26.0089686099%,58.0
+6:Sheer Cold,13.9013452915%,31.0
+7:Wood Hammer,11.6591928251%,26.0
+8:Giga Drain,9.86547085202%,22.0
+9:Energy Ball,9.41704035874%,21.0
+10:Grass Whistle,8.5201793722%,19.0
+11:Role Play,2.69058295964%,6.0
+12:Worry Seed,1.79372197309%,4.0
+13:Water Pulse,1.79372197309%,4.0
+14:Solar Beam,1.34529147982%,3.0
+
+ ---------- 
+Items used:
+1:Abomasite,47.0852017937%,105.0
+2:Focus Sash,41.2556053812%,92.0
+3:Choice Scarf,7.62331838565%,17.0
+4:Assault Vest,3.58744394619%,8.0
+5:Life Orb,0.448430493274%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Warning,93.7219730942%,209.0
+2:Soundproof,6.27802690583%,14.0
+
+ ---------- 
+Natures used:
+1:Quiet,40.8071748879%,91.0
+2:Modest,40.8071748879%,91.0
+3:Timid,8.5201793722%,19.0
+4:Lonely,7.17488789238%,16.0
+5:Mild,1.34529147982%,3.0
+6:Brave,1.34529147982%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Talonflame
+3:Salamence
+4:Liepard
+5:Kyurem
+6:Rayquaza
+7:Infernape
+8:Greninja
+9:Palkia
+10:Cresselia
+11:Bronzong
+12:Ho-Oh
+13:Xerneas
+14:Excadrill
+15:Groudon
+16:Mawile
+17:Ferrothorn
+18:Thundurus
+19:Gothitelle
+20:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,54.7826086957%,122.165217391
+2:Ice Shard,24.347826087%,54.2956521739
+3:Grass Knot,15.652173913%,34.9043478261
+4:Ice Beam,1.73913043478%,3.87826086957
+5:Wood Hammer,0.869565217391%,1.93913043478
+6:Energy Ball,0.869565217391%,1.93913043478
+7:Sheer Cold,0.869565217391%,1.93913043478
+8:Giga Drain,0.869565217391%,1.93913043478
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,10.067114094%,22.4496644295
+2:Origin Pulse,7.38255033557%,16.4630872483
+3:Water Spout,7.38255033557%,16.4630872483
+4:Dazzling Gleam,6.71140939597%,14.966442953
+5:Brave Bird,5.36912751678%,11.9731543624
+6:Ice Beam,4.69798657718%,10.4765100671
+7:Dragon Ascent,4.02684563758%,8.97986577181
+8:Overheat,4.02684563758%,8.97986577181
+9:Extreme Speed,4.02684563758%,8.97986577181
+10:Fire Punch,4.02684563758%,8.97986577181
+11:Sucker Punch,3.35570469799%,7.48322147651
+12:Double-Edge,3.35570469799%,7.48322147651
+13:Iron Head,2.68456375839%,5.98657718121
+14:Low Kick,2.68456375839%,5.98657718121
+15:Moonblast,2.01342281879%,4.48993288591
+16:Flamethrower,2.01342281879%,4.48993288591
+17:Power-Up Punch,1.34228187919%,2.9932885906
+18:Psyshock,1.34228187919%,2.9932885906
+19:Flash Cannon,1.34228187919%,2.9932885906
+20:Air Slash,1.34228187919%,2.9932885906
+0:Other,19.4630872483%,43.4026845638
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Crobat
+3:Talonflame
+4:Groudon
+5:Salamence
+6:Smeargle
+7:Kangaskhan
+8:Thundurus
+9:Rayquaza
+10:Yveltal
+11:Xerneas
+12:Whimsicott
+13:Cresselia
+14:Ferrothorn
+15:Weavile
+16:Rayquaza
+17:Amoonguss
+18:Liepard
+19:Porygon2
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Kangaskhan
+6:Rayquaza
+7:Talonflame
+8:Salamence
+9:Mawile
+10:Ho-Oh
+11:Ferrothorn
+12:Cresselia
+13:Yveltal
+14:Kyurem
+15:Reshiram
+16:Giratina
+17:Togekiss
+18:Aegislash
+19:Thundurus
+20:Terrakion

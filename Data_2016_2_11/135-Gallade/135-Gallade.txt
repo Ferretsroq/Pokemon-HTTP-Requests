@@ -1,0 +1,120 @@
+135:Gallade|53
+ ---------- 
+Moves used:
+1:Quick Guard,67.9245283019%,36.0
+2:Close Combat,49.0566037736%,26.0
+3:Wide Guard,47.1698113208%,25.0
+4:Low Kick,47.1698113208%,25.0
+5:Encore,39.6226415094%,21.0
+6:Trick Room,26.4150943396%,14.0
+7:Feint,26.4150943396%,14.0
+8:Skill Swap,26.4150943396%,14.0
+9:Protect,24.5283018868%,13.0
+10:Zen Headbutt,7.54716981132%,4.0
+11:Psycho Cut,7.54716981132%,4.0
+12:Poison Jab,7.54716981132%,4.0
+13:Ice Punch,7.54716981132%,4.0
+14:Drain Punch,3.77358490566%,2.0
+15:Magic Coat,3.77358490566%,2.0
+16:Taunt,3.77358490566%,2.0
+17:Shadow Sneak,1.88679245283%,1.0
+18:Leaf Blade,1.88679245283%,1.0
+
+ ---------- 
+Items used:
+1:Galladite,67.9245283019%,36.0
+2:Lum Berry,18.8679245283%,10.0
+3:Focus Sash,7.54716981132%,4.0
+4:Sitrus Berry,5.66037735849%,3.0
+
+ ---------- 
+Abilities used:
+1:Steadfast,56.6037735849%,30.0
+2:Justified,43.3962264151%,23.0
+
+ ---------- 
+Natures used:
+1:Jolly,69.8113207547%,37.0
+2:Sassy,15.0943396226%,8.0
+3:Adamant,5.66037735849%,3.0
+4:Brave,5.66037735849%,3.0
+5:Relaxed,3.77358490566%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Smeargle
+4:Yveltal
+5:Talonflame
+6:Ho-Oh
+7:Dialga
+8:Rayquaza
+9:Lugia
+10:Lopunny
+11:Groudon
+12:Sableye
+13:Ditto
+14:Liepard
+15:Cresselia
+16:Pachirisu
+17:Crobat
+18:Kangaskhan
+19:Raichu
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,44.4444444444%,23.5555555556
+2:Low Kick,44.4444444444%,23.5555555556
+3:Feint,11.1111111111%,5.88888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.9090909091%,8.43181818182
+2:Origin Pulse,11.3636363636%,6.02272727273
+3:Moonblast,9.09090909091%,4.81818181818
+4:Brave Bird,9.09090909091%,4.81818181818
+5:Double-Edge,6.81818181818%,3.61363636364
+6:Play Rough,4.54545454545%,2.40909090909
+7:Water Spout,4.54545454545%,2.40909090909
+8:Fake Out,4.54545454545%,2.40909090909
+9:Extreme Speed,4.54545454545%,2.40909090909
+10:Ice Beam,4.54545454545%,2.40909090909
+11:Foul Play,2.27272727273%,1.20454545455
+12:Power Whip,2.27272727273%,1.20454545455
+13:Flash Cannon,2.27272727273%,1.20454545455
+14:Earth Power,2.27272727273%,1.20454545455
+15:Sucker Punch,2.27272727273%,1.20454545455
+16:Overheat,2.27272727273%,1.20454545455
+17:Hyper Voice,2.27272727273%,1.20454545455
+18:Eruption,2.27272727273%,1.20454545455
+19:Return,2.27272727273%,1.20454545455
+20:Flamethrower,2.27272727273%,1.20454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Meowstic
+3:Kyurem
+4:Ferrothorn
+5:Rayquaza
+6:Kyogre
+7:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Talonflame
+4:Salamence
+5:Groudon
+6:Kangaskhan
+7:Cresselia
+8:Rayquaza
+9:Mawile
+10:Ferrothorn
+11:Liepard
+12:Palkia
+13:Dialga
+14:Weavile

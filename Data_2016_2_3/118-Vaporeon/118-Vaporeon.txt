@@ -1,0 +1,110 @@
+118:Vaporeon|46
+ ---------- 
+Moves used:
+1:Scald,100.0%,46.0
+2:Icy Wind,56.5217391304%,26.0
+3:Muddy Water,45.652173913%,21.0
+4:Signal Beam,45.652173913%,21.0
+5:Baby-Doll Eyes,36.9565217391%,17.0
+6:Helping Hand,36.9565217391%,17.0
+7:Ice Beam,36.9565217391%,17.0
+8:Yawn,10.8695652174%,5.0
+9:Synchronoise,8.69565217391%,4.0
+10:Protect,8.69565217391%,4.0
+11:Haze,6.52173913043%,3.0
+12:Toxic,6.52173913043%,3.0
+
+ ---------- 
+Items used:
+1:Assault Vest,45.652173913%,21.0
+2:Leftovers,43.4782608696%,20.0
+3:Sitrus Berry,10.8695652174%,5.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,46.0
+
+ ---------- 
+Natures used:
+1:Modest,56.5217391304%,26.0
+2:Calm,43.4782608696%,20.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Kangaskhan
+4:Weavile
+5:Togekiss
+6:Metagross
+7:Xerneas
+8:Ditto
+9:Raichu
+10:Ferrothorn
+11:Serperior
+12:Groudon
+13:Cresselia
+14:Smeargle
+15:Talonflame
+16:Mienshao
+17:Sceptile
+18:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,32.0%,14.72
+2:Muddy Water,24.0%,11.04
+3:Icy Wind,24.0%,11.04
+4:Ice Beam,16.0%,7.36
+5:Signal Beam,4.0%,1.84
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.8148148148%,6.81481481481
+2:Power Whip,14.8148148148%,6.81481481481
+3:Dazzling Gleam,11.1111111111%,5.11111111111
+4:Double-Edge,11.1111111111%,5.11111111111
+5:Dragon Ascent,7.40740740741%,3.40740740741
+6:Frustration,7.40740740741%,3.40740740741
+7:Thunder,7.40740740741%,3.40740740741
+8:Earth Power,3.7037037037%,1.7037037037
+9:Eruption,3.7037037037%,1.7037037037
+10:Knock Off,3.7037037037%,1.7037037037
+11:Shadow Ball,3.7037037037%,1.7037037037
+12:Return,3.7037037037%,1.7037037037
+13:Sludge Bomb,3.7037037037%,1.7037037037
+14:Earthquake,3.7037037037%,1.7037037037
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Kyogre
+4:Mawile
+5:Yveltal
+6:Chandelure
+7:Liepard
+8:Cresselia
+9:Giratina
+10:Togekiss
+11:Bronzong
+12:Rayquaza
+13:Ho-Oh
+14:Smeargle
+15:Crobat
+16:Kangaskhan
+17:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Ferrothorn
+4:Xerneas
+5:Kyogre
+6:Yveltal
+7:Aegislash
+8:Landorus
+9:Amoonguss
+10:Rayquaza
+11:Rayquaza

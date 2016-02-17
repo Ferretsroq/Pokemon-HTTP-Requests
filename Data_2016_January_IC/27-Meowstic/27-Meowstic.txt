@@ -1,0 +1,137 @@
+27:Meowstic|50
+ ---------- 
+Moves used:
+1:Safeguard,66.0%,33.0
+2:Quick Guard,54.0%,27.0
+3:Thunder Wave,46.0%,23.0
+4:Swagger,44.0%,22.0
+5:Fake Out,38.0%,19.0
+6:Gravity,34.0%,17.0
+7:Trick Room,26.0%,13.0
+8:Helping Hand,24.0%,12.0
+9:Light Screen,14.0%,7.0
+10:Reflect,12.0%,6.0
+11:Role Play,8.0%,4.0
+12:Psychic,8.0%,4.0
+13:Charm,6.0%,3.0
+14:Magic Room,4.0%,2.0
+15:Psyshock,4.0%,2.0
+16:Protect,4.0%,2.0
+17:Wonder Room,2.0%,1.0
+18:Dark Pulse,2.0%,1.0
+19:Toxic,2.0%,1.0
+20:Leer,2.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,64.0%,32.0
+2:Sitrus Berry,14.0%,7.0
+3:Light Clay,6.0%,3.0
+4:Eject Button,4.0%,2.0
+5:Focus Sash,4.0%,2.0
+6:Rocky Helmet,2.0%,1.0
+7:Leftovers,2.0%,1.0
+8:Lum Berry,2.0%,1.0
+9:Chesto Berry,2.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,50.0
+
+ ---------- 
+Natures used:
+1:Calm,30.0%,15.0
+2:Bold,30.0%,15.0
+3:Timid,20.0%,10.0
+4:Sassy,8.0%,4.0
+5:Jolly,8.0%,4.0
+6:Careful,2.0%,1.0
+7:Relaxed,2.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Ferrothorn
+7:Talonflame
+8:Rayquaza
+9:Yveltal
+10:Aegislash
+11:Crobat
+12:Landorus
+13:Thundurus
+14:Mawile
+15:Greninja
+16:Liepard
+17:Dialga
+18:Amoonguss
+19:Weavile
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,50.0%,25.0
+2:Dark Pulse,25.0%,12.5
+3:Psyshock,16.6666666667%,8.33333333333
+4:Fake Out,8.33333333333%,4.16666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,7.14285714286
+2:Water Spout,10.0%,5.0
+3:Double-Edge,9.42857142857%,4.71428571429
+4:Origin Pulse,8.0%,4.0
+5:Precipice Blades,7.42857142857%,3.71428571429
+6:Eruption,7.42857142857%,3.71428571429
+7:Knock Off,4.28571428571%,2.14285714286
+8:Moonblast,2.85714285714%,1.42857142857
+9:Brave Bird,2.57142857143%,1.28571428571
+10:Play Rough,2.28571428571%,1.14285714286
+11:Shadow Ball,2.28571428571%,1.14285714286
+12:Earthquake,2.28571428571%,1.14285714286
+13:Extreme Speed,2.0%,1.0
+14:Hyper Voice,1.71428571429%,0.857142857143
+15:Flare Blitz,1.42857142857%,0.714285714286
+16:Gyro Ball,1.42857142857%,0.714285714286
+17:Fake Out,1.42857142857%,0.714285714286
+18:Dragon Ascent,1.14285714286%,0.571428571429
+19:Return,1.14285714286%,0.571428571429
+20:Rock Slide,1.14285714286%,0.571428571429
+0:Other,13.1428571429%,6.57142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Thundurus
+4:Liepard
+5:Weavile
+6:Infernape
+7:Mewtwo
+8:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Weavile
+8:Mawile
+9:Yveltal
+10:Landorus
+11:Salamence
+12:Ferrothorn
+13:Thundurus
+14:Gengar
+15:Aegislash
+16:Liepard
+17:Rayquaza
+18:Mienshao
+19:Palkia
+20:Groudon

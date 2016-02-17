@@ -1,0 +1,48 @@
+256:Absol|3
+ ---------- 
+Moves used:
+1:Play Rough,100.0%,3.0
+2:Sucker Punch,100.0%,3.0
+3:Taunt,66.6666666667%,2.0
+4:Protect,66.6666666667%,2.0
+5:Snatch,33.3333333333%,1.0
+6:Detect,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Absolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Super Luck,66.6666666667%,2.0
+2:Pressure,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Sableye
+3:Landorus
+4:Mienshao
+5:Crobat
+6:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,50.0%,1.5
+2:Sacred Fire,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Swampert
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ho-Oh

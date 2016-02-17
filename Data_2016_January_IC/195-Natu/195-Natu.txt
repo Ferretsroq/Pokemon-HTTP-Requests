@@ -1,0 +1,44 @@
+195:Natu|1
+ ---------- 
+Moves used:
+1:Ally Switch,100.0%,1.0
+2:Simple Beam,100.0%,1.0
+3:Trick Room,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Kyogre
+3:Latias
+4:Blissey
+5:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,50.0%,0.5
+2:Origin Pulse,25.0%,0.25
+3:Brave Bird,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Talonflame

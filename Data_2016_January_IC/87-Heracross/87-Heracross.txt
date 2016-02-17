@@ -1,0 +1,91 @@
+87:Heracross|5
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,5.0
+2:Pin Missile,100.0%,5.0
+3:Bullet Seed,80.0%,4.0
+4:Rock Blast,60.0%,3.0
+5:Protect,60.0%,3.0
+
+ ---------- 
+Items used:
+1:Heracronite,100.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Guts,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Brave,60.0%,3.0
+2:Adamant,40.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Cresselia
+3:Groudon
+4:Aegislash
+5:Thundurus
+6:Weavile
+7:Sylveon
+8:Tornadus
+9:Ferrothorn
+10:Liepard
+11:Palkia
+12:Bronzong
+13:Ho-Oh
+14:Crobat
+15:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,45.8333333333%,2.29166666667
+2:Pin Missile,45.8333333333%,2.29166666667
+3:Rock Blast,4.16666666667%,0.208333333333
+4:Bullet Seed,4.16666666667%,0.208333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,13.7931034483%,0.689655172414
+2:Water Spout,13.7931034483%,0.689655172414
+3:Hyper Voice,13.7931034483%,0.689655172414
+4:Precipice Blades,10.3448275862%,0.51724137931
+5:Dazzling Gleam,10.3448275862%,0.51724137931
+6:Moonblast,6.89655172414%,0.344827586207
+7:Eruption,6.89655172414%,0.344827586207
+8:Dragon Ascent,3.44827586207%,0.172413793103
+9:Oblivion Wing,3.44827586207%,0.172413793103
+10:Play Rough,3.44827586207%,0.172413793103
+11:Shadow Sneak,3.44827586207%,0.172413793103
+12:Flare Blitz,3.44827586207%,0.172413793103
+13:Overheat,3.44827586207%,0.172413793103
+14:Double-Edge,3.44827586207%,0.172413793103
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Yveltal
+5:Ferrothorn
+6:Whimsicott
+7:Xerneas
+8:Amoonguss
+9:Liepard
+10:Cresselia
+11:Dialga
+12:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Talonflame
+5:Kyogre
+6:Rayquaza
+7:Yveltal
+8:Aegislash
+9:Mawile
+10:Ho-Oh

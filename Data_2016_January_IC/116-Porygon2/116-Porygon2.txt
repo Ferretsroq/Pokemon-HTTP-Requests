@@ -1,0 +1,85 @@
+116:Porygon2|3
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,3.0
+2:Magic Coat,100.0%,3.0
+3:Tri Attack,100.0%,3.0
+4:Hidden Power,33.3333333333%,1.0
+5:Recover,33.3333333333%,1.0
+6:Ice Beam,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Download,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Sassy,33.3333333333%,1.0
+2:Quiet,33.3333333333%,1.0
+3:Modest,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Aegislash
+3:Talonflame
+4:Thundurus
+5:Ferrothorn
+6:Palkia
+7:Infernape
+8:Rayquaza
+9:Groudon
+10:Mawile
+11:Ludicolo
+12:Swampert
+13:Lugia
+14:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Tri Attack,60.0%,1.8
+2:Ice Beam,40.0%,1.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.3333333333%,0.4
+2:Origin Pulse,13.3333333333%,0.4
+3:Water Spout,13.3333333333%,0.4
+4:Dazzling Gleam,6.66666666667%,0.2
+5:Moonblast,6.66666666667%,0.2
+6:Iron Head,6.66666666667%,0.2
+7:Brave Bird,6.66666666667%,0.2
+8:Air Slash,6.66666666667%,0.2
+9:Sucker Punch,6.66666666667%,0.2
+10:Eruption,6.66666666667%,0.2
+11:Sludge Bomb,6.66666666667%,0.2
+12:Ice Beam,6.66666666667%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Amoonguss
+2:Kyogre
+3:Salamence
+4:Smeargle
+5:Meowstic
+6:Landorus
+7:Cresselia
+8:Rayquaza
+9:Groudon
+10:Mawile
+11:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Togekiss
+6:Mawile
+7:Kangaskhan
+8:Gengar

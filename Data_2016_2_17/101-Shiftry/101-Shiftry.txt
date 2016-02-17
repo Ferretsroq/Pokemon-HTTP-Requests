@@ -1,0 +1,130 @@
+101:Shiftry|145
+ ---------- 
+Moves used:
+1:Leaf Blade,98.6206896552%,143.0
+2:Fake Out,98.6206896552%,143.0
+3:Knock Off,93.7931034483%,136.0
+4:Tailwind,46.2068965517%,67.0
+5:Low Kick,44.1379310345%,64.0
+6:Foul Play,6.20689655172%,9.0
+7:Protect,3.44827586207%,5.0
+8:Swords Dance,3.44827586207%,5.0
+9:Worry Seed,2.75862068966%,4.0
+10:Leaf Storm,1.37931034483%,2.0
+11:Icy Wind,1.37931034483%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,55.8620689655%,81.0
+2:Life Orb,44.1379310345%,64.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,145.0
+
+ ---------- 
+Natures used:
+1:Jolly,68.275862069%,99.0
+2:Adamant,30.3448275862%,44.0
+3:Modest,1.37931034483%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Talonflame
+5:Kangaskhan
+6:Yveltal
+7:Crobat
+8:Zekrom
+9:Metagross
+10:Thundurus
+11:Smeargle
+12:Lapras
+13:Liepard
+14:Cresselia
+15:Raichu
+16:Aegislash
+17:Landorus
+18:Mienshao
+19:Palkia
+20:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,46.6666666667%,67.6666666667
+2:Leaf Blade,36.6666666667%,53.1666666667
+3:Low Kick,10.0%,14.5
+4:Foul Play,3.33333333333%,4.83333333333
+5:Fake Out,3.33333333333%,4.83333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.6%,25.52
+2:Hyper Voice,9.6%,13.92
+3:Eruption,9.6%,13.92
+4:Double-Edge,8.0%,11.6
+5:Ice Beam,6.4%,9.28
+6:Brave Bird,4.8%,6.96
+7:Water Spout,4.8%,6.96
+8:Precipice Blades,4.0%,5.8
+9:Origin Pulse,4.0%,5.8
+10:Low Kick,4.0%,5.8
+11:Dragon Ascent,2.4%,3.48
+12:Sludge Bomb,2.4%,3.48
+13:Rock Slide,2.4%,3.48
+14:Oblivion Wing,1.6%,2.32
+15:Power-Up Punch,1.6%,2.32
+16:Iron Head,1.6%,2.32
+17:Extreme Speed,1.6%,2.32
+18:Flamethrower,1.6%,2.32
+19:Moonblast,0.8%,1.16
+20:Play Rough,0.8%,1.16
+0:Other,8.8%,12.76
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Meowstic
+3:Landorus
+4:Liepard
+5:Rayquaza
+6:Smeargle
+7:Kangaskhan
+8:Yveltal
+9:Xerneas
+10:Talonflame
+11:Cresselia
+12:Palkia
+13:Porygon-Z
+14:Weavile
+15:Rayquaza
+16:Groudon
+17:Sableye
+18:Lugia
+19:Crobat
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Cresselia
+8:Rayquaza
+9:Rayquaza
+10:Mawile
+11:Yveltal
+12:Landorus
+13:Smeargle
+14:Gengar
+15:Whimsicott
+16:Palkia
+17:Kyogre
+18:Sableye
+19:Ho-Oh
+20:Scizor

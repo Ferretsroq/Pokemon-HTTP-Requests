@@ -1,0 +1,87 @@
+157:Uxie|22
+ ---------- 
+Moves used:
+1:Skill Swap,90.9090909091%,20.0
+2:Foul Play,72.7272727273%,16.0
+3:Helping Hand,72.7272727273%,16.0
+4:Trick Room,63.6363636364%,14.0
+5:Thunder Wave,40.9090909091%,9.0
+6:Imprison,9.09090909091%,2.0
+7:Yawn,9.09090909091%,2.0
+8:Magic Coat,9.09090909091%,2.0
+9:Future Sight,9.09090909091%,2.0
+10:Light Screen,9.09090909091%,2.0
+11:Grass Knot,4.54545454545%,1.0
+12:Heal Bell,4.54545454545%,1.0
+13:Psychic,4.54545454545%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,54.5454545455%,12.0
+2:Rocky Helmet,27.2727272727%,6.0
+3:Sitrus Berry,18.1818181818%,4.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,22.0
+
+ ---------- 
+Natures used:
+1:Bold,90.9090909091%,20.0
+2:Calm,4.54545454545%,1.0
+3:Timid,4.54545454545%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Mienshao
+5:Swampert
+6:Salamence
+7:Kangaskhan
+8:Tornadus
+9:Ferrothorn
+10:Smeargle
+11:Rayquaza
+12:Machamp
+13:Togekiss
+14:Mawile
+15:Sceptile
+16:Crobat
+17:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.3333333333%,2.93333333333
+2:Precipice Blades,6.66666666667%,1.46666666667
+3:Moonblast,6.66666666667%,1.46666666667
+4:Snarl,6.66666666667%,1.46666666667
+5:Shadow Sneak,6.66666666667%,1.46666666667
+6:Brave Bird,6.66666666667%,1.46666666667
+7:Air Slash,6.66666666667%,1.46666666667
+8:Gyro Ball,6.66666666667%,1.46666666667
+9:Eruption,6.66666666667%,1.46666666667
+10:Icy Wind,6.66666666667%,1.46666666667
+11:Rock Slide,6.66666666667%,1.46666666667
+12:Fire Blast,6.66666666667%,1.46666666667
+13:Ice Beam,6.66666666667%,1.46666666667
+14:Double-Edge,6.66666666667%,1.46666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Cresselia
+4:Yveltal
+5:Talonflame
+6:Ferrothorn
+7:Giratina
+8:Togekiss
+9:Kangaskhan

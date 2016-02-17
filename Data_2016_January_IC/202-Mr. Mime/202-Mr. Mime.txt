@@ -1,0 +1,41 @@
+202:Mr. Mime|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Fake Out,100.0%,1.0
+4:Psychic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Soundproof,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Hasty,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Talonflame
+3:Amoonguss
+4:Groudon
+5:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+
+ ---------- 
+Pokemon that KO this pokemon:

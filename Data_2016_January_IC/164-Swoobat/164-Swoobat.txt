@@ -1,0 +1,53 @@
+164:Swoobat|1
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,1.0
+2:Skill Swap,100.0%,1.0
+3:Trick,100.0%,1.0
+4:Super Fang,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Unaware,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Liepard
+3:Kyogre
+4:Salamence
+5:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Super Fang,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,28.5714285714%,0.285714285714
+2:Precipice Blades,14.2857142857%,0.142857142857
+3:Dazzling Gleam,14.2857142857%,0.142857142857
+4:Hex,14.2857142857%,0.142857142857
+5:Iron Head,14.2857142857%,0.142857142857
+6:Brave Bird,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Talonflame
+4:Groudon
+5:Mawile
+6:Gengar

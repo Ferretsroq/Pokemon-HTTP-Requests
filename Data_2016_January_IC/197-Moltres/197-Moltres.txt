@@ -1,0 +1,49 @@
+197:Moltres|1
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Heat Wave,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Wacan Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Toxicroak
+3:Empoleon
+4:Sableye
+5:Marowak
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,0.166666666667
+2:Dazzling Gleam,16.6666666667%,0.166666666667
+3:Water Spout,16.6666666667%,0.166666666667
+4:Hyper Voice,16.6666666667%,0.166666666667
+5:Waterfall,16.6666666667%,0.166666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Salamence

@@ -1,0 +1,121 @@
+140:Banette|29
+ ---------- 
+Moves used:
+1:Protect,65.5172413793%,19.0
+2:Destiny Bond,58.6206896552%,17.0
+3:Trick Room,48.275862069%,14.0
+4:Phantom Force,27.5862068966%,8.0
+5:Magic Coat,24.1379310345%,7.0
+6:Curse,24.1379310345%,7.0
+7:Thunder Wave,24.1379310345%,7.0
+8:Imprison,20.6896551724%,6.0
+9:Knock Off,20.6896551724%,6.0
+10:Foul Play,13.7931034483%,4.0
+11:Gunk Shot,13.7931034483%,4.0
+12:Disable,13.7931034483%,4.0
+13:Will-O-Wisp,10.3448275862%,3.0
+14:Shadow Claw,6.89655172414%,2.0
+15:Skill Swap,6.89655172414%,2.0
+16:Taunt,6.89655172414%,2.0
+17:Shadow Sneak,3.44827586207%,1.0
+18:Sucker Punch,3.44827586207%,1.0
+19:Snatch,3.44827586207%,1.0
+20:Thief,3.44827586207%,1.0
+
+ ---------- 
+Items used:
+1:Banettite,68.9655172414%,20.0
+2:Custap Berry,24.1379310345%,7.0
+3:Focus Sash,6.89655172414%,2.0
+
+ ---------- 
+Abilities used:
+1:Frisk,79.3103448276%,23.0
+2:Insomnia,20.6896551724%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,41.3793103448%,12.0
+2:Sassy,24.1379310345%,7.0
+3:Careful,17.2413793103%,5.0
+4:Brave,10.3448275862%,3.0
+5:Jolly,3.44827586207%,1.0
+6:Impish,3.44827586207%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Yveltal
+4:Dialga
+5:Magnezone
+6:Kyogre
+7:Parasect
+8:Giratina
+9:Glaceon
+10:Talonflame
+11:Klefki
+12:Ferrothorn
+13:Weavile
+14:Infernape
+15:Lugia
+16:Machamp
+17:Xerneas
+18:Mienshao
+19:Liepard
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,53.3333333333%,15.4666666667
+2:Phantom Force,20.0%,5.8
+3:Knock Off,13.3333333333%,3.86666666667
+4:Gunk Shot,6.66666666667%,1.93333333333
+5:Thief,6.66666666667%,1.93333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,11.1111111111%,3.22222222222
+2:Precipice Blades,11.1111111111%,3.22222222222
+3:Eruption,11.1111111111%,3.22222222222
+4:Water Spout,7.40740740741%,2.14814814815
+5:Double-Edge,7.40740740741%,2.14814814815
+6:Fire Punch,7.40740740741%,2.14814814815
+7:Dazzling Gleam,3.7037037037%,1.07407407407
+8:Moonblast,3.7037037037%,1.07407407407
+9:Foul Play,3.7037037037%,1.07407407407
+10:Brave Bird,3.7037037037%,1.07407407407
+11:Dark Pulse,3.7037037037%,1.07407407407
+12:Knock Off,3.7037037037%,1.07407407407
+13:Heat Wave,3.7037037037%,1.07407407407
+14:Return,3.7037037037%,1.07407407407
+15:Thunderbolt,3.7037037037%,1.07407407407
+16:Ice Beam,3.7037037037%,1.07407407407
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Chandelure
+6:Cresselia
+7:Rayquaza
+8:Crobat
+9:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Yveltal
+7:Talonflame
+8:Thundurus
+9:Chandelure
+10:Liepard
+11:Cresselia
+12:Weavile
+13:Lopunny

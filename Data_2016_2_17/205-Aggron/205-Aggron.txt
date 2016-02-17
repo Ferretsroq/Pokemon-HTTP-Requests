@@ -1,0 +1,85 @@
+205:Aggron|18
+ ---------- 
+Moves used:
+1:Iron Head,88.8888888889%,16.0
+2:Metal Burst,83.3333333333%,15.0
+3:Endeavor,77.7777777778%,14.0
+4:Protect,72.2222222222%,13.0
+5:Stone Edge,11.1111111111%,2.0
+6:Reversal,11.1111111111%,2.0
+7:Heavy Slam,5.55555555556%,1.0
+8:Hone Claws,5.55555555556%,1.0
+9:Iron Tail,5.55555555556%,1.0
+10:Sleep Talk,5.55555555556%,1.0
+11:Substitute,5.55555555556%,1.0
+12:Rock Slide,5.55555555556%,1.0
+13:Rest,5.55555555556%,1.0
+14:Earthquake,5.55555555556%,1.0
+15:Low Kick,5.55555555556%,1.0
+16:Ice Punch,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,50.0%,9.0
+2:Custap Berry,27.7777777778%,5.0
+3:Aggronite,16.6666666667%,3.0
+4:Lum Berry,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,88.8888888889%,16.0
+2:Heavy Metal,5.55555555556%,1.0
+3:Rock Head,5.55555555556%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,55.5555555556%,10.0
+2:Adamant,27.7777777778%,5.0
+3:Careful,5.55555555556%,1.0
+4:Sassy,5.55555555556%,1.0
+5:Brave,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Sableye
+2:Salamence
+3:Talonflame
+4:Garchomp
+5:Aerodactyl
+6:Yveltal
+7:Thundurus
+8:Giratina
+9:Weavile
+10:Rayquaza
+11:Groudon
+12:Kyogre
+13:Mawile
+14:Ludicolo
+15:Mewtwo
+16:Kangaskhan
+17:Hitmonchan
+18:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Metal Burst,80.0%,14.4
+2:Iron Head,20.0%,3.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,4.5
+2:Grass Knot,25.0%,4.5
+3:Sucker Punch,25.0%,4.5
+4:Eruption,25.0%,4.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Greninja
+3:Mawile

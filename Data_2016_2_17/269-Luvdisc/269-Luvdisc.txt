@@ -1,0 +1,41 @@
+269:Luvdisc|1
+ ---------- 
+Moves used:
+1:Heal Pulse,100.0%,1.0
+2:Entrainment,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Charm,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,66.6666666667%,0.666666666667
+2:Gyro Ball,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn

@@ -1,0 +1,55 @@
+225:Golbat|5
+ ---------- 
+Moves used:
+1:Super Fang,100.0%,5.0
+2:Tailwind,80.0%,4.0
+3:Quick Guard,60.0%,3.0
+4:Roost,40.0%,2.0
+5:Snatch,40.0%,2.0
+6:Haze,40.0%,2.0
+7:Confuse Ray,20.0%,1.0
+8:Hypnosis,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Calm,40.0%,2.0
+2:Timid,40.0%,2.0
+3:Impish,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Talonflame
+3:Thundurus
+4:Kyogre
+5:Lugia
+6:Lopunny
+7:Groudon
+8:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,25.0%,1.25
+2:Psyshock,25.0%,1.25
+3:Water Spout,25.0%,1.25
+4:Rock Slide,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Garchomp

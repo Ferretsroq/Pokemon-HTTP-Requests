@@ -1,0 +1,86 @@
+179:Roserade|27
+ ---------- 
+Moves used:
+1:Sludge Bomb,100.0%,27.0
+2:Protect,66.6666666667%,18.0
+3:Hidden Power,62.962962963%,17.0
+4:Grass Knot,59.2592592593%,16.0
+5:Leaf Storm,37.037037037%,10.0
+6:Sleep Powder,37.037037037%,10.0
+7:Giga Drain,33.3333333333%,9.0
+8:Energy Ball,3.7037037037%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,59.2592592593%,16.0
+2:Assault Vest,33.3333333333%,9.0
+3:Focus Sash,7.40740740741%,2.0
+
+ ---------- 
+Abilities used:
+1:Technician,62.962962963%,17.0
+2:Natural Cure,37.037037037%,10.0
+
+ ---------- 
+Natures used:
+1:Timid,96.2962962963%,26.0
+2:Modest,3.7037037037%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Zekrom
+3:Groudon
+4:Klefki
+5:Crobat
+6:Talonflame
+7:Altaria
+8:Kangaskhan
+9:Amoonguss
+10:Palkia
+11:Mawile
+12:Lucario
+13:Salamence
+14:Smeargle
+15:Togetic
+16:Landorus
+17:Rayquaza
+18:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,66.6666666667%,18.0
+2:Grass Knot,22.2222222222%,6.0
+3:Giga Drain,11.1111111111%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,18.1818181818%,4.90909090909
+2:Iron Head,9.09090909091%,2.45454545455
+3:Gunk Shot,9.09090909091%,2.45454545455
+4:Brave Bird,9.09090909091%,2.45454545455
+5:Flare Blitz,9.09090909091%,2.45454545455
+6:Gyro Ball,9.09090909091%,2.45454545455
+7:Psychic,9.09090909091%,2.45454545455
+8:Earthquake,9.09090909091%,2.45454545455
+9:Flamethrower,9.09090909091%,2.45454545455
+10:Fire Punch,9.09090909091%,2.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Smeargle
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Talonflame
+4:Greninja
+5:Landorus
+6:Ferrothorn
+7:Cresselia
+8:Mawile
+9:Ho-Oh

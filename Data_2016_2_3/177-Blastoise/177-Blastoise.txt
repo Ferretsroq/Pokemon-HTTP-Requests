@@ -1,0 +1,82 @@
+177:Blastoise|16
+ ---------- 
+Moves used:
+1:Water Spout,100.0%,16.0
+2:Aura Sphere,75.0%,12.0
+3:Fake Out,75.0%,12.0
+4:Dragon Pulse,50.0%,8.0
+5:Ice Beam,31.25%,5.0
+6:Flash Cannon,25.0%,4.0
+7:Dark Pulse,25.0%,4.0
+8:Water Pulse,18.75%,3.0
+
+ ---------- 
+Items used:
+1:Blastoisinite,75.0%,12.0
+2:Choice Scarf,25.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Torrent,56.25%,9.0
+2:Rain Dish,43.75%,7.0
+
+ ---------- 
+Natures used:
+1:Modest,93.75%,15.0
+2:Timid,6.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Smeargle
+4:Yveltal
+5:Xerneas
+6:Rayquaza
+7:Talonflame
+8:Meowstic
+9:Amoonguss
+10:Escavalier
+11:Cresselia
+12:Giratina
+13:Palkia
+14:Crobat
+15:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Water Spout,50.0%,8.0
+2:Dark Pulse,20.0%,3.2
+3:Water Pulse,10.0%,1.6
+4:Fake Out,10.0%,1.6
+5:Ice Beam,10.0%,1.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,22.2222222222%,3.55555555556
+2:Dazzling Gleam,22.2222222222%,3.55555555556
+3:Freeze-Dry,11.1111111111%,1.77777777778
+4:Bug Bite,11.1111111111%,1.77777777778
+5:Power Whip,11.1111111111%,1.77777777778
+6:Rock Slide,11.1111111111%,1.77777777778
+7:Thunderbolt,11.1111111111%,1.77777777778
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Talonflame
+4:Cresselia
+5:Salamence
+6:Furret
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Landorus
+4:Thundurus
+5:Ferrothorn
+6:Scizor
+7:Lapras

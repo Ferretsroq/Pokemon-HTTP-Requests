@@ -1,0 +1,44 @@
+267:Drapion|3
+ ---------- 
+Moves used:
+1:Cross Poison,100.0%,3.0
+2:Night Slash,100.0%,3.0
+3:Protect,100.0%,3.0
+4:Earthquake,66.6666666667%,2.0
+5:Knock Off,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Razor Claw,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Sniper,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Togekiss
+3:Raichu
+4:Groudon
+5:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Spacial Rend,50.0%,1.5
+2:Rock Slide,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Palkia

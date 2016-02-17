@@ -1,0 +1,45 @@
+183:Banette|1
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,1.0
+2:Will-O-Wisp,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Disable,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Banettite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Landorus
+2:Groudon
+3:Ho-Oh
+4:Scizor
+5:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,33.3333333333%,0.333333333333
+2:Brave Bird,33.3333333333%,0.333333333333
+3:Eruption,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Crobat

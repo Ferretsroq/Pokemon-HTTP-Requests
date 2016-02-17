@@ -1,0 +1,76 @@
+180:Chansey|15
+ ---------- 
+Moves used:
+1:Seismic Toss,100.0%,15.0
+2:Soft-Boiled,93.3333333333%,14.0
+3:Toxic,66.6666666667%,10.0
+4:Minimize,46.6666666667%,7.0
+5:Counter,46.6666666667%,7.0
+6:Heal Bell,20.0%,3.0
+7:Gravity,6.66666666667%,1.0
+8:Helping Hand,6.66666666667%,1.0
+9:Protect,6.66666666667%,1.0
+10:Sing,6.66666666667%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,15.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,73.3333333333%,11.0
+2:Healer,26.6666666667%,4.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,15.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Kyogre
+4:Meowstic
+5:Talonflame
+6:Cobalion
+7:Togekiss
+8:Groudon
+9:Kangaskhan
+10:Gengar
+11:Sylveon
+12:Landorus
+13:Zekrom
+14:Thundurus
+15:Conkeldurr
+16:Gliscor
+17:Mawile
+18:Smeargle
+19:Crobat
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,71.4285714286%,10.7142857143
+2:Counter,28.5714285714%,4.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,5.0
+2:Brave Bird,16.6666666667%,2.5
+3:Return,16.6666666667%,2.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Rayquaza
+4:Groudon
+5:Latios
+6:Gardevoir
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Kangaskhan

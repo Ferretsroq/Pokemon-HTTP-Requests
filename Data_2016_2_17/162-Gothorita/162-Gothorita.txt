@@ -1,0 +1,102 @@
+162:Gothorita|41
+ ---------- 
+Moves used:
+1:Protect,95.1219512195%,39.0
+2:Helping Hand,65.8536585366%,27.0
+3:Trick Room,58.5365853659%,24.0
+4:Psyshock,36.5853658537%,15.0
+5:Taunt,26.8292682927%,11.0
+6:Skill Swap,14.6341463415%,6.0
+7:Energy Ball,12.1951219512%,5.0
+8:Dark Pulse,12.1951219512%,5.0
+9:Shadow Ball,12.1951219512%,5.0
+10:Sleep Talk,12.1951219512%,5.0
+11:Thunder Wave,12.1951219512%,5.0
+12:Heal Pulse,9.75609756098%,4.0
+13:Gravity,7.31707317073%,3.0
+14:Psychic,7.31707317073%,3.0
+15:Rest,4.87804878049%,2.0
+16:Double Team,4.87804878049%,2.0
+17:Calm Mind,2.43902439024%,1.0
+18:Flatter,2.43902439024%,1.0
+19:Toxic,2.43902439024%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,41.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,41.0
+
+ ---------- 
+Natures used:
+1:Bold,82.9268292683%,34.0
+2:Sassy,14.6341463415%,6.0
+3:Calm,2.43902439024%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Palkia
+4:Rayquaza
+5:Manectric
+6:Smeargle
+7:Ditto
+8:Thundurus
+9:Whimsicott
+10:Heatran
+11:Kangaskhan
+12:Landorus
+13:Reshiram
+14:Groudon
+15:Gengar
+16:Talonflame
+17:Mienshao
+18:Weavile
+19:Hitmontop
+20:Xerneas
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psyshock,80.0%,32.8
+2:Psychic,20.0%,8.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,8.2
+2:Precipice Blades,12.0%,4.92
+3:Origin Pulse,12.0%,4.92
+4:Water Spout,8.0%,3.28
+5:Eruption,8.0%,3.28
+6:Knock Off,8.0%,3.28
+7:Moonblast,4.0%,1.64
+8:Spacial Rend,4.0%,1.64
+9:Brave Bird,4.0%,1.64
+10:Feint,4.0%,1.64
+11:Return,4.0%,1.64
+12:Ice Beam,4.0%,1.64
+13:Flamethrower,4.0%,1.64
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Mienshao
+3:Smeargle
+4:Gengar
+5:Parasect
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Bisharp
+5:Cresselia
+6:Palkia
+7:Weavile
+8:Infernape
+9:Ho-Oh
+10:Ditto
+11:Kangaskhan

@@ -1,0 +1,49 @@
+230:Illumise|4
+ ---------- 
+Moves used:
+1:Encore,100.0%,4.0
+2:Thunder Wave,100.0%,4.0
+3:Fake Tears,75.0%,3.0
+4:Light Screen,75.0%,3.0
+5:Tailwind,25.0%,1.0
+6:Swagger,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,75.0%,3.0
+2:Mental Herb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Sceptile
+3:Lugia
+4:Yveltal
+5:Dedenne
+6:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,1.33333333333
+2:Water Spout,33.3333333333%,1.33333333333
+3:Rock Slide,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre

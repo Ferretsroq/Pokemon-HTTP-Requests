@@ -1,0 +1,133 @@
+88:Sceptile|135
+ ---------- 
+Moves used:
+1:Dragon Pulse,100.0%,135.0
+2:Grass Knot,73.3333333333%,99.0
+3:Quick Guard,66.6666666667%,90.0
+4:Protect,51.1111111111%,69.0
+5:Detect,39.2592592593%,53.0
+6:Leaf Storm,29.6296296296%,40.0
+7:Focus Blast,8.88888888889%,12.0
+8:Substitute,7.40740740741%,10.0
+9:Giga Drain,5.18518518519%,7.0
+10:Worry Seed,4.44444444444%,6.0
+11:Frenzy Plant,4.44444444444%,6.0
+12:Grass Whistle,3.7037037037%,5.0
+13:Solar Beam,2.96296296296%,4.0
+14:Safeguard,2.22222222222%,3.0
+15:Energy Ball,0.740740740741%,1.0
+
+ ---------- 
+Items used:
+1:Sceptilite,100.0%,135.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,95.5555555556%,129.0
+2:Unburden,4.44444444444%,6.0
+
+ ---------- 
+Natures used:
+1:Modest,65.9259259259%,89.0
+2:Timid,34.0740740741%,46.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Yveltal
+4:Infernape
+5:Tornadus
+6:Ho-Oh
+7:Ferrothorn
+8:Xerneas
+9:Talonflame
+10:Lapras
+11:Thundurus
+12:Weavile
+13:Aegislash
+14:Dialga
+15:Rayquaza
+16:Sableye
+17:Ditto
+18:Zygarde
+19:Greninja
+20:Lopunny
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Pulse,47.8260869565%,64.5652173913
+2:Grass Knot,31.884057971%,43.0434782609
+3:Leaf Storm,13.0434782609%,17.6086956522
+4:Focus Blast,4.34782608696%,5.86956521739
+5:Frenzy Plant,2.89855072464%,3.91304347826
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.9775280899%,24.2696629213
+2:Ice Beam,13.4831460674%,18.202247191
+3:Eruption,11.2359550562%,15.1685393258
+4:Brave Bird,8.98876404494%,12.1348314607
+5:Gyro Ball,5.61797752809%,7.58426966292
+6:Moonblast,3.37078651685%,4.55056179775
+7:Sucker Punch,3.37078651685%,4.55056179775
+8:Hyper Voice,3.37078651685%,4.55056179775
+9:Sludge Bomb,3.37078651685%,4.55056179775
+10:Flamethrower,3.37078651685%,4.55056179775
+11:Dragon Ascent,2.24719101124%,3.03370786517
+12:Precipice Blades,2.24719101124%,3.03370786517
+13:Icicle Crash,2.24719101124%,3.03370786517
+14:Return,2.24719101124%,3.03370786517
+15:Oblivion Wing,1.12359550562%,1.51685393258
+16:Play Rough,1.12359550562%,1.51685393258
+17:Spacial Rend,1.12359550562%,1.51685393258
+18:Dragon Claw,1.12359550562%,1.51685393258
+19:Overheat,1.12359550562%,1.51685393258
+20:Superpower,1.12359550562%,1.51685393258
+0:Other,8.98876404494%,12.1348314607
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Landorus
+5:Salamence
+6:Xerneas
+7:Rayquaza
+8:Sableye
+9:Crobat
+10:Greninja
+11:Kyurem
+12:Zekrom
+13:Hydreigon
+14:Amoonguss
+15:Gothitelle
+16:Archeops
+17:Giratina
+18:Weavile
+19:Ludicolo
+20:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Kangaskhan
+6:Ferrothorn
+7:Landorus
+8:Salamence
+9:Yveltal
+10:Cresselia
+11:Weavile
+12:Rayquaza
+13:Gengar
+14:Jellicent
+15:Tympole
+16:Palkia
+17:Bronzong
+18:Rayquaza
+19:Mawile
+20:Gardevoir

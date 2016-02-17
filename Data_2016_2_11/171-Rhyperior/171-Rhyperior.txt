@@ -1,0 +1,113 @@
+171:Rhyperior|26
+ ---------- 
+Moves used:
+1:Earthquake,84.6153846154%,22.0
+2:Protect,61.5384615385%,16.0
+3:Rock Blast,53.8461538462%,14.0
+4:Megahorn,46.1538461538%,12.0
+5:Rock Slide,46.1538461538%,12.0
+6:Drill Run,19.2307692308%,5.0
+7:Hammer Arm,19.2307692308%,5.0
+8:Iron Head,15.3846153846%,4.0
+9:Rock Wrecker,15.3846153846%,4.0
+10:Ice Punch,15.3846153846%,4.0
+11:Rock Polish,7.69230769231%,2.0
+12:Swords Dance,7.69230769231%,2.0
+13:Fire Punch,7.69230769231%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,46.1538461538%,12.0
+2:Weakness Policy,23.0769230769%,6.0
+3:Assault Vest,15.3846153846%,4.0
+4:Choice Band,15.3846153846%,4.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,92.3076923077%,24.0
+2:Lightning Rod,7.69230769231%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,53.8461538462%,14.0
+2:Brave,38.4615384615%,10.0
+3:Relaxed,7.69230769231%,2.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Talonflame
+4:Smeargle
+5:Xerneas
+6:Kangaskhan
+7:Ho-Oh
+8:Lopunny
+9:Klefki
+10:Serperior
+11:Cresselia
+12:Salamence
+13:Mawile
+14:Zekrom
+15:Infernape
+16:Rayquaza
+17:Hitmontop
+18:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,37.5%,9.75
+2:Rock Blast,20.8333333333%,5.41666666667
+3:Drill Run,12.5%,3.25
+4:Rock Slide,12.5%,3.25
+5:Fire Punch,12.5%,3.25
+6:Hammer Arm,4.16666666667%,1.08333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.5%,3.25
+2:Origin Pulse,12.5%,3.25
+3:Iron Head,12.5%,3.25
+4:Dazzling Gleam,6.25%,1.625
+5:Grass Knot,6.25%,1.625
+6:Flash Cannon,6.25%,1.625
+7:Earth Power,6.25%,1.625
+8:Aqua Tail,6.25%,1.625
+9:Water Spout,6.25%,1.625
+10:Earthquake,6.25%,1.625
+11:Low Kick,6.25%,1.625
+12:Ice Beam,6.25%,1.625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Ferrothorn
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Whimsicott
+8:Cresselia
+9:Rayquaza
+10:Kyogre
+11:Kyogre
+12:Milotic
+13:Mawile
+14:Smeargle
+15:Scizor
+16:Crobat
+17:Ditto
+18:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Xerneas
+5:Landorus
+6:Thundurus
+7:Cresselia
+8:Dialga
+9:Rayquaza
+10:Blaziken

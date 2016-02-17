@@ -1,0 +1,105 @@
+158:Hariyama|22
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,22.0
+2:Close Combat,81.8181818182%,18.0
+3:Wide Guard,45.4545454545%,10.0
+4:Rock Slide,36.3636363636%,8.0
+5:Ice Punch,36.3636363636%,8.0
+6:Knock Off,31.8181818182%,7.0
+7:Feint,27.2727272727%,6.0
+8:Low Kick,13.6363636364%,3.0
+9:Stone Edge,9.09090909091%,2.0
+10:Bullet Punch,4.54545454545%,1.0
+11:Brick Break,4.54545454545%,1.0
+12:Detect,4.54545454545%,1.0
+13:Protect,4.54545454545%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,27.2727272727%,6.0
+2:Focus Sash,22.7272727273%,5.0
+3:White Herb,18.1818181818%,4.0
+4:Assault Vest,13.6363636364%,3.0
+5:Lum Berry,9.09090909091%,2.0
+6:Flame Orb,4.54545454545%,1.0
+7:Sitrus Berry,4.54545454545%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,68.1818181818%,15.0
+2:Thick Fat,31.8181818182%,7.0
+
+ ---------- 
+Natures used:
+1:Brave,63.6363636364%,14.0
+2:Adamant,36.3636363636%,8.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Musharna
+4:Cresselia
+5:Rayquaza
+6:Mawile
+7:Dialga
+8:Kyogre
+9:Dusclops
+10:Talonflame
+11:Whimsicott
+12:Marowak
+13:Ferrothorn
+14:Escavalier
+15:Magnezone
+16:Gastrodon
+17:Salamence
+18:Camerupt
+19:Sableye
+20:Kingdra
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,28.5714285714%,6.28571428571
+2:Stone Edge,14.2857142857%,3.14285714286
+3:Bullet Punch,14.2857142857%,3.14285714286
+4:Feint,14.2857142857%,3.14285714286
+5:Rock Slide,14.2857142857%,3.14285714286
+6:Ice Punch,14.2857142857%,3.14285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,17.6470588235%,3.88235294118
+2:Dazzling Gleam,11.7647058824%,2.58823529412
+3:Brave Bird,11.7647058824%,2.58823529412
+4:Dragon Ascent,5.88235294118%,1.29411764706
+5:Moonblast,5.88235294118%,1.29411764706
+6:Earth Power,5.88235294118%,1.29411764706
+7:Gyro Ball,5.88235294118%,1.29411764706
+8:Water Spout,5.88235294118%,1.29411764706
+9:Fake Out,5.88235294118%,1.29411764706
+10:Return,5.88235294118%,1.29411764706
+11:Psychic,5.88235294118%,1.29411764706
+12:Double-Edge,5.88235294118%,1.29411764706
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Weavile
+3:Groudon
+4:Salamence
+5:Smeargle
+6:Kangaskhan
+7:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Kangaskhan
+5:Cresselia
+6:Weavile
+7:Bronzong
+8:Rayquaza
+9:Kyogre

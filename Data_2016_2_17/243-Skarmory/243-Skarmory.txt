@@ -1,0 +1,53 @@
+243:Skarmory|7
+ ---------- 
+Moves used:
+1:Roost,100.0%,7.0
+2:Feint,85.7142857143%,6.0
+3:Protect,85.7142857143%,6.0
+4:Toxic,85.7142857143%,6.0
+5:Brave Bird,14.2857142857%,1.0
+6:Spikes,14.2857142857%,1.0
+7:Roar,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Red Card,85.7142857143%,6.0
+2:Sitrus Berry,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Mienshao
+4:Talonflame
+5:Thundurus
+6:Palkia
+7:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,50.0%,3.5
+2:Moonblast,25.0%,1.75
+3:Hyper Beam,25.0%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Porygon-Z

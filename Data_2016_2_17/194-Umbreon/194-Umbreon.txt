@@ -1,0 +1,95 @@
+194:Umbreon|23
+ ---------- 
+Moves used:
+1:Foul Play,95.652173913%,22.0
+2:Helping Hand,82.6086956522%,19.0
+3:Moonlight,65.2173913043%,15.0
+4:Baby-Doll Eyes,52.1739130435%,12.0
+5:Snarl,34.7826086957%,8.0
+6:Substitute,30.4347826087%,7.0
+7:Swagger,13.0434782609%,3.0
+8:Toxic,13.0434782609%,3.0
+9:Taunt,4.34782608696%,1.0
+10:Heal Bell,4.34782608696%,1.0
+11:Protect,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,52.1739130435%,12.0
+2:Leftovers,30.4347826087%,7.0
+3:Rocky Helmet,17.3913043478%,4.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,95.652173913%,22.0
+2:Synchronize,4.34782608696%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,82.6086956522%,19.0
+2:Sassy,13.0434782609%,3.0
+3:Bold,4.34782608696%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Ho-Oh
+4:Aegislash
+5:Garchomp
+6:Venusaur
+7:Palkia
+8:Latias
+9:Landorus
+10:Scizor
+11:Sylveon
+12:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,81.8181818182%,18.8181818182
+2:Snarl,18.1818181818%,4.18181818182
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.3333333333%,3.06666666667
+2:Dragon Ascent,6.66666666667%,1.53333333333
+3:Origin Pulse,6.66666666667%,1.53333333333
+4:Play Rough,6.66666666667%,1.53333333333
+5:Bolt Strike,6.66666666667%,1.53333333333
+6:Bug Bite,6.66666666667%,1.53333333333
+7:Power Whip,6.66666666667%,1.53333333333
+8:Brave Bird,6.66666666667%,1.53333333333
+9:Air Slash,6.66666666667%,1.53333333333
+10:Sheer Cold,6.66666666667%,1.53333333333
+11:Hyper Voice,6.66666666667%,1.53333333333
+12:Low Kick,6.66666666667%,1.53333333333
+13:Surf,6.66666666667%,1.53333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+3:Cresselia
+4:Giratina
+5:Lumineon
+6:Salamence
+7:Lugia
+8:Porygon2
+9:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Zekrom
+3:Ferrothorn
+4:Palkia
+5:Togekiss
+6:Weavile
+7:Rayquaza
+8:Kyogre
+9:Salamence
+10:Mawile
+11:Ho-Oh
+12:Smeargle
+13:Scizor

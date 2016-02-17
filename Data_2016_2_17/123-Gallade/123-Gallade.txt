@@ -1,0 +1,143 @@
+123:Gallade|100
+ ---------- 
+Moves used:
+1:Close Combat,62.0%,62.0
+2:Wide Guard,60.0%,60.0
+3:Protect,44.0%,44.0
+4:Quick Guard,35.0%,35.0
+5:Low Kick,34.0%,34.0
+6:Skill Swap,27.0%,27.0
+7:Psycho Cut,23.0%,23.0
+8:Encore,23.0%,23.0
+9:Feint,17.0%,17.0
+10:Leaf Blade,17.0%,17.0
+11:Ice Punch,16.0%,16.0
+12:Trick Room,15.0%,15.0
+13:Zen Headbutt,6.0%,6.0
+14:Destiny Bond,5.0%,5.0
+15:Poison Jab,4.0%,4.0
+16:Drain Punch,3.0%,3.0
+17:Ally Switch,2.0%,2.0
+18:Knock Off,2.0%,2.0
+19:Taunt,2.0%,2.0
+20:Shadow Sneak,1.0%,1.0
+0:Other,2.0%,2.0
+
+ ---------- 
+Items used:
+1:Galladite,80.0%,80.0
+2:Lum Berry,11.0%,11.0
+3:Focus Sash,4.0%,4.0
+4:Sitrus Berry,4.0%,4.0
+5:Lax Incense,1.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Steadfast,67.0%,67.0
+2:Justified,33.0%,33.0
+
+ ---------- 
+Natures used:
+1:Jolly,65.0%,65.0
+2:Impish,17.0%,17.0
+3:Sassy,9.0%,9.0
+4:Adamant,3.0%,3.0
+5:Brave,3.0%,3.0
+6:Relaxed,2.0%,2.0
+7:Careful,1.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Dialga
+5:Talonflame
+6:Thundurus
+7:Smeargle
+8:Yveltal
+9:Cresselia
+10:Ho-Oh
+11:Lugia
+12:Rayquaza
+13:Sableye
+14:Crobat
+15:Greninja
+16:Lopunny
+17:Whimsicott
+18:Ditto
+19:Liepard
+20:Pachirisu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,45.1612903226%,45.1612903226
+2:Low Kick,29.0322580645%,29.0322580645
+3:Psycho Cut,12.9032258065%,12.9032258065
+4:Feint,6.45161290323%,6.45161290323
+5:Destiny Bond,6.45161290323%,6.45161290323
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.3333333333%,13.3333333333
+2:Origin Pulse,10.6666666667%,10.6666666667
+3:Brave Bird,9.33333333333%,9.33333333333
+4:Moonblast,5.33333333333%,5.33333333333
+5:Hyper Voice,5.33333333333%,5.33333333333
+6:Ice Beam,5.33333333333%,5.33333333333
+7:Fake Out,4.0%,4.0
+8:Dragon Ascent,2.66666666667%,2.66666666667
+9:Play Rough,2.66666666667%,2.66666666667
+10:Earth Power,2.66666666667%,2.66666666667
+11:Sucker Punch,2.66666666667%,2.66666666667
+12:Water Spout,2.66666666667%,2.66666666667
+13:Eruption,2.66666666667%,2.66666666667
+14:Extreme Speed,2.66666666667%,2.66666666667
+15:Flamethrower,2.66666666667%,2.66666666667
+16:Double-Edge,2.66666666667%,2.66666666667
+17:Precipice Blades,1.33333333333%,1.33333333333
+18:Fusion Bolt,1.33333333333%,1.33333333333
+19:Icicle Crash,1.33333333333%,1.33333333333
+20:Acrobatics,1.33333333333%,1.33333333333
+0:Other,16.0%,16.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Meowstic
+5:Kyurem
+6:Ferrothorn
+7:Liepard
+8:Cresselia
+9:Dialga
+10:Rayquaza
+11:Kyogre
+12:Smeargle
+13:Ampharos
+14:Crobat
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Talonflame
+4:Groudon
+5:Salamence
+6:Kangaskhan
+7:Rayquaza
+8:Weavile
+9:Mawile
+10:Yveltal
+11:Greninja
+12:Zekrom
+13:Thundurus
+14:Thundurus
+15:Ferrothorn
+16:Cresselia
+17:Palkia
+18:Dialga
+19:Bronzong
+20:Salamence

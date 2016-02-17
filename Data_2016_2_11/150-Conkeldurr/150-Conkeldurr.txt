@@ -1,0 +1,113 @@
+150:Conkeldurr|38
+ ---------- 
+Moves used:
+1:Ice Punch,89.4736842105%,34.0
+2:Drain Punch,76.3157894737%,29.0
+3:Mach Punch,71.0526315789%,27.0
+4:Knock Off,60.5263157895%,23.0
+5:Wide Guard,42.1052631579%,16.0
+6:Protect,31.5789473684%,12.0
+7:Hammer Arm,23.6842105263%,9.0
+8:Stone Edge,2.63157894737%,1.0
+9:Rock Slide,2.63157894737%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,50.0%,19.0
+2:Life Orb,31.5789473684%,12.0
+3:Sitrus Berry,10.5263157895%,4.0
+4:Black Belt,5.26315789474%,2.0
+5:Safety Goggles,2.63157894737%,1.0
+
+ ---------- 
+Abilities used:
+1:Iron Fist,55.2631578947%,21.0
+2:Guts,44.7368421053%,17.0
+
+ ---------- 
+Natures used:
+1:Adamant,65.7894736842%,25.0
+2:Brave,28.9473684211%,11.0
+3:Sassy,5.26315789474%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Dialga
+5:Xerneas
+6:Ferrothorn
+7:Cresselia
+8:Rayquaza
+9:Landorus
+10:Staraptor
+11:Gengar
+12:Venusaur
+13:Meowstic
+14:Talonflame
+15:Thundurus
+16:Whimsicott
+17:Palkia
+18:Salamence
+19:Mawile
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Mach Punch,31.5789473684%,12.0
+2:Drain Punch,26.3157894737%,10.0
+3:Ice Punch,21.0526315789%,8.0
+4:Hammer Arm,15.7894736842%,6.0
+5:Stone Edge,5.26315789474%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,19.2307692308%,7.30769230769
+2:Water Spout,11.5384615385%,4.38461538462
+3:Double-Edge,11.5384615385%,4.38461538462
+4:Dragon Ascent,7.69230769231%,2.92307692308
+5:Spacial Rend,7.69230769231%,2.92307692308
+6:Brave Bird,7.69230769231%,2.92307692308
+7:Precipice Blades,3.84615384615%,1.46153846154
+8:Moonblast,3.84615384615%,1.46153846154
+9:Play Rough,3.84615384615%,1.46153846154
+10:Iron Head,3.84615384615%,1.46153846154
+11:Sludge Bomb,3.84615384615%,1.46153846154
+12:Earthquake,3.84615384615%,1.46153846154
+13:Low Kick,3.84615384615%,1.46153846154
+14:Blizzard,3.84615384615%,1.46153846154
+15:Ice Beam,3.84615384615%,1.46153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Thundurus
+3:Smeargle
+4:Xerneas
+5:Talonflame
+6:Kyurem
+7:Ferrothorn
+8:Liepard
+9:Weavile
+10:Groudon
+11:Kyogre
+12:Mawile
+13:Jumpluff
+14:Crobat
+15:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Palkia
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Mawile
+8:Kyurem
+9:Landorus
+10:Groudon
+11:Salamence
+12:Gengar

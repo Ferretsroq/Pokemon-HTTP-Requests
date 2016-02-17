@@ -1,0 +1,45 @@
+147:Gourgeist|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Worry Seed,100.0%,1.0
+3:Magic Coat,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Coba Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Reuniclus
+3:Groudon
+4:Milotic
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Foul Play,33.3333333333%,0.333333333333
+2:Shadow Ball,33.3333333333%,0.333333333333
+3:Ice Beam,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Kyurem
+3:Gengar

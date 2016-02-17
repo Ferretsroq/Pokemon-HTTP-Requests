@@ -1,0 +1,43 @@
+151:Dragalge|1
+ ---------- 
+Moves used:
+1:Draco Meteor,100.0%,1.0
+2:Dragon Pulse,100.0%,1.0
+3:Sludge Bomb,100.0%,1.0
+4:Haze,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Cresselia
+3:Togekiss
+4:Groudon
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,66.6666666667%,0.666666666667
+2:Dazzling Gleam,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas

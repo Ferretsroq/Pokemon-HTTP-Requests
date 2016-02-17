@@ -1,0 +1,79 @@
+135:Sneasel|32
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,32.0
+2:Foul Play,96.875%,31.0
+3:Icy Wind,96.875%,31.0
+4:Screech,96.875%,31.0
+5:Icicle Crash,3.125%,1.0
+6:Knock Off,3.125%,1.0
+7:Low Kick,3.125%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,32.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,32.0
+
+ ---------- 
+Natures used:
+1:Timid,96.875%,31.0
+2:Jolly,3.125%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Yveltal
+4:Ferrothorn
+5:Thundurus
+6:Xerneas
+7:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,32.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.2727272727%,8.72727272727
+2:Precipice Blades,13.6363636364%,4.36363636364
+3:Extreme Speed,13.6363636364%,4.36363636364
+4:Origin Pulse,4.54545454545%,1.45454545455
+5:Power-Up Punch,4.54545454545%,1.45454545455
+6:Moonblast,4.54545454545%,1.45454545455
+7:Earth Power,4.54545454545%,1.45454545455
+8:Brave Bird,4.54545454545%,1.45454545455
+9:Water Spout,4.54545454545%,1.45454545455
+10:Eruption,4.54545454545%,1.45454545455
+11:Rock Slide,4.54545454545%,1.45454545455
+12:Thunderbolt,4.54545454545%,1.45454545455
+13:Low Kick,4.54545454545%,1.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Cresselia
+3:Palkia
+4:Purugly
+5:Rayquaza
+6:Mawile
+7:Mawile
+8:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Rayquaza
+4:Kyogre
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Thundurus
+9:Whimsicott
+10:Dialga
+11:Rayquaza
+12:Ditto

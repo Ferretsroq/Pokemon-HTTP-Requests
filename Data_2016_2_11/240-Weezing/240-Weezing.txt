@@ -1,0 +1,58 @@
+240:Weezing|5
+ ---------- 
+Moves used:
+1:Gyro Ball,80.0%,4.0
+2:Shadow Ball,80.0%,4.0
+3:Sludge Bomb,80.0%,4.0
+4:Protect,80.0%,4.0
+5:Will-O-Wisp,20.0%,1.0
+6:Pain Split,20.0%,1.0
+7:Toxic,20.0%,1.0
+8:Flamethrower,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,80.0%,4.0
+2:Sitrus Berry,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Relaxed,80.0%,4.0
+2:Bold,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Latias
+2:Ludicolo
+3:Groudon
+4:Umbreon
+5:Alakazam
+6:Xerneas
+7:Kyogre
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flamethrower,100.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,1.25
+2:Moonblast,25.0%,1.25
+3:Return,25.0%,1.25
+4:Rock Slide,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Groudon
+4:Kangaskhan

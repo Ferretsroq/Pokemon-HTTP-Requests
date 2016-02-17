@@ -1,0 +1,91 @@
+94:Electivire|4
+ ---------- 
+Moves used:
+1:Wild Charge,75.0%,3.0
+2:Ice Punch,75.0%,3.0
+3:Protect,50.0%,2.0
+4:Earthquake,50.0%,2.0
+5:Low Kick,50.0%,2.0
+6:Feint,25.0%,1.0
+7:Helping Hand,25.0%,1.0
+8:Cross Chop,25.0%,1.0
+9:Thunder Punch,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Air Balloon,25.0%,1.0
+2:Choice Scarf,25.0%,1.0
+3:Magnet,25.0%,1.0
+4:White Herb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,75.0%,3.0
+2:Motor Drive,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,75.0%,3.0
+2:Adamant,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Whimsicott
+4:Mewtwo
+5:Yveltal
+6:Xerneas
+7:Landorus
+8:Ferrothorn
+9:Gallade
+10:Mismagius
+11:Kyogre
+12:Salamence
+13:Scizor
+14:Crobat
+15:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,42.8571428571%,1.71428571429
+2:Low Kick,28.5714285714%,1.14285714286
+3:Ice Punch,28.5714285714%,1.14285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,19.0476190476%,0.761904761905
+2:Dazzling Gleam,9.52380952381%,0.380952380952
+3:Earth Power,9.52380952381%,0.380952380952
+4:Flare Blitz,9.52380952381%,0.380952380952
+5:Origin Pulse,4.7619047619%,0.190476190476
+6:Moonblast,4.7619047619%,0.190476190476
+7:Shadow Force,4.7619047619%,0.190476190476
+8:Grass Knot,4.7619047619%,0.190476190476
+9:Zen Headbutt,4.7619047619%,0.190476190476
+10:Eruption,4.7619047619%,0.190476190476
+11:Low Kick,4.7619047619%,0.190476190476
+12:Double-Edge,4.7619047619%,0.190476190476
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Weavile
+3:Rayquaza
+4:Groudon
+5:Kyogre
+6:Smeargle
+7:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Talonflame
+5:Thundurus
+6:Giratina
+7:Dialga
+8:Kyogre
+9:Metagross
+10:Charizard

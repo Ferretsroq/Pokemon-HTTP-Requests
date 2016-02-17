@@ -1,0 +1,58 @@
+225:Torterra|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Wood Hammer,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Yache Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Latias
+3:Infernape
+4:Dialga
+5:Latios
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wood Hammer,50.0%,0.5
+2:Earthquake,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,11.1111111111%,0.111111111111
+2:Moonblast,11.1111111111%,0.111111111111
+3:Fire Fang,11.1111111111%,0.111111111111
+4:Brave Bird,11.1111111111%,0.111111111111
+5:Flare Blitz,11.1111111111%,0.111111111111
+6:Close Combat,11.1111111111%,0.111111111111
+7:Fire Punch,11.1111111111%,0.111111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Gothitelle
+3:Scizor
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Xerneas
+3:Terrakion
+4:Groudon
+5:Kyogre
+6:Mawile

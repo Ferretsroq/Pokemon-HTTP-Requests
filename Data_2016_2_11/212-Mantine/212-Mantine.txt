@@ -1,0 +1,64 @@
+212:Mantine|11
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,11.0
+2:Tailwind,100.0%,11.0
+3:Helping Hand,81.8181818182%,9.0
+4:Mirror Coat,63.6363636364%,7.0
+5:Ice Beam,27.2727272727%,3.0
+6:Air Slash,9.09090909091%,1.0
+7:Protect,9.09090909091%,1.0
+8:Haze,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,54.5454545455%,6.0
+2:Sitrus Berry,27.2727272727%,3.0
+3:King's Rock,9.09090909091%,1.0
+4:Wacan Berry,9.09090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,63.6363636364%,7.0
+2:Swift Swim,36.3636363636%,4.0
+
+ ---------- 
+Natures used:
+1:Calm,54.5454545455%,6.0
+2:Bold,45.4545454545%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Metagross
+4:Cresselia
+5:Groudon
+6:Mawile
+7:Xerneas
+8:Klefki
+9:Meowstic
+10:Kangaskhan
+11:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,20.0%,2.2
+2:Fake Out,20.0%,2.2
+3:Extreme Speed,20.0%,2.2
+4:Rock Slide,20.0%,2.2
+5:Ice Beam,20.0%,2.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Greninja
+2:Liepard
+3:Rayquaza
+4:Rayquaza
+5:Kyogre

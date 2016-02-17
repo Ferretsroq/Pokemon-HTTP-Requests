@@ -1,0 +1,66 @@
+173:Stantler|17
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,17.0
+2:Magic Room,58.8235294118%,10.0
+3:Mud Sport,58.8235294118%,10.0
+4:Trick Room,41.1764705882%,7.0
+5:Gravity,41.1764705882%,7.0
+6:Hypnosis,41.1764705882%,7.0
+7:Thunder Wave,35.2941176471%,6.0
+8:Protect,23.5294117647%,4.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,58.8235294118%,10.0
+2:Mental Herb,41.1764705882%,7.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Jolly,58.8235294118%,10.0
+2:Sassy,41.1764705882%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Crobat
+4:Groudon
+5:Kangaskhan
+6:Greninja
+7:Yveltal
+8:Meowstic
+9:Ferrothorn
+10:Amoonguss
+11:Liepard
+12:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,26.6666666667%,4.53333333333
+2:Precipice Blades,20.0%,3.4
+3:Double-Edge,13.3333333333%,2.26666666667
+4:Origin Pulse,6.66666666667%,1.13333333333
+5:Snarl,6.66666666667%,1.13333333333
+6:Hyper Voice,6.66666666667%,1.13333333333
+7:Eruption,6.66666666667%,1.13333333333
+8:Fake Out,6.66666666667%,1.13333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Kangaskhan
+5:Yveltal
+6:Kyogre

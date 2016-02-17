@@ -1,0 +1,43 @@
+167:Probopass|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Magic Coat,100.0%,1.0
+3:Taunt,100.0%,1.0
+4:Pain Split,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Berry Juice,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Carbink
+2:Aurorus
+3:Giratina
+4:Groudon
+5:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,0.5
+2:Dazzling Gleam,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon

@@ -1,0 +1,48 @@
+183:Machoke|1
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,1.0
+2:Bullet Punch,100.0%,1.0
+3:Encore,100.0%,1.0
+4:Dynamic Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Scolipede
+2:Smeargle
+3:Parasect
+4:Ariados
+5:Hawlucha
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Punch,80.0%,0.8
+2:Dynamic Punch,20.0%,0.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,33.3333333333%,0.333333333333
+2:Origin Pulse,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Weavile
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Kyogre

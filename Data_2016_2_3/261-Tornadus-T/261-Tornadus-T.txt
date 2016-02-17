@@ -1,0 +1,41 @@
+261:Tornadus-T|1
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,1.0
+2:Focus Blast,100.0%,1.0
+3:U-turn,100.0%,1.0
+4:Hidden Power,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Sableye
+3:Swampert
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Venusaur
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

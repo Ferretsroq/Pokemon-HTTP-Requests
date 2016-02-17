@@ -1,0 +1,154 @@
+48:Lapras|499
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,499.0
+2:Hydro Pump,91.7835671343%,458.0
+3:Ice Shard,91.1823647295%,455.0
+4:Sheer Cold,68.7374749499%,343.0
+5:Icy Wind,13.2264529058%,66.0
+6:Ancient Power,8.81763527054%,44.0
+7:Protect,7.21442885772%,36.0
+8:Surf,3.80761523046%,19.0
+9:Frost Breath,2.60521042084%,13.0
+10:Brine,2.40480961924%,12.0
+11:Rest,2.20440881764%,11.0
+12:Roar,2.20440881764%,11.0
+13:Horn Drill,1.80360721443%,9.0
+14:Water Pulse,1.40280561122%,7.0
+15:Bulldoze,0.801603206413%,4.0
+16:Perish Song,0.60120240481%,3.0
+17:Psychic,0.400801603206%,2.0
+18:Ice Beam,0.400801603206%,2.0
+19:Thunder,0.200400801603%,1.0
+20:Thunderbolt,0.200400801603%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,93.1863727455%,465.0
+2:Leftovers,4.60921843687%,23.0
+3:Sitrus Berry,1.00200400802%,5.0
+4:Weakness Policy,0.801603206413%,4.0
+5:Safety Goggles,0.200400801603%,1.0
+6:Lum Berry,0.200400801603%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,97.1943887776%,485.0
+2:Hydration,2.20440881764%,11.0
+3:Shell Armor,0.60120240481%,3.0
+
+ ---------- 
+Natures used:
+1:Sassy,62.3246492986%,311.0
+2:Quiet,16.0320641283%,80.0
+3:Modest,13.8276553106%,69.0
+4:Bold,3.00601202405%,15.0
+5:Relaxed,2.80561122244%,14.0
+6:Calm,1.20240480962%,6.0
+7:Rash,0.60120240481%,3.0
+8:Timid,0.200400801603%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Ho-Oh
+4:Mienshao
+5:Togekiss
+6:Kangaskhan
+7:Mawile
+8:Klefki
+9:Kyogre
+10:Ferrothorn
+11:Yveltal
+12:Crobat
+13:Xerneas
+14:Thundurus
+15:Smeargle
+16:Sableye
+17:Cresselia
+18:Gengar
+19:Liepard
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,42.0195439739%,209.67752443
+2:Ice Shard,30.9446254072%,154.413680782
+3:Hydro Pump,12.0521172638%,60.1400651466
+4:Sheer Cold,11.7263843648%,58.5146579805
+5:Icy Wind,1.62866449511%,8.12703583062
+6:Ancient Power,0.651465798046%,3.25081433225
+7:Frost Breath,0.325732899023%,1.62540716612
+8:Brine,0.325732899023%,1.62540716612
+9:Horn Drill,0.325732899023%,1.62540716612
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,9.3023255814%,46.4186046512
+2:Dazzling Gleam,6.97674418605%,34.8139534884
+3:Rock Slide,6.64451827243%,33.1561461794
+4:Low Kick,6.64451827243%,33.1561461794
+5:Power Whip,6.3122923588%,31.4983388704
+6:Precipice Blades,5.64784053156%,28.1827242525
+7:Thunder,4.31893687708%,21.5514950166
+8:Eruption,3.98671096346%,19.8936877076
+9:Sucker Punch,3.65448504983%,18.2358803987
+10:Double-Edge,3.32225913621%,16.5780730897
+11:Extreme Speed,2.99003322259%,14.9202657807
+12:Moonblast,2.65780730897%,13.2624584718
+13:Grass Knot,2.65780730897%,13.2624584718
+14:Fire Punch,2.65780730897%,13.2624584718
+15:Iron Head,2.32558139535%,11.6046511628
+16:Return,2.32558139535%,11.6046511628
+17:Thunderbolt,2.32558139535%,11.6046511628
+18:Earthquake,1.66112956811%,8.28903654485
+19:Foul Play,1.32890365449%,6.63122923588
+20:Brave Bird,1.32890365449%,6.63122923588
+0:Other,19.6013289037%,97.8106312292
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Xerneas
+5:Salamence
+6:Crobat
+7:Kangaskhan
+8:Landorus
+9:Thundurus
+10:Talonflame
+11:Liepard
+12:Smeargle
+13:Gengar
+14:Palkia
+15:Mawile
+16:Ferrothorn
+17:Togekiss
+18:Weavile
+19:Rayquaza
+20:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Kangaskhan
+4:Xerneas
+5:Ferrothorn
+6:Kyogre
+7:Landorus
+8:Mawile
+9:Salamence
+10:Thundurus
+11:Ho-Oh
+12:Talonflame
+13:Mienshao
+14:Amoonguss
+15:Liepard
+16:Yveltal
+17:Dialga
+18:Raichu
+19:Greninja
+20:Cresselia

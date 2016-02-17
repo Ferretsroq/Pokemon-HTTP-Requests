@@ -1,0 +1,93 @@
+182:Glalie|21
+ ---------- 
+Moves used:
+1:Protect,85.7142857143%,18.0
+2:Explosion,85.7142857143%,18.0
+3:Return,71.4285714286%,15.0
+4:Ice Shard,61.9047619048%,13.0
+5:Sheer Cold,28.5714285714%,6.0
+6:Earthquake,19.0476190476%,4.0
+7:Icy Wind,14.2857142857%,3.0
+8:Substitute,14.2857142857%,3.0
+9:Super Fang,14.2857142857%,3.0
+10:Sleep Talk,4.7619047619%,1.0
+
+ ---------- 
+Items used:
+1:Glalitite,85.7142857143%,18.0
+2:Assault Vest,14.2857142857%,3.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,71.4285714286%,15.0
+2:Moody,28.5714285714%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,66.6666666667%,14.0
+2:Adamant,19.0476190476%,4.0
+3:Modest,14.2857142857%,3.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Reshiram
+3:Kyogre
+4:Ditto
+5:Rayquaza
+6:Groudon
+7:Miltank
+8:Xerneas
+9:Landorus
+10:Palkia
+11:Crobat
+12:Camerupt
+13:Thundurus
+14:Whimsicott
+15:Musharna
+16:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,69.2307692308%,14.5384615385
+2:Return,15.3846153846%,3.23076923077
+3:Sheer Cold,7.69230769231%,1.61538461538
+4:Icy Wind,7.69230769231%,1.61538461538
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,10.5263157895%,2.21052631579
+2:Dragon Ascent,5.26315789474%,1.10526315789
+3:Origin Pulse,5.26315789474%,1.10526315789
+4:Power-Up Punch,5.26315789474%,1.10526315789
+5:Moonblast,5.26315789474%,1.10526315789
+6:Draco Meteor,5.26315789474%,1.10526315789
+7:Flare Blitz,5.26315789474%,1.10526315789
+8:Hyper Voice,5.26315789474%,1.10526315789
+9:Sacred Fire,5.26315789474%,1.10526315789
+10:Double-Edge,5.26315789474%,1.10526315789
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Ferrothorn
+3:Kangaskhan
+4:Talonflame
+5:Landorus
+6:Thundurus
+7:Cresselia
+8:Salamence
+9:Lugia
+10:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Talonflame
+5:Kyurem
+6:Rayquaza
+7:Kyogre
+8:Ho-Oh
+9:Kangaskhan

@@ -1,0 +1,167 @@
+10:Crobat|9442
+ ---------- 
+Moves used:
+1:Tailwind,96.7803431476%,9138.0
+2:Super Fang,96.2402033467%,9087.0
+3:Quick Guard,87.8839228977%,8298.0
+4:Taunt,85.6915907647%,8091.0
+5:Haze,11.0357975005%,1042.0
+6:Brave Bird,8.36687142555%,790.0
+7:Whirlwind,4.02457106545%,380.0
+8:Hypnosis,2.07583139165%,196.0
+9:Confuse Ray,1.78987502648%,169.0
+10:Snatch,1.34505401398%,127.0
+11:Cross Poison,1.12264350773%,106.0
+12:Protect,1.04850667232%,99.0
+13:Sludge Bomb,0.667231518746%,63.0
+14:U-turn,0.614276636306%,58.0
+15:Swagger,0.370684177081%,35.0
+16:Toxic,0.243592459225%,23.0
+17:Screech,0.137682694344%,13.0
+18:Roost,0.0847278119043%,8.0
+19:Zen Headbutt,0.0741368354162%,7.0
+20:Round,0.0635458589282%,6.0
+0:Other,0.338911247617%,32.0
+
+ ---------- 
+Items used:
+1:Lum Berry,60.7922050413%,5740.0
+2:Mental Herb,20.7265409871%,1957.0
+3:Sitrus Berry,11.9042575725%,1124.0
+4:Focus Sash,2.48887947469%,235.0
+5:Black Sludge,0.889642024995%,84.0
+6:Safety Goggles,0.857869095531%,81.0
+7:Leftovers,0.550730777378%,52.0
+8:Chesto Berry,0.402457106545%,38.0
+9:Rocky Helmet,0.296547341665%,28.0
+10:Bright Powder,0.222410506249%,21.0
+11:Wide Lens,0.201228553273%,19.0
+12:Eject Button,0.180046600297%,17.0
+13:Red Card,0.116500741368%,11.0
+14:Lax Incense,0.0847278119043%,8.0
+15:Sky Plate,0.0635458589282%,6.0
+16:Life Orb,0.0423639059521%,4.0
+17:Power Herb,0.0317729294641%,3.0
+18:King's Rock,0.0211819529761%,2.0
+19:Yache Berry,0.010590976488%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,98.6125820801%,9311.0
+2:Infiltrator,1.38741791993%,131.0
+
+ ---------- 
+Natures used:
+1:Jolly,57.8055496717%,5458.0
+2:Timid,41.0718068206%,3878.0
+3:Naive,0.413048083033%,39.0
+4:Calm,0.307138318153%,29.0
+5:Bold,0.137682694344%,13.0
+6:Careful,0.0953187883923%,9.0
+7:Impish,0.0529548824402%,5.0
+8:Modest,0.0423639059521%,4.0
+9:Docile,0.0423639059521%,4.0
+10:Adamant,0.0317729294641%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Ferrothorn
+8:Smeargle
+9:Gengar
+10:Landorus
+11:Weavile
+12:Mawile
+13:Yveltal
+14:Cresselia
+15:Ho-Oh
+16:Dialga
+17:Aegislash
+18:Liepard
+19:Talonflame
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,54.0298507463%,5101.49850746
+2:Super Fang,34.6268656716%,3269.46865672
+3:Sludge Bomb,4.77611940299%,450.96119403
+4:Cross Poison,4.17910447761%,394.591044776
+5:U-turn,1.19402985075%,112.740298507
+6:Zen Headbutt,0.89552238806%,84.5552238806
+7:Struggle,0.298507462687%,28.1850746269
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,9.34541520151%,882.394103327
+2:Double-Edge,8.93968082229%,844.08466324
+3:Dazzling Gleam,7.23559642954%,683.185014877
+4:Origin Pulse,5.72085474709%,540.16310522
+5:Rock Slide,5.23397349202%,494.191777117
+6:Water Spout,4.6524208818%,439.281579659
+7:Ice Beam,4.63889640249%,438.004598323
+8:Hyper Voice,4.53070056803%,427.788747633
+9:Thunderbolt,3.07005680281%,289.874763322
+10:Dragon Ascent,2.85366513389%,269.443061942
+11:Brave Bird,2.85366513389%,269.443061942
+12:Flare Blitz,2.52907763051%,238.795509873
+13:Return,2.42088179605%,228.579659183
+14:Gyro Ball,2.36678387882%,223.471733838
+15:Precipice Blades,2.35325939951%,222.194752502
+16:Moonblast,2.01514741682%,190.270219097
+17:Psychic,1.93400054098%,182.608331079
+18:Flamethrower,1.90695158236%,180.054368407
+19:Extreme Speed,1.42007032729%,134.083040303
+20:Thunder,1.35244793075%,127.698133622
+0:Other,21.1928590749%,2001.02975385
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Liepard
+3:Xerneas
+4:Crobat
+5:Kangaskhan
+6:Talonflame
+7:Mienshao
+8:Whimsicott
+9:Groudon
+10:Yveltal
+11:Rayquaza
+12:Kyogre
+13:Weavile
+14:Landorus
+15:Greninja
+16:Cresselia
+17:Togekiss
+18:Thundurus
+19:Amoonguss
+20:Infernape
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Cresselia
+9:Ferrothorn
+10:Thundurus
+11:Landorus
+12:Weavile
+13:Mawile
+14:Yveltal
+15:Dialga
+16:Kyurem
+17:Gengar
+18:Ho-Oh
+19:Rayquaza
+20:Palkia

@@ -1,0 +1,75 @@
+180:Natu|27
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,27.0
+2:Protect,100.0%,27.0
+3:Ally Switch,74.0740740741%,20.0
+4:Simple Beam,74.0740740741%,20.0
+5:Skill Swap,25.9259259259%,7.0
+6:Pain Split,25.9259259259%,7.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,27.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,27.0
+
+ ---------- 
+Natures used:
+1:Relaxed,74.0740740741%,20.0
+2:Gentle,25.9259259259%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Blissey
+3:Smeargle
+4:Mawile
+5:Latias
+6:Mienshao
+7:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,10.0%,2.7
+2:Thunderbolt,10.0%,2.7
+3:Double-Edge,10.0%,2.7
+4:Precipice Blades,5.0%,1.35
+5:Origin Pulse,5.0%,1.35
+6:Power-Up Punch,5.0%,1.35
+7:Dazzling Gleam,5.0%,1.35
+8:Play Rough,5.0%,1.35
+9:Air Slash,5.0%,1.35
+10:Dark Pulse,5.0%,1.35
+11:Gyro Ball,5.0%,1.35
+12:Hyper Voice,5.0%,1.35
+13:Knock Off,5.0%,1.35
+14:Fake Out,5.0%,1.35
+15:Extreme Speed,5.0%,1.35
+16:Aeroblast,5.0%,1.35
+17:Rock Slide,5.0%,1.35
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Yveltal
+3:Talonflame
+4:Groudon
+5:Xerneas
+6:Thundurus
+7:Ferrothorn
+8:Togekiss
+9:Rayquaza
+10:Kyogre
+11:Salamence
+12:Mawile
+13:Lugia
+14:Zapdos

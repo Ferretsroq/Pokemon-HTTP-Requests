@@ -1,0 +1,56 @@
+197:Lumineon|10
+ ---------- 
+Moves used:
+1:Soak,100.0%,10.0
+2:Tailwind,100.0%,10.0
+3:Icy Wind,90.0%,9.0
+4:Protect,90.0%,9.0
+5:Safeguard,10.0%,1.0
+6:Swagger,10.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,10.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,10.0
+
+ ---------- 
+Natures used:
+1:Calm,90.0%,9.0
+2:Timid,10.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Smeargle
+3:Xerneas
+4:Kyogre
+5:Serperior
+6:Groudon
+7:Shedinja
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,2.5
+2:Double-Edge,25.0%,2.5
+3:Precipice Blades,12.5%,1.25
+4:Play Rough,12.5%,1.25
+5:Hyper Voice,12.5%,1.25
+6:Thunderbolt,12.5%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Thundurus
+4:Groudon
+5:Salamence
+6:Mawile

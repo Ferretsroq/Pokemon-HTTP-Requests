@@ -1,0 +1,47 @@
+260:Dragalge|2
+ ---------- 
+Moves used:
+1:Sludge Wave,100.0%,2.0
+2:Draco Meteor,100.0%,2.0
+3:Dragon Pulse,50.0%,1.0
+4:Shadow Ball,50.0%,1.0
+5:Thunder,50.0%,1.0
+6:Hydro Pump,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,50.0%,1.0
+2:Choice Specs,50.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Terrakion
+3:Liepard
+4:Rayquaza
+5:Mewtwo
+6:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,1.0
+2:Double-Edge,50.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan

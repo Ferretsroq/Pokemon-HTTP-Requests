@@ -1,0 +1,88 @@
+206:Articuno|18
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,18.0
+2:Hurricane,100.0%,18.0
+3:Tailwind,72.2222222222%,13.0
+4:Water Pulse,50.0%,9.0
+5:Roost,22.2222222222%,4.0
+6:Sheer Cold,22.2222222222%,4.0
+7:Protect,22.2222222222%,4.0
+8:Ice Shard,5.55555555556%,1.0
+9:Ice Beam,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,72.2222222222%,13.0
+2:Quick Claw,22.2222222222%,4.0
+3:Leftovers,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Calm,72.2222222222%,13.0
+2:Modest,22.2222222222%,4.0
+3:Bold,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Togekiss
+4:Gengar
+5:Groudon
+6:Xerneas
+7:Cresselia
+8:Altaria
+9:Crobat
+10:Aegislash
+11:Gothitelle
+12:Whimsicott
+13:Shiftry
+14:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,60.0%,10.8
+2:Water Pulse,20.0%,3.6
+3:Sheer Cold,20.0%,3.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,16.6666666667%,3.0
+2:Origin Pulse,8.33333333333%,1.5
+3:Dazzling Gleam,8.33333333333%,1.5
+4:Moonblast,8.33333333333%,1.5
+5:Flash Cannon,8.33333333333%,1.5
+6:Bullet Punch,8.33333333333%,1.5
+7:Sucker Punch,8.33333333333%,1.5
+8:Shadow Ball,8.33333333333%,1.5
+9:Extreme Speed,8.33333333333%,1.5
+10:Ice Beam,8.33333333333%,1.5
+11:Double-Edge,8.33333333333%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Mienshao
+3:Cresselia
+4:Groudon
+5:Kyogre
+6:Salamence
+7:Sableye
+8:Shedinja
+9:Smeargle
+10:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Kangaskhan
+4:Dialga
+5:Rayquaza
+6:Scizor
+7:Gengar

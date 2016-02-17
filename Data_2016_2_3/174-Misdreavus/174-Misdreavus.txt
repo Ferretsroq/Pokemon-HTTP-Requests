@@ -1,0 +1,56 @@
+174:Misdreavus|17
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,17.0
+2:Trick Room,82.3529411765%,14.0
+3:Magic Coat,58.8235294118%,10.0
+4:Pain Split,58.8235294118%,10.0
+5:Thunder Wave,58.8235294118%,10.0
+6:Imprison,41.1764705882%,7.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,17.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,17.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Mawile
+4:Ho-Oh
+5:Smeargle
+6:Hydreigon
+7:Whimsicott
+8:Cherrim
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,18.1818181818%,3.09090909091
+2:Precipice Blades,18.1818181818%,3.09090909091
+3:Origin Pulse,18.1818181818%,3.09090909091
+4:Dazzling Gleam,9.09090909091%,1.54545454545
+5:Earth Power,9.09090909091%,1.54545454545
+6:Overheat,9.09090909091%,1.54545454545
+7:Rock Slide,9.09090909091%,1.54545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Kyogre
+4:Xerneas

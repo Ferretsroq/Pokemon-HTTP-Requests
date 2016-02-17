@@ -1,0 +1,120 @@
+82:Parasect|231
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,231.0
+2:Spore,100.0%,231.0
+3:Wide Guard,95.670995671%,221.0
+4:Protect,69.2640692641%,160.0
+5:Seed Bomb,13.4199134199%,31.0
+6:After You,9.52380952381%,22.0
+7:Struggle Bug,6.06060606061%,14.0
+8:Grass Knot,3.0303030303%,7.0
+9:X-Scissor,1.7316017316%,4.0
+10:Counter,0.865800865801%,2.0
+11:Giga Drain,0.4329004329%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,64.9350649351%,150.0
+2:Sitrus Berry,19.0476190476%,44.0
+3:Mental Herb,10.8225108225%,25.0
+4:Rocky Helmet,3.0303030303%,7.0
+5:Leftovers,1.2987012987%,3.0
+6:Lum Berry,0.865800865801%,2.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,59.7402597403%,138.0
+2:Effect Spore,40.2597402597%,93.0
+
+ ---------- 
+Natures used:
+1:Relaxed,41.1255411255%,95.0
+2:Careful,21.2121212121%,49.0
+3:Sassy,19.0476190476%,44.0
+4:Brave,9.09090909091%,21.0
+5:Bold,4.329004329%,10.0
+6:Impish,2.1645021645%,5.0
+7:Adamant,1.7316017316%,4.0
+8:Calm,1.2987012987%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Mewtwo
+6:Cresselia
+7:Rayquaza
+8:Mawile
+9:Salamence
+10:Talonflame
+11:Machamp
+12:Landorus
+13:Bronzong
+14:Gengar
+15:Aegislash
+16:Palkia
+17:Aromatisse
+18:Ho-Oh
+19:Crobat
+20:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,60.0%,138.6
+2:Grass Knot,40.0%,92.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,14.6496815287%,33.8407643312
+2:Brave Bird,7.64331210191%,17.6560509554
+3:Double-Edge,5.73248407643%,13.2420382166
+4:Dragon Ascent,5.09554140127%,11.7707006369
+5:Sludge Bomb,4.45859872611%,10.2993630573
+6:Air Slash,3.82165605096%,8.82802547771
+7:Fire Punch,3.82165605096%,8.82802547771
+8:Moonblast,3.1847133758%,7.35668789809
+9:Dazzling Gleam,2.54777070064%,5.88535031847
+10:Eruption,2.54777070064%,5.88535031847
+11:Return,2.54777070064%,5.88535031847
+12:Flamethrower,2.54777070064%,5.88535031847
+13:Dragon Pulse,1.91082802548%,4.41401273885
+14:Overheat,1.91082802548%,4.41401273885
+15:Sacred Fire,1.91082802548%,4.41401273885
+16:Foul Play,1.27388535032%,2.94267515924
+17:Bug Bite,1.27388535032%,2.94267515924
+18:Iron Head,1.27388535032%,2.94267515924
+19:Flare Blitz,1.27388535032%,2.94267515924
+20:U-turn,1.27388535032%,2.94267515924
+0:Other,22.9299363057%,52.9681528662
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Xerneas
+6:Rayquaza
+7:Togekiss
+8:Yveltal
+9:Ho-Oh
+10:Cresselia
+11:Mawile
+12:Gengar
+13:Dialga
+14:Rayquaza
+15:Salamence
+16:Scizor
+17:Gengar
+18:Landorus
+19:Ferrothorn
+20:Liepard

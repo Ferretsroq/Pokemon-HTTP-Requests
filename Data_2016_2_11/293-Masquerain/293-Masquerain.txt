@@ -1,0 +1,39 @@
+293:Masquerain|1
+ ---------- 
+Moves used:
+1:Struggle Bug,100.0%,1.0
+2:Air Slash,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Whirlwind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Lugia
+3:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus

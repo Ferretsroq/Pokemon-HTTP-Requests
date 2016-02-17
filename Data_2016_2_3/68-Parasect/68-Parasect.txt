@@ -1,0 +1,124 @@
+68:Parasect|160
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,160.0
+2:Wide Guard,97.5%,156.0
+3:Spore,93.125%,149.0
+4:Protect,50.0%,80.0
+5:Seed Bomb,36.25%,58.0
+6:Sweet Scent,6.875%,11.0
+7:Struggle Bug,6.25%,10.0
+8:Grass Knot,5.0%,8.0
+9:X-Scissor,3.75%,6.0
+10:After You,0.625%,1.0
+11:Giga Drain,0.625%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,44.375%,71.0
+2:Rocky Helmet,23.125%,37.0
+3:Sitrus Berry,16.25%,26.0
+4:Mental Herb,13.125%,21.0
+5:Leftovers,1.875%,3.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,60.625%,97.0
+2:Effect Spore,32.5%,52.0
+3:Damp,6.875%,11.0
+
+ ---------- 
+Natures used:
+1:Impish,33.125%,53.0
+2:Sassy,27.5%,44.0
+3:Relaxed,16.25%,26.0
+4:Brave,8.75%,14.0
+5:Careful,7.5%,12.0
+6:Adamant,3.75%,6.0
+7:Calm,1.875%,3.0
+8:Bold,1.25%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Infernape
+6:Rayquaza
+7:Scizor
+8:Mawile
+9:Cresselia
+10:Smeargle
+11:Aromatisse
+12:Scolipede
+13:Machoke
+14:Talonflame
+15:Salamence
+16:Palkia
+17:Togekiss
+18:Landorus
+19:Ho-Oh
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,42.8571428571%,68.5714285714
+2:Grass Knot,28.5714285714%,45.7142857143
+3:Struggle Bug,14.2857142857%,22.8571428571
+4:X-Scissor,14.2857142857%,22.8571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,16.5217391304%,26.4347826087
+2:Double-Edge,13.0434782609%,20.8695652174
+3:Brave Bird,10.4347826087%,16.6956521739
+4:Dazzling Gleam,4.34782608696%,6.95652173913
+5:Flamethrower,4.34782608696%,6.95652173913
+6:Dragon Ascent,3.47826086957%,5.5652173913
+7:Return,3.47826086957%,5.5652173913
+8:Moonblast,2.60869565217%,4.17391304348
+9:Air Slash,2.60869565217%,4.17391304348
+10:Sludge Bomb,2.60869565217%,4.17391304348
+11:Fire Punch,2.60869565217%,4.17391304348
+12:Play Rough,1.73913043478%,2.78260869565
+13:Dragon Pulse,1.73913043478%,2.78260869565
+14:Gyro Ball,1.73913043478%,2.78260869565
+15:Overheat,1.73913043478%,2.78260869565
+16:Eruption,1.73913043478%,2.78260869565
+17:Knock Off,1.73913043478%,2.78260869565
+18:Sacred Fire,1.73913043478%,2.78260869565
+19:Oblivion Wing,0.869565217391%,1.39130434783
+20:Blue Flare,0.869565217391%,1.39130434783
+0:Other,16.5217391304%,26.4347826087
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Liepard
+4:Rayquaza
+5:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Talonflame
+5:Xerneas
+6:Salamence
+7:Rayquaza
+8:Ho-Oh
+9:Dialga
+10:Togekiss
+11:Crobat
+12:Yveltal
+13:Landorus
+14:Thundurus
+15:Ferrothorn
+16:Mawile
+17:Reshiram
+18:Amoonguss
+19:Excadrill
+20:Cresselia

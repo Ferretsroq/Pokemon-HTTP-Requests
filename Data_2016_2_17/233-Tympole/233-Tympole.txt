@@ -1,0 +1,50 @@
+233:Tympole|1
+ ---------- 
+Moves used:
+1:After You,100.0%,1.0
+2:Endeavor,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,37.5%,0.375
+2:Sucker Punch,12.5%,0.125
+3:Hyper Voice,12.5%,0.125
+4:Eruption,12.5%,0.125
+5:Ice Beam,12.5%,0.125
+6:Double-Edge,12.5%,0.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Cresselia
+4:Groudon
+5:Salamence

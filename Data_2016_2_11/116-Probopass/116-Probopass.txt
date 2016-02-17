@@ -1,0 +1,89 @@
+116:Probopass|83
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,83.0
+2:Protect,75.9036144578%,63.0
+3:Volt Switch,69.8795180723%,58.0
+4:Magnet Bomb,60.2409638554%,50.0
+5:Magic Coat,30.1204819277%,25.0
+6:Pain Split,30.1204819277%,25.0
+7:Taunt,24.0963855422%,20.0
+8:Flash Cannon,9.63855421687%,8.0
+
+ ---------- 
+Items used:
+1:Eject Button,62.6506024096%,52.0
+2:Berry Juice,30.1204819277%,25.0
+3:Sitrus Berry,7.22891566265%,6.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,83.0
+
+ ---------- 
+Natures used:
+1:Calm,60.2409638554%,50.0
+2:Relaxed,30.1204819277%,25.0
+3:Bold,9.63855421687%,8.0
+
+ ---------- 
+Top teammates:
+1:Sableye
+2:Gengar
+3:Murkrow
+4:Groudon
+5:Carbink
+6:Venusaur
+7:Aurorus
+8:Giratina
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,18.9189189189%,15.7027027027
+2:Power-Up Punch,10.8108108108%,8.97297297297
+3:Fire Punch,8.10810810811%,6.72972972973
+4:Dazzling Gleam,5.40540540541%,4.48648648649
+5:Fake Out,5.40540540541%,4.48648648649
+6:Precipice Blades,2.7027027027%,2.24324324324
+7:Origin Pulse,2.7027027027%,2.24324324324
+8:Hex,2.7027027027%,2.24324324324
+9:Draco Meteor,2.7027027027%,2.24324324324
+10:Earth Power,2.7027027027%,2.24324324324
+11:Brave Bird,2.7027027027%,2.24324324324
+12:Air Slash,2.7027027027%,2.24324324324
+13:Flare Blitz,2.7027027027%,2.24324324324
+14:Overheat,2.7027027027%,2.24324324324
+15:Hyper Voice,2.7027027027%,2.24324324324
+16:Knock Off,2.7027027027%,2.24324324324
+17:Superpower,2.7027027027%,2.24324324324
+18:Beat Up,2.7027027027%,2.24324324324
+19:Giga Drain,2.7027027027%,2.24324324324
+20:Ice Beam,2.7027027027%,2.24324324324
+0:Other,2.7027027027%,2.24324324324
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Kyogre
+6:Yveltal
+7:Kyurem
+8:Landorus
+9:Mienshao
+10:Whimsicott
+11:Liepard
+12:Togekiss
+13:Rayquaza
+14:Salamence
+15:Ho-Oh
+16:Kangaskhan
+17:Gengar
+18:Venusaur

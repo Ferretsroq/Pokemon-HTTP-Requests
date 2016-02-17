@@ -1,0 +1,87 @@
+108:Chandelure|3
+ ---------- 
+Moves used:
+1:Heat Wave,100.0%,3.0
+2:Shadow Ball,100.0%,3.0
+3:Trick Room,66.6666666667%,2.0
+4:Protect,66.6666666667%,2.0
+5:Energy Ball,33.3333333333%,1.0
+6:Taunt,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,66.6666666667%,2.0
+2:Choice Scarf,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Modest,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Xerneas
+4:Thundurus
+5:Cresselia
+6:Weavile
+7:Kyogre
+8:Salamence
+9:Walrein
+10:Breloom
+11:Scizor
+12:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Ball,66.6666666667%,2.0
+2:Heat Wave,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,23.5294117647%,0.705882352941
+2:Earth Power,11.7647058824%,0.352941176471
+3:Dragon Ascent,5.88235294118%,0.176470588235
+4:Origin Pulse,5.88235294118%,0.176470588235
+5:Snarl,5.88235294118%,0.176470588235
+6:Psyshock,5.88235294118%,0.176470588235
+7:Sucker Punch,5.88235294118%,0.176470588235
+8:Hyper Voice,5.88235294118%,0.176470588235
+9:Shadow Ball,5.88235294118%,0.176470588235
+10:Ancient Power,5.88235294118%,0.176470588235
+11:Hidden Power,5.88235294118%,0.176470588235
+12:Psychic,5.88235294118%,0.176470588235
+13:Thunderbolt,5.88235294118%,0.176470588235
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Xerneas
+3:Talonflame
+4:Amoonguss
+5:Cresselia
+6:Giratina
+7:Groudon
+8:Kyogre
+9:Dusclops
+10:Sableye
+11:Arcanine
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Thundurus
+5:Cresselia
+6:Rayquaza
+7:Kyogre
+8:Salamence
+9:Lugia
+10:Kangaskhan
+11:Gengar

@@ -1,0 +1,170 @@
+7:Salamence|11995
+ ---------- 
+Moves used:
+1:Protect,97.27386411%,11668.0
+2:Draco Meteor,83.9849937474%,10074.0
+3:Hyper Voice,82.967903293%,9952.0
+4:Double-Edge,63.7598999583%,7648.0
+5:Tailwind,22.2842851188%,2673.0
+6:Flamethrower,20.7836598583%,2493.0
+7:Fire Blast,7.85327219675%,942.0
+8:Earthquake,2.38432680283%,286.0
+9:Dragon Dance,2.22592746978%,267.0
+10:Giga Impact,2.12588578574%,255.0
+11:Hyper Beam,1.97582325969%,237.0
+12:Return,1.66736140058%,200.0
+13:Dragon Claw,1.62567736557%,195.0
+14:Substitute,1.55898290955%,187.0
+15:Rock Slide,1.19216340142%,143.0
+16:Dragon Pulse,1.18382659441%,142.0
+17:Roar,1.18382659441%,142.0
+18:Swagger,0.750312630263%,90.0
+19:Sleep Talk,0.633597332222%,76.0
+20:Roost,0.558566069195%,67.0
+0:Other,2.02584410171%,243.0
+
+ ---------- 
+Items used:
+1:Salamencite,98.2242601084%,11782.0
+2:Lum Berry,0.992080033347%,119.0
+3:Focus Sash,0.358482701125%,43.0
+4:Choice Scarf,0.266777824093%,32.0
+5:Life Orb,0.0500208420175%,6.0
+6:Yache Berry,0.0416840350146%,5.0
+7:Choice Specs,0.0250104210088%,3.0
+8:Haban Berry,0.0250104210088%,3.0
+9:Sitrus Berry,0.00833680700292%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,99.8332638599%,11975.0
+2:Moxie,0.166736140058%,20.0
+
+ ---------- 
+Natures used:
+1:Naive,50.2375989996%,6026.0
+2:Timid,33.3555648187%,4001.0
+3:Hasty,8.48686952897%,1018.0
+4:Jolly,2.70112546895%,324.0
+5:Adamant,2.48436848687%,298.0
+6:Modest,1.75906627762%,211.0
+7:Brave,0.316798666111%,38.0
+8:Rash,0.291788245102%,35.0
+9:Naughty,0.225093789079%,27.0
+10:Mild,0.0833680700292%,10.0
+11:Lonely,0.0500208420175%,6.0
+12:Relaxed,0.00833680700292%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Smeargle
+6:Cresselia
+7:Crobat
+8:Ferrothorn
+9:Liepard
+10:Amoonguss
+11:Ho-Oh
+12:Weavile
+13:Thundurus
+14:Yveltal
+15:Whimsicott
+16:Dialga
+17:Gengar
+18:Rayquaza
+19:Landorus
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,56.4874644611%,6775.67136211
+2:Double-Edge,25.8852416645%,3104.93473766
+3:Draco Meteor,11.876453864%,1424.58064099
+4:Flamethrower,2.06771775653%,248.022744895
+5:Return,0.814163866632%,97.6589558025
+6:Fire Blast,0.659085034893%,79.0572499354
+7:Giga Impact,0.555699147066%,66.6561126906
+8:Hyper Beam,0.413543551305%,49.6045489791
+9:Rock Slide,0.297234427501%,35.6532695787
+10:Dragon Claw,0.271387955544%,32.5529852675
+11:Earthquake,0.271387955544%,32.5529852675
+12:Dragon Pulse,0.116309123805%,13.9512794004
+13:Hydro Pump,0.090462651848%,10.8509950892
+14:Frustration,0.0646161798914%,7.75071077798
+15:Facade,0.0387697079349%,4.65042646679
+16:Sleep Talk,0.0387697079349%,4.65042646679
+17:Heat Wave,0.0258464719566%,3.10028431119
+18:Struggle,0.0258464719566%,3.10028431119
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.7978311387%,2494.69984508
+2:Ice Beam,15.3369481022%,1839.66692486
+3:Draco Meteor,5.95145881745%,713.877485154
+4:Moonblast,4.27317325071%,512.567131423
+5:Eruption,3.83423702556%,459.916731216
+6:Rock Slide,3.34366124451%,401.072166279
+7:Sucker Punch,2.84017557449%,340.67906016
+8:Water Spout,2.36250968242%,283.383036406
+9:Double-Edge,2.09140201394%,250.863671572
+10:Brave Bird,2.07849212497%,249.31513039
+11:Origin Pulse,2.03976245804%,244.669506842
+12:Hyper Voice,2.01394268009%,241.572424477
+13:Hidden Power,1.78156467854%,213.698683191
+14:Sludge Bomb,1.53627678802%,184.276400723
+15:Extreme Speed,1.51045701007%,181.179318358
+16:Precipice Blades,1.47172734314%,176.53369481
+17:Dragon Pulse,1.44590756519%,173.436612445
+18:Dragon Ascent,1.3942680093%,167.242447715
+19:Gyro Ball,1.3942680093%,167.242447715
+20:Play Rough,1.38135812032%,165.693906532
+0:Other,15.1432997676%,1816.43880713
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Xerneas
+5:Crobat
+6:Kyogre
+7:Salamence
+8:Smeargle
+9:Rayquaza
+10:Ferrothorn
+11:Liepard
+12:Gengar
+13:Whimsicott
+14:Landorus
+15:Cresselia
+16:Gengar
+17:Amoonguss
+18:Yveltal
+19:Rayquaza
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Cresselia
+8:Gengar
+9:Mawile
+10:Yveltal
+11:Talonflame
+12:Dialga
+13:Ferrothorn
+14:Landorus
+15:Palkia
+16:Weavile
+17:Rayquaza
+18:Kyurem
+19:Thundurus
+20:Aegislash

@@ -1,0 +1,63 @@
+234:Tauros|4
+ ---------- 
+Moves used:
+1:Return,75.0%,3.0
+2:Protect,75.0%,3.0
+3:Rock Slide,75.0%,3.0
+4:Earthquake,75.0%,3.0
+5:Giga Impact,25.0%,1.0
+6:Helping Hand,25.0%,1.0
+7:Ice Beam,25.0%,1.0
+8:Flamethrower,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,50.0%,2.0
+2:Kee Berry,25.0%,1.0
+3:Focus Sash,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Anger Point,75.0%,3.0
+2:Intimidate,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,75.0%,3.0
+2:Naive,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Lopunny
+3:Xerneas
+4:Talonflame
+5:Togekiss
+6:Pachirisu
+7:Rayquaza
+8:Milotic
+9:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,75.0%,3.0
+2:Return,25.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,1.33333333333
+2:Water Spout,33.3333333333%,1.33333333333
+3:Low Kick,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Noivern
+2:Talonflame
+3:Groudon
+4:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Lopunny
+3:Kyogre

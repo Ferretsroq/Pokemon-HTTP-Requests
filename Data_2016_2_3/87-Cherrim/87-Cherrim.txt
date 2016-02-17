@@ -1,0 +1,117 @@
+87:Cherrim|94
+ ---------- 
+Moves used:
+1:Protect,81.914893617%,77.0
+2:Heal Pulse,67.0212765957%,63.0
+3:Helping Hand,63.829787234%,60.0
+4:Grass Knot,56.3829787234%,53.0
+5:Grass Whistle,37.2340425532%,35.0
+6:Worry Seed,30.8510638298%,29.0
+7:Safeguard,23.4042553191%,22.0
+8:Leech Seed,21.2765957447%,20.0
+9:Healing Wish,5.31914893617%,5.0
+10:Energy Ball,4.25531914894%,4.0
+11:Seed Bomb,4.25531914894%,4.0
+12:Giga Drain,3.1914893617%,3.0
+13:Weather Ball,1.06382978723%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,67.0212765957%,63.0
+2:Choice Scarf,18.085106383%,17.0
+3:Sitrus Berry,7.44680851064%,7.0
+4:Leftovers,3.1914893617%,3.0
+5:Bright Powder,3.1914893617%,3.0
+6:Occa Berry,1.06382978723%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,94.0
+
+ ---------- 
+Natures used:
+1:Timid,91.4893617021%,86.0
+2:Jolly,4.25531914894%,4.0
+3:Bold,4.25531914894%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Talonflame
+4:Xerneas
+5:Mawile
+6:Rayquaza
+7:Giratina
+8:Sableye
+9:Kangaskhan
+10:Salamence
+11:Dragonite
+12:Meowstic
+13:Smeargle
+14:Bisharp
+15:Crobat
+16:Landorus
+17:Thundurus
+18:Dialga
+19:Gastrodon
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,80.0%,75.2
+2:Energy Ball,20.0%,18.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,14.5833333333%,13.7083333333
+2:Precipice Blades,12.5%,11.75
+3:Fire Punch,10.4166666667%,9.79166666667
+4:Eruption,8.33333333333%,7.83333333333
+5:Origin Pulse,6.25%,5.875
+6:Ice Beam,6.25%,5.875
+7:Feint,4.16666666667%,3.91666666667
+8:Double-Edge,4.16666666667%,3.91666666667
+9:Dragon Ascent,2.08333333333%,1.95833333333
+10:Psystrike,2.08333333333%,1.95833333333
+11:Spacial Rend,2.08333333333%,1.95833333333
+12:Brave Bird,2.08333333333%,1.95833333333
+13:Sucker Punch,2.08333333333%,1.95833333333
+14:Gyro Ball,2.08333333333%,1.95833333333
+15:Extreme Speed,2.08333333333%,1.95833333333
+16:Sacred Fire,2.08333333333%,1.95833333333
+17:Return,2.08333333333%,1.95833333333
+18:Sludge Bomb,2.08333333333%,1.95833333333
+19:Rock Slide,2.08333333333%,1.95833333333
+20:Psychic,2.08333333333%,1.95833333333
+0:Other,4.16666666667%,3.91666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyurem
+5:Liepard
+6:Palkia
+7:Lapras
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Kyogre
+4:Kangaskhan
+5:Cresselia
+6:Rayquaza
+7:Ho-Oh
+8:Landorus
+9:Thundurus
+10:Ferrothorn
+11:Palkia
+12:Weavile
+13:Infernape
+14:Groudon
+15:Mawile
+16:Mewtwo
+17:Gengar

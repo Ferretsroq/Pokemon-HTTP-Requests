@@ -1,0 +1,102 @@
+109:Virizion|55
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,55.0
+2:Leaf Blade,98.1818181818%,54.0
+3:Protect,89.0909090909%,49.0
+4:Helping Hand,52.7272727273%,29.0
+5:Stone Edge,21.8181818182%,12.0
+6:Quick Guard,18.1818181818%,10.0
+7:Double Kick,14.5454545455%,8.0
+8:Taunt,3.63636363636%,2.0
+9:Worry Seed,1.81818181818%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,54.5454545455%,30.0
+2:Life Orb,27.2727272727%,15.0
+3:Lum Berry,12.7272727273%,7.0
+4:Expert Belt,5.45454545455%,3.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,55.0
+
+ ---------- 
+Natures used:
+1:Adamant,50.9090909091%,28.0
+2:Jolly,49.0909090909%,27.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Dialga
+4:Meowstic
+5:Talonflame
+6:Groudon
+7:Xerneas
+8:Yveltal
+9:Ho-Oh
+10:Kangaskhan
+11:Parasect
+12:Whimsicott
+13:Togekiss
+14:Smeargle
+15:Gengar
+16:Kyurem
+17:Landorus
+18:Thundurus
+19:Terrakion
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Blade,55.0%,30.25
+2:Close Combat,40.0%,22.0
+3:Stone Edge,5.0%,2.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.2413793103%,9.48275862069
+2:Gyro Ball,17.2413793103%,9.48275862069
+3:Ice Beam,10.3448275862%,5.68965517241
+4:Moonblast,6.89655172414%,3.79310344828
+5:Brave Bird,6.89655172414%,3.79310344828
+6:Hyper Voice,6.89655172414%,3.79310344828
+7:Dragon Ascent,3.44827586207%,1.89655172414
+8:Origin Pulse,3.44827586207%,1.89655172414
+9:Play Rough,3.44827586207%,1.89655172414
+10:Iron Head,3.44827586207%,1.89655172414
+11:Superpower,3.44827586207%,1.89655172414
+12:Aeroblast,3.44827586207%,1.89655172414
+13:Earthquake,3.44827586207%,1.89655172414
+14:Flamethrower,3.44827586207%,1.89655172414
+15:Double-Edge,3.44827586207%,1.89655172414
+16:Fire Punch,3.44827586207%,1.89655172414
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Ferrothorn
+4:Talonflame
+5:Landorus
+6:Lopunny
+7:Ludicolo
+8:Smeargle
+9:Quagsire
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Ferrothorn
+3:Kyogre
+4:Talonflame
+5:Landorus
+6:Groudon
+7:Salamence
+8:Mawile
+9:Rayquaza
+10:Lugia
+11:Kangaskhan

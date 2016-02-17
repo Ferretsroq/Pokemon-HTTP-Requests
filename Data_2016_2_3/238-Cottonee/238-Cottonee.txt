@@ -1,0 +1,50 @@
+238:Cottonee|3
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,3.0
+2:Encore,100.0%,3.0
+3:Tailwind,66.6666666667%,2.0
+4:Fake Tears,66.6666666667%,2.0
+5:Substitute,33.3333333333%,1.0
+6:Leech Seed,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Infiltrator,66.6666666667%,2.0
+2:Prankster,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Greninja
+4:Ferrothorn
+5:Rayquaza
+6:Kangaskhan
+7:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,33.3333333333%,1.0
+2:Eruption,33.3333333333%,1.0
+3:Fake Out,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Groudon
+3:Ludicolo

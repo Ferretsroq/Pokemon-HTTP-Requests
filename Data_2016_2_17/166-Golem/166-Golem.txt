@@ -1,0 +1,99 @@
+166:Golem|37
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,37.0
+2:Rock Slide,94.5945945946%,35.0
+3:Wide Guard,78.3783783784%,29.0
+4:Protect,72.972972973%,27.0
+5:Explosion,27.027027027%,10.0
+6:Rock Polish,18.9189189189%,7.0
+7:Stone Edge,5.40540540541%,2.0
+8:Hammer Arm,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,94.5945945946%,35.0
+2:Weakness Policy,5.40540540541%,2.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Brave,70.2702702703%,26.0
+2:Adamant,29.7297297297%,11.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Raichu
+6:Salamence
+7:Ho-Oh
+8:Talonflame
+9:Rayquaza
+10:Klefki
+11:Thundurus
+12:Latios
+13:Dusclops
+14:Mawile
+15:Zapdos
+16:Lapras
+17:Chansey
+18:Hitmonchan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,54.5454545455%,20.1818181818
+2:Earthquake,36.3636363636%,13.4545454545
+3:Stone Edge,4.54545454545%,1.68181818182
+4:Explosion,4.54545454545%,1.68181818182
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,17.3913043478%,6.4347826087
+2:Precipice Blades,13.0434782609%,4.82608695652
+3:Hidden Power,8.69565217391%,3.21739130435
+4:Psychic,8.69565217391%,3.21739130435
+5:Dragon Ascent,4.34782608696%,1.60869565217
+6:Power Whip,4.34782608696%,1.60869565217
+7:Brave Bird,4.34782608696%,1.60869565217
+8:Sucker Punch,4.34782608696%,1.60869565217
+9:Hyper Voice,4.34782608696%,1.60869565217
+10:Extreme Speed,4.34782608696%,1.60869565217
+11:Giga Drain,4.34782608696%,1.60869565217
+12:Double-Edge,4.34782608696%,1.60869565217
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Cresselia
+2:Groudon
+3:Rayquaza
+4:Kyogre
+5:Crobat
+6:Xerneas
+7:Sylveon
+8:Talonflame
+9:Amoonguss
+10:Togekiss
+11:Metagross
+12:Mawile
+13:Smeargle
+14:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Cresselia
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Salamence
+6:Talonflame
+7:Thundurus
+8:Ferrothorn
+9:Zapdos
+10:Kangaskhan
+11:Venusaur

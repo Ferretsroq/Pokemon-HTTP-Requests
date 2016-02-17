@@ -1,0 +1,55 @@
+228:Moltres|3
+ ---------- 
+Moves used:
+1:Air Slash,100.0%,3.0
+2:Heat Wave,100.0%,3.0
+3:Protect,100.0%,3.0
+4:Roost,66.6666666667%,2.0
+5:Ancient Power,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,66.6666666667%,2.0
+2:Wise Glasses,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Calm,66.6666666667%,2.0
+2:Modest,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Liepard
+3:Gastrodon
+4:Bisharp
+5:Raichu
+6:Landorus
+7:Whimsicott
+8:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,66.6666666667%,2.0
+2:Air Slash,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Return,50.0%,1.5
+2:Dragon Claw,25.0%,0.75
+3:Double-Edge,25.0%,0.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyurem
+2:Smeargle
+3:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon

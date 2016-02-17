@@ -1,0 +1,125 @@
+98:Porygon-Z|76
+ ---------- 
+Moves used:
+1:Hyper Beam,98.6842105263%,75.0
+2:Dark Pulse,76.3157894737%,58.0
+3:Tri Attack,73.6842105263%,56.0
+4:Uproar,67.1052631579%,51.0
+5:Ice Beam,28.9473684211%,22.0
+6:Trick,26.3157894737%,20.0
+7:Shadow Ball,7.89473684211%,6.0
+8:Protect,7.89473684211%,6.0
+9:Thunderbolt,7.89473684211%,6.0
+10:Thunder,3.94736842105%,3.0
+11:Psyshock,1.31578947368%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,94.7368421053%,72.0
+2:Life Orb,3.94736842105%,3.0
+3:Choice Specs,1.31578947368%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,76.0
+
+ ---------- 
+Natures used:
+1:Modest,94.7368421053%,72.0
+2:Timid,5.26315789474%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Yveltal
+5:Kyogre
+6:Crobat
+7:Whimsicott
+8:Kangaskhan
+9:Liepard
+10:Ditto
+11:Thundurus
+12:Amoonguss
+13:Scizor
+14:Talonflame
+15:Rayquaza
+16:Aegislash
+17:Jellicent
+18:Weavile
+19:Mawile
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Beam,79.5454545455%,60.4545454545
+2:Tri Attack,11.3636363636%,8.63636363636
+3:Ice Beam,6.81818181818%,5.18181818182
+4:Uproar,2.27272727273%,1.72727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,12.6666666667
+2:Origin Pulse,11.6666666667%,8.86666666667
+3:Eruption,8.33333333333%,6.33333333333
+4:Water Spout,6.66666666667%,5.06666666667
+5:Hyper Voice,6.66666666667%,5.06666666667
+6:Return,5.0%,3.8
+7:Double-Edge,5.0%,3.8
+8:Power-Up Punch,3.33333333333%,2.53333333333
+9:Gyro Ball,3.33333333333%,2.53333333333
+10:Rock Slide,3.33333333333%,2.53333333333
+11:Precipice Blades,1.66666666667%,1.26666666667
+12:Play Rough,1.66666666667%,1.26666666667
+13:Snarl,1.66666666667%,1.26666666667
+14:Psystrike,1.66666666667%,1.26666666667
+15:Draco Meteor,1.66666666667%,1.26666666667
+16:Flash Cannon,1.66666666667%,1.26666666667
+17:Earth Power,1.66666666667%,1.26666666667
+18:Seed Bomb,1.66666666667%,1.26666666667
+19:Sucker Punch,1.66666666667%,1.26666666667
+20:Close Combat,1.66666666667%,1.26666666667
+0:Other,13.3333333333%,10.1333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Salamence
+5:Crobat
+6:Amoonguss
+7:Yveltal
+8:Talonflame
+9:Kyurem
+10:Landorus
+11:Thundurus
+12:Terrakion
+13:Mienshao
+14:Liepard
+15:Cresselia
+16:Togekiss
+17:Infernape
+18:Rayquaza
+19:Skarmory
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Kangaskhan
+4:Groudon
+5:Landorus
+6:Salamence
+7:Ferrothorn
+8:Rayquaza
+9:Mawile
+10:Yveltal
+11:Gourgeist
+12:Sylveon
+13:Dialga
+14:Infernape
+15:Mewtwo
+16:Mewtwo
+17:Venusaur

@@ -1,0 +1,130 @@
+144:Vaporeon|63
+ ---------- 
+Moves used:
+1:Scald,93.6507936508%,59.0
+2:Icy Wind,60.3174603175%,38.0
+3:Muddy Water,44.4444444444%,28.0
+4:Signal Beam,44.4444444444%,28.0
+5:Ice Beam,33.3333333333%,21.0
+6:Helping Hand,30.1587301587%,19.0
+7:Baby-Doll Eyes,25.3968253968%,16.0
+8:Protect,14.2857142857%,9.0
+9:Haze,11.1111111111%,7.0
+10:Stored Power,6.34920634921%,4.0
+11:Synchronoise,6.34920634921%,4.0
+12:Yawn,6.34920634921%,4.0
+13:Detect,6.34920634921%,4.0
+14:Toxic,6.34920634921%,4.0
+15:Baton Pass,4.7619047619%,3.0
+16:Acid Armor,4.7619047619%,3.0
+17:Fake Tears,1.5873015873%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,44.4444444444%,28.0
+2:Leftovers,36.5079365079%,23.0
+3:Sitrus Berry,12.6984126984%,8.0
+4:Kee Berry,6.34920634921%,4.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,63.0
+
+ ---------- 
+Natures used:
+1:Modest,50.7936507937%,32.0
+2:Calm,38.0952380952%,24.0
+3:Bold,11.1111111111%,7.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Weavile
+4:Kangaskhan
+5:Metagross
+6:Togekiss
+7:Groudon
+8:Xerneas
+9:Smeargle
+10:Cresselia
+11:Talonflame
+12:Ho-Oh
+13:Ditto
+14:Raichu
+15:Ferrothorn
+16:Mienshao
+17:Serperior
+18:Salamence
+19:Zapdos
+20:Sylveon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,41.6666666667%,26.25
+2:Muddy Water,19.4444444444%,12.25
+3:Icy Wind,19.4444444444%,12.25
+4:Ice Beam,16.6666666667%,10.5
+5:Signal Beam,2.77777777778%,1.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,14.2857142857%,9.0
+2:Precipice Blades,11.4285714286%,7.2
+3:Double-Edge,11.4285714286%,7.2
+4:Dazzling Gleam,8.57142857143%,5.4
+5:Dragon Ascent,5.71428571429%,3.6
+6:Frustration,5.71428571429%,3.6
+7:Return,5.71428571429%,3.6
+8:Thunder,5.71428571429%,3.6
+9:Moonblast,2.85714285714%,1.8
+10:Earth Power,2.85714285714%,1.8
+11:Dragon Claw,2.85714285714%,1.8
+12:Eruption,2.85714285714%,1.8
+13:Knock Off,2.85714285714%,1.8
+14:Fake Out,2.85714285714%,1.8
+15:Shadow Ball,2.85714285714%,1.8
+16:Sludge Bomb,2.85714285714%,1.8
+17:Earthquake,2.85714285714%,1.8
+18:Thunderbolt,2.85714285714%,1.8
+19:Fire Punch,2.85714285714%,1.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Mawile
+4:Liepard
+5:Kyogre
+6:Kangaskhan
+7:Yveltal
+8:Xerneas
+9:Thundurus
+10:Terrakion
+11:Chandelure
+12:Cresselia
+13:Giratina
+14:Togekiss
+15:Weavile
+16:Bronzong
+17:Rayquaza
+18:Rayquaza
+19:Ho-Oh
+20:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Ferrothorn
+4:Xerneas
+5:Yveltal
+6:Aegislash
+7:Landorus
+8:Amoonguss
+9:Rotom
+10:Garchomp
+11:Rayquaza
+12:Rayquaza
+13:Kyogre
+14:Kyogre

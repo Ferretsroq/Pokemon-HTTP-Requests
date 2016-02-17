@@ -1,0 +1,63 @@
+120:Arcanine|3
+ ---------- 
+Moves used:
+1:Flare Blitz,100.0%,3.0
+2:Close Combat,100.0%,3.0
+3:Extreme Speed,100.0%,3.0
+4:Iron Head,33.3333333333%,1.0
+5:Helping Hand,33.3333333333%,1.0
+6:Protect,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,33.3333333333%,1.0
+2:Life Orb,33.3333333333%,1.0
+3:Choice Band,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Dialga
+3:Lickilicky
+4:Bronzong
+5:Gastrodon
+6:Rayquaza
+7:Groudon
+8:Sableye
+9:Smeargle
+10:Crobat
+11:Mewtwo
+12:Ditto
+13:Kangaskhan
+14:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,40.0%,1.2
+2:Shadow Ball,20.0%,0.6
+3:Return,20.0%,0.6
+4:Double-Edge,20.0%,0.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Chandelure
+2:Groudon
+3:Salamence
+4:Kangaskhan
+5:Nidoking

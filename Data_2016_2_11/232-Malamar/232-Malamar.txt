@@ -1,0 +1,58 @@
+232:Malamar|5
+ ---------- 
+Moves used:
+1:Knock Off,100.0%,5.0
+2:Superpower,100.0%,5.0
+3:Rock Slide,80.0%,4.0
+4:Hypnosis,80.0%,4.0
+5:Trick Room,20.0%,1.0
+6:Psycho Cut,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Iron Ball,80.0%,4.0
+2:Sitrus Berry,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Brave,80.0%,4.0
+2:Adamant,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Musharna
+2:Metagross
+3:Meowstic
+4:Azelf
+5:Terrakion
+6:Kyogre
+7:Gardevoir
+8:Nidoqueen
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psycho Cut,50.0%,2.5
+2:Rock Slide,50.0%,2.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,20.0%,1.0
+2:Sucker Punch,20.0%,1.0
+3:Water Spout,20.0%,1.0
+4:Thunderbolt,20.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Rotom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Thundurus
+3:Kyogre
+4:Mawile

@@ -1,0 +1,171 @@
+19:Yveltal|150
+ ---------- 
+Moves used:
+1:Protect,72.6666666667%,109.0
+2:Sucker Punch,58.6666666667%,88.0
+3:Oblivion Wing,52.6666666667%,79.0
+4:Snarl,44.6666666667%,67.0
+5:Foul Play,43.3333333333%,65.0
+6:Dark Pulse,36.6666666667%,55.0
+7:Knock Off,32.0%,48.0
+8:Tailwind,24.6666666667%,37.0
+9:Heat Wave,7.33333333333%,11.0
+10:Roost,6.0%,9.0
+11:U-turn,3.33333333333%,5.0
+12:Disable,3.33333333333%,5.0
+13:Taunt,2.66666666667%,4.0
+14:Substitute,2.66666666667%,4.0
+15:Acrobatics,1.33333333333%,2.0
+16:Focus Blast,1.33333333333%,2.0
+17:Swagger,1.33333333333%,2.0
+18:Rock Slide,1.33333333333%,2.0
+19:Sky Drop,0.666666666667%,1.0
+20:Hidden Power,0.666666666667%,1.0
+0:Other,2.66666666667%,4.0
+
+ ---------- 
+Items used:
+1:Life Orb,28.6666666667%,43.0
+2:Black Glasses,20.0%,30.0
+3:Weakness Policy,15.3333333333%,23.0
+4:Assault Vest,11.3333333333%,17.0
+5:Dread Plate,7.33333333333%,11.0
+6:Leftovers,6.66666666667%,10.0
+7:Lum Berry,3.33333333333%,5.0
+8:Sitrus Berry,2.66666666667%,4.0
+9:Persim Berry,2.0%,3.0
+10:Choice Band,1.33333333333%,2.0
+11:Choice Scarf,0.666666666667%,1.0
+12:Power Herb,0.666666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Dark Aura,100.0%,150.0
+
+ ---------- 
+Natures used:
+1:Timid,43.3333333333%,65.0
+2:Adamant,16.0%,24.0
+3:Jolly,13.3333333333%,20.0
+4:Modest,7.33333333333%,11.0
+5:Hasty,6.66666666667%,10.0
+6:Naive,2.66666666667%,4.0
+7:Rash,2.0%,3.0
+8:Quiet,2.0%,3.0
+9:Bold,2.0%,3.0
+10:Calm,1.33333333333%,2.0
+11:Mild,0.666666666667%,1.0
+12:Serious,0.666666666667%,1.0
+13:Docile,0.666666666667%,1.0
+14:Brave,0.666666666667%,1.0
+15:Lonely,0.666666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Kangaskhan
+4:Liepard
+5:Kyogre
+6:Talonflame
+7:Salamence
+8:Ferrothorn
+9:Crobat
+10:Gengar
+11:Cresselia
+12:Thundurus
+13:Xerneas
+14:Landorus
+15:Whimsicott
+16:Rayquaza
+17:Smeargle
+18:Meowstic
+19:Greninja
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,21.2094653812%,31.8141980719
+2:Foul Play,21.0341805434%,31.5512708151
+3:Snarl,16.5644171779%,24.8466257669
+4:Knock Off,13.8475021911%,20.7712532866
+5:Oblivion Wing,12.5328659071%,18.7992988606
+6:Dark Pulse,11.7440841367%,17.6161262051
+7:Heat Wave,2.01577563541%,3.02366345311
+8:Rock Slide,0.262927256792%,0.394390885188
+9:Steel Wing,0.175284837862%,0.262927256792
+10:Sky Attack,0.175284837862%,0.262927256792
+11:Psychic,0.175284837862%,0.262927256792
+12:Acrobatics,0.0876424189308%,0.131463628396
+13:Sky Drop,0.0876424189308%,0.131463628396
+14:Struggle,0.0876424189308%,0.131463628396
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.2566371681%,25.8849557522
+2:Double-Edge,6.28318584071%,9.42477876106
+3:Moonblast,6.19469026549%,9.29203539823
+4:Ice Beam,5.30973451327%,7.96460176991
+5:Origin Pulse,5.13274336283%,7.69911504425
+6:Play Rough,5.04424778761%,7.56637168142
+7:Eruption,4.86725663717%,7.30088495575
+8:Water Spout,3.98230088496%,5.97345132743
+9:Rock Slide,3.98230088496%,5.97345132743
+10:Dragon Ascent,3.89380530973%,5.8407079646
+11:Extreme Speed,3.36283185841%,5.04424778761
+12:Hyper Voice,2.65486725664%,3.98230088496
+13:Return,2.21238938053%,3.3185840708
+14:Gyro Ball,2.03539823009%,3.05309734513
+15:Precipice Blades,1.85840707965%,2.78761061947
+16:Thunderbolt,1.76991150442%,2.65486725664
+17:Brave Bird,1.6814159292%,2.52212389381
+18:Sucker Punch,1.59292035398%,2.38938053097
+19:Thunder,1.2389380531%,1.85840707965
+20:Fire Punch,1.15044247788%,1.72566371681
+0:Other,13.0088495575%,19.5132743363
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Talonflame
+5:Cresselia
+6:Salamence
+7:Rayquaza
+8:Xerneas
+9:Crobat
+10:Landorus
+11:Smeargle
+12:Thundurus
+13:Ferrothorn
+14:Liepard
+15:Whimsicott
+16:Ho-Oh
+17:Amoonguss
+18:Gengar
+19:Rayquaza
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Mawile
+7:Salamence
+8:Ferrothorn
+9:Talonflame
+10:Rayquaza
+11:Landorus
+12:Cresselia
+13:Yveltal
+14:Thundurus
+15:Ho-Oh
+16:Kyurem
+17:Dialga
+18:Weavile
+19:Kyogre
+20:Sylveon

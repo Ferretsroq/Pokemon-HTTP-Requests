@@ -1,0 +1,132 @@
+69:Bisharp|157
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,157.0
+2:Sucker Punch,100.0%,157.0
+3:Knock Off,96.8152866242%,152.0
+4:Protect,84.7133757962%,133.0
+5:Rock Tomb,5.73248407643%,9.0
+6:Low Kick,5.09554140127%,8.0
+7:Poison Jab,3.82165605096%,6.0
+8:Night Slash,2.54777070064%,4.0
+9:Quick Guard,0.636942675159%,1.0
+10:Swords Dance,0.636942675159%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,43.3121019108%,68.0
+2:Life Orb,35.6687898089%,56.0
+3:Choice Scarf,10.1910828025%,16.0
+4:Choice Band,6.36942675159%,10.0
+5:Expert Belt,3.1847133758%,5.0
+6:Lum Berry,1.27388535032%,2.0
+
+ ---------- 
+Abilities used:
+1:Defiant,87.898089172%,138.0
+2:Inner Focus,12.101910828%,19.0
+
+ ---------- 
+Natures used:
+1:Adamant,91.0828025478%,143.0
+2:Jolly,6.36942675159%,10.0
+3:Brave,2.54777070064%,4.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Rayquaza
+3:Talonflame
+4:Groudon
+5:Kyogre
+6:Thundurus
+7:Xerneas
+8:Crobat
+9:Salamence
+10:Mienshao
+11:Smeargle
+12:Dialga
+13:Cresselia
+14:Landorus
+15:Kyurem
+16:Klefki
+17:Dragonite
+18:Giratina
+19:Cherrim
+20:Breloom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,42.4242424242%,66.6060606061
+2:Iron Head,28.7878787879%,45.196969697
+3:Knock Off,28.7878787879%,45.196969697
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.8613861386%,21.7623762376
+2:Eruption,12.8712871287%,20.2079207921
+3:Dazzling Gleam,9.90099009901%,15.5445544554
+4:Low Kick,6.93069306931%,10.8811881188
+5:Moonblast,5.94059405941%,9.32673267327
+6:Origin Pulse,4.9504950495%,7.77227722772
+7:Earth Power,3.9603960396%,6.21782178218
+8:Extreme Speed,3.9603960396%,6.21782178218
+9:Fire Punch,3.9603960396%,6.21782178218
+10:Power-Up Punch,2.9702970297%,4.66336633663
+11:Water Spout,2.9702970297%,4.66336633663
+12:Hyper Voice,2.9702970297%,4.66336633663
+13:Play Rough,1.9801980198%,3.10891089109
+14:Aura Sphere,1.9801980198%,3.10891089109
+15:Knock Off,1.9801980198%,3.10891089109
+16:Earthquake,1.9801980198%,3.10891089109
+17:Foul Play,0.990099009901%,1.55445544554
+18:Grass Knot,0.990099009901%,1.55445544554
+19:Overheat,0.990099009901%,1.55445544554
+20:Sacred Fire,0.990099009901%,1.55445544554
+0:Other,6.93069306931%,10.8811881188
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Cresselia
+5:Groudon
+6:Weavile
+7:Talonflame
+8:Thundurus
+9:Whimsicott
+10:Liepard
+11:Rayquaza
+12:Mawile
+13:Crobat
+14:Clefairy
+15:Gourgeist
+16:Kyurem
+17:Landorus
+18:Terrakion
+19:Mienshao
+20:Gothitelle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Salamence
+7:Liepard
+8:Kyogre
+9:Mawile
+10:Yveltal
+11:Landorus
+12:Thundurus
+13:Palkia
+14:Dialga
+15:Weavile
+16:Rayquaza
+17:Groudon
+18:Sceptile
+19:Ho-Oh
+20:Mewtwo

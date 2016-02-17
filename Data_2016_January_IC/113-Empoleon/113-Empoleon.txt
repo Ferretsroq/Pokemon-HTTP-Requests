@@ -1,0 +1,93 @@
+113:Empoleon|3
+ ---------- 
+Moves used:
+1:Ice Beam,66.6666666667%,2.0
+2:Hydro Pump,66.6666666667%,2.0
+3:Scald,33.3333333333%,1.0
+4:Aqua Jet,33.3333333333%,1.0
+5:Grass Knot,33.3333333333%,1.0
+6:Flash Cannon,33.3333333333%,1.0
+7:Steel Wing,33.3333333333%,1.0
+8:Icy Wind,33.3333333333%,1.0
+9:Protect,33.3333333333%,1.0
+10:Surf,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,33.3333333333%,1.0
+2:Expert Belt,33.3333333333%,1.0
+3:Sitrus Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Torrent,66.6666666667%,2.0
+2:Defiant,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,66.6666666667%,2.0
+2:Quiet,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Rayquaza
+3:Serperior
+4:Rotom
+5:Togekiss
+6:Weavile
+7:Toxicroak
+8:Sableye
+9:Ho-Oh
+10:Crobat
+11:Moltres
+12:Marowak
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,47.619047619%,1.42857142857
+2:Grass Knot,19.0476190476%,0.571428571429
+3:Flash Cannon,14.2857142857%,0.428571428571
+4:Ice Beam,9.52380952381%,0.285714285714
+5:Icy Wind,4.7619047619%,0.142857142857
+6:Surf,4.7619047619%,0.142857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,0.5
+2:Flare Blitz,11.1111111111%,0.333333333333
+3:Water Spout,11.1111111111%,0.333333333333
+4:Thunder,11.1111111111%,0.333333333333
+5:Low Kick,11.1111111111%,0.333333333333
+6:Moonblast,5.55555555556%,0.166666666667
+7:Earth Power,5.55555555556%,0.166666666667
+8:Brave Bird,5.55555555556%,0.166666666667
+9:Eruption,5.55555555556%,0.166666666667
+10:Rock Slide,5.55555555556%,0.166666666667
+11:Fire Punch,5.55555555556%,0.166666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Groudon
+3:Kyogre
+4:Xerneas
+5:Liepard
+6:Rayquaza
+7:Talonflame
+8:Cresselia
+9:Mawile
+10:Mawile
+11:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Xerneas
+5:Landorus
+6:Weavile
+7:Ho-Oh
+8:Kangaskhan

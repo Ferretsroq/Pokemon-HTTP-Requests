@@ -1,0 +1,59 @@
+218:Pikachu|6
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,6.0
+2:Feint,50.0%,3.0
+3:Volt Tackle,50.0%,3.0
+4:Fake Out,50.0%,3.0
+5:Encore,50.0%,3.0
+6:Protect,33.3333333333%,2.0
+7:Quick Attack,33.3333333333%,2.0
+8:Toxic,33.3333333333%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,66.6666666667%,4.0
+2:Eviolite,33.3333333333%,2.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Brave,50.0%,3.0
+2:Jolly,33.3333333333%,2.0
+3:Hasty,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Meowstic
+3:Kyurem
+4:Dialga
+5:Staraptor
+6:Rayquaza
+7:Salamence
+8:Lugia
+9:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,1.2
+2:Eruption,20.0%,1.2
+3:Return,20.0%,1.2
+4:Sludge Bomb,20.0%,1.2
+5:Double-Edge,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Kangaskhan
+4:Gengar

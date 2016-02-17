@@ -1,0 +1,114 @@
+139:Houndoom|47
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,47.0
+2:Protect,100.0%,47.0
+3:Heat Wave,57.4468085106%,27.0
+4:Role Play,46.8085106383%,22.0
+5:Overheat,38.2978723404%,18.0
+6:Solar Beam,38.2978723404%,18.0
+7:Flamethrower,6.3829787234%,3.0
+8:Foul Play,4.25531914894%,2.0
+9:Feint,2.12765957447%,1.0
+10:Taunt,2.12765957447%,1.0
+11:Hidden Power,2.12765957447%,1.0
+12:Sludge Bomb,2.12765957447%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,100.0%,47.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,97.8723404255%,46.0
+2:Unnerve,2.12765957447%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,72.3404255319%,34.0
+2:Modest,27.6595744681%,13.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mewtwo
+3:Xerneas
+4:Whimsicott
+5:Crobat
+6:Purugly
+7:Yveltal
+8:Landorus
+9:Talonflame
+10:Ferrothorn
+11:Weavile
+12:Staraptor
+13:Ditto
+14:Aegislash
+15:Kyurem
+16:Liepard
+17:Giratina
+18:Cradily
+19:Lapras
+20:Cloyster
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,46.1538461538%,21.6923076923
+2:Dark Pulse,42.3076923077%,19.8846153846
+3:Foul Play,3.84615384615%,1.80769230769
+4:Overheat,3.84615384615%,1.80769230769
+5:Solar Beam,3.84615384615%,1.80769230769
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.1578947368%,6.18421052632
+2:Dazzling Gleam,13.1578947368%,6.18421052632
+3:Earth Power,10.5263157895%,4.94736842105
+4:Double-Edge,10.5263157895%,4.94736842105
+5:Earthquake,7.89473684211%,3.71052631579
+6:Low Kick,7.89473684211%,3.71052631579
+7:Brave Bird,5.26315789474%,2.47368421053
+8:Sucker Punch,5.26315789474%,2.47368421053
+9:Waterfall,5.26315789474%,2.47368421053
+10:Dragon Ascent,2.63157894737%,1.23684210526
+11:Origin Pulse,2.63157894737%,1.23684210526
+12:Land's Wrath,2.63157894737%,1.23684210526
+13:Dragon Claw,2.63157894737%,1.23684210526
+14:Water Spout,2.63157894737%,1.23684210526
+15:Extreme Speed,2.63157894737%,1.23684210526
+16:Return,2.63157894737%,1.23684210526
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Gengar
+3:Cresselia
+4:Kyogre
+5:Smeargle
+6:Crobat
+7:Xerneas
+8:Aegislash
+9:Meowstic
+10:Vivillon
+11:Talonflame
+12:Kyurem
+13:Infernape
+14:Sceptile
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Rayquaza
+5:Landorus
+6:Rayquaza
+7:Kyogre
+8:Salamence
+9:Zygarde
+10:Talonflame
+11:Palkia
+12:Mawile
+13:Blaziken
+14:Ho-Oh

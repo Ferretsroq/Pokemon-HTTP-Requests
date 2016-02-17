@@ -1,0 +1,128 @@
+132:Arcanine|57
+ ---------- 
+Moves used:
+1:Flare Blitz,70.1754385965%,40.0
+2:Extreme Speed,70.1754385965%,40.0
+3:Close Combat,64.9122807018%,37.0
+4:Wild Charge,59.649122807%,34.0
+5:Will-O-Wisp,29.8245614035%,17.0
+6:Protect,24.5614035088%,14.0
+7:Snarl,22.8070175439%,13.0
+8:Heat Wave,14.0350877193%,8.0
+9:Morning Sun,14.0350877193%,8.0
+10:Overheat,8.77192982456%,5.0
+11:Roar,8.77192982456%,5.0
+12:Iron Head,5.26315789474%,3.0
+13:Flamethrower,5.26315789474%,3.0
+14:Hidden Power,1.75438596491%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,33.3333333333%,19.0
+2:Life Orb,26.3157894737%,15.0
+3:Sitrus Berry,14.0350877193%,8.0
+4:Lum Berry,8.77192982456%,5.0
+5:Safety Goggles,5.26315789474%,3.0
+6:Assault Vest,5.26315789474%,3.0
+7:Leftovers,5.26315789474%,3.0
+8:Weakness Policy,1.75438596491%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,57.0
+
+ ---------- 
+Natures used:
+1:Adamant,63.1578947368%,36.0
+2:Calm,15.7894736842%,9.0
+3:Bold,12.2807017544%,7.0
+4:Jolly,7.01754385965%,4.0
+5:Impish,1.75438596491%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Kangaskhan
+6:Xerneas
+7:Togekiss
+8:Aegislash
+9:Pikachu
+10:Whimsicott
+11:Crobat
+12:Thundurus
+13:Smeargle
+14:Gengar
+15:Yveltal
+16:Gothitelle
+17:Liepard
+18:Dialga
+19:Gastrodon
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,39.1304347826%,22.3043478261
+2:Extreme Speed,34.7826086957%,19.8260869565
+3:Close Combat,13.0434782609%,7.4347826087
+4:Wild Charge,4.34782608696%,2.47826086957
+5:Overheat,4.34782608696%,2.47826086957
+6:Heat Wave,4.34782608696%,2.47826086957
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,21.9512195122%,12.512195122
+2:Precipice Blades,12.1951219512%,6.9512195122
+3:Hyper Voice,9.75609756098%,5.56097560976
+4:Origin Pulse,7.31707317073%,4.17073170732
+5:Water Spout,7.31707317073%,4.17073170732
+6:Extreme Speed,4.87804878049%,2.78048780488
+7:Rock Slide,4.87804878049%,2.78048780488
+8:Double-Edge,4.87804878049%,2.78048780488
+9:Dragon Ascent,2.43902439024%,1.39024390244
+10:Oblivion Wing,2.43902439024%,1.39024390244
+11:Moonblast,2.43902439024%,1.39024390244
+12:Psystrike,2.43902439024%,1.39024390244
+13:Knock Off,2.43902439024%,1.39024390244
+14:Earthquake,2.43902439024%,1.39024390244
+15:Seismic Toss,2.43902439024%,1.39024390244
+16:Surf,2.43902439024%,1.39024390244
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Ferrothorn
+4:Klefki
+5:Landorus
+6:Bisharp
+7:Liepard
+8:Cresselia
+9:Rayquaza
+10:Groudon
+11:Kyogre
+12:Mawile
+13:Gardevoir
+14:Ludicolo
+15:Lugia
+16:Smeargle
+17:Jumpluff
+18:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Rayquaza
+5:Landorus
+6:Kangaskhan
+7:Yveltal
+8:Xerneas
+9:Greninja
+10:Weavile
+11:Rayquaza
+12:Mewtwo
+13:Chansey

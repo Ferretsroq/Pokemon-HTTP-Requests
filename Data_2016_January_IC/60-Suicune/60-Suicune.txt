@@ -1,0 +1,128 @@
+60:Suicune|13
+ ---------- 
+Moves used:
+1:Scald,92.3076923077%,12.0
+2:Tailwind,69.2307692308%,9.0
+3:Ice Beam,53.8461538462%,7.0
+4:Snarl,46.1538461538%,6.0
+5:Icy Wind,38.4615384615%,5.0
+6:Protect,30.7692307692%,4.0
+7:Calm Mind,23.0769230769%,3.0
+8:Shadow Ball,7.69230769231%,1.0
+9:Psych Up,7.69230769231%,1.0
+10:Mirror Coat,7.69230769231%,1.0
+11:Rest,7.69230769231%,1.0
+12:Reflect,7.69230769231%,1.0
+13:Toxic,7.69230769231%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,30.7692307692%,4.0
+2:Sitrus Berry,30.7692307692%,4.0
+3:Rocky Helmet,15.3846153846%,2.0
+4:Maranga Berry,7.69230769231%,1.0
+5:Assault Vest,7.69230769231%,1.0
+6:Lum Berry,7.69230769231%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Bold,53.8461538462%,7.0
+2:Calm,30.7692307692%,4.0
+3:Modest,7.69230769231%,1.0
+4:Timid,7.69230769231%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Rayquaza
+5:Kangaskhan
+6:Landorus
+7:Thundurus
+8:Ferrothorn
+9:Kyogre
+10:Kyurem
+11:Terrakion
+12:Cresselia
+13:Mawile
+14:Sableye
+15:Gardevoir
+16:Ho-Oh
+17:Greninja
+18:Kyurem
+19:Zekrom
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,34.7826086957%,4.52173913043
+2:Icy Wind,34.7826086957%,4.52173913043
+3:Snarl,13.0434782609%,1.69565217391
+4:Ice Beam,13.0434782609%,1.69565217391
+5:Shadow Ball,4.34782608696%,0.565217391304
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.3265306122%,2.12244897959
+2:Water Spout,10.2040816327%,1.32653061224
+3:Dazzling Gleam,8.16326530612%,1.0612244898
+4:Double-Edge,8.16326530612%,1.0612244898
+5:Moonblast,6.12244897959%,0.795918367347
+6:Dragon Ascent,4.08163265306%,0.530612244898
+7:Origin Pulse,4.08163265306%,0.530612244898
+8:Power Whip,4.08163265306%,0.530612244898
+9:Eruption,4.08163265306%,0.530612244898
+10:Extreme Speed,4.08163265306%,0.530612244898
+11:Thunderbolt,4.08163265306%,0.530612244898
+12:Wild Charge,2.04081632653%,0.265306122449
+13:Earth Power,2.04081632653%,0.265306122449
+14:Brave Bird,2.04081632653%,0.265306122449
+15:Dragon Pulse,2.04081632653%,0.265306122449
+16:Sucker Punch,2.04081632653%,0.265306122449
+17:Assurance,2.04081632653%,0.265306122449
+18:Gyro Ball,2.04081632653%,0.265306122449
+19:Knock Off,2.04081632653%,0.265306122449
+20:Frustration,2.04081632653%,0.265306122449
+0:Other,8.16326530612%,1.0612244898
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Landorus
+3:Salamence
+4:Rayquaza
+5:Groudon
+6:Kangaskhan
+7:Xerneas
+8:Greninja
+9:Liepard
+10:Infernape
+11:Kyogre
+12:Hitmontop
+13:Smeargle
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Thundurus
+6:Ferrothorn
+7:Rayquaza
+8:Dialga
+9:Salamence
+10:Landorus
+11:Weavile
+12:Rayquaza
+13:Groudon
+14:Kyogre
+15:Mawile
+16:Ho-Oh
+17:Smeargle

@@ -1,0 +1,141 @@
+87:Nidoking|203
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,203.0
+2:Sludge Bomb,79.802955665%,162.0
+3:Ice Beam,63.0541871921%,128.0
+4:Protect,62.5615763547%,127.0
+5:Flamethrower,26.6009852217%,54.0
+6:Poison Jab,17.7339901478%,36.0
+7:Thunderbolt,14.2857142857%,29.0
+8:Fire Blast,9.85221674877%,20.0
+9:Thunder,9.85221674877%,20.0
+10:Focus Blast,6.4039408867%,13.0
+11:Sludge Wave,4.43349753695%,9.0
+12:Sucker Punch,2.95566502463%,6.0
+13:Helping Hand,1.97044334975%,4.0
+14:Disable,0.492610837438%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,63.0541871921%,128.0
+2:Choice Scarf,23.1527093596%,47.0
+3:Focus Sash,12.315270936%,25.0
+4:Expert Belt,0.492610837438%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,99.0147783251%,201.0
+2:Poison Point,0.985221674877%,2.0
+
+ ---------- 
+Natures used:
+1:Modest,33.4975369458%,68.0
+2:Timid,33.4975369458%,68.0
+3:Quiet,22.1674876847%,45.0
+4:Jolly,7.88177339901%,16.0
+5:Hasty,1.97044334975%,4.0
+6:Naive,0.985221674877%,2.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Xerneas
+5:Talonflame
+6:Crobat
+7:Rayquaza
+8:Yveltal
+9:Weavile
+10:Ferrothorn
+11:Smeargle
+12:Dialga
+13:Mienshao
+14:Cresselia
+15:Tornadus
+16:Liepard
+17:Giratina
+18:Gengar
+19:Salamence
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,44.1176470588%,89.5588235294
+2:Sludge Bomb,30.3921568627%,61.6960784314
+3:Ice Beam,16.6666666667%,33.8333333333
+4:Poison Jab,3.92156862745%,7.96078431373
+5:Sludge Wave,1.96078431373%,3.98039215686
+6:Thunder,1.96078431373%,3.98039215686
+7:Flamethrower,0.980392156863%,1.99019607843
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.51063829787%,17.2765957447
+2:Origin Pulse,8.51063829787%,17.2765957447
+3:Dazzling Gleam,8.51063829787%,17.2765957447
+4:Double-Edge,8.51063829787%,17.2765957447
+5:Earth Power,7.80141843972%,15.8368794326
+6:Sucker Punch,7.09219858156%,14.3971631206
+7:Water Spout,6.3829787234%,12.9574468085
+8:Eruption,5.67375886525%,11.5177304965
+9:Ice Beam,4.25531914894%,8.63829787234
+10:Brave Bird,3.54609929078%,7.19858156028
+11:Extreme Speed,3.54609929078%,7.19858156028
+12:Moonblast,2.83687943262%,5.75886524823
+13:Hyper Voice,2.83687943262%,5.75886524823
+14:Return,2.83687943262%,5.75886524823
+15:Zen Headbutt,1.41843971631%,2.87943262411
+16:Shadow Sneak,1.41843971631%,2.87943262411
+17:Overheat,1.41843971631%,2.87943262411
+18:Rock Slide,1.41843971631%,2.87943262411
+19:Psychic,1.41843971631%,2.87943262411
+20:Blizzard,1.41843971631%,2.87943262411
+0:Other,10.6382978723%,21.5957446809
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Talonflame
+5:Thundurus
+6:Amoonguss
+7:Salamence
+8:Mawile
+9:Smeargle
+10:Landorus
+11:Whimsicott
+12:Liepard
+13:Crobat
+14:Gengar
+15:Ferrothorn
+16:Togekiss
+17:Ho-Oh
+18:Yveltal
+19:Klefki
+20:Kyurem
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Mawile
+8:Talonflame
+9:Aegislash
+10:Cresselia
+11:Palkia
+12:Kyurem
+13:Infernape
+14:Metagross
+15:Ho-Oh
+16:Mewtwo
+17:Yveltal
+18:Meowstic
+19:Landorus
+20:Terrakion

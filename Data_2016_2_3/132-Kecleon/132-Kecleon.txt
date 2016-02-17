@@ -1,0 +1,81 @@
+132:Kecleon|33
+ ---------- 
+Moves used:
+1:Trick Room,75.7575757576%,25.0
+2:Feint,75.7575757576%,25.0
+3:Skill Swap,75.7575757576%,25.0
+4:Swagger,51.5151515152%,17.0
+5:Low Kick,36.3636363636%,12.0
+6:Shadow Sneak,24.2424242424%,8.0
+7:Sucker Punch,24.2424242424%,8.0
+8:Fake Out,24.2424242424%,8.0
+9:Foul Play,6.06060606061%,2.0
+10:After You,3.0303030303%,1.0
+11:Protect,3.0303030303%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,75.7575757576%,25.0
+2:Expert Belt,24.2424242424%,8.0
+
+ ---------- 
+Abilities used:
+1:Protean,100.0%,33.0
+
+ ---------- 
+Natures used:
+1:Careful,75.7575757576%,25.0
+2:Adamant,24.2424242424%,8.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Smeargle
+4:Mawile
+5:Weavile
+6:Salamence
+7:Crobat
+8:Xerneas
+9:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,50.0%,16.5
+2:Feint,33.3333333333%,11.0
+3:Sucker Punch,16.6666666667%,5.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,18.75%,6.1875
+2:Draco Meteor,12.5%,4.125
+3:Brave Bird,12.5%,4.125
+4:Precipice Blades,6.25%,2.0625
+5:Origin Pulse,6.25%,2.0625
+6:Dazzling Gleam,6.25%,2.0625
+7:Seed Bomb,6.25%,2.0625
+8:Hyper Voice,6.25%,2.0625
+9:Knock Off,6.25%,2.0625
+10:Superpower,6.25%,2.0625
+11:Extreme Speed,6.25%,2.0625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Kyurem
+3:Rayquaza
+4:Kyogre
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Rayquaza
+3:Salamence
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Landorus
+8:Ferrothorn
+9:Groudon
+10:Ho-Oh

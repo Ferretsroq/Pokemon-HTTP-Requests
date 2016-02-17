@@ -1,0 +1,157 @@
+32:Scizor|1743
+ ---------- 
+Moves used:
+1:Bullet Punch,100.0%,1743.0
+2:Protect,82.5014343087%,1438.0
+3:Bug Bite,69.6500286862%,1214.0
+4:Swords Dance,65.7487091222%,1146.0
+5:Feint,27.4813539874%,479.0
+6:Knock Off,18.1870338497%,317.0
+7:Superpower,13.88410786%,242.0
+8:Tailwind,10.4991394148%,183.0
+9:U-turn,5.16351118761%,90.0
+10:Quick Guard,3.49971313827%,61.0
+11:Iron Head,1.54905335628%,27.0
+12:X-Scissor,0.516351118761%,9.0
+13:Aerial Ace,0.516351118761%,9.0
+14:Roost,0.344234079174%,6.0
+15:Brick Break,0.172117039587%,3.0
+16:Thief,0.114744693058%,2.0
+17:Quick Attack,0.114744693058%,2.0
+18:Night Slash,0.057372346529%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,47.9059093517%,835.0
+2:Life Orb,16.924842226%,295.0
+3:Scizorite,15.1462994836%,264.0
+4:Choice Band,7.28628800918%,127.0
+5:Expert Belt,2.86861732645%,50.0
+6:Safety Goggles,2.75387263339%,48.0
+7:Sitrus Berry,2.69650028686%,47.0
+8:Focus Sash,1.43430866322%,25.0
+9:Metal Coat,0.803212851406%,14.0
+10:Iron Plate,0.631095811819%,11.0
+11:Occa Berry,0.57372346529%,10.0
+12:Assault Vest,0.516351118761%,9.0
+13:Rocky Helmet,0.286861732645%,5.0
+14:Chesto Berry,0.114744693058%,2.0
+15:Leftovers,0.057372346529%,1.0
+
+ ---------- 
+Abilities used:
+1:Technician,99.3689041882%,1732.0
+2:Swarm,0.344234079174%,6.0
+3:Light Metal,0.286861732645%,5.0
+
+ ---------- 
+Natures used:
+1:Adamant,94.5496270797%,1648.0
+2:Brave,3.84394721744%,67.0
+3:Jolly,0.803212851406%,14.0
+4:Impish,0.688468158348%,12.0
+5:Careful,0.114744693058%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Gengar
+5:Kangaskhan
+6:Salamence
+7:Xerneas
+8:Talonflame
+9:Thundurus
+10:Liepard
+11:Crobat
+12:Mienshao
+13:Raichu
+14:Yveltal
+15:Ho-Oh
+16:Landorus
+17:Cresselia
+18:Palkia
+19:Greninja
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Punch,60.7547169811%,1058.95471698
+2:Bug Bite,20.7547169811%,361.754716981
+3:Feint,11.320754717%,197.320754717
+4:Superpower,3.39622641509%,59.1962264151
+5:Knock Off,2.64150943396%,46.041509434
+6:Iron Head,0.566037735849%,9.86603773585
+7:U-turn,0.471698113208%,8.22169811321
+8:X-Scissor,0.0943396226415%,1.64433962264
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,13.982300885%,243.711504425
+2:Origin Pulse,8.3185840708%,144.992920354
+3:Water Spout,6.90265486726%,120.313274336
+4:Precipice Blades,6.81415929204%,118.77079646
+5:Flamethrower,5.66371681416%,98.7185840708
+6:Fire Punch,5.04424778761%,87.9212389381
+7:Dazzling Gleam,4.51327433628%,78.6663716814
+8:Dragon Ascent,3.71681415929%,64.7840707965
+9:Overheat,3.71681415929%,64.7840707965
+10:Hyper Voice,3.45132743363%,60.1566371681
+11:Earth Power,2.9203539823%,50.9017699115
+12:Flare Blitz,2.9203539823%,50.9017699115
+13:Brave Bird,2.56637168142%,44.7318584071
+14:Sucker Punch,2.47787610619%,43.189380531
+15:Double-Edge,1.85840707965%,32.3920353982
+16:Earthquake,1.50442477876%,26.2221238938
+17:Moonblast,1.41592920354%,24.6796460177
+18:Foul Play,1.2389380531%,21.5946902655
+19:Fire Blast,1.15044247788%,20.0522123894
+20:Shadow Ball,1.06194690265%,18.5097345133
+0:Other,14.1592920354%,246.796460177
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Cresselia
+4:Smeargle
+5:Kyogre
+6:Rayquaza
+7:Ferrothorn
+8:Liepard
+9:Whimsicott
+10:Groudon
+11:Weavile
+12:Talonflame
+13:Amoonguss
+14:Crobat
+15:Salamence
+16:Togekiss
+17:Meowstic
+18:Gengar
+19:Mawile
+20:Landorus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Rayquaza
+6:Talonflame
+7:Kangaskhan
+8:Yveltal
+9:Landorus
+10:Palkia
+11:Mawile
+12:Ho-Oh
+13:Thundurus
+14:Dialga
+15:Rayquaza
+16:Gengar
+17:Liepard
+18:Aegislash
+19:Lugia
+20:Mewtwo

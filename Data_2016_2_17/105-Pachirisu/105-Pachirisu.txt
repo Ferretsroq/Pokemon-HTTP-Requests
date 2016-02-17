@@ -1,0 +1,115 @@
+105:Pachirisu|138
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,138.0
+2:Super Fang,95.652173913%,132.0
+3:Protect,92.0289855072%,127.0
+4:Nuzzle,89.1304347826%,123.0
+5:Helping Hand,12.3188405797%,17.0
+6:Endure,5.07246376812%,7.0
+7:Fake Tears,3.6231884058%,5.0
+8:Light Screen,1.44927536232%,2.0
+9:Volt Switch,0.724637681159%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,36.231884058%,50.0
+2:Air Balloon,23.9130434783%,33.0
+3:Lum Berry,23.1884057971%,32.0
+4:Mental Herb,15.2173913043%,21.0
+5:Shuca Berry,1.44927536232%,2.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,60.1449275362%,83.0
+2:Pickup,39.1304347826%,54.0
+3:Run Away,0.724637681159%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,49.2753623188%,68.0
+2:Careful,24.6376811594%,34.0
+3:Jolly,23.1884057971%,32.0
+4:Bold,2.89855072464%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Rayquaza
+4:Smeargle
+5:Ditto
+6:Landorus
+7:Metagross
+8:Talonflame
+9:Liepard
+10:Lopunny
+11:Groudon
+12:Kangaskhan
+13:Lugia
+14:Klefki
+15:Tornadus
+16:Serperior
+17:Gallade
+18:Clefable
+19:Dialga
+20:Sylveon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nuzzle,75.0%,103.5
+2:Struggle,25.0%,34.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.8205128205%,17.6923076923
+2:Precipice Blades,11.9658119658%,16.5128205128
+3:Water Spout,11.1111111111%,15.3333333333
+4:Eruption,9.40170940171%,12.9743589744
+5:Origin Pulse,5.98290598291%,8.25641025641
+6:Brave Bird,3.4188034188%,4.71794871795
+7:Earthquake,3.4188034188%,4.71794871795
+8:Ice Beam,3.4188034188%,4.71794871795
+9:Moonblast,2.5641025641%,3.53846153846
+10:Power Whip,2.5641025641%,3.53846153846
+11:Sludge Bomb,2.5641025641%,3.53846153846
+12:Play Rough,1.7094017094%,2.35897435897
+13:Psystrike,1.7094017094%,2.35897435897
+14:Extreme Speed,1.7094017094%,2.35897435897
+15:Return,1.7094017094%,2.35897435897
+16:High Jump Kick,1.7094017094%,2.35897435897
+17:Double-Edge,1.7094017094%,2.35897435897
+18:Power-Up Punch,0.854700854701%,1.17948717949
+19:Snarl,0.854700854701%,1.17948717949
+20:Scald,0.854700854701%,1.17948717949
+0:Other,14.5299145299%,20.0512820513
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Greninja
+2:Whimsicott
+3:Sableye
+4:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Landorus
+7:Ferrothorn
+8:Mienshao
+9:Mawile
+10:Gengar
+11:Yveltal
+12:Kyogre
+13:Salamence
+14:Aegislash
+15:Kyurem
+16:Liepard
+17:Cresselia
+18:Weavile
+19:Lucario
+20:Garchomp

@@ -1,0 +1,118 @@
+111:Toxicroak|54
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,54.0
+2:Feint,70.3703703704%,38.0
+3:Low Kick,64.8148148148%,35.0
+4:Gunk Shot,57.4074074074%,31.0
+5:Poison Jab,42.5925925926%,23.0
+6:Drain Punch,35.1851851852%,19.0
+7:Sucker Punch,20.3703703704%,11.0
+8:Protect,9.25925925926%,5.0
+
+ ---------- 
+Items used:
+1:Assault Vest,70.3703703704%,38.0
+2:Focus Sash,12.962962963%,7.0
+3:Lum Berry,9.25925925926%,5.0
+4:Life Orb,7.40740740741%,4.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,100.0%,54.0
+
+ ---------- 
+Natures used:
+1:Adamant,74.0740740741%,40.0
+2:Jolly,25.9259259259%,14.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Gothitelle
+3:Kangaskhan
+4:Mawile
+5:Yveltal
+6:Weavile
+7:Salamence
+8:Gengar
+9:Mewtwo
+10:Jynx
+11:Groudon
+12:Hydreigon
+13:Xerneas
+14:Talonflame
+15:Dialga
+16:Jumpluff
+17:Ferrothorn
+18:Cresselia
+19:Rotom
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,33.3333333333%,18.0
+2:Gunk Shot,19.0476190476%,10.2857142857
+3:Drain Punch,19.0476190476%,10.2857142857
+4:Poison Jab,14.2857142857%,7.71428571429
+5:Sucker Punch,4.7619047619%,2.57142857143
+6:Fake Out,4.7619047619%,2.57142857143
+7:Low Kick,4.7619047619%,2.57142857143
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,9.375%,5.0625
+2:Earthquake,9.375%,5.0625
+3:Precipice Blades,6.25%,3.375
+4:Iron Head,6.25%,3.375
+5:Eruption,6.25%,3.375
+6:Extreme Speed,6.25%,3.375
+7:Return,6.25%,3.375
+8:Ice Beam,6.25%,3.375
+9:Double-Edge,6.25%,3.375
+10:Dazzling Gleam,3.125%,1.6875
+11:Play Rough,3.125%,1.6875
+12:Bullet Punch,3.125%,1.6875
+13:Giga Impact,3.125%,1.6875
+14:Earth Power,3.125%,1.6875
+15:Brave Bird,3.125%,1.6875
+16:Hyper Voice,3.125%,1.6875
+17:Sacred Fire,3.125%,1.6875
+18:Psychic,3.125%,1.6875
+19:Thunderbolt,3.125%,1.6875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Dialga
+3:Weavile
+4:Jumpluff
+5:Ferrothorn
+6:Amoonguss
+7:Whimsicott
+8:Togekiss
+9:Magnezone
+10:Rayquaza
+11:Kyogre
+12:Smeargle
+13:Zapdos
+14:Kangaskhan
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Landorus
+4:Rayquaza
+5:Cresselia
+6:Rayquaza
+7:Mawile
+8:Xerneas
+9:Talonflame
+10:Thundurus
+11:Escavalier
+12:Kyogre
+13:Salamence
+14:Ho-Oh
+15:Scizor

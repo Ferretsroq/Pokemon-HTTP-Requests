@@ -1,0 +1,108 @@
+102:Lilligant|67
+ ---------- 
+Moves used:
+1:After You,97.0149253731%,65.0
+2:Sleep Powder,95.5223880597%,64.0
+3:Grass Knot,74.6268656716%,50.0
+4:Protect,74.6268656716%,50.0
+5:Teeter Dance,20.8955223881%,14.0
+6:Healing Wish,17.9104477612%,12.0
+7:Role Play,5.97014925373%,4.0
+8:Worry Seed,4.4776119403%,3.0
+9:Hidden Power,4.4776119403%,3.0
+10:Leaf Storm,1.49253731343%,1.0
+11:Helping Hand,1.49253731343%,1.0
+12:Safeguard,1.49253731343%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,89.552238806%,60.0
+2:Coba Berry,4.4776119403%,3.0
+3:Life Orb,2.98507462687%,2.0
+4:Mental Herb,2.98507462687%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,67.0
+
+ ---------- 
+Natures used:
+1:Timid,73.1343283582%,49.0
+2:Jolly,17.9104477612%,12.0
+3:Modest,5.97014925373%,4.0
+4:Hasty,2.98507462687%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Landorus
+5:Xerneas
+6:Thundurus
+7:Thundurus
+8:Salamence
+9:Palkia
+10:Crobat
+11:Cresselia
+12:Giratina
+13:Weavile
+14:Kyogre
+15:Mawile
+16:Ho-Oh
+17:Yveltal
+18:Aegislash
+19:Gothitelle
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,67.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.4545454545%,13.7045454545
+2:Brave Bird,11.3636363636%,7.61363636364
+3:Hyper Voice,9.09090909091%,6.09090909091
+4:Double-Edge,9.09090909091%,6.09090909091
+5:Moonblast,6.81818181818%,4.56818181818
+6:Ice Beam,4.54545454545%,3.04545454545
+7:Precipice Blades,2.27272727273%,1.52272727273
+8:Origin Pulse,2.27272727273%,1.52272727273
+9:Oblivion Wing,2.27272727273%,1.52272727273
+10:Iron Head,2.27272727273%,1.52272727273
+11:Shadow Sneak,2.27272727273%,1.52272727273
+12:Dragon Pulse,2.27272727273%,1.52272727273
+13:Water Spout,2.27272727273%,1.52272727273
+14:Overheat,2.27272727273%,1.52272727273
+15:Eruption,2.27272727273%,1.52272727273
+16:Fake Out,2.27272727273%,1.52272727273
+17:Shadow Ball,2.27272727273%,1.52272727273
+18:Return,2.27272727273%,1.52272727273
+19:Flamethrower,2.27272727273%,1.52272727273
+20:Fire Punch,2.27272727273%,1.52272727273
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Whimsicott
+3:Cresselia
+4:Groudon
+5:Smeargle
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Kangaskhan
+5:Talonflame
+6:Cresselia
+7:Kyogre
+8:Ho-Oh
+9:Yveltal
+10:Giratina
+11:Dialga
+12:Mawile
+13:Gengar

@@ -1,0 +1,50 @@
+226:Gourgeist-Small|4
+ ---------- 
+Moves used:
+1:Trick-or-Treat,100.0%,4.0
+2:Magic Coat,75.0%,3.0
+3:Will-O-Wisp,75.0%,3.0
+4:Protect,75.0%,3.0
+5:Trick Room,25.0%,1.0
+6:Trick,25.0%,1.0
+7:Destiny Bond,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,75.0%,3.0
+2:Choice Scarf,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,75.0%,3.0
+2:Jolly,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Mawile
+3:Talonflame
+4:Xerneas
+5:Kyurem
+6:Liepard
+7:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,50.0%,2.0
+2:Eruption,50.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Sylveon
+2:Groudon

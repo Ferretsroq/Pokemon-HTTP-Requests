@@ -1,0 +1,159 @@
+19:Amoonguss|3332
+ ---------- 
+Moves used:
+1:Spore,100.0%,3332.0
+2:Rage Powder,99.849939976%,3327.0
+3:Protect,87.725090036%,2923.0
+4:Grass Knot,44.2977190876%,1476.0
+5:Clear Smog,25.3601440576%,845.0
+6:Giga Drain,22.7190876351%,757.0
+7:Foul Play,7.56302521008%,252.0
+8:Sludge Bomb,6.39255702281%,213.0
+9:Energy Ball,1.92076830732%,64.0
+10:Hidden Power,1.5606242497%,52.0
+11:Gastro Acid,0.960384153661%,32.0
+12:Synthesis,0.390156062425%,13.0
+13:After You,0.360144057623%,12.0
+14:Worry Seed,0.360144057623%,12.0
+15:Seed Bomb,0.120048019208%,4.0
+16:Sunny Day,0.120048019208%,4.0
+17:Substitute,0.120048019208%,4.0
+18:Mega Drain,0.120048019208%,4.0
+19:Rest,0.0300120048019%,1.0
+20:Bide,0.0300120048019%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,31.4825930372%,1049.0
+2:Sitrus Berry,18.337334934%,611.0
+3:Rocky Helmet,14.1056422569%,470.0
+4:Lum Berry,9.4237695078%,314.0
+5:Coba Berry,7.53301320528%,251.0
+6:Occa Berry,6.48259303721%,216.0
+7:Focus Sash,5.61224489796%,187.0
+8:Red Card,1.80072028812%,60.0
+9:Black Sludge,1.74069627851%,58.0
+10:Leftovers,1.5606242497%,52.0
+11:Eject Button,0.900360144058%,30.0
+12:Yache Berry,0.63025210084%,21.0
+13:Chesto Berry,0.360144057623%,12.0
+14:Power Herb,0.0300120048019%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,90.0360144058%,3000.0
+2:Effect Spore,9.96398559424%,332.0
+
+ ---------- 
+Natures used:
+1:Sassy,53.7515006002%,1791.0
+2:Relaxed,26.6206482593%,887.0
+3:Calm,11.6146458583%,387.0
+4:Bold,7.14285714286%,238.0
+5:Impish,0.690276110444%,23.0
+6:Timid,0.0900360144058%,3.0
+7:Quiet,0.0600240096038%,2.0
+8:Modest,0.0300120048019%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Cresselia
+7:Rayquaza
+8:Talonflame
+9:Liepard
+10:Mawile
+11:Landorus
+12:Smeargle
+13:Crobat
+14:Dialga
+15:Palkia
+16:Ho-Oh
+17:Gengar
+18:Thundurus
+19:Mewtwo
+20:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,46.5189873418%,1550.01265823
+2:Giga Drain,22.7848101266%,759.189873418
+3:Clear Smog,12.9746835443%,432.316455696
+4:Sludge Bomb,7.91139240506%,263.607594937
+5:Foul Play,6.96202531646%,231.974683544
+6:Energy Ball,1.58227848101%,52.7215189873
+7:Hidden Power,1.26582278481%,42.1772151899
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,10.3%,343.196
+2:Eruption,8.55%,284.886
+3:Double-Edge,8.2%,273.224
+4:Dragon Ascent,8.1%,269.892
+5:Brave Bird,7.9%,263.228
+6:Precipice Blades,5.6%,186.592
+7:Return,3.2%,106.624
+8:Hyper Voice,3.15%,104.958
+9:Overheat,2.85%,94.962
+10:Fire Punch,2.55%,84.966
+11:Dazzling Gleam,2.5%,83.3
+12:Iron Head,2.5%,83.3
+13:Water Spout,2.4%,79.968
+14:Origin Pulse,2.35%,78.302
+15:Flamethrower,1.95%,64.974
+16:Psychic,1.7%,56.644
+17:Moonblast,1.6%,53.312
+18:Flare Blitz,1.55%,51.646
+19:Earth Power,1.25%,41.65
+20:Shadow Ball,1.15%,38.318
+0:Other,19.7%,656.404
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Whimsicott
+5:Kangaskhan
+6:Liepard
+7:Smeargle
+8:Cresselia
+9:Thundurus
+10:Crobat
+11:Gengar
+12:Landorus
+13:Rayquaza
+14:Mienshao
+15:Ferrothorn
+16:Lapras
+17:Gengar
+18:Gourgeist
+19:Talonflame
+20:Gastrodon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Xerneas
+8:Cresselia
+9:Mawile
+10:Rayquaza
+11:Yveltal
+12:Dialga
+13:Ho-Oh
+14:Weavile
+15:Gengar
+16:Landorus
+17:Palkia
+18:Togekiss
+19:Giratina
+20:Aegislash

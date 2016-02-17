@@ -1,0 +1,137 @@
+140:Banette|66
+ ---------- 
+Moves used:
+1:Destiny Bond,56.0606060606%,37.0
+2:Protect,50.0%,33.0
+3:Phantom Force,43.9393939394%,29.0
+4:Trick Room,42.4242424242%,28.0
+5:Thief,30.303030303%,20.0
+6:Snatch,28.7878787879%,19.0
+7:Gunk Shot,16.6666666667%,11.0
+8:Knock Off,13.6363636364%,9.0
+9:Disable,13.6363636364%,9.0
+10:Magic Coat,12.1212121212%,8.0
+11:Curse,12.1212121212%,8.0
+12:Shadow Claw,10.6060606061%,7.0
+13:Imprison,10.6060606061%,7.0
+14:Foul Play,9.09090909091%,6.0
+15:Skill Swap,9.09090909091%,6.0
+16:Thunder Wave,9.09090909091%,6.0
+17:Will-O-Wisp,7.57575757576%,5.0
+18:Swagger,7.57575757576%,5.0
+19:Taunt,6.06060606061%,4.0
+20:Shadow Sneak,4.54545454545%,3.0
+0:Other,6.06060606061%,4.0
+
+ ---------- 
+Items used:
+1:Banettite,74.2424242424%,49.0
+2:Custap Berry,12.1212121212%,8.0
+3:Focus Sash,9.09090909091%,6.0
+4:Choice Band,3.0303030303%,2.0
+5:Mental Herb,1.51515151515%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,74.2424242424%,49.0
+2:Insomnia,25.7575757576%,17.0
+
+ ---------- 
+Natures used:
+1:Adamant,46.9696969697%,31.0
+2:Brave,19.696969697%,13.0
+3:Sassy,15.1515151515%,10.0
+4:Careful,9.09090909091%,6.0
+5:Calm,3.0303030303%,2.0
+6:Jolly,3.0303030303%,2.0
+7:Impish,1.51515151515%,1.0
+8:Bold,1.51515151515%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Liepard
+3:Yveltal
+4:Groudon
+5:Rayquaza
+6:Ambipom
+7:Kyogre
+8:Dialga
+9:Glaceon
+10:Magnezone
+11:Infernape
+12:Xerneas
+13:Machamp
+14:Zekrom
+15:Ferrothorn
+16:Giratina
+17:Parasect
+18:Cresselia
+19:Weavile
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,35.7142857143%,23.5714285714
+2:Phantom Force,32.1428571429%,21.2142857143
+3:Thief,14.2857142857%,9.42857142857
+4:Shadow Claw,7.14285714286%,4.71428571429
+5:Knock Off,7.14285714286%,4.71428571429
+6:Shadow Sneak,3.57142857143%,2.35714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.7647058824%,7.76470588235
+2:Dazzling Gleam,9.80392156863%,6.47058823529
+3:Water Spout,9.80392156863%,6.47058823529
+4:Eruption,9.80392156863%,6.47058823529
+5:Dragon Ascent,7.8431372549%,5.17647058824
+6:Brave Bird,5.88235294118%,3.88235294118
+7:Double-Edge,5.88235294118%,3.88235294118
+8:Origin Pulse,3.92156862745%,2.58823529412
+9:Sucker Punch,3.92156862745%,2.58823529412
+10:Moonblast,1.96078431373%,1.29411764706
+11:Fusion Bolt,1.96078431373%,1.29411764706
+12:Scald,1.96078431373%,1.29411764706
+13:Foul Play,1.96078431373%,1.29411764706
+14:Power Whip,1.96078431373%,1.29411764706
+15:Dark Pulse,1.96078431373%,1.29411764706
+16:Flare Blitz,1.96078431373%,1.29411764706
+17:Hyper Voice,1.96078431373%,1.29411764706
+18:Knock Off,1.96078431373%,1.29411764706
+19:Shadow Ball,1.96078431373%,1.29411764706
+20:Psychic,1.96078431373%,1.29411764706
+0:Other,5.88235294118%,3.88235294118
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Cresselia
+6:Aegislash
+7:Rayquaza
+8:Smeargle
+9:Crobat
+10:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Yveltal
+8:Zekrom
+9:Thundurus
+10:Chandelure
+11:Ferrothorn
+12:Whimsicott
+13:Liepard
+14:Cresselia
+15:Weavile
+16:Mawile
+17:Gengar

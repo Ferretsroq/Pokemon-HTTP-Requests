@@ -1,0 +1,82 @@
+109:Seismitoad|3
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,3.0
+2:Grass Knot,66.6666666667%,2.0
+3:Scald,33.3333333333%,1.0
+4:After You,33.3333333333%,1.0
+5:Gastro Acid,33.3333333333%,1.0
+6:Muddy Water,33.3333333333%,1.0
+7:Icy Wind,33.3333333333%,1.0
+8:Sludge Bomb,33.3333333333%,1.0
+9:Protect,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,66.6666666667%,2.0
+2:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,66.6666666667%,2.0
+2:Swift Swim,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,33.3333333333%,1.0
+2:Modest,33.3333333333%,1.0
+3:Bold,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Togekiss
+2:Rayquaza
+3:Klefki
+4:Thundurus
+5:Ferrothorn
+6:Palkia
+7:Froslass
+8:Groudon
+9:Kyogre
+10:Ho-Oh
+11:Crobat
+12:Kangaskhan
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,40.0%,1.2
+2:Earth Power,40.0%,1.2
+3:Grass Knot,20.0%,0.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,14.2857142857%,0.428571428571
+2:Precipice Blades,14.2857142857%,0.428571428571
+3:Water Spout,14.2857142857%,0.428571428571
+4:Knock Off,14.2857142857%,0.428571428571
+5:Play Rough,7.14285714286%,0.214285714286
+6:Brave Bird,7.14285714286%,0.214285714286
+7:Eruption,7.14285714286%,0.214285714286
+8:Psychic,7.14285714286%,0.214285714286
+9:Ice Beam,7.14285714286%,0.214285714286
+10:Double-Edge,7.14285714286%,0.214285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Liepard
+3:Kyogre
+4:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Weavile
+3:Rayquaza
+4:Kyogre
+5:Cresselia
+6:Salamence
+7:Mawile
+8:Ho-Oh
+9:Ditto

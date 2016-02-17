@@ -1,0 +1,122 @@
+84:Parasect|154
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,154.0
+2:Wide Guard,95.4545454545%,147.0
+3:Spore,88.961038961%,137.0
+4:Protect,65.5844155844%,101.0
+5:Seed Bomb,14.2857142857%,22.0
+6:Sweet Scent,11.038961039%,17.0
+7:Struggle Bug,9.74025974026%,15.0
+8:Grass Knot,5.84415584416%,9.0
+9:X-Scissor,5.19480519481%,8.0
+10:After You,2.5974025974%,4.0
+11:Counter,1.2987012987%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,55.8441558442%,86.0
+2:Mental Herb,18.1818181818%,28.0
+3:Sitrus Berry,17.5324675325%,27.0
+4:Rocky Helmet,3.8961038961%,6.0
+5:Leftovers,1.94805194805%,3.0
+6:Lum Berry,1.2987012987%,2.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,47.4025974026%,73.0
+2:Effect Spore,41.5584415584%,64.0
+3:Damp,11.038961039%,17.0
+
+ ---------- 
+Natures used:
+1:Sassy,29.8701298701%,46.0
+2:Relaxed,25.974025974%,40.0
+3:Impish,15.5844155844%,24.0
+4:Brave,7.79220779221%,12.0
+5:Bold,7.14285714286%,11.0
+6:Careful,6.49350649351%,10.0
+7:Adamant,5.19480519481%,8.0
+8:Calm,1.94805194805%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Mawile
+6:Smeargle
+7:Rayquaza
+8:Scolipede
+9:Machoke
+10:Cresselia
+11:Salamence
+12:Gengar
+13:Talonflame
+14:Aromatisse
+15:Landorus
+16:Togekiss
+17:Palkia
+18:Kyurem
+19:Bronzong
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,50.0%,77.0
+2:X-Scissor,25.0%,38.5
+3:Seed Bomb,25.0%,38.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,11.5044247788%,17.7168141593
+2:Double-Edge,11.5044247788%,17.7168141593
+3:Brave Bird,9.73451327434%,14.9911504425
+4:Dazzling Gleam,4.42477876106%,6.81415929204
+5:Flamethrower,4.42477876106%,6.81415929204
+6:Air Slash,3.53982300885%,5.45132743363
+7:Return,3.53982300885%,5.45132743363
+8:Dragon Ascent,2.65486725664%,4.08849557522
+9:Moonblast,2.65486725664%,4.08849557522
+10:Dragon Pulse,2.65486725664%,4.08849557522
+11:Sacred Fire,2.65486725664%,4.08849557522
+12:Fire Punch,2.65486725664%,4.08849557522
+13:Bug Bite,1.76991150442%,2.72566371681
+14:U-turn,1.76991150442%,2.72566371681
+15:Gyro Ball,1.76991150442%,2.72566371681
+16:Overheat,1.76991150442%,2.72566371681
+17:Hyper Voice,1.76991150442%,2.72566371681
+18:Knock Off,1.76991150442%,2.72566371681
+19:Sludge Bomb,1.76991150442%,2.72566371681
+20:Origin Pulse,0.884955752212%,1.36283185841
+0:Other,21.2389380531%,32.7079646018
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Liepard
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Talonflame
+5:Xerneas
+6:Salamence
+7:Ho-Oh
+8:Togekiss
+9:Landorus
+10:Rayquaza
+11:Yveltal
+12:Kyurem
+13:Thundurus
+14:Ferrothorn
+15:Palkia
+16:Dialga
+17:Scizor
+18:Amoonguss
+19:Gothorita
+20:Cresselia

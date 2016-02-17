@@ -1,0 +1,48 @@
+238:Heracross|1
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,1.0
+2:Rock Blast,100.0%,1.0
+3:Bullet Seed,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Heracronite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Moxie,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Tornadus
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Seed,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,40.0%,0.4
+2:Dragon Ascent,20.0%,0.2
+3:Water Spout,20.0%,0.2
+4:Fire Punch,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Rayquaza
+3:Groudon
+4:Kyogre

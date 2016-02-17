@@ -1,0 +1,93 @@
+82:Rotom-H|5
+ ---------- 
+Moves used:
+1:Thunderbolt,100.0%,5.0
+2:Overheat,80.0%,4.0
+3:Will-O-Wisp,60.0%,3.0
+4:Psych Up,40.0%,2.0
+5:Protect,40.0%,2.0
+6:Thunder Wave,40.0%,2.0
+7:Trick,20.0%,1.0
+8:Hidden Power,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,60.0%,3.0
+2:Choice Scarf,20.0%,1.0
+3:Leftovers,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Modest,60.0%,3.0
+2:Timid,20.0%,1.0
+3:Bold,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Sylveon
+5:Aegislash
+6:Talonflame
+7:Greninja
+8:Kyurem
+9:Zekrom
+10:Mienshao
+11:Ferrothorn
+12:Whimsicott
+13:Dialga
+14:Ambipom
+15:Infernape
+16:Groudon
+17:Salamence
+18:Mawile
+19:Sableye
+20:Ludicolo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,57.8947368421%,2.89473684211
+2:Overheat,42.1052631579%,2.10526315789
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,23.0769230769%,1.15384615385
+2:Sludge Bomb,15.3846153846%,0.769230769231
+3:Origin Pulse,7.69230769231%,0.384615384615
+4:Draco Meteor,7.69230769231%,0.384615384615
+5:Water Spout,7.69230769231%,0.384615384615
+6:Eruption,7.69230769231%,0.384615384615
+7:Rock Slide,7.69230769231%,0.384615384615
+8:Waterfall,7.69230769231%,0.384615384615
+9:Thunderbolt,7.69230769231%,0.384615384615
+10:Double-Edge,7.69230769231%,0.384615384615
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Kyogre
+3:Xerneas
+4:Thundurus
+5:Amoonguss
+6:Greninja
+7:Landorus
+8:Weavile
+9:Infernape
+10:Rayquaza
+11:Salamence
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Gengar
+6:Thundurus
+7:Kangaskhan

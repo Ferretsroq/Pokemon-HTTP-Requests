@@ -1,0 +1,151 @@
+43:Lopunny|531
+ ---------- 
+Moves used:
+1:Fake Out,97.5517890772%,518.0
+2:Low Kick,69.3032015066%,368.0
+3:Return,46.516007533%,247.0
+4:Teeter Dance,35.2165725047%,187.0
+5:Encore,27.8719397363%,148.0
+6:Protect,22.9755178908%,122.0
+7:After You,20.527306968%,109.0
+8:Facade,18.0790960452%,96.0
+9:Magic Coat,9.22787193974%,49.0
+10:High Jump Kick,8.85122410546%,47.0
+11:Ice Punch,7.72128060264%,41.0
+12:Last Resort,4.89642184557%,26.0
+13:Entrainment,4.33145009416%,23.0
+14:Endeavor,4.33145009416%,23.0
+15:Fling,3.38983050847%,18.0
+16:Quick Attack,3.20150659134%,17.0
+17:Frustration,1.88323917137%,10.0
+18:Charm,1.31826741996%,7.0
+19:Switcheroo,1.12994350282%,6.0
+20:Drain Punch,1.12994350282%,6.0
+0:Other,3.76647834275%,20.0
+
+ ---------- 
+Items used:
+1:Lopunnite,90.2071563089%,479.0
+2:Lansat Berry,3.38983050847%,18.0
+3:Focus Sash,2.82485875706%,15.0
+4:Chople Berry,2.07156308851%,11.0
+5:Assault Vest,0.941619585687%,5.0
+6:Mental Herb,0.376647834275%,2.0
+7:Choice Band,0.188323917137%,1.0
+
+ ---------- 
+Abilities used:
+1:Limber,68.1732580038%,362.0
+2:Cute Charm,17.5141242938%,93.0
+3:Klutz,14.3126177024%,76.0
+
+ ---------- 
+Natures used:
+1:Jolly,74.011299435%,393.0
+2:Adamant,25.988700565%,138.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Smeargle
+4:Talonflame
+5:Rayquaza
+6:Kyogre
+7:Crobat
+8:Cresselia
+9:Lugia
+10:Scizor
+11:Kyurem
+12:Latias
+13:Ferrothorn
+14:Azumarill
+15:Palkia
+16:Bastiodon
+17:Salamence
+18:Gengar
+19:Bronzong
+20:Pachirisu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,42.3841059603%,225.059602649
+2:Return,25.1655629139%,133.629139073
+3:Last Resort,11.9205298013%,63.298013245
+4:Fake Out,5.29801324503%,28.1324503311
+5:High Jump Kick,4.6357615894%,24.6158940397
+6:Ice Punch,3.97350993377%,21.0993377483
+7:Facade,3.31125827815%,17.582781457
+8:Frustration,1.98675496689%,10.5496688742
+9:Retaliate,0.662251655629%,3.51655629139
+10:Drain Punch,0.662251655629%,3.51655629139
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,19.9475065617%,105.921259843
+2:Eruption,7.61154855643%,40.4173228346
+3:Precipice Blades,7.34908136483%,39.0236220472
+4:Brave Bird,6.82414698163%,36.2362204724
+5:Water Spout,6.29921259843%,33.4488188976
+6:Hyper Voice,5.24934383202%,27.874015748
+7:Double-Edge,5.24934383202%,27.874015748
+8:Dragon Ascent,4.98687664042%,26.4803149606
+9:Origin Pulse,3.93700787402%,20.905511811
+10:Moonblast,3.41207349081%,18.1181102362
+11:Play Rough,2.09973753281%,11.1496062992
+12:Gyro Ball,1.57480314961%,8.36220472441
+13:Return,1.57480314961%,8.36220472441
+14:Ice Beam,1.57480314961%,8.36220472441
+15:Psystrike,1.31233595801%,6.96850393701
+16:Sucker Punch,1.31233595801%,6.96850393701
+17:Earthquake,1.31233595801%,6.96850393701
+18:Flamethrower,1.31233595801%,6.96850393701
+19:Superpower,1.0498687664%,5.57480314961
+20:Extreme Speed,1.0498687664%,5.57480314961
+0:Other,13.6482939633%,72.4724409449
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Crobat
+5:Talonflame
+6:Smeargle
+7:Landorus
+8:Thundurus
+9:Ferrothorn
+10:Liepard
+11:Weavile
+12:Xerneas
+13:Whimsicott
+14:Cresselia
+15:Palkia
+16:Togekiss
+17:Salamence
+18:Gengar
+19:Zekrom
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Rayquaza
+8:Landorus
+9:Cresselia
+10:Mawile
+11:Ferrothorn
+12:Yveltal
+13:Rayquaza
+14:Ho-Oh
+15:Mewtwo
+16:Mienshao
+17:Kyogre
+18:Lugia
+19:Aegislash
+20:Thundurus

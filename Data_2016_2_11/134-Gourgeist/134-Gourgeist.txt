@@ -1,0 +1,96 @@
+134:Gourgeist|53
+ ---------- 
+Moves used:
+1:Trick-or-Treat,100.0%,53.0
+2:Destiny Bond,100.0%,53.0
+3:Trick,96.2264150943%,51.0
+4:Seed Bomb,86.7924528302%,46.0
+5:Will-O-Wisp,13.2075471698%,7.0
+6:Shadow Sneak,3.77358490566%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,53.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,86.7924528302%,46.0
+2:Frisk,13.2075471698%,7.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,53.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Giratina
+3:Sableye
+4:Yveltal
+5:Aegislash
+6:Groudon
+7:Meowstic
+8:Chandelure
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,58.3333333333%,30.9166666667
+2:Seed Bomb,41.6666666667%,22.0833333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.8936170213%,7.89361702128
+2:Eruption,14.8936170213%,7.89361702128
+3:Hyper Voice,12.7659574468%,6.76595744681
+4:Ice Beam,12.7659574468%,6.76595744681
+5:Moonblast,4.25531914894%,2.25531914894
+6:Water Spout,4.25531914894%,2.25531914894
+7:Overheat,4.25531914894%,2.25531914894
+8:Heat Wave,4.25531914894%,2.25531914894
+9:Dragon Ascent,2.12765957447%,1.12765957447
+10:Origin Pulse,2.12765957447%,1.12765957447
+11:Oblivion Wing,2.12765957447%,1.12765957447
+12:Icicle Crash,2.12765957447%,1.12765957447
+13:Foul Play,2.12765957447%,1.12765957447
+14:Spacial Rend,2.12765957447%,1.12765957447
+15:Brave Bird,2.12765957447%,1.12765957447
+16:Dark Pulse,2.12765957447%,1.12765957447
+17:Knock Off,2.12765957447%,1.12765957447
+18:Sacred Fire,2.12765957447%,1.12765957447
+19:Sludge Bomb,2.12765957447%,1.12765957447
+20:Flamethrower,2.12765957447%,1.12765957447
+0:Other,2.12765957447%,1.12765957447
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Kyogre
+4:Yveltal
+5:Weavile
+6:Smeargle
+7:Xerneas
+8:Hydreigon
+9:Swoobat
+10:Rayquaza
+11:Kangaskhan
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Yveltal
+6:Ho-Oh
+7:Hydreigon
+8:Liepard
+9:Heatran
+10:Palkia
+11:Weavile
+12:Rayquaza
+13:Rayquaza
+14:Gengar
+15:Charizard

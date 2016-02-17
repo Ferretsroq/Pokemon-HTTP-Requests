@@ -1,0 +1,139 @@
+90:Gourgeist-Super|126
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,126.0
+2:Seed Bomb,56.3492063492%,71.0
+3:Protect,54.7619047619%,69.0
+4:Destiny Bond,39.6825396825%,50.0
+5:Skill Swap,35.7142857143%,45.0
+6:Trick-or-Treat,26.1904761905%,33.0
+7:Will-O-Wisp,20.6349206349%,26.0
+8:Explosion,15.0793650794%,19.0
+9:Worry Seed,11.9047619048%,15.0
+10:Rock Slide,9.52380952381%,12.0
+11:Magic Coat,8.73015873016%,11.0
+12:Phantom Force,5.55555555556%,7.0
+13:Foul Play,5.55555555556%,7.0
+14:Safeguard,4.7619047619%,6.0
+15:Gyro Ball,2.38095238095%,3.0
+16:Bullet Seed,2.38095238095%,3.0
+17:Pain Split,0.793650793651%,1.0
+
+ ---------- 
+Items used:
+1:Coba Berry,29.3650793651%,37.0
+2:Focus Sash,26.1904761905%,33.0
+3:Occa Berry,26.1904761905%,33.0
+4:Mental Herb,7.93650793651%,10.0
+5:Sitrus Berry,5.55555555556%,7.0
+6:Normal Gem,2.38095238095%,3.0
+7:Life Orb,2.38095238095%,3.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,84.9206349206%,107.0
+2:Frisk,15.0793650794%,19.0
+
+ ---------- 
+Natures used:
+1:Sassy,61.1111111111%,77.0
+2:Relaxed,27.7777777778%,35.0
+3:Brave,11.1111111111%,14.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Mawile
+4:Kangaskhan
+5:Smeargle
+6:Liepard
+7:Dialga
+8:Talonflame
+9:Landorus
+10:Camerupt
+11:Palkia
+12:Rayquaza
+13:Yveltal
+14:Sylveon
+15:Xerneas
+16:Lucario
+17:Scizor
+18:Diggersby
+19:Ferrothorn
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,46.875%,59.0625
+2:Destiny Bond,31.25%,39.375
+3:Bullet Seed,6.25%,7.875
+4:Rock Slide,6.25%,7.875
+5:Explosion,6.25%,7.875
+6:Gyro Ball,3.125%,3.9375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.7727272727%,18.6136363636
+2:Brave Bird,9.09090909091%,11.4545454545
+3:Ice Beam,9.09090909091%,11.4545454545
+4:Eruption,7.95454545455%,10.0227272727
+5:Hyper Voice,6.81818181818%,8.59090909091
+6:Moonblast,5.68181818182%,7.15909090909
+7:Dragon Ascent,2.27272727273%,2.86363636364
+8:Precipice Blades,2.27272727273%,2.86363636364
+9:Grass Knot,2.27272727273%,2.86363636364
+10:Flare Blitz,2.27272727273%,2.86363636364
+11:Gyro Ball,2.27272727273%,2.86363636364
+12:Knock Off,2.27272727273%,2.86363636364
+13:Play Rough,1.13636363636%,1.43181818182
+14:Clear Smog,1.13636363636%,1.43181818182
+15:Shadow Force,1.13636363636%,1.43181818182
+16:Dark Pulse,1.13636363636%,1.43181818182
+17:Water Spout,1.13636363636%,1.43181818182
+18:Heat Wave,1.13636363636%,1.43181818182
+19:Rock Slide,1.13636363636%,1.43181818182
+20:Psychic,1.13636363636%,1.43181818182
+0:Other,4.54545454545%,5.72727272727
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Xerneas
+4:Talonflame
+5:Kyogre
+6:Landorus
+7:Mienshao
+8:Ferrothorn
+9:Amoonguss
+10:Cresselia
+11:Porygon-Z
+12:Weavile
+13:Salamence
+14:Altaria
+15:Swampert
+16:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Groudon
+4:Kyogre
+5:Salamence
+6:Amoonguss
+7:Cresselia
+8:Kyurem
+9:Landorus
+10:Ferrothorn
+11:Rayquaza
+12:Hydreigon
+13:Bisharp
+14:Giratina
+15:Weavile
+16:Infernape
+17:Altaria
+18:Mawile
+19:Ludicolo
+20:Kangaskhan

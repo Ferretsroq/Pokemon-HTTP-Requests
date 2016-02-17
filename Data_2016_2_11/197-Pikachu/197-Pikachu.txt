@@ -1,0 +1,73 @@
+197:Pikachu|16
+ ---------- 
+Moves used:
+1:Volt Tackle,75.0%,12.0
+2:Protect,75.0%,12.0
+3:Fake Out,68.75%,11.0
+4:Grass Knot,50.0%,8.0
+5:Endeavor,50.0%,8.0
+6:Feint,31.25%,5.0
+7:Toxic,25.0%,4.0
+8:Encore,18.75%,3.0
+9:Quick Attack,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Light Ball,50.0%,8.0
+2:Focus Sash,31.25%,5.0
+3:Eviolite,18.75%,3.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,16.0
+
+ ---------- 
+Natures used:
+1:Naive,50.0%,8.0
+2:Brave,31.25%,5.0
+3:Jolly,18.75%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Arcanine
+5:Meowstic
+6:Kyurem
+7:Dialga
+8:Nidoking
+9:Whimsicott
+10:Salamence
+11:Zapdos
+12:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,100.0%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,25.0%,4.0
+2:Dazzling Gleam,16.6666666667%,2.66666666667
+3:Precipice Blades,8.33333333333%,1.33333333333
+4:Origin Pulse,8.33333333333%,1.33333333333
+5:Sucker Punch,8.33333333333%,1.33333333333
+6:Eruption,8.33333333333%,1.33333333333
+7:Fake Out,8.33333333333%,1.33333333333
+8:Return,8.33333333333%,1.33333333333
+9:Sludge Bomb,8.33333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Groudon
+4:Meowstic
+5:Kyogre
+6:Salamence
+7:Gengar

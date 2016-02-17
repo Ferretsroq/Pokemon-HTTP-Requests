@@ -1,0 +1,39 @@
+280:Zorua|1
+ ---------- 
+Moves used:
+1:Snarl,100.0%,1.0
+2:Night Daze,100.0%,1.0
+3:Rain Dance,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Illusion,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Rash,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Archeops
+3:Darmanitan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Spacial Rend,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Palkia

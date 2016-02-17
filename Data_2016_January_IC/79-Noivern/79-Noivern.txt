@@ -1,0 +1,105 @@
+79:Noivern|5
+ ---------- 
+Moves used:
+1:Draco Meteor,80.0%,4.0
+2:Super Fang,60.0%,3.0
+3:Hurricane,40.0%,2.0
+4:Switcheroo,40.0%,2.0
+5:Tailwind,40.0%,2.0
+6:Boomburst,20.0%,1.0
+7:Dragon Pulse,20.0%,1.0
+8:Air Slash,20.0%,1.0
+9:Dark Pulse,20.0%,1.0
+10:Water Pulse,20.0%,1.0
+11:Protect,20.0%,1.0
+12:Flamethrower,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,60.0%,3.0
+2:Wide Lens,20.0%,1.0
+3:Lum Berry,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Infiltrator,60.0%,3.0
+2:Frisk,40.0%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,80.0%,4.0
+2:Modest,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Xerneas
+5:Klefki
+6:Aegislash
+7:Talonflame
+8:Ferrothorn
+9:Archeops
+10:Whimsicott
+11:Weavile
+12:Roserade
+13:Infernape
+14:Swampert
+15:Ho-Oh
+16:Raikou
+17:Smeargle
+18:Kangaskhan
+19:Gengar
+20:Victreebel
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,43.75%,2.1875
+2:Hurricane,25.0%,1.25
+3:Boomburst,18.75%,0.9375
+4:Dragon Pulse,12.5%,0.625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,22.2222222222%,1.11111111111
+2:Dazzling Gleam,11.1111111111%,0.555555555556
+3:Origin Pulse,5.55555555556%,0.277777777778
+4:Moonblast,5.55555555556%,0.277777777778
+5:Play Rough,5.55555555556%,0.277777777778
+6:Shadow Force,5.55555555556%,0.277777777778
+7:Brave Bird,5.55555555556%,0.277777777778
+8:Dragon Pulse,5.55555555556%,0.277777777778
+9:Water Spout,5.55555555556%,0.277777777778
+10:Aeroblast,5.55555555556%,0.277777777778
+11:Rock Slide,5.55555555556%,0.277777777778
+12:Thunder Punch,5.55555555556%,0.277777777778
+13:Ice Punch,5.55555555556%,0.277777777778
+14:Fire Punch,5.55555555556%,0.277777777778
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Ferrothorn
+3:Crobat
+4:Kangaskhan
+5:Yveltal
+6:Talonflame
+7:Liepard
+8:Togekiss
+9:Rayquaza
+10:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Talonflame
+5:Kyurem
+6:Cresselia
+7:Giratina
+8:Kyogre
+9:Mawile
+10:Lugia
+11:Mewtwo

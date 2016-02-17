@@ -1,0 +1,126 @@
+57:Heatran|15
+ ---------- 
+Moves used:
+1:Earth Power,86.6666666667%,13.0
+2:Flash Cannon,73.3333333333%,11.0
+3:Heat Wave,73.3333333333%,11.0
+4:Protect,73.3333333333%,11.0
+5:Dragon Pulse,20.0%,3.0
+6:Overheat,13.3333333333%,2.0
+7:Flamethrower,13.3333333333%,2.0
+8:Magma Storm,6.66666666667%,1.0
+9:Stealth Rock,6.66666666667%,1.0
+10:Iron Head,6.66666666667%,1.0
+11:Ancient Power,6.66666666667%,1.0
+12:Hidden Power,6.66666666667%,1.0
+13:Substitute,6.66666666667%,1.0
+14:Toxic,6.66666666667%,1.0
+
+ ---------- 
+Items used:
+1:Air Balloon,46.6666666667%,7.0
+2:Shuca Berry,13.3333333333%,2.0
+3:Weakness Policy,6.66666666667%,1.0
+4:Choice Scarf,6.66666666667%,1.0
+5:Expert Belt,6.66666666667%,1.0
+6:Shell Bell,6.66666666667%,1.0
+7:Quick Claw,6.66666666667%,1.0
+8:Chesto Berry,6.66666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Modest,60.0%,9.0
+2:Timid,20.0%,3.0
+3:Quiet,13.3333333333%,2.0
+4:Mild,6.66666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Groudon
+6:Landorus
+7:Thundurus
+8:Mawile
+9:Yveltal
+10:Ferrothorn
+11:Cresselia
+12:Togekiss
+13:Weavile
+14:Garchomp
+15:Smeargle
+16:Clawitzer
+17:Aegislash
+18:Meowstic
+19:Talonflame
+20:Mienshao
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,54.5454545455%,8.18181818182
+2:Flash Cannon,24.2424242424%,3.63636363636
+3:Flamethrower,12.1212121212%,1.81818181818
+4:Earth Power,6.06060606061%,0.909090909091
+5:Ancient Power,3.0303030303%,0.454545454545
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,18.4210526316%,2.76315789474
+2:Precipice Blades,13.1578947368%,1.97368421053
+3:Water Spout,13.1578947368%,1.97368421053
+4:Low Kick,13.1578947368%,1.97368421053
+5:Origin Pulse,7.89473684211%,1.18421052632
+6:Earthquake,7.89473684211%,1.18421052632
+7:Sucker Punch,5.26315789474%,0.789473684211
+8:Power-Up Punch,2.63157894737%,0.394736842105
+9:Foul Play,2.63157894737%,0.394736842105
+10:Brave Bird,2.63157894737%,0.394736842105
+11:Hammer Arm,2.63157894737%,0.394736842105
+12:Hyper Voice,2.63157894737%,0.394736842105
+13:Hidden Power,2.63157894737%,0.394736842105
+14:Waterfall,2.63157894737%,0.394736842105
+15:Double-Edge,2.63157894737%,0.394736842105
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Ferrothorn
+3:Liepard
+4:Mawile
+5:Smeargle
+6:Talonflame
+7:Greninja
+8:Whimsicott
+9:Dialga
+10:Weavile
+11:Bronzong
+12:Rayquaza
+13:Groudon
+14:Salamence
+15:Sableye
+16:Breloom
+17:Hitmontop
+18:Crobat
+19:Gengar
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Landorus
+5:Giratina
+6:Mawile
+7:Ho-Oh
+8:Yveltal
+9:Xerneas
+10:Rayquaza
+11:Kyogre
+12:Salamence

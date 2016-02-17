@@ -1,0 +1,138 @@
+93:Aromatisse|117
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,117.0
+2:Heal Pulse,69.2307692308%,81.0
+3:Protect,52.9914529915%,62.0
+4:Dazzling Gleam,39.3162393162%,46.0
+5:Skill Swap,39.3162393162%,46.0
+6:Magic Coat,26.4957264957%,31.0
+7:Moonblast,22.2222222222%,26.0
+8:Misty Terrain,11.9658119658%,14.0
+9:Draining Kiss,7.69230769231%,9.0
+10:Helping Hand,7.69230769231%,9.0
+11:Reflect,6.83760683761%,8.0
+12:Gyro Ball,5.98290598291%,7.0
+13:Sunny Day,4.2735042735%,5.0
+14:Rest,3.4188034188%,4.0
+15:Light Screen,2.5641025641%,3.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,44.4444444444%,52.0
+2:Lum Berry,33.3333333333%,39.0
+3:Chesto Berry,11.9658119658%,14.0
+4:Rocky Helmet,5.98290598291%,7.0
+5:Focus Sash,3.4188034188%,4.0
+6:Leftovers,0.854700854701%,1.0
+
+ ---------- 
+Abilities used:
+1:Aroma Veil,100.0%,117.0
+
+ ---------- 
+Natures used:
+1:Sassy,44.4444444444%,52.0
+2:Relaxed,40.1709401709%,47.0
+3:Brave,5.98290598291%,7.0
+4:Quiet,5.12820512821%,6.0
+5:Modest,3.4188034188%,4.0
+6:Bold,0.854700854701%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Smeargle
+3:Kyogre
+4:Mawile
+5:Camerupt
+6:Rayquaza
+7:Sylveon
+8:Dialga
+9:Kangaskhan
+10:Parasect
+11:Cresselia
+12:Weavile
+13:Darmanitan
+14:Ferrothorn
+15:Gengar
+16:Xerneas
+17:Meowstic
+18:Kyurem
+19:Whimsicott
+20:Swampert
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,61.2903225806%,71.7096774194
+2:Moonblast,38.7096774194%,45.2903225806
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.1868131868%,15.4285714286
+2:Dazzling Gleam,13.1868131868%,15.4285714286
+3:Origin Pulse,8.79120879121%,10.2857142857
+4:Iron Head,7.69230769231%,9.0
+5:Eruption,6.59340659341%,7.71428571429
+6:Sludge Bomb,6.59340659341%,7.71428571429
+7:Water Spout,5.49450549451%,6.42857142857
+8:Moonblast,4.3956043956%,5.14285714286
+9:Double-Edge,4.3956043956%,5.14285714286
+10:Brave Bird,3.2967032967%,3.85714285714
+11:Hyper Voice,3.2967032967%,3.85714285714
+12:Power Whip,2.1978021978%,2.57142857143
+13:Flash Cannon,2.1978021978%,2.57142857143
+14:Poison Jab,2.1978021978%,2.57142857143
+15:Gyro Ball,2.1978021978%,2.57142857143
+16:Aeroblast,2.1978021978%,2.57142857143
+17:Dragon Ascent,1.0989010989%,1.28571428571
+18:Earth Power,1.0989010989%,1.28571428571
+19:Extreme Speed,1.0989010989%,1.28571428571
+20:Return,1.0989010989%,1.28571428571
+0:Other,5.49450549451%,6.42857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Yveltal
+3:Talonflame
+4:Groudon
+5:Kangaskhan
+6:Meowstic
+7:Greninja
+8:Landorus
+9:Thundurus
+10:Mienshao
+11:Ferrothorn
+12:Cresselia
+13:Giratina
+14:Togekiss
+15:Weavile
+16:Infernape
+17:Rayquaza
+18:Salamence
+19:Salamence
+20:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Gengar
+6:Ferrothorn
+7:Mawile
+8:Talonflame
+9:Rayquaza
+10:Dialga
+11:Salamence
+12:Lugia
+13:Smeargle
+14:Nidoqueen
+15:Sylveon
+16:Kyurem
+17:Landorus
+18:Bisharp
+19:Toxicroak
+20:Scizor

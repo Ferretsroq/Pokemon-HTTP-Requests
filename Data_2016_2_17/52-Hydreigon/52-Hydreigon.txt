@@ -1,0 +1,150 @@
+52:Hydreigon|566
+ ---------- 
+Moves used:
+1:Dark Pulse,97.703180212%,553.0
+2:Draco Meteor,83.038869258%,470.0
+3:Earth Power,81.0954063604%,459.0
+4:Flamethrower,41.3427561837%,234.0
+5:Protect,30.2120141343%,171.0
+6:Flash Cannon,13.4275618375%,76.0
+7:Dragon Pulse,12.5441696113%,71.0
+8:Fire Blast,10.777385159%,61.0
+9:Hidden Power,8.83392226148%,50.0
+10:Tailwind,8.48056537102%,48.0
+11:Heat Wave,6.00706713781%,34.0
+12:Taunt,2.82685512367%,16.0
+13:Psych Up,1.7667844523%,10.0
+14:U-turn,0.530035335689%,3.0
+15:Sleep Talk,0.530035335689%,3.0
+16:Thunder Wave,0.353356890459%,2.0
+17:Focus Blast,0.17667844523%,1.0
+18:Substitute,0.17667844523%,1.0
+19:Surf,0.17667844523%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,31.4487632509%,178.0
+2:Choice Scarf,28.6219081272%,162.0
+3:Life Orb,23.3215547703%,132.0
+4:Focus Sash,6.5371024735%,37.0
+5:Lum Berry,3.35689045936%,19.0
+6:Assault Vest,2.65017667845%,15.0
+7:White Herb,1.59010600707%,9.0
+8:Chople Berry,1.23674911661%,7.0
+9:Expert Belt,0.706713780919%,4.0
+10:Haban Berry,0.530035335689%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,566.0
+
+ ---------- 
+Natures used:
+1:Modest,70.4946996466%,399.0
+2:Timid,29.1519434629%,165.0
+3:Quiet,0.353356890459%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Xerneas
+5:Mawile
+6:Talonflame
+7:Rayquaza
+8:Crobat
+9:Yveltal
+10:Cresselia
+11:Ferrothorn
+12:Ho-Oh
+13:Aegislash
+14:Weavile
+15:Gengar
+16:Landorus
+17:Mewtwo
+18:Salamence
+19:Whimsicott
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dark Pulse,45.3441295547%,256.647773279
+2:Draco Meteor,26.3157894737%,148.947368421
+3:Earth Power,16.1943319838%,91.6599190283
+4:Flamethrower,5.66801619433%,32.0809716599
+5:Dragon Pulse,2.42914979757%,13.7489878543
+6:Heat Wave,1.61943319838%,9.16599190283
+7:Hidden Power,1.21457489879%,6.87449392713
+8:Fire Blast,0.80971659919%,4.58299595142
+9:Focus Blast,0.404858299595%,2.29149797571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.612565445%,77.0471204188
+2:Ice Beam,9.68586387435%,54.8219895288
+3:Low Kick,6.5445026178%,37.0418848168
+4:Draco Meteor,4.97382198953%,28.1518324607
+5:Origin Pulse,4.4502617801%,25.1884816754
+6:Gyro Ball,4.4502617801%,25.1884816754
+7:Eruption,3.92670157068%,22.2251308901
+8:Dragon Ascent,3.40314136126%,19.2617801047
+9:Double-Edge,3.14136125654%,17.780104712
+10:Moonblast,2.87958115183%,16.2984293194
+11:Spacial Rend,2.87958115183%,16.2984293194
+12:Water Spout,2.61780104712%,14.8167539267
+13:Superpower,2.61780104712%,14.8167539267
+14:Dragon Pulse,2.0942408377%,11.8534031414
+15:Sludge Bomb,2.0942408377%,11.8534031414
+16:Play Rough,1.83246073298%,10.3717277487
+17:Sucker Punch,1.83246073298%,10.3717277487
+18:Hyper Voice,1.83246073298%,10.3717277487
+19:Oblivion Wing,1.57068062827%,8.89005235602
+20:Close Combat,1.57068062827%,8.89005235602
+0:Other,18.8481675393%,106.680628272
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Cresselia
+3:Ferrothorn
+4:Rayquaza
+5:Talonflame
+6:Kyogre
+7:Kangaskhan
+8:Gengar
+9:Crobat
+10:Landorus
+11:Mawile
+12:Smeargle
+13:Dialga
+14:Salamence
+15:Meowstic
+16:Whimsicott
+17:Weavile
+18:Sableye
+19:Thundurus
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Rayquaza
+6:Landorus
+7:Ferrothorn
+8:Salamence
+9:Palkia
+10:Yveltal
+11:Mawile
+12:Dialga
+13:Gengar
+14:Kyurem
+15:Weavile
+16:Rayquaza
+17:Smeargle
+18:Gengar
+19:Talonflame
+20:Terrakion

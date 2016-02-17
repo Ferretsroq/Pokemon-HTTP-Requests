@@ -1,0 +1,39 @@
+291:Crawdaunt|1
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Crabhammer,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Palkia
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza

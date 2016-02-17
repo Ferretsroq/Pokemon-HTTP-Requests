@@ -1,0 +1,119 @@
+125:Slowbro|71
+ ---------- 
+Moves used:
+1:Trick Room,97.1830985915%,69.0
+2:Psychic,70.4225352113%,50.0
+3:Slack Off,47.8873239437%,34.0
+4:Calm Mind,43.661971831%,31.0
+5:Scald,36.6197183099%,26.0
+6:Skill Swap,23.9436619718%,17.0
+7:Grass Knot,22.5352112676%,16.0
+8:Magic Coat,21.1267605634%,15.0
+9:Flamethrower,18.3098591549%,13.0
+10:Ice Beam,12.676056338%,9.0
+11:Psych Up,2.81690140845%,2.0
+12:Yawn,1.40845070423%,1.0
+13:Protect,1.40845070423%,1.0
+
+ ---------- 
+Items used:
+1:Slowbronite,71.8309859155%,51.0
+2:Lum Berry,21.1267605634%,15.0
+3:Sitrus Berry,4.22535211268%,3.0
+4:Mental Herb,1.40845070423%,1.0
+5:Persim Berry,1.40845070423%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,52.1126760563%,37.0
+2:Oblivious,28.1690140845%,20.0
+3:Own Tempo,19.7183098592%,14.0
+
+ ---------- 
+Natures used:
+1:Relaxed,43.661971831%,31.0
+2:Quiet,25.3521126761%,18.0
+3:Calm,23.9436619718%,17.0
+4:Sassy,2.81690140845%,2.0
+5:Modest,2.81690140845%,2.0
+6:Bold,1.40845070423%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Liepard
+3:Xerneas
+4:Porygon2
+5:Mawile
+6:Ferrothorn
+7:Kyogre
+8:Talonflame
+9:Aegislash
+10:Amoonguss
+11:Ho-Oh
+12:Smeargle
+13:Kangaskhan
+14:Meowstic
+15:Conkeldurr
+16:Excadrill
+17:Giratina
+18:Rayquaza
+19:Sylveon
+20:Hydreigon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,75.8620689655%,53.8620689655
+2:Ice Beam,10.3448275862%,7.34482758621
+3:Scald,6.89655172414%,4.89655172414
+4:Flamethrower,6.89655172414%,4.89655172414
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,20.0%,14.2
+2:Precipice Blades,12.5%,8.875
+3:Dazzling Gleam,12.5%,8.875
+4:Brave Bird,7.5%,5.325
+5:Thunderbolt,7.5%,5.325
+6:Double-Edge,7.5%,5.325
+7:Earth Power,5.0%,3.55
+8:Thunder,5.0%,3.55
+9:Origin Pulse,2.5%,1.775
+10:Hex,2.5%,1.775
+11:Power Whip,2.5%,1.775
+12:Water Spout,2.5%,1.775
+13:Hyper Voice,2.5%,1.775
+14:Eruption,2.5%,1.775
+15:Extreme Speed,2.5%,1.775
+16:Earthquake,2.5%,1.775
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Kangaskhan
+4:Amoonguss
+5:Ferrothorn
+6:Talonflame
+7:Landorus
+8:Whimsicott
+9:Liepard
+10:Palkia
+11:Kyogre
+12:Sableye
+13:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Talonflame
+4:Kyogre
+5:Salamence
+6:Zapdos
+7:Kangaskhan
+8:Landorus
+9:Ferrothorn
+10:Rayquaza
+11:Kyogre
+12:Gengar

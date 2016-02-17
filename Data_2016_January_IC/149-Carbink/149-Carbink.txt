@@ -1,0 +1,52 @@
+149:Carbink|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Gravity,100.0%,1.0
+3:Swagger,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Aurorus
+2:Giratina
+3:Probopass
+4:Groudon
+5:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,27.2727272727%,0.272727272727
+2:Eruption,18.1818181818%,0.181818181818
+3:Ice Beam,18.1818181818%,0.181818181818
+4:Dragon Ascent,9.09090909091%,0.0909090909091
+5:Iron Head,9.09090909091%,0.0909090909091
+6:Brave Bird,9.09090909091%,0.0909090909091
+7:Superpower,9.09090909091%,0.0909090909091
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Rayquaza
+6:Mawile

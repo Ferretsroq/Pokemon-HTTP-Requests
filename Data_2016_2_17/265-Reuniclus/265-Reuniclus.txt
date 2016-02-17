@@ -1,0 +1,44 @@
+265:Reuniclus|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Energy Ball,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Psychic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Hitmontop
+4:Jellicent
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,33.3333333333%,0.333333333333
+2:Shadow Sneak,33.3333333333%,0.333333333333
+3:Eruption,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Whimsicott
+2:Giratina
+3:Groudon

@@ -1,0 +1,148 @@
+13:Mawile|5920
+ ---------- 
+Moves used:
+1:Sucker Punch,98.8682432432%,5853.0
+2:Iron Head,93.4628378378%,5533.0
+3:Protect,91.6216216216%,5424.0
+4:Play Rough,88.7837837838%,5256.0
+5:Knock Off,7.80405405405%,462.0
+6:Fire Fang,7.53378378378%,446.0
+7:Rock Slide,3.83445945946%,227.0
+8:Swords Dance,3.39527027027%,201.0
+9:Foul Play,2.88851351351%,171.0
+10:Substitute,0.777027027027%,46.0
+11:Power-Up Punch,0.472972972973%,28.0
+12:Brick Break,0.135135135135%,8.0
+13:Super Fang,0.118243243243%,7.0
+14:Thunder Punch,0.101351351351%,6.0
+15:Facade,0.0844594594595%,5.0
+16:Metal Burst,0.0675675675676%,4.0
+17:Stone Edge,0.0168918918919%,1.0
+18:Fake Tears,0.0168918918919%,1.0
+19:Taunt,0.0168918918919%,1.0
+
+ ---------- 
+Items used:
+1:Mawilite,99.8817567568%,5913.0
+2:Life Orb,0.0675675675676%,4.0
+3:Power Bracer,0.0168918918919%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,98.5135135135%,5832.0
+2:Hyper Cutter,1.48648648649%,88.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.6554054054%,3946.0
+2:Brave,28.5135135135%,1688.0
+3:Careful,3.17567567568%,188.0
+4:Jolly,1.09797297297%,65.0
+5:Sassy,0.523648648649%,31.0
+6:Impish,0.0337837837838%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Cresselia
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Liepard
+8:Rayquaza
+9:Crobat
+10:Palkia
+11:Thundurus
+12:Smeargle
+13:Weavile
+14:Landorus
+15:Gothitelle
+16:Giratina
+17:Amoonguss
+18:Ho-Oh
+19:Ferrothorn
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,40.8490086426%,2418.26131164
+2:Play Rough,28.9018810371%,1710.9913574
+3:Sucker Punch,24.9110320285%,1474.73309609
+4:Knock Off,1.44890696492%,85.7752923233
+5:Rock Slide,1.42348754448%,84.2704626335
+6:Fire Fang,1.24555160142%,73.7366548043
+7:Foul Play,1.04219623793%,61.6980172852
+8:Power-Up Punch,0.127097102186%,7.52414844942
+9:Stone Edge,0.0254194204372%,1.50482968988
+10:Thunder Punch,0.0254194204372%,1.50482968988
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.3610149942%,672.572087659
+2:Origin Pulse,11.3033448674%,669.158016148
+3:Earth Power,10.7266435986%,635.017301038
+4:Eruption,9.3137254902%,551.37254902
+5:Water Spout,6.86274509804%,406.274509804
+6:Dazzling Gleam,4.49826989619%,266.297577855
+7:Overheat,4.38292964245%,259.469434833
+8:Flamethrower,4.00807381776%,237.277970012
+9:Moonblast,3.2583621684%,192.895040369
+10:Fire Punch,3.11418685121%,184.359861592
+11:Earthquake,2.36447520185%,139.976931949
+12:Flare Blitz,2.2491349481%,133.148788927
+13:Iron Head,1.73010380623%,102.422145329
+14:Sucker Punch,1.47058823529%,87.0588235294
+15:Hyper Voice,1.18223760092%,69.9884659746
+16:Extreme Speed,1.18223760092%,69.9884659746
+17:Gyro Ball,1.09573241061%,64.8673587082
+18:Shadow Ball,1.09573241061%,64.8673587082
+19:Sacred Fire,1.06689734717%,63.1603229527
+20:Scald,1.03806228374%,61.4532871972
+0:Other,13.783160323%,815.963091119
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Rayquaza
+5:Salamence
+6:Groudon
+7:Smeargle
+8:Crobat
+9:Talonflame
+10:Yveltal
+11:Togekiss
+12:Cresselia
+13:Thundurus
+14:Ferrothorn
+15:Weavile
+16:Liepard
+17:Landorus
+18:Palkia
+19:Mawile
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Talonflame
+6:Kangaskhan
+7:Salamence
+8:Landorus
+9:Mawile
+10:Palkia
+11:Dialga
+12:Ferrothorn
+13:Ho-Oh
+14:Rayquaza
+15:Yveltal
+16:Aegislash
+17:Thundurus
+18:Gengar
+19:Infernape
+20:Cresselia

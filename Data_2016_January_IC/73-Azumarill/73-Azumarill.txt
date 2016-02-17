@@ -1,0 +1,118 @@
+73:Azumarill|8
+ ---------- 
+Moves used:
+1:Play Rough,87.5%,7.0
+2:Aqua Jet,87.5%,7.0
+3:Superpower,62.5%,5.0
+4:Protect,50.0%,4.0
+5:Waterfall,50.0%,4.0
+6:Belly Drum,25.0%,2.0
+7:Dive,12.5%,1.0
+8:Perish Song,12.5%,1.0
+9:Rest,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,50.0%,4.0
+2:Lum Berry,25.0%,2.0
+3:Weakness Policy,12.5%,1.0
+4:Sitrus Berry,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,87.5%,7.0
+2:Sap Sipper,12.5%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,87.5%,7.0
+2:Sassy,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Talonflame
+5:Thundurus
+6:Gothitelle
+7:Cresselia
+8:Salamence
+9:Gengar
+10:Yveltal
+11:Meowstic
+12:Mienshao
+13:Ferrothorn
+14:Scrafty
+15:Palkia
+16:Dialga
+17:Rotom
+18:Infernape
+19:Mawile
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,45.7142857143%,3.65714285714
+2:Play Rough,22.8571428571%,1.82857142857
+3:Waterfall,17.1428571429%,1.37142857143
+4:Superpower,14.2857142857%,1.14285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.5%,1.4
+2:Water Spout,10.0%,0.8
+3:Double-Edge,10.0%,0.8
+4:Thunder,7.5%,0.6
+5:Origin Pulse,5.0%,0.4
+6:Dazzling Gleam,5.0%,0.4
+7:Earth Power,5.0%,0.4
+8:Brave Bird,5.0%,0.4
+9:Sludge Bomb,5.0%,0.4
+10:Dragon Ascent,2.5%,0.2
+11:Foul Play,2.5%,0.2
+12:Power Whip,2.5%,0.2
+13:Leaf Blade,2.5%,0.2
+14:Eruption,2.5%,0.2
+15:Extreme Speed,2.5%,0.2
+16:Thunderbolt,2.5%,0.2
+17:Ice Beam,2.5%,0.2
+18:Surf,2.5%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Cresselia
+6:Yveltal
+7:Thundurus
+8:Mienshao
+9:Ferrothorn
+10:Whimsicott
+11:Dialga
+12:Magnezone
+13:Latias
+14:Mawile
+15:Sableye
+16:Swampert
+17:Smeargle
+18:Scizor
+19:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Kangaskhan
+8:Gengar
+9:Yveltal
+10:Thundurus
+11:Virizion
+12:Ferrothorn
+13:Palkia

@@ -1,0 +1,136 @@
+126:Slowbro|95
+ ---------- 
+Moves used:
+1:Trick Room,96.8421052632%,92.0
+2:Slack Off,56.8421052632%,54.0
+3:Psychic,56.8421052632%,54.0
+4:Calm Mind,55.7894736842%,53.0
+5:Scald,31.5789473684%,30.0
+6:Skill Swap,20.0%,19.0
+7:Grass Knot,17.8947368421%,17.0
+8:Magic Coat,17.8947368421%,17.0
+9:Flamethrower,16.8421052632%,16.0
+10:Psyshock,15.7894736842%,15.0
+11:Ice Beam,11.5789473684%,11.0
+12:Yawn,1.05263157895%,1.0
+13:Protect,1.05263157895%,1.0
+
+ ---------- 
+Items used:
+1:Slowbronite,74.7368421053%,71.0
+2:Lum Berry,17.8947368421%,17.0
+3:Sitrus Berry,3.15789473684%,3.0
+4:Assault Vest,2.10526315789%,2.0
+5:Mental Herb,1.05263157895%,1.0
+6:Persim Berry,1.05263157895%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,45.2631578947%,43.0
+2:Regenerator,42.1052631579%,40.0
+3:Own Tempo,12.6315789474%,12.0
+
+ ---------- 
+Natures used:
+1:Relaxed,55.7894736842%,53.0
+2:Calm,17.8947368421%,17.0
+3:Quiet,17.8947368421%,17.0
+4:Modest,5.26315789474%,5.0
+5:Sassy,2.10526315789%,2.0
+6:Bold,1.05263157895%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Liepard
+3:Kyogre
+4:Xerneas
+5:Mawile
+6:Porygon2
+7:Ferrothorn
+8:Talonflame
+9:Rayquaza
+10:Aegislash
+11:Smeargle
+12:Yveltal
+13:Meowstic
+14:Dialga
+15:Ho-Oh
+16:Kangaskhan
+17:Thundurus
+18:Amoonguss
+19:Whimsicott
+20:Conkeldurr
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,64.1025641026%,60.8974358974
+2:Scald,15.3846153846%,14.6153846154
+3:Psyshock,7.69230769231%,7.30769230769
+4:Ice Beam,7.69230769231%,7.30769230769
+5:Flamethrower,5.12820512821%,4.87179487179
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,16.6666666667%,15.8333333333
+2:Precipice Blades,10.0%,9.5
+3:Dazzling Gleam,10.0%,9.5
+4:Power Whip,6.66666666667%,6.33333333333
+5:Thunderbolt,6.66666666667%,6.33333333333
+6:Origin Pulse,5.0%,4.75
+7:Brave Bird,5.0%,4.75
+8:Water Spout,5.0%,4.75
+9:Thunder,5.0%,4.75
+10:Double-Edge,5.0%,4.75
+11:Earth Power,3.33333333333%,3.16666666667
+12:Shadow Ball,3.33333333333%,3.16666666667
+13:Extreme Speed,3.33333333333%,3.16666666667
+14:Hex,1.66666666667%,1.58333333333
+15:Scald,1.66666666667%,1.58333333333
+16:Grass Knot,1.66666666667%,1.58333333333
+17:Shadow Sneak,1.66666666667%,1.58333333333
+18:Eruption,1.66666666667%,1.58333333333
+19:Return,1.66666666667%,1.58333333333
+20:Earthquake,1.66666666667%,1.58333333333
+0:Other,1.66666666667%,1.58333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Crobat
+4:Amoonguss
+5:Talonflame
+6:Ferrothorn
+7:Landorus
+8:Whimsicott
+9:Liepard
+10:Palkia
+11:Rayquaza
+12:Kyogre
+13:Mawile
+14:Sableye
+15:Hitmontop
+16:Smeargle
+17:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Ferrothorn
+5:Talonflame
+6:Kangaskhan
+7:Rayquaza
+8:Zapdos
+9:Aegislash
+10:Landorus
+11:Thundurus
+12:Whimsicott
+13:Giratina
+14:Groudon
+15:Salamence
+16:Starmie
+17:Gengar
+18:Gengar

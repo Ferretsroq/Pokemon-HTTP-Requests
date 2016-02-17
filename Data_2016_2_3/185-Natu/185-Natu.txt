@@ -1,0 +1,64 @@
+185:Natu|13
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,13.0
+2:Protect,100.0%,13.0
+3:Ally Switch,84.6153846154%,11.0
+4:Simple Beam,84.6153846154%,11.0
+5:Skill Swap,15.3846153846%,2.0
+6:Pain Split,15.3846153846%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,13.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Relaxed,84.6153846154%,11.0
+2:Gentle,15.3846153846%,2.0
+
+ ---------- 
+Top teammates:
+1:Blissey
+2:Kyogre
+3:Smeargle
+4:Mienshao
+5:Latias
+6:Mawile
+7:Ferrothorn
+8:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.0%,1.3
+2:Origin Pulse,10.0%,1.3
+3:Power-Up Punch,10.0%,1.3
+4:Dazzling Gleam,10.0%,1.3
+5:Play Rough,10.0%,1.3
+6:Hyper Voice,10.0%,1.3
+7:Knock Off,10.0%,1.3
+8:Aeroblast,10.0%,1.3
+9:Thunderbolt,10.0%,1.3
+10:Double-Edge,10.0%,1.3
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Yveltal
+3:Xerneas
+4:Thundurus
+5:Groudon
+6:Kyogre
+7:Salamence
+8:Mawile
+9:Lugia

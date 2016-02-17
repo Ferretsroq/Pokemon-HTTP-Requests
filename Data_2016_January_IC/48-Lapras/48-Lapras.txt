@@ -1,0 +1,141 @@
+48:Lapras|22
+ ---------- 
+Moves used:
+1:Hydro Pump,95.4545454545%,21.0
+2:Freeze-Dry,90.9090909091%,20.0
+3:Ice Shard,72.7272727273%,16.0
+4:Sheer Cold,68.1818181818%,15.0
+5:Icy Wind,18.1818181818%,4.0
+6:Ice Beam,13.6363636364%,3.0
+7:Dive,4.54545454545%,1.0
+8:Ancient Power,4.54545454545%,1.0
+9:Perish Song,4.54545454545%,1.0
+10:Protect,4.54545454545%,1.0
+11:Rest,4.54545454545%,1.0
+12:Psychic,4.54545454545%,1.0
+13:Fissure,4.54545454545%,1.0
+14:Thunder,4.54545454545%,1.0
+15:Thunderbolt,4.54545454545%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,95.4545454545%,21.0
+2:Chesto Berry,4.54545454545%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,90.9090909091%,20.0
+2:Shell Armor,9.09090909091%,2.0
+
+ ---------- 
+Natures used:
+1:Sassy,50.0%,11.0
+2:Modest,22.7272727273%,5.0
+3:Calm,9.09090909091%,2.0
+4:Quiet,9.09090909091%,2.0
+5:Serious,4.54545454545%,1.0
+6:Relaxed,4.54545454545%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Togekiss
+4:Ho-Oh
+5:Ferrothorn
+6:Kangaskhan
+7:Xerneas
+8:Landorus
+9:Mienshao
+10:Klefki
+11:Aegislash
+12:Liepard
+13:Mawile
+14:Gengar
+15:Palkia
+16:Salamence
+17:Venusaur
+18:Yveltal
+19:Talonflame
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,42.0168067227%,9.24369747899
+2:Ice Shard,18.487394958%,4.06722689076
+3:Sheer Cold,15.1260504202%,3.32773109244
+4:Hydro Pump,11.7647058824%,2.58823529412
+5:Ice Beam,5.04201680672%,1.10924369748
+6:Icy Wind,4.20168067227%,0.924369747899
+7:Psychic,1.68067226891%,0.36974789916
+8:Thunder,1.68067226891%,0.36974789916
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,8.16326530612%,1.79591836735
+2:Power Whip,8.16326530612%,1.79591836735
+3:Low Kick,8.16326530612%,1.79591836735
+4:Dragon Ascent,7.14285714286%,1.57142857143
+5:Eruption,5.10204081633%,1.12244897959
+6:Precipice Blades,4.08163265306%,0.897959183673
+7:Dazzling Gleam,4.08163265306%,0.897959183673
+8:Return,4.08163265306%,0.897959183673
+9:Thunder,4.08163265306%,0.897959183673
+10:Knock Off,3.0612244898%,0.673469387755
+11:Extreme Speed,3.0612244898%,0.673469387755
+12:Double-Edge,3.0612244898%,0.673469387755
+13:Fire Punch,3.0612244898%,0.673469387755
+14:Play Rough,2.04081632653%,0.448979591837
+15:Bullet Punch,2.04081632653%,0.448979591837
+16:Brave Bird,2.04081632653%,0.448979591837
+17:Sucker Punch,2.04081632653%,0.448979591837
+18:Close Combat,2.04081632653%,0.448979591837
+19:Superpower,2.04081632653%,0.448979591837
+20:Sacred Fire,2.04081632653%,0.448979591837
+0:Other,18.3673469388%,4.04081632653
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Salamence
+4:Rayquaza
+5:Talonflame
+6:Cresselia
+7:Gengar
+8:Landorus
+9:Togekiss
+10:Groudon
+11:Crobat
+12:Ferrothorn
+13:Whimsicott
+14:Palkia
+15:Rayquaza
+16:Thundurus
+17:Tornadus
+18:Liepard
+19:Salamence
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Ferrothorn
+5:Rayquaza
+6:Kyogre
+7:Landorus
+8:Weavile
+9:Mawile
+10:Ho-Oh
+11:Thundurus
+12:Scizor
+13:Yveltal
+14:Talonflame
+15:Terrakion
+16:Liepard
+17:Gallade
+18:Infernape
+19:Rayquaza
+20:Salamence

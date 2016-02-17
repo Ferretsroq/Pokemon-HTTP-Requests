@@ -1,0 +1,114 @@
+131:Ambipom|34
+ ---------- 
+Moves used:
+1:Fake Out,94.1176470588%,32.0
+2:Double Hit,79.4117647059%,27.0
+3:Knock Off,47.0588235294%,16.0
+4:Low Kick,44.1176470588%,15.0
+5:Thief,26.4705882353%,9.0
+6:Quick Guard,23.5294117647%,8.0
+7:Covet,14.7058823529%,5.0
+8:Last Resort,11.7647058824%,4.0
+9:Protect,11.7647058824%,4.0
+10:Fling,8.82352941176%,3.0
+11:Taunt,5.88235294118%,2.0
+12:Focus Punch,5.88235294118%,2.0
+13:Giga Impact,2.94117647059%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,35.2941176471%,12.0
+2:Lum Berry,29.4117647059%,10.0
+3:Normal Gem,20.5882352941%,7.0
+4:King's Rock,8.82352941176%,3.0
+5:Focus Sash,5.88235294118%,2.0
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Jolly,94.1176470588%,32.0
+2:Adamant,5.88235294118%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Crobat
+6:Exeggutor
+7:Ferrothorn
+8:Raichu
+9:Kyogre
+10:Ho-Oh
+11:Heliolisk
+12:Landorus
+13:Conkeldurr
+14:Liepard
+15:Cresselia
+16:Togekiss
+17:Metagross
+18:Mawile
+19:Smeargle
+20:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Double Hit,25.0%,8.5
+2:Covet,16.6666666667%,5.66666666667
+3:Fake Out,16.6666666667%,5.66666666667
+4:Low Kick,16.6666666667%,5.66666666667
+5:Last Resort,8.33333333333%,2.83333333333
+6:Knock Off,8.33333333333%,2.83333333333
+7:Focus Punch,8.33333333333%,2.83333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,16.0%,5.44
+2:Dazzling Gleam,12.0%,4.08
+3:Hyper Voice,8.0%,2.72
+4:Double-Edge,8.0%,2.72
+5:Dragon Ascent,4.0%,1.36
+6:Precipice Blades,4.0%,1.36
+7:Origin Pulse,4.0%,1.36
+8:Oblivion Wing,4.0%,1.36
+9:Moonblast,4.0%,1.36
+10:Draco Meteor,4.0%,1.36
+11:Bullet Punch,4.0%,1.36
+12:Brave Bird,4.0%,1.36
+13:Sucker Punch,4.0%,1.36
+14:Sludge Bomb,4.0%,1.36
+15:Explosion,4.0%,1.36
+16:Earthquake,4.0%,1.36
+17:Low Kick,4.0%,1.36
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+3:Meowstic
+4:Talonflame
+5:Thundurus
+6:Ferrothorn
+7:Palkia
+8:Weavile
+9:Crobat
+10:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Kangaskhan
+5:Landorus
+6:Yveltal
+7:Talonflame
+8:Giratina
+9:Rayquaza
+10:Kyogre
+11:Metagross
+12:Gengar

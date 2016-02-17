@@ -1,0 +1,93 @@
+158:Pinsir|44
+ ---------- 
+Moves used:
+1:Feint,100.0%,44.0
+2:Protect,100.0%,44.0
+3:Focus Punch,93.1818181818%,41.0
+4:Me First,61.3636363636%,27.0
+5:Thief,31.8181818182%,14.0
+6:Close Combat,6.81818181818%,3.0
+7:Return,6.81818181818%,3.0
+
+ ---------- 
+Items used:
+1:Pinsirite,77.2727272727%,34.0
+2:Persim Berry,22.7272727273%,10.0
+
+ ---------- 
+Abilities used:
+1:Hyper Cutter,93.1818181818%,41.0
+2:Mold Breaker,6.81818181818%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,75.0%,33.0
+2:Jolly,25.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Aurorus
+4:Ditto
+5:Kangaskhan
+6:Kyurem
+7:Groudon
+8:Yveltal
+9:Mamoswine
+10:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,63.6363636364%,28.0
+2:Focus Punch,30.303030303%,13.3333333333
+3:Thief,6.06060606061%,2.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,24.0%,10.56
+2:Eruption,12.0%,5.28
+3:Dragon Ascent,8.0%,3.52
+4:Origin Pulse,8.0%,3.52
+5:Dazzling Gleam,8.0%,3.52
+6:Rock Slide,8.0%,3.52
+7:Double-Edge,8.0%,3.52
+8:Psystrike,4.0%,1.76
+9:Shadow Sneak,4.0%,1.76
+10:Facade,4.0%,1.76
+11:Icy Wind,4.0%,1.76
+12:Blizzard,4.0%,1.76
+13:Flamethrower,4.0%,1.76
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Talonflame
+4:Xerneas
+5:Kyurem
+6:Landorus
+7:Ferrothorn
+8:Cresselia
+9:Palkia
+10:Kyogre
+11:Scizor
+12:Crobat
+13:Mewtwo
+14:Gengar
+15:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Kyogre
+6:Salamence
+7:Aegislash
+8:Kyurem
+9:Garchomp
+10:Mewtwo
+11:Kangaskhan
+12:Gengar

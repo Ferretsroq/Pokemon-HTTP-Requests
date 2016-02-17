@@ -1,0 +1,106 @@
+121:Empoleon|44
+ ---------- 
+Moves used:
+1:Ice Beam,100.0%,44.0
+2:Flash Cannon,93.1818181818%,41.0
+3:Grass Knot,88.6363636364%,39.0
+4:Scald,81.8181818182%,36.0
+5:Aqua Jet,11.3636363636%,5.0
+6:Protect,11.3636363636%,5.0
+7:Steel Wing,6.81818181818%,3.0
+8:Hydro Pump,6.81818181818%,3.0
+
+ ---------- 
+Items used:
+1:Assault Vest,81.8181818182%,36.0
+2:Leftovers,11.3636363636%,5.0
+3:Expert Belt,6.81818181818%,3.0
+
+ ---------- 
+Abilities used:
+1:Torrent,93.1818181818%,41.0
+2:Defiant,6.81818181818%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,93.1818181818%,41.0
+2:Quiet,6.81818181818%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Crobat
+4:Groudon
+5:Serperior
+6:Togekiss
+7:Kangaskhan
+8:Mienshao
+9:Yveltal
+10:Hydreigon
+11:Whimsicott
+12:Rotom
+13:Weavile
+14:Giratina
+15:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,39.1304347826%,17.2173913043
+2:Scald,21.7391304348%,9.5652173913
+3:Flash Cannon,21.7391304348%,9.5652173913
+4:Grass Knot,13.0434782609%,5.73913043478
+5:Steel Wing,4.34782608696%,1.91304347826
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,12.5%,5.5
+2:Precipice Blades,9.375%,4.125
+3:Eruption,9.375%,4.125
+4:Earthquake,9.375%,4.125
+5:Shadow Force,6.25%,2.75
+6:Sucker Punch,6.25%,2.75
+7:Thunder,6.25%,2.75
+8:Low Kick,6.25%,2.75
+9:Dragon Ascent,3.125%,1.375
+10:Dazzling Gleam,3.125%,1.375
+11:Earth Power,3.125%,1.375
+12:Flare Blitz,3.125%,1.375
+13:Knock Off,3.125%,1.375
+14:Superpower,3.125%,1.375
+15:Fake Out,3.125%,1.375
+16:Rock Slide,3.125%,1.375
+17:Flamethrower,3.125%,1.375
+18:Double-Edge,3.125%,1.375
+19:Fire Punch,3.125%,1.375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Salamence
+4:Talonflame
+5:Smeargle
+6:Zekrom
+7:Thundurus
+8:Liepard
+9:Weavile
+10:Rayquaza
+11:Crobat
+12:Zapdos
+13:Kangaskhan
+14:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Landorus
+5:Giratina
+6:Rayquaza
+7:Xerneas
+8:Talonflame
+9:Ferrothorn
+10:Mawile
+11:Swampert

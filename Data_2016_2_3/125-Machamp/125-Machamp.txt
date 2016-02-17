@@ -1,0 +1,113 @@
+125:Machamp|41
+ ---------- 
+Moves used:
+1:Dynamic Punch,92.6829268293%,38.0
+2:Wide Guard,90.243902439%,37.0
+3:Knock Off,46.3414634146%,19.0
+4:Encore,39.0243902439%,16.0
+5:Protect,29.2682926829%,12.0
+6:Stone Edge,26.8292682927%,11.0
+7:Rock Slide,21.9512195122%,9.0
+8:Quick Guard,19.512195122%,8.0
+9:Ice Punch,17.0731707317%,7.0
+10:Cross Chop,7.31707317073%,3.0
+11:Earthquake,4.87804878049%,2.0
+12:Bullet Punch,2.43902439024%,1.0
+13:Fire Punch,2.43902439024%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,63.4146341463%,26.0
+2:Coba Berry,9.75609756098%,4.0
+3:Razor Claw,7.31707317073%,3.0
+4:Leftovers,7.31707317073%,3.0
+5:Lum Berry,4.87804878049%,2.0
+6:Assault Vest,2.43902439024%,1.0
+7:Life Orb,2.43902439024%,1.0
+8:Expert Belt,2.43902439024%,1.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,41.0
+
+ ---------- 
+Natures used:
+1:Adamant,60.9756097561%,25.0
+2:Sassy,29.2682926829%,12.0
+3:Brave,7.31707317073%,3.0
+4:Impish,2.43902439024%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Rayquaza
+4:Cresselia
+5:Kyogre
+6:Talonflame
+7:Dialga
+8:Mawile
+9:Parasect
+10:Xerneas
+11:Kyurem
+12:Togekiss
+13:Bronzong
+14:Gardevoir
+15:Escavalier
+16:Liepard
+17:Uxie
+18:Banette
+19:Reshiram
+20:Hydreigon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dynamic Punch,66.6666666667%,27.3333333333
+2:Stone Edge,16.6666666667%,6.83333333333
+3:Cross Chop,8.33333333333%,3.41666666667
+4:Fire Punch,8.33333333333%,3.41666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,22.2222222222%,9.11111111111
+2:Moonblast,14.8148148148%,6.07407407407
+3:Precipice Blades,7.40740740741%,3.03703703704
+4:Dazzling Gleam,7.40740740741%,3.03703703704
+5:Brave Bird,7.40740740741%,3.03703703704
+6:Eruption,7.40740740741%,3.03703703704
+7:Origin Pulse,3.7037037037%,1.51851851852
+8:Oblivion Wing,3.7037037037%,1.51851851852
+9:Play Rough,3.7037037037%,1.51851851852
+10:Power Whip,3.7037037037%,1.51851851852
+11:Earth Power,3.7037037037%,1.51851851852
+12:Flare Blitz,3.7037037037%,1.51851851852
+13:Fake Out,3.7037037037%,1.51851851852
+14:Return,3.7037037037%,1.51851851852
+15:Double-Edge,3.7037037037%,1.51851851852
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Talonflame
+4:Ferrothorn
+5:Archeops
+6:Cresselia
+7:Jumpluff
+8:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Kangaskhan
+5:Yveltal
+6:Talonflame
+7:Braviary
+8:Ferrothorn
+9:Palkia
+10:Groudon
+11:Kyogre
+12:Mawile
+13:Ho-Oh

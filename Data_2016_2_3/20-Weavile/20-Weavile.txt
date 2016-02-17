@@ -1,0 +1,160 @@
+20:Weavile|3279
+ ---------- 
+Moves used:
+1:Fake Out,99.6340347667%,3267.0
+2:Knock Off,92.3452272034%,3028.0
+3:Icicle Crash,81.2442817932%,2664.0
+4:Low Kick,46.3860933211%,1521.0
+5:Feint,28.1183287588%,922.0
+6:Ice Shard,12.351326624%,405.0
+7:Ice Punch,11.7108874657%,384.0
+8:Foul Play,9.7285757853%,319.0
+9:Taunt,4.84903934126%,159.0
+10:Protect,4.81854223849%,158.0
+11:Snatch,3.23269289418%,106.0
+12:Fling,2.714242147%,89.0
+13:Poison Jab,1.12839280268%,37.0
+14:Icy Wind,0.975907288808%,32.0
+15:Beat Up,0.365965233303%,12.0
+16:Snarl,0.213479719427%,7.0
+17:Night Slash,0.121988411101%,4.0
+18:Assist,0.0304971027752%,1.0
+19:Substitute,0.0304971027752%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.6861848124%,1662.0
+2:Life Orb,42.1469960354%,1382.0
+3:King's Rock,1.79932906374%,59.0
+4:Lum Berry,1.46386093321%,48.0
+5:Assault Vest,1.21988411101%,40.0
+6:Expert Belt,1.21988411101%,40.0
+7:Razor Fang,0.609942055505%,20.0
+8:Lansat Berry,0.213479719427%,7.0
+9:Never-Melt Ice,0.182982616651%,6.0
+10:Icicle Plate,0.152485513876%,5.0
+11:Hard Stone,0.0914913083257%,3.0
+12:Eject Button,0.0609942055505%,2.0
+13:Roseli Berry,0.0304971027752%,1.0
+14:Light Ball,0.0304971027752%,1.0
+15:Choice Band,0.0304971027752%,1.0
+16:Rowap Berry,0.0304971027752%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,89.2040256176%,2925.0
+2:Pickpocket,10.7959743824%,354.0
+
+ ---------- 
+Natures used:
+1:Jolly,98.2006709363%,3220.0
+2:Adamant,0.884415980482%,29.0
+3:Naive,0.823421774931%,27.0
+4:Timid,0.0914913083257%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Xerneas
+5:Crobat
+6:Salamence
+7:Cresselia
+8:Ferrothorn
+9:Talonflame
+10:Mawile
+11:Kangaskhan
+12:Thundurus
+13:Aegislash
+14:Gengar
+15:Yveltal
+16:Smeargle
+17:Landorus
+18:Ho-Oh
+19:Whimsicott
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Crash,34.2809364548%,1124.07190635
+2:Knock Off,29.2642140468%,959.573578595
+3:Low Kick,12.2073578595%,400.279264214
+4:Feint,7.94314381271%,260.455685619
+5:Ice Punch,5.60200668896%,183.689799331
+6:Ice Shard,5.35117056856%,175.464882943
+7:Fake Out,2.59197324415%,84.9908026756
+8:Foul Play,2.50836120401%,82.2491638796
+9:Poison Jab,0.0836120401338%,2.74163879599
+10:Fling,0.0836120401338%,2.74163879599
+11:Icy Wind,0.0836120401338%,2.74163879599
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.9201520913%,554.811787072
+2:Eruption,7.26235741445%,238.13269962
+3:Low Kick,6.92015209125%,226.911787072
+4:Water Spout,5.89353612167%,193.24904943
+5:Origin Pulse,5.05703422053%,165.820152091
+6:Precipice Blades,4.48669201521%,147.118631179
+7:Brave Bird,3.99239543726%,130.910646388
+8:Rock Slide,3.65019011407%,119.68973384
+9:Power-Up Punch,3.536121673%,115.949429658
+10:Gyro Ball,3.38403041825%,110.962357414
+11:Sucker Punch,2.77566539924%,91.0140684411
+12:Iron Head,2.54752851711%,83.533460076
+13:Extreme Speed,2.47148288973%,81.0399239544
+14:Double-Edge,2.47148288973%,81.0399239544
+15:Hyper Voice,1.63498098859%,53.611026616
+16:Ice Beam,1.44486692015%,47.3771863118
+17:Earth Power,1.2927756654%,42.3901140684
+18:Flare Blitz,1.2927756654%,42.3901140684
+19:Fake Out,1.14068441065%,37.4030418251
+20:Moonblast,1.06463878327%,34.9095057034
+0:Other,16.5399239544%,542.344106464
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kangaskhan
+3:Talonflame
+4:Salamence
+5:Cresselia
+6:Thundurus
+7:Smeargle
+8:Rayquaza
+9:Xerneas
+10:Landorus
+11:Weavile
+12:Yveltal
+13:Whimsicott
+14:Kyogre
+15:Gengar
+16:Amoonguss
+17:Groudon
+18:Ferrothorn
+19:Liepard
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Talonflame
+6:Ferrothorn
+7:Rayquaza
+8:Mawile
+9:Salamence
+10:Weavile
+11:Landorus
+12:Aegislash
+13:Ho-Oh
+14:Yveltal
+15:Mienshao
+16:Gengar
+17:Kangaskhan
+18:Rayquaza
+19:Dialga
+20:Cresselia

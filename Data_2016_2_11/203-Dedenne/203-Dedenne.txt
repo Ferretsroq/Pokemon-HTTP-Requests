@@ -1,0 +1,68 @@
+203:Dedenne|13
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,13.0
+2:Protect,100.0%,13.0
+3:Super Fang,61.5384615385%,8.0
+4:Swagger,53.8461538462%,7.0
+5:Entrainment,46.1538461538%,6.0
+6:Parabolic Charge,38.4615384615%,5.0
+
+ ---------- 
+Items used:
+1:Focus Sash,46.1538461538%,6.0
+2:Sitrus Berry,38.4615384615%,5.0
+3:Lum Berry,15.3846153846%,2.0
+
+ ---------- 
+Abilities used:
+1:Cheek Pouch,84.6153846154%,11.0
+2:Pickup,15.3846153846%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,84.6153846154%,11.0
+2:Timid,15.3846153846%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Yveltal
+3:Kyogre
+4:Tornadus
+5:Excadrill
+6:Groudon
+7:Aerodactyl
+8:Kangaskhan
+9:Ferrothorn
+10:Illumise
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,16.6666666667%,2.16666666667
+2:Dazzling Gleam,8.33333333333%,1.08333333333
+3:Moonblast,8.33333333333%,1.08333333333
+4:Iron Head,8.33333333333%,1.08333333333
+5:Earth Power,8.33333333333%,1.08333333333
+6:Sucker Punch,8.33333333333%,1.08333333333
+7:Water Spout,8.33333333333%,1.08333333333
+8:Hyper Voice,8.33333333333%,1.08333333333
+9:Waterfall,8.33333333333%,1.08333333333
+10:Thunder,8.33333333333%,1.08333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Kyurem
+4:Rayquaza
+5:Groudon
+6:Salamence
+7:Mawile
+8:Kangaskhan

@@ -1,0 +1,118 @@
+148:Archeops|57
+ ---------- 
+Moves used:
+1:Rock Slide,98.2456140351%,56.0
+2:Quick Guard,96.4912280702%,55.0
+3:Tailwind,82.4561403509%,47.0
+4:Ally Switch,42.1052631579%,24.0
+5:Stealth Rock,42.1052631579%,24.0
+6:Roar,15.7894736842%,9.0
+7:Knock Off,12.2807017544%,7.0
+8:Acrobatics,1.75438596491%,1.0
+9:Earth Power,1.75438596491%,1.0
+10:Heat Wave,1.75438596491%,1.0
+11:Hidden Power,1.75438596491%,1.0
+12:Protect,1.75438596491%,1.0
+13:Sky Attack,1.75438596491%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,56.1403508772%,32.0
+2:Lum Berry,26.3157894737%,15.0
+3:Sitrus Berry,15.7894736842%,9.0
+4:Power Herb,1.75438596491%,1.0
+
+ ---------- 
+Abilities used:
+1:Defeatist,100.0%,57.0
+
+ ---------- 
+Natures used:
+1:Jolly,98.2456140351%,56.0
+2:Timid,1.75438596491%,1.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Rayquaza
+3:Kyogre
+4:Dialga
+5:Xerneas
+6:Smeargle
+7:Noivern
+8:Ho-Oh
+9:Reshiram
+10:Groudon
+11:Salamence
+12:Gengar
+13:Yveltal
+14:Charizard
+15:Sylveon
+16:Talonflame
+17:Scizor
+18:Mewtwo
+19:Kangaskhan
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,57.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.0%,10.26
+2:Origin Pulse,14.0%,7.98
+3:Precipice Blades,8.0%,4.56
+4:Rock Slide,8.0%,4.56
+5:Brave Bird,6.0%,3.42
+6:Gyro Ball,6.0%,3.42
+7:Dragon Ascent,4.0%,2.28
+8:Hyper Voice,4.0%,2.28
+9:Thunderbolt,4.0%,2.28
+10:Oblivion Wing,2.0%,1.14
+11:Moonblast,2.0%,1.14
+12:Icicle Crash,2.0%,1.14
+13:Scald,2.0%,1.14
+14:Draco Meteor,2.0%,1.14
+15:Flare Blitz,2.0%,1.14
+16:Feint,2.0%,1.14
+17:Water Spout,2.0%,1.14
+18:Knock Off,2.0%,1.14
+19:Shadow Ball,2.0%,1.14
+20:Psychic,2.0%,1.14
+0:Other,2.0%,1.14
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kyogre
+3:Smeargle
+4:Crobat
+5:Xerneas
+6:Amoonguss
+7:Liepard
+8:Togekiss
+9:Sableye
+10:Mewtwo
+11:Kangaskhan
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Talonflame
+5:Landorus
+6:Ferrothorn
+7:Salamence
+8:Thundurus
+9:Weavile
+10:Yveltal
+11:Mienshao
+12:Cresselia
+13:Rayquaza
+14:Rayquaza
+15:Latios
+16:Ho-Oh
+17:Gengar

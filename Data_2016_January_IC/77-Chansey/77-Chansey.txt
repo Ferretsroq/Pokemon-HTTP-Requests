@@ -1,0 +1,98 @@
+77:Chansey|6
+ ---------- 
+Moves used:
+1:Soft-Boiled,100.0%,6.0
+2:Seismic Toss,83.3333333333%,5.0
+3:Minimize,66.6666666667%,4.0
+4:Protect,50.0%,3.0
+5:Thunder Wave,33.3333333333%,2.0
+6:Skill Swap,16.6666666667%,1.0
+7:Toxic,16.6666666667%,1.0
+8:Counter,16.6666666667%,1.0
+9:Ice Beam,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,83.3333333333%,5.0
+2:Serene Grace,16.6666666667%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,66.6666666667%,4.0
+2:Relaxed,33.3333333333%,2.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Hitmontop
+6:Sylveon
+7:Tornadus
+8:Ferrothorn
+9:Gothitelle
+10:Whimsicott
+11:Giratina
+12:Palkia
+13:Weavile
+14:Groudon
+15:Latias
+16:Swampert
+17:Ho-Oh
+18:Smeargle
+19:Crobat
+20:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,14.2857142857%,0.857142857143
+2:Dragon Ascent,10.7142857143%,0.642857142857
+3:Double-Edge,10.7142857143%,0.642857142857
+4:Dazzling Gleam,7.14285714286%,0.428571428571
+5:Brave Bird,7.14285714286%,0.428571428571
+6:Eruption,7.14285714286%,0.428571428571
+7:Origin Pulse,3.57142857143%,0.214285714286
+8:Power-Up Punch,3.57142857143%,0.214285714286
+9:U-turn,3.57142857143%,0.214285714286
+10:Gyro Ball,3.57142857143%,0.214285714286
+11:Extreme Speed,3.57142857143%,0.214285714286
+12:Sacred Fire,3.57142857143%,0.214285714286
+13:Frustration,3.57142857143%,0.214285714286
+14:Thunder,3.57142857143%,0.214285714286
+15:Low Kick,3.57142857143%,0.214285714286
+16:Ice Beam,3.57142857143%,0.214285714286
+17:Fire Punch,3.57142857143%,0.214285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Thundurus
+5:Liepard
+6:Cresselia
+7:Scizor
+8:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Rayquaza
+4:Groudon
+5:Xerneas
+6:Ho-Oh
+7:Talonflame
+8:Landorus
+9:Ferrothorn
+10:Rayquaza
+11:Kyogre

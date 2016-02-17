@@ -1,0 +1,45 @@
+289:Ponyta|1
+ ---------- 
+Moves used:
+1:Flame Charge,100.0%,1.0
+2:Morning Sun,100.0%,1.0
+3:Hypnosis,100.0%,1.0
+4:Horn Drill,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Palkia
+3:Meowstic
+4:Vivillon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flame Charge,50.0%,0.5
+2:Horn Drill,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,0.5
+2:Earth Power,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Scrafty
+2:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

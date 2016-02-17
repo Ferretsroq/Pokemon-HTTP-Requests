@@ -1,0 +1,84 @@
+164:Sneasel|37
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,37.0
+2:Foul Play,97.2972972973%,36.0
+3:Icy Wind,97.2972972973%,36.0
+4:Screech,97.2972972973%,36.0
+5:Icicle Crash,2.7027027027%,1.0
+6:Knock Off,2.7027027027%,1.0
+7:Low Kick,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,37.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Timid,97.2972972973%,36.0
+2:Jolly,2.7027027027%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Yveltal
+4:Ferrothorn
+5:Thundurus
+6:Xerneas
+7:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,37.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,26.9230769231%,9.96153846154
+2:Extreme Speed,15.3846153846%,5.69230769231
+3:Precipice Blades,11.5384615385%,4.26923076923
+4:Origin Pulse,3.84615384615%,1.42307692308
+5:Power-Up Punch,3.84615384615%,1.42307692308
+6:Moonblast,3.84615384615%,1.42307692308
+7:Foul Play,3.84615384615%,1.42307692308
+8:Earth Power,3.84615384615%,1.42307692308
+9:Brave Bird,3.84615384615%,1.42307692308
+10:Dragon Claw,3.84615384615%,1.42307692308
+11:Water Spout,3.84615384615%,1.42307692308
+12:Hyper Voice,3.84615384615%,1.42307692308
+13:Eruption,3.84615384615%,1.42307692308
+14:Rock Slide,3.84615384615%,1.42307692308
+15:Low Kick,3.84615384615%,1.42307692308
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Talonflame
+3:Liepard
+4:Cresselia
+5:Palkia
+6:Purugly
+7:Mawile
+8:Mawile
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Whimsicott
+9:Liepard
+10:Dialga
+11:Rayquaza
+12:Salamence
+13:Gardevoir
+14:Ditto

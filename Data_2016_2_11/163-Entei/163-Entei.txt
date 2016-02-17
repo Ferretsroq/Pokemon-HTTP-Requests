@@ -1,0 +1,102 @@
+163:Entei|30
+ ---------- 
+Moves used:
+1:Sacred Fire,100.0%,30.0
+2:Protect,100.0%,30.0
+3:Stone Edge,83.3333333333%,25.0
+4:Iron Head,60.0%,18.0
+5:Substitute,16.6666666667%,5.0
+6:Snarl,13.3333333333%,4.0
+7:Bulldoze,13.3333333333%,4.0
+8:Will-O-Wisp,10.0%,3.0
+9:Roar,3.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,53.3333333333%,16.0
+2:Leftovers,30.0%,9.0
+3:Lum Berry,10.0%,3.0
+4:Safety Goggles,6.66666666667%,2.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,30.0
+
+ ---------- 
+Natures used:
+1:Jolly,56.6666666667%,17.0
+2:Adamant,43.3333333333%,13.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Whimsicott
+4:Togekiss
+5:Thundurus
+6:Xerneas
+7:Mienshao
+8:Lugia
+9:Clefable
+10:Meowstic
+11:Hydreigon
+12:Eelektross
+13:Giratina
+14:Metagross
+15:Smeargle
+16:Beedrill
+17:Yveltal
+18:Landorus
+19:Liepard
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stone Edge,40.0%,12.0
+2:Iron Head,30.0%,9.0
+3:Sacred Fire,30.0%,9.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,9.09090909091%,2.72727272727
+2:Origin Pulse,9.09090909091%,2.72727272727
+3:Earth Power,9.09090909091%,2.72727272727
+4:Rock Slide,9.09090909091%,2.72727272727
+5:Dragon Ascent,4.54545454545%,1.36363636364
+6:Dazzling Gleam,4.54545454545%,1.36363636364
+7:Foul Play,4.54545454545%,1.36363636364
+8:Roar of Time,4.54545454545%,1.36363636364
+9:Draco Meteor,4.54545454545%,1.36363636364
+10:Last Resort,4.54545454545%,1.36363636364
+11:Water Spout,4.54545454545%,1.36363636364
+12:Hyper Voice,4.54545454545%,1.36363636364
+13:Extreme Speed,4.54545454545%,1.36363636364
+14:Sacred Fire,4.54545454545%,1.36363636364
+15:Waterfall,4.54545454545%,1.36363636364
+16:Double-Edge,4.54545454545%,1.36363636364
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Weavile
+4:Kyogre
+5:Salamence
+6:Mawile
+7:Smeargle
+8:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Yveltal
+5:Xerneas
+6:Terrakion
+7:Excadrill
+8:Dialga
+9:Salamence
+10:Ho-Oh
+11:Snorlax
+12:Kangaskhan

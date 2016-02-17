@@ -1,0 +1,84 @@
+92:Kyurem-B|4
+ ---------- 
+Moves used:
+1:Fusion Bolt,100.0%,4.0
+2:Dragon Claw,75.0%,3.0
+3:Freeze Shock,50.0%,2.0
+4:Outrage,50.0%,2.0
+5:Protect,50.0%,2.0
+6:Iron Head,25.0%,1.0
+7:Facade,25.0%,1.0
+8:Light Screen,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,50.0%,2.0
+2:Choice Scarf,25.0%,1.0
+3:Power Herb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Teravolt,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Jolly,50.0%,2.0
+2:Quirky,25.0%,1.0
+3:Adamant,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Terrakion
+3:Groudon
+4:Yveltal
+5:Hawlucha
+6:Landorus
+7:Ferrothorn
+8:Whimsicott
+9:Cresselia
+10:Garchomp
+11:Kyogre
+12:Salamence
+13:Gardevoir
+14:Suicune
+15:Scizor
+16:Snorlax
+17:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fusion Bolt,85.7142857143%,3.42857142857
+2:Outrage,14.2857142857%,0.571428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,0.8
+2:Precipice Blades,10.0%,0.4
+3:Iron Head,10.0%,0.4
+4:Draco Meteor,10.0%,0.4
+5:Bullet Punch,10.0%,0.4
+6:Dragon Pulse,10.0%,0.4
+7:Gyro Ball,10.0%,0.4
+8:Dragon Claw,10.0%,0.4
+9:Eruption,10.0%,0.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Yveltal
+3:Talonflame
+4:Ho-Oh
+5:Smeargle
+6:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Ferrothorn
+4:Dialga
+5:Rayquaza
+6:Salamence
+7:Mawile
+8:Scizor

@@ -1,0 +1,114 @@
+115:Murkrow|84
+ ---------- 
+Moves used:
+1:Taunt,91.6666666667%,77.0
+2:Protect,83.3333333333%,70.0
+3:Torment,77.380952381%,65.0
+4:Perish Song,77.380952381%,65.0
+5:Tailwind,20.2380952381%,17.0
+6:Snarl,15.4761904762%,13.0
+7:Haze,14.2857142857%,12.0
+8:Quash,10.7142857143%,9.0
+9:Confuse Ray,3.57142857143%,3.0
+10:Brave Bird,1.19047619048%,1.0
+11:Feather Dance,1.19047619048%,1.0
+12:Swagger,1.19047619048%,1.0
+13:Night Shade,1.19047619048%,1.0
+14:Thunder Wave,1.19047619048%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,77.380952381%,65.0
+2:Eviolite,21.4285714286%,18.0
+3:Mental Herb,1.19047619048%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,84.0
+
+ ---------- 
+Natures used:
+1:Careful,69.0476190476%,58.0
+2:Calm,15.4761904762%,13.0
+3:Timid,9.52380952381%,8.0
+4:Bold,3.57142857143%,3.0
+5:Jolly,1.19047619048%,1.0
+6:Adamant,1.19047619048%,1.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Sableye
+3:Probopass
+4:Kyogre
+5:Rayquaza
+6:Xerneas
+7:Ferrothorn
+8:Salamence
+9:Talonflame
+10:Groudon
+11:Kangaskhan
+12:Meowstic
+13:Landorus
+14:Scizor
+15:Heatran
+16:Garchomp
+17:Pachirisu
+18:Mawile
+19:Raichu
+20:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Snarl,100.0%,84.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,10.7142857143%,9.0
+2:Water Spout,8.92857142857%,7.5
+3:Origin Pulse,7.14285714286%,6.0
+4:Rock Slide,7.14285714286%,6.0
+5:Precipice Blades,5.35714285714%,4.5
+6:Hyper Voice,5.35714285714%,4.5
+7:Eruption,5.35714285714%,4.5
+8:Ice Beam,5.35714285714%,4.5
+9:Dazzling Gleam,3.57142857143%,3.0
+10:Play Rough,3.57142857143%,3.0
+11:Grass Knot,3.57142857143%,3.0
+12:Brave Bird,3.57142857143%,3.0
+13:Feint,3.57142857143%,3.0
+14:Return,3.57142857143%,3.0
+15:Dragon Ascent,1.78571428571%,1.5
+16:Scald,1.78571428571%,1.5
+17:Spacial Rend,1.78571428571%,1.5
+18:Draco Meteor,1.78571428571%,1.5
+19:Dark Pulse,1.78571428571%,1.5
+20:Gyro Ball,1.78571428571%,1.5
+0:Other,8.92857142857%,7.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Xerneas
+6:Talonflame
+7:Amoonguss
+8:Cresselia
+9:Rayquaza
+10:Mawile
+11:Raichu
+12:Pyroar
+13:Kyurem
+14:Landorus
+15:Hydreigon
+16:Ferrothorn
+17:Palkia
+18:Rayquaza
+19:Ludicolo
+20:Kangaskhan

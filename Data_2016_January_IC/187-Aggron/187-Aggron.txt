@@ -1,0 +1,41 @@
+187:Aggron|1
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,1.0
+2:Taunt,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Aggronite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Rock Head,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Talonflame
+3:Landorus
+4:Groudon
+5:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

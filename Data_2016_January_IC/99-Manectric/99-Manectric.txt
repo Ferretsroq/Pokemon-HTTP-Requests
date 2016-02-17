@@ -1,0 +1,97 @@
+99:Manectric|4
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,4.0
+2:Protect,100.0%,4.0
+3:Thunder,50.0%,2.0
+4:Flamethrower,50.0%,2.0
+5:Snarl,25.0%,1.0
+6:Discharge,25.0%,1.0
+7:Overheat,25.0%,1.0
+8:Thunderbolt,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Manectite,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Togekiss
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Ho-Oh
+6:Yveltal
+7:Xerneas
+8:Ferrothorn
+9:Sawsbuck
+10:Whimsicott
+11:Liepard
+12:Cresselia
+13:Swampert
+14:Scizor
+15:Starmie
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Switch,31.5789473684%,1.26315789474
+2:Thunder,26.3157894737%,1.05263157895
+3:Thunderbolt,15.7894736842%,0.631578947368
+4:Flamethrower,15.7894736842%,0.631578947368
+5:Overheat,10.5263157895%,0.421052631579
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,14.8148148148%,0.592592592593
+2:Dazzling Gleam,14.8148148148%,0.592592592593
+3:Water Spout,14.8148148148%,0.592592592593
+4:Moonblast,7.40740740741%,0.296296296296
+5:Earth Power,7.40740740741%,0.296296296296
+6:Extreme Speed,7.40740740741%,0.296296296296
+7:Draco Meteor,3.7037037037%,0.148148148148
+8:Brave Bird,3.7037037037%,0.148148148148
+9:Sucker Punch,3.7037037037%,0.148148148148
+10:Overheat,3.7037037037%,0.148148148148
+11:Eruption,3.7037037037%,0.148148148148
+12:Earthquake,3.7037037037%,0.148148148148
+13:Fire Punch,3.7037037037%,0.148148148148
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Smeargle
+3:Yveltal
+4:Xerneas
+5:Talonflame
+6:Greninja
+7:Landorus
+8:Tornadus
+9:Amoonguss
+10:Gothitelle
+11:Whimsicott
+12:Liepard
+13:Mawile
+14:Hitmontop
+15:Kangaskhan
+16:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Rayquaza
+5:Talonflame
+6:Giratina
+7:Togekiss
+8:Infernape
+9:Kyogre
+10:Kangaskhan

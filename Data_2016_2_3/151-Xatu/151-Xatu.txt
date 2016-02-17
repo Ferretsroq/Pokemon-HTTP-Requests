@@ -1,0 +1,80 @@
+151:Xatu|25
+ ---------- 
+Moves used:
+1:Tailwind,96.0%,24.0
+2:Ally Switch,92.0%,23.0
+3:Thunder Wave,92.0%,23.0
+4:Simple Beam,88.0%,22.0
+5:Air Slash,8.0%,2.0
+6:Roost,8.0%,2.0
+7:Confuse Ray,8.0%,2.0
+8:Foul Play,4.0%,1.0
+9:Trick Room,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,88.0%,22.0
+2:Kee Berry,8.0%,2.0
+3:Sitrus Berry,4.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,25.0
+
+ ---------- 
+Natures used:
+1:Timid,88.0%,22.0
+2:Careful,8.0%,2.0
+3:Calm,4.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Landorus
+4:Kyogre
+5:Raichu
+6:Reshiram
+7:Thundurus
+8:Salamence
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.3913043478%,4.34782608696
+2:Eruption,17.3913043478%,4.34782608696
+3:Ice Beam,13.0434782609%,3.26086956522
+4:Moonblast,8.69565217391%,2.17391304348
+5:Double-Edge,8.69565217391%,2.17391304348
+6:Dragon Ascent,4.34782608696%,1.08695652174
+7:Iron Head,4.34782608696%,1.08695652174
+8:Power Whip,4.34782608696%,1.08695652174
+9:Ice Shard,4.34782608696%,1.08695652174
+10:Brave Bird,4.34782608696%,1.08695652174
+11:Dragon Claw,4.34782608696%,1.08695652174
+12:Knock Off,4.34782608696%,1.08695652174
+13:Sludge Bomb,4.34782608696%,1.08695652174
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Talonflame
+4:Ferrothorn
+5:Cresselia
+6:Giratina
+7:Weavile
+8:Rayquaza
+9:Kyogre
+10:Salamence
+11:Mawile
+12:Lapras
+13:Kangaskhan
+14:Gengar
+15:Nidoqueen
