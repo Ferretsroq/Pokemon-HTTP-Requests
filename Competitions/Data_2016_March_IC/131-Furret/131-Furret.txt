@@ -1,0 +1,63 @@
+131:Furret|2
+ ---------- 
+Moves used:
+1:Helping Hand,100.0%,2.0
+2:Follow Me,100.0%,2.0
+3:Super Fang,100.0%,2.0
+4:Trick,50.0%,1.0
+5:Protect,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,50.0%,1.0
+2:Focus Sash,50.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Rayquaza
+3:Xerneas
+4:Aegislash
+5:Gastrodon
+6:Kyogre
+7:Linoone
+8:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,16.6666666667%,0.333333333333
+2:Dazzling Gleam,8.33333333333%,0.166666666667
+3:Brave Bird,8.33333333333%,0.166666666667
+4:Flare Blitz,8.33333333333%,0.166666666667
+5:Hammer Arm,8.33333333333%,0.166666666667
+6:Water Spout,8.33333333333%,0.166666666667
+7:Hyper Voice,8.33333333333%,0.166666666667
+8:Return,8.33333333333%,0.166666666667
+9:Earthquake,8.33333333333%,0.166666666667
+10:Thunderbolt,8.33333333333%,0.166666666667
+11:Ice Beam,8.33333333333%,0.166666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Landorus
+6:Rotom
+7:Salamence
+8:Ho-Oh

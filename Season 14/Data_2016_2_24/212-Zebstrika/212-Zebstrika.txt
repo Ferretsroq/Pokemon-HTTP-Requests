@@ -1,0 +1,96 @@
+212:Zebstrika|20
+ ---------- 
+Moves used:
+1:Wild Charge,75.0%,15.0
+2:Protect,75.0%,15.0
+3:Snatch,50.0%,10.0
+4:Thunder Wave,50.0%,10.0
+5:Hidden Power,40.0%,8.0
+6:Overheat,35.0%,7.0
+7:Magnet Rise,25.0%,5.0
+8:Thunderbolt,25.0%,5.0
+9:Ion Deluge,10.0%,2.0
+10:Me First,10.0%,2.0
+11:Volt Switch,5.0%,1.0
+
+ ---------- 
+Items used:
+1:Zap Plate,50.0%,10.0
+2:Life Orb,35.0%,7.0
+3:Expert Belt,10.0%,2.0
+4:Focus Sash,5.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,90.0%,18.0
+2:Sap Sipper,10.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,55.0%,11.0
+2:Timid,25.0%,5.0
+3:Naive,20.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mewtwo
+3:Talonflame
+4:Raichu
+5:Reshiram
+6:Amoonguss
+7:Salamence
+8:Kangaskhan
+9:Xerneas
+10:Landorus
+11:Rayquaza
+12:Mawile
+13:Yveltal
+14:Aromatisse
+15:Liepard
+16:Groudon
+17:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,70.0%,14.0
+2:Overheat,20.0%,4.0
+3:Hidden Power,10.0%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,4.0
+2:Draco Meteor,13.3333333333%,2.66666666667
+3:Origin Pulse,6.66666666667%,1.33333333333
+4:Play Rough,6.66666666667%,1.33333333333
+5:Icicle Crash,6.66666666667%,1.33333333333
+6:Snarl,6.66666666667%,1.33333333333
+7:Foul Play,6.66666666667%,1.33333333333
+8:Earth Power,6.66666666667%,1.33333333333
+9:Water Spout,6.66666666667%,1.33333333333
+10:Low Kick,6.66666666667%,1.33333333333
+11:Double-Edge,6.66666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Landorus
+6:Rayquaza
+7:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Yveltal
+4:Greninja
+5:Liepard
+6:Dialga
+7:Weavile
+8:Rayquaza
+9:Groudon
+10:Mawile
+11:Kangaskhan

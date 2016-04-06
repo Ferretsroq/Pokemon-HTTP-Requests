@@ -1,0 +1,139 @@
+59:Manectric|541
+ ---------- 
+Moves used:
+1:Protect,94.26987061%,510.0
+2:Volt Switch,72.2735674677%,391.0
+3:Hidden Power,56.7467652495%,307.0
+4:Thunder,43.0683918669%,233.0
+5:Flamethrower,32.7171903882%,177.0
+6:Snarl,31.977818854%,173.0
+7:Thunderbolt,28.8354898336%,156.0
+8:Overheat,24.7689463956%,134.0
+9:Light Screen,4.43622920518%,24.0
+10:Roar,3.88170055453%,21.0
+11:Thunder Wave,3.69685767098%,20.0
+12:Discharge,1.47874306839%,8.0
+13:Substitute,1.47874306839%,8.0
+14:Electric Terrain,0.369685767098%,2.0
+
+ ---------- 
+Items used:
+1:Manectite,96.8576709797%,524.0
+2:Safety Goggles,2.95748613678%,16.0
+3:Amulet Coin,0.184842883549%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,89.0942698706%,482.0
+2:Static,9.24214417745%,50.0
+3:Minus,1.66358595194%,9.0
+
+ ---------- 
+Natures used:
+1:Timid,95.1940850277%,515.0
+2:Modest,4.43622920518%,24.0
+3:Bold,0.369685767098%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Ferrothorn
+4:Xerneas
+5:Cresselia
+6:Rayquaza
+7:Crobat
+8:Ho-Oh
+9:Yveltal
+10:Bronzong
+11:Talonflame
+12:Smeargle
+13:Salamence
+14:Starmie
+15:Tornadus
+16:Giratina
+17:Liepard
+18:Weavile
+19:Gothitelle
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Switch,25.974025974%,140.519480519
+2:Hidden Power,18.6147186147%,100.705627706
+3:Thunder,18.6147186147%,100.705627706
+4:Thunderbolt,17.7489177489%,96.0216450216
+5:Flamethrower,8.65800865801%,46.8398268398
+6:Snarl,5.62770562771%,30.4458874459
+7:Overheat,3.8961038961%,21.0779220779
+8:Discharge,0.865800865801%,4.68398268398
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,12.8378378378%,69.4527027027
+2:Water Spout,10.472972973%,56.6587837838
+3:Dazzling Gleam,8.78378378378%,47.5202702703
+4:Precipice Blades,6.41891891892%,34.7263513514
+5:Earth Power,6.08108108108%,32.8986486486
+6:Extreme Speed,5.40540540541%,29.2432432432
+7:Moonblast,4.72972972973%,25.5878378378
+8:Draco Meteor,4.72972972973%,25.5878378378
+9:Sucker Punch,4.72972972973%,25.5878378378
+10:Hyper Voice,2.7027027027%,14.6216216216
+11:Eruption,2.7027027027%,14.6216216216
+12:Ice Beam,2.7027027027%,14.6216216216
+13:Double-Edge,2.36486486486%,12.7939189189
+14:Brave Bird,1.68918918919%,9.13851351351
+15:Sludge Bomb,1.68918918919%,9.13851351351
+16:Rock Slide,1.68918918919%,9.13851351351
+17:Scald,1.35135135135%,7.31081081081
+18:Gyro Ball,1.35135135135%,7.31081081081
+19:Dragon Ascent,1.01351351351%,5.48310810811
+20:Power Whip,1.01351351351%,5.48310810811
+0:Other,14.1891891892%,76.7635135135
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Crobat
+4:Salamence
+5:Ferrothorn
+6:Rayquaza
+7:Weavile
+8:Togekiss
+9:Landorus
+10:Groudon
+11:Smeargle
+12:Liepard
+13:Xerneas
+14:Gengar
+15:Whimsicott
+16:Mawile
+17:Kangaskhan
+18:Gengar
+19:Raichu
+20:Thundurus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Rayquaza
+5:Kangaskhan
+6:Salamence
+7:Yveltal
+8:Ferrothorn
+9:Dialga
+10:Talonflame
+11:Rayquaza
+12:Landorus
+13:Kyogre
+14:Thundurus
+15:Mawile
+16:Gengar
+17:Kyurem
+18:Palkia
+19:Weavile
+20:Groudon

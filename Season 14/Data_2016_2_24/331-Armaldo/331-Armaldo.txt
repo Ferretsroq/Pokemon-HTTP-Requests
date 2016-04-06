@@ -1,0 +1,39 @@
+331:Armaldo|1
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,1.0
+2:X-Scissor,100.0%,1.0
+3:Knock Off,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gothitelle
+2:Rayquaza
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

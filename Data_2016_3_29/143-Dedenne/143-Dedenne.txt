@@ -1,0 +1,73 @@
+143:Dedenne|18
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,18.0
+2:Super Fang,100.0%,18.0
+3:Parabolic Charge,61.1111111111%,11.0
+4:Helping Hand,61.1111111111%,11.0
+5:Eerie Impulse,22.2222222222%,4.0
+6:Protect,22.2222222222%,4.0
+7:Recycle,16.6666666667%,3.0
+8:Charm,16.6666666667%,3.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,77.7777777778%,14.0
+2:Focus Sash,22.2222222222%,4.0
+
+ ---------- 
+Abilities used:
+1:Cheek Pouch,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Jolly,61.1111111111%,11.0
+2:Timid,22.2222222222%,4.0
+3:Bold,16.6666666667%,3.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Yveltal
+3:Groudon
+4:Xerneas
+5:Kyurem
+6:Kyogre
+7:Hitmontop
+8:Dialga
+9:Talonflame
+10:Salamence
+11:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Parabolic Charge,100.0%,18.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.2857142857%,2.57142857143
+2:Sucker Punch,14.2857142857%,2.57142857143
+3:Water Spout,14.2857142857%,2.57142857143
+4:Origin Pulse,7.14285714286%,1.28571428571
+5:Dazzling Gleam,7.14285714286%,1.28571428571
+6:Moonblast,7.14285714286%,1.28571428571
+7:Icicle Crash,7.14285714286%,1.28571428571
+8:Earth Power,7.14285714286%,1.28571428571
+9:Eruption,7.14285714286%,1.28571428571
+10:Extreme Speed,7.14285714286%,1.28571428571
+11:Sludge Bomb,7.14285714286%,1.28571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Palkia
+6:Weavile
+7:Rayquaza
+8:Gengar

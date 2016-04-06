@@ -1,0 +1,60 @@
+307:Haxorus|4
+ ---------- 
+Moves used:
+1:Poison Jab,75.0%,3.0
+2:Protect,75.0%,3.0
+3:Dual Chop,50.0%,2.0
+4:Dragon Claw,50.0%,2.0
+5:Superpower,50.0%,2.0
+6:Earthquake,50.0%,2.0
+7:Dragon Dance,25.0%,1.0
+8:Outrage,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,25.0%,1.0
+2:Life Orb,25.0%,1.0
+3:Choice Band,25.0%,1.0
+4:Sitrus Berry,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,75.0%,3.0
+2:Unnerve,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,75.0%,3.0
+2:Hasty,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gardevoir
+2:Talonflame
+3:Kyurem
+4:Reshiram
+5:Palkia
+6:Weavile
+7:Toxicroak
+8:Salamence
+9:Mewtwo
+10:Kangaskhan
+11:Marowak
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,2.0
+2:Play Rough,25.0%,1.0
+3:Rock Slide,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Mawile

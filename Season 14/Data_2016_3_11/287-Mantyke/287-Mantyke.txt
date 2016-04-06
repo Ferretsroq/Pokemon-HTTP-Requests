@@ -1,0 +1,58 @@
+287:Mantyke|7
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,7.0
+2:Icy Wind,71.4285714286%,5.0
+3:Confuse Ray,71.4285714286%,5.0
+4:Helping Hand,57.1428571429%,4.0
+5:Scald,28.5714285714%,2.0
+6:Tailwind,28.5714285714%,2.0
+7:Protect,28.5714285714%,2.0
+8:Mirror Coat,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,71.4285714286%,5.0
+2:Swift Swim,28.5714285714%,2.0
+
+ ---------- 
+Natures used:
+1:Bold,71.4285714286%,5.0
+2:Calm,28.5714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Raichu
+3:Rayquaza
+4:Whimsicott
+5:Kyogre
+6:Sylveon
+7:Landorus
+8:Togekiss
+9:Scizor
+10:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,25.0%,1.75
+2:Psystrike,25.0%,1.75
+3:Knock Off,25.0%,1.75
+4:Ice Beam,25.0%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Rayquaza
+3:Kyogre
+4:Mewtwo

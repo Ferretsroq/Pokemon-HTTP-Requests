@@ -1,0 +1,36 @@
+221:Jolteon|1
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,1.0
+2:Hidden Power,100.0%,1.0
+3:Thunder Wave,100.0%,1.0
+4:Thunderbolt,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Leafeon
+2:Flareon
+3:Vaporeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

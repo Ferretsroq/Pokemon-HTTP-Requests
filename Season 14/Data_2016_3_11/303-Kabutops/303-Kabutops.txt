@@ -1,0 +1,60 @@
+303:Kabutops|5
+ ---------- 
+Moves used:
+1:Knock Off,100.0%,5.0
+2:Waterfall,100.0%,5.0
+3:Protect,80.0%,4.0
+4:Rock Slide,80.0%,4.0
+5:Aqua Jet,20.0%,1.0
+6:Swords Dance,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,80.0%,4.0
+2:Sitrus Berry,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Jolly,80.0%,4.0
+2:Adamant,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Gardevoir
+3:Zapdos
+4:Thundurus
+5:Thundurus
+6:Scizor
+7:Nidoking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,66.6666666667%,3.33333333333
+2:Waterfall,33.3333333333%,1.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,20.0%,1.0
+2:Earth Power,20.0%,1.0
+3:Vacuum Wave,20.0%,1.0
+4:Dragon Pulse,20.0%,1.0
+5:Bullet Seed,20.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kyogre
+3:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Dialga
+3:Lucario
+4:Groudon
+5:Kyogre

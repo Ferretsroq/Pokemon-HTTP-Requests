@@ -1,0 +1,142 @@
+65:Dragonite|125
+ ---------- 
+Moves used:
+1:Extreme Speed,92.0%,115.0
+2:Dragon Dance,52.8%,66.0
+3:Draco Meteor,38.4%,48.0
+4:Protect,38.4%,48.0
+5:Fire Blast,37.6%,47.0
+6:Fire Punch,36.0%,45.0
+7:Ice Punch,33.6%,42.0
+8:Earthquake,16.0%,20.0
+9:Thunder Punch,14.4%,18.0
+10:Iron Head,8.8%,11.0
+11:Thunder Wave,7.2%,9.0
+12:Ice Beam,7.2%,9.0
+13:Roar,4.8%,6.0
+14:Dragon Claw,4.0%,5.0
+15:Safeguard,3.2%,4.0
+16:Dragon Rush,2.4%,3.0
+17:Outrage,1.6%,2.0
+18:Tailwind,0.8%,1.0
+19:Surf,0.8%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,88.0%,110.0
+2:Focus Sash,8.0%,10.0
+3:Lum Berry,2.4%,3.0
+4:Choice Band,1.6%,2.0
+
+ ---------- 
+Abilities used:
+1:Multiscale,92.0%,115.0
+2:Inner Focus,8.0%,10.0
+
+ ---------- 
+Natures used:
+1:Adamant,54.4%,68.0
+2:Quiet,37.6%,47.0
+3:Naive,7.2%,9.0
+4:Timid,0.8%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Kyogre
+6:Ludicolo
+7:Crobat
+8:Togekiss
+9:Yveltal
+10:Garchomp
+11:Ferrothorn
+12:Volbeat
+13:Mawile
+14:Zapdos
+15:Gyarados
+16:Talonflame
+17:Mienshao
+18:Weavile
+19:Salamence
+20:Gardevoir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Extreme Speed,52.4590163934%,65.5737704918
+2:Draco Meteor,16.393442623%,20.4918032787
+3:Ice Punch,8.19672131148%,10.2459016393
+4:Iron Head,4.91803278689%,6.14754098361
+5:Fire Blast,4.91803278689%,6.14754098361
+6:Ice Beam,3.27868852459%,4.09836065574
+7:Thunder Punch,3.27868852459%,4.09836065574
+8:Fire Punch,3.27868852459%,4.09836065574
+9:Dragon Rush,1.6393442623%,2.04918032787
+10:Dragon Claw,1.6393442623%,2.04918032787
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,21.4285714286%,26.7857142857
+2:Dazzling Gleam,10.0%,12.5
+3:Rock Slide,10.0%,12.5
+4:Moonblast,7.14285714286%,8.92857142857
+5:Precipice Blades,4.28571428571%,5.35714285714
+6:Water Spout,4.28571428571%,5.35714285714
+7:Double-Edge,4.28571428571%,5.35714285714
+8:Dragon Ascent,2.85714285714%,3.57142857143
+9:Play Rough,2.85714285714%,3.57142857143
+10:Foul Play,2.85714285714%,3.57142857143
+11:Eruption,2.85714285714%,3.57142857143
+12:Extreme Speed,2.85714285714%,3.57142857143
+13:Fire Punch,2.85714285714%,3.57142857143
+14:Origin Pulse,1.42857142857%,1.78571428571
+15:Power-Up Punch,1.42857142857%,1.78571428571
+16:Snarl,1.42857142857%,1.78571428571
+17:Stone Edge,1.42857142857%,1.78571428571
+18:Dragon Pulse,1.42857142857%,1.78571428571
+19:Gyro Ball,1.42857142857%,1.78571428571
+20:Dragon Claw,1.42857142857%,1.78571428571
+0:Other,11.4285714286%,14.2857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Rayquaza
+4:Kyogre
+5:Ferrothorn
+6:Kangaskhan
+7:Groudon
+8:Smeargle
+9:Yveltal
+10:Landorus
+11:Thundurus
+12:Cresselia
+13:Dialga
+14:Mawile
+15:Talonflame
+16:Kyogre
+17:Metagross
+18:Ditto
+19:Golduck
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Landorus
+6:Rayquaza
+7:Yveltal
+8:Whimsicott
+9:Mawile
+10:Aurorus
+11:Thundurus
+12:Ferrothorn
+13:Liepard
+14:Cresselia
+15:Dialga
+16:Gengar

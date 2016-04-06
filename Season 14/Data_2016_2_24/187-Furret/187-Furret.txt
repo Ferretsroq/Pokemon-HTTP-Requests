@@ -1,0 +1,91 @@
+187:Furret|36
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,36.0
+2:Charm,97.2222222222%,35.0
+3:Protect,86.1111111111%,31.0
+4:Knock Off,83.3333333333%,30.0
+5:Helping Hand,16.6666666667%,6.0
+6:Fling,13.8888888889%,5.0
+7:Super Fang,2.77777777778%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,69.4444444444%,25.0
+2:Focus Sash,13.8888888889%,5.0
+3:Light Ball,13.8888888889%,5.0
+4:Sitrus Berry,2.77777777778%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,36.0
+
+ ---------- 
+Natures used:
+1:Impish,72.2222222222%,26.0
+2:Jolly,27.7777777778%,10.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Azumarill
+4:Raichu
+5:Xerneas
+6:Groudon
+7:Ferrothorn
+8:Salamence
+9:Mawile
+10:Aegislash
+11:Landorus
+12:Heatran
+13:Crobat
+14:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,9.375%,3.375
+2:Precipice Blades,6.25%,2.25
+3:Power-Up Punch,6.25%,2.25
+4:Dazzling Gleam,6.25%,2.25
+5:Earth Power,6.25%,2.25
+6:Water Spout,6.25%,2.25
+7:Return,6.25%,2.25
+8:Ice Beam,6.25%,2.25
+9:Double-Edge,6.25%,2.25
+10:Dragon Ascent,3.125%,1.125
+11:Origin Pulse,3.125%,1.125
+12:Moonblast,3.125%,1.125
+13:Play Rough,3.125%,1.125
+14:Foul Play,3.125%,1.125
+15:Draco Meteor,3.125%,1.125
+16:Brave Bird,3.125%,1.125
+17:Water Pulse,3.125%,1.125
+18:Eruption,3.125%,1.125
+19:Beat Up,3.125%,1.125
+20:Rock Slide,3.125%,1.125
+0:Other,3.125%,1.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Rayquaza
+7:Meowstic
+8:Talonflame
+9:Landorus
+10:Liepard
+11:Weavile
+12:Kyogre
+13:Mawile
+14:Mewtwo
+15:Blastoise

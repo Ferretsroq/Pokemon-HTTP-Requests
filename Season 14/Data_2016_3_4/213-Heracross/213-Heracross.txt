@@ -1,0 +1,97 @@
+213:Heracross|25
+ ---------- 
+Moves used:
+1:Protect,92.0%,23.0
+2:Rock Blast,84.0%,21.0
+3:Pin Missile,64.0%,16.0
+4:Bullet Seed,60.0%,15.0
+5:Close Combat,48.0%,12.0
+6:Arm Thrust,36.0%,9.0
+7:Low Kick,16.0%,4.0
+
+ ---------- 
+Items used:
+1:Heracronite,100.0%,25.0
+
+ ---------- 
+Abilities used:
+1:Moxie,52.0%,13.0
+2:Guts,40.0%,10.0
+3:Swarm,8.0%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,56.0%,14.0
+2:Brave,36.0%,9.0
+3:Jolly,8.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Cresselia
+4:Talonflame
+5:Bronzong
+6:Tornadus
+7:Rayquaza
+8:Groudon
+9:Ferrothorn
+10:Ambipom
+11:Ho-Oh
+12:Klefki
+13:Aegislash
+14:Thundurus
+15:Liepard
+16:Serperior
+17:Sableye
+18:Lugia
+19:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Seed,37.5%,9.375
+2:Close Combat,25.0%,6.25
+3:Pin Missile,18.75%,4.6875
+4:Rock Blast,12.5%,3.125
+5:Arm Thrust,6.25%,1.5625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,11.1111111111%,2.77777777778
+2:Moonblast,11.1111111111%,2.77777777778
+3:Play Rough,11.1111111111%,2.77777777778
+4:Brave Bird,11.1111111111%,2.77777777778
+5:Hyper Voice,11.1111111111%,2.77777777778
+6:Double-Edge,11.1111111111%,2.77777777778
+7:Dazzling Gleam,5.55555555556%,1.38888888889
+8:Water Spout,5.55555555556%,1.38888888889
+9:Overheat,5.55555555556%,1.38888888889
+10:Eruption,5.55555555556%,1.38888888889
+11:Psychic,5.55555555556%,1.38888888889
+12:Pin Missile,5.55555555556%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Ferrothorn
+3:Kangaskhan
+4:Tyrantrum
+5:Greninja
+6:Whimsicott
+7:Bronzong
+8:Rayquaza
+9:Kyogre
+10:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Rayquaza
+4:Groudon
+5:Salamence
+6:Mawile
+7:Kangaskhan
+8:Meowstic
+9:Kyogre
+10:Ditto

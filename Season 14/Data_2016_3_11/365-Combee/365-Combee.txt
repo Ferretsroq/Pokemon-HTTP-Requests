@@ -1,0 +1,37 @@
+365:Combee|1
+ ---------- 
+Moves used:
+1:Bug Bite,100.0%,1.0
+2:Bug Buzz,100.0%,1.0
+3:Sweet Scent,100.0%,1.0
+4:Gust,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Honey,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Honey Gather,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Buneary
+2:Beldum
+3:Lotad
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

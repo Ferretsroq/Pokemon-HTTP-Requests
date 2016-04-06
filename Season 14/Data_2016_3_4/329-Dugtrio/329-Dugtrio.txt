@@ -1,0 +1,46 @@
+329:Dugtrio|2
+ ---------- 
+Moves used:
+1:Protect,100.0%,2.0
+2:Earthquake,100.0%,2.0
+3:Rock Tomb,50.0%,1.0
+4:Swagger,50.0%,1.0
+5:Rock Slide,50.0%,1.0
+6:Fissure,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Arena Trap,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Amoonguss
+2:Gothitelle
+3:Groudon
+4:Sableye
+5:Politoed
+6:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,50.0%,1.0
+2:Earth Power,50.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Gastrodon
+2:Rayquaza

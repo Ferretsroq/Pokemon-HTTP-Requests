@@ -1,0 +1,65 @@
+257:Cottonee|10
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,10.0
+2:Tailwind,80.0%,8.0
+3:Fake Tears,80.0%,8.0
+4:Worry Seed,60.0%,6.0
+5:Encore,30.0%,3.0
+6:Safeguard,20.0%,2.0
+7:Swagger,10.0%,1.0
+8:Protect,10.0%,1.0
+9:Toxic,10.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,10.0
+
+ ---------- 
+Abilities used:
+1:Prankster,80.0%,8.0
+2:Infiltrator,20.0%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,90.0%,9.0
+2:Bold,10.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Salamence
+3:Kyogre
+4:Groudon
+5:Crobat
+6:Kangaskhan
+7:Ferrothorn
+8:Amoonguss
+9:Giratina
+10:Sableye
+11:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,33.3333333333%,3.33333333333
+2:Oblivion Wing,11.1111111111%,1.11111111111
+3:Brave Bird,11.1111111111%,1.11111111111
+4:Eruption,11.1111111111%,1.11111111111
+5:Psychic,11.1111111111%,1.11111111111
+6:Ice Beam,11.1111111111%,1.11111111111
+7:Double-Edge,11.1111111111%,1.11111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Yveltal
+3:Talonflame
+4:Cresselia
+5:Groudon
+6:Kangaskhan

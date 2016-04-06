@@ -1,0 +1,41 @@
+139:Trevenant|1
+ ---------- 
+Moves used:
+1:Forest's Curse,100.0%,1.0
+2:Bulldoze,100.0%,1.0
+3:Trick Room,100.0%,1.0
+4:Worry Seed,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dragalge
+2:Mienshao
+3:Groudon
+4:Kyogre
+5:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Oblivion Wing,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal

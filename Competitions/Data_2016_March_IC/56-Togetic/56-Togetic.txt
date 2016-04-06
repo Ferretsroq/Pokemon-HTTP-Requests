@@ -1,0 +1,108 @@
+56:Togetic|10
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,10.0
+2:Dazzling Gleam,60.0%,6.0
+3:After You,60.0%,6.0
+4:Tailwind,50.0%,5.0
+5:Roost,20.0%,2.0
+6:Ancient Power,20.0%,2.0
+7:Water Pulse,10.0%,1.0
+8:Yawn,10.0%,1.0
+9:Magic Coat,10.0%,1.0
+10:Wish,10.0%,1.0
+11:Encore,10.0%,1.0
+12:Protect,10.0%,1.0
+13:Light Screen,10.0%,1.0
+14:Toxic,10.0%,1.0
+15:Thunder Wave,10.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,10.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,60.0%,6.0
+2:Super Luck,40.0%,4.0
+
+ ---------- 
+Natures used:
+1:Bold,60.0%,6.0
+2:Calm,20.0%,2.0
+3:Sassy,10.0%,1.0
+4:Relaxed,10.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Scizor
+5:Gengar
+6:Raichu
+7:Kangaskhan
+8:Landorus
+9:Groudon
+10:Aegislash
+11:Volcarona
+12:Ferrothorn
+13:Whimsicott
+14:Cresselia
+15:Weavile
+16:Infernape
+17:Latias
+18:Salamence
+19:Mawile
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,100.0%,10.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,14.7058823529%,1.47058823529
+2:Water Spout,8.82352941176%,0.882352941176
+3:Rock Slide,8.82352941176%,0.882352941176
+4:Ice Beam,8.82352941176%,0.882352941176
+5:Precipice Blades,5.88235294118%,0.588235294118
+6:Brave Bird,5.88235294118%,0.588235294118
+7:Dragon Ascent,2.94117647059%,0.294117647059
+8:Origin Pulse,2.94117647059%,0.294117647059
+9:Dazzling Gleam,2.94117647059%,0.294117647059
+10:Icicle Crash,2.94117647059%,0.294117647059
+11:Scald,2.94117647059%,0.294117647059
+12:Iron Head,2.94117647059%,0.294117647059
+13:Gunk Shot,2.94117647059%,0.294117647059
+14:Bullet Punch,2.94117647059%,0.294117647059
+15:Gyro Ball,2.94117647059%,0.294117647059
+16:Hyper Voice,2.94117647059%,0.294117647059
+17:Return,2.94117647059%,0.294117647059
+18:Waterfall,2.94117647059%,0.294117647059
+19:Thunder,2.94117647059%,0.294117647059
+20:Blizzard,2.94117647059%,0.294117647059
+0:Other,2.94117647059%,0.294117647059
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Talonflame
+5:Xerneas
+6:Greninja
+7:Kyurem
+8:Ferrothorn
+9:Palkia
+10:Weavile
+11:Rayquaza
+12:Manectric
+13:Mawile
+14:Gardevoir
+15:Scizor
+16:Gyarados

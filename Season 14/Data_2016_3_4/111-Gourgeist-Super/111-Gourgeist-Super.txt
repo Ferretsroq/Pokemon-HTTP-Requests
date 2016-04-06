@@ -1,0 +1,147 @@
+111:Gourgeist-Super|193
+ ---------- 
+Moves used:
+1:Trick Room,88.0829015544%,170.0
+2:Seed Bomb,62.6943005181%,121.0
+3:Protect,50.7772020725%,98.0
+4:Skill Swap,39.896373057%,77.0
+5:Will-O-Wisp,39.896373057%,77.0
+6:Trick-or-Treat,24.8704663212%,48.0
+7:Worry Seed,17.6165803109%,34.0
+8:Destiny Bond,17.0984455959%,33.0
+9:Phantom Force,14.5077720207%,28.0
+10:Leech Seed,12.9533678756%,25.0
+11:Magic Coat,7.77202072539%,15.0
+12:Rock Slide,6.73575129534%,13.0
+13:Shadow Sneak,5.18134715026%,10.0
+14:Gyro Ball,3.62694300518%,7.0
+15:Bullet Seed,3.62694300518%,7.0
+16:Pain Split,1.03626943005%,2.0
+17:Explosion,1.03626943005%,2.0
+18:Disable,1.03626943005%,2.0
+19:Foul Play,0.518134715026%,1.0
+20:Role Play,0.518134715026%,1.0
+0:Other,0.518134715026%,1.0
+
+ ---------- 
+Items used:
+1:Coba Berry,25.9067357513%,50.0
+2:Mental Herb,20.725388601%,40.0
+3:Occa Berry,19.170984456%,37.0
+4:Leftovers,10.3626943005%,20.0
+5:Focus Sash,9.84455958549%,19.0
+6:Sitrus Berry,9.84455958549%,19.0
+7:Life Orb,2.59067357513%,5.0
+8:Choice Band,1.03626943005%,2.0
+9:Meadow Plate,0.518134715026%,1.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,95.3367875648%,184.0
+2:Frisk,4.66321243523%,9.0
+
+ ---------- 
+Natures used:
+1:Sassy,60.621761658%,117.0
+2:Relaxed,21.7616580311%,42.0
+3:Careful,10.3626943005%,20.0
+4:Brave,7.25388601036%,14.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Kangaskhan
+4:Groudon
+5:Dialga
+6:Talonflame
+7:Landorus
+8:Palkia
+9:Yveltal
+10:Giratina
+11:Cresselia
+12:Liepard
+13:Meowstic
+14:Togekiss
+15:Clefairy
+16:Xerneas
+17:Terrakion
+18:Reshiram
+19:Weavile
+20:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,47.2222222222%,91.1388888889
+2:Destiny Bond,27.7777777778%,53.6111111111
+3:Rock Slide,11.1111111111%,21.4444444444
+4:Phantom Force,8.33333333333%,16.0833333333
+5:Shadow Sneak,2.77777777778%,5.36111111111
+6:Bullet Seed,2.77777777778%,5.36111111111
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,12.5984251969%,24.3149606299
+2:Dazzling Gleam,11.0236220472%,21.2755905512
+3:Ice Beam,10.2362204724%,19.7559055118
+4:Moonblast,7.08661417323%,13.6771653543
+5:Brave Bird,7.08661417323%,13.6771653543
+6:Hyper Voice,7.08661417323%,13.6771653543
+7:Precipice Blades,5.51181102362%,10.6377952756
+8:Dragon Ascent,3.14960629921%,6.07874015748
+9:Double-Edge,3.14960629921%,6.07874015748
+10:Play Rough,2.36220472441%,4.55905511811
+11:Water Spout,2.36220472441%,4.55905511811
+12:Overheat,2.36220472441%,4.55905511811
+13:Knock Off,2.36220472441%,4.55905511811
+14:Origin Pulse,1.57480314961%,3.03937007874
+15:Oblivion Wing,1.57480314961%,3.03937007874
+16:Foul Play,1.57480314961%,3.03937007874
+17:Grass Knot,1.57480314961%,3.03937007874
+18:Iron Head,1.57480314961%,3.03937007874
+19:Flare Blitz,1.57480314961%,3.03937007874
+20:Gyro Ball,1.57480314961%,3.03937007874
+0:Other,12.5984251969%,24.3149606299
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Landorus
+6:Thundurus
+7:Meowstic
+8:Talonflame
+9:Mienshao
+10:Ferrothorn
+11:Amoonguss
+12:Cresselia
+13:Salamence
+14:Altaria
+15:Swampert
+16:Kangaskhan
+17:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Talonflame
+6:Mawile
+7:Rayquaza
+8:Yveltal
+9:Landorus
+10:Ferrothorn
+11:Amoonguss
+12:Scizor
+13:Kyurem
+14:Thundurus
+15:Tornadus
+16:Terrakion
+17:Hydreigon
+18:Bisharp
+19:Gothitelle
+20:Liepard

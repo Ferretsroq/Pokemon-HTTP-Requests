@@ -1,0 +1,133 @@
+65:Lucario|8
+ ---------- 
+Moves used:
+1:Close Combat,62.5%,5.0
+2:Protect,62.5%,5.0
+3:Bullet Punch,50.0%,4.0
+4:Feint,37.5%,3.0
+5:Follow Me,37.5%,3.0
+6:Flash Cannon,25.0%,2.0
+7:Focus Punch,25.0%,2.0
+8:Detect,25.0%,2.0
+9:Earthquake,25.0%,2.0
+10:Vacuum Wave,12.5%,1.0
+11:Aura Sphere,12.5%,1.0
+12:Blaze Kick,12.5%,1.0
+13:Iron Tail,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Lucarionite,75.0%,6.0
+2:Focus Sash,12.5%,1.0
+3:Expert Belt,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,62.5%,5.0
+2:Justified,25.0%,2.0
+3:Steadfast,12.5%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,37.5%,3.0
+2:Adamant,37.5%,3.0
+3:Naive,12.5%,1.0
+4:Timid,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Thundurus
+3:Smeargle
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Liepard
+8:Rayquaza
+9:Ditto
+10:Aurorus
+11:Cresselia
+12:Giratina
+13:Weavile
+14:Pachirisu
+15:Groudon
+16:Salamence
+17:Altaria
+18:Mewtwo
+19:Zapdos
+20:Gyarados
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Focus Punch,55.1020408163%,4.40816326531
+2:Close Combat,16.3265306122%,1.30612244898
+3:Feint,14.2857142857%,1.14285714286
+4:Bullet Punch,8.16326530612%,0.65306122449
+5:Flash Cannon,2.04081632653%,0.163265306122
+6:Vacuum Wave,2.04081632653%,0.163265306122
+7:Blaze Kick,2.04081632653%,0.163265306122
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.7254901961%,1.09803921569
+2:Precipice Blades,11.7647058824%,0.941176470588
+3:Dragon Ascent,7.8431372549%,0.627450980392
+4:Earth Power,7.8431372549%,0.627450980392
+5:Brave Bird,7.8431372549%,0.627450980392
+6:Water Spout,7.8431372549%,0.627450980392
+7:Double-Edge,7.8431372549%,0.627450980392
+8:Origin Pulse,3.92156862745%,0.313725490196
+9:Moonblast,3.92156862745%,0.313725490196
+10:Hyper Voice,3.92156862745%,0.313725490196
+11:Low Kick,3.92156862745%,0.313725490196
+12:Fusion Flare,1.96078431373%,0.156862745098
+13:Scald,1.96078431373%,0.156862745098
+14:Foul Play,1.96078431373%,0.156862745098
+15:Shadow Sneak,1.96078431373%,0.156862745098
+16:Flare Blitz,1.96078431373%,0.156862745098
+17:Close Combat,1.96078431373%,0.156862745098
+18:Overheat,1.96078431373%,0.156862745098
+19:Eruption,1.96078431373%,0.156862745098
+20:Thunderbolt,1.96078431373%,0.156862745098
+0:Other,1.96078431373%,0.156862745098
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Smeargle
+4:Talonflame
+5:Weavile
+6:Thundurus
+7:Ferrothorn
+8:Whimsicott
+9:Dialga
+10:Rayquaza
+11:Kyogre
+12:Liepard
+13:Bronzong
+14:Groudon
+15:Kyogre
+16:Manectric
+17:Mawile
+18:Gyarados
+19:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Salamence
+6:Rayquaza
+7:Kangaskhan
+8:Aegislash
+9:Kyurem
+10:Zekrom
+11:Thundurus
+12:Liepard
+13:Cresselia
+14:Rayquaza
+15:Kyogre
+16:Hitmontop

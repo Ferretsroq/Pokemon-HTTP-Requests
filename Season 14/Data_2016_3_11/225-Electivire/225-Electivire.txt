@@ -1,0 +1,99 @@
+225:Electivire|21
+ ---------- 
+Moves used:
+1:Ice Punch,71.4285714286%,15.0
+2:Protect,66.6666666667%,14.0
+3:Wild Charge,61.9047619048%,13.0
+4:Low Kick,47.619047619%,10.0
+5:Thunder Punch,38.0952380952%,8.0
+6:Fire Punch,33.3333333333%,7.0
+7:Cross Chop,19.0476190476%,4.0
+8:Quick Attack,19.0476190476%,4.0
+9:Electric Terrain,14.2857142857%,3.0
+10:Feint,9.52380952381%,2.0
+11:Hidden Power,9.52380952381%,2.0
+12:Earthquake,9.52380952381%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,42.8571428571%,9.0
+2:Assault Vest,19.0476190476%,4.0
+3:White Herb,19.0476190476%,4.0
+4:Focus Sash,14.2857142857%,3.0
+5:Air Balloon,4.7619047619%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,95.2380952381%,20.0
+2:Motor Drive,4.7619047619%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,61.9047619048%,13.0
+2:Adamant,28.5714285714%,6.0
+3:Naive,9.52380952381%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Crobat
+3:Rayquaza
+4:Kyogre
+5:Salamence
+6:Gengar
+7:Xerneas
+8:Cresselia
+9:Mawile
+10:Landorus
+11:Mienshao
+12:Audino
+13:Ho-Oh
+14:Kangaskhan
+15:Dialga
+16:Togekiss
+17:Toxicroak
+18:Sableye
+19:Ludicolo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,55.5555555556%,11.6666666667
+2:Thunder Punch,22.2222222222%,4.66666666667
+3:Ice Punch,11.1111111111%,2.33333333333
+4:Fire Punch,11.1111111111%,2.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,7.14285714286%,1.5
+2:Earth Power,7.14285714286%,1.5
+3:Brave Bird,7.14285714286%,1.5
+4:Flare Blitz,7.14285714286%,1.5
+5:Sucker Punch,7.14285714286%,1.5
+6:Water Spout,7.14285714286%,1.5
+7:Overheat,7.14285714286%,1.5
+8:Eruption,7.14285714286%,1.5
+9:Fake Out,7.14285714286%,1.5
+10:Extreme Speed,7.14285714286%,1.5
+11:Thunderbolt,7.14285714286%,1.5
+12:Flamethrower,7.14285714286%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Togekiss
+3:Groudon
+4:Smeargle
+5:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Groudon
+3:Yveltal
+4:Dialga
+5:Togekiss
+6:Infernape
+7:Rayquaza
+8:Kyogre
+9:Zapdos
+10:Kangaskhan

@@ -1,0 +1,127 @@
+184:Rhyperior|39
+ ---------- 
+Moves used:
+1:Earthquake,89.7435897436%,35.0
+2:Protect,58.9743589744%,23.0
+3:Rock Blast,51.2820512821%,20.0
+4:Megahorn,46.1538461538%,18.0
+5:Rock Slide,41.0256410256%,16.0
+6:Ice Punch,23.0769230769%,9.0
+7:Drill Run,17.9487179487%,7.0
+8:Fire Punch,15.3846153846%,6.0
+9:Rock Wrecker,12.8205128205%,5.0
+10:Hammer Arm,12.8205128205%,5.0
+11:Iron Head,7.69230769231%,3.0
+12:Swords Dance,7.69230769231%,3.0
+13:Rock Polish,5.12820512821%,2.0
+14:Horn Drill,5.12820512821%,2.0
+15:Stealth Rock,2.5641025641%,1.0
+16:Stone Edge,2.5641025641%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,35.8974358974%,14.0
+2:Weakness Policy,23.0769230769%,9.0
+3:Assault Vest,12.8205128205%,5.0
+4:Lum Berry,12.8205128205%,5.0
+5:Choice Band,10.2564102564%,4.0
+6:Rocky Helmet,2.5641025641%,1.0
+7:Soft Sand,2.5641025641%,1.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,92.3076923077%,36.0
+2:Lightning Rod,7.69230769231%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,61.5384615385%,24.0
+2:Brave,30.7692307692%,12.0
+3:Relaxed,5.12820512821%,2.0
+4:Impish,2.5641025641%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Talonflame
+4:Xerneas
+5:Smeargle
+6:Ho-Oh
+7:Kangaskhan
+8:Cresselia
+9:Rayquaza
+10:Kyurem
+11:Infernape
+12:Salamence
+13:Hitmontop
+14:Klefki
+15:Gothitelle
+16:Liepard
+17:Serperior
+18:Lopunny
+19:Groudon
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,35.1351351351%,13.7027027027
+2:Rock Blast,24.3243243243%,9.48648648649
+3:Rock Slide,18.9189189189%,7.37837837838
+4:Drill Run,8.10810810811%,3.16216216216
+5:Fire Punch,8.10810810811%,3.16216216216
+6:Hammer Arm,2.7027027027%,1.05405405405
+7:Megahorn,2.7027027027%,1.05405405405
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.7894736842%,6.15789473684
+2:Water Spout,15.7894736842%,6.15789473684
+3:Earth Power,10.5263157895%,4.10526315789
+4:Origin Pulse,5.26315789474%,2.05263157895
+5:Psystrike,5.26315789474%,2.05263157895
+6:Grass Knot,5.26315789474%,2.05263157895
+7:Iron Head,5.26315789474%,2.05263157895
+8:Aqua Tail,5.26315789474%,2.05263157895
+9:Sucker Punch,5.26315789474%,2.05263157895
+10:Close Combat,5.26315789474%,2.05263157895
+11:Earthquake,5.26315789474%,2.05263157895
+12:Low Kick,5.26315789474%,2.05263157895
+13:Ice Beam,5.26315789474%,2.05263157895
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Cresselia
+6:Yveltal
+7:Ferrothorn
+8:Whimsicott
+9:Rayquaza
+10:Crobat
+11:Landorus
+12:Weavile
+13:Kyogre
+14:Kyogre
+15:Milotic
+16:Mawile
+17:Smeargle
+18:Scizor
+19:Ditto
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Mawile
+5:Landorus
+6:Thundurus
+7:Terrakion
+8:Cresselia
+9:Rayquaza
+10:Blaziken
+11:Mewtwo

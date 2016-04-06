@@ -1,0 +1,137 @@
+83:Latias|81
+ ---------- 
+Moves used:
+1:Tailwind,59.2592592593%,48.0
+2:Draco Meteor,50.6172839506%,41.0
+3:Light Screen,38.2716049383%,31.0
+4:Ice Beam,34.5679012346%,28.0
+5:Thunder Wave,28.3950617284%,23.0
+6:Grass Knot,27.1604938272%,22.0
+7:Safeguard,23.4567901235%,19.0
+8:Psyshock,16.049382716%,13.0
+9:Role Play,13.5802469136%,11.0
+10:Reflect,12.3456790123%,10.0
+11:Dragon Pulse,11.1111111111%,9.0
+12:Helping Hand,11.1111111111%,9.0
+13:Swagger,11.1111111111%,9.0
+14:Psychic,11.1111111111%,9.0
+15:Psycho Shift,9.87654320988%,8.0
+16:Recover,7.40740740741%,6.0
+17:Roost,6.17283950617%,5.0
+18:Charm,4.93827160494%,4.0
+19:Icy Wind,3.7037037037%,3.0
+20:Protect,3.7037037037%,3.0
+0:Other,16.049382716%,13.0
+
+ ---------- 
+Items used:
+1:Latiasite,28.3950617284%,23.0
+2:Life Orb,24.6913580247%,20.0
+3:Rocky Helmet,13.5802469136%,11.0
+4:Lum Berry,11.1111111111%,9.0
+5:Leftovers,6.17283950617%,5.0
+6:Weakness Policy,4.93827160494%,4.0
+7:Sitrus Berry,4.93827160494%,4.0
+8:Mental Herb,3.7037037037%,3.0
+9:Roseli Berry,1.23456790123%,1.0
+10:Haban Berry,1.23456790123%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,81.0
+
+ ---------- 
+Natures used:
+1:Timid,97.5308641975%,79.0
+2:Calm,2.46913580247%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Ditto
+5:Dialga
+6:Landorus
+7:Kyogre
+8:Liepard
+9:Aegislash
+10:Sableye
+11:Yveltal
+12:Thundurus
+13:Ferrothorn
+14:Palkia
+15:Salamence
+16:Smeargle
+17:Mewtwo
+18:Heliolisk
+19:Milotic
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,45.0%,36.45
+2:Ice Beam,25.0%,20.25
+3:Psychic,15.0%,12.15
+4:Dragon Pulse,10.0%,8.1
+5:Grass Knot,5.0%,4.05
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,23.2142857143%,18.8035714286
+2:Double-Edge,12.5%,10.125
+3:Moonblast,7.14285714286%,5.78571428571
+4:Ice Beam,7.14285714286%,5.78571428571
+5:Gyro Ball,5.35714285714%,4.33928571429
+6:Water Spout,5.35714285714%,4.33928571429
+7:Precipice Blades,3.57142857143%,2.89285714286
+8:Draco Meteor,3.57142857143%,2.89285714286
+9:Return,3.57142857143%,2.89285714286
+10:Dragon Ascent,1.78571428571%,1.44642857143
+11:Roar of Time,1.78571428571%,1.44642857143
+12:Iron Head,1.78571428571%,1.44642857143
+13:Shadow Sneak,1.78571428571%,1.44642857143
+14:Bullet Punch,1.78571428571%,1.44642857143
+15:Dragon Pulse,1.78571428571%,1.44642857143
+16:Sucker Punch,1.78571428571%,1.44642857143
+17:U-turn,1.78571428571%,1.44642857143
+18:Feint,1.78571428571%,1.44642857143
+19:Hyper Voice,1.78571428571%,1.44642857143
+20:Eruption,1.78571428571%,1.44642857143
+0:Other,8.92857142857%,7.23214285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Talonflame
+3:Groudon
+4:Whimsicott
+5:Crobat
+6:Rayquaza
+7:Metagross
+8:Salamence
+9:Smeargle
+10:Kangaskhan
+11:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Groudon
+5:Salamence
+6:Aegislash
+7:Ferrothorn
+8:Rayquaza
+9:Yveltal
+10:Greninja
+11:Landorus
+12:Mienshao
+13:Dialga
+14:Bronzong
+15:Mawile
+16:Gardevoir
+17:Scizor
+18:Gyarados
+19:Gengar

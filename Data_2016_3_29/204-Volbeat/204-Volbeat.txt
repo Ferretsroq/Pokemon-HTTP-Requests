@@ -1,0 +1,48 @@
+204:Volbeat|4
+ ---------- 
+Moves used:
+1:Tail Glow,100.0%,4.0
+2:Baton Pass,100.0%,4.0
+3:Confuse Ray,100.0%,4.0
+4:Dazzling Gleam,75.0%,3.0
+5:Tailwind,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Sableye
+4:Dragonite
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,25.0%,1.0
+2:Feint,25.0%,1.0
+3:Extreme Speed,25.0%,1.0
+4:Psychic,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Cresselia
+2:Lucario
+3:Rayquaza
+4:Kyogre

@@ -1,0 +1,170 @@
+36:Giratina-O|3446
+ ---------- 
+Moves used:
+1:Shadow Force,88.7115496228%,3057.0
+2:Protect,71.4741729541%,2463.0
+3:Shadow Sneak,64.1613464887%,2211.0
+4:Draco Meteor,54.3238537435%,1872.0
+5:Will-O-Wisp,28.032501451%,966.0
+6:Dragon Claw,22.6639582124%,781.0
+7:Tailwind,17.4695298897%,602.0
+8:Shadow Ball,7.74811375508%,267.0
+9:Dragon Tail,5.02031340685%,173.0
+10:Destiny Bond,4.87521764364%,168.0
+11:Earth Power,4.5560069646%,157.0
+12:Magic Coat,4.09170052234%,141.0
+13:Hex,3.97562391178%,137.0
+14:Thunder Wave,3.85954730122%,133.0
+15:Icy Wind,2.93093441672%,101.0
+16:Dragon Pulse,2.84387695879%,98.0
+17:Roar,1.68311085316%,58.0
+18:Aura Sphere,1.24782356355%,43.0
+19:Calm Mind,1.24782356355%,43.0
+20:Thunder,1.24782356355%,43.0
+0:Other,7.835171213%,270.0
+
+ ---------- 
+Items used:
+1:Griseous Orb,100.0%,3446.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,3446.0
+
+ ---------- 
+Natures used:
+1:Adamant,58.6767266396%,2022.0
+2:Brave,15.0899593732%,520.0
+3:Modest,7.22576900754%,249.0
+4:Jolly,3.54033662217%,122.0
+5:Lonely,2.52466627974%,87.0
+6:Sassy,2.17643644806%,75.0
+7:Naughty,2.14741729541%,74.0
+8:Careful,1.74114915844%,60.0
+9:Bold,1.74114915844%,60.0
+10:Calm,1.39291932676%,48.0
+11:Quiet,1.24782356355%,43.0
+12:Hasty,1.18978525827%,41.0
+13:Timid,0.493325594893%,17.0
+14:Impish,0.348229831689%,12.0
+15:Mild,0.145095763204%,5.0
+16:Quirky,0.0870574579222%,3.0
+17:Gentle,0.0580383052815%,2.0
+18:Serious,0.0580383052815%,2.0
+19:Hardy,0.0580383052815%,2.0
+20:Relaxed,0.0290191526407%,1.0
+0:Other,0.0290191526407%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Groudon
+4:Mawile
+5:Talonflame
+6:Cresselia
+7:Landorus
+8:Xerneas
+9:Ferrothorn
+10:Crobat
+11:Gengar
+12:Smeargle
+13:Whimsicott
+14:Liepard
+15:Salamence
+16:Thundurus
+17:Sableye
+18:Togekiss
+19:Ditto
+20:Mienshao
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Force,48.8170347003%,1682.23501577
+2:Shadow Sneak,21.3722397476%,736.487381703
+3:Draco Meteor,13.9589905363%,481.02681388
+4:Dragon Claw,6.97949526814%,240.51340694
+5:Shadow Ball,2.79968454259%,96.4771293375
+6:Dragon Tail,1.34069400631%,46.2003154574
+7:Dragon Pulse,1.261829653%,43.4826498423
+8:Hex,1.18296529968%,40.7649842271
+9:Earth Power,0.946372239748%,32.6119873817
+10:Icy Wind,0.473186119874%,16.3059936909
+11:Destiny Bond,0.236593059937%,8.15299684543
+12:Aura Sphere,0.197160883281%,6.79416403785
+13:Stone Edge,0.118296529968%,4.07649842271
+14:Iron Head,0.118296529968%,4.07649842271
+15:Thunder,0.0788643533123%,2.71766561514
+16:Aqua Tail,0.0394321766562%,1.35883280757
+17:Outrage,0.0394321766562%,1.35883280757
+18:Earthquake,0.0394321766562%,1.35883280757
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.9575971731%,480.978798587
+2:Ice Beam,11.3074204947%,389.653710247
+3:Draco Meteor,7.12603062426%,245.563015312
+4:Moonblast,7.06713780919%,243.533568905
+5:Sucker Punch,4.88810365135%,168.444051826
+6:Dragon Ascent,4.7703180212%,164.385159011
+7:Eruption,4.06360424028%,140.03180212
+8:Play Rough,3.35689045936%,115.67844523
+9:Water Spout,3.23910482921%,111.619552415
+10:Rock Slide,2.7679623086%,95.3839811543
+11:Precipice Blades,2.65017667845%,91.3250883392
+12:Foul Play,2.65017667845%,91.3250883392
+13:Origin Pulse,2.59128386337%,89.2956419317
+14:Brave Bird,2.41460541814%,83.2073027091
+15:Gyro Ball,2.29681978799%,79.148409894
+16:Dragon Pulse,2.0023557126%,69.0011778563
+17:Dragon Claw,2.0023557126%,69.0011778563
+18:Hyper Voice,1.70789163722%,58.8539458186
+19:Shadow Ball,1.59010600707%,54.7950530035
+20:Spacial Rend,1.23674911661%,42.6183745583
+0:Other,13.7809187279%,474.890459364
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Salamence
+6:Talonflame
+7:Cresselia
+8:Crobat
+9:Gengar
+10:Kangaskhan
+11:Ferrothorn
+12:Thundurus
+13:Smeargle
+14:Landorus
+15:Mawile
+16:Gengar
+17:Liepard
+18:Togekiss
+19:Palkia
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Rayquaza
+5:Salamence
+6:Mawile
+7:Kangaskhan
+8:Yveltal
+9:Dialga
+10:Ferrothorn
+11:Talonflame
+12:Rayquaza
+13:Liepard
+14:Giratina
+15:Palkia
+16:Cresselia
+17:Gengar
+18:Weavile
+19:Kyurem
+20:Landorus

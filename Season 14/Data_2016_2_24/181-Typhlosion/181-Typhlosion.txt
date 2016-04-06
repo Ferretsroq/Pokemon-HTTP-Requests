@@ -1,0 +1,113 @@
+181:Typhlosion|42
+ ---------- 
+Moves used:
+1:Eruption,100.0%,42.0
+2:Focus Blast,57.1428571429%,24.0
+3:Solar Beam,57.1428571429%,24.0
+4:Fire Blast,35.7142857143%,15.0
+5:Extrasensory,33.3333333333%,14.0
+6:Protect,28.5714285714%,12.0
+7:Lava Plume,26.1904761905%,11.0
+8:Hidden Power,23.8095238095%,10.0
+9:Flamethrower,21.4285714286%,9.0
+10:Quick Attack,9.52380952381%,4.0
+11:Overheat,7.14285714286%,3.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,66.6666666667%,28.0
+2:Choice Specs,23.8095238095%,10.0
+3:Life Orb,9.52380952381%,4.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,73.8095238095%,31.0
+2:Blaze,26.1904761905%,11.0
+
+ ---------- 
+Natures used:
+1:Timid,57.1428571429%,24.0
+2:Modest,33.3333333333%,14.0
+3:Naive,9.52380952381%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Rayquaza
+4:Kyogre
+5:Gengar
+6:Charizard
+7:Salamence
+8:Yveltal
+9:Ferrothorn
+10:Cresselia
+11:Meowstic
+12:Whimsicott
+13:Palkia
+14:Lucario
+15:Honchkrow
+16:Tauros
+17:Golduck
+18:Raichu
+19:Xerneas
+20:Dragalge
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Eruption,81.8181818182%,34.3636363636
+2:Lava Plume,4.54545454545%,1.90909090909
+3:Focus Blast,4.54545454545%,1.90909090909
+4:Hidden Power,4.54545454545%,1.90909090909
+5:Fire Blast,4.54545454545%,1.90909090909
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.5882352941%,8.64705882353
+2:Earth Power,11.7647058824%,4.94117647059
+3:Earthquake,11.7647058824%,4.94117647059
+4:Double-Edge,11.7647058824%,4.94117647059
+5:Precipice Blades,8.82352941176%,3.70588235294
+6:Origin Pulse,5.88235294118%,2.47058823529
+7:Sucker Punch,5.88235294118%,2.47058823529
+8:Moonblast,2.94117647059%,1.23529411765
+9:Brave Bird,2.94117647059%,1.23529411765
+10:Water Spout,2.94117647059%,1.23529411765
+11:Hyper Voice,2.94117647059%,1.23529411765
+12:Extreme Speed,2.94117647059%,1.23529411765
+13:Return,2.94117647059%,1.23529411765
+14:Sludge Bomb,2.94117647059%,1.23529411765
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Gengar
+5:Heliolisk
+6:Kyurem
+7:Landorus
+8:Thundurus
+9:Terrakion
+10:Liepard
+11:Mismagius
+12:Sableye
+13:Smeargle
+14:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Landorus
+6:Salamence
+7:Yveltal
+8:Talonflame
+9:Krookodile
+10:Garchomp
+11:Rayquaza
+12:Mawile
+13:Smeargle
+14:Gengar

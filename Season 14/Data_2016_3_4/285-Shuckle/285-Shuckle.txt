@@ -1,0 +1,62 @@
+285:Shuckle|5
+ ---------- 
+Moves used:
+1:Guard Split,80.0%,4.0
+2:Power Split,60.0%,3.0
+3:Knock Off,60.0%,3.0
+4:Sticky Web,40.0%,2.0
+5:Helping Hand,40.0%,2.0
+6:Protect,40.0%,2.0
+7:Toxic,40.0%,2.0
+8:Gyro Ball,20.0%,1.0
+9:Encore,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,40.0%,2.0
+2:Sitrus Berry,40.0%,2.0
+3:Rocky Helmet,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,60.0%,3.0
+2:Sturdy,40.0%,2.0
+
+ ---------- 
+Natures used:
+1:Impish,40.0%,2.0
+2:Bold,40.0%,2.0
+3:Relaxed,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Gastrodon
+3:Kyogre
+4:Kangaskhan
+5:Chansey
+6:Tornadus
+7:Cresselia
+8:Palkia
+9:Rayquaza
+10:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Snarl,25.0%,1.25
+2:Scald,25.0%,1.25
+3:Gyro Ball,25.0%,1.25
+4:Sludge Bomb,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Ferrothorn
+3:Ludicolo
+4:Gengar

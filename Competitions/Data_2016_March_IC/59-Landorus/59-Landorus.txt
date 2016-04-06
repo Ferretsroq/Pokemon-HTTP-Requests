@@ -1,0 +1,109 @@
+59:Landorus|9
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,9.0
+2:Protect,88.8888888889%,8.0
+3:Grass Knot,77.7777777778%,7.0
+4:Hidden Power,77.7777777778%,7.0
+5:Focus Blast,22.2222222222%,2.0
+6:Knock Off,11.1111111111%,1.0
+7:Role Play,11.1111111111%,1.0
+8:Sludge Bomb,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,77.7777777778%,7.0
+2:Choice Specs,11.1111111111%,1.0
+3:Expert Belt,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Sand Force,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Timid,88.8888888889%,8.0
+2:Hasty,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Yveltal
+4:Gothitelle
+5:Rayquaza
+6:Xerneas
+7:Aegislash
+8:Talonflame
+9:Thundurus
+10:Ferrothorn
+11:Manectric
+12:Crobat
+13:Kangaskhan
+14:Tornadus
+15:Mienshao
+16:Liepard
+17:Groudon
+18:Breloom
+19:Blaziken
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,81.25%,7.3125
+2:Hidden Power,12.5%,1.125
+3:Grass Knot,6.25%,0.5625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,21.6216216216%,1.94594594595
+2:Gyro Ball,10.8108108108%,0.972972972973
+3:Origin Pulse,5.40540540541%,0.486486486486
+4:Foul Play,5.40540540541%,0.486486486486
+5:Brave Bird,5.40540540541%,0.486486486486
+6:Water Spout,5.40540540541%,0.486486486486
+7:Double-Edge,5.40540540541%,0.486486486486
+8:Dragon Ascent,2.7027027027%,0.243243243243
+9:Precipice Blades,2.7027027027%,0.243243243243
+10:Dazzling Gleam,2.7027027027%,0.243243243243
+11:Flare Blitz,2.7027027027%,0.243243243243
+12:Sucker Punch,2.7027027027%,0.243243243243
+13:Shadow Ball,2.7027027027%,0.243243243243
+14:Hidden Power,2.7027027027%,0.243243243243
+15:Return,2.7027027027%,0.243243243243
+16:Waterfall,2.7027027027%,0.243243243243
+17:Fire Punch,2.7027027027%,0.243243243243
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Kangaskhan
+5:Amoonguss
+6:Dialga
+7:Salamence
+8:Xerneas
+9:Talonflame
+10:Liepard
+11:Rayquaza
+12:Manectric
+13:Smeargle
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Talonflame
+4:Ferrothorn
+5:Cresselia
+6:Groudon
+7:Yveltal
+8:Xerneas
+9:Aegislash
+10:Chandelure
+11:Lickilicky
+12:Rayquaza
+13:Rayquaza
+14:Suicune

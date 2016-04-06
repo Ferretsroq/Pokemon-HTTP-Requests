@@ -1,0 +1,143 @@
+62:Sylveon|136
+ ---------- 
+Moves used:
+1:Hyper Voice,100.0%,136.0
+2:Helping Hand,65.4411764706%,89.0
+3:Quick Attack,58.8235294118%,80.0
+4:Protect,43.3823529412%,59.0
+5:Detect,27.2058823529%,37.0
+6:Shadow Ball,21.3235294118%,29.0
+7:Hidden Power,19.8529411765%,27.0
+8:Hyper Beam,17.6470588235%,24.0
+9:Psyshock,16.1764705882%,22.0
+10:Moonblast,6.61764705882%,9.0
+11:Magic Coat,5.88235294118%,8.0
+12:Echoed Voice,5.14705882353%,7.0
+13:Calm Mind,4.41176470588%,6.0
+14:Substitute,3.67647058824%,5.0
+15:Sleep Talk,2.20588235294%,3.0
+16:Snore,0.735294117647%,1.0
+17:Rest,0.735294117647%,1.0
+18:Toxic,0.735294117647%,1.0
+
+ ---------- 
+Items used:
+1:Pixie Plate,36.7647058824%,50.0
+2:Lum Berry,25.0%,34.0
+3:Choice Specs,21.3235294118%,29.0
+4:Choice Scarf,5.88235294118%,8.0
+5:Life Orb,5.14705882353%,7.0
+6:Sitrus Berry,2.94117647059%,4.0
+7:Quick Claw,1.47058823529%,2.0
+8:Focus Sash,0.735294117647%,1.0
+9:Chesto Berry,0.735294117647%,1.0
+
+ ---------- 
+Abilities used:
+1:Pixilate,100.0%,136.0
+
+ ---------- 
+Natures used:
+1:Quiet,55.8823529412%,76.0
+2:Modest,38.9705882353%,53.0
+3:Timid,5.14705882353%,7.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Groudon
+4:Xerneas
+5:Smeargle
+6:Raichu
+7:Kangaskhan
+8:Ferrothorn
+9:Landorus
+10:Yveltal
+11:Cresselia
+12:Salamence
+13:Infernape
+14:Mawile
+15:Talonflame
+16:Liepard
+17:Giratina
+18:Manectric
+19:Lugia
+20:Porygon2
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,80.1724137931%,109.034482759
+2:Quick Attack,16.3793103448%,22.275862069
+3:Hidden Power,1.72413793103%,2.34482758621
+4:Hyper Beam,1.72413793103%,2.34482758621
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.1313131313%,17.8585858586
+2:Double-Edge,13.1313131313%,17.8585858586
+3:Dazzling Gleam,9.09090909091%,12.3636363636
+4:Dragon Ascent,8.08080808081%,10.9898989899
+5:Hyper Voice,5.05050505051%,6.86868686869
+6:Origin Pulse,4.0404040404%,5.49494949495
+7:Brave Bird,4.0404040404%,5.49494949495
+8:Sucker Punch,4.0404040404%,5.49494949495
+9:Eruption,4.0404040404%,5.49494949495
+10:Fire Punch,4.0404040404%,5.49494949495
+11:Gyro Ball,3.0303030303%,4.12121212121
+12:Extreme Speed,3.0303030303%,4.12121212121
+13:Scald,2.0202020202%,2.74747474747
+14:Earth Power,2.0202020202%,2.74747474747
+15:Water Spout,2.0202020202%,2.74747474747
+16:Rock Slide,2.0202020202%,2.74747474747
+17:Ice Beam,2.0202020202%,2.74747474747
+18:Play Rough,1.0101010101%,1.37373737374
+19:Acrobatics,1.0101010101%,1.37373737374
+20:Iron Head,1.0101010101%,1.37373737374
+0:Other,11.1111111111%,15.1111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Xerneas
+3:Kangaskhan
+4:Salamence
+5:Thundurus
+6:Groudon
+7:Whimsicott
+8:Kyogre
+9:Talonflame
+10:Cresselia
+11:Ferrothorn
+12:Yveltal
+13:Landorus
+14:Liepard
+15:Togekiss
+16:Crobat
+17:Meowstic
+18:Kyurem
+19:Terrakion
+20:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Rayquaza
+4:Xerneas
+5:Kyogre
+6:Salamence
+7:Talonflame
+8:Mawile
+9:Landorus
+10:Ferrothorn
+11:Ditto
+12:Yveltal
+13:Bisharp
+14:Cresselia
+15:Dialga
+16:Lucario
+17:Bronzong
+18:Rayquaza
+19:Scizor
+20:Gengar

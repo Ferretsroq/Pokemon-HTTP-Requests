@@ -1,0 +1,166 @@
+81:Blaziken|394
+ ---------- 
+Moves used:
+1:Protect,92.8934010152%,366.0
+2:Flare Blitz,78.4263959391%,309.0
+3:Low Kick,56.345177665%,222.0
+4:Rock Slide,34.0101522843%,134.0
+5:Superpower,24.3654822335%,96.0
+6:Poison Jab,21.0659898477%,83.0
+7:High Jump Kick,16.7512690355%,66.0
+8:Baton Pass,15.7360406091%,62.0
+9:Double Kick,14.4670050761%,57.0
+10:Swords Dance,12.1827411168%,48.0
+11:Overheat,11.1675126904%,44.0
+12:Hidden Power,6.34517766497%,25.0
+13:Will-O-Wisp,2.28426395939%,9.0
+14:Thunder Punch,1.77664974619%,7.0
+15:Blaze Kick,1.52284263959%,6.0
+16:Heat Wave,1.52284263959%,6.0
+17:Feint,1.26903553299%,5.0
+18:Fire Blast,1.26903553299%,5.0
+19:Bulk Up,1.0152284264%,4.0
+20:Stone Edge,0.761421319797%,3.0
+0:Other,4.82233502538%,19.0
+
+ ---------- 
+Items used:
+1:Life Orb,35.7868020305%,141.0
+2:Blazikenite,34.0101522843%,134.0
+3:Focus Sash,18.0203045685%,71.0
+4:Air Balloon,5.83756345178%,23.0
+5:Lum Berry,2.79187817259%,11.0
+6:Expert Belt,1.77664974619%,7.0
+7:Coba Berry,1.0152284264%,4.0
+8:Sitrus Berry,0.507614213198%,2.0
+9:Wise Glasses,0.253807106599%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,90.8629441624%,358.0
+2:Blaze,9.13705583756%,36.0
+
+ ---------- 
+Natures used:
+1:Adamant,48.730964467%,192.0
+2:Jolly,20.3045685279%,80.0
+3:Careful,13.9593908629%,55.0
+4:Naive,9.13705583756%,36.0
+5:Rash,3.29949238579%,13.0
+6:Naughty,2.79187817259%,11.0
+7:Impish,1.0152284264%,4.0
+8:Timid,0.507614213198%,2.0
+9:Hasty,0.253807106599%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Rayquaza
+5:Gengar
+6:Talonflame
+7:Salamence
+8:Togekiss
+9:Thundurus
+10:Palkia
+11:Gardevoir
+12:Dialga
+13:Yveltal
+14:Kangaskhan
+15:Smeargle
+16:Landorus
+17:Ferrothorn
+18:Weavile
+19:Crobat
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,28.8990825688%,113.862385321
+2:Low Kick,25.2293577982%,99.4036697248
+3:Rock Slide,13.7614678899%,54.2201834862
+4:High Jump Kick,8.71559633028%,34.3394495413
+5:Superpower,7.33944954128%,28.9174311927
+6:Double Kick,5.04587155963%,19.880733945
+7:Overheat,2.29357798165%,9.03669724771
+8:Poison Jab,1.83486238532%,7.22935779817
+9:Heat Wave,1.83486238532%,7.22935779817
+10:Hidden Power,1.37614678899%,5.42201834862
+11:Fire Blast,0.917431192661%,3.61467889908
+12:Focus Blast,0.45871559633%,1.80733944954
+13:Feint,0.45871559633%,1.80733944954
+14:Rock Tomb,0.45871559633%,1.80733944954
+15:Blaze Kick,0.45871559633%,1.80733944954
+16:Flamethrower,0.45871559633%,1.80733944954
+17:Thunder Punch,0.45871559633%,1.80733944954
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.9565217391%,47.1086956522
+2:Precipice Blades,10.1449275362%,39.9710144928
+3:Double-Edge,7.97101449275%,31.4057971014
+4:Earth Power,7.24637681159%,28.5507246377
+5:Origin Pulse,6.15942028986%,24.268115942
+6:Brave Bird,5.79710144928%,22.8405797101
+7:Water Spout,5.79710144928%,22.8405797101
+8:Hyper Voice,4.34782608696%,17.1304347826
+9:Sucker Punch,3.26086956522%,12.847826087
+10:Earthquake,3.26086956522%,12.847826087
+11:Dragon Ascent,2.89855072464%,11.4202898551
+12:Eruption,2.17391304348%,8.5652173913
+13:Extreme Speed,2.17391304348%,8.5652173913
+14:Sludge Bomb,1.8115942029%,7.13768115942
+15:Psychic,1.8115942029%,7.13768115942
+16:Air Slash,1.08695652174%,4.28260869565
+17:Return,1.08695652174%,4.28260869565
+18:Thunderbolt,1.08695652174%,4.28260869565
+19:Fire Punch,1.08695652174%,4.28260869565
+20:Oblivion Wing,0.724637681159%,2.85507246377
+0:Other,10.5072463768%,41.3985507246
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Ferrothorn
+4:Kyogre
+5:Groudon
+6:Smeargle
+7:Talonflame
+8:Cresselia
+9:Crobat
+10:Yveltal
+11:Mawile
+12:Whimsicott
+13:Liepard
+14:Weavile
+15:Dialga
+16:Rayquaza
+17:Kangaskhan
+18:Gengar
+19:Thundurus
+20:Terrakion
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Ho-Oh
+10:Yveltal
+11:Dialga
+12:Togekiss
+13:Rayquaza
+14:Gengar
+15:Thundurus
+16:Terrakion
+17:Cresselia
+18:Palkia
+19:Mawile
+20:Gengar

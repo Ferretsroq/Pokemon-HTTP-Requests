@@ -1,0 +1,102 @@
+120:Probopass|196
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,196.0
+2:Protect,89.7959183673%,176.0
+3:Volt Switch,86.2244897959%,169.0
+4:Magnet Bomb,49.4897959184%,97.0
+5:Magic Coat,27.0408163265%,53.0
+6:Flash Cannon,15.8163265306%,31.0
+7:Pain Split,13.7755102041%,27.0
+8:Taunt,10.2040816327%,20.0
+9:Power Gem,7.65306122449%,15.0
+
+ ---------- 
+Items used:
+1:Eject Button,62.7551020408%,123.0
+2:Leftovers,20.9183673469%,41.0
+3:Berry Juice,13.7755102041%,27.0
+4:Sitrus Berry,2.55102040816%,5.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,196.0
+
+ ---------- 
+Natures used:
+1:Calm,49.4897959184%,97.0
+2:Sassy,20.9183673469%,41.0
+3:Bold,15.8163265306%,31.0
+4:Relaxed,13.7755102041%,27.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Sableye
+3:Murkrow
+4:Salamence
+5:Azumarill
+6:Groudon
+7:Carbink
+8:Venusaur
+9:Aurorus
+10:Giratina
+11:Kyogre
+12:Xerneas
+13:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Switch,100.0%,196.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,13.4328358209%,26.328358209
+2:Power-Up Punch,10.447761194%,20.4776119403
+3:Precipice Blades,7.46268656716%,14.6268656716
+4:Origin Pulse,4.4776119403%,8.77611940299
+5:Earth Power,4.4776119403%,8.77611940299
+6:Fake Out,4.4776119403%,8.77611940299
+7:Dazzling Gleam,2.98507462687%,5.85074626866
+8:Iron Head,2.98507462687%,5.85074626866
+9:Brave Bird,2.98507462687%,5.85074626866
+10:Flare Blitz,2.98507462687%,5.85074626866
+11:Water Spout,2.98507462687%,5.85074626866
+12:Overheat,2.98507462687%,5.85074626866
+13:Ice Beam,2.98507462687%,5.85074626866
+14:Flamethrower,2.98507462687%,5.85074626866
+15:Fire Punch,2.98507462687%,5.85074626866
+16:Sacred Sword,1.49253731343%,2.92537313433
+17:Hex,1.49253731343%,2.92537313433
+18:Power Whip,1.49253731343%,2.92537313433
+19:Draco Meteor,1.49253731343%,2.92537313433
+20:Flash Cannon,1.49253731343%,2.92537313433
+0:Other,13.4328358209%,26.328358209
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Xerneas
+6:Ferrothorn
+7:Mawile
+8:Kyurem
+9:Landorus
+10:Thundurus
+11:Terrakion
+12:Whimsicott
+13:Liepard
+14:Dialga
+15:Rayquaza
+16:Metagross
+17:Salamence
+18:Ho-Oh
+19:Smeargle
+20:Gengar

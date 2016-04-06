@@ -1,0 +1,57 @@
+264:Gourgeist-Small|11
+ ---------- 
+Moves used:
+1:Trick-or-Treat,100.0%,11.0
+2:Magic Coat,100.0%,11.0
+3:Skill Swap,72.7272727273%,8.0
+4:Protect,63.6363636364%,7.0
+5:Will-O-Wisp,45.4545454545%,5.0
+6:Disable,18.1818181818%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,72.7272727273%,8.0
+2:Mental Herb,27.2727272727%,3.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Groudon
+3:Cresselia
+4:Mawile
+5:Talonflame
+6:Ferrothorn
+7:Kangaskhan
+8:Kyurem
+9:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,1.83333333333
+2:Moonblast,16.6666666667%,1.83333333333
+3:Snarl,16.6666666667%,1.83333333333
+4:Water Spout,16.6666666667%,1.83333333333
+5:Hyper Voice,16.6666666667%,1.83333333333
+6:Earthquake,16.6666666667%,1.83333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal
+3:Sylveon
+4:Landorus
+5:Kyogre

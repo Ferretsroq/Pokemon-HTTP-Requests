@@ -1,0 +1,127 @@
+123:Cherrim|129
+ ---------- 
+Moves used:
+1:Protect,73.6434108527%,95.0
+2:Heal Pulse,65.1162790698%,84.0
+3:Helping Hand,59.6899224806%,77.0
+4:Grass Knot,51.1627906977%,66.0
+5:Grass Whistle,51.1627906977%,66.0
+6:Safeguard,31.7829457364%,41.0
+7:Leech Seed,29.4573643411%,38.0
+8:Worry Seed,18.6046511628%,24.0
+9:Healing Wish,5.42635658915%,7.0
+10:Solar Beam,4.6511627907%,6.0
+11:Seed Bomb,3.1007751938%,4.0
+12:Energy Ball,2.32558139535%,3.0
+13:Giga Drain,2.32558139535%,3.0
+14:Sunny Day,0.77519379845%,1.0
+15:Swagger,0.77519379845%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,59.6899224806%,77.0
+2:Choice Scarf,25.5813953488%,33.0
+3:Sitrus Berry,6.2015503876%,8.0
+4:Leftovers,3.87596899225%,5.0
+5:Bright Powder,3.1007751938%,4.0
+6:Quick Claw,0.77519379845%,1.0
+7:Occa Berry,0.77519379845%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,129.0
+
+ ---------- 
+Natures used:
+1:Timid,86.8217054264%,112.0
+2:Modest,4.6511627907%,6.0
+3:Bold,4.6511627907%,6.0
+4:Jolly,3.1007751938%,4.0
+5:Sassy,0.77519379845%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Talonflame
+4:Xerneas
+5:Salamence
+6:Kangaskhan
+7:Sableye
+8:Giratina
+9:Mawile
+10:Smeargle
+11:Bronzong
+12:Rayquaza
+13:Crobat
+14:Meowstic
+15:Thundurus
+16:Dialga
+17:Landorus
+18:Gastrodon
+19:Bisharp
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,70.0%,90.3
+2:Energy Ball,20.0%,25.8
+3:Solar Beam,10.0%,12.9
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.5%,16.125
+2:Ice Beam,9.375%,12.09375
+3:Hyper Voice,7.8125%,10.078125
+4:Eruption,7.8125%,10.078125
+5:Fire Punch,7.8125%,10.078125
+6:Sludge Bomb,4.6875%,6.046875
+7:Double-Edge,4.6875%,6.046875
+8:Origin Pulse,3.125%,4.03125
+9:Dazzling Gleam,3.125%,4.03125
+10:Gyro Ball,3.125%,4.03125
+11:Rock Slide,3.125%,4.03125
+12:Dragon Ascent,1.5625%,2.015625
+13:Psystrike,1.5625%,2.015625
+14:Spacial Rend,1.5625%,2.015625
+15:Bug Bite,1.5625%,2.015625
+16:Brave Bird,1.5625%,2.015625
+17:Dragon Pulse,1.5625%,2.015625
+18:Air Slash,1.5625%,2.015625
+19:Sucker Punch,1.5625%,2.015625
+20:Feint,1.5625%,2.015625
+0:Other,15.625%,20.15625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kyurem
+4:Liepard
+5:Palkia
+6:Kyogre
+7:Smeargle
+8:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Kangaskhan
+5:Cresselia
+6:Xerneas
+7:Ferrothorn
+8:Rayquaza
+9:Gengar
+10:Aegislash
+11:Talonflame
+12:Kyurem
+13:Landorus
+14:Thundurus
+15:Giratina
+16:Palkia
+17:Dialga
+18:Togekiss
+19:Infernape
+20:Groudon

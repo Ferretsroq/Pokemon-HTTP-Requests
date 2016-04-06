@@ -1,0 +1,39 @@
+357:Vanilluxe|1
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,1.0
+2:Flash Cannon,100.0%,1.0
+3:Hidden Power,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Ice Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Audino
+2:Rayquaza
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

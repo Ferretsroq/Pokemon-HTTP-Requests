@@ -1,0 +1,102 @@
+195:Accelgor|45
+ ---------- 
+Moves used:
+1:Protect,80.0%,36.0
+2:Encore,77.7777777778%,35.0
+3:Acid Spray,68.8888888889%,31.0
+4:Final Gambit,64.4444444444%,29.0
+5:Knock Off,31.1111111111%,14.0
+6:Gastro Acid,28.8888888889%,13.0
+7:Feint,20.0%,9.0
+8:Struggle Bug,17.7777777778%,8.0
+9:Bug Buzz,4.44444444444%,2.0
+10:Me First,4.44444444444%,2.0
+11:Recover,2.22222222222%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,68.8888888889%,31.0
+2:Sitrus Berry,20.0%,9.0
+3:Bright Powder,11.1111111111%,5.0
+
+ ---------- 
+Abilities used:
+1:Unburden,55.5555555556%,25.0
+2:Sticky Hold,31.1111111111%,14.0
+3:Hydration,13.3333333333%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,45.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Gengar
+4:Rayquaza
+5:Groudon
+6:Clefairy
+7:Kangaskhan
+8:Mawile
+9:Amoonguss
+10:Talonflame
+11:Raichu
+12:Crobat
+13:Landorus
+14:Hydreigon
+15:Lopunny
+16:Spinda
+17:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Final Gambit,77.7777777778%,35.0
+2:Struggle Bug,11.1111111111%,5.0
+3:Knock Off,11.1111111111%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Struggle,8.57142857143%,3.85714285714
+2:Precipice Blades,5.71428571429%,2.57142857143
+3:Brave Bird,5.71428571429%,2.57142857143
+4:Dragon Ascent,2.85714285714%,1.28571428571
+5:Origin Pulse,2.85714285714%,1.28571428571
+6:Play Rough,2.85714285714%,1.28571428571
+7:Gyro Ball,2.85714285714%,1.28571428571
+8:Hyper Voice,2.85714285714%,1.28571428571
+9:Eruption,2.85714285714%,1.28571428571
+10:Extreme Speed,2.85714285714%,1.28571428571
+11:Rock Slide,2.85714285714%,1.28571428571
+12:Thunderbolt,2.85714285714%,1.28571428571
+13:Ice Beam,2.85714285714%,1.28571428571
+14:Double-Edge,2.85714285714%,1.28571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Ferrothorn
+4:Whimsicott
+5:Palkia
+6:Groudon
+7:Salamence
+8:Smeargle
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Landorus
+5:Thundurus
+6:Ferrothorn
+7:Carracosta
+8:Cresselia
+9:Rayquaza
+10:Rayquaza
+11:Kyogre
+12:Salamence
+13:Mawile
+14:Kangaskhan

@@ -1,0 +1,64 @@
+136:Zygarde|1
+ ---------- 
+Moves used:
+1:Land's Wrath,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Glare,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Aura Break,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Thundurus
+3:Kyogre
+4:Kangaskhan
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Land's Wrath,62.5%,0.625
+2:Rock Slide,37.5%,0.375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,0.2
+2:Moonblast,20.0%,0.2
+3:Play Rough,10.0%,0.1
+4:Iron Head,10.0%,0.1
+5:Flare Blitz,10.0%,0.1
+6:Sucker Punch,10.0%,0.1
+7:Hyper Voice,10.0%,0.1
+8:Ice Beam,10.0%,0.1
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Talonflame
+3:Groudon
+4:Kyogre
+5:Salamence
+6:Mawile
+7:Smeargle
+8:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Mawile
+4:Talonflame
+5:Kyogre
+6:Salamence
+7:Kangaskhan

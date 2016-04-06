@@ -1,0 +1,127 @@
+57:Golduck|10
+ ---------- 
+Moves used:
+1:Scald,90.0%,9.0
+2:Ice Beam,90.0%,9.0
+3:Protect,50.0%,5.0
+4:Encore,40.0%,4.0
+5:Psyshock,20.0%,2.0
+6:Role Play,20.0%,2.0
+7:Icy Wind,20.0%,2.0
+8:Soak,10.0%,1.0
+9:Aqua Jet,10.0%,1.0
+10:Psych Up,10.0%,1.0
+11:Hidden Power,10.0%,1.0
+12:Hydro Pump,10.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,40.0%,4.0
+2:Focus Sash,20.0%,2.0
+3:Life Orb,10.0%,1.0
+4:Leftovers,10.0%,1.0
+5:Wacan Berry,10.0%,1.0
+6:Sitrus Berry,10.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,90.0%,9.0
+2:Swift Swim,10.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,50.0%,5.0
+2:Modest,30.0%,3.0
+3:Quiet,10.0%,1.0
+4:Impish,10.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Talonflame
+6:Ferrothorn
+7:Cresselia
+8:Rayquaza
+9:Sylveon
+10:Aromatisse
+11:Meowstic
+12:Reshiram
+13:Thundurus
+14:Amoonguss
+15:Escavalier
+16:Gothitelle
+17:Palkia
+18:Tangrowth
+19:Metagross
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,54.5454545455%,5.45454545455
+2:Scald,39.3939393939%,3.93939393939
+3:Icy Wind,6.06060606061%,0.606060606061
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.2173913043%,1.52173913043
+2:Water Spout,10.8695652174%,1.08695652174
+3:Dazzling Gleam,8.69565217391%,0.869565217391
+4:Thunderbolt,6.52173913043%,0.652173913043
+5:Low Kick,6.52173913043%,0.652173913043
+6:Double-Edge,6.52173913043%,0.652173913043
+7:Moonblast,4.34782608696%,0.434782608696
+8:Thunder,4.34782608696%,0.434782608696
+9:Dragon Ascent,2.17391304348%,0.217391304348
+10:Origin Pulse,2.17391304348%,0.217391304348
+11:Grass Knot,2.17391304348%,0.217391304348
+12:Power Whip,2.17391304348%,0.217391304348
+13:Earth Power,2.17391304348%,0.217391304348
+14:Brave Bird,2.17391304348%,0.217391304348
+15:Dragon Pulse,2.17391304348%,0.217391304348
+16:Volt Tackle,2.17391304348%,0.217391304348
+17:Hyper Voice,2.17391304348%,0.217391304348
+18:Secret Power,2.17391304348%,0.217391304348
+19:Eruption,2.17391304348%,0.217391304348
+20:Knock Off,2.17391304348%,0.217391304348
+0:Other,8.69565217391%,0.869565217391
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Thundurus
+4:Whimsicott
+5:Rayquaza
+6:Kangaskhan
+7:Aegislash
+8:Talonflame
+9:Landorus
+10:Liepard
+11:Weavile
+12:Bronzong
+13:Rayquaza
+14:Cradily
+15:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Thundurus
+7:Salamence
+8:Yveltal
+9:Talonflame
+10:Greninja
+11:Kyurem
+12:Landorus
+13:Mienshao
+14:Ferrothorn
+15:Zapdos
+16:Ditto
+17:Raichu

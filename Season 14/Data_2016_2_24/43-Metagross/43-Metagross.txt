@@ -1,0 +1,165 @@
+43:Metagross|1480
+ ---------- 
+Moves used:
+1:Protect,83.1756756757%,1231.0
+2:Zen Headbutt,82.3648648649%,1219.0
+3:Bullet Punch,61.2837837838%,907.0
+4:Iron Head,59.0540540541%,874.0
+5:Ice Punch,44.1891891892%,654.0
+6:Meteor Mash,28.0405405405%,415.0
+7:Earthquake,11.4864864865%,170.0
+8:Hammer Arm,8.37837837838%,124.0
+9:Thunder Punch,6.75675675676%,100.0
+10:Explosion,3.85135135135%,57.0
+11:Substitute,2.7027027027%,40.0
+12:Trick,1.62162162162%,24.0
+13:Swagger,1.14864864865%,17.0
+14:Icy Wind,1.08108108108%,16.0
+15:Brick Break,0.878378378378%,13.0
+16:Hidden Power,0.878378378378%,13.0
+17:Rock Slide,0.743243243243%,11.0
+18:Gyro Ball,0.608108108108%,9.0
+19:Psychic,0.472972972973%,7.0
+20:Power-Up Punch,0.337837837838%,5.0
+0:Other,0.945945945946%,14.0
+
+ ---------- 
+Items used:
+1:Metagrossite,79.3918918919%,1175.0
+2:Assault Vest,7.43243243243%,110.0
+3:Lum Berry,7.02702702703%,104.0
+4:Choice Scarf,2.02702702703%,30.0
+5:Choice Band,1.62162162162%,24.0
+6:Focus Sash,0.743243243243%,11.0
+7:Air Balloon,0.472972972973%,7.0
+8:Iron Plate,0.405405405405%,6.0
+9:Normal Gem,0.337837837838%,5.0
+10:Rocky Helmet,0.202702702703%,3.0
+11:Life Orb,0.202702702703%,3.0
+12:Lax Incense,0.0675675675676%,1.0
+13:Persim Berry,0.0675675675676%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,99.7972972973%,1477.0
+2:Light Metal,0.202702702703%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,54.5945945946%,808.0
+2:Jolly,44.2567567568%,655.0
+3:Naughty,0.405405405405%,6.0
+4:Modest,0.337837837838%,5.0
+5:Bold,0.27027027027%,4.0
+6:Hasty,0.135135135135%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Xerneas
+5:Talonflame
+6:Yveltal
+7:Thundurus
+8:Crobat
+9:Landorus
+10:Whimsicott
+11:Liepard
+12:Gengar
+13:Cresselia
+14:Kangaskhan
+15:Kyurem
+16:Hydreigon
+17:Palkia
+18:Salamence
+19:Weavile
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Punch,26.1133603239%,386.477732794
+2:Iron Head,24.0890688259%,356.518218623
+3:Zen Headbutt,19.9392712551%,295.101214575
+4:Ice Punch,12.955465587%,191.740890688
+5:Meteor Mash,9.41295546559%,139.311740891
+6:Earthquake,2.02429149798%,29.95951417
+7:Hammer Arm,1.72064777328%,25.4655870445
+8:Thunder Punch,1.61943319838%,23.967611336
+9:Explosion,1.01214574899%,14.979757085
+10:Hidden Power,0.404858299595%,5.99190283401
+11:Brick Break,0.202429149798%,2.995951417
+12:Rock Slide,0.202429149798%,2.995951417
+13:Gyro Ball,0.101214574899%,1.4979757085
+14:Icy Wind,0.101214574899%,1.4979757085
+15:Psychic,0.101214574899%,1.4979757085
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.6263982103%,157.270693512
+2:Eruption,9.2841163311%,137.4049217
+3:Earth Power,7.9418344519%,117.539149888
+4:Origin Pulse,7.04697986577%,104.295302013
+5:Water Spout,6.26398210291%,92.706935123
+6:Sucker Punch,5.36912751678%,79.4630872483
+7:Flare Blitz,5.14541387025%,76.1521252796
+8:Dazzling Gleam,3.91498881432%,57.9418344519
+9:Flamethrower,3.91498881432%,57.9418344519
+10:Fire Punch,3.91498881432%,57.9418344519
+11:Overheat,3.57941834452%,52.9753914989
+12:Moonblast,2.90827740492%,43.0425055928
+13:Shadow Ball,2.46085011186%,36.4205816555
+14:Earthquake,2.34899328859%,34.7651006711
+15:Foul Play,1.45413870246%,21.5212527964
+16:Knock Off,1.45413870246%,21.5212527964
+17:Extreme Speed,1.23042505593%,18.2102908277
+18:Thunderbolt,1.11856823266%,16.5548098434
+19:Scald,1.0067114094%,14.8993288591
+20:Hyper Voice,1.0067114094%,14.8993288591
+0:Other,12.5279642058%,185.413870246
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Salamence
+5:Crobat
+6:Smeargle
+7:Rayquaza
+8:Groudon
+9:Talonflame
+10:Thundurus
+11:Amoonguss
+12:Landorus
+13:Whimsicott
+14:Weavile
+15:Gengar
+16:Togekiss
+17:Mawile
+18:Ferrothorn
+19:Gengar
+20:Cresselia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Salamence
+8:Landorus
+9:Yveltal
+10:Gengar
+11:Ferrothorn
+12:Aegislash
+13:Liepard
+14:Palkia
+15:Dialga
+16:Mawile
+17:Smeargle
+18:Weavile
+19:Kyogre
+20:Thundurus

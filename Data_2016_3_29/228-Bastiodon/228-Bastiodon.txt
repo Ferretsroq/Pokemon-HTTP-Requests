@@ -1,0 +1,41 @@
+228:Bastiodon|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Iron Head,100.0%,1.0
+3:Fissure,100.0%,1.0
+4:Counter,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Shuca Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kangaskhan
+3:Whimsicott
+4:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,50.0%,0.5
+2:Fissure,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:

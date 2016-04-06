@@ -1,0 +1,43 @@
+311:Clamperl|1
+ ---------- 
+Moves used:
+1:Shell Smash,100.0%,1.0
+2:Muddy Water,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Deep Sea Tooth,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Shell Armor,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Ferrothorn
+3:Rayquaza
+4:Kyogre
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Freeze-Dry,50.0%,0.5
+2:Power Whip,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Glalie

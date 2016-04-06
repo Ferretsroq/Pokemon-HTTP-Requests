@@ -1,0 +1,61 @@
+281:Leavanny|4
+ ---------- 
+Moves used:
+1:X-Scissor,100.0%,4.0
+2:Leaf Blade,100.0%,4.0
+3:Knock Off,75.0%,3.0
+4:Protect,50.0%,2.0
+5:Swords Dance,50.0%,2.0
+6:Shadow Claw,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,2.0
+2:Life Orb,50.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Sylveon
+4:Mewtwo
+5:Salamence
+6:Thundurus
+7:Lucario
+8:Ludicolo
+9:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,16.6666666667%,0.666666666667
+2:X-Scissor,16.6666666667%,0.666666666667
+3:Eruption,16.6666666667%,0.666666666667
+4:Rock Slide,16.6666666667%,0.666666666667
+5:Ice Beam,16.6666666667%,0.666666666667
+6:Double-Edge,16.6666666667%,0.666666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Infernape
+2:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Kyurem
+3:Landorus
+4:Groudon
+5:Smeargle
+6:Kangaskhan

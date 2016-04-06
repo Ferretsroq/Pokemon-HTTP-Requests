@@ -1,0 +1,167 @@
+4:Xerneas|22326
+ ---------- 
+Moves used:
+1:Dazzling Gleam,99.1713697035%,22141.0
+2:Geomancy,93.7158469945%,20923.0
+3:Protect,93.2634596435%,20822.0
+4:Moonblast,91.7092179522%,20475.0
+5:Grass Knot,7.36361193228%,1644.0
+6:Psychic,3.52951715489%,788.0
+7:Focus Blast,2.8039057601%,626.0
+8:Hidden Power,2.691928693%,601.0
+9:Sleep Talk,1.54976260862%,346.0
+10:Thunderbolt,1.5004926991%,335.0
+11:Thunder,0.555406252799%,124.0
+12:Psyshock,0.488220012541%,109.0
+13:Flash Cannon,0.4165546896%,93.0
+14:Substitute,0.219475051509%,49.0
+15:Psych Up,0.152288811251%,34.0
+16:Thunder Wave,0.0716653229419%,16.0
+17:Megahorn,0.0358326614709%,8.0
+18:Reflect,0.0358326614709%,8.0
+19:Heal Pulse,0.0313535787871%,7.0
+20:Close Combat,0.0179163307355%,4.0
+0:Other,0.0403117441548%,8.99999999999
+
+ ---------- 
+Items used:
+1:Power Herb,93.4336647855%,20860.0
+2:Choice Scarf,3.20702320165%,716.0
+3:Choice Specs,2.55755621249%,571.0
+4:Life Orb,0.465824599122%,104.0
+5:Pixie Plate,0.25530771298%,57.0
+6:Leftovers,0.0268744961032%,6.0
+7:Mental Herb,0.0134372480516%,3.0
+8:Assault Vest,0.00447908268387%,1.0
+9:Power Weight,0.00447908268387%,1.0
+10:Power Belt,0.00447908268387%,1.0
+11:Lum Berry,0.00447908268387%,1.0
+
+ ---------- 
+Abilities used:
+1:Fairy Aura,100.0%,22326.0
+
+ ---------- 
+Natures used:
+1:Timid,73.8331989609%,16484.0
+2:Modest,23.2106064678%,5182.0
+3:Bold,1.67069784108%,373.0
+4:Calm,0.743527725522%,166.0
+5:Quiet,0.120935232464%,27.0
+6:Naive,0.0985398190451%,22.0
+7:Lax,0.0851025709935%,19.0
+8:Mild,0.0716653229419%,16.0
+9:Hasty,0.0716653229419%,16.0
+10:Serious,0.0403117441548%,9.0
+11:Rash,0.0223954134193%,5.0
+12:Sassy,0.0134372480516%,3.0
+13:Gentle,0.0134372480516%,3.0
+14:Jolly,0.00447908268387%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Smeargle
+5:Salamence
+6:Kyogre
+7:Cresselia
+8:Amoonguss
+9:Thundurus
+10:Crobat
+11:Landorus
+12:Liepard
+13:Rayquaza
+14:Gengar
+15:Ferrothorn
+16:Mawile
+17:Yveltal
+18:Whimsicott
+19:Weavile
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,70.2841096796%,15691.6303271
+2:Moonblast,28.471533972%,6356.5546746
+3:Grass Knot,0.578130161876%,129.073339941
+4:Hidden Power,0.302830084792%,67.6098447308
+5:Psychic,0.126638035459%,28.2732077965
+6:Focus Blast,0.0825900231252%,18.4390485629
+7:Thunderbolt,0.0825900231252%,18.4390485629
+8:Psyshock,0.0275300077084%,6.14634952098
+9:Sleep Talk,0.016518004625%,3.68780971259
+10:Thunder,0.016518004625%,3.68780971259
+11:Flash Cannon,0.00550600154168%,1.2292699042
+12:Struggle,0.00550600154168%,1.2292699042
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.112987671%,2481.08562743
+2:Dazzling Gleam,7.92940381692%,1770.31869617
+3:Double-Edge,7.2791758149%,1625.14879243
+4:Gyro Ball,6.63739233238%,1481.86421213
+5:Water Spout,6.25738895457%,1397.024658
+6:Moonblast,6.15605472049%,1374.4007769
+7:Eruption,4.5684850532%,1019.95997298
+8:Iron Head,4.49248437764%,1002.99206215
+9:Fire Punch,4.28137138997%,955.858976524
+10:Origin Pulse,4.26448235095%,952.088329674
+11:Brave Bird,4.0702584023%,908.725890897
+12:Dragon Ascent,3.56358723189%,795.606485391
+13:Extreme Speed,2.72757980071%,608.959466306
+14:Sludge Bomb,2.11112987671%,471.330856274
+15:Ice Beam,1.91690592805%,427.968417497
+16:Sucker Punch,1.62134774531%,361.982097619
+17:Rock Slide,1.45245735518%,324.275629117
+18:Return,1.44401283567%,322.390305692
+19:Hyper Voice,1.42712379666%,318.619658841
+20:Flash Cannon,1.17378821145%,262.059956088
+0:Other,13.4605640939%,3005.2055396
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Salamence
+3:Xerneas
+4:Kyogre
+5:Groudon
+6:Talonflame
+7:Smeargle
+8:Thundurus
+9:Rayquaza
+10:Landorus
+11:Yveltal
+12:Cresselia
+13:Weavile
+14:Crobat
+15:Rayquaza
+16:Liepard
+17:Whimsicott
+18:Dialga
+19:Gengar
+20:Kyurem
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Ferrothorn
+6:Rayquaza
+7:Talonflame
+8:Salamence
+9:Mawile
+10:Rayquaza
+11:Landorus
+12:Bronzong
+13:Gengar
+14:Dialga
+15:Gengar
+16:Thundurus
+17:Ditto
+18:Aegislash
+19:Yveltal
+20:Scizor

@@ -1,0 +1,44 @@
+326:Huntail|1
+ ---------- 
+Moves used:
+1:Shell Smash,100.0%,1.0
+2:Ice Fang,100.0%,1.0
+3:Sucker Punch,100.0%,1.0
+4:Waterfall,100.0%,1.0
+
+ ---------- 
+Items used:
+1:White Herb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Galvantula
+3:Kangaskhan
+4:Gardevoir
+5:Exeggutor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,33.3333333333%,0.333333333333
+2:Precipice Blades,33.3333333333%,0.333333333333
+3:Eruption,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza

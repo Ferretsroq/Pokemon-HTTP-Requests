@@ -1,0 +1,120 @@
+194:Diggersby|37
+ ---------- 
+Moves used:
+1:Earthquake,75.6756756757%,28.0
+2:Return,54.0540540541%,20.0
+3:Protect,54.0540540541%,20.0
+4:Foul Play,35.1351351351%,13.0
+5:Superpower,27.027027027%,10.0
+6:Rock Slide,18.9189189189%,7.0
+7:Quick Attack,18.9189189189%,7.0
+8:Swords Dance,18.9189189189%,7.0
+9:Giga Impact,16.2162162162%,6.0
+10:Gastro Acid,16.2162162162%,6.0
+11:Double Kick,16.2162162162%,6.0
+12:Wild Charge,10.8108108108%,4.0
+13:Stone Edge,10.8108108108%,4.0
+14:U-turn,10.8108108108%,4.0
+15:Gunk Shot,8.10810810811%,3.0
+16:Fire Punch,8.10810810811%,3.0
+
+ ---------- 
+Items used:
+1:Focus Sash,35.1351351351%,13.0
+2:Choice Scarf,27.027027027%,10.0
+3:Life Orb,21.6216216216%,8.0
+4:Choice Band,16.2162162162%,6.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Adamant,54.0540540541%,20.0
+2:Jolly,37.8378378378%,14.0
+3:Careful,8.10810810811%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Cresselia
+5:Salamence
+6:Mawile
+7:Kangaskhan
+8:Sylveon
+9:Talonflame
+10:Ferrothorn
+11:Rotom
+12:Lucario
+13:Rayquaza
+14:Sceptile
+15:Scizor
+16:Blastoise
+17:Yveltal
+18:Meowstic
+19:Smeargle
+20:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,47.619047619%,17.619047619
+2:Superpower,14.2857142857%,5.28571428571
+3:Return,14.2857142857%,5.28571428571
+4:Foul Play,9.52380952381%,3.52380952381
+5:Rock Slide,9.52380952381%,3.52380952381
+6:Double Kick,4.7619047619%,1.7619047619
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,13.7931034483%,5.10344827586
+2:Dazzling Gleam,10.3448275862%,3.8275862069
+3:Water Spout,10.3448275862%,3.8275862069
+4:Brave Bird,6.89655172414%,2.55172413793
+5:Earthquake,6.89655172414%,2.55172413793
+6:Low Kick,6.89655172414%,2.55172413793
+7:Flamethrower,6.89655172414%,2.55172413793
+8:Dragon Ascent,3.44827586207%,1.27586206897
+9:Precipice Blades,3.44827586207%,1.27586206897
+10:Origin Pulse,3.44827586207%,1.27586206897
+11:Power-Up Punch,3.44827586207%,1.27586206897
+12:Play Rough,3.44827586207%,1.27586206897
+13:Scald,3.44827586207%,1.27586206897
+14:Draco Meteor,3.44827586207%,1.27586206897
+15:Flash Cannon,3.44827586207%,1.27586206897
+16:Gyro Ball,3.44827586207%,1.27586206897
+17:Hammer Arm,3.44827586207%,1.27586206897
+18:Hyper Voice,3.44827586207%,1.27586206897
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Xerneas
+4:Liepard
+5:Weavile
+6:Kyogre
+7:Talonflame
+8:Rayquaza
+9:Groudon
+10:Mawile
+11:Kangaskhan
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Landorus
+8:Ferrothorn
+9:Giratina
+10:Dialga
+11:Garchomp
+12:Rayquaza
+13:Mawile

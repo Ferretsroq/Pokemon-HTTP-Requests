@@ -1,0 +1,101 @@
+196:Marowak|30
+ ---------- 
+Moves used:
+1:Bonemerang,100.0%,30.0
+2:Rock Slide,70.0%,21.0
+3:Protect,60.0%,18.0
+4:Low Kick,50.0%,15.0
+5:Earthquake,30.0%,9.0
+6:Detect,23.3333333333%,7.0
+7:Stone Edge,16.6666666667%,5.0
+8:Double-Edge,16.6666666667%,5.0
+9:Knock Off,13.3333333333%,4.0
+10:Perish Song,10.0%,3.0
+11:Power-Up Punch,3.33333333333%,1.0
+12:Smack Down,3.33333333333%,1.0
+13:Iron Head,3.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Thick Club,100.0%,30.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,83.3333333333%,25.0
+2:Rock Head,16.6666666667%,5.0
+
+ ---------- 
+Natures used:
+1:Brave,66.6666666667%,20.0
+2:Adamant,20.0%,6.0
+3:Jolly,13.3333333333%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Musharna
+4:Ho-Oh
+5:Cresselia
+6:Palkia
+7:Mawile
+8:Xerneas
+9:Tornadus
+10:Dialga
+11:Magnezone
+12:Infernape
+13:Rayquaza
+14:Hariyama
+15:Gardevoir
+16:Talonflame
+17:Liepard
+18:Sableye
+19:Sylveon
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,31.5789473684%,9.47368421053
+2:Bonemerang,31.5789473684%,9.47368421053
+3:Earthquake,26.3157894737%,7.89473684211
+4:Knock Off,5.26315789474%,1.57894736842
+5:Low Kick,5.26315789474%,1.57894736842
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,36.3636363636%,10.9090909091
+2:Dragon Claw,18.1818181818%,5.45454545455
+3:Origin Pulse,9.09090909091%,2.72727272727
+4:Moonblast,9.09090909091%,2.72727272727
+5:Power Whip,9.09090909091%,2.72727272727
+6:Brave Bird,9.09090909091%,2.72727272727
+7:Ice Beam,9.09090909091%,2.72727272727
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Yveltal
+5:Talonflame
+6:Thundurus
+7:Whimsicott
+8:Liepard
+9:Togekiss
+10:Rayquaza
+11:Rayquaza
+12:Groudon
+13:Mawile
+14:Ho-Oh
+15:Gengar
+16:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Ferrothorn
+6:Groudon
+7:Charizard

@@ -1,0 +1,72 @@
+88:Chansey|4
+ ---------- 
+Moves used:
+1:Soft-Boiled,100.0%,4.0
+2:Seismic Toss,75.0%,3.0
+3:Thunder Wave,50.0%,2.0
+4:Heal Pulse,25.0%,1.0
+5:Helping Hand,25.0%,1.0
+6:Protect,25.0%,1.0
+7:Minimize,25.0%,1.0
+8:Toxic,25.0%,1.0
+9:Counter,25.0%,1.0
+10:Sing,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,75.0%,3.0
+2:Healer,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,50.0%,2.0
+2:Calm,25.0%,1.0
+3:Relaxed,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Crobat
+5:Gyarados
+6:Xerneas
+7:Volcarona
+8:Ferrothorn
+9:Giratina
+10:Lickilicky
+11:Rayquaza
+12:Dragonite
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,75.0%,3.0
+2:Counter,25.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,25.0%,1.0
+2:Precipice Blades,12.5%,0.5
+3:Power-Up Punch,12.5%,0.5
+4:Draco Meteor,12.5%,0.5
+5:Flare Blitz,12.5%,0.5
+6:Return,12.5%,0.5
+7:Low Kick,12.5%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Giratina

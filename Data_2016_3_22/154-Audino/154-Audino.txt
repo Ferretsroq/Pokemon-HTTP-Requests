@@ -1,0 +1,60 @@
+154:Audino|6
+ ---------- 
+Moves used:
+1:Trick Room,83.3333333333%,5.0
+2:Magic Coat,83.3333333333%,5.0
+3:Dazzling Gleam,66.6666666667%,4.0
+4:Encore,66.6666666667%,4.0
+5:Draining Kiss,16.6666666667%,1.0
+6:Gravity,16.6666666667%,1.0
+7:Calm Mind,16.6666666667%,1.0
+8:Snatch,16.6666666667%,1.0
+9:Yawn,16.6666666667%,1.0
+10:Protect,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Audinite,100.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Sassy,66.6666666667%,4.0
+2:Bold,33.3333333333%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Igglybuff
+3:Amoonguss
+4:Hitmontop
+5:Xerneas
+6:Thundurus
+7:Ferrothorn
+8:Dialga
+9:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,33.3333333333%,2.0
+2:Eruption,33.3333333333%,2.0
+3:Ice Beam,33.3333333333%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Landorus
+3:Thundurus
+4:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon

@@ -1,0 +1,58 @@
+104:Plusle|1
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,1.0
+2:Entrainment,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Encore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Xerneas
+3:Talonflame
+4:Kyogre
+5:Slowbro
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nuzzle,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,23.0769230769%,0.230769230769
+2:Dazzling Gleam,15.3846153846%,0.153846153846
+3:Double-Edge,15.3846153846%,0.153846153846
+4:Precipice Blades,7.69230769231%,0.0769230769231
+5:Power Whip,7.69230769231%,0.0769230769231
+6:Fake Out,7.69230769231%,0.0769230769231
+7:Hidden Power,7.69230769231%,0.0769230769231
+8:Rock Slide,7.69230769231%,0.0769230769231
+9:Ice Beam,7.69230769231%,0.0769230769231
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Kangaskhan
+4:Landorus
+5:Thundurus
+6:Ferrothorn
+7:Groudon
+8:Sableye

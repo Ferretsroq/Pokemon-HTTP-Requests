@@ -1,0 +1,165 @@
+14:Gengar|5194
+ ---------- 
+Moves used:
+1:Sludge Bomb,92.7801309203%,4819.0
+2:Protect,63.3808240277%,3292.0
+3:Shadow Ball,45.3407778206%,2355.0
+4:Skill Swap,31.613400077%,1642.0
+5:Icy Wind,31.247593377%,1623.0
+6:Taunt,30.3041971506%,1574.0
+7:Will-O-Wisp,23.007316134%,1195.0
+8:Trick Room,18.4828648441%,960.0
+9:Hidden Power,14.1701963804%,736.0
+10:Destiny Bond,11.4747785907%,596.0
+11:Disable,9.6649980747%,502.0
+12:Substitute,7.56642279553%,393.0
+13:Perish Song,6.33423180593%,329.0
+14:Hypnosis,4.31266846361%,224.0
+15:Thunder,3.02271852137%,157.0
+16:Hex,2.79168271082%,145.0
+17:Focus Blast,1.09742010012%,57.0
+18:Sludge Wave,0.866384289565%,45.0
+19:Swagger,0.596842510589%,31.0
+20:Snatch,0.423565652676%,22.0
+0:Other,1.52098575279%,79.0
+
+ ---------- 
+Items used:
+1:Gengarite,50.8856372738%,2643.0
+2:Focus Sash,44.74393531%,2324.0
+3:Life Orb,1.21293800539%,63.0
+4:Lum Berry,1.13592606854%,59.0
+5:Choice Scarf,0.423565652676%,22.0
+6:Macho Brace,0.385059684251%,20.0
+7:Power Anklet,0.327300731613%,17.0
+8:Mental Herb,0.327300731613%,17.0
+9:Choice Specs,0.192529842126%,10.0
+10:Expert Belt,0.192529842126%,10.0
+11:Chesto Berry,0.0962649210628%,5.0
+12:Black Sludge,0.0385059684251%,2.0
+13:Red Card,0.0192529842126%,1.0
+14:Focus Band,0.0192529842126%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,5194.0
+
+ ---------- 
+Natures used:
+1:Timid,88.0631497882%,4574.0
+2:Quiet,7.89372352715%,410.0
+3:Modest,1.46322680015%,76.0
+4:Sassy,1.34770889488%,70.0
+5:Relaxed,0.75086638429%,39.0
+6:Calm,0.346553715826%,18.0
+7:Naive,0.0577589526377%,3.0
+8:Jolly,0.0577589526377%,3.0
+9:Quirky,0.0192529842126%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Kangaskhan
+5:Xerneas
+6:Landorus
+7:Crobat
+8:Thundurus
+9:Talonflame
+10:Salamence
+11:Whimsicott
+12:Ferrothorn
+13:Yveltal
+14:Liepard
+15:Raichu
+16:Cresselia
+17:Dialga
+18:Smeargle
+19:Sableye
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,55.87138863%,2901.95992544
+2:Shadow Ball,15.9832246039%,830.168685927
+3:Icy Wind,11.136999068%,578.455731594
+4:Hidden Power,7.59552656104%,394.511649581
+5:Destiny Bond,6.47716682199%,336.424044734
+6:Hex,1.30475302889%,67.7688723206
+7:Thunder,0.745573159366%,38.7250698975
+8:Sludge Wave,0.465983224604%,24.2031686859
+9:Explosion,0.186393289842%,9.68126747437
+10:Thunderbolt,0.139794967381%,7.26095060578
+11:Dazzling Gleam,0.0465983224604%,2.42031686859
+12:Focus Blast,0.0465983224604%,2.42031686859
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.10322580645%,420.881548387
+2:Water Spout,7.89677419355%,410.158451613
+3:Dazzling Gleam,7.53548387097%,391.393032258
+4:Sucker Punch,6.34838709677%,329.735225806
+5:Eruption,6.14193548387%,319.012129032
+6:Origin Pulse,5.78064516129%,300.246709677
+7:Hyper Voice,5.70322580645%,296.225548387
+8:Brave Bird,4.33548387097%,225.185032258
+9:Ice Beam,4.02580645161%,209.100387097
+10:Rock Slide,3.27741935484%,170.22916129
+11:Gyro Ball,3.25161290323%,168.888774194
+12:Earth Power,2.4%,124.656
+13:Fire Punch,2.4%,124.656
+14:Double-Edge,2.37419354839%,123.315612903
+15:Knock Off,2.21935483871%,115.273290323
+16:Dragon Ascent,2.16774193548%,112.592516129
+17:Thunderbolt,1.96129032258%,101.869419355
+18:Snarl,1.78064516129%,92.4867096774
+19:Shadow Ball,1.70322580645%,88.4655483871
+20:Moonblast,1.62580645161%,84.4443870968
+0:Other,17.0580645161%,885.995870968
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+3:Talonflame
+4:Groudon
+5:Smeargle
+6:Kyogre
+7:Kangaskhan
+8:Rayquaza
+9:Thundurus
+10:Landorus
+11:Cresselia
+12:Crobat
+13:Whimsicott
+14:Gengar
+15:Togekiss
+16:Weavile
+17:Amoonguss
+18:Rayquaza
+19:Gengar
+20:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Ferrothorn
+8:Yveltal
+9:Rayquaza
+10:Landorus
+11:Dialga
+12:Thundurus
+13:Weavile
+14:Cresselia
+15:Kangaskhan
+16:Mawile
+17:Gengar
+18:Kyogre
+19:Kyurem
+20:Bronzong

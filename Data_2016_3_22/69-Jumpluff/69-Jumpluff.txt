@@ -1,0 +1,91 @@
+69:Jumpluff|59
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,59.0
+2:Encore,69.4915254237%,41.0
+3:Worry Seed,67.7966101695%,40.0
+4:Rage Powder,62.7118644068%,37.0
+5:Protect,62.7118644068%,37.0
+6:Helping Hand,30.5084745763%,18.0
+7:Grass Knot,6.77966101695%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,61.0169491525%,36.0
+2:Mental Herb,30.5084745763%,18.0
+3:Wide Lens,8.47457627119%,5.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,59.0
+
+ ---------- 
+Natures used:
+1:Timid,93.2203389831%,55.0
+2:Jolly,6.77966101695%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Kangaskhan
+5:Cresselia
+6:Talonflame
+7:Rayquaza
+8:Mienshao
+9:Dialga
+10:Xerneas
+11:Salamence
+12:Kyurem
+13:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,11.4285714286%,6.74285714286
+2:Dazzling Gleam,8.57142857143%,5.05714285714
+3:Water Spout,8.57142857143%,5.05714285714
+4:Moonblast,5.71428571429%,3.37142857143
+5:Hyper Voice,5.71428571429%,3.37142857143
+6:Rock Slide,5.71428571429%,3.37142857143
+7:Double-Edge,5.71428571429%,3.37142857143
+8:Dragon Ascent,2.85714285714%,1.68571428571
+9:Origin Pulse,2.85714285714%,1.68571428571
+10:Snarl,2.85714285714%,1.68571428571
+11:Spacial Rend,2.85714285714%,1.68571428571
+12:Brave Bird,2.85714285714%,1.68571428571
+13:Dragon Pulse,2.85714285714%,1.68571428571
+14:U-turn,2.85714285714%,1.68571428571
+15:Feint,2.85714285714%,1.68571428571
+16:Eruption,2.85714285714%,1.68571428571
+17:Heat Wave,2.85714285714%,1.68571428571
+18:Fake Out,2.85714285714%,1.68571428571
+19:Extreme Speed,2.85714285714%,1.68571428571
+20:Hidden Power,2.85714285714%,1.68571428571
+0:Other,8.57142857143%,5.05714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Cresselia
+6:Rayquaza
+7:Salamence
+8:Zapdos
+9:Yveltal
+10:Talonflame
+11:Kyurem
+12:Landorus
+13:Palkia
+14:Dialga
+15:Weavile
+16:Metagross
+17:Mawile

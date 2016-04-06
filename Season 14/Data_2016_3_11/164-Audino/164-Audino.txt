@@ -1,0 +1,123 @@
+164:Audino|78
+ ---------- 
+Moves used:
+1:Trick Room,84.6153846154%,66.0
+2:Heal Pulse,74.358974359%,58.0
+3:Simple Beam,57.6923076923%,45.0
+4:Protect,53.8461538462%,42.0
+5:Helping Hand,32.0512820513%,25.0
+6:Draining Kiss,16.6666666667%,13.0
+7:Safeguard,12.8205128205%,10.0
+8:Encore,11.5384615385%,9.0
+9:Gravity,8.97435897436%,7.0
+10:Magic Coat,7.69230769231%,6.0
+11:Dazzling Gleam,6.41025641026%,5.0
+12:After You,6.41025641026%,5.0
+13:Skill Swap,6.41025641026%,5.0
+14:Entrainment,3.84615384615%,3.0
+15:Heal Bell,3.84615384615%,3.0
+16:Thunder Wave,3.84615384615%,3.0
+17:Baby-Doll Eyes,2.5641025641%,2.0
+18:Confide,2.5641025641%,2.0
+19:Reflect,2.5641025641%,2.0
+20:Flamethrower,1.28205128205%,1.0
+
+ ---------- 
+Items used:
+1:Audinite,79.4871794872%,62.0
+2:Mental Herb,15.3846153846%,12.0
+3:Safety Goggles,3.84615384615%,3.0
+4:Macho Brace,1.28205128205%,1.0
+
+ ---------- 
+Abilities used:
+1:Healer,75.641025641%,59.0
+2:Regenerator,24.358974359%,19.0
+
+ ---------- 
+Natures used:
+1:Sassy,64.1025641026%,50.0
+2:Relaxed,23.0769230769%,18.0
+3:Bold,6.41025641026%,5.0
+4:Calm,3.84615384615%,3.0
+5:Modest,2.5641025641%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Muk
+4:Whimsicott
+5:Blissey
+6:Aromatisse
+7:Cresselia
+8:Ferrothorn
+9:Landorus
+10:Chandelure
+11:Talonflame
+12:Lugia
+13:Jumpluff
+14:Kyurem
+15:Salamence
+16:Mawile
+17:Ho-Oh
+18:Yveltal
+19:Amoonguss
+20:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,50.0%,39.0
+2:Draining Kiss,50.0%,39.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,11.2903225806%,8.8064516129
+2:Dazzling Gleam,8.06451612903%,6.29032258065
+3:Iron Head,8.06451612903%,6.29032258065
+4:Water Spout,8.06451612903%,6.29032258065
+5:Return,8.06451612903%,6.29032258065
+6:Precipice Blades,6.45161290323%,5.03225806452
+7:Moonblast,6.45161290323%,5.03225806452
+8:Double-Edge,6.45161290323%,5.03225806452
+9:Sludge Bomb,3.22580645161%,2.51612903226
+10:Earthquake,3.22580645161%,2.51612903226
+11:Dragon Ascent,1.61290322581%,1.25806451613
+12:Origin Pulse,1.61290322581%,1.25806451613
+13:Icicle Crash,1.61290322581%,1.25806451613
+14:Scald,1.61290322581%,1.25806451613
+15:Bullet Punch,1.61290322581%,1.25806451613
+16:Brave Bird,1.61290322581%,1.25806451613
+17:Close Combat,1.61290322581%,1.25806451613
+18:Gyro Ball,1.61290322581%,1.25806451613
+19:Hyper Voice,1.61290322581%,1.25806451613
+20:Superpower,1.61290322581%,1.25806451613
+0:Other,11.2903225806%,8.8064516129
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Mawile
+6:Salamence
+7:Infernape
+8:Rayquaza
+9:Talonflame
+10:Kyurem
+11:Landorus
+12:Thundurus
+13:Terrakion
+14:Ferrothorn
+15:Amoonguss
+16:Cresselia
+17:Dialga
+18:Weavile
+19:Garchomp
+20:Kecleon

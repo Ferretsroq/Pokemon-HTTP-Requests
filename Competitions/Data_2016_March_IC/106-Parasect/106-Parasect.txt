@@ -1,0 +1,67 @@
+106:Parasect|3
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,3.0
+2:Wide Guard,100.0%,3.0
+3:Spore,100.0%,3.0
+4:Seed Bomb,66.6666666667%,2.0
+5:Protect,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,66.6666666667%,2.0
+2:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,66.6666666667%,2.0
+2:Effect Spore,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,66.6666666667%,2.0
+2:Sassy,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Talonflame
+3:Weavile
+4:Infernape
+5:Rayquaza
+6:Groudon
+7:Kyogre
+8:Linoone
+9:Smeargle
+10:Furret
+11:Mewtwo
+12:Ditto
+13:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,20.0%,0.6
+2:Fire Punch,20.0%,0.6
+3:Dragon Ascent,10.0%,0.3
+4:Moonblast,10.0%,0.3
+5:Icicle Crash,10.0%,0.3
+6:Iron Head,10.0%,0.3
+7:Dragon Pulse,10.0%,0.3
+8:Return,10.0%,0.3
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Mawile
+3:Xerneas
+4:Landorus
+5:Dialga
+6:Weavile
+7:Rayquaza
+8:Kangaskhan

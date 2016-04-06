@@ -1,0 +1,65 @@
+46:Lapras|8
+ ---------- 
+Moves used:
+1:Ice Shard,100.0%,8.0
+2:Hydro Pump,100.0%,8.0
+3:Freeze-Dry,87.5%,7.0
+4:Blizzard,87.5%,7.0
+5:Sheer Cold,12.5%,1.0
+6:Ice Beam,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Relaxed,87.5%,7.0
+2:Sassy,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Thundurus
+5:Lugia
+6:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,66.6666666667%,5.33333333333
+2:Freeze-Dry,16.6666666667%,1.33333333333
+3:Hydro Pump,16.6666666667%,1.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.5%,1.0
+2:Moonblast,12.5%,1.0
+3:Wild Charge,12.5%,1.0
+4:Grass Knot,12.5%,1.0
+5:Brave Bird,12.5%,1.0
+6:Thunder,12.5%,1.0
+7:Thunderbolt,12.5%,1.0
+8:Fire Punch,12.5%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Amoonguss
+4:Rayquaza
+5:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Thundurus
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Empoleon
+6:Kyogre

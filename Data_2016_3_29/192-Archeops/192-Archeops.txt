@@ -1,0 +1,44 @@
+192:Archeops|1
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,1.0
+2:Endeavor,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Defeatist,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kyogre
+3:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Pulse,20.0%,0.2
+2:Water Spout,20.0%,0.2
+3:Blizzard,20.0%,0.2
+4:Ice Beam,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Dialga
+3:Mewtwo

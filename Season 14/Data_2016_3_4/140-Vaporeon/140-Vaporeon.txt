@@ -1,0 +1,140 @@
+140:Vaporeon|106
+ ---------- 
+Moves used:
+1:Scald,96.2264150943%,102.0
+2:Icy Wind,58.4905660377%,62.0
+3:Muddy Water,42.4528301887%,45.0
+4:Signal Beam,37.7358490566%,40.0
+5:Helping Hand,35.8490566038%,38.0
+6:Protect,29.2452830189%,31.0
+7:Ice Beam,25.4716981132%,27.0
+8:Haze,22.641509434%,24.0
+9:Baby-Doll Eyes,15.0943396226%,16.0
+10:Wish,5.66037735849%,6.0
+11:Yawn,4.71698113208%,5.0
+12:Shadow Ball,4.71698113208%,5.0
+13:Stored Power,3.77358490566%,4.0
+14:Synchronoise,3.77358490566%,4.0
+15:Detect,3.77358490566%,4.0
+16:Toxic,3.77358490566%,4.0
+17:Baton Pass,2.83018867925%,3.0
+18:Acid Armor,2.83018867925%,3.0
+19:Fake Tears,0.943396226415%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,43.3962264151%,46.0
+2:Assault Vest,42.4528301887%,45.0
+3:Sitrus Berry,10.3773584906%,11.0
+4:Kee Berry,3.77358490566%,4.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,106.0
+
+ ---------- 
+Natures used:
+1:Modest,47.1698113208%,50.0
+2:Calm,40.5660377358%,43.0
+3:Bold,12.2641509434%,13.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Weavile
+4:Kangaskhan
+5:Metagross
+6:Thundurus
+7:Groudon
+8:Landorus
+9:Xerneas
+10:Togekiss
+11:Talonflame
+12:Smeargle
+13:Aegislash
+14:Cresselia
+15:Ditto
+16:Raichu
+17:Ho-Oh
+18:Ferrothorn
+19:Serperior
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,44.6428571429%,47.3214285714
+2:Muddy Water,23.2142857143%,24.6071428571
+3:Icy Wind,14.2857142857%,15.1428571429
+4:Ice Beam,14.2857142857%,15.1428571429
+5:Signal Beam,3.57142857143%,3.78571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.0943396226%,16.0
+2:Dazzling Gleam,11.320754717%,12.0
+3:Power Whip,9.43396226415%,10.0
+4:Double-Edge,9.43396226415%,10.0
+5:Dragon Ascent,5.66037735849%,6.0
+6:Brave Bird,3.77358490566%,4.0
+7:Knock Off,3.77358490566%,4.0
+8:Shadow Ball,3.77358490566%,4.0
+9:Frustration,3.77358490566%,4.0
+10:Return,3.77358490566%,4.0
+11:Thunder,3.77358490566%,4.0
+12:Fire Punch,3.77358490566%,4.0
+13:Moonblast,1.88679245283%,2.0
+14:Zen Headbutt,1.88679245283%,2.0
+15:Shadow Claw,1.88679245283%,2.0
+16:Air Slash,1.88679245283%,2.0
+17:Dragon Claw,1.88679245283%,2.0
+18:Hyper Voice,1.88679245283%,2.0
+19:Eruption,1.88679245283%,2.0
+20:Fake Out,1.88679245283%,2.0
+0:Other,7.54716981132%,8.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Kangaskhan
+4:Kyogre
+5:Mawile
+6:Liepard
+7:Cresselia
+8:Salamence
+9:Togekiss
+10:Yveltal
+11:Xerneas
+12:Thundurus
+13:Terrakion
+14:Chandelure
+15:Ferrothorn
+16:Giratina
+17:Weavile
+18:Bronzong
+19:Rayquaza
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Ferrothorn
+5:Aegislash
+6:Talonflame
+7:Rayquaza
+8:Yveltal
+9:Landorus
+10:Amoonguss
+11:Rotom
+12:Togekiss
+13:Garchomp
+14:Rayquaza
+15:Groudon
+16:Kyogre
+17:Kyogre
+18:Metagross
+19:Salamence
+20:Dusclops

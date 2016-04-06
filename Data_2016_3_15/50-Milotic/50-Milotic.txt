@@ -1,0 +1,37 @@
+50:Milotic|1
+ ---------- 
+Moves used:
+1:Swagger,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Recover,100.0%,1.0
+4:Hydro Pump,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Marvel Scale,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Politoed
+2:Gengar
+3:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

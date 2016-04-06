@@ -1,0 +1,38 @@
+217:Trevenant|1
+ ---------- 
+Moves used:
+1:Wood Hammer,100.0%,1.0
+2:Will-O-Wisp,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Leech Seed,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Harvest,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Garchomp
+3:Xerneas
+4:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

@@ -1,0 +1,43 @@
+168:Torterra|1
+ ---------- 
+Moves used:
+1:Wood Hammer,100.0%,1.0
+2:Stone Edge,100.0%,1.0
+3:Crunch,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Dialga
+3:Togekiss
+4:Infernape
+5:Swampert
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wood Hammer,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Terrakion
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

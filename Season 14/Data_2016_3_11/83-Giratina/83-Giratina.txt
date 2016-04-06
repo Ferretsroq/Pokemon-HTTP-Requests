@@ -1,0 +1,173 @@
+83:Giratina|447
+ ---------- 
+Moves used:
+1:Shadow Force,76.5100671141%,342.0
+2:Will-O-Wisp,48.5458612975%,217.0
+3:Protect,46.5324384787%,208.0
+4:Draco Meteor,33.3333333333%,149.0
+5:Tailwind,28.6353467562%,128.0
+6:Dragon Claw,21.9239373602%,98.0
+7:Shadow Sneak,17.4496644295%,78.0
+8:Gravity,14.0939597315%,63.0
+9:Substitute,13.6465324385%,61.0
+10:Earth Power,12.0805369128%,54.0
+11:Shadow Ball,10.9619686801%,49.0
+12:Calm Mind,9.84340044743%,44.0
+13:Dragon Pulse,7.82997762864%,35.0
+14:Stone Edge,6.93512304251%,31.0
+15:Rest,6.93512304251%,31.0
+16:Roar,6.04026845638%,27.0
+17:Magic Coat,4.47427293065%,20.0
+18:Sleep Talk,4.47427293065%,20.0
+19:Destiny Bond,4.25055928412%,19.0
+20:Aura Sphere,2.23713646532%,10.0
+0:Other,15.2125279642%,68.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,34.2281879195%,153.0
+2:Leftovers,31.9910514541%,143.0
+3:Lum Berry,9.84340044743%,44.0
+4:Power Herb,7.82997762864%,35.0
+5:Sitrus Berry,6.48769574944%,29.0
+6:Choice Band,4.02684563758%,18.0
+7:Assault Vest,2.46085011186%,11.0
+8:Choice Scarf,1.11856823266%,5.0
+9:Kee Berry,0.447427293065%,2.0
+10:Haban Berry,0.447427293065%,2.0
+11:Maranga Berry,0.223713646532%,1.0
+12:Power Band,0.223713646532%,1.0
+13:Wide Lens,0.223713646532%,1.0
+14:Chesto Berry,0.223713646532%,1.0
+15:Griseous Orb,0.223713646532%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,80.5369127517%,360.0
+2:Telepathy,19.4630872483%,87.0
+
+ ---------- 
+Natures used:
+1:Adamant,31.096196868%,139.0
+2:Brave,25.9507829978%,116.0
+3:Modest,8.9485458613%,40.0
+4:Careful,6.93512304251%,31.0
+5:Bold,6.93512304251%,31.0
+6:Impish,5.81655480984%,26.0
+7:Sassy,5.36912751678%,24.0
+8:Calm,3.80313199105%,17.0
+9:Relaxed,2.46085011186%,11.0
+10:Mild,1.78970917226%,8.0
+11:Gentle,0.447427293065%,2.0
+12:Jolly,0.447427293065%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Mawile
+5:Talonflame
+6:Whimsicott
+7:Ferrothorn
+8:Gengar
+9:Thundurus
+10:Rayquaza
+11:Liepard
+12:Smeargle
+13:Crobat
+14:Landorus
+15:Terrakion
+16:Salamence
+17:Rotom
+18:Meowstic
+19:Mienshao
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Force,48.3050847458%,215.923728814
+2:Draco Meteor,13.5593220339%,60.6101694915
+3:Shadow Sneak,8.47457627119%,37.8813559322
+4:Shadow Ball,7.62711864407%,34.093220339
+5:Dragon Pulse,7.20338983051%,32.1991525424
+6:Dragon Claw,6.35593220339%,28.4110169492
+7:Stone Edge,2.96610169492%,13.2584745763
+8:Earth Power,2.1186440678%,9.47033898305
+9:Hex,0.847457627119%,3.78813559322
+10:Dragon Tail,0.423728813559%,1.89406779661
+11:Iron Head,0.423728813559%,1.89406779661
+12:Aura Sphere,0.423728813559%,1.89406779661
+13:Icy Wind,0.423728813559%,1.89406779661
+14:Destiny Bond,0.423728813559%,1.89406779661
+15:Thunder,0.423728813559%,1.89406779661
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,13.3333333333%,59.6
+2:Dazzling Gleam,12.5%,55.875
+3:Precipice Blades,8.75%,39.1125
+4:Draco Meteor,6.66666666667%,29.8
+5:Moonblast,5.0%,22.35
+6:Sucker Punch,5.0%,22.35
+7:Play Rough,4.58333333333%,20.4875
+8:Origin Pulse,3.75%,16.7625
+9:Earth Power,3.75%,16.7625
+10:Dragon Ascent,2.5%,11.175
+11:Foul Play,2.5%,11.175
+12:Spacial Rend,2.5%,11.175
+13:Hyper Voice,2.08333333333%,9.3125
+14:Eruption,2.08333333333%,9.3125
+15:Dark Pulse,1.66666666667%,7.45
+16:Gyro Ball,1.66666666667%,7.45
+17:Flamethrower,1.66666666667%,7.45
+18:Brave Bird,1.25%,5.5875
+19:Dragon Pulse,1.25%,5.5875
+20:Dragon Claw,1.25%,5.5875
+0:Other,14.5833333333%,65.1875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Talonflame
+6:Rayquaza
+7:Landorus
+8:Cresselia
+9:Gengar
+10:Thundurus
+11:Smeargle
+12:Crobat
+13:Kangaskhan
+14:Gengar
+15:Yveltal
+16:Liepard
+17:Dialga
+18:Weavile
+19:Rayquaza
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Mawile
+5:Dialga
+6:Rayquaza
+7:Yveltal
+8:Salamence
+9:Palkia
+10:Kangaskhan
+11:Kyurem
+12:Ferrothorn
+13:Weavile
+14:Gengar
+15:Talonflame
+16:Landorus
+17:Liepard
+18:Mewtwo
+19:Aegislash
+20:Kyurem

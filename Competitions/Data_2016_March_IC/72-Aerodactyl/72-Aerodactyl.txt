@@ -1,0 +1,115 @@
+72:Aerodactyl|7
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,7.0
+2:Rock Slide,100.0%,7.0
+3:Tailwind,85.7142857143%,6.0
+4:Taunt,57.1428571429%,4.0
+5:Sky Drop,28.5714285714%,2.0
+6:Iron Head,14.2857142857%,1.0
+7:Protect,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Aerodactylite,28.5714285714%,2.0
+2:Chesto Berry,28.5714285714%,2.0
+3:Focus Sash,14.2857142857%,1.0
+4:Wide Lens,14.2857142857%,1.0
+5:Yache Berry,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Unnerve,57.1428571429%,4.0
+2:Pressure,42.8571428571%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Amoonguss
+5:Togekiss
+6:Kyogre
+7:Mawile
+8:Smeargle
+9:Alakazam
+10:Yveltal
+11:Meowstic
+12:Greninja
+13:Terrakion
+14:Ferrothorn
+15:Whimsicott
+16:Mesprit
+17:Salamence
+18:Ho-Oh
+19:Crobat
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,95.0%,6.65
+2:Sky Drop,5.0%,0.35
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,7.8125%,0.546875
+2:Iron Head,6.25%,0.4375
+3:Sucker Punch,6.25%,0.4375
+4:Moonblast,4.6875%,0.328125
+5:Gyro Ball,4.6875%,0.328125
+6:Eruption,4.6875%,0.328125
+7:Extreme Speed,4.6875%,0.328125
+8:Thunderbolt,4.6875%,0.328125
+9:Precipice Blades,3.125%,0.21875
+10:Scald,3.125%,0.21875
+11:Stone Edge,3.125%,0.21875
+12:Draco Meteor,3.125%,0.21875
+13:Shadow Sneak,3.125%,0.21875
+14:Brave Bird,3.125%,0.21875
+15:Flamethrower,3.125%,0.21875
+16:Double-Edge,3.125%,0.21875
+17:Origin Pulse,1.5625%,0.109375
+18:Icicle Crash,1.5625%,0.109375
+19:Psystrike,1.5625%,0.109375
+20:Foul Play,1.5625%,0.109375
+0:Other,23.4375%,1.640625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Weavile
+3:Smeargle
+4:Xerneas
+5:Crobat
+6:Zoroark
+7:Cresselia
+8:Mesprit
+9:Salamence
+10:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Thundurus
+7:Ferrothorn
+8:Aegislash
+9:Talonflame
+10:Dialga
+11:Rayquaza
+12:Yveltal
+13:Kyurem
+14:Terrakion
+15:Weavile
+16:Bronzong
+17:Rayquaza
+18:Mawile
+19:Gardevoir
+20:Hitmontop

@@ -1,0 +1,93 @@
+172:Pinsir|48
+ ---------- 
+Moves used:
+1:Feint,100.0%,48.0
+2:Protect,100.0%,48.0
+3:Focus Punch,91.6666666667%,44.0
+4:Me First,47.9166666667%,23.0
+5:Thief,43.75%,21.0
+6:Close Combat,8.33333333333%,4.0
+7:Return,6.25%,3.0
+8:Thrash,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Pinsirite,77.0833333333%,37.0
+2:Persim Berry,22.9166666667%,11.0
+
+ ---------- 
+Abilities used:
+1:Hyper Cutter,97.9166666667%,47.0
+2:Moxie,2.08333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,79.1666666667%,38.0
+2:Jolly,20.8333333333%,10.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Aurorus
+4:Ditto
+5:Kangaskhan
+6:Yveltal
+7:Garchomp
+8:Xerneas
+9:Lugia
+10:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,66.6666666667%,32.0
+2:Focus Punch,27.7777777778%,13.3333333333
+3:Return,2.77777777778%,1.33333333333
+4:Thief,2.77777777778%,1.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,29.6296296296%,14.2222222222
+2:Dazzling Gleam,14.8148148148%,7.11111111111
+3:Rock Slide,14.8148148148%,7.11111111111
+4:Dragon Ascent,7.40740740741%,3.55555555556
+5:Eruption,7.40740740741%,3.55555555556
+6:Origin Pulse,3.7037037037%,1.77777777778
+7:Bullet Punch,3.7037037037%,1.77777777778
+8:Water Spout,3.7037037037%,1.77777777778
+9:Facade,3.7037037037%,1.77777777778
+10:Blizzard,3.7037037037%,1.77777777778
+11:Flamethrower,3.7037037037%,1.77777777778
+12:Double-Edge,3.7037037037%,1.77777777778
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Talonflame
+4:Xerneas
+5:Crobat
+6:Kyurem
+7:Landorus
+8:Ferrothorn
+9:Whimsicott
+10:Cresselia
+11:Weavile
+12:Groudon
+13:Kyogre
+14:Scizor
+15:Mewtwo
+16:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Kyogre
+6:Kyurem
+7:Garchomp
+8:Salamence
+9:Scizor
+10:Kangaskhan

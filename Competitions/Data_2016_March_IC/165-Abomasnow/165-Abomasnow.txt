@@ -1,0 +1,60 @@
+165:Abomasnow|1
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,1.0
+2:Ice Shard,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Blizzard,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Warning,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Mild,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Togekiss
+2:Rayquaza
+3:Kyogre
+4:Hitmontop
+5:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,50.0%,0.5
+2:Ice Shard,37.5%,0.375
+3:Grass Knot,12.5%,0.125
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,28.5714285714%,0.285714285714
+2:Origin Pulse,14.2857142857%,0.142857142857
+3:Play Rough,14.2857142857%,0.142857142857
+4:Volt Switch,14.2857142857%,0.142857142857
+5:Extreme Speed,14.2857142857%,0.142857142857
+6:Thunderbolt,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Kyogre
+3:Yveltal
+4:Thundurus
+5:Liepard
+6:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Thundurus
+3:Rayquaza
+4:Kyogre
+5:Manectric
+6:Mawile

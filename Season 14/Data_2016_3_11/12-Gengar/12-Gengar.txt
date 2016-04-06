@@ -1,0 +1,179 @@
+12:Gengar|28510
+ ---------- 
+Moves used:
+1:Sludge Bomb,91.641529288%,26127.0
+2:Protect,72.314977201%,20617.0
+3:Shadow Ball,47.9340582252%,13666.0
+4:Icy Wind,26.1627499123%,7459.0
+5:Taunt,26.1276745002%,7449.0
+6:Skill Swap,25.1245177131%,7163.0
+7:Will-O-Wisp,18.3304103823%,5226.0
+8:Disable,17.9024903543%,5104.0
+9:Hidden Power,17.0712030866%,4867.0
+10:Substitute,15.9522974395%,4548.0
+11:Hypnosis,9.55804980709%,2725.0
+12:Destiny Bond,9.02841108383%,2574.0
+13:Trick Room,8.02876183795%,2289.0
+14:Hex,6.04349351105%,1723.0
+15:Perish Song,2.24833391792%,641.0
+16:Trick,1.11890564714%,319.0
+17:Focus Blast,0.985619081024%,281.0
+18:Sludge Wave,0.848824973693%,242.0
+19:Thunder,0.75762890214%,216.0
+20:Snatch,0.708523325149%,202.0
+0:Other,2.11153981059%,602.0
+
+ ---------- 
+Items used:
+1:Gengarite,60.3998596984%,17220.0
+2:Focus Sash,33.037530691%,9419.0
+3:Life Orb,2.43774114346%,695.0
+4:Choice Scarf,1.05927744651%,302.0
+5:Macho Brace,0.876885303402%,250.0
+6:Choice Specs,0.712030866363%,203.0
+7:Expert Belt,0.305156085584%,87.0
+8:Lum Berry,0.273588214662%,78.0
+9:Toxic Plate,0.143809189758%,41.0
+10:Black Sludge,0.136794107331%,39.0
+11:Power Anklet,0.133286566117%,38.0
+12:Mental Herb,0.122763942476%,35.0
+13:Power Bracer,0.0420904945633%,12.0
+14:Red Card,0.0350754121361%,10.0
+15:Wide Lens,0.0350754121361%,10.0
+16:King's Rock,0.0350754121361%,10.0
+17:Bright Powder,0.0280603297089%,8.0
+18:Sitrus Berry,0.0280603297089%,8.0
+19:Poison Barb,0.0210452472817%,6.0
+20:Focus Band,0.017537706068%,5.0
+0:Other,0.0771659066994%,22.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,28510.0
+
+ ---------- 
+Natures used:
+1:Timid,93.1988775868%,26571.0
+2:Quiet,3.03753069099%,866.0
+3:Modest,2.13258505787%,608.0
+4:Relaxed,1.07330761136%,306.0
+5:Sassy,0.227990178885%,65.0
+6:Bold,0.150824272185%,43.0
+7:Quirky,0.0876885303402%,25.0
+8:Naive,0.0350754121361%,10.0
+9:Serious,0.0280603297089%,8.0
+10:Calm,0.0210452472817%,6.0
+11:Hasty,0.00701508242722%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Xerneas
+5:Crobat
+6:Whimsicott
+7:Talonflame
+8:Kangaskhan
+9:Landorus
+10:Ferrothorn
+11:Thundurus
+12:Liepard
+13:Yveltal
+14:Sableye
+15:Salamence
+16:Raichu
+17:Kyurem
+18:Dialga
+19:Smeargle
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,55.6335251912%,15861.118032
+2:Shadow Ball,18.4972009777%,5273.55199874
+3:Hidden Power,8.97264054246%,2558.09981865
+4:Icy Wind,8.41283607979%,2398.49956635
+5:Destiny Bond,4.57305054009%,1303.77670898
+6:Hex,2.79902231333%,798.001261531
+7:Sludge Wave,0.520381613183%,148.360797918
+8:Focus Blast,0.204998817315%,58.4451628164
+9:Thunder,0.181345107624%,51.7014901837
+10:Dazzling Gleam,0.0630765591737%,17.9831270204
+11:Energy Ball,0.0315382795868%,8.99156351021
+12:Struggle,0.0315382795868%,8.99156351021
+13:Thunderbolt,0.0236537096901%,6.74367263266
+14:Clear Smog,0.0157691397934%,4.49578175511
+15:Giga Drain,0.0157691397934%,4.49578175511
+16:Psychic,0.0157691397934%,4.49578175511
+17:Explosion,0.00788456989671%,2.24789087755
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,7.57024312127%,2158.27631387
+2:Water Spout,7.50230504198%,2138.90716747
+3:Origin Pulse,7.24511088465%,2065.58111321
+4:Sucker Punch,6.54146649197%,1864.97209686
+5:Eruption,6.41529577328%,1829.00082496
+6:Dazzling Gleam,6.09501625661%,1737.68913476
+7:Brave Bird,5.53210074247%,1577.20192168
+8:Hyper Voice,4.83816178968%,1379.35992624
+9:Rock Slide,3.28529140583%,936.636579803
+10:Dragon Ascent,3.26102780609%,929.719027515
+11:Earth Power,3.15912068715%,900.665307905
+12:Ice Beam,2.83398845053%,807.970107245
+13:Gyro Ball,2.81943029068%,803.819575872
+14:Knock Off,2.19828213714%,626.730237298
+15:Shadow Ball,2.0866695783%,594.909496773
+16:Double-Edge,1.94108797981%,553.404183045
+17:Fire Punch,1.538312224%,438.572815063
+18:Psychic,1.41214150531%,402.601543165
+19:Thunderbolt,1.38302518562%,394.300480419
+20:Earthquake,1.36846702577%,390.149949046
+0:Other,19.5079341971%,5561.7120396
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+3:Talonflame
+4:Groudon
+5:Smeargle
+6:Kangaskhan
+7:Kyogre
+8:Rayquaza
+9:Crobat
+10:Cresselia
+11:Landorus
+12:Whimsicott
+13:Thundurus
+14:Liepard
+15:Gengar
+16:Togekiss
+17:Gengar
+18:Weavile
+19:Rayquaza
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Talonflame
+6:Kangaskhan
+7:Rayquaza
+8:Ferrothorn
+9:Yveltal
+10:Landorus
+11:Mawile
+12:Weavile
+13:Cresselia
+14:Dialga
+15:Gengar
+16:Thundurus
+17:Kangaskhan
+18:Gengar
+19:Palkia
+20:Rayquaza

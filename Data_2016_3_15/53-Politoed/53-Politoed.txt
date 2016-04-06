@@ -1,0 +1,47 @@
+53:Politoed|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Perish Song,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Double Team,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Drizzle,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Milotic
+2:Gengar
+3:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,0.2
+2:Play Rough,20.0%,0.2
+3:Brave Bird,20.0%,0.2
+4:Psywave,20.0%,0.2
+5:Double-Edge,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Bronzong
+2:Groudon
+3:Mawile
+4:Ho-Oh
+5:Kangaskhan

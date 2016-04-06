@@ -1,0 +1,77 @@
+259:Dusknoir|12
+ ---------- 
+Moves used:
+1:Trick Room,75.0%,9.0
+2:Will-O-Wisp,66.6666666667%,8.0
+3:Shadow Punch,41.6666666667%,5.0
+4:Gravity,33.3333333333%,4.0
+5:Snatch,33.3333333333%,4.0
+6:Memento,33.3333333333%,4.0
+7:Leer,33.3333333333%,4.0
+8:Protect,25.0%,3.0
+9:Skill Swap,16.6666666667%,2.0
+10:Psych Up,16.6666666667%,2.0
+11:Rock Slide,16.6666666667%,2.0
+12:Pain Split,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,66.6666666667%,8.0
+2:Leftovers,16.6666666667%,2.0
+3:Sitrus Berry,16.6666666667%,2.0
+
+ ---------- 
+Abilities used:
+1:Frisk,66.6666666667%,8.0
+2:Pressure,33.3333333333%,4.0
+
+ ---------- 
+Natures used:
+1:Sassy,33.3333333333%,4.0
+2:Relaxed,33.3333333333%,4.0
+3:Impish,16.6666666667%,2.0
+4:Careful,8.33333333333%,1.0
+5:Adamant,8.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Groudon
+3:Kangaskhan
+4:Camerupt
+5:Machamp
+6:Escavalier
+7:Kyogre
+8:Mewtwo
+9:Yveltal
+10:Xerneas
+11:Smeargle
+12:Porygon2
+13:Jumpluff
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,2.4
+2:Precipice Blades,10.0%,1.2
+3:Origin Pulse,10.0%,1.2
+4:Dazzling Gleam,10.0%,1.2
+5:Moonblast,10.0%,1.2
+6:Snarl,10.0%,1.2
+7:Flare Blitz,10.0%,1.2
+8:Eruption,10.0%,1.2
+9:Knock Off,10.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Yveltal
+5:Landorus
+6:Darmanitan

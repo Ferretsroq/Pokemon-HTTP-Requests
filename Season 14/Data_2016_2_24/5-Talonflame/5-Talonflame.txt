@@ -1,0 +1,175 @@
+5:Talonflame|46151
+ ---------- 
+Moves used:
+1:Brave Bird,99.9111611883%,46110.0
+2:Tailwind,84.7912287924%,39132.0
+3:Flare Blitz,78.1044831098%,36046.0
+4:Quick Guard,69.5932915863%,32118.0
+5:Protect,20.8511191523%,9623.0
+6:Taunt,19.2216853373%,8871.0
+7:Sleep Talk,6.49173365691%,2996.0
+8:U-turn,6.14071201057%,2834.0
+9:Will-O-Wisp,4.22092695716%,1948.0
+10:Overheat,2.82767437325%,1305.0
+11:Swords Dance,2.52865593378%,1167.0
+12:Snatch,1.23507616303%,570.0
+13:Roost,1.07689974215%,497.0
+14:Fly,0.803882906113%,371.0
+15:Swagger,0.296851639184%,137.0
+16:Giga Impact,0.275183636324%,127.0
+17:Steel Wing,0.25568243375%,118.0
+18:Me First,0.251348833178%,116.0
+19:Aerial Ace,0.123507616303%,57.0
+20:Acrobatics,0.0758380100106%,35.0
+0:Other,0.130008017161%,60.0
+
+ ---------- 
+Items used:
+1:Life Orb,58.0139108578%,26774.0
+2:Choice Band,11.068015861%,5108.0
+3:Lum Berry,10.7169942146%,4946.0
+4:Sharp Beak,8.22950748629%,3798.0
+5:Sky Plate,5.34116270503%,2465.0
+6:Focus Sash,2.5719919395%,1187.0
+7:Sitrus Berry,0.916556520985%,423.0
+8:Rocky Helmet,0.472362462352%,218.0
+9:Expert Belt,0.342354445191%,158.0
+10:Red Card,0.320686442331%,148.0
+11:Charti Berry,0.249182032892%,115.0
+12:Chesto Berry,0.24484843232%,113.0
+13:Eject Button,0.242681632034%,112.0
+14:Safety Goggles,0.186344824598%,86.0
+15:Muscle Band,0.143008818877%,66.0
+16:Bright Powder,0.125674416589%,58.0
+17:Mental Herb,0.112673614873%,52.0
+18:Jaboca Berry,0.0910056120127%,42.0
+19:Razor Fang,0.0866720114407%,40.0
+20:Passho Berry,0.0671708088665%,31.0
+0:Other,0.361855647765%,167.0
+
+ ---------- 
+Abilities used:
+1:Gale Wings,99.9306623908%,46119.0
+2:Flame Body,0.0693376091526%,32.0
+
+ ---------- 
+Natures used:
+1:Adamant,60.1178739356%,27745.0
+2:Jolly,36.8811076683%,17021.0
+3:Naive,1.34124937704%,619.0
+4:Naughty,1.09423414444%,505.0
+5:Hasty,0.251348833178%,116.0
+6:Careful,0.145175619163%,67.0
+7:Impish,0.0758380100106%,35.0
+8:Brave,0.0650040085805%,30.0
+9:Timid,0.0130008017161%,6.0
+10:Bold,0.00866720114407%,4.0
+11:Modest,0.00650040085805%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Smeargle
+7:Rayquaza
+8:Gengar
+9:Cresselia
+10:Mawile
+11:Ferrothorn
+12:Landorus
+13:Liepard
+14:Yveltal
+15:Dialga
+16:Thundurus
+17:Amoonguss
+18:Weavile
+19:Palkia
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,79.359211337%,36625.0696242
+2:Flare Blitz,19.6734442391%,9079.49125077
+3:Overheat,0.653111521873%,301.41749846
+4:U-turn,0.123228589033%,56.8712261245
+5:Sleep Talk,0.123228589033%,56.8712261245
+6:Acrobatics,0.0246457178065%,11.3742452249
+7:Struggle,0.0123228589033%,5.68712261245
+8:Me First,0.00616142945163%,2.84356130622
+9:Steel Wing,0.00616142945163%,2.84356130622
+10:Flamethrower,0.00616142945163%,2.84356130622
+11:Tackle,0.00616142945163%,2.84356130622
+12:Fly,0.00616142945163%,2.84356130622
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,9.91001220655%,4573.56973344
+2:Double-Edge,7.60212337128%,3508.45595708
+3:Origin Pulse,6.58869617055%,3040.74916967
+4:Dazzling Gleam,5.91591676839%,2730.25474778
+5:Water Spout,4.89965083601%,2261.23785733
+6:Brave Bird,4.15590314248%,1917.99085928
+7:Eruption,4.06222499787%,1874.75745877
+8:Hyper Voice,3.82093280722%,1763.39869986
+9:Thunderbolt,3.40647798564%,1572.12365515
+10:Return,2.48956766117%,1148.96037131
+11:Precipice Blades,2.35046981009%,1084.76532205
+12:Extreme Speed,2.33627615182%,1078.21480682
+13:Dragon Ascent,2.24827547052%,1037.6016124
+14:Sludge Bomb,2.055241718%,948.514605274
+15:Moonblast,1.83949811224%,848.946773781
+16:Foul Play,1.32568768274%,611.818122463
+17:Ice Beam,1.30865529282%,603.957504187
+18:Knock Off,1.03329832231%,476.877508729
+19:Sucker Punch,1.00774973742%,465.086581315
+20:Scald,0.817554716553%,377.309677236
+0:Other,14.1993357368%,6553.13543589
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Smeargle
+4:Talonflame
+5:Crobat
+6:Kyogre
+7:Ferrothorn
+8:Groudon
+9:Gengar
+10:Liepard
+11:Whimsicott
+12:Amoonguss
+13:Cresselia
+14:Salamence
+15:Rayquaza
+16:Mawile
+17:Weavile
+18:Gengar
+19:Thundurus
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Thundurus
+9:Landorus
+10:Gengar
+11:Yveltal
+12:Rayquaza
+13:Liepard
+14:Mawile
+15:Gengar
+16:Dialga
+17:Weavile
+18:Ho-Oh
+19:Kyurem
+20:Cresselia

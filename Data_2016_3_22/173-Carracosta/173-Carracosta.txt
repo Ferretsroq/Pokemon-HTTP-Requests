@@ -1,0 +1,51 @@
+173:Carracosta|3
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,3.0
+2:Rock Slide,100.0%,3.0
+3:Protect,66.6666666667%,2.0
+4:Low Kick,66.6666666667%,2.0
+5:Shell Smash,33.3333333333%,1.0
+6:Knock Off,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,66.6666666667%,2.0
+2:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Thundurus
+3:Kyogre
+4:Talonflame
+5:Bastiodon
+6:Rampardos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,1.0
+2:Eruption,33.3333333333%,1.0
+3:Quick Attack,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Tentacruel
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Sylveon
+2:Groudon
+3:Kyogre

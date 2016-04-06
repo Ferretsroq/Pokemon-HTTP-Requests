@@ -1,0 +1,63 @@
+250:Muk|1
+ ---------- 
+Moves used:
+1:Power-Up Punch,100.0%,1.0
+2:Gunk Shot,100.0%,1.0
+3:Stockpile,100.0%,1.0
+4:Minimize,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Stench,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Audino
+2:Groudon
+3:Aromatisse
+4:Whimsicott
+5:Jumpluff
+6:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gunk Shot,55.5555555556%,0.555555555556
+2:Power-Up Punch,44.4444444444%,0.444444444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,16.6666666667%,0.166666666667
+2:Bullet Punch,16.6666666667%,0.166666666667
+3:Earth Power,16.6666666667%,0.166666666667
+4:Psychic,16.6666666667%,0.166666666667
+5:Earthquake,16.6666666667%,0.166666666667
+6:Blizzard,16.6666666667%,0.166666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Cresselia
+3:Weavile
+4:Rayquaza
+5:Kecleon
+6:Scizor
+7:Crobat
+8:Kangaskhan
+9:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Cresselia
+2:Palkia
+3:Rayquaza
+4:Groudon
+5:Scizor
+6:Lapras

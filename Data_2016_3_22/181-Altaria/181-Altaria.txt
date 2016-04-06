@@ -1,0 +1,45 @@
+181:Altaria|3
+ ---------- 
+Moves used:
+1:Protect,100.0%,3.0
+2:Dragon Dance,66.6666666667%,2.0
+3:Dragon Claw,66.6666666667%,2.0
+4:Return,66.6666666667%,2.0
+5:Draco Meteor,33.3333333333%,1.0
+6:Hyper Voice,33.3333333333%,1.0
+7:Flamethrower,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Altarianite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,66.6666666667%,2.0
+2:Natural Cure,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.6666666667%,2.0
+2:Modest,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Liepard
+3:Kyogre
+4:Talonflame
+5:Groudon
+6:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

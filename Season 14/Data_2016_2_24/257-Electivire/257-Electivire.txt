@@ -1,0 +1,64 @@
+257:Electivire|7
+ ---------- 
+Moves used:
+1:Wild Charge,100.0%,7.0
+2:Protect,71.4285714286%,5.0
+3:Low Kick,71.4285714286%,5.0
+4:Ice Punch,42.8571428571%,3.0
+5:Fire Punch,42.8571428571%,3.0
+6:Feint,28.5714285714%,2.0
+7:Hidden Power,28.5714285714%,2.0
+8:Earthquake,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,57.1428571429%,4.0
+2:White Herb,42.8571428571%,3.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,85.7142857143%,6.0
+2:Motor Drive,14.2857142857%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,71.4285714286%,5.0
+2:Naive,28.5714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Crobat
+5:Kyogre
+6:Mawile
+7:Gengar
+8:Yveltal
+9:Cresselia
+10:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,80.0%,5.6
+2:Low Kick,20.0%,1.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,1.75
+2:Sacred Fire,25.0%,1.75
+3:Thunderbolt,25.0%,1.75
+4:Flamethrower,25.0%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kyurem
+3:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Togekiss
+2:Groudon
+3:Ho-Oh
+4:Zapdos

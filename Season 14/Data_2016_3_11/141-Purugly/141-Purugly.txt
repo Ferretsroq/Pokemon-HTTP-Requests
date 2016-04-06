@@ -1,0 +1,125 @@
+141:Purugly|129
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,129.0
+2:Return,56.5891472868%,73.0
+3:Roar,55.8139534884%,72.0
+4:Snatch,53.488372093%,69.0
+5:U-turn,27.1317829457%,35.0
+6:Super Fang,27.1317829457%,35.0
+7:Hypnosis,27.1317829457%,35.0
+8:Last Resort,16.2790697674%,21.0
+9:Taunt,1.5503875969%,2.0
+10:Foul Play,0.77519379845%,1.0
+11:Knock Off,0.77519379845%,1.0
+12:Protect,0.77519379845%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,81.3953488372%,105.0
+2:Life Orb,16.2790697674%,21.0
+3:Lum Berry,1.5503875969%,2.0
+4:Chople Berry,0.77519379845%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,99.2248062016%,128.0
+2:Own Tempo,0.77519379845%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,129.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Scizor
+4:Mewtwo
+5:Lopunny
+6:Kyogre
+7:Slurpuff
+8:Empoleon
+9:Houndoom
+10:Golduck
+11:Salamence
+12:Crobat
+13:Landorus
+14:Xerneas
+15:Infernape
+16:Aegislash
+17:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Return,56.25%,72.5625
+2:U-turn,18.75%,24.1875
+3:Last Resort,15.625%,20.15625
+4:Fake Out,9.375%,12.09375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,17.8217821782%,22.9900990099
+2:Dazzling Gleam,7.92079207921%,10.2178217822
+3:Water Spout,5.94059405941%,7.66336633663
+4:Low Kick,5.94059405941%,7.66336633663
+5:Precipice Blades,4.9504950495%,6.38613861386
+6:Rock Slide,4.9504950495%,6.38613861386
+7:Sucker Punch,3.9603960396%,5.10891089109
+8:Eruption,3.9603960396%,5.10891089109
+9:Double-Edge,3.9603960396%,5.10891089109
+10:Dragon Ascent,2.9702970297%,3.83168316832
+11:Foul Play,2.9702970297%,3.83168316832
+12:Moonblast,1.9801980198%,2.55445544554
+13:Earth Power,1.9801980198%,2.55445544554
+14:Brave Bird,1.9801980198%,2.55445544554
+15:Extreme Speed,1.9801980198%,2.55445544554
+16:Return,1.9801980198%,2.55445544554
+17:Sludge Bomb,1.9801980198%,2.55445544554
+18:Origin Pulse,0.990099009901%,1.27722772277
+19:Oblivion Wing,0.990099009901%,1.27722772277
+20:Power-Up Punch,0.990099009901%,1.27722772277
+0:Other,15.8415841584%,20.4356435644
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Rayquaza
+3:Xerneas
+4:Landorus
+5:Whimsicott
+6:Kangaskhan
+7:Kyogre
+8:Mienshao
+9:Cresselia
+10:Palkia
+11:Lopunny
+12:Infernape
+13:Groudon
+14:Salamence
+15:Salamence
+16:Smeargle
+17:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Kyogre
+6:Rayquaza
+7:Cresselia
+8:Ditto
+9:Yveltal
+10:Landorus
+11:Thundurus
+12:Ferrothorn
+13:Ho-Oh
+14:Gengar
+15:Tornadus
+16:Terrakion
+17:Scrafty
+18:Giratina
+19:Palkia
+20:Dialga

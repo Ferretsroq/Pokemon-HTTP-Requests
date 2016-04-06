@@ -1,0 +1,135 @@
+73:Charizard|100
+ ---------- 
+Moves used:
+1:Protect,99.0%,99.0
+2:Overheat,93.0%,93.0
+3:Hidden Power,92.0%,92.0
+4:Tailwind,56.0%,56.0
+5:Blast Burn,39.0%,39.0
+6:Flare Blitz,4.0%,4.0
+7:Dragon Claw,4.0%,4.0
+8:Heat Wave,4.0%,4.0
+9:Flamethrower,3.0%,3.0
+10:Dragon Dance,2.0%,2.0
+11:Thunder Punch,2.0%,2.0
+12:Air Slash,1.0%,1.0
+13:Solar Beam,1.0%,1.0
+
+ ---------- 
+Items used:
+1:Charizardite Y,92.0%,92.0
+2:Charizardite X,4.0%,4.0
+3:Life Orb,3.0%,3.0
+4:Choice Specs,1.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Blaze,96.0%,96.0
+2:Solar Power,4.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,96.0%,96.0
+2:Jolly,3.0%,3.0
+3:Adamant,1.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Mienshao
+4:Espeon
+5:Crobat
+6:Alomomola
+7:Xerneas
+8:Ferrothorn
+9:Salamence
+10:Mewtwo
+11:Talonflame
+12:Gothitelle
+13:Cresselia
+14:Dialga
+15:Lickilicky
+16:Infernape
+17:Metagross
+18:Kangaskhan
+19:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Overheat,44.1558441558%,44.1558441558
+2:Hidden Power,32.4675324675%,32.4675324675
+3:Blast Burn,15.5844155844%,15.5844155844
+4:Flare Blitz,2.5974025974%,2.5974025974
+5:Dragon Claw,2.5974025974%,2.5974025974
+6:Heat Wave,1.2987012987%,1.2987012987
+7:Thunder Punch,1.2987012987%,1.2987012987
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,15.7894736842%,15.7894736842
+2:Water Spout,11.8421052632%,11.8421052632
+3:Rock Slide,11.8421052632%,11.8421052632
+4:Origin Pulse,9.21052631579%,9.21052631579
+5:Brave Bird,6.57894736842%,6.57894736842
+6:Hyper Voice,3.94736842105%,3.94736842105
+7:Thunderbolt,3.94736842105%,3.94736842105
+8:Ice Beam,3.94736842105%,3.94736842105
+9:Sucker Punch,2.63157894737%,2.63157894737
+10:Rock Tomb,2.63157894737%,2.63157894737
+11:Precipice Blades,1.31578947368%,1.31578947368
+12:Dazzling Gleam,1.31578947368%,1.31578947368
+13:Moonblast,1.31578947368%,1.31578947368
+14:Wild Charge,1.31578947368%,1.31578947368
+15:Scald,1.31578947368%,1.31578947368
+16:Foul Play,1.31578947368%,1.31578947368
+17:Shadow Sneak,1.31578947368%,1.31578947368
+18:Ice Shard,1.31578947368%,1.31578947368
+19:Feint,1.31578947368%,1.31578947368
+20:Volt Tackle,1.31578947368%,1.31578947368
+0:Other,10.5263157895%,10.5263157895
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Kangaskhan
+4:Landorus
+5:Groudon
+6:Thundurus
+7:Ferrothorn
+8:Crobat
+9:Yveltal
+10:Talonflame
+11:Cresselia
+12:Togekiss
+13:Rayquaza
+14:Mawile
+15:Smeargle
+16:Kyurem
+17:Musharna
+18:Liepard
+19:Dialga
+20:Dusknoir
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Salamence
+4:Kangaskhan
+5:Talonflame
+6:Landorus
+7:Thundurus
+8:Xerneas
+9:Greninja
+10:Cresselia
+11:Raichu
+12:Aegislash
+13:Liepard
+14:Rayquaza
+15:Kyogre
+16:Zapdos
+17:Ditto
+18:Lapras
+19:Gengar

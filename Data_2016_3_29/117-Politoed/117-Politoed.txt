@@ -1,0 +1,65 @@
+117:Politoed|32
+ ---------- 
+Moves used:
+1:Scald,100.0%,32.0
+2:Perish Song,96.875%,31.0
+3:Protect,96.875%,31.0
+4:Double Team,96.875%,31.0
+5:Rain Dance,3.125%,1.0
+6:Ice Beam,3.125%,1.0
+7:Surf,3.125%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,96.875%,31.0
+2:Choice Scarf,3.125%,1.0
+
+ ---------- 
+Abilities used:
+1:Drizzle,100.0%,32.0
+
+ ---------- 
+Natures used:
+1:Calm,96.875%,31.0
+2:Timid,3.125%,1.0
+
+ ---------- 
+Top teammates:
+1:Milotic
+2:Gengar
+3:Raichu
+4:Shedinja
+5:Ludicolo
+6:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,23.0769230769%,7.38461538462
+2:Dazzling Gleam,7.69230769231%,2.46153846154
+3:Snarl,7.69230769231%,2.46153846154
+4:Iron Head,7.69230769231%,2.46153846154
+5:Power Whip,7.69230769231%,2.46153846154
+6:Brave Bird,7.69230769231%,2.46153846154
+7:Return,7.69230769231%,2.46153846154
+8:Psywave,7.69230769231%,2.46153846154
+9:Earthquake,7.69230769231%,2.46153846154
+10:Thunder,7.69230769231%,2.46153846154
+11:Double-Edge,7.69230769231%,2.46153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Yveltal
+4:Xerneas
+5:Ferrothorn
+6:Bronzong
+7:Kyogre
+8:Mawile
+9:Ho-Oh

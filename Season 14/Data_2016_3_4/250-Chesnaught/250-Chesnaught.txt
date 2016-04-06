@@ -1,0 +1,75 @@
+250:Chesnaught|11
+ ---------- 
+Moves used:
+1:Spiky Shield,72.7272727273%,8.0
+2:Seed Bomb,63.6363636364%,7.0
+3:Superpower,54.5454545455%,6.0
+4:Rock Slide,54.5454545455%,6.0
+5:Wood Hammer,36.3636363636%,4.0
+6:Feint,36.3636363636%,4.0
+7:Hammer Arm,27.2727272727%,3.0
+8:Super Fang,27.2727272727%,3.0
+9:Quick Guard,9.09090909091%,1.0
+10:Drain Punch,9.09090909091%,1.0
+11:Belly Drum,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,54.5454545455%,6.0
+2:Sitrus Berry,36.3636363636%,4.0
+3:Lum Berry,9.09090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Bulletproof,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Impish,54.5454545455%,6.0
+2:Brave,27.2727272727%,3.0
+3:Adamant,18.1818181818%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Talonflame
+3:Kyogre
+4:Landorus
+5:Dialga
+6:Groudon
+7:Aegislash
+8:Kangaskhan
+9:Xerneas
+10:Liepard
+11:Gastrodon
+12:Mawile
+13:Blastoise
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Superpower,42.8571428571%,4.71428571429
+2:Wood Hammer,14.2857142857%,1.57142857143
+3:Drain Punch,14.2857142857%,1.57142857143
+4:Seed Bomb,14.2857142857%,1.57142857143
+5:Rock Slide,14.2857142857%,1.57142857143
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,28.5714285714%,3.14285714286
+2:Dragon Ascent,14.2857142857%,1.57142857143
+3:Moonblast,14.2857142857%,1.57142857143
+4:Eruption,14.2857142857%,1.57142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Ferrothorn
+4:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Rayquaza
+4:Groudon

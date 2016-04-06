@@ -1,0 +1,133 @@
+142:Nidoqueen|129
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,129.0
+2:Sludge Bomb,82.1705426357%,106.0
+3:Ice Beam,75.9689922481%,98.0
+4:Protect,68.2170542636%,88.0
+5:Fire Blast,26.3565891473%,34.0
+6:Thunder,16.2790697674%,21.0
+7:Poison Jab,9.3023255814%,12.0
+8:Flamethrower,9.3023255814%,12.0
+9:Sludge Wave,8.52713178295%,11.0
+10:Thunderbolt,3.87596899225%,5.0
+
+ ---------- 
+Items used:
+1:Life Orb,96.1240310078%,124.0
+2:Assault Vest,3.87596899225%,5.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,129.0
+
+ ---------- 
+Natures used:
+1:Modest,72.0930232558%,93.0
+2:Quiet,10.0775193798%,13.0
+3:Brave,9.3023255814%,12.0
+4:Calm,5.42635658915%,7.0
+5:Timid,3.1007751938%,4.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Mawile
+3:Ferrothorn
+4:Groudon
+5:Xerneas
+6:Liepard
+7:Dusclops
+8:Kyogre
+9:Hariyama
+10:Talonflame
+11:Dialga
+12:Rayquaza
+13:Cresselia
+14:Zekrom
+15:Yveltal
+16:Bronzong
+17:Salamence
+18:Landorus
+19:Togekiss
+20:Slowking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,37.1794871795%,47.9615384615
+2:Sludge Bomb,25.641025641%,33.0769230769
+3:Ice Beam,16.6666666667%,21.5
+4:Sludge Wave,7.69230769231%,9.92307692308
+5:Fire Blast,7.69230769231%,9.92307692308
+6:Poison Jab,3.84615384615%,4.96153846154
+7:Thunder,1.28205128205%,1.65384615385
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.9425287356%,19.275862069
+2:Earth Power,11.4942528736%,14.8275862069
+3:Ice Beam,9.19540229885%,11.8620689655
+4:Origin Pulse,6.89655172414%,8.89655172414
+5:Moonblast,5.74712643678%,7.41379310345
+6:Water Spout,5.74712643678%,7.41379310345
+7:Dazzling Gleam,4.59770114943%,5.93103448276
+8:Sucker Punch,4.59770114943%,5.93103448276
+9:Earthquake,4.59770114943%,5.93103448276
+10:Eruption,3.44827586207%,4.44827586207
+11:Foul Play,2.29885057471%,2.96551724138
+12:Brave Bird,2.29885057471%,2.96551724138
+13:Hydro Pump,2.29885057471%,2.96551724138
+14:Fire Punch,2.29885057471%,2.96551724138
+15:Dragon Ascent,1.14942528736%,1.48275862069
+16:Scald,1.14942528736%,1.48275862069
+17:Dragon Pulse,1.14942528736%,1.48275862069
+18:Feint,1.14942528736%,1.48275862069
+19:Hyper Voice,1.14942528736%,1.48275862069
+20:Fake Out,1.14942528736%,1.48275862069
+0:Other,10.3448275862%,13.3448275862
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Xerneas
+4:Ferrothorn
+5:Thundurus
+6:Amoonguss
+7:Dialga
+8:Crobat
+9:Gengar
+10:Aromatisse
+11:Whimsicott
+12:Liepard
+13:Rayquaza
+14:Salamence
+15:Mawile
+16:Smeargle
+17:Kangaskhan
+18:Yveltal
+19:Meowstic
+20:Landorus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Cresselia
+5:Landorus
+6:Kangaskhan
+7:Talonflame
+8:Rayquaza
+9:Yveltal
+10:Aegislash
+11:Zekrom
+12:Amoonguss
+13:Liepard
+14:Palkia
+15:Dialga
+16:Salamence
+17:Mawile
+18:Sableye
+19:Ludicolo
+20:Ho-Oh

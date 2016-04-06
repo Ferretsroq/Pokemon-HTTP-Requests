@@ -1,0 +1,115 @@
+195:Delphox|37
+ ---------- 
+Moves used:
+1:Heat Wave,59.4594594595%,22.0
+2:Psychic,54.0540540541%,20.0
+3:Skill Swap,51.3513513514%,19.0
+4:Psyshock,45.9459459459%,17.0
+5:Will-O-Wisp,43.2432432432%,16.0
+6:Fire Blast,37.8378378378%,14.0
+7:Hypnosis,27.027027027%,10.0
+8:Protect,21.6216216216%,8.0
+9:Calm Mind,13.5135135135%,5.0
+10:Overheat,13.5135135135%,5.0
+11:Trick,13.5135135135%,5.0
+12:Hidden Power,10.8108108108%,4.0
+13:Dazzling Gleam,2.7027027027%,1.0
+14:Mystical Fire,2.7027027027%,1.0
+15:Flamethrower,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Colbur Berry,43.2432432432%,16.0
+2:Wide Lens,18.9189189189%,7.0
+3:Choice Scarf,13.5135135135%,5.0
+4:Life Orb,13.5135135135%,5.0
+5:Focus Sash,8.10810810811%,3.0
+6:Master Ball,2.7027027027%,1.0
+
+ ---------- 
+Abilities used:
+1:Magician,54.0540540541%,20.0
+2:Blaze,45.9459459459%,17.0
+
+ ---------- 
+Natures used:
+1:Timid,83.7837837838%,31.0
+2:Modest,13.5135135135%,5.0
+3:Quiet,2.7027027027%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Froslass
+3:Mawile
+4:Kyogre
+5:Groudon
+6:Kangaskhan
+7:Kyurem
+8:Rayquaza
+9:Salamence
+10:Mewtwo
+11:Gengar
+12:Talonflame
+13:Tyrantrum
+14:Landorus
+15:Braviary
+16:Mienshao
+17:Zoroark
+18:Cresselia
+19:Dialga
+20:Rotom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,40.0%,14.8
+2:Psyshock,30.0%,11.1
+3:Psychic,20.0%,7.4
+4:Fire Blast,10.0%,3.7
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,21.875%,8.09375
+2:Water Spout,12.5%,4.625
+3:Origin Pulse,9.375%,3.46875
+4:Knock Off,9.375%,3.46875
+5:Earth Power,6.25%,2.3125
+6:Fake Out,6.25%,2.3125
+7:Earthquake,6.25%,2.3125
+8:Dazzling Gleam,3.125%,1.15625
+9:Moonblast,3.125%,1.15625
+10:Foul Play,3.125%,1.15625
+11:Sucker Punch,3.125%,1.15625
+12:Hyper Voice,3.125%,1.15625
+13:Focus Punch,3.125%,1.15625
+14:Extreme Speed,3.125%,1.15625
+15:Thunder,3.125%,1.15625
+16:Double-Edge,3.125%,1.15625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Smeargle
+3:Crobat
+4:Amoonguss
+5:Togekiss
+6:Ho-Oh
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Rayquaza
+5:Xerneas
+6:Yveltal
+7:Landorus
+8:Ferrothorn
+9:Conkeldurr
+10:Liepard
+11:Palkia
+12:Weavile
+13:Groudon
+14:Salamence
+15:Ditto

@@ -1,0 +1,43 @@
+302:Sunkern|1
+ ---------- 
+Moves used:
+1:Worry Seed,100.0%,1.0
+2:Endeavor,100.0%,1.0
+3:Encore,100.0%,1.0
+4:Endure,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Yveltal
+3:Landorus
+4:Ferrothorn
+5:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Crunch,33.3333333333%,0.333333333333
+2:Rock Slide,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Gyarados

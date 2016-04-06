@@ -1,0 +1,70 @@
+255:Chesnaught|7
+ ---------- 
+Moves used:
+1:Spiky Shield,71.4285714286%,5.0
+2:Seed Bomb,57.1428571429%,4.0
+3:Wood Hammer,42.8571428571%,3.0
+4:Feint,42.8571428571%,3.0
+5:Superpower,42.8571428571%,3.0
+6:Rock Slide,42.8571428571%,3.0
+7:Hammer Arm,28.5714285714%,2.0
+8:Super Fang,28.5714285714%,2.0
+9:Quick Guard,14.2857142857%,1.0
+10:Drain Punch,14.2857142857%,1.0
+11:Belly Drum,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,42.8571428571%,3.0
+2:Sitrus Berry,42.8571428571%,3.0
+3:Lum Berry,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Bulletproof,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Impish,42.8571428571%,3.0
+2:Adamant,28.5714285714%,2.0
+3:Brave,28.5714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Dialga
+6:Groudon
+7:Xerneas
+8:Aegislash
+9:Liepard
+10:Gastrodon
+11:Mawile
+12:Kangaskhan
+13:Blastoise
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Superpower,50.0%,3.5
+2:Wood Hammer,25.0%,1.75
+3:Drain Punch,25.0%,1.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,20.0%,1.4
+2:Moonblast,20.0%,1.4
+3:Eruption,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Ferrothorn
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon

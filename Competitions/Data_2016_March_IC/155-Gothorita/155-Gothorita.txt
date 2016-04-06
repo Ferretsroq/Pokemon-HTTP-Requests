@@ -1,0 +1,45 @@
+155:Gothorita|1
+ ---------- 
+Moves used:
+1:Heal Pulse,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Gravity,100.0%,1.0
+4:Magic Coat,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Lilligant
+3:Groudon
+4:Sableye
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,0.5
+2:Water Spout,25.0%,0.25
+3:Hyper Voice,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Salamence

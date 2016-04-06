@@ -1,0 +1,58 @@
+271:Gliscor|5
+ ---------- 
+Moves used:
+1:Earthquake,80.0%,4.0
+2:Guillotine,80.0%,4.0
+3:Protect,60.0%,3.0
+4:Substitute,60.0%,3.0
+5:Roost,40.0%,2.0
+6:Knock Off,40.0%,2.0
+7:Rock Tomb,20.0%,1.0
+8:Toxic,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Poison Heal,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Impish,80.0%,4.0
+2:Jolly,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Smeargle
+4:Talonflame
+5:Thundurus
+6:Serperior
+7:Glalie
+8:Wobbuffet
+9:Crobat
+10:Chansey
+11:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,40.0%,2.0
+2:Dazzling Gleam,20.0%,1.0
+3:Eruption,20.0%,1.0
+4:Hidden Power,20.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Thundurus
+4:Groudon

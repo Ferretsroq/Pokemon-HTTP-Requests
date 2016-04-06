@@ -1,0 +1,51 @@
+183:Absol|3
+ ---------- 
+Moves used:
+1:Sucker Punch,100.0%,3.0
+2:Taunt,66.6666666667%,2.0
+3:Pursuit,66.6666666667%,2.0
+4:Protect,66.6666666667%,2.0
+5:Knock Off,33.3333333333%,1.0
+6:Superpower,33.3333333333%,1.0
+7:Ice Beam,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Absolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.6666666667%,2.0
+2:Naive,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Landorus
+3:Kyogre
+4:Liepard
+5:Articuno
+6:Aegislash
+7:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Play Rough,60.0%,1.8
+2:Eruption,20.0%,0.6
+3:Earthquake,20.0%,0.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile
+2:Landorus
+3:Groudon

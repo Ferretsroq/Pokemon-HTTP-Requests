@@ -1,0 +1,48 @@
+182:Snorlax|3
+ ---------- 
+Moves used:
+1:Self-Destruct,100.0%,3.0
+2:Return,66.6666666667%,2.0
+3:Protect,66.6666666667%,2.0
+4:Fire Punch,66.6666666667%,2.0
+5:Heavy Slam,33.3333333333%,1.0
+6:Frustration,33.3333333333%,1.0
+7:Earthquake,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,66.6666666667%,2.0
+2:Choice Band,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.6666666667%,2.0
+2:Brave,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Yveltal
+4:Groudon
+5:Salamence
+6:Smeargle
+7:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

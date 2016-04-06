@@ -1,0 +1,165 @@
+17:Dialga|1929
+ ---------- 
+Moves used:
+1:Dragon Pulse,88.3359253499%,1704.0
+2:Trick Room,67.7034733022%,1306.0
+3:Flash Cannon,65.4743390358%,1263.0
+4:Protect,37.0658372214%,715.0
+5:Flamethrower,31.1560393987%,601.0
+6:Earth Power,29.6008294453%,571.0
+7:Thunder,23.4836702955%,453.0
+8:Draco Meteor,15.5520995334%,300.0
+9:Aura Sphere,8.96837739762%,173.0
+10:Rest,7.93157076205%,153.0
+11:Iron Head,5.65059616382%,109.0
+12:Gravity,4.76931052359%,92.0
+13:Fire Blast,3.7843442198%,73.0
+14:Roar of Time,3.42146189736%,66.0
+15:Overheat,1.91809227579%,37.0
+16:Thunderbolt,1.60705028512%,31.0
+17:Safeguard,0.777604976672%,15.0
+18:Substitute,0.622083981337%,12.0
+19:Stealth Rock,0.570243649559%,11.0
+20:Roar,0.570243649559%,11.0
+0:Other,1.03680663556%,20.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,26.1275272162%,504.0
+2:Lum Berry,16.588906169%,320.0
+3:Assault Vest,13.9450492483%,269.0
+4:Shuca Berry,10.9383100052%,211.0
+5:Adamant Orb,8.70917573872%,168.0
+6:Choice Specs,7.77604976672%,150.0
+7:Life Orb,4.66562986003%,90.0
+8:Chesto Berry,4.04354587869%,78.0
+9:Mental Herb,3.68066355625%,71.0
+10:Choice Scarf,1.14048729912%,22.0
+11:Rocky Helmet,0.570243649559%,11.0
+12:White Herb,0.570243649559%,11.0
+13:Weakness Policy,0.414722654225%,8.0
+14:Leftovers,0.414722654225%,8.0
+
+ ---------- 
+Abilities used:
+1:Telepathy,51.632970451%,996.0
+2:Pressure,48.367029549%,933.0
+
+ ---------- 
+Natures used:
+1:Modest,71.7988595127%,1385.0
+2:Quiet,21.1508553655%,408.0
+3:Timid,2.90305857957%,56.0
+4:Sassy,1.60705028512%,31.0
+5:Relaxed,1.14048729912%,22.0
+6:Bold,1.14048729912%,22.0
+7:Calm,0.259201658891%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Groudon
+4:Kangaskhan
+5:Landorus
+6:Ferrothorn
+7:Thundurus
+8:Smeargle
+9:Talonflame
+10:Cresselia
+11:Mawile
+12:Gengar
+13:Whimsicott
+14:Crobat
+15:Amoonguss
+16:Bronzong
+17:Weavile
+18:Liepard
+19:Meowstic
+20:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Pulse,57.6086956522%,1111.27173913
+2:Flash Cannon,13.5451505017%,261.285953177
+3:Earth Power,7.44147157191%,143.545986622
+4:Thunder,6.77257525084%,130.642976589
+5:Flamethrower,5.85284280936%,112.901337793
+6:Draco Meteor,4.76588628763%,91.9339464883
+7:Aura Sphere,1.92307692308%,37.0961538462
+8:Roar of Time,0.752508361204%,14.5158862876
+9:Iron Head,0.418060200669%,8.0643812709
+10:Fire Blast,0.418060200669%,8.0643812709
+11:Thunderbolt,0.250836120401%,4.83862876254
+12:Bulldoze,0.167224080268%,3.22575250836
+13:Ice Beam,0.0836120401338%,1.61287625418
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,18.0281690141%,347.763380282
+2:Low Kick,9.10798122066%,175.692957746
+3:Dazzling Gleam,7.88732394366%,152.146478873
+4:Earth Power,6.66666666667%,128.6
+5:Origin Pulse,5.35211267606%,103.242253521
+6:Moonblast,5.07042253521%,97.8084507042
+7:Water Spout,4.50704225352%,86.9408450704
+8:Ice Beam,4.50704225352%,86.9408450704
+9:Earthquake,4.41314553991%,85.1295774648
+10:Eruption,3.19248826291%,61.5830985915
+11:Sucker Punch,2.44131455399%,47.0929577465
+12:Draco Meteor,1.8779342723%,36.2253521127
+13:Play Rough,1.59624413146%,30.7915492958
+14:Dragon Pulse,1.40845070423%,27.1690140845
+15:Superpower,1.31455399061%,25.3577464789
+16:Dragon Ascent,1.12676056338%,21.7352112676
+17:Brave Bird,1.12676056338%,21.7352112676
+18:Knock Off,1.12676056338%,21.7352112676
+19:Shadow Ball,1.12676056338%,21.7352112676
+20:Extreme Speed,1.12676056338%,21.7352112676
+0:Other,14.7417840376%,284.369014085
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Salamence
+4:Kangaskhan
+5:Xerneas
+6:Rayquaza
+7:Ferrothorn
+8:Thundurus
+9:Talonflame
+10:Smeargle
+11:Crobat
+12:Weavile
+13:Dialga
+14:Yveltal
+15:Landorus
+16:Rayquaza
+17:Mawile
+18:Amoonguss
+19:Cresselia
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Landorus
+7:Dialga
+8:Yveltal
+9:Mawile
+10:Salamence
+11:Talonflame
+12:Thundurus
+13:Rayquaza
+14:Weavile
+15:Ferrothorn
+16:Kyurem
+17:Cresselia
+18:Palkia
+19:Kyogre
+20:Ho-Oh

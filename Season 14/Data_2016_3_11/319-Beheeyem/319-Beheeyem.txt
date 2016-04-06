@@ -1,0 +1,45 @@
+319:Beheeyem|1
+ ---------- 
+Moves used:
+1:Snatch,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Psychic,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Analytic,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Abomasnow
+4:Quagsire
+5:Furret
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,0.333333333333
+2:Hyper Voice,33.3333333333%,0.333333333333
+3:Eruption,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence

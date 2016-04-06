@@ -1,0 +1,74 @@
+269:Quagsire|11
+ ---------- 
+Moves used:
+1:Scald,63.6363636364%,7.0
+2:Earth Power,63.6363636364%,7.0
+3:Recover,63.6363636364%,7.0
+4:Toxic,63.6363636364%,7.0
+5:Icy Wind,36.3636363636%,4.0
+6:Rock Slide,36.3636363636%,4.0
+7:Waterfall,36.3636363636%,4.0
+8:Earthquake,36.3636363636%,4.0
+
+ ---------- 
+Items used:
+1:Leftovers,63.6363636364%,7.0
+2:Assault Vest,36.3636363636%,4.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,63.6363636364%,7.0
+2:Unaware,36.3636363636%,4.0
+
+ ---------- 
+Natures used:
+1:Bold,63.6363636364%,7.0
+2:Adamant,36.3636363636%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Mewtwo
+3:Smeargle
+4:Kyogre
+5:Ho-Oh
+6:Abomasnow
+7:Beheeyem
+8:Salamence
+9:Furret
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,25.0%,2.75
+2:Rock Slide,25.0%,2.75
+3:Earthquake,25.0%,2.75
+4:Scald,12.5%,1.375
+5:Earth Power,12.5%,1.375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,16.6666666667%,1.83333333333
+2:Gyro Ball,16.6666666667%,1.83333333333
+3:Water Spout,16.6666666667%,1.83333333333
+4:Eruption,16.6666666667%,1.83333333333
+5:Shadow Ball,16.6666666667%,1.83333333333
+6:Double-Edge,16.6666666667%,1.83333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Aegislash
+2:Talonflame
+3:Thundurus
+4:Whimsicott
+5:Salamence
+6:Smeargle
+7:Kangaskhan
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Aegislash
+3:Groudon
+4:Kyogre
+5:Kangaskhan

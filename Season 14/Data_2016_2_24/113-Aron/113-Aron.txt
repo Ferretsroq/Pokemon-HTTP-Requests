@@ -1,0 +1,120 @@
+113:Aron|153
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,153.0
+2:Protect,100.0%,153.0
+3:Sandstorm,61.4379084967%,94.0
+4:Swagger,38.5620915033%,59.0
+5:Toxic,36.6013071895%,56.0
+6:Rock Tomb,20.2614379085%,31.0
+7:Aerial Ace,12.4183006536%,19.0
+8:Stealth Rock,7.8431372549%,12.0
+9:Tackle,7.18954248366%,11.0
+10:Sleep Talk,6.53594771242%,10.0
+11:Rock Slide,4.57516339869%,7.0
+12:Roar,1.96078431373%,3.0
+
+ ---------- 
+Items used:
+1:Berry Juice,62.7450980392%,96.0
+2:Shell Bell,37.2549019608%,57.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,153.0
+
+ ---------- 
+Natures used:
+1:Timid,33.9869281046%,52.0
+2:Careful,12.4183006536%,19.0
+3:Lonely,12.4183006536%,19.0
+4:Adamant,11.7647058824%,18.0
+5:Naughty,7.8431372549%,12.0
+6:Modest,6.53594771242%,10.0
+7:Quirky,5.88235294118%,9.0
+8:Docile,4.57516339869%,7.0
+9:Jolly,1.96078431373%,3.0
+10:Relaxed,1.96078431373%,3.0
+11:Brave,0.653594771242%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Groudon
+4:Infernape
+5:Talonflame
+6:Kangaskhan
+7:Liepard
+8:Smeargle
+9:Mawile
+10:Kyogre
+11:Porygon2
+12:Meowstic
+13:Giratina
+14:Palkia
+15:Lugia
+16:Yveltal
+17:Cresselia
+18:Zapdos
+19:Gothitelle
+20:Hitmontop
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aerial Ace,33.3333333333%,51.0
+2:Rock Tomb,33.3333333333%,51.0
+3:Tackle,33.3333333333%,51.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.7142857143%,16.3928571429
+2:Water Spout,7.14285714286%,10.9285714286
+3:Ice Beam,7.14285714286%,10.9285714286
+4:Precipice Blades,5.35714285714%,8.19642857143
+5:Hyper Voice,5.35714285714%,8.19642857143
+6:Eruption,4.46428571429%,6.83035714286
+7:Fake Out,4.46428571429%,6.83035714286
+8:Origin Pulse,3.57142857143%,5.46428571429
+9:Extreme Speed,3.57142857143%,5.46428571429
+10:Rock Slide,3.57142857143%,5.46428571429
+11:Low Kick,3.57142857143%,5.46428571429
+12:Moonblast,2.67857142857%,4.09821428571
+13:Earth Power,2.67857142857%,4.09821428571
+14:Gyro Ball,2.67857142857%,4.09821428571
+15:Double-Edge,2.67857142857%,4.09821428571
+16:Power-Up Punch,1.78571428571%,2.73214285714
+17:Volt Switch,1.78571428571%,2.73214285714
+18:Foul Play,1.78571428571%,2.73214285714
+19:Flare Blitz,1.78571428571%,2.73214285714
+20:Super Fang,1.78571428571%,2.73214285714
+0:Other,15.1785714286%,23.2232142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Xerneas
+5:Salamence
+6:Ferrothorn
+7:Rayquaza
+8:Talonflame
+9:Cresselia
+10:Landorus
+11:Whimsicott
+12:Liepard
+13:Manectric
+14:Mawile
+15:Crobat
+16:Sylveon
+17:Kyurem
+18:Thundurus
+19:Seismitoad
+20:Giratina

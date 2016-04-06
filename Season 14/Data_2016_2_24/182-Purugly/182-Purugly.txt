@@ -1,0 +1,82 @@
+182:Purugly|20
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,20.0
+2:U-turn,95.0%,19.0
+3:Super Fang,95.0%,19.0
+4:Hypnosis,95.0%,19.0
+5:Taunt,5.0%,1.0
+6:Return,5.0%,1.0
+7:Roar,5.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,95.0%,19.0
+2:Lum Berry,5.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,20.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,20.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mewtwo
+3:Crobat
+4:Houndoom
+5:Golduck
+6:Xerneas
+7:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:U-turn,87.5%,17.5
+2:Fake Out,12.5%,2.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,19.0476190476%,3.80952380952
+2:Dazzling Gleam,14.2857142857%,2.85714285714
+3:Double-Edge,9.52380952381%,1.90476190476
+4:Oblivion Wing,4.7619047619%,0.952380952381
+5:Psystrike,4.7619047619%,0.952380952381
+6:Foul Play,4.7619047619%,0.952380952381
+7:Earth Power,4.7619047619%,0.952380952381
+8:Dark Pulse,4.7619047619%,0.952380952381
+9:Water Spout,4.7619047619%,0.952380952381
+10:Eruption,4.7619047619%,0.952380952381
+11:Extreme Speed,4.7619047619%,0.952380952381
+12:Icy Wind,4.7619047619%,0.952380952381
+13:Rock Slide,4.7619047619%,0.952380952381
+14:Thunderbolt,4.7619047619%,0.952380952381
+15:Low Kick,4.7619047619%,0.952380952381
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Talonflame
+3:Landorus
+4:Cresselia
+5:Infernape
+6:Rayquaza
+7:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Thundurus
+4:Ditto
+5:Kangaskhan
+6:Yveltal
+7:Terrakion
+8:Cresselia
+9:Palkia
+10:Rayquaza
+11:Kyogre
+12:Sneasel
+13:Mewtwo

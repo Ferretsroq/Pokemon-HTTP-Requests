@@ -1,0 +1,53 @@
+289:Kyurem|3
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,3.0
+2:Glaciate,66.6666666667%,2.0
+3:Flash Cannon,66.6666666667%,2.0
+4:Dragon Pulse,66.6666666667%,2.0
+5:Draco Meteor,33.3333333333%,1.0
+6:Protect,33.3333333333%,1.0
+7:Blizzard,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,33.3333333333%,1.0
+2:Life Orb,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,66.6666666667%,2.0
+2:Quiet,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Reshiram
+2:Amoonguss
+3:Musharna
+4:Groudon
+5:Kyogre
+6:Ludicolo
+7:Kingdra
+8:Raichu
+9:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power-Up Punch,33.3333333333%,1.0
+2:Eruption,33.3333333333%,1.0
+3:Return,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon

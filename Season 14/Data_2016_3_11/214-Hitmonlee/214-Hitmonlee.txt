@@ -1,0 +1,102 @@
+214:Hitmonlee|31
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,31.0
+2:Wide Guard,74.1935483871%,23.0
+3:Rock Slide,64.5161290323%,20.0
+4:Low Kick,64.5161290323%,20.0
+5:Close Combat,22.5806451613%,7.0
+6:Knock Off,22.5806451613%,7.0
+7:Blaze Kick,12.9032258065%,4.0
+8:Superpower,12.9032258065%,4.0
+9:Earthquake,12.9032258065%,4.0
+10:Bullet Punch,9.67741935484%,3.0
+11:Feint,3.22580645161%,1.0
+
+ ---------- 
+Items used:
+1:Normal Gem,90.3225806452%,28.0
+2:Focus Sash,9.67741935484%,3.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,31.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,31.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Metagross
+3:Kyogre
+4:Palkia
+5:Golduck
+6:Mismagius
+7:Ho-Oh
+8:Rayquaza
+9:Xerneas
+10:Cresselia
+11:Crobat
+12:Kangaskhan
+13:Landorus
+14:Ferrothorn
+15:Cofagrigus
+16:Dialga
+17:Abomasnow
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,50.0%,15.5
+2:Bullet Punch,12.5%,3.875
+3:Close Combat,12.5%,3.875
+4:Superpower,12.5%,3.875
+5:Fake Out,12.5%,3.875
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.5185185185%,5.74074074074
+2:Double-Edge,14.8148148148%,4.59259259259
+3:Gyro Ball,7.40740740741%,2.2962962963
+4:Eruption,7.40740740741%,2.2962962963
+5:Psychic,7.40740740741%,2.2962962963
+6:Dragon Ascent,3.7037037037%,1.14814814815
+7:Origin Pulse,3.7037037037%,1.14814814815
+8:Play Rough,3.7037037037%,1.14814814815
+9:Iron Head,3.7037037037%,1.14814814815
+10:Earth Power,3.7037037037%,1.14814814815
+11:Brave Bird,3.7037037037%,1.14814814815
+12:Feint,3.7037037037%,1.14814814815
+13:Water Spout,3.7037037037%,1.14814814815
+14:Hyper Voice,3.7037037037%,1.14814814815
+15:Shadow Ball,3.7037037037%,1.14814814815
+16:Sludge Bomb,3.7037037037%,1.14814814815
+17:Ice Beam,3.7037037037%,1.14814814815
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+3:Xerneas
+4:Rayquaza
+5:Mawile
+6:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Cresselia
+3:Salamence
+4:Ferrothorn
+5:Groudon
+6:Mawile
+7:Gengar
+8:Dialga
+9:Weavile
+10:Rayquaza
+11:Kyogre
+12:Kyogre
+13:Ho-Oh
+14:Kangaskhan
+15:Kangaskhan

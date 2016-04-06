@@ -1,0 +1,63 @@
+274:Linoone|7
+ ---------- 
+Moves used:
+1:Shadow Claw,71.4285714286%,5.0
+2:Extreme Speed,71.4285714286%,5.0
+3:Belly Drum,71.4285714286%,5.0
+4:Protect,71.4285714286%,5.0
+5:Rock Smash,28.5714285714%,2.0
+6:Cut,28.5714285714%,2.0
+7:Strength,14.2857142857%,1.0
+8:Surf,14.2857142857%,1.0
+9:Tail Whip,14.2857142857%,1.0
+10:Headbutt,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,71.4285714286%,5.0
+
+ ---------- 
+Abilities used:
+1:Gluttony,71.4285714286%,5.0
+2:Pickup,28.5714285714%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,71.4285714286%,5.0
+2:Timid,14.2857142857%,1.0
+3:Relaxed,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Togekiss
+3:Hitmontop
+4:Kyogre
+5:Fletchinder
+6:Rayquaza
+7:Latios
+8:Combusken
+9:Pichu
+10:Crobat
+11:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,20.0%,1.4
+2:Origin Pulse,20.0%,1.4
+3:Dazzling Gleam,20.0%,1.4
+4:Rock Slide,20.0%,1.4
+5:Fire Punch,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Rayquaza
+4:Kyogre

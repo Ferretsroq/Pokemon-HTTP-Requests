@@ -1,0 +1,50 @@
+140:Skuntank|1
+ ---------- 
+Moves used:
+1:Snarl,100.0%,1.0
+2:Acid Spray,100.0%,1.0
+3:Feint,100.0%,1.0
+4:Flamethrower,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Aftermath,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Mawile
+4:Liepard
+5:Slowking
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,33.3333333333%,0.333333333333
+2:Gyro Ball,22.2222222222%,0.222222222222
+3:Origin Pulse,11.1111111111%,0.111111111111
+4:Sucker Punch,11.1111111111%,0.111111111111
+5:Hyper Voice,11.1111111111%,0.111111111111
+6:Explosion,11.1111111111%,0.111111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Ferrothorn
+3:Landorus
+4:Salamence
+5:Mawile

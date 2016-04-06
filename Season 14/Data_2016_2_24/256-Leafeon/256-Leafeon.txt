@@ -1,0 +1,62 @@
+256:Leafeon|7
+ ---------- 
+Moves used:
+1:Leaf Blade,85.7142857143%,6.0
+2:Knock Off,85.7142857143%,6.0
+3:X-Scissor,71.4285714286%,5.0
+4:Aerial Ace,42.8571428571%,3.0
+5:Synthesis,42.8571428571%,3.0
+6:Iron Tail,28.5714285714%,2.0
+7:Seed Bomb,14.2857142857%,1.0
+8:Helping Hand,14.2857142857%,1.0
+9:Protect,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,71.4285714286%,5.0
+2:Weakness Policy,14.2857142857%,1.0
+3:Rose Incense,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Jolly,42.8571428571%,3.0
+2:Brave,42.8571428571%,3.0
+3:Impish,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Talonflame
+5:Gengar
+6:Greninja
+7:Kyogre
+8:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Blade,50.0%,3.5
+2:Knock Off,50.0%,3.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,40.0%,2.8
+2:Water Spout,20.0%,1.4
+3:Sludge Bomb,20.0%,1.4
+4:Fire Punch,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Gengar

@@ -1,0 +1,53 @@
+163:Tangrowth|1
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,1.0
+2:Power Whip,100.0%,1.0
+3:Knock Off,100.0%,1.0
+4:Sleep Powder,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Reshiram
+2:Escavalier
+3:Palkia
+4:Sableye
+5:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Power Whip,66.6666666667%,0.666666666667
+2:Knock Off,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dark Pulse,20.0%,0.2
+2:Water Spout,20.0%,0.2
+3:Hyper Voice,20.0%,0.2
+4:Ice Beam,20.0%,0.2
+5:Fire Punch,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Dialga
+3:Lapras
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Yveltal
+3:Groudon
+4:Salamence

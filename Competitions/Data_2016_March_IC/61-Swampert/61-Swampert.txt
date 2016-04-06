@@ -1,0 +1,137 @@
+61:Swampert|9
+ ---------- 
+Moves used:
+1:Waterfall,66.6666666667%,6.0
+2:Wide Guard,55.5555555556%,5.0
+3:Ice Punch,55.5555555556%,5.0
+4:Protect,44.4444444444%,4.0
+5:Earthquake,44.4444444444%,4.0
+6:Earth Power,33.3333333333%,3.0
+7:Ice Beam,22.2222222222%,2.0
+8:Bulldoze,11.1111111111%,1.0
+9:Scald,11.1111111111%,1.0
+10:Avalanche,11.1111111111%,1.0
+11:Muddy Water,11.1111111111%,1.0
+12:Rock Tomb,11.1111111111%,1.0
+13:Icy Wind,11.1111111111%,1.0
+14:Rock Slide,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Swampertite,66.6666666667%,6.0
+2:Sitrus Berry,22.2222222222%,2.0
+3:Expert Belt,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Torrent,77.7777777778%,7.0
+2:Damp,22.2222222222%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,55.5555555556%,5.0
+2:Modest,33.3333333333%,3.0
+3:Jolly,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Xerneas
+4:Talonflame
+5:Rayquaza
+6:Landorus
+7:Groudon
+8:Smeargle
+9:Kangaskhan
+10:Yveltal
+11:Meowstic
+12:Thundurus
+13:Hydreigon
+14:Whimsicott
+15:Liepard
+16:Dialga
+17:Togekiss
+18:Weavile
+19:Infernape
+20:Torterra
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Muddy Water,21.1538461538%,1.90384615385
+2:Earthquake,21.1538461538%,1.90384615385
+3:Earth Power,17.3076923077%,1.55769230769
+4:Icy Wind,9.61538461538%,0.865384615385
+5:Ice Punch,9.61538461538%,0.865384615385
+6:Ice Beam,7.69230769231%,0.692307692308
+7:Scald,5.76923076923%,0.519230769231
+8:Waterfall,5.76923076923%,0.519230769231
+9:Rock Slide,1.92307692308%,0.173076923077
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.7272727273%,1.14545454545
+2:Dazzling Gleam,10.9090909091%,0.981818181818
+3:Power Whip,7.27272727273%,0.654545454545
+4:Moonblast,5.45454545455%,0.490909090909
+5:Scald,5.45454545455%,0.490909090909
+6:Grass Knot,5.45454545455%,0.490909090909
+7:Double-Edge,5.45454545455%,0.490909090909
+8:Draco Meteor,3.63636363636%,0.327272727273
+9:Earth Power,3.63636363636%,0.327272727273
+10:Icy Wind,3.63636363636%,0.327272727273
+11:Explosion,3.63636363636%,0.327272727273
+12:Ice Beam,3.63636363636%,0.327272727273
+13:Dragon Ascent,1.81818181818%,0.163636363636
+14:Origin Pulse,1.81818181818%,0.163636363636
+15:Power-Up Punch,1.81818181818%,0.163636363636
+16:Play Rough,1.81818181818%,0.163636363636
+17:Foul Play,1.81818181818%,0.163636363636
+18:Ice Shard,1.81818181818%,0.163636363636
+19:Dark Pulse,1.81818181818%,0.163636363636
+20:Sucker Punch,1.81818181818%,0.163636363636
+0:Other,12.7272727273%,1.14545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Liepard
+5:Salamence
+6:Mawile
+7:Talonflame
+8:Cresselia
+9:Rayquaza
+10:Landorus
+11:Thundurus
+12:Tornadus
+13:Terrakion
+14:Mienshao
+15:Ferrothorn
+16:Dialga
+17:Weavile
+18:Kyogre
+19:Smeargle
+20:Jumpluff
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Ferrothorn
+5:Kangaskhan
+6:Yveltal
+7:Landorus
+8:Gengar
+9:Kyurem
+10:Thundurus
+11:Jellicent
+12:Amoonguss
+13:Cresselia
+14:Rayquaza
+15:Salamence
+16:Mawile
+17:Ludicolo
+18:Lapras

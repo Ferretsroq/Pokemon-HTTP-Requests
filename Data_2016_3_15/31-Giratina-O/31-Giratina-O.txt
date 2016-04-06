@@ -1,0 +1,74 @@
+31:Giratina-O|8
+ ---------- 
+Moves used:
+1:Shadow Force,100.0%,8.0
+2:Draco Meteor,100.0%,8.0
+3:Shadow Sneak,87.5%,7.0
+4:Will-O-Wisp,87.5%,7.0
+5:Iron Head,12.5%,1.0
+6:Protect,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Griseous Orb,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Brave,75.0%,6.0
+2:Adamant,25.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Kyogre
+3:Noivern
+4:Ferrothorn
+5:Talonflame
+6:Tyrantrum
+7:Cresselia
+8:Bisharp
+9:Groudon
+10:Misdreavus
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Force,44.4444444444%,3.55555555556
+2:Shadow Sneak,33.3333333333%,2.66666666667
+3:Draco Meteor,22.2222222222%,1.77777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,1.14285714286
+2:Play Rough,14.2857142857%,1.14285714286
+3:Brave Bird,14.2857142857%,1.14285714286
+4:Dark Pulse,14.2857142857%,1.14285714286
+5:Eruption,14.2857142857%,1.14285714286
+6:Shadow Ball,14.2857142857%,1.14285714286
+7:Ice Beam,14.2857142857%,1.14285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Dialga
+5:Rayquaza
+6:Xerneas
+7:Thundurus
+8:Whimsicott
+9:Cresselia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Groudon
+4:Kyogre
+5:Mawile
+6:Ho-Oh
+7:Gengar

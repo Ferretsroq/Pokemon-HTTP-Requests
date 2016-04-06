@@ -1,0 +1,51 @@
+282:Yanmega|5
+ ---------- 
+Moves used:
+1:Hidden Power,100.0%,5.0
+2:Air Slash,80.0%,4.0
+3:Swagger,80.0%,4.0
+4:Detect,80.0%,4.0
+5:Bug Buzz,40.0%,2.0
+6:Ancient Power,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,80.0%,4.0
+2:Focus Sash,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Yveltal
+4:Serperior
+5:Cresselia
+6:Palkia
+7:Rotom
+8:Lopunny
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hidden Power,100.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,75.0%,3.75
+2:Thunderbolt,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Thundurus

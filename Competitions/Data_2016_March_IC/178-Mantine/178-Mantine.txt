@@ -1,0 +1,39 @@
+178:Mantine|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Air Slash,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Wise Glasses,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Infernape
+3:Rayquaza
+4:Metagross
+5:Dragonite
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

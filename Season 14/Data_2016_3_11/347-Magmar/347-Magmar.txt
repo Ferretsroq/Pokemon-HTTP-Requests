@@ -1,0 +1,40 @@
+347:Magmar|1
+ ---------- 
+Moves used:
+1:Clear Smog,100.0%,1.0
+2:Flare Blitz,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Low Kick,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Amoonguss
+4:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

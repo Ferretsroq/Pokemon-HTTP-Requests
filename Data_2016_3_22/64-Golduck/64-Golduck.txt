@@ -1,0 +1,131 @@
+64:Golduck|70
+ ---------- 
+Moves used:
+1:Ice Beam,98.5714285714%,69.0
+2:Scald,95.7142857143%,67.0
+3:Hypnosis,40.0%,28.0
+4:Soak,35.7142857143%,25.0
+5:Encore,27.1428571429%,19.0
+6:Confuse Ray,22.8571428571%,16.0
+7:Protect,18.5714285714%,13.0
+8:Surf,15.7142857143%,11.0
+9:Hydro Pump,10.0%,7.0
+10:Worry Seed,8.57142857143%,6.0
+11:Role Play,8.57142857143%,6.0
+12:Disable,8.57142857143%,6.0
+13:Icy Wind,7.14285714286%,5.0
+14:Water Pulse,2.85714285714%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,47.1428571429%,33.0
+2:Sitrus Berry,24.2857142857%,17.0
+3:Focus Sash,14.2857142857%,10.0
+4:Rindo Berry,10.0%,7.0
+5:Life Orb,4.28571428571%,3.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,98.5714285714%,69.0
+2:Swift Swim,1.42857142857%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,57.1428571429%,40.0
+2:Sassy,22.8571428571%,16.0
+3:Quiet,10.0%,7.0
+4:Modest,10.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Talonflame
+4:Kangaskhan
+5:Zekrom
+6:Mewtwo
+7:Crobat
+8:Kyogre
+9:Purugly
+10:Infernape
+11:Rayquaza
+12:Dialga
+13:Ferrothorn
+14:Hypno
+15:Smeargle
+16:Thundurus
+17:Gothitelle
+18:Salamence
+19:Mawile
+20:Lugia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,54.5454545455%,38.1818181818
+2:Ice Beam,36.3636363636%,25.4545454545
+3:Surf,6.06060606061%,4.24242424242
+4:Water Pulse,3.0303030303%,2.12121212121
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.3913043478%,12.1739130435
+2:Double-Edge,13.0434782609%,9.13043478261
+3:Origin Pulse,6.52173913043%,4.5652173913
+4:Thunderbolt,6.52173913043%,4.5652173913
+5:Dragon Ascent,4.34782608696%,3.04347826087
+6:Dazzling Gleam,4.34782608696%,3.04347826087
+7:Power Whip,4.34782608696%,3.04347826087
+8:Water Spout,4.34782608696%,3.04347826087
+9:Moonblast,2.17391304348%,1.52173913043
+10:Bug Bite,2.17391304348%,1.52173913043
+11:Grass Knot,2.17391304348%,1.52173913043
+12:Iron Head,2.17391304348%,1.52173913043
+13:Earth Power,2.17391304348%,1.52173913043
+14:Brave Bird,2.17391304348%,1.52173913043
+15:Volt Tackle,2.17391304348%,1.52173913043
+16:Eruption,2.17391304348%,1.52173913043
+17:Knock Off,2.17391304348%,1.52173913043
+18:Fake Out,2.17391304348%,1.52173913043
+19:Extreme Speed,2.17391304348%,1.52173913043
+20:Frustration,2.17391304348%,1.52173913043
+0:Other,13.0434782609%,9.13043478261
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Salamence
+4:Landorus
+5:Rayquaza
+6:Thundurus
+7:Mienshao
+8:Whimsicott
+9:Liepard
+10:Cresselia
+11:Weavile
+12:Rayquaza
+13:Smeargle
+14:Crobat
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Thundurus
+7:Ferrothorn
+8:Weavile
+9:Talonflame
+10:Landorus
+11:Mienshao
+12:Whimsicott
+13:Gastrodon
+14:Rayquaza
+15:Metagross
+16:Salamence
+17:Smeargle
+18:Scizor
+19:Raichu

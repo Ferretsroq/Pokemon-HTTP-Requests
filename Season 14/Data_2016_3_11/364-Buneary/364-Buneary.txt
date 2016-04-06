@@ -1,0 +1,36 @@
+364:Buneary|1
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,1.0
+2:Encore,100.0%,1.0
+3:Ice Punch,100.0%,1.0
+4:Fire Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Limber,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Combee
+2:Beldum
+3:Lotad
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

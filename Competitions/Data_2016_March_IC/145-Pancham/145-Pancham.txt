@@ -1,0 +1,43 @@
+145:Pancham|1
+ ---------- 
+Moves used:
+1:Quash,100.0%,1.0
+2:Quick Guard,100.0%,1.0
+3:Endeavor,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Scrappy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Braixen
+3:Cresselia
+4:Groudon
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,50.0%,0.5
+2:Double-Edge,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan

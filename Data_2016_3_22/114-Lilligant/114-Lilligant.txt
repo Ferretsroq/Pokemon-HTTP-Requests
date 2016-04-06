@@ -1,0 +1,71 @@
+114:Lilligant|18
+ ---------- 
+Moves used:
+1:After You,94.4444444444%,17.0
+2:Protect,55.5555555556%,10.0
+3:Sleep Powder,55.5555555556%,10.0
+4:Grass Knot,50.0%,9.0
+5:Teeter Dance,50.0%,9.0
+6:Role Play,44.4444444444%,8.0
+7:Helping Hand,44.4444444444%,8.0
+8:Leaf Storm,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,9.0
+2:Red Card,33.3333333333%,6.0
+3:Mental Herb,11.1111111111%,2.0
+4:Lum Berry,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Timid,77.7777777778%,14.0
+2:Modest,22.2222222222%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyurem
+4:Kangaskhan
+5:Meowstic
+6:Gothorita
+7:Clefairy
+8:Aromatisse
+9:Cresselia
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,16.6666666667%,3.0
+2:Double-Edge,16.6666666667%,3.0
+3:Wild Charge,8.33333333333%,1.5
+4:Brave Bird,8.33333333333%,1.5
+5:Eruption,8.33333333333%,1.5
+6:Knock Off,8.33333333333%,1.5
+7:Return,8.33333333333%,1.5
+8:Sludge Bomb,8.33333333333%,1.5
+9:Blizzard,8.33333333333%,1.5
+10:Ice Beam,8.33333333333%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan
+3:Talonflame
+4:Kyurem
+5:Thundurus
+6:Weavile
+7:Groudon
+8:Kyogre
+9:Gengar

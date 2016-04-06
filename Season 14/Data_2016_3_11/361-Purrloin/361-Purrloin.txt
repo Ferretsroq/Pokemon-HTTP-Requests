@@ -1,0 +1,37 @@
+361:Purrloin|1
+ ---------- 
+Moves used:
+1:Assist,100.0%,1.0
+2:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Band,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Liepard
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

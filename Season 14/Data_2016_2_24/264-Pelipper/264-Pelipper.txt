@@ -1,0 +1,53 @@
+264:Pelipper|3
+ ---------- 
+Moves used:
+1:Soak,100.0%,3.0
+2:Ice Beam,100.0%,3.0
+3:Wide Guard,66.6666666667%,2.0
+4:Tailwind,66.6666666667%,2.0
+5:Protect,33.3333333333%,1.0
+6:Hydro Pump,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,66.6666666667%,2.0
+2:Sitrus Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Keen Eye,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Bold,66.6666666667%,2.0
+2:Modest,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Terrakion
+2:Whimsicott
+3:Yveltal
+4:Weavile
+5:Mewtwo
+6:Zygarde
+7:Talonflame
+8:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Draco Meteor,25.0%,0.75
+2:Volt Tackle,25.0%,0.75
+3:Water Spout,25.0%,0.75
+4:Thunder,25.0%,0.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Dialga
+3:Raichu

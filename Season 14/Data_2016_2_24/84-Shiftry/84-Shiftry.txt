@@ -1,0 +1,138 @@
+84:Shiftry|287
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,287.0
+2:Leaf Blade,90.5923344948%,260.0
+3:Knock Off,88.1533101045%,253.0
+4:Low Kick,42.8571428571%,123.0
+5:Tailwind,41.8118466899%,120.0
+6:Foul Play,11.8466898955%,34.0
+7:Leaf Storm,6.62020905923%,19.0
+8:Swagger,6.27177700348%,18.0
+9:Worry Seed,3.83275261324%,11.0
+10:Grass Knot,2.78745644599%,8.0
+11:Swords Dance,2.09059233449%,6.0
+12:Brick Break,1.393728223%,4.0
+13:Protect,1.04529616725%,3.0
+14:Icy Wind,0.696864111498%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,54.7038327526%,157.0
+2:Life Orb,44.5993031359%,128.0
+3:Expert Belt,0.348432055749%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,287.0
+
+ ---------- 
+Natures used:
+1:Jolly,59.2334494774%,170.0
+2:Adamant,31.3588850174%,90.0
+3:Timid,8.71080139373%,25.0
+4:Modest,0.696864111498%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Talonflame
+5:Yveltal
+6:Kangaskhan
+7:Mawile
+8:Thundurus
+9:Crobat
+10:Kyurem
+11:Rayquaza
+12:Aegislash
+13:Zekrom
+14:Gengar
+15:Giratina
+16:Metagross
+17:Meowstic
+18:Kyogre
+19:Lapras
+20:Bronzong
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,40.350877193%,115.807017544
+2:Leaf Blade,26.3157894737%,75.5263157895
+3:Foul Play,12.2807017544%,35.2456140351
+4:Low Kick,8.77192982456%,25.1754385965
+5:Fake Out,7.01754385965%,20.1403508772
+6:Grass Knot,1.75438596491%,5.0350877193
+7:Leaf Storm,1.75438596491%,5.0350877193
+8:Brick Break,1.75438596491%,5.0350877193
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.2393162393%,46.6068376068
+2:Eruption,11.5384615385%,33.1153846154
+3:Hyper Voice,10.6837606838%,30.6623931624
+4:Ice Beam,6.41025641026%,18.3974358974
+5:Brave Bird,5.55555555556%,15.9444444444
+6:Double-Edge,4.70085470085%,13.4914529915
+7:Origin Pulse,3.84615384615%,11.0384615385
+8:Water Spout,3.84615384615%,11.0384615385
+9:Precipice Blades,2.99145299145%,8.58547008547
+10:Low Kick,2.99145299145%,8.58547008547
+11:Dragon Ascent,2.13675213675%,6.13247863248
+12:Power-Up Punch,2.13675213675%,6.13247863248
+13:Flamethrower,2.13675213675%,6.13247863248
+14:U-turn,1.7094017094%,4.90598290598
+15:Moonblast,1.28205128205%,3.67948717949
+16:Iron Head,1.28205128205%,3.67948717949
+17:Overheat,1.28205128205%,3.67948717949
+18:Sludge Bomb,1.28205128205%,3.67948717949
+19:Rock Slide,1.28205128205%,3.67948717949
+20:Oblivion Wing,0.854700854701%,2.45299145299
+0:Other,13.2478632479%,38.0213675214
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Gengar
+4:Xerneas
+5:Talonflame
+6:Landorus
+7:Rayquaza
+8:Groudon
+9:Smeargle
+10:Meowstic
+11:Liepard
+12:Cresselia
+13:Dialga
+14:Salamence
+15:Lugia
+16:Yveltal
+17:Noivern
+18:Whimsicott
+19:Palkia
+20:Porygon-Z
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Mawile
+10:Cresselia
+11:Rayquaza
+12:Yveltal
+13:Weavile
+14:Ferrothorn
+15:Dialga
+16:Ho-Oh
+17:Smeargle
+18:Gengar
+19:Greninja
+20:Thundurus

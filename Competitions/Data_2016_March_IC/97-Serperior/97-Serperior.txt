@@ -1,0 +1,68 @@
+97:Serperior|3
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,3.0
+2:Dragon Pulse,66.6666666667%,2.0
+3:Hidden Power,66.6666666667%,2.0
+4:Giga Drain,66.6666666667%,2.0
+5:Glare,33.3333333333%,1.0
+6:Reflect,33.3333333333%,1.0
+7:Light Screen,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,33.3333333333%,1.0
+2:Choice Scarf,33.3333333333%,1.0
+3:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Yveltal
+3:Talonflame
+4:Kyogre
+5:Xerneas
+6:Greninja
+7:Liepard
+8:Groudon
+9:Scizor
+10:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,60.0%,1.8
+2:Hidden Power,40.0%,1.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,0.75
+2:Double-Edge,25.0%,0.75
+3:Sucker Punch,12.5%,0.375
+4:Feint,12.5%,0.375
+5:Ice Beam,12.5%,0.375
+6:Fire Punch,12.5%,0.375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kyogre
+3:Smeargle
+4:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Mawile
+6:Kangaskhan
+7:Raichu

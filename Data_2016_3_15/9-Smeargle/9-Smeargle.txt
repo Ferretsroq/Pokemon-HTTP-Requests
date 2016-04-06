@@ -1,0 +1,130 @@
+9:Smeargle|195
+ ---------- 
+Moves used:
+1:Dark Void,95.8974358974%,187.0
+2:Follow Me,64.1025641026%,125.0
+3:Spiky Shield,63.0769230769%,123.0
+4:Wide Guard,56.9230769231%,111.0
+5:Fake Out,45.1282051282%,88.0
+6:Transform,20.0%,39.0
+7:Crafty Shield,18.4615384615%,36.0
+8:Spore,6.66666666667%,13.0
+9:Feint,6.15384615385%,12.0
+10:King's Shield,5.12820512821%,10.0
+11:Super Fang,4.61538461538%,9.0
+12:Endeavor,3.07692307692%,6.0
+13:Sheer Cold,2.05128205128%,4.0
+14:Quick Guard,1.53846153846%,3.0
+15:Extreme Speed,1.53846153846%,3.0
+16:Foul Play,1.02564102564%,2.0
+17:Tailwind,1.02564102564%,2.0
+18:Destiny Bond,1.02564102564%,2.0
+19:Nuzzle,0.512820512821%,1.0
+20:Imprison,0.512820512821%,1.0
+0:Other,1.53846153846%,3.0
+
+ ---------- 
+Items used:
+1:Focus Sash,84.6153846154%,165.0
+2:Choice Scarf,10.7692307692%,21.0
+3:Mental Herb,3.58974358974%,7.0
+4:Wide Lens,0.512820512821%,1.0
+5:Chesto Berry,0.512820512821%,1.0
+
+ ---------- 
+Abilities used:
+1:Moody,77.9487179487%,152.0
+2:Own Tempo,20.5128205128%,40.0
+3:Technician,1.53846153846%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,49.7435897436%,97.0
+2:Timid,32.8205128205%,64.0
+3:Relaxed,11.2820512821%,22.0
+4:Careful,2.5641025641%,5.0
+5:Quiet,1.53846153846%,3.0
+6:Bold,1.02564102564%,2.0
+7:Impish,0.512820512821%,1.0
+8:Brave,0.512820512821%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Talonflame
+5:Salamence
+6:Kyogre
+7:Rayquaza
+8:Dialga
+9:Cresselia
+10:Mawile
+11:Thundurus
+12:Ferrothorn
+13:Amoonguss
+14:Clefairy
+15:Crobat
+16:Meowstic
+17:Landorus
+18:Weavile
+19:Lucario
+20:Bronzong
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,66.6666666667%,130.0
+2:Overheat,33.3333333333%,65.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,16.6666666667%,32.5
+2:Dazzling Gleam,10.0%,19.5
+3:Eruption,7.5%,14.625
+4:Hyper Voice,6.66666666667%,13.0
+5:Precipice Blades,5.83333333333%,11.375
+6:Water Spout,5.83333333333%,11.375
+7:Ice Beam,5.83333333333%,11.375
+8:Extreme Speed,4.16666666667%,8.125
+9:Iron Head,2.5%,4.875
+10:Earth Power,2.5%,4.875
+11:Gyro Ball,2.5%,4.875
+12:Return,2.5%,4.875
+13:Low Kick,2.5%,4.875
+14:Fire Punch,2.5%,4.875
+15:Dragon Ascent,1.66666666667%,3.25
+16:Power-Up Punch,1.66666666667%,3.25
+17:Brave Bird,1.66666666667%,3.25
+18:Thunderbolt,1.66666666667%,3.25
+19:Flamethrower,1.66666666667%,3.25
+20:Origin Pulse,0.833333333333%,1.625
+0:Other,10.0%,19.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mienshao
+2:Cresselia
+3:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Cresselia
+7:Rayquaza
+8:Talonflame
+9:Ferrothorn
+10:Yveltal
+11:Thundurus
+12:Togekiss
+13:Rayquaza
+14:Mawile
+15:Aegislash
+16:Kyurem
+17:Palkia
+18:Salamence
+19:Manectric
+20:Shedinja

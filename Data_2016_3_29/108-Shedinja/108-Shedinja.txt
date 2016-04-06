@@ -1,0 +1,93 @@
+108:Shedinja|36
+ ---------- 
+Moves used:
+1:Will-O-Wisp,100.0%,36.0
+2:Protect,88.8888888889%,32.0
+3:Phantom Force,58.3333333333%,21.0
+4:Confuse Ray,41.6666666667%,15.0
+5:X-Scissor,27.7777777778%,10.0
+6:Shadow Sneak,16.6666666667%,6.0
+7:Shadow Claw,13.8888888889%,5.0
+8:Heal Block,13.8888888889%,5.0
+9:Toxic,13.8888888889%,5.0
+10:Struggle Bug,11.1111111111%,4.0
+11:Spite,11.1111111111%,4.0
+12:Shadow Ball,2.77777777778%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,80.5555555556%,29.0
+2:Lum Berry,13.8888888889%,5.0
+3:Liechi Berry,5.55555555556%,2.0
+
+ ---------- 
+Abilities used:
+1:Wonder Guard,100.0%,36.0
+
+ ---------- 
+Natures used:
+1:Lonely,55.5555555556%,20.0
+2:Adamant,30.5555555556%,11.0
+3:Naive,11.1111111111%,4.0
+4:Hasty,2.77777777778%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Gothitelle
+5:Groudon
+6:Mewtwo
+7:Rayquaza
+8:Salamence
+9:Meowstic
+10:Cresselia
+11:Nidoqueen
+12:Liepard
+13:Altaria
+14:Talonflame
+15:Ludicolo
+16:Smeargle
+17:Scizor
+18:Politoed
+19:Crobat
+20:Marowak
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,60.0%,21.6
+2:Shadow Claw,20.0%,7.2
+3:Shadow Sneak,10.0%,3.6
+4:X-Scissor,10.0%,3.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,13.3333333333%,4.8
+2:Eruption,13.3333333333%,4.8
+3:Flamethrower,13.3333333333%,4.8
+4:Fire Punch,13.3333333333%,4.8
+5:Snarl,6.66666666667%,2.4
+6:Hyper Voice,6.66666666667%,2.4
+7:Knock Off,6.66666666667%,2.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Groudon
+3:Gengar
+4:Xerneas
+5:Liepard
+6:Rayquaza
+7:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Dialga
+3:Yveltal
+4:Thundurus
+5:Rayquaza
+6:Rayquaza
+7:Salamence
+8:Kangaskhan

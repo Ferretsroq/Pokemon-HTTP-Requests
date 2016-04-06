@@ -1,0 +1,39 @@
+247:Roserade|1
+ ---------- 
+Moves used:
+1:Giga Drain,100.0%,1.0
+2:Sludge Bomb,100.0%,1.0
+3:Flash,100.0%,1.0
+4:Double Team,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lax Incense,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Poison Point,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Cobalion
+2:Porygon-Z
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

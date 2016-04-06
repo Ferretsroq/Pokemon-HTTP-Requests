@@ -1,0 +1,92 @@
+115:Moltres|33
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,33.0
+2:Tailwind,100.0%,33.0
+3:Flamethrower,90.9090909091%,30.0
+4:Roost,48.4848484848%,16.0
+5:Safeguard,45.4545454545%,15.0
+6:Heat Wave,9.09090909091%,3.0
+7:Protect,6.06060606061%,2.0
+
+ ---------- 
+Items used:
+1:Lum Berry,45.4545454545%,15.0
+2:Rocky Helmet,39.3939393939%,13.0
+3:Passho Berry,9.09090909091%,3.0
+4:Chesto Berry,6.06060606061%,2.0
+
+ ---------- 
+Abilities used:
+1:Flame Body,93.9393939394%,31.0
+2:Pressure,6.06060606061%,2.0
+
+ ---------- 
+Natures used:
+1:Calm,84.8484848485%,28.0
+2:Timid,15.1515151515%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Thundurus
+4:Dialga
+5:Salamence
+6:Metagross
+7:Aegislash
+8:Ferrothorn
+9:Mawile
+10:Yveltal
+11:Landorus
+12:Zekrom
+13:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flamethrower,57.1428571429%,18.8571428571
+2:Hurricane,28.5714285714%,9.42857142857
+3:Heat Wave,14.2857142857%,4.71428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,22.2222222222%,7.33333333333
+2:Water Spout,11.1111111111%,3.66666666667
+3:Double-Edge,11.1111111111%,3.66666666667
+4:Sucker Punch,7.40740740741%,2.44444444444
+5:Hyper Voice,7.40740740741%,2.44444444444
+6:Rock Slide,7.40740740741%,2.44444444444
+7:Dragon Ascent,3.7037037037%,1.22222222222
+8:Precipice Blades,3.7037037037%,1.22222222222
+9:Dazzling Gleam,3.7037037037%,1.22222222222
+10:Scald,3.7037037037%,1.22222222222
+11:Brave Bird,3.7037037037%,1.22222222222
+12:Eruption,3.7037037037%,1.22222222222
+13:Frustration,3.7037037037%,1.22222222222
+14:Icy Wind,3.7037037037%,1.22222222222
+15:Thunderbolt,3.7037037037%,1.22222222222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+2:Meowstic
+3:Kyurem
+4:Cresselia
+5:Lucario
+6:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Salamence
+5:Yveltal
+6:Xerneas
+7:Talonflame
+8:Cresselia
+9:Garchomp
+10:Empoleon
+11:Rayquaza
+12:Smeargle
+13:Kangaskhan

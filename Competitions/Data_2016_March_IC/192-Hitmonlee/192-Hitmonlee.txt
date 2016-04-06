@@ -1,0 +1,39 @@
+192:Hitmonlee|1
+ ---------- 
+Moves used:
+1:Stone Edge,100.0%,1.0
+2:Close Combat,100.0%,1.0
+3:Blaze Kick,100.0%,1.0
+4:Fake Out,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Normal Gem,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Meowstic
+3:Greninja
+4:Suicune
+5:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

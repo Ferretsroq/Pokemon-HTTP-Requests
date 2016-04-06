@@ -1,0 +1,66 @@
+253:Moltres|8
+ ---------- 
+Moves used:
+1:Roost,100.0%,8.0
+2:Air Slash,62.5%,5.0
+3:Heat Wave,62.5%,5.0
+4:Protect,62.5%,5.0
+5:Hidden Power,37.5%,3.0
+6:Substitute,37.5%,3.0
+7:Fire Blast,37.5%,3.0
+
+ ---------- 
+Items used:
+1:Leftovers,75.0%,6.0
+2:Life Orb,25.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Calm,62.5%,5.0
+2:Modest,37.5%,3.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Liepard
+3:Gastrodon
+4:Xerneas
+5:Mienshao
+6:Whimsicott
+7:Rayquaza
+8:Landorus
+9:Porygon-Z
+10:Gardevoir
+11:Espeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Air Slash,42.8571428571%,3.42857142857
+2:Heat Wave,28.5714285714%,2.28571428571
+3:Fire Blast,28.5714285714%,2.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Claw,25.0%,2.0
+2:Extreme Speed,25.0%,2.0
+3:Return,25.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyurem
+2:Groudon
+3:Mawile
+4:Smeargle
+5:Scizor
+6:Crobat
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kangaskhan

@@ -1,0 +1,70 @@
+235:Registeel|15
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,15.0
+2:Stealth Rock,53.3333333333%,8.0
+3:Explosion,53.3333333333%,8.0
+4:Thunder Wave,53.3333333333%,8.0
+5:Sleep Talk,46.6666666667%,7.0
+6:Curse,46.6666666667%,7.0
+7:Rest,46.6666666667%,7.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,53.3333333333%,8.0
+2:Maranga Berry,46.6666666667%,7.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Brave,53.3333333333%,8.0
+2:Sassy,46.6666666667%,7.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Xerneas
+3:Groudon
+4:Aerodactyl
+5:Giratina
+6:Cresselia
+7:Arbok
+8:Gourgeist
+9:Kyurem
+10:Terrakion
+11:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,100.0%,15.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.1111111111%,1.66666666667
+2:Fire Fang,11.1111111111%,1.66666666667
+3:Sucker Punch,11.1111111111%,1.66666666667
+4:Water Spout,11.1111111111%,1.66666666667
+5:Eruption,11.1111111111%,1.66666666667
+6:Thunder,11.1111111111%,1.66666666667
+7:Low Kick,11.1111111111%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Whimsicott
+3:Weavile
+4:Rayquaza
+5:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Thundurus
+3:Lopunny
+4:Groudon
+5:Kyogre
+6:Mawile
+7:Kangaskhan

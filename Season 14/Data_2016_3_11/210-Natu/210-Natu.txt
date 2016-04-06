@@ -1,0 +1,82 @@
+210:Natu|34
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,34.0
+2:Protect,100.0%,34.0
+3:Ally Switch,61.7647058824%,21.0
+4:Simple Beam,61.7647058824%,21.0
+5:Skill Swap,38.2352941176%,13.0
+6:Tailwind,20.5882352941%,7.0
+7:Pain Split,17.6470588235%,6.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,34.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Relaxed,82.3529411765%,28.0
+2:Gentle,17.6470588235%,6.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Smeargle
+3:Blissey
+4:Groudon
+5:Latias
+6:Mawile
+7:Mienshao
+8:Amoonguss
+9:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,11.5384615385%,3.92307692308
+2:Knock Off,7.69230769231%,2.61538461538
+3:Fake Out,7.69230769231%,2.61538461538
+4:Thunderbolt,7.69230769231%,2.61538461538
+5:Ice Beam,7.69230769231%,2.61538461538
+6:Double-Edge,7.69230769231%,2.61538461538
+7:Precipice Blades,3.84615384615%,1.30769230769
+8:Origin Pulse,3.84615384615%,1.30769230769
+9:Power-Up Punch,3.84615384615%,1.30769230769
+10:Nuzzle,3.84615384615%,1.30769230769
+11:Dazzling Gleam,3.84615384615%,1.30769230769
+12:Play Rough,3.84615384615%,1.30769230769
+13:Iron Head,3.84615384615%,1.30769230769
+14:Dark Pulse,3.84615384615%,1.30769230769
+15:Gyro Ball,3.84615384615%,1.30769230769
+16:Hyper Voice,3.84615384615%,1.30769230769
+17:Aeroblast,3.84615384615%,1.30769230769
+18:Super Fang,3.84615384615%,1.30769230769
+19:Rock Slide,3.84615384615%,1.30769230769
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Talonflame
+3:Yveltal
+4:Kyurem
+5:Groudon
+6:Mawile
+7:Xerneas
+8:Thundurus
+9:Ferrothorn
+10:Weavile
+11:Kyogre
+12:Salamence
+13:Lugia
+14:Crobat
+15:Zapdos
+16:Raichu

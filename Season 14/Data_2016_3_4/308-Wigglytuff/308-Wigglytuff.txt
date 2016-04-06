@@ -1,0 +1,53 @@
+308:Wigglytuff|3
+ ---------- 
+Moves used:
+1:Dazzling Gleam,100.0%,3.0
+2:Hyper Voice,100.0%,3.0
+3:Thunderbolt,66.6666666667%,2.0
+4:Flamethrower,66.6666666667%,2.0
+5:Protect,33.3333333333%,1.0
+6:Sing,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,66.6666666667%,2.0
+2:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mienshao
+3:Rayquaza
+4:Groudon
+5:Misdreavus
+6:Aerodactyl
+7:Ditto
+8:Marowak
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,33.3333333333%,1.0
+2:Scald,33.3333333333%,1.0
+3:Hyper Voice,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Salamence

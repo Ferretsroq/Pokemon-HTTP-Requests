@@ -1,0 +1,92 @@
+123:Empoleon|29
+ ---------- 
+Moves used:
+1:Scald,96.5517241379%,28.0
+2:Grass Knot,96.5517241379%,28.0
+3:Flash Cannon,96.5517241379%,28.0
+4:Ice Beam,96.5517241379%,28.0
+5:Aqua Jet,3.44827586207%,1.0
+6:Steel Wing,3.44827586207%,1.0
+7:Waterfall,3.44827586207%,1.0
+8:Drill Peck,3.44827586207%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,29.0
+
+ ---------- 
+Abilities used:
+1:Torrent,96.5517241379%,28.0
+2:Defiant,3.44827586207%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,93.1034482759%,27.0
+2:Modest,3.44827586207%,1.0
+3:Adamant,3.44827586207%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Kangaskhan
+4:Ho-Oh
+5:Salamence
+6:Kyurem
+7:Rayquaza
+8:Altaria
+9:Crobat
+10:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,36.3636363636%,10.5454545455
+2:Scald,22.7272727273%,6.59090909091
+3:Grass Knot,18.1818181818%,5.27272727273
+4:Flash Cannon,18.1818181818%,5.27272727273
+5:Waterfall,4.54545454545%,1.31818181818
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,14.2857142857%,4.14285714286
+2:Origin Pulse,9.52380952381%,2.7619047619
+3:Power-Up Punch,9.52380952381%,2.7619047619
+4:Water Spout,9.52380952381%,2.7619047619
+5:Extreme Speed,9.52380952381%,2.7619047619
+6:Earthquake,9.52380952381%,2.7619047619
+7:Thunder,9.52380952381%,2.7619047619
+8:Precipice Blades,4.7619047619%,1.38095238095
+9:Snarl,4.7619047619%,1.38095238095
+10:Sucker Punch,4.7619047619%,1.38095238095
+11:Superpower,4.7619047619%,1.38095238095
+12:Thunderbolt,4.7619047619%,1.38095238095
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Yveltal
+3:Landorus
+4:Togekiss
+5:Weavile
+6:Meowstic
+7:Thundurus
+8:Liepard
+9:Rayquaza
+10:Salamence
+11:Ho-Oh
+12:Smeargle
+13:Moltres
+14:Lapras
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Thundurus
+4:Rayquaza
+5:Yveltal
+6:Landorus
+7:Garchomp
+8:Rayquaza
+9:Groudon

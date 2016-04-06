@@ -1,0 +1,42 @@
+221:Cryogonal|1
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,1.0
+2:Sheer Cold,100.0%,1.0
+3:Blizzard,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Lucario
+2:Rayquaza
+3:Murkrow
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sheer Cold,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,50.0%,0.5
+2:Flare Blitz,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame

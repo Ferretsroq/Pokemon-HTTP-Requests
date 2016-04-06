@@ -1,0 +1,42 @@
+193:Cherrim|1
+ ---------- 
+Moves used:
+1:Seed Bomb,100.0%,1.0
+2:Worry Seed,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Coba Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,50.0%,0.5
+2:Eruption,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre

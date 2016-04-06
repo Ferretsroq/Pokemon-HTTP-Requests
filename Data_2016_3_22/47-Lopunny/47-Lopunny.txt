@@ -1,0 +1,126 @@
+47:Lopunny|139
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,139.0
+2:Teeter Dance,89.928057554%,125.0
+3:Low Kick,56.8345323741%,79.0
+4:Return,53.2374100719%,74.0
+5:Facade,41.0071942446%,57.0
+6:High Jump Kick,28.7769784173%,40.0
+7:Encore,20.1438848921%,28.0
+8:After You,4.31654676259%,6.0
+9:Jump Kick,2.87769784173%,4.0
+10:Protect,1.43884892086%,2.0
+11:Ice Punch,1.43884892086%,2.0
+
+ ---------- 
+Items used:
+1:Lopunnite,99.2805755396%,138.0
+
+ ---------- 
+Abilities used:
+1:Limber,89.928057554%,125.0
+2:Klutz,7.91366906475%,11.0
+3:Cute Charm,2.15827338129%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,97.8417266187%,136.0
+2:Adamant,2.15827338129%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Smeargle
+4:Talonflame
+5:Kyogre
+6:Palkia
+7:Thundurus
+8:Ditto
+9:Kyurem
+10:Rayquaza
+11:Salamence
+12:Sableye
+13:Liepard
+14:Ferrothorn
+15:Amoonguss
+16:Emolga
+17:Bronzong
+18:Mawile
+19:Mewtwo
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,35.0%,48.65
+2:Return,30.0%,41.7
+3:High Jump Kick,16.6666666667%,23.1666666667
+4:Facade,15.0%,20.85
+5:Fake Out,3.33333333333%,4.63333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.2795698925%,25.4086021505
+2:Brave Bird,8.60215053763%,11.9569892473
+3:Precipice Blades,7.52688172043%,10.4623655914
+4:Water Spout,5.37634408602%,7.47311827957
+5:Hyper Voice,5.37634408602%,7.47311827957
+6:Dragon Ascent,4.30107526882%,5.97849462366
+7:Origin Pulse,4.30107526882%,5.97849462366
+8:Eruption,4.30107526882%,5.97849462366
+9:Double-Edge,4.30107526882%,5.97849462366
+10:Gyro Ball,3.22580645161%,4.48387096774
+11:Ice Beam,3.22580645161%,4.48387096774
+12:Moonblast,2.15053763441%,2.98924731183
+13:Earth Power,2.15053763441%,2.98924731183
+14:Dragon Pulse,2.15053763441%,2.98924731183
+15:Return,2.15053763441%,2.98924731183
+16:Explosion,2.15053763441%,2.98924731183
+17:Earthquake,2.15053763441%,2.98924731183
+18:Low Kick,2.15053763441%,2.98924731183
+19:Oblivion Wing,1.0752688172%,1.49462365591
+20:Play Rough,1.0752688172%,1.49462365591
+0:Other,9.67741935484%,13.4516129032
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Groudon
+4:Smeargle
+5:Crobat
+6:Xerneas
+7:Thundurus
+8:Ferrothorn
+9:Gengar
+10:Bronzong
+11:Kangaskhan
+12:Gengar
+13:Aegislash
+14:Talonflame
+15:Cresselia
+16:Dialga
+17:Rayquaza
+18:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Kangaskhan
+6:Salamence
+7:Landorus
+8:Rayquaza
+9:Dialga
+10:Bronzong
+11:Mawile
+12:Yveltal
+13:Aegislash
+14:Whimsicott
+15:Weavile
+16:Espeon
+17:Mewtwo
+18:Gengar

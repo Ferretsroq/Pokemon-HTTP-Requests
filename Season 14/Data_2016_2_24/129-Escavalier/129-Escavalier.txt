@@ -1,0 +1,130 @@
+129:Escavalier|110
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,110.0
+2:Megahorn,98.1818181818%,108.0
+3:Drill Run,60.9090909091%,67.0
+4:Protect,50.9090909091%,56.0
+5:Reversal,25.4545454545%,28.0
+6:Facade,17.2727272727%,19.0
+7:Quick Guard,13.6363636364%,15.0
+8:X-Scissor,11.8181818182%,13.0
+9:Struggle Bug,10.9090909091%,12.0
+10:Knock Off,10.0%,11.0
+11:Swords Dance,0.909090909091%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,38.1818181818%,42.0
+2:Life Orb,34.5454545455%,38.0
+3:Choice Band,10.9090909091%,12.0
+4:Expert Belt,8.18181818182%,9.0
+5:Custap Berry,3.63636363636%,4.0
+6:Occa Berry,1.81818181818%,2.0
+7:Sitrus Berry,1.81818181818%,2.0
+8:Lum Berry,0.909090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Overcoat,100.0%,110.0
+
+ ---------- 
+Natures used:
+1:Brave,70.0%,77.0
+2:Adamant,30.0%,33.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Cresselia
+5:Thundurus
+6:Xerneas
+7:Dialga
+8:Sableye
+9:Gengar
+10:Talonflame
+11:Kyurem
+12:Jellicent
+13:Camerupt
+14:Kyurem
+15:Giratina
+16:Mewtwo
+17:Terrakion
+18:Salamence
+19:Medicham
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,66.0377358491%,72.641509434
+2:Megahorn,24.5283018868%,26.9811320755
+3:Reversal,5.66037735849%,6.22641509434
+4:Drill Run,1.88679245283%,2.07547169811
+5:X-Scissor,1.88679245283%,2.07547169811
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,15.2777777778%,16.8055555556
+2:Precipice Blades,6.94444444444%,7.63888888889
+3:Water Spout,6.94444444444%,7.63888888889
+4:Overheat,6.94444444444%,7.63888888889
+5:Origin Pulse,4.16666666667%,4.58333333333
+6:Sucker Punch,4.16666666667%,4.58333333333
+7:Scald,2.77777777778%,3.05555555556
+8:Hyper Voice,2.77777777778%,3.05555555556
+9:Extreme Speed,2.77777777778%,3.05555555556
+10:Flamethrower,2.77777777778%,3.05555555556
+11:Double-Edge,2.77777777778%,3.05555555556
+12:Fire Punch,2.77777777778%,3.05555555556
+13:Dragon Ascent,1.38888888889%,1.52777777778
+14:Power-Up Punch,1.38888888889%,1.52777777778
+15:Moonblast,1.38888888889%,1.52777777778
+16:Play Rough,1.38888888889%,1.52777777778
+17:Power Whip,1.38888888889%,1.52777777778
+18:Brave Bird,1.38888888889%,1.52777777778
+19:Dark Pulse,1.38888888889%,1.52777777778
+20:Flare Blitz,1.38888888889%,1.52777777778
+0:Other,8.33333333333%,9.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Ferrothorn
+5:Weavile
+6:Smeargle
+7:Whimsicott
+8:Liepard
+9:Cresselia
+10:Togekiss
+11:Rayquaza
+12:Salamence
+13:Yveltal
+14:Sylveon
+15:Kyurem
+16:Landorus
+17:Tornadus
+18:Amoonguss
+19:Toxicroak
+20:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Salamence
+5:Mawile
+6:Talonflame
+7:Kangaskhan
+8:Yveltal
+9:Xerneas
+10:Thundurus
+11:Ferrothorn
+12:Dialga
+13:Gastrodon
+14:Infernape
+15:Gengar

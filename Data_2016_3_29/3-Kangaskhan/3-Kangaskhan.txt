@@ -1,0 +1,166 @@
+3:Kangaskhan|22393
+ ---------- 
+Moves used:
+1:Fake Out,98.155673648%,21980.0
+2:Sucker Punch,86.6074219622%,19394.0
+3:Double-Edge,74.06332336%,16585.0
+4:Low Kick,67.4719778502%,15109.0
+5:Return,21.3593533694%,4783.0
+6:Power-Up Punch,19.2560175055%,4312.0
+7:Protect,15.2279730273%,3410.0
+8:Frustration,3.5680793105%,799.0
+9:Ice Punch,3.27334434868%,733.0
+10:Fire Punch,3.10364846157%,695.0
+11:Crunch,1.32630732818%,297.0
+12:Hammer Arm,1.0583664538%,237.0
+13:Drain Punch,0.68771491091%,154.0
+14:Safeguard,0.656455142232%,147.0
+15:Ice Beam,0.571607198678%,128.0
+16:Facade,0.518019023802%,116.0
+17:Giga Impact,0.495690617604%,111.0
+18:Rock Tomb,0.491224936364%,110.0
+19:Earthquake,0.41084267405%,92.0
+20:Aqua Tail,0.401911311571%,90.0
+0:Other,1.29504755951%,290.0
+
+ ---------- 
+Items used:
+1:Kangaskhanite,99.9374804626%,22379.0
+2:Chople Berry,0.0357254499174%,8.0
+3:Assault Vest,0.00446568123967%,1.0
+4:Quick Claw,0.00446568123967%,1.0
+
+ ---------- 
+Abilities used:
+1:Scrappy,50.7569329701%,11366.0
+2:Inner Focus,48.2829455633%,10812.0
+3:Early Bird,0.96012146653%,215.0
+
+ ---------- 
+Natures used:
+1:Jolly,70.3478765686%,15753.0
+2:Adamant,21.9354262493%,4912.0
+3:Brave,6.81909525298%,1527.0
+4:Impish,0.392979949091%,88.0
+5:Naive,0.245612468182%,55.0
+6:Careful,0.111642030992%,25.0
+7:Naughty,0.0759165810744%,17.0
+8:Docile,0.0446568123967%,10.0
+9:Hasty,0.026794087438%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Smeargle
+6:Cresselia
+7:Thundurus
+8:Landorus
+9:Yveltal
+10:Ferrothorn
+11:Rayquaza
+12:Dialga
+13:Crobat
+14:Gengar
+15:Whimsicott
+16:Amoonguss
+17:Bronzong
+18:Kyurem
+19:Meowstic
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Double-Edge,43.7283487298%,9792.08913106
+2:Low Kick,17.3282332564%,3880.31127309
+3:Return,13.1639722864%,2947.80831409
+4:Sucker Punch,13.127886836%,2939.72769919
+5:Fake Out,4.31581986143%,966.44154157
+6:Power-Up Punch,2.92292147806%,654.529806582
+7:Frustration,2.64145496536%,591.501010393
+8:Ice Punch,0.837182448037%,187.470265589
+9:Fire Punch,0.541281755196%,121.209223441
+10:Hammer Arm,0.288683602771%,64.6449191686
+11:Crunch,0.180427251732%,40.4030744804
+12:Drain Punch,0.158775981524%,35.5547055427
+13:Facade,0.151558891455%,33.9385825635
+14:Ice Beam,0.151558891455%,33.9385825635
+15:Giga Impact,0.129907621247%,29.0902136259
+16:Rock Slide,0.108256351039%,24.2418446882
+17:Rock Tomb,0.0793879907621%,17.7773527714
+18:Earthquake,0.0649538106236%,14.5451068129
+19:Aqua Tail,0.050519630485%,11.3128608545
+20:Secret Power,0.00721709006928%,1.61612297921
+0:Other,0.0216512702079%,4.84836893764
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.38810641628%,1878.3486698
+2:Low Kick,8.25039123631%,1847.51010955
+3:Dazzling Gleam,6.80438184664%,1523.70522692
+4:Water Spout,5.89045383412%,1319.04932707
+5:Eruption,5.53364632238%,1239.14942097
+6:Moonblast,5.0641627543%,1134.01796557
+7:Origin Pulse,4.45696400626%,998.047949922
+8:Hyper Voice,4.02503912363%,901.327010955
+9:Double-Edge,3.06103286385%,685.457089202
+10:Sucker Punch,2.87323943662%,643.404507042
+11:Brave Bird,2.8607198748%,640.601001565
+12:Dragon Ascent,2.82942097027%,633.592237872
+13:Extreme Speed,2.29107981221%,513.041502347
+14:Gyro Ball,1.92801251956%,431.739843505
+15:Fire Punch,1.65258215962%,370.062723005
+16:Ice Beam,1.53364632238%,343.42942097
+17:Rock Slide,1.32707355243%,297.171580595
+18:Thunderbolt,1.26447574335%,283.154053208
+19:Foul Play,0.995305164319%,222.878685446
+20:Earth Power,0.989045383412%,221.476932707
+0:Other,15.5618153365%,3484.75730829
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Talonflame
+4:Kyogre
+5:Xerneas
+6:Groudon
+7:Thundurus
+8:Crobat
+9:Salamence
+10:Weavile
+11:Landorus
+12:Rayquaza
+13:Ferrothorn
+14:Liepard
+15:Cresselia
+16:Dialga
+17:Yveltal
+18:Whimsicott
+19:Raichu
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Xerneas
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Landorus
+9:Mawile
+10:Ferrothorn
+11:Yveltal
+12:Thundurus
+13:Rayquaza
+14:Dialga
+15:Weavile
+16:Kyogre
+17:Bronzong
+18:Cresselia
+19:Gengar
+20:Kyurem

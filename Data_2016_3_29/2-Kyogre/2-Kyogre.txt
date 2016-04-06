@@ -1,0 +1,168 @@
+2:Kyogre|28819
+ ---------- 
+Moves used:
+1:Ice Beam,97.4669488879%,28089.0
+2:Protect,94.5903744058%,27260.0
+3:Water Spout,73.8714042819%,21289.0
+4:Origin Pulse,63.8571775565%,18403.0
+5:Thunder,36.1358825775%,10414.0
+6:Scald,29.5603594851%,8519.0
+7:Thunderbolt,1.13466810091%,327.0
+8:Psych Up,0.687046739998%,198.0
+9:Calm Mind,0.586418682119%,169.0
+10:Hydro Pump,0.378222700302%,109.0
+11:Icy Wind,0.312293972726%,90.0
+12:Blizzard,0.249835178181%,72.0
+13:Aqua Tail,0.225545646969%,65.0
+14:Sheer Cold,0.183906450606%,53.0
+15:Substitute,0.180436517575%,52.0
+16:Thunder Wave,0.145737187272%,42.0
+17:Hidden Power,0.111037856969%,32.0
+18:Toxic,0.0936881918179%,27.0
+19:Aqua Ring,0.0485790624241%,14.0
+20:Muddy Water,0.0381692633332%,11.0
+0:Other,0.142267254242%,41.0
+
+ ---------- 
+Items used:
+1:Blue Orb,95.7146327076%,27584.0
+2:Choice Scarf,4.20208889968%,1211.0
+3:Weakness Policy,0.0173496651515%,5.0
+4:Life Orb,0.0138797321212%,4.0
+5:Choice Specs,0.00693986606059%,2.0
+6:Power Belt,0.00693986606059%,2.0
+7:Macho Brace,0.00346993303029%,1.0
+
+ ---------- 
+Abilities used:
+1:Drizzle,100.0%,28819.0
+
+ ---------- 
+Natures used:
+1:Modest,61.4212845692%,17701.0
+2:Timid,17.7105381866%,5104.0
+3:Quiet,16.4578923627%,4743.0
+4:Bold,2.76553662514%,797.0
+5:Relaxed,0.912592386967%,263.0
+6:Calm,0.319233838787%,92.0
+7:Gentle,0.11450779%,33.0
+8:Docile,0.0798084596967%,23.0
+9:Brave,0.0728685936361%,21.0
+10:Lax,0.0381692633332%,11.0
+11:Mild,0.0346993303029%,10.0
+12:Hasty,0.0346993303029%,10.0
+13:Serious,0.0138797321212%,4.0
+14:Bashful,0.0104097990909%,3.0
+15:Sassy,0.00693986606059%,2.0
+16:Impish,0.00693986606059%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kangaskhan
+3:Groudon
+4:Salamence
+5:Ferrothorn
+6:Talonflame
+7:Thundurus
+8:Landorus
+9:Xerneas
+10:Crobat
+11:Gengar
+12:Cresselia
+13:Smeargle
+14:Mawile
+15:Weavile
+16:Dialga
+17:Bronzong
+18:Whimsicott
+19:Amoonguss
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Water Spout,39.633186398%,11421.887988
+2:Origin Pulse,28.1171284635%,8103.07525189
+3:Ice Beam,22.2410264484%,6409.64141215
+4:Scald,6.10044080605%,1758.08603589
+5:Thunder,3.65632871537%,1053.71737248
+6:Thunderbolt,0.0865869017632%,24.9534792191
+7:Sheer Cold,0.0472292191436%,13.610988665
+8:Icy Wind,0.0354219143577%,10.2082414987
+9:Blizzard,0.0314861460957%,9.07399244332
+10:Aqua Tail,0.0157430730479%,4.53699622166
+11:Struggle,0.0157430730479%,4.53699622166
+12:Earthquake,0.00787153652393%,2.26849811083
+13:Bulldoze,0.00393576826196%,1.13424905542
+14:Hidden Power,0.00393576826196%,1.13424905542
+15:Hydro Pump,0.00393576826196%,1.13424905542
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.1590819775%,3504.1258351
+2:Double-Edge,8.74793680736%,2521.06790851
+3:Dazzling Gleam,7.02664465928%,2025.00872436
+4:Dragon Ascent,6.76727186984%,1950.26008017
+5:Thunder,5.91841546805%,1705.62815374
+6:Power Whip,5.26605360371%,1517.62398805
+7:Moonblast,4.44863632791%,1282.05250334
+8:Water Spout,4.33073960544%,1248.07584689
+9:Sucker Punch,3.73339621159%,1075.92745422
+10:Origin Pulse,3.15177238073%,908.309282402
+11:Thunderbolt,2.8766800283%,829.030417354
+12:Brave Bird,2.65660614635%,765.607325316
+13:Earth Power,2.4443920459%,704.449343708
+14:Extreme Speed,2.01996384501%,582.133380492
+15:Hyper Voice,1.84704865205%,532.300951034
+16:Rock Slide,1.72129214808%,496.059184155
+17:Grass Knot,1.67413345909%,482.468521575
+18:Return,1.55623673662%,448.491865126
+19:Eruption,1.49335848463%,430.370981687
+20:Dragon Pulse,1.29686394718%,373.743220938
+0:Other,17.1893421363%,4953.79651026
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Salamence
+4:Kyogre
+5:Xerneas
+6:Talonflame
+7:Smeargle
+8:Landorus
+9:Thundurus
+10:Rayquaza
+11:Crobat
+12:Cresselia
+13:Mawile
+14:Yveltal
+15:Ferrothorn
+16:Weavile
+17:Gengar
+18:Whimsicott
+19:Dialga
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Ferrothorn
+7:Salamence
+8:Talonflame
+9:Yveltal
+10:Mawile
+11:Dialga
+12:Landorus
+13:Thundurus
+14:Rayquaza
+15:Raichu
+16:Amoonguss
+17:Gengar
+18:Kyogre
+19:Zapdos
+20:Kyurem

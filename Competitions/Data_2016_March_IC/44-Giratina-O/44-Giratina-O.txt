@@ -1,0 +1,134 @@
+44:Giratina-O|15
+ ---------- 
+Moves used:
+1:Shadow Force,80.0%,12.0
+2:Shadow Sneak,60.0%,9.0
+3:Will-O-Wisp,60.0%,9.0
+4:Protect,60.0%,9.0
+5:Draco Meteor,46.6666666667%,7.0
+6:Tailwind,20.0%,3.0
+7:Dragon Claw,20.0%,3.0
+8:Dragon Pulse,13.3333333333%,2.0
+9:Outrage,13.3333333333%,2.0
+10:Hex,6.66666666667%,1.0
+11:Shadow Ball,6.66666666667%,1.0
+12:Safeguard,6.66666666667%,1.0
+13:Earthquake,6.66666666667%,1.0
+
+ ---------- 
+Items used:
+1:Griseous Orb,100.0%,15.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Adamant,60.0%,9.0
+2:Modest,20.0%,3.0
+3:Brave,13.3333333333%,2.0
+4:Careful,6.66666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Thundurus
+4:Ferrothorn
+5:Groudon
+6:Mawile
+7:Talonflame
+8:Cresselia
+9:Whimsicott
+10:Aegislash
+11:Landorus
+12:Togekiss
+13:Crobat
+14:Gourgeist
+15:Meowstic
+16:Mienshao
+17:Amoonguss
+18:Liepard
+19:Rotom
+20:Bronzong
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Force,32.8125%,4.921875
+2:Shadow Sneak,20.3125%,3.046875
+3:Draco Meteor,17.1875%,2.578125
+4:Dragon Pulse,14.84375%,2.2265625
+5:Shadow Ball,6.25%,0.9375
+6:Hex,5.46875%,0.8203125
+7:Dragon Claw,3.125%,0.46875
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,3.75
+2:Ice Beam,19.7916666667%,2.96875
+3:Dragon Ascent,6.25%,0.9375
+4:Moonblast,6.25%,0.9375
+5:Sucker Punch,4.16666666667%,0.625
+6:Draco Meteor,3.125%,0.46875
+7:Dragon Pulse,3.125%,0.46875
+8:Shadow Ball,3.125%,0.46875
+9:Precipice Blades,2.08333333333%,0.3125
+10:Origin Pulse,2.08333333333%,0.3125
+11:Play Rough,2.08333333333%,0.3125
+12:Foul Play,2.08333333333%,0.3125
+13:Dragon Claw,2.08333333333%,0.3125
+14:Water Spout,2.08333333333%,0.3125
+15:Rock Slide,2.08333333333%,0.3125
+16:Fire Punch,2.08333333333%,0.3125
+17:Stone Edge,1.04166666667%,0.15625
+18:Shadow Sneak,1.04166666667%,0.15625
+19:Brave Bird,1.04166666667%,0.15625
+20:U-turn,1.04166666667%,0.15625
+0:Other,5.20833333333%,0.78125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Ferrothorn
+5:Cresselia
+6:Rayquaza
+7:Amoonguss
+8:Salamence
+9:Mawile
+10:Thundurus
+11:Kangaskhan
+12:Weavile
+13:Rayquaza
+14:Smeargle
+15:Crobat
+16:Meowstic
+17:Talonflame
+18:Gardevoir
+19:Gengar
+20:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Rayquaza
+5:Salamence
+6:Kangaskhan
+7:Kyurem
+8:Dialga
+9:Yveltal
+10:Aegislash
+11:Rayquaza
+12:Mawile
+13:Talonflame
+14:Landorus
+15:Ferrothorn
+16:Liepard
+17:Latias
+18:Mewtwo
+19:Mewtwo
+20:Ditto

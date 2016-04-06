@@ -1,0 +1,95 @@
+136:Rotom-H|21
+ ---------- 
+Moves used:
+1:Overheat,100.0%,21.0
+2:Thunderbolt,100.0%,21.0
+3:Thunder Wave,52.380952381%,11.0
+4:Protect,38.0952380952%,8.0
+5:Volt Switch,28.5714285714%,6.0
+6:Trick,23.8095238095%,5.0
+7:Discharge,19.0476190476%,4.0
+8:Will-O-Wisp,14.2857142857%,3.0
+9:Hidden Power,14.2857142857%,3.0
+10:Psych Up,4.7619047619%,1.0
+11:Confuse Ray,4.7619047619%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,52.380952381%,11.0
+2:Choice Specs,38.0952380952%,8.0
+3:Choice Scarf,9.52380952381%,2.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,21.0
+
+ ---------- 
+Natures used:
+1:Modest,66.6666666667%,14.0
+2:Timid,23.8095238095%,5.0
+3:Bold,9.52380952381%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Groudon
+5:Crobat
+6:Weavile
+7:Talonflame
+8:Kangaskhan
+9:Latios
+10:Gengar
+11:Ferrothorn
+12:Liepard
+13:Palkia
+14:Gallade
+15:Rhyperior
+16:Garchomp
+17:Smeargle
+18:Azumarill
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,68.75%,14.4375
+2:Overheat,18.75%,3.9375
+3:Volt Switch,6.25%,1.3125
+4:Discharge,6.25%,1.3125
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,18.1818181818%,3.81818181818
+2:Rock Slide,18.1818181818%,3.81818181818
+3:Precipice Blades,9.09090909091%,1.90909090909
+4:Dazzling Gleam,9.09090909091%,1.90909090909
+5:Water Spout,9.09090909091%,1.90909090909
+6:Return,9.09090909091%,1.90909090909
+7:Sludge Bomb,9.09090909091%,1.90909090909
+8:Psychic,9.09090909091%,1.90909090909
+9:Fire Punch,9.09090909091%,1.90909090909
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Salamence
+3:Smeargle
+4:Xerneas
+5:Amoonguss
+6:Liepard
+7:Cresselia
+8:Dialga
+9:Kyogre
+10:Mawile
+11:Kangaskhan
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Garchomp
+5:Mewtwo
+6:Kangaskhan
+7:Gengar

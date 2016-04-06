@@ -1,0 +1,112 @@
+192:Scolipede|38
+ ---------- 
+Moves used:
+1:Poison Jab,100.0%,38.0
+2:Protect,89.4736842105%,34.0
+3:Rock Slide,60.5263157895%,23.0
+4:Swords Dance,55.2631578947%,21.0
+5:Megahorn,39.4736842105%,15.0
+6:Earthquake,23.6842105263%,9.0
+7:Bulldoze,10.5263157895%,4.0
+8:Baton Pass,10.5263157895%,4.0
+9:Venom Drench,5.26315789474%,2.0
+10:Toxic Spikes,5.26315789474%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,63.1578947368%,24.0
+2:Sitrus Berry,23.6842105263%,9.0
+3:Black Sludge,5.26315789474%,2.0
+4:Lum Berry,5.26315789474%,2.0
+5:Life Orb,2.63157894737%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,38.0
+
+ ---------- 
+Natures used:
+1:Adamant,92.1052631579%,35.0
+2:Jolly,7.89473684211%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Lickilicky
+5:Talonflame
+6:Landorus
+7:Ferrothorn
+8:Xerneas
+9:Whimsicott
+10:Groudon
+11:Salamence
+12:Yveltal
+13:Thundurus
+14:Cresselia
+15:Mawile
+16:Scrafty
+17:Crobat
+18:Jellicent
+19:Liepard
+20:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Poison Jab,64.7058823529%,24.5882352941
+2:Rock Slide,29.4117647059%,11.1764705882
+3:Megahorn,5.88235294118%,2.23529411765
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.3448275862%,3.93103448276
+2:Brave Bird,10.3448275862%,3.93103448276
+3:Sucker Punch,10.3448275862%,3.93103448276
+4:Hyper Voice,6.89655172414%,2.62068965517
+5:Precipice Blades,3.44827586207%,1.31034482759
+6:Origin Pulse,3.44827586207%,1.31034482759
+7:Moonblast,3.44827586207%,1.31034482759
+8:Psystrike,3.44827586207%,1.31034482759
+9:Earth Power,3.44827586207%,1.31034482759
+10:Dragon Pulse,3.44827586207%,1.31034482759
+11:Feint,3.44827586207%,1.31034482759
+12:Water Spout,3.44827586207%,1.31034482759
+13:Eruption,3.44827586207%,1.31034482759
+14:Fake Out,3.44827586207%,1.31034482759
+15:Shadow Ball,3.44827586207%,1.31034482759
+16:Return,3.44827586207%,1.31034482759
+17:Rock Slide,3.44827586207%,1.31034482759
+18:Ice Beam,3.44827586207%,1.31034482759
+19:Flamethrower,3.44827586207%,1.31034482759
+20:Double-Edge,3.44827586207%,1.31034482759
+0:Other,3.44827586207%,1.31034482759
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Talonflame
+4:Yveltal
+5:Liepard
+6:Cresselia
+7:Rayquaza
+8:Ludicolo
+9:Tyranitar
+10:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Salamence
+5:Talonflame
+6:Kyogre
+7:Cresselia
+8:Dialga
+9:Mawile
+10:Ho-Oh
+11:Mewtwo
+12:Gengar
+13:Raichu

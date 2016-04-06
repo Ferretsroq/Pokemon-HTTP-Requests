@@ -1,0 +1,63 @@
+265:Qwilfish|9
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,9.0
+2:Poison Jab,100.0%,9.0
+3:Explosion,100.0%,9.0
+4:Waterfall,88.8888888889%,8.0
+5:Aqua Tail,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,88.8888888889%,8.0
+2:Focus Sash,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,88.8888888889%,8.0
+2:Swift Swim,11.1111111111%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,9.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Heatran
+3:Groudon
+4:Palkia
+5:Kyogre
+6:Gardevoir
+7:Kyurem
+8:Altaria
+9:Mawile
+10:Sceptile
+11:Scizor
+12:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,60.0%,5.4
+2:Aqua Jet,40.0%,3.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,22.2222222222%,2.0
+2:Hyper Voice,11.1111111111%,1.0
+3:Eruption,11.1111111111%,1.0
+4:Thunderbolt,11.1111111111%,1.0
+5:Ice Beam,11.1111111111%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Salamence
+4:Raichu

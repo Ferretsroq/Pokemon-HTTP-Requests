@@ -1,0 +1,50 @@
+148:Swellow|1
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Facade,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Medicham
+4:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,28.5714285714%,0.285714285714
+2:Origin Pulse,14.2857142857%,0.142857142857
+3:Flare Blitz,14.2857142857%,0.142857142857
+4:Rock Slide,14.2857142857%,0.142857142857
+5:Ice Beam,14.2857142857%,0.142857142857
+6:Double-Edge,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Talonflame
+3:Greninja
+4:Cresselia
+5:Kyogre
+6:Kangaskhan

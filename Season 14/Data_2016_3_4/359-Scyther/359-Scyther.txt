@@ -1,0 +1,36 @@
+359:Scyther|1
+ ---------- 
+Moves used:
+1:Bug Bite,100.0%,1.0
+2:Aerial Ace,100.0%,1.0
+3:Quick Attack,100.0%,1.0
+4:Swords Dance,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zapdos
+2:Aerodactyl
+3:Tentacruel
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

@@ -1,0 +1,91 @@
+133:Electivire|22
+ ---------- 
+Moves used:
+1:Protect,72.7272727273%,16.0
+2:Wild Charge,59.0909090909%,13.0
+3:Ice Punch,54.5454545455%,12.0
+4:Feint,45.4545454545%,10.0
+5:Low Kick,45.4545454545%,10.0
+6:Electric Terrain,40.9090909091%,9.0
+7:Thunder Punch,40.9090909091%,9.0
+8:Earthquake,31.8181818182%,7.0
+9:Hidden Power,9.09090909091%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,54.5454545455%,12.0
+2:Focus Sash,40.9090909091%,9.0
+3:Expert Belt,4.54545454545%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,90.9090909091%,20.0
+2:Motor Drive,9.09090909091%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,90.9090909091%,20.0
+2:Naive,9.09090909091%,2.0
+
+ ---------- 
+Top teammates:
+1:Crobat
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Salamence
+6:Sceptile
+7:Lickilicky
+8:Gyarados
+9:Talonflame
+10:Smeargle
+11:Ferrothorn
+12:Amoonguss
+13:Weavile
+14:Scizor
+15:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,41.6666666667%,9.16666666667
+2:Low Kick,16.6666666667%,3.66666666667
+3:Thunder Punch,16.6666666667%,3.66666666667
+4:Ice Punch,16.6666666667%,3.66666666667
+5:Feint,8.33333333333%,1.83333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,4.4
+2:Dragon Ascent,6.66666666667%,1.46666666667
+3:Precipice Blades,6.66666666667%,1.46666666667
+4:Foul Play,6.66666666667%,1.46666666667
+5:Flare Blitz,6.66666666667%,1.46666666667
+6:Water Spout,6.66666666667%,1.46666666667
+7:Hyper Voice,6.66666666667%,1.46666666667
+8:Extreme Speed,6.66666666667%,1.46666666667
+9:Hidden Power,6.66666666667%,1.46666666667
+10:Waterfall,6.66666666667%,1.46666666667
+11:Double-Edge,6.66666666667%,1.46666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Kyogre
+4:Yveltal
+5:Ferrothorn
+6:Cresselia
+7:Dialga
+8:Salamence
+9:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Yveltal
+4:Talonflame
+5:Groudon
+6:Kyogre
+7:Salamence
+8:Kangaskhan

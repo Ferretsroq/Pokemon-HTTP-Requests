@@ -1,0 +1,117 @@
+83:Suicune|38
+ ---------- 
+Moves used:
+1:Scald,97.3684210526%,37.0
+2:Ice Beam,97.3684210526%,37.0
+3:Tailwind,84.2105263158%,32.0
+4:Roar,71.0526315789%,27.0
+5:Protect,15.7894736842%,6.0
+6:Extrasensory,7.89473684211%,3.0
+7:Psych Up,7.89473684211%,3.0
+8:Mirror Coat,7.89473684211%,3.0
+9:Snarl,2.63157894737%,1.0
+10:Rest,2.63157894737%,1.0
+11:Blizzard,2.63157894737%,1.0
+12:Surf,2.63157894737%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,73.6842105263%,28.0
+2:Assault Vest,7.89473684211%,3.0
+3:Rocky Helmet,7.89473684211%,3.0
+4:Leftovers,7.89473684211%,3.0
+5:Chesto Berry,2.63157894737%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,38.0
+
+ ---------- 
+Natures used:
+1:Modest,42.1052631579%,16.0
+2:Bold,39.4736842105%,15.0
+3:Calm,15.7894736842%,6.0
+4:Sassy,2.63157894737%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Ho-Oh
+6:Talonflame
+7:Greninja
+8:Landorus
+9:Thundurus
+10:Ferrothorn
+11:Swoobat
+12:Groudon
+13:Raichu
+14:Amoonguss
+15:Liepard
+16:Cresselia
+17:Palkia
+18:Swampert
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,53.8461538462%,20.4615384615
+2:Scald,46.1538461538%,17.5384615385
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.3846153846%,5.84615384615
+2:Origin Pulse,11.5384615385%,4.38461538462
+3:Earth Power,7.69230769231%,2.92307692308
+4:Brave Bird,7.69230769231%,2.92307692308
+5:Water Spout,7.69230769231%,2.92307692308
+6:Double-Edge,7.69230769231%,2.92307692308
+7:Dragon Ascent,3.84615384615%,1.46153846154
+8:Precipice Blades,3.84615384615%,1.46153846154
+9:Volt Switch,3.84615384615%,1.46153846154
+10:Scald,3.84615384615%,1.46153846154
+11:Bug Bite,3.84615384615%,1.46153846154
+12:Grass Knot,3.84615384615%,1.46153846154
+13:Dragon Pulse,3.84615384615%,1.46153846154
+14:Hyper Voice,3.84615384615%,1.46153846154
+15:Eruption,3.84615384615%,1.46153846154
+16:Sludge Bomb,3.84615384615%,1.46153846154
+17:Thunder,3.84615384615%,1.46153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Salamence
+4:Smeargle
+5:Xerneas
+6:Talonflame
+7:Landorus
+8:Ferrothorn
+9:Amoonguss
+10:Whimsicott
+11:Infernape
+12:Rayquaza
+13:Kyogre
+14:Flygon
+15:Lugia
+16:Gyarados
+17:Clefairy
+18:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Talonflame
+6:Amoonguss
+7:Dialga
+8:Rayquaza
+9:Ho-Oh
+10:Scizor
+11:Kangaskhan
+12:Gengar
+13:Raichu

@@ -1,0 +1,130 @@
+193:Azelf|38
+ ---------- 
+Moves used:
+1:Skill Swap,65.7894736842%,25.0
+2:Thunder Wave,55.2631578947%,21.0
+3:Explosion,39.4736842105%,15.0
+4:Psychic,36.8421052632%,14.0
+5:Protect,31.5789473684%,12.0
+6:Psyshock,26.3157894737%,10.0
+7:Zen Headbutt,26.3157894737%,10.0
+8:Safeguard,23.6842105263%,9.0
+9:Knock Off,15.7894736842%,6.0
+10:Fire Punch,15.7894736842%,6.0
+11:Taunt,10.5263157895%,4.0
+12:Stealth Rock,7.89473684211%,3.0
+13:Trick,7.89473684211%,3.0
+14:Fire Blast,7.89473684211%,3.0
+15:Ice Punch,7.89473684211%,3.0
+16:Magic Coat,5.26315789474%,2.0
+17:Flamethrower,5.26315789474%,2.0
+18:Imprison,2.63157894737%,1.0
+19:Detect,2.63157894737%,1.0
+20:Reflect,2.63157894737%,1.0
+0:Other,2.63157894737%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,52.6315789474%,20.0
+2:Choice Band,23.6842105263%,9.0
+3:Mind Plate,15.7894736842%,6.0
+4:Normal Gem,2.63157894737%,1.0
+5:Life Orb,2.63157894737%,1.0
+6:Light Clay,2.63157894737%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,38.0
+
+ ---------- 
+Natures used:
+1:Timid,55.2631578947%,21.0
+2:Jolly,28.9473684211%,11.0
+3:Naive,10.5263157895%,4.0
+4:Modest,5.26315789474%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Landorus
+5:Xerneas
+6:Ferrothorn
+7:Musharna
+8:Kangaskhan
+9:Metagross
+10:Gardevoir
+11:Crobat
+12:Liepard
+13:Lugia
+14:Zapdos
+15:Sylveon
+16:Malamar
+17:Cresselia
+18:Gengar
+19:Zekrom
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,31.5789473684%,12.0
+2:Psychic,31.5789473684%,12.0
+3:Psyshock,21.0526315789%,8.0
+4:Zen Headbutt,5.26315789474%,2.0
+5:Knock Off,5.26315789474%,2.0
+6:Fire Blast,5.26315789474%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,11.1111111111%,4.22222222222
+2:Dazzling Gleam,8.33333333333%,3.16666666667
+3:Water Spout,8.33333333333%,3.16666666667
+4:Origin Pulse,5.55555555556%,2.11111111111
+5:Sucker Punch,5.55555555556%,2.11111111111
+6:Knock Off,5.55555555556%,2.11111111111
+7:Precipice Blades,2.77777777778%,1.05555555556
+8:Play Rough,2.77777777778%,1.05555555556
+9:Scald,2.77777777778%,1.05555555556
+10:Brave Bird,2.77777777778%,1.05555555556
+11:Dragon Pulse,2.77777777778%,1.05555555556
+12:Hyper Voice,2.77777777778%,1.05555555556
+13:Fake Out,2.77777777778%,1.05555555556
+14:Shadow Ball,2.77777777778%,1.05555555556
+15:Frustration,2.77777777778%,1.05555555556
+16:Thunderbolt,2.77777777778%,1.05555555556
+17:Ice Beam,2.77777777778%,1.05555555556
+18:Double-Edge,2.77777777778%,1.05555555556
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Amoonguss
+2:Meowstic
+3:Crobat
+4:Kangaskhan
+5:Yveltal
+6:Aegislash
+7:Talonflame
+8:Kyurem
+9:Whimsicott
+10:Palkia
+11:Groudon
+12:Blaziken
+13:Scizor
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Mawile
+6:Yveltal
+7:Aegislash
+8:Talonflame
+9:Thundurus
+10:Weavile
+11:Rayquaza
+12:Latios
+13:Salamence

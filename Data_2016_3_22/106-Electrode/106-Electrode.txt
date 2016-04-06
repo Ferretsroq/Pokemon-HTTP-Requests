@@ -1,0 +1,66 @@
+106:Electrode|1
+ ---------- 
+Moves used:
+1:Taunt,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Thunder,100.0%,1.0
+4:Thunderbolt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Soundproof,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Ferrothorn
+5:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunder,50.0%,0.5
+2:Thunderbolt,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,23.5294117647%,0.235294117647
+2:Dazzling Gleam,11.7647058824%,0.117647058824
+3:Double-Edge,11.7647058824%,0.117647058824
+4:Origin Pulse,5.88235294118%,0.0588235294118
+5:Moonblast,5.88235294118%,0.0588235294118
+6:Scald,5.88235294118%,0.0588235294118
+7:Earth Power,5.88235294118%,0.0588235294118
+8:Knock Off,5.88235294118%,0.0588235294118
+9:Return,5.88235294118%,0.0588235294118
+10:Earthquake,5.88235294118%,0.0588235294118
+11:Ice Beam,5.88235294118%,0.0588235294118
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Yveltal
+3:Weavile
+4:Rayquaza
+5:Kyogre
+6:Smeargle
+7:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Landorus
+6:Weavile
+7:Ludicolo

@@ -1,0 +1,53 @@
+175:Hariyama|1
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Fake Out,100.0%,1.0
+4:Ice Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Amoonguss
+2:Cresselia
+3:Dialga
+4:Kyogre
+5:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,66.6666666667%,0.666666666667
+2:Ice Punch,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,20.0%,0.2
+2:Dazzling Gleam,20.0%,0.2
+3:Earth Power,20.0%,0.2
+4:Water Spout,20.0%,0.2
+5:Psychic,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Breloom
+3:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Musharna
+4:Groudon

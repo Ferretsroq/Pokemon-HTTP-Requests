@@ -1,0 +1,61 @@
+280:Meowstic-F|8
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,8.0
+2:Psychic,87.5%,7.0
+3:Thunder Wave,87.5%,7.0
+4:Trick,62.5%,5.0
+5:Hidden Power,25.0%,2.0
+6:Psyshock,12.5%,1.0
+7:Shadow Ball,12.5%,1.0
+8:Protect,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Chesto Berry,62.5%,5.0
+2:Focus Sash,37.5%,3.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Yveltal
+3:Talonflame
+4:Mawile
+5:Ludicolo
+6:Groudon
+7:Ho-Oh
+8:Azumarill
+9:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,100.0%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,40.0%,3.2
+2:Dazzling Gleam,40.0%,3.2
+3:Rock Slide,20.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Landorus
+4:Smeargle
+5:Crobat
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Landorus

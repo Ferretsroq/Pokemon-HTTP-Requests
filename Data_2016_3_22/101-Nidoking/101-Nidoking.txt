@@ -1,0 +1,91 @@
+101:Nidoking|25
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,25.0
+2:Sludge Bomb,92.0%,23.0
+3:Protect,80.0%,20.0
+4:Ice Beam,56.0%,14.0
+5:Flamethrower,44.0%,11.0
+6:Poison Jab,8.0%,2.0
+7:Sucker Punch,8.0%,2.0
+8:Superpower,8.0%,2.0
+9:Thunder,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,56.0%,14.0
+2:Expert Belt,24.0%,6.0
+3:Choice Scarf,20.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,25.0
+
+ ---------- 
+Natures used:
+1:Modest,64.0%,16.0
+2:Timid,20.0%,5.0
+3:Naive,8.0%,2.0
+4:Adamant,8.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Giratina
+6:Togekiss
+7:Rayquaza
+8:Kangaskhan
+9:Tornadus
+10:Mienshao
+11:Metagross
+12:Thundurus
+13:Cinccino
+14:Smeargle
+15:Mewtwo
+16:Yveltal
+17:Meowstic
+18:Terrakion
+19:Palkia
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,42.8571428571%,10.7142857143
+2:Poison Jab,14.2857142857%,3.57142857143
+3:Sludge Bomb,14.2857142857%,3.57142857143
+4:Ice Beam,14.2857142857%,3.57142857143
+5:Flamethrower,14.2857142857%,3.57142857143
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,18.75%,4.6875
+2:Origin Pulse,12.5%,3.125
+3:Moonblast,12.5%,3.125
+4:Earthquake,12.5%,3.125
+5:Double-Edge,12.5%,3.125
+6:Dragon Ascent,6.25%,1.5625
+7:Precipice Blades,6.25%,1.5625
+8:Return,6.25%,1.5625
+9:Explosion,6.25%,1.5625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Thundurus
+3:Ferrothorn
+4:Dialga
+5:Groudon
+6:Salamence
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Landorus
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Groudon

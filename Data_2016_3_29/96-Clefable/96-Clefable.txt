@@ -1,0 +1,124 @@
+96:Clefable|48
+ ---------- 
+Moves used:
+1:Follow Me,85.4166666667%,41.0
+2:Moonblast,45.8333333333%,22.0
+3:Thunder Wave,41.6666666667%,20.0
+4:Ice Beam,35.4166666667%,17.0
+5:Protect,33.3333333333%,16.0
+6:Minimize,33.3333333333%,16.0
+7:Helping Hand,25.0%,12.0
+8:Encore,25.0%,12.0
+9:Moonlight,18.75%,9.0
+10:Magic Coat,16.6666666667%,8.0
+11:Calm Mind,14.5833333333%,7.0
+12:Stored Power,12.5%,6.0
+13:Dazzling Gleam,4.16666666667%,2.0
+14:After You,2.08333333333%,1.0
+15:Charge Beam,2.08333333333%,1.0
+16:Cosmic Power,2.08333333333%,1.0
+17:Endeavor,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,54.1666666667%,26.0
+2:Leftovers,16.6666666667%,8.0
+3:Kee Berry,14.5833333333%,7.0
+4:Rocky Helmet,6.25%,3.0
+5:Mental Herb,4.16666666667%,2.0
+6:Toxic Orb,2.08333333333%,1.0
+7:Babiri Berry,2.08333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Unaware,79.1666666667%,38.0
+2:Magic Guard,18.75%,9.0
+3:Cute Charm,2.08333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,58.3333333333%,28.0
+2:Calm,29.1666666667%,14.0
+3:Modest,8.33333333333%,4.0
+4:Sassy,2.08333333333%,1.0
+5:Relaxed,2.08333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Rayquaza
+4:Kyogre
+5:Salamence
+6:Thundurus
+7:Xerneas
+8:Mewtwo
+9:Yveltal
+10:Cresselia
+11:Smeargle
+12:Aegislash
+13:Talonflame
+14:Terrakion
+15:Ferrothorn
+16:Weavile
+17:Garchomp
+18:Stoutland
+19:Dialga
+20:Infernape
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,42.8571428571%,20.5714285714
+2:Stored Power,35.7142857143%,17.1428571429
+3:Moonblast,21.4285714286%,10.2857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,15.625%,7.5
+2:Origin Pulse,9.375%,4.5
+3:Dazzling Gleam,9.375%,4.5
+4:Double-Edge,9.375%,4.5
+5:Scald,6.25%,3.0
+6:Iron Head,6.25%,3.0
+7:Flash Cannon,6.25%,3.0
+8:Hyper Voice,6.25%,3.0
+9:Play Rough,3.125%,1.5
+10:Gyro Ball,3.125%,1.5
+11:Eruption,3.125%,1.5
+12:Extreme Speed,3.125%,1.5
+13:Sacred Fire,3.125%,1.5
+14:Frustration,3.125%,1.5
+15:Sludge Bomb,3.125%,1.5
+16:Thunder,3.125%,1.5
+17:Thunderbolt,3.125%,1.5
+18:Flamethrower,3.125%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Xerneas
+3:Groudon
+4:Yveltal
+5:Talonflame
+6:Whimsicott
+7:Cresselia
+8:Dialga
+9:Salamence
+10:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Dialga
+5:Mawile
+6:Salamence
+7:Thundurus
+8:Ferrothorn
+9:Rayquaza
+10:Groudon
+11:Ludicolo
+12:Ho-Oh
+13:Golduck
+14:Nidoking

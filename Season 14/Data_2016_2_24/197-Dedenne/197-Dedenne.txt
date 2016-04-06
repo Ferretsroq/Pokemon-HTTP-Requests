@@ -1,0 +1,90 @@
+197:Dedenne|29
+ ---------- 
+Moves used:
+1:Nuzzle,86.2068965517%,25.0
+2:Super Fang,72.4137931034%,21.0
+3:Parabolic Charge,68.9655172414%,20.0
+4:Protect,58.6206896552%,17.0
+5:Eerie Impulse,41.3793103448%,12.0
+6:Entrainment,41.3793103448%,12.0
+7:Swagger,20.6896551724%,6.0
+8:Helping Hand,10.3448275862%,3.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,68.9655172414%,20.0
+2:Focus Sash,27.5862068966%,8.0
+3:Lum Berry,3.44827586207%,1.0
+
+ ---------- 
+Abilities used:
+1:Cheek Pouch,82.7586206897%,24.0
+2:Plus,13.7931034483%,4.0
+3:Pickup,3.44827586207%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,75.8620689655%,22.0
+2:Timid,13.7931034483%,4.0
+3:Calm,10.3448275862%,3.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kyogre
+3:Rayquaza
+4:Mawile
+5:Ferrothorn
+6:Reshiram
+7:Tornadus
+8:Palkia
+9:Groudon
+10:Smeargle
+11:Gengar
+12:Excadrill
+13:Aerodactyl
+14:Venusaur
+15:Xerneas
+16:Talonflame
+17:Landorus
+18:Liepard
+19:Illumise
+20:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Parabolic Charge,100.0%,29.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,19.2307692308%,5.57692307692
+2:Moonblast,11.5384615385%,3.34615384615
+3:Water Spout,11.5384615385%,3.34615384615
+4:Earthquake,11.5384615385%,3.34615384615
+5:Precipice Blades,7.69230769231%,2.23076923077
+6:Iron Head,7.69230769231%,2.23076923077
+7:Play Rough,3.84615384615%,1.11538461538
+8:Earth Power,3.84615384615%,1.11538461538
+9:Hyper Voice,3.84615384615%,1.11538461538
+10:Waterfall,3.84615384615%,1.11538461538
+11:Thunder,3.84615384615%,1.11538461538
+12:Ice Beam,3.84615384615%,1.11538461538
+13:Double-Edge,3.84615384615%,1.11538461538
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Klefki
+2:Talonflame
+3:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Landorus
+4:Groudon
+5:Mawile
+6:Kyurem
+7:Rayquaza
+8:Salamence
+9:Kangaskhan

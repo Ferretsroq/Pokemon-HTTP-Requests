@@ -1,0 +1,142 @@
+42:Infernape|179
+ ---------- 
+Moves used:
+1:Fake Out,98.3240223464%,176.0
+2:Close Combat,94.4134078212%,169.0
+3:Overheat,73.7430167598%,132.0
+4:Quick Guard,55.3072625698%,99.0
+5:Feint,34.6368715084%,62.0
+6:Endeavor,16.7597765363%,30.0
+7:Taunt,8.37988826816%,15.0
+8:Mach Punch,3.91061452514%,7.0
+9:Protect,3.35195530726%,6.0
+10:Flare Blitz,2.23463687151%,4.0
+11:Hidden Power,1.67597765363%,3.0
+12:Thunder Punch,1.67597765363%,3.0
+13:Fire Punch,1.67597765363%,3.0
+14:Gunk Shot,1.11731843575%,2.0
+15:Earthquake,1.11731843575%,2.0
+16:Fire Blast,0.558659217877%,1.0
+17:Low Kick,0.558659217877%,1.0
+18:Roar,0.558659217877%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,82.6815642458%,148.0
+2:Life Orb,17.3184357542%,31.0
+
+ ---------- 
+Abilities used:
+1:Blaze,81.5642458101%,146.0
+2:Iron Fist,18.4357541899%,33.0
+
+ ---------- 
+Natures used:
+1:Hasty,41.3407821229%,74.0
+2:Naive,35.7541899441%,64.0
+3:Jolly,20.1117318436%,36.0
+4:Brave,1.67597765363%,3.0
+5:Adamant,1.11731843575%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Rayquaza
+4:Talonflame
+5:Zekrom
+6:Salamence
+7:Kyurem
+8:Palkia
+9:Amoonguss
+10:Ho-Oh
+11:Ferrothorn
+12:Rotom
+13:Cresselia
+14:Groudon
+15:Kangaskhan
+16:Golduck
+17:Meowstic
+18:Landorus
+19:Scizor
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,60.2739726027%,107.890410959
+2:Overheat,26.0273972603%,46.5890410959
+3:Feint,6.84931506849%,12.2602739726
+4:Mach Punch,2.7397260274%,4.90410958904
+5:Flare Blitz,1.3698630137%,2.45205479452
+6:Fake Out,1.3698630137%,2.45205479452
+7:Fire Blast,1.3698630137%,2.45205479452
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.2%,20.048
+2:Precipice Blades,10.4%,18.616
+3:Water Spout,9.6%,17.184
+4:Rock Slide,5.6%,10.024
+5:Eruption,4.8%,8.592
+6:Earth Power,4.0%,7.16
+7:Hyper Voice,4.0%,7.16
+8:Thunderbolt,4.0%,7.16
+9:Double-Edge,4.0%,7.16
+10:Origin Pulse,3.2%,5.728
+11:Brave Bird,3.2%,5.728
+12:Dragon Ascent,2.4%,4.296
+13:Sucker Punch,2.4%,4.296
+14:Extreme Speed,2.4%,4.296
+15:Sludge Bomb,2.4%,4.296
+16:Earthquake,2.4%,4.296
+17:Play Rough,1.6%,2.864
+18:Snarl,1.6%,2.864
+19:Dragon Pulse,1.6%,2.864
+20:Flare Blitz,1.6%,2.864
+0:Other,16.0%,28.64
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Xerneas
+5:Smeargle
+6:Ferrothorn
+7:Kangaskhan
+8:Mawile
+9:Yveltal
+10:Kyurem
+11:Crobat
+12:Talonflame
+13:Weavile
+14:Klefki
+15:Landorus
+16:Thundurus
+17:Tornadus
+18:Amoonguss
+19:Bronzong
+20:Camerupt
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Landorus
+6:Rayquaza
+7:Talonflame
+8:Salamence
+9:Mawile
+10:Thundurus
+11:Dialga
+12:Yveltal
+13:Gengar
+14:Palkia
+15:Kyogre
+16:Greninja
+17:Ferrothorn
+18:Conkeldurr
+19:Cresselia
+20:Togekiss

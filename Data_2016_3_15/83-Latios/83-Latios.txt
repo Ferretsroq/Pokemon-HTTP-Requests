@@ -1,0 +1,37 @@
+83:Latios|1
+ ---------- 
+Moves used:
+1:Psyshock,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Trick,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Groudon
+3:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

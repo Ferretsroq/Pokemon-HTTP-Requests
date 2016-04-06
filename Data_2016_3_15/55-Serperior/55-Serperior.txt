@@ -1,0 +1,49 @@
+55:Serperior|5
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,5.0
+2:Protect,100.0%,5.0
+3:Glare,100.0%,5.0
+4:Taunt,60.0%,3.0
+5:Hidden Power,40.0%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Garchomp
+3:Kyogre
+4:Mawile
+5:Talonflame
+6:Tornadus
+7:Rayquaza
+8:Salamence
+9:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,1.66666666667
+2:Brave Bird,33.3333333333%,1.66666666667
+3:Rock Slide,33.3333333333%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame

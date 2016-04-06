@@ -1,0 +1,109 @@
+169:Gothorita|51
+ ---------- 
+Moves used:
+1:Helping Hand,76.4705882353%,39.0
+2:Protect,74.5098039216%,38.0
+3:Trick Room,72.5490196078%,37.0
+4:Heal Pulse,35.2941176471%,18.0
+5:Psyshock,31.3725490196%,16.0
+6:Gravity,21.568627451%,11.0
+7:Dark Pulse,13.7254901961%,7.0
+8:Taunt,13.7254901961%,7.0
+9:Energy Ball,11.7647058824%,6.0
+10:Skill Swap,11.7647058824%,6.0
+11:Shadow Ball,11.7647058824%,6.0
+12:Psychic,9.80392156863%,5.0
+13:Thunder Wave,7.8431372549%,4.0
+14:Sleep Talk,5.88235294118%,3.0
+15:Calm Mind,1.96078431373%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,51.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,51.0
+
+ ---------- 
+Natures used:
+1:Bold,60.7843137255%,31.0
+2:Sassy,37.2549019608%,19.0
+3:Calm,1.96078431373%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Palkia
+4:Kyurem
+5:Ferrothorn
+6:Rayquaza
+7:Lilligant
+8:Heatran
+9:Manectric
+10:Smeargle
+11:Thundurus
+12:Kangaskhan
+13:Gengar
+14:Landorus
+15:Whimsicott
+16:Hitmontop
+17:Ditto
+18:Reshiram
+19:Xerneas
+20:Klefki
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psyshock,71.4285714286%,36.4285714286
+2:Dark Pulse,14.2857142857%,7.28571428571
+3:Psychic,14.2857142857%,7.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.1428571429%,8.74285714286
+2:Origin Pulse,14.2857142857%,7.28571428571
+3:Precipice Blades,11.4285714286%,5.82857142857
+4:Dragon Ascent,5.71428571429%,2.91428571429
+5:Earth Power,5.71428571429%,2.91428571429
+6:Water Spout,5.71428571429%,2.91428571429
+7:Moonblast,2.85714285714%,1.45714285714
+8:Spacial Rend,2.85714285714%,1.45714285714
+9:Brave Bird,2.85714285714%,1.45714285714
+10:Dark Pulse,2.85714285714%,1.45714285714
+11:Feint,2.85714285714%,1.45714285714
+12:Eruption,2.85714285714%,1.45714285714
+13:Knock Off,2.85714285714%,1.45714285714
+14:Return,2.85714285714%,1.45714285714
+15:Mach Punch,2.85714285714%,1.45714285714
+16:Earthquake,2.85714285714%,1.45714285714
+17:Ice Beam,2.85714285714%,1.45714285714
+18:Flamethrower,2.85714285714%,1.45714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Terrakion
+3:Mienshao
+4:Smeargle
+5:Electrode
+6:Gengar
+7:Parasect
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Yveltal
+6:Landorus
+7:Landorus
+8:Bisharp
+9:Cresselia
+10:Palkia
+11:Infernape
+12:Breloom
+13:Ho-Oh
+14:Kangaskhan

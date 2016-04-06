@@ -1,0 +1,138 @@
+146:Aurorus|95
+ ---------- 
+Moves used:
+1:Protect,81.0526315789%,77.0
+2:Nature Power,67.3684210526%,64.0
+3:Mirror Coat,63.1578947368%,60.0
+4:Roar,62.1052631579%,59.0
+5:Hyper Voice,30.5263157895%,29.0
+6:Ancient Power,24.2105263158%,23.0
+7:Encore,17.8947368421%,17.0
+8:Hyper Beam,17.8947368421%,17.0
+9:Freeze-Dry,14.7368421053%,14.0
+10:Earth Power,6.31578947368%,6.0
+11:Sleep Talk,3.15789473684%,3.0
+12:Blizzard,2.10526315789%,2.0
+13:Dragon Tail,1.05263157895%,1.0
+14:Thunder Wave,1.05263157895%,1.0
+15:Ice Beam,1.05263157895%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,57.8947368421%,55.0
+2:Mental Herb,17.8947368421%,17.0
+3:Choice Specs,9.47368421053%,9.0
+4:Choice Scarf,8.42105263158%,8.0
+5:Icicle Plate,2.10526315789%,2.0
+6:Assault Vest,1.05263157895%,1.0
+7:Life Orb,1.05263157895%,1.0
+8:Never-Melt Ice,1.05263157895%,1.0
+
+ ---------- 
+Abilities used:
+1:Refrigerate,96.8421052632%,92.0
+2:Snow Warning,3.15789473684%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,50.5263157895%,48.0
+2:Calm,21.0526315789%,20.0
+3:Quiet,20.0%,19.0
+4:Timid,8.42105263158%,8.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Liepard
+3:Pinsir
+4:Lucario
+5:Carbink
+6:Groudon
+7:Probopass
+8:Xerneas
+9:Giratina
+10:Ditto
+11:Kangaskhan
+12:Crobat
+13:Mewtwo
+14:Venusaur
+15:Hitmontop
+16:Kyurem
+17:Reshiram
+18:Giratina
+19:Palkia
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nature Power,66.6666666667%,63.3333333333
+2:Hyper Voice,22.2222222222%,21.1111111111
+3:Mirror Coat,6.06060606061%,5.75757575758
+4:Blizzard,5.05050505051%,4.79797979798
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,8.51063829787%,8.08510638298
+2:Dazzling Gleam,8.51063829787%,8.08510638298
+3:Water Spout,8.51063829787%,8.08510638298
+4:Low Kick,8.51063829787%,8.08510638298
+5:Moonblast,6.3829787234%,6.06382978723
+6:Iron Head,6.3829787234%,6.06382978723
+7:Earth Power,6.3829787234%,6.06382978723
+8:Extreme Speed,6.3829787234%,6.06382978723
+9:Precipice Blades,4.25531914894%,4.04255319149
+10:Gyro Ball,4.25531914894%,4.04255319149
+11:Hyper Voice,4.25531914894%,4.04255319149
+12:Dragon Ascent,2.12765957447%,2.02127659574
+13:Sacred Sword,2.12765957447%,2.02127659574
+14:Bullet Punch,2.12765957447%,2.02127659574
+15:Flare Blitz,2.12765957447%,2.02127659574
+16:Sucker Punch,2.12765957447%,2.02127659574
+17:Hidden Power,2.12765957447%,2.02127659574
+18:Sleep Talk,2.12765957447%,2.02127659574
+19:Giga Drain,2.12765957447%,2.02127659574
+20:High Jump Kick,2.12765957447%,2.02127659574
+0:Other,8.51063829787%,8.08510638298
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Salamence
+5:Crobat
+6:Rayquaza
+7:Rayquaza
+8:Liepard
+9:Kangaskhan
+10:Thundurus
+11:Smeargle
+12:Landorus
+13:Whimsicott
+14:Kyogre
+15:Gengar
+16:Yveltal
+17:Amoonguss
+18:Togekiss
+19:Weavile
+20:Garchomp
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Mawile
+8:Aegislash
+9:Talonflame
+10:Ferrothorn
+11:Mienshao
+12:Cresselia
+13:Rayquaza
+14:Kyogre
+15:Scizor
+16:Clefairy
+17:Venusaur

@@ -1,0 +1,126 @@
+93:Giratina|58
+ ---------- 
+Moves used:
+1:Protect,86.2068965517%,50.0
+2:Shadow Force,72.4137931034%,42.0
+3:Will-O-Wisp,67.2413793103%,39.0
+4:Substitute,46.5517241379%,27.0
+5:Shadow Sneak,34.4827586207%,20.0
+6:Dragon Pulse,15.5172413793%,9.0
+7:Earth Power,13.7931034483%,8.0
+8:Calm Mind,13.7931034483%,8.0
+9:Shadow Ball,13.7931034483%,8.0
+10:Hex,12.0689655172%,7.0
+11:Thunder Wave,12.0689655172%,7.0
+12:Tailwind,5.1724137931%,3.0
+13:Dragon Claw,5.1724137931%,3.0
+14:Toxic,1.72413793103%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,72.4137931034%,42.0
+2:Weakness Policy,27.5862068966%,16.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,58.0
+
+ ---------- 
+Natures used:
+1:Careful,55.1724137931%,32.0
+2:Modest,13.7931034483%,8.0
+3:Bold,13.7931034483%,8.0
+4:Adamant,10.3448275862%,6.0
+5:Jolly,5.1724137931%,3.0
+6:Impish,1.72413793103%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Dialga
+4:Cresselia
+5:Mr. Mime
+6:Gengar
+7:Ferrothorn
+8:Whimsicott
+9:Talonflame
+10:Mienshao
+11:Amoonguss
+12:Weavile
+13:Salamence
+14:Rhyperior
+15:Gastrodon
+16:Crobat
+17:Thundurus
+18:Liepard
+19:Manectric
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,30.4347826087%,17.652173913
+2:Shadow Force,26.0869565217%,15.1304347826
+3:Dragon Pulse,26.0869565217%,15.1304347826
+4:Dragon Claw,8.69565217391%,5.04347826087
+5:Hex,4.34782608696%,2.52173913043
+6:Earth Power,4.34782608696%,2.52173913043
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,16.1290322581%,9.35483870968
+2:Dragon Ascent,6.45161290323%,3.74193548387
+3:Moonblast,6.45161290323%,3.74193548387
+4:Dragon Pulse,6.45161290323%,3.74193548387
+5:Precipice Blades,3.22580645161%,1.87096774194
+6:Dazzling Gleam,3.22580645161%,1.87096774194
+7:Foul Play,3.22580645161%,1.87096774194
+8:Spacial Rend,3.22580645161%,1.87096774194
+9:Roar of Time,3.22580645161%,1.87096774194
+10:Draco Meteor,3.22580645161%,1.87096774194
+11:Bullet Punch,3.22580645161%,1.87096774194
+12:Brave Bird,3.22580645161%,1.87096774194
+13:Dark Pulse,3.22580645161%,1.87096774194
+14:Sucker Punch,3.22580645161%,1.87096774194
+15:Gyro Ball,3.22580645161%,1.87096774194
+16:Water Spout,3.22580645161%,1.87096774194
+17:Hyper Voice,3.22580645161%,1.87096774194
+18:Eruption,3.22580645161%,1.87096774194
+19:Earthquake,3.22580645161%,1.87096774194
+20:Blizzard,3.22580645161%,1.87096774194
+0:Other,6.45161290323%,3.74193548387
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Cresselia
+4:Rayquaza
+5:Groudon
+6:Kyogre
+7:Gengar
+8:Yveltal
+9:Amoonguss
+10:Palkia
+11:Dialga
+12:Sableye
+13:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Dialga
+6:Salamence
+7:Yveltal
+8:Talonflame
+9:Kyurem
+10:Landorus
+11:Hydreigon
+12:Ferrothorn
+13:Liepard
+14:Palkia
+15:Weavile
+16:Scizor

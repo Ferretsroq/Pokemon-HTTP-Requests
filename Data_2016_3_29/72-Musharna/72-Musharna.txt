@@ -1,0 +1,119 @@
+72:Musharna|102
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,102.0
+2:Gravity,93.137254902%,95.0
+3:Hypnosis,93.137254902%,95.0
+4:Psychic,74.5098039216%,76.0
+5:Helping Hand,18.6274509804%,19.0
+6:Hidden Power,8.82352941176%,9.0
+7:Magic Coat,4.90196078431%,5.0
+8:Protect,3.92156862745%,4.0
+9:After You,2.94117647059%,3.0
+
+ ---------- 
+Items used:
+1:Lum Berry,64.7058823529%,66.0
+2:Mental Herb,35.2941176471%,36.0
+
+ ---------- 
+Abilities used:
+1:Telepathy,97.0588235294%,99.0
+2:Forewarn,2.94117647059%,3.0
+
+ ---------- 
+Natures used:
+1:Sassy,82.3529411765%,84.0
+2:Relaxed,9.80392156863%,10.0
+3:Calm,3.92156862745%,4.0
+4:Bold,3.92156862745%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Landorus
+4:Smeargle
+5:Kyogre
+6:Xerneas
+7:Salamence
+8:Mawile
+9:Talonflame
+10:Ditto
+11:Yveltal
+12:Mienshao
+13:Metagross
+14:Aron
+15:Thundurus
+16:Lickilicky
+17:Crobat
+18:Zapdos
+19:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,96.2962962963%,98.2222222222
+2:Hidden Power,3.7037037037%,3.77777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.4603174603%,17.8095238095
+2:Precipice Blades,9.52380952381%,9.71428571429
+3:Origin Pulse,9.52380952381%,9.71428571429
+4:Hyper Voice,7.93650793651%,8.09523809524
+5:Water Spout,6.34920634921%,6.47619047619
+6:Dragon Ascent,4.7619047619%,4.85714285714
+7:Ice Beam,4.7619047619%,4.85714285714
+8:Eruption,3.1746031746%,3.2380952381
+9:Extreme Speed,3.1746031746%,3.2380952381
+10:Sacred Fire,3.1746031746%,3.2380952381
+11:Explosion,3.1746031746%,3.2380952381
+12:Double-Edge,3.1746031746%,3.2380952381
+13:Moonblast,1.5873015873%,1.61904761905
+14:Freeze-Dry,1.5873015873%,1.61904761905
+15:Scald,1.5873015873%,1.61904761905
+16:Iron Head,1.5873015873%,1.61904761905
+17:Power Whip,1.5873015873%,1.61904761905
+18:Dragon Pulse,1.5873015873%,1.61904761905
+19:Dark Pulse,1.5873015873%,1.61904761905
+20:Sucker Punch,1.5873015873%,1.61904761905
+0:Other,11.1111111111%,11.3333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Amoonguss
+3:Salamence
+4:Xerneas
+5:Groudon
+6:Kyogre
+7:Crobat
+8:Gengar
+9:Talonflame
+10:Landorus
+11:Dialga
+12:Rayquaza
+13:Kangaskhan
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Rayquaza
+7:Landorus
+8:Ferrothorn
+9:Rayquaza
+10:Ho-Oh
+11:Yveltal
+12:Thundurus
+13:Dialga
+14:Abomasnow
+15:Kyogre
+16:Mawile
+17:Lapras
+18:Gyarados
+19:Charizard

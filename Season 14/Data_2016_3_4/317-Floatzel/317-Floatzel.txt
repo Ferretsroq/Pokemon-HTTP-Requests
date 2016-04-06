@@ -1,0 +1,51 @@
+317:Floatzel|2
+ ---------- 
+Moves used:
+1:Soak,50.0%,1.0
+2:Aqua Jet,50.0%,1.0
+3:Aqua Tail,50.0%,1.0
+4:Me First,50.0%,1.0
+5:Water Sport,50.0%,1.0
+6:Taunt,50.0%,1.0
+7:Protect,50.0%,1.0
+8:Waterfall,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,50.0%,1.0
+2:Lum Berry,50.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Veil,50.0%,1.0
+2:Swift Swim,50.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,50.0%,1.0
+2:Impish,50.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Dialga
+3:Rayquaza
+4:Kyogre
+5:Gardevoir
+6:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,1.0
+2:Earthquake,50.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Haxorus

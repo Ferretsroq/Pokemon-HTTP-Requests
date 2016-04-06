@@ -1,0 +1,45 @@
+197:Mantine|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Wide Guard,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Helping Hand,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Ferrothorn
+3:Kyurem
+4:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,40.0%,0.4
+2:Ice Beam,40.0%,0.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre

@@ -1,0 +1,43 @@
+160:Rotom-Frost|1
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,1.0
+2:Dark Pulse,100.0%,1.0
+3:Thunder,100.0%,1.0
+4:Blizzard,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Meowstic
+3:Talonflame
+4:Groudon
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,0.5
+2:Hyper Voice,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Salamence

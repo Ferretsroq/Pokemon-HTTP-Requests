@@ -1,0 +1,94 @@
+180:Misdreavus|57
+ ---------- 
+Moves used:
+1:Skill Swap,89.4736842105%,51.0
+2:Trick Room,87.7192982456%,50.0
+3:Thunder Wave,50.8771929825%,29.0
+4:Pain Split,45.6140350877%,26.0
+5:Imprison,33.3333333333%,19.0
+6:Magic Coat,31.5789473684%,18.0
+7:Will-O-Wisp,28.0701754386%,16.0
+8:Hex,12.2807017544%,7.0
+9:Icy Wind,8.77192982456%,5.0
+10:Foul Play,7.01754385965%,4.0
+11:Curse,3.50877192982%,2.0
+12:Shadow Ball,1.75438596491%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,57.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,57.0
+
+ ---------- 
+Natures used:
+1:Calm,66.6666666667%,38.0
+2:Sassy,19.298245614%,11.0
+3:Bold,12.2807017544%,7.0
+4:Timid,1.75438596491%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Smeargle
+4:Kyogre
+5:Ho-Oh
+6:Landorus
+7:Mawile
+8:Kangaskhan
+9:Dialga
+10:Hydreigon
+11:Whimsicott
+12:Ambipom
+13:Salamence
+14:Ferrothorn
+15:Cherrim
+16:Talonflame
+17:Mienshao
+18:Audino
+19:Rayquaza
+20:Latias
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,57.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,19.4444444444%,11.0833333333
+2:Precipice Blades,13.8888888889%,7.91666666667
+3:Origin Pulse,8.33333333333%,4.75
+4:Water Spout,8.33333333333%,4.75
+5:Dragon Ascent,5.55555555556%,3.16666666667
+6:Earth Power,5.55555555556%,3.16666666667
+7:Overheat,5.55555555556%,3.16666666667
+8:Hyper Voice,5.55555555556%,3.16666666667
+9:Rock Slide,5.55555555556%,3.16666666667
+10:Shadow Force,2.77777777778%,1.58333333333
+11:Psycho Cut,2.77777777778%,1.58333333333
+12:Eruption,2.77777777778%,1.58333333333
+13:Heat Wave,2.77777777778%,1.58333333333
+14:Fire Blast,2.77777777778%,1.58333333333
+15:Ice Beam,2.77777777778%,1.58333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Rayquaza
+5:Salamence
+6:Krookodile
+7:Giratina
+8:Heatran
+9:Palkia
+10:Kyogre
+11:Smeargle
+12:Mewtwo

@@ -1,0 +1,142 @@
+160:Hawlucha|88
+ ---------- 
+Moves used:
+1:Quick Guard,70.4545454545%,62.0
+2:Tailwind,55.6818181818%,49.0
+3:Encore,43.1818181818%,38.0
+4:Ally Switch,42.0454545455%,37.0
+5:Endeavor,40.9090909091%,36.0
+6:High Jump Kick,37.5%,33.0
+7:Acrobatics,20.4545454545%,18.0
+8:Sky Drop,12.5%,11.0
+9:Fling,11.3636363636%,10.0
+10:Entrainment,10.2272727273%,9.0
+11:Sky Attack,10.2272727273%,9.0
+12:Superpower,9.09090909091%,8.0
+13:Helping Hand,9.09090909091%,8.0
+14:Taunt,7.95454545455%,7.0
+15:Low Kick,4.54545454545%,4.0
+16:Flying Press,3.40909090909%,3.0
+17:Me First,3.40909090909%,3.0
+18:Roost,3.40909090909%,3.0
+19:Protect,2.27272727273%,2.0
+20:Thunder Punch,2.27272727273%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,38.6363636364%,34.0
+2:Fist Plate,14.7727272727%,13.0
+3:Power Herb,10.2272727273%,9.0
+4:Lum Berry,10.2272727273%,9.0
+5:Life Orb,7.95454545455%,7.0
+6:Light Ball,7.95454545455%,7.0
+7:King's Rock,3.40909090909%,3.0
+8:Mental Herb,2.27272727273%,2.0
+9:Rocky Helmet,1.13636363636%,1.0
+10:White Herb,1.13636363636%,1.0
+11:Yache Berry,1.13636363636%,1.0
+12:Sitrus Berry,1.13636363636%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,56.8181818182%,50.0
+2:Limber,42.0454545455%,37.0
+3:Mold Breaker,1.13636363636%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,87.5%,77.0
+2:Adamant,12.5%,11.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Rayquaza
+5:Lilligant
+6:Kyurem
+7:Kyurem
+8:Dialga
+9:Ferrothorn
+10:Gengar
+11:Cresselia
+12:Ho-Oh
+13:Landorus
+14:Porygon-Z
+15:Xerneas
+16:Togekiss
+17:Lapras
+18:Gothitelle
+19:Sableye
+20:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:High Jump Kick,47.3684210526%,41.6842105263
+2:Acrobatics,31.5789473684%,27.7894736842
+3:Sky Attack,10.5263157895%,9.26315789474
+4:Sky Drop,5.26315789474%,4.63157894737
+5:Me First,5.26315789474%,4.63157894737
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.3846153846%,13.5384615385
+2:Eruption,9.23076923077%,8.12307692308
+3:Origin Pulse,7.69230769231%,6.76923076923
+4:Hyper Voice,6.15384615385%,5.41538461538
+5:Thunderbolt,6.15384615385%,5.41538461538
+6:Brave Bird,4.61538461538%,4.06153846154
+7:Water Spout,4.61538461538%,4.06153846154
+8:Precipice Blades,3.07692307692%,2.70769230769
+9:Play Rough,3.07692307692%,2.70769230769
+10:Rock Slide,3.07692307692%,2.70769230769
+11:Psychic,3.07692307692%,2.70769230769
+12:Double-Edge,3.07692307692%,2.70769230769
+13:Dragon Ascent,1.53846153846%,1.35384615385
+14:Moonblast,1.53846153846%,1.35384615385
+15:Snarl,1.53846153846%,1.35384615385
+16:Bolt Strike,1.53846153846%,1.35384615385
+17:Psystrike,1.53846153846%,1.35384615385
+18:Psyshock,1.53846153846%,1.35384615385
+19:Bug Bite,1.53846153846%,1.35384615385
+20:Grass Knot,1.53846153846%,1.35384615385
+0:Other,15.3846153846%,13.5384615385
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Thundurus
+4:Mienshao
+5:Amoonguss
+6:Whimsicott
+7:Liepard
+8:Rayquaza
+9:Sableye
+10:Ludicolo
+11:Gengar
+12:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Thundurus
+5:Salamence
+6:Kangaskhan
+7:Talonflame
+8:Dialga
+9:Mawile
+10:Scizor
+11:Raichu
+12:Yveltal
+13:Landorus
+14:Zekrom
+15:Amoonguss
+16:Gothitelle
+17:Palkia
+18:Lopunny
+19:Rayquaza
+20:Latios

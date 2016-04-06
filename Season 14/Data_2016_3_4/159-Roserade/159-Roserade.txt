@@ -1,0 +1,116 @@
+159:Roserade|64
+ ---------- 
+Moves used:
+1:Sludge Bomb,100.0%,64.0
+2:Hidden Power,79.6875%,51.0
+3:Grass Knot,78.125%,50.0
+4:Giga Drain,53.125%,34.0
+5:Protect,46.875%,30.0
+6:Leaf Storm,17.1875%,11.0
+7:Sleep Powder,17.1875%,11.0
+8:Magical Leaf,3.125%,2.0
+9:Weather Ball,3.125%,2.0
+10:Energy Ball,1.5625%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,53.125%,34.0
+2:Life Orb,31.25%,20.0
+3:Focus Sash,12.5%,8.0
+4:Focus Band,3.125%,2.0
+
+ ---------- 
+Abilities used:
+1:Technician,82.8125%,53.0
+2:Natural Cure,17.1875%,11.0
+
+ ---------- 
+Natures used:
+1:Timid,95.3125%,61.0
+2:Modest,4.6875%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Klefki
+4:Talonflame
+5:Zekrom
+6:Mawile
+7:Groudon
+8:Altaria
+9:Palkia
+10:Dusclops
+11:Crobat
+12:Kangaskhan
+13:Amoonguss
+14:Lucario
+15:Smeargle
+16:Togetic
+17:Landorus
+18:Salamence
+19:Ditto
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,37.5%,24.0
+2:Grass Knot,20.8333333333%,13.3333333333
+3:Hidden Power,20.8333333333%,13.3333333333
+4:Giga Drain,20.8333333333%,13.3333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,18.1818181818%,11.6363636364
+2:Brave Bird,12.1212121212%,7.75757575758
+3:Double-Edge,9.09090909091%,5.81818181818
+4:Sucker Punch,6.06060606061%,3.87878787879
+5:Gyro Ball,6.06060606061%,3.87878787879
+6:Hyper Voice,6.06060606061%,3.87878787879
+7:Dragon Ascent,3.0303030303%,1.93939393939
+8:Origin Pulse,3.0303030303%,1.93939393939
+9:Oblivion Wing,3.0303030303%,1.93939393939
+10:Moonblast,3.0303030303%,1.93939393939
+11:Icicle Crash,3.0303030303%,1.93939393939
+12:Iron Head,3.0303030303%,1.93939393939
+13:Gunk Shot,3.0303030303%,1.93939393939
+14:Feint,3.0303030303%,1.93939393939
+15:Eruption,3.0303030303%,1.93939393939
+16:Psychic,3.0303030303%,1.93939393939
+17:Earthquake,3.0303030303%,1.93939393939
+18:Flamethrower,3.0303030303%,1.93939393939
+19:Fire Punch,3.0303030303%,1.93939393939
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Mawile
+5:Smeargle
+6:Cobalion
+7:Ferrothorn
+8:Dialga
+9:Gastrodon
+10:Rayquaza
+11:Ditto
+12:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Salamence
+3:Groudon
+4:Kangaskhan
+5:Talonflame
+6:Ferrothorn
+7:Weavile
+8:Yveltal
+9:Xerneas
+10:Greninja
+11:Landorus
+12:Cresselia
+13:Staraptor
+14:Rayquaza
+15:Mawile
+16:Ho-Oh

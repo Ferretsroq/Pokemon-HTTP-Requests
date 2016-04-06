@@ -1,0 +1,130 @@
+141:Aurorus|80
+ ---------- 
+Moves used:
+1:Protect,83.75%,67.0
+2:Nature Power,68.75%,55.0
+3:Mirror Coat,63.75%,51.0
+4:Roar,62.5%,50.0
+5:Hyper Voice,31.25%,25.0
+6:Ancient Power,21.25%,17.0
+7:Encore,20.0%,16.0
+8:Hyper Beam,18.75%,15.0
+9:Freeze-Dry,11.25%,9.0
+10:Earth Power,3.75%,3.0
+11:Sleep Talk,3.75%,3.0
+12:Dragon Tail,1.25%,1.0
+13:Thunder Wave,1.25%,1.0
+14:Ice Beam,1.25%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,63.75%,51.0
+2:Mental Herb,16.25%,13.0
+3:Choice Specs,7.5%,6.0
+4:Choice Scarf,7.5%,6.0
+5:Icicle Plate,2.5%,2.0
+6:Assault Vest,1.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Refrigerate,98.75%,79.0
+2:Snow Warning,1.25%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,52.5%,42.0
+2:Calm,20.0%,16.0
+3:Quiet,20.0%,16.0
+4:Timid,7.5%,6.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Pinsir
+4:Carbink
+5:Groudon
+6:Lucario
+7:Ditto
+8:Probopass
+9:Giratina
+10:Xerneas
+11:Kangaskhan
+12:Mewtwo
+13:Venusaur
+14:Crobat
+15:Reshiram
+16:Giratina
+17:Rayquaza
+18:Tyrantrum
+19:Talonflame
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nature Power,68.8311688312%,55.0649350649
+2:Hyper Voice,22.0779220779%,17.6623376623
+3:Mirror Coat,9.09090909091%,7.27272727273
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,10.2564102564%,8.20512820513
+2:Dazzling Gleam,7.69230769231%,6.15384615385
+3:Moonblast,7.69230769231%,6.15384615385
+4:Iron Head,7.69230769231%,6.15384615385
+5:Water Spout,7.69230769231%,6.15384615385
+6:Extreme Speed,7.69230769231%,6.15384615385
+7:Precipice Blades,5.12820512821%,4.10256410256
+8:Earth Power,5.12820512821%,4.10256410256
+9:Sucker Punch,5.12820512821%,4.10256410256
+10:Gyro Ball,5.12820512821%,4.10256410256
+11:Hyper Voice,5.12820512821%,4.10256410256
+12:Low Kick,5.12820512821%,4.10256410256
+13:Dragon Ascent,2.5641025641%,2.05128205128
+14:Sacred Sword,2.5641025641%,2.05128205128
+15:Flare Blitz,2.5641025641%,2.05128205128
+16:Hidden Power,2.5641025641%,2.05128205128
+17:High Jump Kick,2.5641025641%,2.05128205128
+18:Fire Blast,2.5641025641%,2.05128205128
+19:Psychic,2.5641025641%,2.05128205128
+20:Double-Edge,2.5641025641%,2.05128205128
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Xerneas
+4:Salamence
+5:Rayquaza
+6:Talonflame
+7:Liepard
+8:Kangaskhan
+9:Thundurus
+10:Smeargle
+11:Rayquaza
+12:Kyogre
+13:Landorus
+14:Amoonguss
+15:Whimsicott
+16:Togekiss
+17:Weavile
+18:Garchomp
+19:Ho-Oh
+20:Hitmontop
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Mawile
+5:Rayquaza
+6:Salamence
+7:Aegislash
+8:Ferrothorn
+9:Kangaskhan
+10:Talonflame
+11:Mienshao
+12:Cresselia
+13:Rayquaza
+14:Clefairy

@@ -1,0 +1,45 @@
+182:Dunsparce|1
+ ---------- 
+Moves used:
+1:Protect,100.0%,1.0
+2:Rock Slide,100.0%,1.0
+3:Agility,100.0%,1.0
+4:Headbutt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Rayquaza
+3:Kyogre
+4:Mawile
+5:Sneasel
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Headbutt,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,0.5
+2:Water Spout,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Greninja
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre

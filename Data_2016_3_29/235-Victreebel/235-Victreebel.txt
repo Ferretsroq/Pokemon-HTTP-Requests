@@ -1,0 +1,41 @@
+235:Victreebel|1
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,1.0
+2:Weather Ball,100.0%,1.0
+3:Encore,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Whimsicott
+3:Rayquaza
+4:Suicune
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

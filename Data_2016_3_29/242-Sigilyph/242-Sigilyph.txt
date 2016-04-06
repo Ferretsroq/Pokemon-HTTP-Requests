@@ -1,0 +1,39 @@
+242:Sigilyph|1
+ ---------- 
+Moves used:
+1:Air Slash,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Gravity,100.0%,1.0
+4:Hypnosis,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Wonder Skin,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Groudon
+3:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

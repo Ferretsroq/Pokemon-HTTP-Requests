@@ -1,0 +1,113 @@
+186:Audino|43
+ ---------- 
+Moves used:
+1:Trick Room,67.4418604651%,29.0
+2:Heal Pulse,62.7906976744%,27.0
+3:Helping Hand,53.488372093%,23.0
+4:Protect,27.9069767442%,12.0
+5:Draining Kiss,25.5813953488%,11.0
+6:Simple Beam,23.2558139535%,10.0
+7:Encore,20.9302325581%,9.0
+8:Safeguard,18.6046511628%,8.0
+9:Gravity,13.9534883721%,6.0
+10:After You,11.6279069767%,5.0
+11:Pain Split,11.6279069767%,5.0
+12:Heal Bell,11.6279069767%,5.0
+13:Toxic,11.6279069767%,5.0
+14:Dazzling Gleam,9.3023255814%,4.0
+15:Magic Coat,9.3023255814%,4.0
+16:Entrainment,6.97674418605%,3.0
+17:Baby-Doll Eyes,4.6511627907%,2.0
+18:Skill Swap,4.6511627907%,2.0
+19:Thunder Wave,4.6511627907%,2.0
+
+ ---------- 
+Items used:
+1:Audinite,65.1162790698%,28.0
+2:Mental Herb,18.6046511628%,8.0
+3:Safety Goggles,6.97674418605%,3.0
+4:Sitrus Berry,6.97674418605%,3.0
+5:Leftovers,2.32558139535%,1.0
+
+ ---------- 
+Abilities used:
+1:Healer,60.4651162791%,26.0
+2:Regenerator,39.5348837209%,17.0
+
+ ---------- 
+Natures used:
+1:Relaxed,39.5348837209%,17.0
+2:Sassy,30.2325581395%,13.0
+3:Bold,23.2558139535%,10.0
+4:Calm,6.97674418605%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Cresselia
+4:Landorus
+5:Ferrothorn
+6:Smeargle
+7:Talonflame
+8:Kyurem
+9:Xerneas
+10:Amoonguss
+11:Rayquaza
+12:Ho-Oh
+13:Slowbro
+14:Clefable
+15:Yveltal
+16:Greninja
+17:Thundurus
+18:Mawile
+19:Sableye
+20:Hitmontop
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,75.0%,32.25
+2:Draining Kiss,25.0%,10.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,20.6896551724%,8.89655172414
+2:Precipice Blades,10.3448275862%,4.44827586207
+3:Iron Head,10.3448275862%,4.44827586207
+4:Dazzling Gleam,6.89655172414%,2.96551724138
+5:Hyper Voice,6.89655172414%,2.96551724138
+6:Dragon Ascent,3.44827586207%,1.48275862069
+7:Origin Pulse,3.44827586207%,1.48275862069
+8:Moonblast,3.44827586207%,1.48275862069
+9:Icicle Crash,3.44827586207%,1.48275862069
+10:Scald,3.44827586207%,1.48275862069
+11:Bullet Punch,3.44827586207%,1.48275862069
+12:Water Spout,3.44827586207%,1.48275862069
+13:Extreme Speed,3.44827586207%,1.48275862069
+14:Iron Tail,3.44827586207%,1.48275862069
+15:Return,3.44827586207%,1.48275862069
+16:Earthquake,3.44827586207%,1.48275862069
+17:Ice Beam,3.44827586207%,1.48275862069
+18:Double-Edge,3.44827586207%,1.48275862069
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Landorus
+4:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Mawile
+4:Rayquaza
+5:Kyogre
+6:Salamence
+7:Kangaskhan
+8:Cresselia
+9:Weavile
+10:Absol
+11:Ludicolo
+12:Scizor

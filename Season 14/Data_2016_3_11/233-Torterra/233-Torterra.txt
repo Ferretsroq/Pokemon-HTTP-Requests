@@ -1,0 +1,71 @@
+233:Torterra|18
+ ---------- 
+Moves used:
+1:Wood Hammer,100.0%,18.0
+2:Earthquake,100.0%,18.0
+3:Wide Guard,94.4444444444%,17.0
+4:Rock Slide,66.6666666667%,12.0
+5:Stone Edge,27.7777777778%,5.0
+6:Protect,5.55555555556%,1.0
+7:Leech Seed,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Yache Berry,100.0%,18.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Adamant,72.2222222222%,13.0
+2:Relaxed,27.7777777778%,5.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Latias
+3:Dialga
+4:Groudon
+5:Latios
+6:Mawile
+7:Weavile
+8:Infernape
+9:Yveltal
+10:Xerneas
+11:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wood Hammer,66.6666666667%,12.0
+2:Earthquake,33.3333333333%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,14.2857142857%,2.57142857143
+2:Fire Punch,14.2857142857%,2.57142857143
+3:Brave Bird,7.14285714286%,1.28571428571
+4:Flare Blitz,7.14285714286%,1.28571428571
+5:Sucker Punch,7.14285714286%,1.28571428571
+6:Close Combat,7.14285714286%,1.28571428571
+7:Ice Beam,7.14285714286%,1.28571428571
+8:Flamethrower,7.14285714286%,1.28571428571
+9:Ice Punch,7.14285714286%,1.28571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Gothitelle
+3:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Kangaskhan
+4:Terrakion
+5:Heatran
+6:Groudon
+7:Latias
+8:Mawile

@@ -1,0 +1,45 @@
+156:Cofagrigus|1
+ ---------- 
+Moves used:
+1:Ally Switch,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Magic Coat,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Mummy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Landorus
+3:Togekiss
+4:Rayquaza
+5:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,33.3333333333%,0.333333333333
+2:Blizzard,33.3333333333%,0.333333333333
+3:Ice Beam,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyurem
+2:Salamence
+3:Ditto

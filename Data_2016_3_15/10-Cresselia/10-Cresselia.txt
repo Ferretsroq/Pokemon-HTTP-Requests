@@ -1,0 +1,137 @@
+10:Cresselia|159
+ ---------- 
+Moves used:
+1:Trick Room,96.8553459119%,154.0
+2:Skill Swap,85.534591195%,136.0
+3:Ice Beam,77.9874213836%,124.0
+4:Helping Hand,52.8301886792%,84.0
+5:Gravity,38.3647798742%,61.0
+6:Magic Coat,18.2389937107%,29.0
+7:Psychic,18.2389937107%,29.0
+8:Safeguard,3.14465408805%,5.0
+9:Thunder Wave,2.51572327044%,4.0
+10:Psyshock,1.88679245283%,3.0
+11:Icy Wind,1.88679245283%,3.0
+12:Protect,1.25786163522%,2.0
+13:Calm Mind,0.62893081761%,1.0
+14:Moonlight,0.62893081761%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,49.6855345912%,79.0
+2:Mental Herb,44.0251572327%,70.0
+3:Lum Berry,5.03144654088%,8.0
+4:Rocky Helmet,0.62893081761%,1.0
+5:Leftovers,0.62893081761%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,159.0
+
+ ---------- 
+Natures used:
+1:Sassy,70.4402515723%,112.0
+2:Relaxed,14.465408805%,23.0
+3:Bold,10.0628930818%,16.0
+4:Calm,3.77358490566%,6.0
+5:Quiet,0.62893081761%,1.0
+6:Serious,0.62893081761%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Mawile
+5:Xerneas
+6:Salamence
+7:Talonflame
+8:Weavile
+9:Dialga
+10:Ferrothorn
+11:Smeargle
+12:Amoonguss
+13:Palkia
+14:Rayquaza
+15:Thundurus
+16:Empoleon
+17:Ho-Oh
+18:Liepard
+19:Crobat
+20:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,84.4444444444%,134.266666667
+2:Psychic,13.3333333333%,21.2
+3:Psyshock,2.22222222222%,3.53333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.0%,19.08
+2:Moonblast,9.33333333333%,14.84
+3:Origin Pulse,8.0%,12.72
+4:Brave Bird,6.66666666667%,10.6
+5:Water Spout,6.66666666667%,10.6
+6:Knock Off,6.66666666667%,10.6
+7:Precipice Blades,5.33333333333%,8.48
+8:Iron Head,5.33333333333%,8.48
+9:Double-Edge,5.33333333333%,8.48
+10:Fire Punch,5.33333333333%,8.48
+11:Foul Play,4.0%,6.36
+12:Play Rough,2.66666666667%,4.24
+13:Flare Blitz,2.66666666667%,4.24
+14:Flamethrower,2.66666666667%,4.24
+15:Dragon Ascent,1.33333333333%,2.12
+16:Shadow Force,1.33333333333%,2.12
+17:Spacial Rend,1.33333333333%,2.12
+18:Power Whip,1.33333333333%,2.12
+19:Bullet Punch,1.33333333333%,2.12
+20:Gyro Ball,1.33333333333%,2.12
+0:Other,5.33333333333%,8.48
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Smeargle
+3:Rayquaza
+4:Groudon
+5:Landorus
+6:Thundurus
+7:Zekrom
+8:Rayquaza
+9:Gengar
+10:Xerneas
+11:Meowstic
+12:Whimsicott
+13:Liepard
+14:Cresselia
+15:Dialga
+16:Weavile
+17:Infernape
+18:Kyogre
+19:Ampharos
+20:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Talonflame
+5:Mawile
+6:Weavile
+7:Yveltal
+8:Kangaskhan
+9:Ferrothorn
+10:Landorus
+11:Liepard
+12:Cresselia
+13:Giratina
+14:Palkia
+15:Dialga
+16:Rayquaza
+17:Salamence
+18:Smeargle
+19:Scizor
+20:Gengar

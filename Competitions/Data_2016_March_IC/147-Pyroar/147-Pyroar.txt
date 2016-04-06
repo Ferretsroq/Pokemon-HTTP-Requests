@@ -1,0 +1,39 @@
+147:Pyroar|1
+ ---------- 
+Moves used:
+1:Snarl,100.0%,1.0
+2:Hyper Voice,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Flamethrower,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Unnerve,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Klefki
+3:Greninja
+4:Groudon
+5:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

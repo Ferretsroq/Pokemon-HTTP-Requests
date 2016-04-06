@@ -1,0 +1,75 @@
+220:Honchkrow|17
+ ---------- 
+Moves used:
+1:Brave Bird,100.0%,17.0
+2:Sucker Punch,100.0%,17.0
+3:Protect,100.0%,17.0
+4:Retaliate,76.4705882353%,13.0
+5:Steel Wing,23.5294117647%,4.0
+
+ ---------- 
+Items used:
+1:Black Glasses,100.0%,17.0
+
+ ---------- 
+Abilities used:
+1:Moxie,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,17.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Liepard
+3:Greninja
+4:Talonflame
+5:Kyurem
+6:Giratina
+7:Giratina
+8:Typhlosion
+9:Aegislash
+10:Toxicroak
+11:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,76.9230769231%,13.0769230769
+2:Brave Bird,23.0769230769%,3.92307692308
+
+ ---------- 
+Moves that KO this pokemon:
+1:Return,18.1818181818%,3.09090909091
+2:Origin Pulse,9.09090909091%,1.54545454545
+3:Play Rough,9.09090909091%,1.54545454545
+4:Volt Switch,9.09090909091%,1.54545454545
+5:Dragon Pulse,9.09090909091%,1.54545454545
+6:Hyper Voice,9.09090909091%,1.54545454545
+7:Eruption,9.09090909091%,1.54545454545
+8:Rock Slide,9.09090909091%,1.54545454545
+9:Blizzard,9.09090909091%,1.54545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Landorus
+5:Ferrothorn
+6:Whimsicott
+7:Infernape
+8:Mewtwo
+9:Ditto
+10:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Dragalge
+4:Kyurem
+5:Magnezone
+6:Kyogre
+7:Salamence
+8:Mawile

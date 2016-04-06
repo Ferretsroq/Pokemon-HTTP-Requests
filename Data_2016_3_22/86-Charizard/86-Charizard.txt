@@ -1,0 +1,95 @@
+86:Charizard|37
+ ---------- 
+Moves used:
+1:Protect,100.0%,37.0
+2:Overheat,83.7837837838%,31.0
+3:Blast Burn,78.3783783784%,29.0
+4:Hidden Power,78.3783783784%,29.0
+5:Flame Charge,10.8108108108%,4.0
+6:Flare Blitz,10.8108108108%,4.0
+7:Heat Wave,10.8108108108%,4.0
+8:Earthquake,10.8108108108%,4.0
+9:Solar Beam,10.8108108108%,4.0
+10:Dragon Pulse,2.7027027027%,1.0
+11:Tailwind,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Charizardite Y,89.1891891892%,33.0
+2:Lum Berry,10.8108108108%,4.0
+
+ ---------- 
+Abilities used:
+1:Blaze,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Timid,78.3783783784%,29.0
+2:Naive,10.8108108108%,4.0
+3:Adamant,10.8108108108%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Crobat
+4:Alomomola
+5:Ferrothorn
+6:Xerneas
+7:Talonflame
+8:Thundurus
+9:Rayquaza
+10:Salamence
+11:Raichu
+12:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blast Burn,60.0%,22.2
+2:Hidden Power,26.6666666667%,9.86666666667
+3:Overheat,13.3333333333%,4.93333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,20.0%,7.4
+2:Water Spout,16.6666666667%,6.16666666667
+3:Rock Slide,16.6666666667%,6.16666666667
+4:Dragon Ascent,6.66666666667%,2.46666666667
+5:Precipice Blades,3.33333333333%,1.23333333333
+6:Origin Pulse,3.33333333333%,1.23333333333
+7:Wild Charge,3.33333333333%,1.23333333333
+8:Volt Switch,3.33333333333%,1.23333333333
+9:Hyper Voice,3.33333333333%,1.23333333333
+10:Extreme Speed,3.33333333333%,1.23333333333
+11:Return,3.33333333333%,1.23333333333
+12:Icy Wind,3.33333333333%,1.23333333333
+13:Struggle,3.33333333333%,1.23333333333
+14:Explosion,3.33333333333%,1.23333333333
+15:Thunderbolt,3.33333333333%,1.23333333333
+16:Ice Beam,3.33333333333%,1.23333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Togekiss
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Landorus
+7:Ferrothorn
+8:Cresselia
+9:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Landorus
+5:Thundurus
+6:Rayquaza
+7:Salamence
+8:Greninja
+9:Cresselia
+10:Kyogre
+11:Ditto

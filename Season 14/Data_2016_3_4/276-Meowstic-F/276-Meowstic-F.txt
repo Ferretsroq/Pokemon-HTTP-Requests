@@ -1,0 +1,57 @@
+276:Meowstic-F|6
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,6.0
+2:Psychic,83.3333333333%,5.0
+3:Thunder Wave,83.3333333333%,5.0
+4:Trick,50.0%,3.0
+5:Hidden Power,33.3333333333%,2.0
+6:Psyshock,16.6666666667%,1.0
+7:Shadow Ball,16.6666666667%,1.0
+8:Protect,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,3.0
+2:Chesto Berry,50.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Yveltal
+3:Talonflame
+4:Mawile
+5:Groudon
+6:Ludicolo
+7:Ho-Oh
+8:Azumarill
+9:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,3.0
+2:Origin Pulse,25.0%,1.5
+3:Rock Slide,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Kyogre

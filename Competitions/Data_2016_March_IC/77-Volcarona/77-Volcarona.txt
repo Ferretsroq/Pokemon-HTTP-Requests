@@ -1,0 +1,96 @@
+77:Volcarona|5
+ ---------- 
+Moves used:
+1:Quiver Dance,80.0%,4.0
+2:Protect,80.0%,4.0
+3:Heat Wave,60.0%,3.0
+4:Hidden Power,60.0%,3.0
+5:Fiery Dance,20.0%,1.0
+6:Rage Powder,20.0%,1.0
+7:Bug Buzz,20.0%,1.0
+8:Overheat,20.0%,1.0
+9:Safeguard,20.0%,1.0
+10:Giga Drain,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,60.0%,3.0
+2:Focus Sash,40.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Flame Body,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Modest,60.0%,3.0
+2:Timid,40.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Thundurus
+4:Mienshao
+5:Salamence
+6:Kangaskhan
+7:Smeargle
+8:Togetic
+9:Chansey
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,63.6363636364%,3.18181818182
+2:Hidden Power,36.3636363636%,1.81818181818
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,1.0
+2:Brave Bird,8.0%,0.4
+3:Rock Slide,8.0%,0.4
+4:Double-Edge,8.0%,0.4
+5:Fire Punch,8.0%,0.4
+6:Origin Pulse,4.0%,0.2
+7:Dazzling Gleam,4.0%,0.2
+8:Scald,4.0%,0.2
+9:Earth Power,4.0%,0.2
+10:Flare Blitz,4.0%,0.2
+11:Water Spout,4.0%,0.2
+12:Hyper Voice,4.0%,0.2
+13:Eruption,4.0%,0.2
+14:Extreme Speed,4.0%,0.2
+15:Destiny Bond,4.0%,0.2
+16:Low Kick,4.0%,0.2
+17:Ice Beam,4.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Thundurus
+3:Groudon
+4:Kangaskhan
+5:Xerneas
+6:Meowstic
+7:Landorus
+8:Eelektross
+9:Ferrothorn
+10:Whimsicott
+11:Togekiss
+12:Weavile
+13:Bronzong
+14:Kyogre
+15:Mawile
+16:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Kangaskhan
+5:Xerneas
+6:Landorus
+7:Rayquaza
+8:Salamence
+9:Gengar

@@ -1,0 +1,101 @@
+68:Jumpluff|115
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,115.0
+2:Rage Powder,96.5217391304%,111.0
+3:Encore,82.6086956522%,95.0
+4:Protect,74.7826086957%,86.0
+5:Helping Hand,25.2173913043%,29.0
+6:Worry Seed,17.3913043478%,20.0
+7:Grass Knot,3.47826086957%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,68.6956521739%,79.0
+2:Mental Herb,26.0869565217%,30.0
+3:Wide Lens,5.21739130435%,6.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,115.0
+
+ ---------- 
+Natures used:
+1:Timid,96.5217391304%,111.0
+2:Jolly,3.47826086957%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyurem
+4:Kyogre
+5:Xerneas
+6:Talonflame
+7:Rayquaza
+8:Salamence
+9:Mienshao
+10:Cresselia
+11:Yveltal
+12:Scizor
+13:Crobat
+14:Aegislash
+15:Landorus
+16:Gengar
+17:Ferrothorn
+18:Meowstic
+19:Bisharp
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.5135135135%,15.5405405405
+2:Double-Edge,10.8108108108%,12.4324324324
+3:Ice Beam,8.10810810811%,9.32432432432
+4:Moonblast,5.40540540541%,6.21621621622
+5:Hyper Voice,5.40540540541%,6.21621621622
+6:Eruption,5.40540540541%,6.21621621622
+7:Dragon Ascent,4.05405405405%,4.66216216216
+8:Brave Bird,4.05405405405%,4.66216216216
+9:Extreme Speed,4.05405405405%,4.66216216216
+10:Rock Slide,4.05405405405%,4.66216216216
+11:Iron Head,2.7027027027%,3.10810810811
+12:Water Spout,2.7027027027%,3.10810810811
+13:Fake Out,2.7027027027%,3.10810810811
+14:Hidden Power,2.7027027027%,3.10810810811
+15:Oblivion Wing,1.35135135135%,1.55405405405
+16:Psystrike,1.35135135135%,1.55405405405
+17:Foul Play,1.35135135135%,1.55405405405
+18:Psyshock,1.35135135135%,1.55405405405
+19:Spacial Rend,1.35135135135%,1.55405405405
+20:Flash Cannon,1.35135135135%,1.55405405405
+0:Other,14.8648648649%,17.0945945946
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Salamence
+5:Rayquaza
+6:Kyogre
+7:Talonflame
+8:Mawile
+9:Kyurem
+10:Ferrothorn
+11:Cresselia
+12:Rayquaza
+13:Mewtwo
+14:Zapdos
+15:Yveltal
+16:Klefki
+17:Landorus
+18:Thundurus
+19:Scrafty
+20:Palkia

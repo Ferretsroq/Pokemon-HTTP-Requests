@@ -1,0 +1,137 @@
+153:Glalie|66
+ ---------- 
+Moves used:
+1:Protect,92.4242424242%,61.0
+2:Explosion,90.9090909091%,60.0
+3:Weather Ball,54.5454545455%,36.0
+4:Icy Wind,37.8787878788%,25.0
+5:Return,33.3333333333%,22.0
+6:Ice Shard,25.7575757576%,17.0
+7:Freeze-Dry,22.7272727273%,15.0
+8:Sheer Cold,13.6363636364%,9.0
+9:Earthquake,10.6060606061%,7.0
+10:Substitute,6.06060606061%,4.0
+11:Super Fang,6.06060606061%,4.0
+12:Sleep Talk,3.0303030303%,2.0
+13:Frost Breath,1.51515151515%,1.0
+14:Switcheroo,1.51515151515%,1.0
+
+ ---------- 
+Items used:
+1:Glalitite,90.9090909091%,60.0
+2:Assault Vest,6.06060606061%,4.0
+3:Choice Scarf,1.51515151515%,1.0
+4:Leftovers,1.51515151515%,1.0
+
+ ---------- 
+Abilities used:
+1:Moody,69.696969697%,46.0
+2:Inner Focus,30.303030303%,20.0
+
+ ---------- 
+Natures used:
+1:Naive,53.0303030303%,35.0
+2:Jolly,31.8181818182%,21.0
+3:Modest,6.06060606061%,4.0
+4:Adamant,6.06060606061%,4.0
+5:Timid,3.0303030303%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Zapdos
+4:Scizor
+5:Cresselia
+6:Zekrom
+7:Reshiram
+8:Xerneas
+9:Whimsicott
+10:Pikachu
+11:Landorus
+12:Rayquaza
+13:Ditto
+14:Ferrothorn
+15:Miltank
+16:Crobat
+17:Palkia
+18:Camerupt
+19:Nosepass
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,44.0%,29.04
+2:Weather Ball,16.0%,10.56
+3:Icy Wind,16.0%,10.56
+4:Freeze-Dry,14.0%,9.24
+5:Ice Shard,4.0%,2.64
+6:Return,4.0%,2.64
+7:Sheer Cold,2.0%,1.32
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,6.66666666667%,4.4
+2:Dragon Ascent,5.0%,3.3
+3:Precipice Blades,5.0%,3.3
+4:Origin Pulse,5.0%,3.3
+5:Dazzling Gleam,5.0%,3.3
+6:Eruption,5.0%,3.3
+7:Draco Meteor,3.33333333333%,2.2
+8:Flare Blitz,3.33333333333%,2.2
+9:Gyro Ball,3.33333333333%,2.2
+10:Water Spout,3.33333333333%,2.2
+11:Power-Up Punch,1.66666666667%,1.1
+12:Moonblast,1.66666666667%,1.1
+13:Psyshock,1.66666666667%,1.1
+14:Bullet Punch,1.66666666667%,1.1
+15:Last Resort,1.66666666667%,1.1
+16:Hyper Voice,1.66666666667%,1.1
+17:Sacred Fire,1.66666666667%,1.1
+18:Aeroblast,1.66666666667%,1.1
+19:Rock Slide,1.66666666667%,1.1
+20:Earthquake,1.66666666667%,1.1
+0:Other,1.66666666667%,1.1
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Landorus
+6:Salamence
+7:Ferrothorn
+8:Whimsicott
+9:Kyogre
+10:Yveltal
+11:Thundurus
+12:Amoonguss
+13:Liepard
+14:Cresselia
+15:Dialga
+16:Rotom
+17:Togekiss
+18:Rayquaza
+19:Rayquaza
+20:Clamperl
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Salamence
+6:Kangaskhan
+7:Talonflame
+8:Ferrothorn
+9:Kyurem
+10:Weavile
+11:Lopunny
+12:Latios
+13:Swampert
+14:Ho-Oh
+15:Lugia
+16:Scizor
+17:Ditto

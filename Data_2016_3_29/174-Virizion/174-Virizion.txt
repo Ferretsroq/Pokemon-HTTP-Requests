@@ -1,0 +1,68 @@
+174:Virizion|8
+ ---------- 
+Moves used:
+1:Quick Guard,75.0%,6.0
+2:Grass Knot,75.0%,6.0
+3:Focus Blast,75.0%,6.0
+4:Taunt,75.0%,6.0
+5:Stone Edge,25.0%,2.0
+6:Close Combat,25.0%,2.0
+7:Leaf Blade,25.0%,2.0
+8:Protect,25.0%,2.0
+
+ ---------- 
+Items used:
+1:Lum Berry,75.0%,6.0
+2:Life Orb,25.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Timid,75.0%,6.0
+2:Jolly,12.5%,1.0
+3:Hasty,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Aegislash
+3:Lickilicky
+4:Rayquaza
+5:Xerneas
+6:Salamence
+7:Mawile
+8:Crobat
+9:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,42.8571428571%,3.42857142857
+2:Focus Blast,28.5714285714%,2.28571428571
+3:Stone Edge,14.2857142857%,1.14285714286
+4:Close Combat,14.2857142857%,1.14285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Play Rough,20.0%,1.6
+2:Flare Blitz,20.0%,1.6
+3:Sucker Punch,20.0%,1.6
+4:Hyper Voice,20.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Cresselia
+3:Dialga
+4:Groudon
+5:Kyogre
+6:Crobat
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile
+2:Talonflame
+3:Salamence

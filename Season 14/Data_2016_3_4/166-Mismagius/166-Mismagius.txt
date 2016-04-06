@@ -1,0 +1,109 @@
+166:Mismagius|55
+ ---------- 
+Moves used:
+1:Taunt,49.0909090909%,27.0
+2:Magic Coat,45.4545454545%,25.0
+3:Memento,45.4545454545%,25.0
+4:Will-O-Wisp,43.6363636364%,24.0
+5:Thunder Wave,41.8181818182%,23.0
+6:Shadow Ball,40.0%,22.0
+7:Skill Swap,34.5454545455%,19.0
+8:Trick Room,18.1818181818%,10.0
+9:Trick,18.1818181818%,10.0
+10:Destiny Bond,18.1818181818%,10.0
+11:Magic Room,10.9090909091%,6.0
+12:Imprison,10.9090909091%,6.0
+13:Mystical Fire,9.09090909091%,5.0
+14:Pain Split,9.09090909091%,5.0
+15:Icy Wind,3.63636363636%,2.0
+16:Protect,1.81818181818%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,56.3636363636%,31.0
+2:Mental Herb,18.1818181818%,10.0
+3:Choice Band,14.5454545455%,8.0
+4:Choice Specs,3.63636363636%,2.0
+5:Lum Berry,3.63636363636%,2.0
+6:Safety Goggles,1.81818181818%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,55.0
+
+ ---------- 
+Natures used:
+1:Timid,92.7272727273%,51.0
+2:Relaxed,7.27272727273%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Gengar
+3:Dialga
+4:Groudon
+5:Kyurem
+6:Kyogre
+7:Metagross
+8:Salamence
+9:Ho-Oh
+10:Crobat
+11:Hitmonlee
+12:Golduck
+13:Sylveon
+14:Aegislash
+15:Scrafty
+16:Lucario
+17:Talonflame
+18:Palkia
+19:Mawile
+20:Aerodactyl
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Ball,57.1428571429%,31.4285714286
+2:Destiny Bond,42.8571428571%,23.5714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.69565217391%,4.78260869565
+2:Origin Pulse,6.52173913043%,3.58695652174
+3:Water Spout,6.52173913043%,3.58695652174
+4:Foul Play,4.34782608696%,2.39130434783
+5:Hyper Voice,4.34782608696%,2.39130434783
+6:Eruption,4.34782608696%,2.39130434783
+7:Dragon Ascent,2.17391304348%,1.19565217391
+8:Precipice Blades,2.17391304348%,1.19565217391
+9:Play Rough,2.17391304348%,1.19565217391
+10:Ice Shard,2.17391304348%,1.19565217391
+11:Overheat,2.17391304348%,1.19565217391
+12:Knock Off,2.17391304348%,1.19565217391
+13:Rock Slide,2.17391304348%,1.19565217391
+14:Hydro Pump,2.17391304348%,1.19565217391
+15:Flamethrower,2.17391304348%,1.19565217391
+16:Double-Edge,2.17391304348%,1.19565217391
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Gothitelle
+3:Scrafty
+4:Rayquaza
+5:Groudon
+6:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Scrafty
+6:Liepard
+7:Palkia
+8:Weavile
+9:Rayquaza
+10:Mawile
+11:Smeargle
+12:Typhlosion
+13:Lapras

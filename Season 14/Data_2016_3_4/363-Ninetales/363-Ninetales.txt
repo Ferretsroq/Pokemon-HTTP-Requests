@@ -1,0 +1,38 @@
+363:Ninetales|1
+ ---------- 
+Moves used:
+1:Extrasensory,100.0%,1.0
+2:Fire Blast,100.0%,1.0
+3:Confuse Ray,100.0%,1.0
+4:Solar Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Drought,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dragonite
+2:Aerodactyl
+3:Gyarados
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Smeargle

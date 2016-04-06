@@ -1,0 +1,153 @@
+63:Golduck|129
+ ---------- 
+Moves used:
+1:Ice Beam,93.7984496124%,121.0
+2:Scald,92.2480620155%,119.0
+3:Soak,33.3333333333%,43.0
+4:Protect,31.7829457364%,41.0
+5:Hypnosis,27.1317829457%,35.0
+6:Encore,21.7054263566%,28.0
+7:Confuse Ray,16.2790697674%,21.0
+8:Surf,13.1782945736%,17.0
+9:Role Play,10.0775193798%,13.0
+10:Icy Wind,10.0775193798%,13.0
+11:Aqua Jet,7.7519379845%,10.0
+12:Hydro Pump,7.7519379845%,10.0
+13:Psych Up,5.42635658915%,7.0
+14:Disable,5.42635658915%,7.0
+15:Worry Seed,4.6511627907%,6.0
+16:Clear Smog,3.87596899225%,5.0
+17:Simple Beam,3.1007751938%,4.0
+18:Focus Blast,3.1007751938%,4.0
+19:Swagger,1.5503875969%,2.0
+20:Psychic,1.5503875969%,2.0
+0:Other,6.2015503876%,8.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,42.6356589147%,55.0
+2:Focus Sash,27.9069767442%,36.0
+3:Sitrus Berry,16.2790697674%,21.0
+4:Rindo Berry,6.2015503876%,8.0
+5:Wide Lens,2.32558139535%,3.0
+6:Life Orb,1.5503875969%,2.0
+7:Mystic Water,1.5503875969%,2.0
+8:Leftovers,0.77519379845%,1.0
+9:Lum Berry,0.77519379845%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,96.1240310078%,124.0
+2:Swift Swim,3.87596899225%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,54.2635658915%,70.0
+2:Modest,20.1550387597%,26.0
+3:Sassy,14.7286821705%,19.0
+4:Quiet,6.2015503876%,8.0
+5:Hasty,3.1007751938%,4.0
+6:Jolly,0.77519379845%,1.0
+7:Bold,0.77519379845%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Zekrom
+7:Mewtwo
+8:Ferrothorn
+9:Crobat
+10:Rayquaza
+11:Purugly
+12:Infernape
+13:Smeargle
+14:Dialga
+15:Hypno
+16:Thundurus
+17:Amoonguss
+18:Salamence
+19:Houndoom
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,62.6865671642%,80.8656716418
+2:Ice Beam,28.3582089552%,36.5820895522
+3:Surf,2.98507462687%,3.85074626866
+4:Hydro Pump,2.98507462687%,3.85074626866
+5:Aqua Jet,1.49253731343%,1.92537313433
+6:Icy Wind,1.49253731343%,1.92537313433
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.0731707317%,22.0243902439
+2:Double-Edge,12.1951219512%,15.7317073171
+3:Dazzling Gleam,10.9756097561%,14.1585365854
+4:Origin Pulse,3.65853658537%,4.71951219512
+5:Brave Bird,3.65853658537%,4.71951219512
+6:Water Spout,3.65853658537%,4.71951219512
+7:Thunder,3.65853658537%,4.71951219512
+8:Thunderbolt,3.65853658537%,4.71951219512
+9:Dragon Ascent,2.43902439024%,3.14634146341
+10:Moonblast,2.43902439024%,3.14634146341
+11:Power Whip,2.43902439024%,3.14634146341
+12:Dragon Pulse,2.43902439024%,3.14634146341
+13:Sucker Punch,2.43902439024%,3.14634146341
+14:Eruption,2.43902439024%,3.14634146341
+15:Extreme Speed,2.43902439024%,3.14634146341
+16:Frustration,2.43902439024%,3.14634146341
+17:Spacial Rend,1.21951219512%,1.57317073171
+18:Bug Bite,1.21951219512%,1.57317073171
+19:Grass Knot,1.21951219512%,1.57317073171
+20:Iron Head,1.21951219512%,1.57317073171
+0:Other,17.0731707317%,22.0243902439
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Salamence
+4:Landorus
+5:Smeargle
+6:Thundurus
+7:Rayquaza
+8:Liepard
+9:Cresselia
+10:Crobat
+11:Kangaskhan
+12:Gengar
+13:Meowstic
+14:Kyurem
+15:Bisharp
+16:Mienshao
+17:Palkia
+18:Weavile
+19:Bronzong
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Talonflame
+7:Thundurus
+8:Ferrothorn
+9:Whimsicott
+10:Dialga
+11:Weavile
+12:Salamence
+13:Raichu
+14:Yveltal
+15:Aegislash
+16:Landorus
+17:Mienshao
+18:Palkia
+19:Lucario
+20:Gastrodon

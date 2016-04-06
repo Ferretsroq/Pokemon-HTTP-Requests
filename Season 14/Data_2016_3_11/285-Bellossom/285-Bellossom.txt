@@ -1,0 +1,63 @@
+285:Bellossom|8
+ ---------- 
+Moves used:
+1:Teeter Dance,100.0%,8.0
+2:Safeguard,100.0%,8.0
+3:Sleep Powder,100.0%,8.0
+4:Infestation,50.0%,4.0
+5:Grass Knot,50.0%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,62.5%,5.0
+2:Coba Berry,25.0%,2.0
+3:Sitrus Berry,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Cresselia
+4:Rayquaza
+5:Sceptile
+6:Ferrothorn
+7:Latias
+8:Raikou
+9:Ditto
+10:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,66.6666666667%,5.33333333333
+2:Infestation,33.3333333333%,2.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,37.5%,3.0
+2:Precipice Blades,12.5%,1.0
+3:Eruption,12.5%,1.0
+4:Fake Out,12.5%,1.0
+5:Blizzard,12.5%,1.0
+6:Ice Beam,12.5%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Liepard
+3:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyurem
+4:Kyogre
+5:Kangaskhan

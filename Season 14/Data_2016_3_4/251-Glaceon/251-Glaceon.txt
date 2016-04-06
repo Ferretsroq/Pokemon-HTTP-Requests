@@ -1,0 +1,68 @@
+251:Glaceon|11
+ ---------- 
+Moves used:
+1:Ice Beam,100.0%,11.0
+2:Helping Hand,54.5454545455%,6.0
+3:Swagger,54.5454545455%,6.0
+4:Icy Wind,54.5454545455%,6.0
+5:Shadow Ball,45.4545454545%,5.0
+6:Blizzard,45.4545454545%,5.0
+7:Mirror Coat,36.3636363636%,4.0
+8:Water Pulse,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,54.5454545455%,6.0
+2:Assault Vest,36.3636363636%,4.0
+3:Choice Specs,9.09090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Cloak,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Sylveon
+3:Dialga
+4:Espeon
+5:Landorus
+6:Whimsicott
+7:Jolteon
+8:Talonflame
+9:Abomasnow
+10:Kyogre
+11:Vaporeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,66.6666666667%,7.33333333333
+2:Icy Wind,33.3333333333%,3.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,28.5714285714%,3.14285714286
+2:Iron Head,14.2857142857%,1.57142857143
+3:Flash Cannon,14.2857142857%,1.57142857143
+4:Close Combat,14.2857142857%,1.57142857143
+5:Psychic,14.2857142857%,1.57142857143
+6:Earthquake,14.2857142857%,1.57142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+2:Kangaskhan
+3:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Landorus
+3:Cresselia
+4:Dialga
+5:Lucario
+6:Mawile

@@ -1,0 +1,167 @@
+44:Metagross|1978
+ ---------- 
+Moves used:
+1:Zen Headbutt,82.6592517695%,1635.0
+2:Protect,81.3953488372%,1610.0
+3:Iron Head,60.0606673407%,1188.0
+4:Bullet Punch,59.757330637%,1182.0
+5:Ice Punch,43.9838220425%,870.0
+6:Meteor Mash,27.5025278059%,544.0
+7:Earthquake,11.324570273%,224.0
+8:Hammer Arm,8.13953488372%,161.0
+9:Thunder Punch,6.62285136502%,131.0
+10:Explosion,5.56117290192%,110.0
+11:Substitute,5.05561172902%,100.0
+12:Trick,1.16279069767%,23.0
+13:Swagger,0.960566228514%,19.0
+14:Rock Slide,0.910010111223%,18.0
+15:Magnet Rise,0.707785642063%,14.0
+16:Icy Wind,0.707785642063%,14.0
+17:Brick Break,0.657229524772%,13.0
+18:Hidden Power,0.657229524772%,13.0
+19:Gyro Ball,0.505561172902%,10.0
+20:Power-Up Punch,0.404448938322%,8.0
+0:Other,1.26390293225%,25.0
+
+ ---------- 
+Items used:
+1:Metagrossite,77.5025278059%,1533.0
+2:Lum Berry,7.78564206269%,154.0
+3:Assault Vest,5.86450960566%,116.0
+4:Choice Scarf,3.89282103134%,77.0
+5:Choice Band,1.46612740142%,29.0
+6:Life Orb,1.06167846309%,21.0
+7:Normal Gem,0.657229524772%,13.0
+8:Focus Sash,0.606673407482%,12.0
+9:Air Balloon,0.556117290192%,11.0
+10:Iron Plate,0.252780586451%,5.0
+11:Expert Belt,0.151668351871%,3.0
+12:Rocky Helmet,0.0505561172902%,1.0
+13:Lax Incense,0.0505561172902%,1.0
+14:Shuca Berry,0.0505561172902%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,99.8483316481%,1975.0
+2:Light Metal,0.151668351871%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,53.5894843276%,1060.0
+2:Jolly,45.5005055612%,900.0
+3:Naughty,0.353892821031%,7.0
+4:Modest,0.202224469161%,4.0
+5:Bold,0.202224469161%,4.0
+6:Hasty,0.10111223458%,2.0
+7:Careful,0.0505561172902%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Talonflame
+5:Xerneas
+6:Yveltal
+7:Thundurus
+8:Crobat
+9:Kangaskhan
+10:Landorus
+11:Whimsicott
+12:Liepard
+13:Cresselia
+14:Kyurem
+15:Gengar
+16:Palkia
+17:Hydreigon
+18:Giratina
+19:Weavile
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,25.0956388676%,496.391736802
+2:Bullet Punch,24.5600612089%,485.798010712
+3:Zen Headbutt,21.9586840092%,434.342769702
+4:Ice Punch,12.1652639633%,240.628921194
+5:Meteor Mash,9.02830910482%,178.579954093
+6:Earthquake,1.7597551645%,34.8079571538
+7:Hammer Arm,1.53022188217%,30.2677888294
+8:Explosion,1.53022188217%,30.2677888294
+9:Thunder Punch,1.53022188217%,30.2677888294
+10:Hidden Power,0.229533282326%,4.54016832441
+11:Rock Slide,0.229533282326%,4.54016832441
+12:Brick Break,0.153022188217%,3.02677888294
+13:Gyro Ball,0.0765110941086%,1.51338944147
+14:Icy Wind,0.0765110941086%,1.51338944147
+15:Psychic,0.0765110941086%,1.51338944147
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.1234567901%,200.241975309
+2:Eruption,9.79423868313%,193.730041152
+3:Origin Pulse,7.48971193416%,148.146502058
+4:Water Spout,7.48971193416%,148.146502058
+5:Earth Power,6.09053497942%,120.470781893
+6:Flare Blitz,4.93827160494%,97.6790123457
+7:Sucker Punch,4.93827160494%,97.6790123457
+8:Flamethrower,4.3621399177%,86.283127572
+9:Fire Punch,3.78600823045%,74.8872427984
+10:Overheat,3.62139917695%,71.6312757202
+11:Dazzling Gleam,3.29218106996%,65.1193415638
+12:Earthquake,2.96296296296%,58.6074074074
+13:Shadow Ball,2.46913580247%,48.8395061728
+14:Moonblast,2.22222222222%,43.9555555556
+15:Foul Play,1.89300411523%,37.4436213992
+16:Knock Off,1.48148148148%,29.3037037037
+17:Extreme Speed,1.23456790123%,24.4197530864
+18:Hyper Voice,1.15226337449%,22.7917695473
+19:Thunderbolt,1.15226337449%,22.7917695473
+20:Thunder,0.905349794239%,17.90781893
+0:Other,12.9218106996%,255.593415638
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Crobat
+5:Salamence
+6:Smeargle
+7:Rayquaza
+8:Talonflame
+9:Groudon
+10:Thundurus
+11:Weavile
+12:Landorus
+13:Amoonguss
+14:Whimsicott
+15:Gengar
+16:Togekiss
+17:Mawile
+18:Gengar
+19:Liepard
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Salamence
+8:Landorus
+9:Yveltal
+10:Gengar
+11:Mawile
+12:Aegislash
+13:Ferrothorn
+14:Liepard
+15:Weavile
+16:Thundurus
+17:Palkia
+18:Smeargle
+19:Rayquaza
+20:Ditto

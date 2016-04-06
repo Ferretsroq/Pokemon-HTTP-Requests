@@ -1,0 +1,36 @@
+352:Fletchinder|1
+ ---------- 
+Moves used:
+1:Roost,100.0%,1.0
+2:Secret Power,100.0%,1.0
+3:Quick Attack,100.0%,1.0
+4:Fly,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Flame Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Gentle,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Pichu
+3:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

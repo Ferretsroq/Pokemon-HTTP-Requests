@@ -1,0 +1,45 @@
+169:Registeel|1
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,1.0
+2:Sleep Talk,100.0%,1.0
+3:Curse,100.0%,1.0
+4:Rest,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Maranga Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gourgeist
+2:Cresselia
+3:Giratina
+4:Groudon
+5:Arbok
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,0.25
+2:Eruption,25.0%,0.25
+3:Low Kick,25.0%,0.25
+4:Fire Punch,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan

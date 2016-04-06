@@ -1,0 +1,57 @@
+269:Articuno|3
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,3.0
+2:Hurricane,100.0%,3.0
+3:Sheer Cold,66.6666666667%,2.0
+4:Protect,66.6666666667%,2.0
+5:Ice Shard,33.3333333333%,1.0
+6:Ice Beam,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Quick Claw,66.6666666667%,2.0
+2:Leftovers,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,66.6666666667%,2.0
+2:Bold,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Xerneas
+4:Cresselia
+5:Shiftry
+6:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,60.0%,1.8
+2:Sheer Cold,40.0%,1.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,1.0
+2:Bullet Punch,33.3333333333%,1.0
+3:Double-Edge,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mienshao
+2:Cresselia
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Scizor
+3:Kangaskhan

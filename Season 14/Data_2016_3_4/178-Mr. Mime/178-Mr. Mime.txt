@@ -1,0 +1,120 @@
+178:Mr. Mime|48
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,48.0
+2:Fake Out,62.5%,30.0
+3:Trick Room,60.4166666667%,29.0
+4:Psyshock,47.9166666667%,23.0
+5:Encore,31.25%,15.0
+6:Quick Guard,29.1666666667%,14.0
+7:Dazzling Gleam,22.9166666667%,11.0
+8:Taunt,18.75%,9.0
+9:Icy Wind,12.5%,6.0
+10:Healing Wish,4.16666666667%,2.0
+11:Helping Hand,4.16666666667%,2.0
+12:Protect,4.16666666667%,2.0
+13:Psychic,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,47.9166666667%,23.0
+2:Rocky Helmet,18.75%,9.0
+3:Sitrus Berry,10.4166666667%,5.0
+4:Focus Sash,8.33333333333%,4.0
+5:Eject Button,4.16666666667%,2.0
+6:Mental Herb,4.16666666667%,2.0
+7:Pixie Plate,2.08333333333%,1.0
+8:Red Card,2.08333333333%,1.0
+9:Lucky Egg,2.08333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Filter,62.5%,30.0
+2:Soundproof,35.4166666667%,17.0
+3:Technician,2.08333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,52.0833333333%,25.0
+2:Bold,29.1666666667%,14.0
+3:Calm,12.5%,6.0
+4:Jolly,4.16666666667%,2.0
+5:Relaxed,2.08333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Scizor
+5:Slurpuff
+6:Landorus
+7:Rayquaza
+8:Aron
+9:Kangaskhan
+10:Meowstic
+11:Kyogre
+12:Mawile
+13:Talonflame
+14:Dialga
+15:Lopunny
+16:Dragonite
+17:Zekrom
+18:Amoonguss
+19:Whimsicott
+20:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psyshock,75.0%,36.0
+2:Dazzling Gleam,16.6666666667%,8.0
+3:Psychic,8.33333333333%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,12.9032258065%,6.1935483871
+2:Dragon Ascent,9.67741935484%,4.64516129032
+3:Precipice Blades,9.67741935484%,4.64516129032
+4:Extreme Speed,9.67741935484%,4.64516129032
+5:Double-Edge,9.67741935484%,4.64516129032
+6:Moonblast,6.45161290323%,3.09677419355
+7:Iron Head,6.45161290323%,3.09677419355
+8:Return,6.45161290323%,3.09677419355
+9:Ice Shard,3.22580645161%,1.54838709677
+10:Bullet Punch,3.22580645161%,1.54838709677
+11:Earth Power,3.22580645161%,1.54838709677
+12:Water Spout,3.22580645161%,1.54838709677
+13:Fake Out,3.22580645161%,1.54838709677
+14:Shadow Ball,3.22580645161%,1.54838709677
+15:Sludge Bomb,3.22580645161%,1.54838709677
+16:Rock Slide,3.22580645161%,1.54838709677
+17:Psychic,3.22580645161%,1.54838709677
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Mienshao
+3:Thundurus
+4:Kyogre
+5:Salamence
+6:Ho-Oh
+7:Ampharos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Aegislash
+6:Cresselia
+7:Rayquaza
+8:Xerneas
+9:Sylveon
+10:Greninja
+11:Landorus
+12:Mawile
+13:Scizor
+14:Lapras
+15:Kangaskhan
+16:Gengar

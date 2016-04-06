@@ -1,0 +1,138 @@
+52:Manectric|967
+ ---------- 
+Moves used:
+1:Protect,95.7600827301%,926.0
+2:Volt Switch,68.7693898656%,665.0
+3:Hidden Power,68.2523267839%,660.0
+4:Thunder,42.6059979317%,412.0
+5:Thunderbolt,35.987590486%,348.0
+6:Snarl,29.0589451913%,281.0
+7:Flamethrower,27.4043433299%,265.0
+8:Overheat,18.9245087901%,183.0
+9:Roar,4.96380558428%,48.0
+10:Discharge,2.68872802482%,26.0
+11:Light Screen,2.58531540848%,25.0
+12:Thunder Wave,2.3784901758%,23.0
+13:Substitute,0.620475698035%,6.0
+
+ ---------- 
+Items used:
+1:Manectite,98.1385729059%,949.0
+2:Safety Goggles,1.65460186143%,16.0
+3:Focus Sash,0.103412616339%,1.0
+4:Amulet Coin,0.103412616339%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,88.0041365047%,851.0
+2:Static,10.1344364012%,98.0
+3:Minus,1.86142709411%,18.0
+
+ ---------- 
+Natures used:
+1:Timid,96.7942088935%,936.0
+2:Modest,3.20579110651%,31.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Ferrothorn
+4:Cresselia
+5:Yveltal
+6:Xerneas
+7:Rayquaza
+8:Crobat
+9:Ho-Oh
+10:Talonflame
+11:Bronzong
+12:Chansey
+13:Palkia
+14:Salamence
+15:Shuckle
+16:Whimsicott
+17:Dialga
+18:Amoonguss
+19:Liepard
+20:Tornadus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Switch,23.6902050114%,229.08428246
+2:Thunderbolt,21.867881549%,211.462414579
+3:Hidden Power,19.3621867882%,187.232346241
+4:Thunder,18.2232346241%,176.218678815
+5:Flamethrower,8.20045558087%,79.298405467
+6:Snarl,4.10022779043%,39.6492027335
+7:Discharge,2.27790432802%,22.0273348519
+8:Overheat,2.27790432802%,22.0273348519
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,12.7468581688%,123.262118492
+2:Origin Pulse,11.8491921005%,114.581687612
+3:Dazzling Gleam,8.43806104129%,81.5960502693
+4:Precipice Blades,7.18132854578%,69.4434470377
+5:Earth Power,6.10412926391%,59.026929982
+6:Moonblast,5.02692998205%,48.6104129264
+7:Draco Meteor,4.8473967684%,46.8743267504
+8:Extreme Speed,4.8473967684%,46.8743267504
+9:Sucker Punch,3.94973070018%,38.1938958707
+10:Eruption,3.2315978456%,31.249551167
+11:Ice Beam,2.69299820467%,26.0412926391
+12:Double-Edge,2.51346499102%,24.3052064632
+13:Earthquake,1.97486535009%,19.0969479354
+14:Brave Bird,1.6157989228%,15.6247755835
+15:Sludge Bomb,1.43626570916%,13.8886894075
+16:Dragon Ascent,1.25673249551%,12.1526032316
+17:Scald,1.25673249551%,12.1526032316
+18:Return,1.25673249551%,12.1526032316
+19:Foul Play,1.07719928187%,10.4165170557
+20:Dragon Pulse,1.07719928187%,10.4165170557
+0:Other,14.1831238779%,137.150807899
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Crobat
+4:Salamence
+5:Ferrothorn
+6:Weavile
+7:Rayquaza
+8:Smeargle
+9:Landorus
+10:Togekiss
+11:Kangaskhan
+12:Xerneas
+13:Groudon
+14:Yveltal
+15:Liepard
+16:Thundurus
+17:Rayquaza
+18:Amoonguss
+19:Gengar
+20:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Kangaskhan
+6:Dialga
+7:Yveltal
+8:Talonflame
+9:Ferrothorn
+10:Salamence
+11:Landorus
+12:Rayquaza
+13:Kyogre
+14:Mawile
+15:Kyurem
+16:Palkia
+17:Gengar
+18:Aegislash
+19:Thundurus
+20:Cresselia

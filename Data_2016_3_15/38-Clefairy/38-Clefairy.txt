@@ -1,0 +1,72 @@
+38:Clefairy|14
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,14.0
+2:After You,78.5714285714%,11.0
+3:Protect,78.5714285714%,11.0
+4:Icy Wind,50.0%,7.0
+5:Helping Hand,42.8571428571%,6.0
+6:Heal Pulse,21.4285714286%,3.0
+7:Thunder Wave,14.2857142857%,2.0
+8:Role Play,7.14285714286%,1.0
+9:Encore,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,14.0
+
+ ---------- 
+Abilities used:
+1:Friend Guard,100.0%,14.0
+
+ ---------- 
+Natures used:
+1:Relaxed,42.8571428571%,6.0
+2:Sassy,28.5714285714%,4.0
+3:Calm,14.2857142857%,2.0
+4:Bold,14.2857142857%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Rayquaza
+4:Smeargle
+5:Talonflame
+6:Trevenant
+7:Salamence
+8:Mawile
+9:Kyurem
+10:Landorus
+11:Tornadus
+12:Tornadus
+13:Liepard
+14:Togekiss
+15:Groudon
+16:Sableye
+17:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,14.2857142857%,2.0
+2:Precipice Blades,14.2857142857%,2.0
+3:Dazzling Gleam,14.2857142857%,2.0
+4:Eruption,14.2857142857%,2.0
+5:Sludge Bomb,14.2857142857%,2.0
+6:Earthquake,14.2857142857%,2.0
+7:Double-Edge,14.2857142857%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Landorus
+4:Rayquaza
+5:Salamence
+6:Gengar

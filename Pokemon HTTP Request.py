@@ -18,9 +18,9 @@ def GetData(pokemonID):
     '''Pulls the json data from PGL and converts it to a usable dictionary'''
     requestDataList = [
         'languageId=2',
-        'seasonId=114',
+        'seasonId=115',
         'battleType=5',
-        'timezone=EST',
+        'timezone=EDT',
         'pokemonId=%d-0' % (pokemonID),
         'displayNumberWaza=20',
         'displayNumberTokusei=3',
@@ -30,7 +30,7 @@ def GetData(pokemonID):
         'displayNumberPokemonIn=20',
         'displayNumberPokemonDown=20',
         'displayNumberPokemonDownWaza=20',
-        'timeStamp=1453422223192'
+        'timeStamp=1458345284603'
         ]
     requestDataString = "&".join(requestDataList)
     pokemonData = json.loads(requests.post(url, data=requestDataString, headers=headersDictionary).text)
@@ -60,9 +60,9 @@ def GetFormeData():
     for pokemon in pokemonWithFormes:
         requestDataList = [
         'languageId=2',
-        'seasonId=114',
+        'seasonId=115',
         'battleType=5',
-        'timezone=EST',
+        'timezone=EDT',
         'pokemonId=%s' % (pokemonWithFormes[pokemon]),
         'displayNumberWaza=20',
         'displayNumberTokusei=3',
@@ -72,7 +72,7 @@ def GetFormeData():
         'displayNumberPokemonIn=20',
         'displayNumberPokemonDown=20',
         'displayNumberPokemonDownWaza=20',
-        'timeStamp=1453422223192'
+        'timeStamp=1458345284603'
         ]
         requestDataString = "&".join(requestDataList)
         print "Now obtaining %s!" % (pokemon)
@@ -225,8 +225,8 @@ headersDictionary = {
 	'Connection' : 'keep-alive',
 	'Content-Length' : '288',
 	'Content-Type' : 'application/x-www-form-urlencoded; charset=UTF-8',
-		'Cookie' : '__ulfpc=201507141648558514; __utma=234147713.44858212.1436906933.1450754425.1450754425.1; __utmz=234147713.1450754425.1.1.utmcsr=pokemon-gl.com|utmccn=(referral)|utmcmd=referral|utmcct=/; region=1; language_id=2; site=2; JSESSIONID=DD14469E9FCCB8E77EC19C37921BE293; AWSELB=99C3FF770EA3504C46F25D799674203D12E259AC7AF523A441BC83B81A7A34CC74546EE73334E1A5AE0296D9AE6D620857C9DF385445A267DB7E496BEA70327F1D05B86B1023FF697977A00E295CBB8437E703A8CE; _ga=GA1.2.44858212.1436906933; _gat=1; NO_MEMBER_DATA=%7B%22language_id%22%3A2%2C%22site%22%3A2%2C%22region%22%3A1%7D',
-		'Host' : '3ds.pokemon-gl.com',
+	'Cookie' : '__ulfpc=201601211137474391; __utma=234147713.361904851.1453394265.1458005816.1458005816.1; __utmc=234147713; __utmz=234147713.1458005816.1.1.utmcsr=pokemon-gl.com|utmccn=(referral)|utmcmd=referral|utmcct=/; region=1; language_id=2; site=2; _gat=1; NO_MEMBER_DATA=%7B%22language_id%22%3A2%2C%22site%22%3A2%2C%22region%22%3A1%7D; JSESSIONID=0BEFE743D11F6D8CFBD1219CC19D9903; PGLLOGINTIME=1458345233585; AWSELB=99C3FF770EA3504C46F25D799674203D12E259AC7AC5D7290E56683809970E9EA7326DCE085D30C4D55D25C5F42E7627F38140FE8145A267DB7E496BEA70327F1D05B86B10C49D9262EC311863337947707E92C9AD; _ga=GA1.2.361904851.1453394265',
+	'Host' : '3ds.pokemon-gl.com',
 	'Origin' : 'http://3ds.pokemon-gl.com',
 	'Referer' : 'http://3ds.pokemon-gl.com/battle/oras/',
 	'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
@@ -254,7 +254,10 @@ print "Length of ordered list: %d" % len(orderedListByRank)
 for x in orderedListByRank:
     print x.thisPokemonRanking, x.thisPokemonName, x.totalNumberOfThisPokemon
 
-movesFile = open(os.path.join('.','MovesData.txt'),'w')
+for pokemon in orderedListByRank:
+    pokemon.WriteAllData()
+
+movesFile = open(os.path.join('.','Data','MovesData.txt'),'w')
 for pokemon in orderedListByRank:
     movesFile.write(str(pokemon.thisPokemonRanking)+'.'+ pokemon.thisPokemonName+'|'+str(pokemon.totalNumberOfThisPokemon)+'\n')
     movesFile.write('---\n')
@@ -262,5 +265,3 @@ for pokemon in orderedListByRank:
     movesFile.write("\n ---------- \n")
 
 movesFile.close()
-for pokemon in orderedListByRank:
-    pokemon.WriteAllData()

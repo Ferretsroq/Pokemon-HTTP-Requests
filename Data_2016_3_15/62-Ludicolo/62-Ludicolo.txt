@@ -1,0 +1,48 @@
+62:Ludicolo|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Fake Out,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Ferrothorn
+5:Smeargle
+6:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,0.333333333333
+2:Brave Bird,33.3333333333%,0.333333333333
+3:Hyper Voice,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Groudon
+3:Salamence

@@ -1,0 +1,37 @@
+246:Drifblim|1
+ ---------- 
+Moves used:
+1:Magic Coat,100.0%,1.0
+2:Stockpile,100.0%,1.0
+3:Swagger,100.0%,1.0
+4:Minimize,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Liepard
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

@@ -1,0 +1,72 @@
+252:Regice|11
+ ---------- 
+Moves used:
+1:Frost Breath,63.6363636364%,7.0
+2:Protect,63.6363636364%,7.0
+3:Thunder Wave,63.6363636364%,7.0
+4:Ice Beam,54.5454545455%,6.0
+5:Icy Wind,45.4545454545%,5.0
+6:Thunderbolt,36.3636363636%,4.0
+7:Blizzard,36.3636363636%,4.0
+8:Sleep Talk,27.2727272727%,3.0
+9:Focus Blast,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,63.6363636364%,7.0
+2:Choice Specs,36.3636363636%,4.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Bold,63.6363636364%,7.0
+2:Modest,36.3636363636%,4.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Crobat
+5:Rayquaza
+6:Aegislash
+7:Landorus
+8:Ferrothorn
+9:Stoutland
+10:Togekiss
+11:Abomasnow
+12:Raikou
+13:Zapdos
+14:Jynx
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Frost Breath,75.0%,8.25
+2:Blizzard,25.0%,2.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,16.6666666667%,1.83333333333
+2:Psyshock,16.6666666667%,1.83333333333
+3:Sucker Punch,16.6666666667%,1.83333333333
+4:Eruption,16.6666666667%,1.83333333333
+5:Return,16.6666666667%,1.83333333333
+6:Explosion,16.6666666667%,1.83333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Groudon
+3:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Landorus
+4:Cresselia
+5:Groudon
+6:Kangaskhan

@@ -1,0 +1,149 @@
+109:Serperior|202
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,202.0
+2:Glare,73.7623762376%,149.0
+3:Protect,62.3762376238%,126.0
+4:Gastro Acid,26.2376237624%,53.0
+5:Reflect,24.2574257426%,49.0
+6:Taunt,23.2673267327%,47.0
+7:Dragon Pulse,21.7821782178%,44.0
+8:Light Screen,20.297029703%,41.0
+9:Hidden Power,19.801980198%,40.0
+10:Giga Drain,9.40594059406%,19.0
+11:Wring Out,5.44554455446%,11.0
+12:Synthesis,3.9603960396%,8.0
+13:Swagger,2.47524752475%,5.0
+14:Leech Seed,2.47524752475%,5.0
+15:Substitute,1.48514851485%,3.0
+16:Hyper Beam,1.48514851485%,3.0
+17:Mirror Coat,0.990099009901%,2.0
+18:Aqua Tail,0.49504950495%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,55.4455445545%,112.0
+2:Sitrus Berry,11.8811881188%,24.0
+3:Light Clay,11.3861386139%,23.0
+4:Leftovers,5.44554455446%,11.0
+5:Rocky Helmet,3.46534653465%,7.0
+6:Wide Lens,2.9702970297%,6.0
+7:Lum Berry,2.9702970297%,6.0
+8:Life Orb,1.9801980198%,4.0
+9:Assault Vest,1.48514851485%,3.0
+10:Bright Powder,1.48514851485%,3.0
+11:Wise Glasses,0.49504950495%,1.0
+12:Yache Berry,0.49504950495%,1.0
+13:Occa Berry,0.49504950495%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,99.504950495%,201.0
+2:Overgrow,0.49504950495%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,96.5346534653%,195.0
+2:Modest,2.47524752475%,5.0
+3:Hasty,0.49504950495%,1.0
+4:Bold,0.49504950495%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Yveltal
+6:Ho-Oh
+7:Rayquaza
+8:Mawile
+9:Landorus
+10:Lopunny
+11:Greninja
+12:Ditto
+13:Talonflame
+14:Raichu
+15:Mewtwo
+16:Dialga
+17:Salamence
+18:Lugia
+19:Crobat
+20:Empoleon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,89.7959183673%,181.387755102
+2:Hidden Power,6.12244897959%,12.3673469388
+3:Dragon Pulse,2.04081632653%,4.12244897959
+4:Giga Drain,2.04081632653%,4.12244897959
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.67741935484%,19.5483870968
+2:Ice Beam,8.38709677419%,16.9419354839
+3:Brave Bird,6.45161290323%,13.0322580645
+4:Eruption,6.45161290323%,13.0322580645
+5:Double-Edge,5.16129032258%,10.4258064516
+6:Moonblast,4.51612903226%,9.12258064516
+7:Water Spout,4.51612903226%,9.12258064516
+8:Rock Slide,3.87096774194%,7.81935483871
+9:Gyro Ball,3.22580645161%,6.51612903226
+10:Sludge Bomb,3.22580645161%,6.51612903226
+11:Fire Punch,3.22580645161%,6.51612903226
+12:Precipice Blades,2.58064516129%,5.21290322581
+13:Origin Pulse,2.58064516129%,5.21290322581
+14:Sucker Punch,2.58064516129%,5.21290322581
+15:Hyper Voice,2.58064516129%,5.21290322581
+16:Return,2.58064516129%,5.21290322581
+17:Psychic,2.58064516129%,5.21290322581
+18:Dragon Ascent,1.93548387097%,3.90967741935
+19:Air Slash,1.93548387097%,3.90967741935
+20:Fake Out,1.93548387097%,3.90967741935
+0:Other,18.064516129%,36.4903225806
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Landorus
+6:Kyogre
+7:Smeargle
+8:Talonflame
+9:Thundurus
+10:Terrakion
+11:Ferrothorn
+12:Gothitelle
+13:Krookodile
+14:Unfezant
+15:Palkia
+16:Rayquaza
+17:Mawile
+18:Scizor
+19:Crobat
+20:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Cresselia
+8:Yveltal
+9:Ferrothorn
+10:Dialga
+11:Rayquaza
+12:Gengar
+13:Landorus
+14:Togekiss
+15:Mawile
+16:Gothitelle
+17:Palkia
+18:Smeargle
+19:Crobat
+20:Gengar

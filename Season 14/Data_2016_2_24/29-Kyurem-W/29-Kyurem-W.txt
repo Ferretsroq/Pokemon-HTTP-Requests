@@ -1,0 +1,164 @@
+29:Kyurem-W|3736
+ ---------- 
+Moves used:
+1:Fusion Flare,79.6573875803%,2976.0
+2:Ice Beam,78.426124197%,2930.0
+3:Draco Meteor,77.4892933619%,2895.0
+4:Blizzard,61.4293361884%,2295.0
+5:Earth Power,48.2601713062%,1803.0
+6:Protect,27.4357601713%,1025.0
+7:Dragon Pulse,12.7141327623%,475.0
+8:Slash,4.68415417559%,175.0
+9:Flash Cannon,3.23875802998%,121.0
+10:Focus Blast,2.56959314775%,96.0
+11:Icy Wind,1.84689507495%,69.0
+12:Sleep Talk,1.12419700214%,42.0
+13:Ice Burn,0.669164882227%,25.0
+14:Roost,0.187366167024%,7.0
+15:Dragon Breath,0.107066381156%,4.0
+16:Rock Slide,0.0802997858672%,3.0
+17:Hyper Voice,0.0535331905782%,2.0
+18:Psychic,0.0267665952891%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,66.3543897216%,2479.0
+2:Life Orb,21.6541755889%,809.0
+3:Choice Specs,5.16595289079%,193.0
+4:Never-Melt Ice,1.55246252677%,58.0
+5:Assault Vest,1.04389721627%,39.0
+6:Haban Berry,0.776231263383%,29.0
+7:White Herb,0.669164882227%,25.0
+8:Power Herb,0.615631691649%,23.0
+9:Wise Glasses,0.508565310493%,19.0
+10:Lum Berry,0.481798715203%,18.0
+11:Weakness Policy,0.29443254818%,11.0
+12:Icicle Plate,0.29443254818%,11.0
+13:Focus Sash,0.240899357602%,9.0
+14:Sitrus Berry,0.0802997858672%,3.0
+15:Absorb Bulb,0.0535331905782%,2.0
+16:Iron Ball,0.0535331905782%,2.0
+17:Expert Belt,0.0535331905782%,2.0
+18:Lax Incense,0.0535331905782%,2.0
+19:Roseli Berry,0.0267665952891%,1.0
+20:Air Balloon,0.0267665952891%,1.0
+
+ ---------- 
+Abilities used:
+1:Turboblaze,100.0%,3736.0
+
+ ---------- 
+Natures used:
+1:Modest,53.1852248394%,1987.0
+2:Timid,36.2687366167%,1355.0
+3:Quiet,5.78158458244%,216.0
+4:Naive,4.73768736617%,177.0
+5:Mild,0.0267665952891%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Gengar
+4:Meowstic
+5:Sableye
+6:Talonflame
+7:Kyogre
+8:Crobat
+9:Whimsicott
+10:Cresselia
+11:Ferrothorn
+12:Mawile
+13:Salamence
+14:Rayquaza
+15:Thundurus
+16:Liepard
+17:Landorus
+18:Aegislash
+19:Smeargle
+20:Xerneas
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,45.2351097179%,1689.98369906
+2:Ice Beam,33.0721003135%,1235.57366771
+3:Draco Meteor,9.02821316614%,337.294043887
+4:Earth Power,5.54858934169%,207.295297806
+5:Fusion Flare,3.88714733542%,145.223824451
+6:Dragon Pulse,1.53605015674%,57.3868338558
+7:Icy Wind,1.09717868339%,40.9905956113
+8:Struggle,0.188087774295%,7.02695924765
+9:Flash Cannon,0.12539184953%,4.68463949843
+10:Focus Blast,0.12539184953%,4.68463949843
+11:Ice Burn,0.0940438871473%,3.51347962382
+12:Sleep Talk,0.0626959247649%,2.34231974922
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.1374837873%,528.176394293
+2:Moonblast,6.4850843061%,242.282749676
+3:Precipice Blades,6.1392131431%,229.361003026
+4:Low Kick,5.87980977086%,219.669693039
+5:Eruption,5.1448335495%,192.210981409
+6:Draco Meteor,5.01513186338%,187.365326416
+7:Sucker Punch,3.89105058366%,145.369649805
+8:Ice Beam,3.84781668828%,143.754431474
+9:Gyro Ball,3.54517942067%,132.447903156
+10:Dragon Ascent,3.45871162992%,129.217466494
+11:Water Spout,3.11284046693%,116.295719844
+12:Extreme Speed,2.72373540856%,101.758754864
+13:Origin Pulse,2.63726761781%,98.5283182015
+14:Brave Bird,2.55079982706%,95.2978815391
+15:Double-Edge,2.46433203632%,92.0674448768
+16:Iron Head,2.24816255945%,83.9913532209
+17:Rock Slide,1.90229139645%,71.0696065716
+18:Foul Play,1.12408127972%,41.9956766105
+19:Hyper Voice,1.12408127972%,41.9956766105
+20:Spacial Rend,1.08084738435%,40.3804582793
+0:Other,17.8555987895%,667.085170774
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Talonflame
+4:Salamence
+5:Rayquaza
+6:Kangaskhan
+7:Landorus
+8:Xerneas
+9:Kyogre
+10:Smeargle
+11:Yveltal
+12:Thundurus
+13:Cresselia
+14:Liepard
+15:Rayquaza
+16:Whimsicott
+17:Gengar
+18:Ferrothorn
+19:Amoonguss
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Mawile
+7:Salamence
+8:Ferrothorn
+9:Yveltal
+10:Talonflame
+11:Rayquaza
+12:Dialga
+13:Palkia
+14:Landorus
+15:Kyurem
+16:Terrakion
+17:Mienshao
+18:Weavile
+19:Ho-Oh
+20:Scizor

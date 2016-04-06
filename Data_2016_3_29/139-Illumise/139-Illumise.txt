@@ -1,0 +1,68 @@
+139:Illumise|1
+ ---------- 
+Moves used:
+1:Struggle Bug,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Encore,100.0%,1.0
+4:Charm,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Mienshao
+3:Kyogre
+4:Krookodile
+5:Ditto
+6:Aron
+7:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Struggle Bug,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,18.75%,0.1875
+2:Origin Pulse,12.5%,0.125
+3:Dragon Ascent,6.25%,0.0625
+4:Oblivion Wing,6.25%,0.0625
+5:Dazzling Gleam,6.25%,0.0625
+6:Iron Head,6.25%,0.0625
+7:Gyro Ball,6.25%,0.0625
+8:Hyper Voice,6.25%,0.0625
+9:Eruption,6.25%,0.0625
+10:Heat Wave,6.25%,0.0625
+11:Fake Out,6.25%,0.0625
+12:Fire Blast,6.25%,0.0625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Landorus
+6:Ferrothorn
+7:Togekiss
+8:Rayquaza
+9:Salamence
+10:Mawile
+11:Zapdos
+12:Kangaskhan

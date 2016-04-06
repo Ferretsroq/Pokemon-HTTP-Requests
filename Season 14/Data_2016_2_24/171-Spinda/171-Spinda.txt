@@ -1,0 +1,86 @@
+171:Spinda|48
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,48.0
+2:Icy Wind,83.3333333333%,40.0
+3:Helping Hand,81.25%,39.0
+4:Copycat,77.0833333333%,37.0
+5:Fake Out,18.75%,9.0
+6:Encore,16.6666666667%,8.0
+7:Protect,14.5833333333%,7.0
+8:Snatch,4.16666666667%,2.0
+9:Teeter Dance,2.08333333333%,1.0
+10:Trick,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,85.4166666667%,41.0
+2:Focus Sash,14.5833333333%,7.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,48.0
+
+ ---------- 
+Natures used:
+1:Jolly,95.8333333333%,46.0
+2:Timid,4.16666666667%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Landorus
+3:Kyogre
+4:Ferrothorn
+5:Liepard
+6:Zygarde
+7:Regigigas
+8:Palkia
+9:Mawile
+10:Whimsicott
+11:Greninja
+12:Groudon
+13:Metagross
+14:Talonflame
+15:Accelgor
+16:Togekiss
+17:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,50.0%,24.0
+2:Struggle,50.0%,24.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.1818181818%,8.72727272727
+2:Double-Edge,13.6363636364%,6.54545454545
+3:Precipice Blades,9.09090909091%,4.36363636364
+4:Water Spout,9.09090909091%,4.36363636364
+5:Dragon Ascent,4.54545454545%,2.18181818182
+6:Origin Pulse,4.54545454545%,2.18181818182
+7:Power-Up Punch,4.54545454545%,2.18181818182
+8:Brave Bird,4.54545454545%,2.18181818182
+9:Dragon Pulse,4.54545454545%,2.18181818182
+10:Rock Slide,4.54545454545%,2.18181818182
+11:Explosion,4.54545454545%,2.18181818182
+12:Thunderbolt,4.54545454545%,2.18181818182
+13:Ice Beam,4.54545454545%,2.18181818182
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Talonflame
+6:Landorus
+7:Thundurus
+8:Dialga
+9:Rayquaza
+10:Salamence

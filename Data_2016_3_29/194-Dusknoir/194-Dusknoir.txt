@@ -1,0 +1,46 @@
+194:Dusknoir|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Gravity,100.0%,1.0
+3:Pain Split,100.0%,1.0
+4:Night Shade,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,0.25
+2:Scald,25.0%,0.25
+3:Overheat,25.0%,0.25
+4:Thunderbolt,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Thundurus
+3:Kyogre
+4:Charizard

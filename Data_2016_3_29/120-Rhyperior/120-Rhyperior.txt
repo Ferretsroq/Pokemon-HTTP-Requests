@@ -1,0 +1,111 @@
+120:Rhyperior|31
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,31.0
+2:Rock Slide,87.0967741935%,27.0
+3:Protect,58.064516129%,18.0
+4:Drill Run,35.4838709677%,11.0
+5:Hammer Arm,32.2580645161%,10.0
+6:Thunder Punch,32.2580645161%,10.0
+7:Superpower,16.1290322581%,5.0
+8:Ice Punch,16.1290322581%,5.0
+9:Stone Edge,12.9032258065%,4.0
+10:Substitute,6.45161290323%,2.0
+11:Rock Wrecker,3.22580645161%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,41.935483871%,13.0
+2:Iron Ball,32.2580645161%,10.0
+3:Weakness Policy,6.45161290323%,2.0
+4:Life Orb,6.45161290323%,2.0
+5:Expert Belt,6.45161290323%,2.0
+6:Lum Berry,6.45161290323%,2.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,96.7741935484%,30.0
+2:Lightning Rod,3.22580645161%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,93.5483870968%,29.0
+2:Brave,6.45161290323%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kangaskhan
+3:Whimsicott
+4:Dialga
+5:Salamence
+6:Ferrothorn
+7:Lugia
+8:Giratina
+9:Groudon
+10:Yveltal
+11:Electrode
+12:Excadrill
+13:Cresselia
+14:Palkia
+15:Gallade
+16:Kyogre
+17:Mawile
+18:Smeargle
+19:Xerneas
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,50.0%,15.5
+2:Earthquake,31.8181818182%,9.86363636364
+3:Stone Edge,9.09090909091%,2.81818181818
+4:Drill Run,4.54545454545%,1.40909090909
+5:Thunder Punch,4.54545454545%,1.40909090909
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,16.0%,4.96
+2:Origin Pulse,12.0%,3.72
+3:Precipice Blades,8.0%,2.48
+4:Dazzling Gleam,8.0%,2.48
+5:Brave Bird,8.0%,2.48
+6:Water Spout,8.0%,2.48
+7:Hyper Voice,8.0%,2.48
+8:Ice Beam,8.0%,2.48
+9:Scald,4.0%,1.24
+10:Shadow Force,4.0%,1.24
+11:Power Whip,4.0%,1.24
+12:Flash Cannon,4.0%,1.24
+13:Dragon Pulse,4.0%,1.24
+14:Rock Slide,4.0%,1.24
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Yveltal
+3:Cresselia
+4:Kyogre
+5:Smeargle
+6:Aegislash
+7:Talonflame
+8:Amoonguss
+9:Liepard
+10:Dialga
+11:Lucario
+12:Groudon
+13:Salamence
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Cresselia
+6:Dialga
+7:Sylveon
+8:Ferrothorn
+9:Giratina
+10:Salamence

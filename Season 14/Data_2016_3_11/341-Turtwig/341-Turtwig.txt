@@ -1,0 +1,40 @@
+341:Turtwig|1
+ ---------- 
+Moves used:
+1:Giga Drain,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Toxic,100.0%,1.0
+4:Leech Seed,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Shell Armor,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Cresselia
+4:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

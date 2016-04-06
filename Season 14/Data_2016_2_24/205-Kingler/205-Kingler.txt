@@ -1,0 +1,95 @@
+205:Kingler|24
+ ---------- 
+Moves used:
+1:Crabhammer,100.0%,24.0
+2:Wide Guard,95.8333333333%,23.0
+3:Protect,95.8333333333%,23.0
+4:Superpower,83.3333333333%,20.0
+5:Ally Switch,16.6666666667%,4.0
+6:Knock Off,4.16666666667%,1.0
+7:Rock Slide,4.16666666667%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,79.1666666667%,19.0
+2:Focus Band,12.5%,3.0
+3:Choice Scarf,4.16666666667%,1.0
+4:Sitrus Berry,4.16666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,79.1666666667%,19.0
+2:Shell Armor,16.6666666667%,4.0
+3:Hyper Cutter,4.16666666667%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,24.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Crobat
+4:Nidoking
+5:Xerneas
+6:Rayquaza
+7:Gengar
+8:Sylveon
+9:Talonflame
+10:Palkia
+11:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Superpower,50.0%,12.0
+2:Crabhammer,41.6666666667%,10.0
+3:Rock Slide,8.33333333333%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,9.52380952381%,2.28571428571
+2:Earth Power,9.52380952381%,2.28571428571
+3:Water Spout,9.52380952381%,2.28571428571
+4:Precipice Blades,4.7619047619%,1.14285714286
+5:Dazzling Gleam,4.7619047619%,1.14285714286
+6:Psystrike,4.7619047619%,1.14285714286
+7:Power Whip,4.7619047619%,1.14285714286
+8:Draco Meteor,4.7619047619%,1.14285714286
+9:Bullet Punch,4.7619047619%,1.14285714286
+10:Sucker Punch,4.7619047619%,1.14285714286
+11:Hyper Voice,4.7619047619%,1.14285714286
+12:Eruption,4.7619047619%,1.14285714286
+13:Shadow Ball,4.7619047619%,1.14285714286
+14:Thunder,4.7619047619%,1.14285714286
+15:Ice Beam,4.7619047619%,1.14285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Ferrothorn
+4:Dialga
+5:Kyogre
+6:Metagross
+7:Mawile
+8:Smeargle
+9:Crobat
+10:Mewtwo
+11:Mewtwo
+12:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Xerneas
+5:Aegislash
+6:Thundurus
+7:Ferrothorn
+8:Dialga
+9:Salamence
+10:Scizor
+11:Mewtwo
+12:Kangaskhan

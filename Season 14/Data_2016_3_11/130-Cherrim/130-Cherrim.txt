@@ -1,0 +1,132 @@
+130:Cherrim|176
+ ---------- 
+Moves used:
+1:Protect,80.1136363636%,141.0
+2:Heal Pulse,70.4545454545%,124.0
+3:Helping Hand,66.4772727273%,117.0
+4:Grass Knot,43.75%,77.0
+5:Grass Whistle,40.3409090909%,71.0
+6:Worry Seed,28.9772727273%,51.0
+7:Leech Seed,26.1363636364%,46.0
+8:Safeguard,24.4318181818%,43.0
+9:Healing Wish,5.11363636364%,9.0
+10:Morning Sun,3.97727272727%,7.0
+11:Solar Beam,3.40909090909%,6.0
+12:Seed Bomb,2.84090909091%,5.0
+13:Energy Ball,2.27272727273%,4.0
+14:Giga Drain,1.13636363636%,2.0
+15:Swagger,0.568181818182%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,59.6590909091%,105.0
+2:Choice Scarf,19.8863636364%,35.0
+3:Focus Band,6.25%,11.0
+4:Sitrus Berry,5.68181818182%,10.0
+5:Mental Herb,3.97727272727%,7.0
+6:Bright Powder,2.27272727273%,4.0
+7:Leftovers,1.13636363636%,2.0
+8:Quick Claw,0.568181818182%,1.0
+9:Occa Berry,0.568181818182%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,176.0
+
+ ---------- 
+Natures used:
+1:Timid,67.6136363636%,119.0
+2:Impish,17.6136363636%,31.0
+3:Bold,5.68181818182%,10.0
+4:Modest,3.40909090909%,6.0
+5:Jolly,2.84090909091%,5.0
+6:Relaxed,2.27272727273%,4.0
+7:Calm,0.568181818182%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Xerneas
+4:Cresselia
+5:Salamence
+6:Kangaskhan
+7:Giratina
+8:Mawile
+9:Sableye
+10:Smeargle
+11:Meowstic
+12:Bronzong
+13:Rayquaza
+14:Crobat
+15:Landorus
+16:Dialga
+17:Thundurus
+18:Gastrodon
+19:Aromatisse
+20:Kyurem
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,75.0%,132.0
+2:Energy Ball,16.6666666667%,29.3333333333
+3:Solar Beam,8.33333333333%,14.6666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,9.78260869565%,17.2173913043
+2:Hyper Voice,9.78260869565%,17.2173913043
+3:Eruption,7.60869565217%,13.3913043478
+4:Ice Beam,7.60869565217%,13.3913043478
+5:Dazzling Gleam,5.4347826087%,9.5652173913
+6:Sludge Bomb,5.4347826087%,9.5652173913
+7:Water Spout,4.34782608696%,7.65217391304
+8:Rock Slide,4.34782608696%,7.65217391304
+9:Fire Punch,4.34782608696%,7.65217391304
+10:Play Rough,3.26086956522%,5.73913043478
+11:Brave Bird,3.26086956522%,5.73913043478
+12:Extreme Speed,3.26086956522%,5.73913043478
+13:Flamethrower,3.26086956522%,5.73913043478
+14:Dragon Ascent,2.17391304348%,3.82608695652
+15:Spacial Rend,2.17391304348%,3.82608695652
+16:Gyro Ball,2.17391304348%,3.82608695652
+17:Double-Edge,2.17391304348%,3.82608695652
+18:Origin Pulse,1.08695652174%,1.91304347826
+19:Oblivion Wing,1.08695652174%,1.91304347826
+20:Snarl,1.08695652174%,1.91304347826
+0:Other,11.9565217391%,21.0434782609
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kyurem
+4:Landorus
+5:Liepard
+6:Palkia
+7:Kyogre
+8:Smeargle
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Kyogre
+4:Xerneas
+5:Talonflame
+6:Rayquaza
+7:Mawile
+8:Cresselia
+9:Gengar
+10:Yveltal
+11:Landorus
+12:Ferrothorn
+13:Palkia
+14:Kangaskhan
+15:Gengar
+16:Kyurem
+17:Thundurus
+18:Liepard
+19:Giratina
+20:Dialga

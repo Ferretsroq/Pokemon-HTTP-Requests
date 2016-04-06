@@ -1,0 +1,120 @@
+121:Aron|163
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,163.0
+2:Protect,100.0%,163.0
+3:Sandstorm,53.3742331288%,87.0
+4:Toxic,41.1042944785%,67.0
+5:Swagger,34.3558282209%,56.0
+6:Sleep Talk,17.1779141104%,28.0
+7:Rock Tomb,16.5644171779%,27.0
+8:Aerial Ace,9.81595092025%,16.0
+9:Stealth Rock,8.58895705521%,14.0
+10:Tackle,6.13496932515%,10.0
+11:Rock Slide,4.90797546012%,8.0
+12:Mud-Slap,3.06748466258%,5.0
+13:Roar,2.45398773006%,4.0
+
+ ---------- 
+Items used:
+1:Berry Juice,65.6441717791%,107.0
+2:Shell Bell,34.3558282209%,56.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,163.0
+
+ ---------- 
+Natures used:
+1:Timid,31.2883435583%,51.0
+2:Adamant,12.2699386503%,20.0
+3:Careful,10.4294478528%,17.0
+4:Lonely,9.81595092025%,16.0
+5:Brave,9.20245398773%,15.0
+6:Naughty,6.74846625767%,11.0
+7:Modest,6.13496932515%,10.0
+8:Quirky,4.29447852761%,7.0
+9:Quiet,3.06748466258%,5.0
+10:Jolly,2.45398773006%,4.0
+11:Docile,2.45398773006%,4.0
+12:Relaxed,1.84049079755%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Xerneas
+4:Infernape
+5:Talonflame
+6:Kangaskhan
+7:Smeargle
+8:Liepard
+9:Dialga
+10:Mawile
+11:Raichu
+12:Kyogre
+13:Porygon2
+14:Yveltal
+15:Meowstic
+16:Cresselia
+17:Palkia
+18:Aromatisse
+19:Gothitelle
+20:Giratina
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aerial Ace,50.0%,81.5
+2:Tackle,50.0%,81.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.7647058824%,19.1764705882
+2:Eruption,7.56302521008%,12.3277310924
+3:Ice Beam,7.56302521008%,12.3277310924
+4:Water Spout,6.72268907563%,10.9579831933
+5:Hyper Voice,6.72268907563%,10.9579831933
+6:Fake Out,5.04201680672%,8.21848739496
+7:Precipice Blades,4.20168067227%,6.8487394958
+8:Moonblast,3.36134453782%,5.47899159664
+9:Extreme Speed,3.36134453782%,5.47899159664
+10:Origin Pulse,2.52100840336%,4.10924369748
+11:Earth Power,2.52100840336%,4.10924369748
+12:Gyro Ball,2.52100840336%,4.10924369748
+13:Low Kick,2.52100840336%,4.10924369748
+14:Double-Edge,2.52100840336%,4.10924369748
+15:Power-Up Punch,1.68067226891%,2.73949579832
+16:Foul Play,1.68067226891%,2.73949579832
+17:Brave Bird,1.68067226891%,2.73949579832
+18:Flare Blitz,1.68067226891%,2.73949579832
+19:Knock Off,1.68067226891%,2.73949579832
+20:Return,1.68067226891%,2.73949579832
+0:Other,15.1260504202%,24.6554621849
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Ferrothorn
+8:Cresselia
+9:Rayquaza
+10:Whimsicott
+11:Landorus
+12:Liepard
+13:Weavile
+14:Crobat
+15:Sylveon
+16:Aegislash
+17:Kyurem
+18:Thundurus
+19:Seismitoad
+20:Giratina

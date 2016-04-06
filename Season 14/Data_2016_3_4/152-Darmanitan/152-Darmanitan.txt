@@ -1,0 +1,134 @@
+152:Darmanitan|76
+ ---------- 
+Moves used:
+1:Flare Blitz,98.6842105263%,75.0
+2:Rock Slide,75.0%,57.0
+3:Superpower,57.8947368421%,44.0
+4:Protect,35.5263157895%,27.0
+5:U-turn,31.5789473684%,24.0
+6:Sleep Talk,22.3684210526%,17.0
+7:Zen Headbutt,14.4736842105%,11.0
+8:Earthquake,10.5263157895%,8.0
+9:Yawn,2.63157894737%,2.0
+10:Giga Impact,1.31578947368%,1.0
+11:Rock Tomb,1.31578947368%,1.0
+12:Fire Blast,1.31578947368%,1.0
+13:Psychic,1.31578947368%,1.0
+14:Thrash,1.31578947368%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,38.1578947368%,29.0
+2:Life Orb,36.8421052632%,28.0
+3:Choice Scarf,23.6842105263%,18.0
+4:Assault Vest,1.31578947368%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,98.6842105263%,75.0
+2:Zen Mode,1.31578947368%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,64.4736842105%,49.0
+2:Jolly,34.2105263158%,26.0
+3:Modest,1.31578947368%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Smeargle
+4:Ferrothorn
+5:Xerneas
+6:Mawile
+7:Kangaskhan
+8:Yveltal
+9:Kyogre
+10:Talonflame
+11:Sylveon
+12:Aromatisse
+13:Mewtwo
+14:Salamence
+15:Thundurus
+16:Amoonguss
+17:Golduck
+18:Parasect
+19:Dialga
+20:Zekrom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,67.3469387755%,51.1836734694
+2:Rock Slide,16.3265306122%,12.4081632653
+3:U-turn,4.08163265306%,3.10204081633
+4:Superpower,4.08163265306%,3.10204081633
+5:Fire Blast,4.08163265306%,3.10204081633
+6:Zen Headbutt,2.04081632653%,1.55102040816
+7:Thrash,2.04081632653%,1.55102040816
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,21.8181818182%,16.5818181818
+2:Origin Pulse,12.7272727273%,9.67272727273
+3:Brave Bird,5.45454545455%,4.14545454545
+4:Double-Edge,5.45454545455%,4.14545454545
+5:Dazzling Gleam,3.63636363636%,2.76363636364
+6:Sucker Punch,3.63636363636%,2.76363636364
+7:Water Spout,3.63636363636%,2.76363636364
+8:Eruption,3.63636363636%,2.76363636364
+9:Knock Off,3.63636363636%,2.76363636364
+10:Return,3.63636363636%,2.76363636364
+11:Rock Slide,3.63636363636%,2.76363636364
+12:Dragon Ascent,1.81818181818%,1.38181818182
+13:Moonblast,1.81818181818%,1.38181818182
+14:Wild Charge,1.81818181818%,1.38181818182
+15:Spacial Rend,1.81818181818%,1.38181818182
+16:Earth Power,1.81818181818%,1.38181818182
+17:Dragon Pulse,1.81818181818%,1.38181818182
+18:Close Combat,1.81818181818%,1.38181818182
+19:Gyro Ball,1.81818181818%,1.38181818182
+20:Hyper Voice,1.81818181818%,1.38181818182
+0:Other,5.45454545455%,4.14545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Kyogre
+4:Kangaskhan
+5:Cresselia
+6:Crobat
+7:Ferrothorn
+8:Weavile
+9:Groudon
+10:Scizor
+11:Kyurem
+12:Thundurus
+13:Amoonguss
+14:Whimsicott
+15:Dusknoir
+16:Staraptor
+17:Mawile
+18:Sableye
+19:Ho-Oh
+20:Jynx
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Talonflame
+6:Weavile
+7:Yveltal
+8:Thundurus
+9:Ferrothorn
+10:Palkia
+11:Dialga
+12:Infernape
+13:Rayquaza
+14:Salamence
+15:Mewtwo
+16:Gengar

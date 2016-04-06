@@ -1,0 +1,83 @@
+148:Medicham|16
+ ---------- 
+Moves used:
+1:Fake Out,93.75%,15.0
+2:Psycho Cut,68.75%,11.0
+3:Bullet Punch,68.75%,11.0
+4:Low Kick,56.25%,9.0
+5:Detect,31.25%,5.0
+6:High Jump Kick,31.25%,5.0
+7:Zen Headbutt,25.0%,4.0
+8:Drain Punch,6.25%,1.0
+9:Feint,6.25%,1.0
+10:Focus Punch,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Medichamite,87.5%,14.0
+2:Life Orb,12.5%,2.0
+
+ ---------- 
+Abilities used:
+1:Pure Power,100.0%,16.0
+
+ ---------- 
+Natures used:
+1:Jolly,87.5%,14.0
+2:Adamant,12.5%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Swellow
+4:Gengar
+5:Cresselia
+6:Kyogre
+7:Crobat
+8:Greninja
+9:Thundurus
+10:Druddigon
+11:Ferrothorn
+12:Liepard
+13:Giratina
+14:Dialga
+15:Garchomp
+16:Salamence
+17:Smeargle
+18:Zapdos
+19:Aerodactyl
+20:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,42.8571428571%,6.85714285714
+2:Feint,28.5714285714%,4.57142857143
+3:Focus Punch,14.2857142857%,2.28571428571
+4:High Jump Kick,14.2857142857%,2.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,22.2222222222%,3.55555555556
+2:Hyper Voice,22.2222222222%,3.55555555556
+3:Double-Edge,22.2222222222%,3.55555555556
+4:Dragon Ascent,11.1111111111%,1.77777777778
+5:Precipice Blades,11.1111111111%,1.77777777778
+6:Water Spout,11.1111111111%,1.77777777778
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Dialga
+3:Groudon
+4:Ditto
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Salamence
+3:Kangaskhan
+4:Rayquaza
+5:Groudon
+6:Kyogre

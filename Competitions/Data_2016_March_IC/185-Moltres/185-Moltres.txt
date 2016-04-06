@@ -1,0 +1,42 @@
+185:Moltres|1
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Heat Wave,100.0%,1.0
+4:Safeguard,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Ferrothorn
+2:Cresselia
+3:Dialga
+4:Kyogre
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Groudon

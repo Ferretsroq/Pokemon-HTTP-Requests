@@ -1,0 +1,132 @@
+101:Staraptor|193
+ ---------- 
+Moves used:
+1:Brave Bird,96.3730569948%,186.0
+2:Final Gambit,76.1658031088%,147.0
+3:Close Combat,76.1658031088%,147.0
+4:U-turn,62.1761658031%,120.0
+5:Double-Edge,19.689119171%,38.0
+6:Endeavor,19.170984456%,37.0
+7:Return,14.5077720207%,28.0
+8:Tailwind,11.3989637306%,22.0
+9:Protect,10.8808290155%,21.0
+10:Whirlwind,8.80829015544%,17.0
+11:Quick Attack,2.59067357513%,5.0
+12:Retaliate,2.0725388601%,4.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,72.0207253886%,139.0
+2:Choice Band,9.84455958549%,19.0
+3:Life Orb,9.32642487047%,18.0
+4:Rocky Helmet,6.73575129534%,13.0
+5:Lum Berry,1.55440414508%,3.0
+6:Focus Sash,0.518134715026%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,84.4559585492%,163.0
+2:Reckless,15.5440414508%,30.0
+
+ ---------- 
+Natures used:
+1:Jolly,88.0829015544%,170.0
+2:Adamant,11.9170984456%,23.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Xerneas
+3:Crobat
+4:Groudon
+5:Kyogre
+6:Rayquaza
+7:Clefairy
+8:Gothitelle
+9:Yveltal
+10:Gengar
+11:Venusaur
+12:Talonflame
+13:Rotom
+14:Mawile
+15:Hydreigon
+16:Liepard
+17:Dialga
+18:Weavile
+19:Cloyster
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Final Gambit,67.619047619%,130.504761905
+2:Brave Bird,20.0%,38.6
+3:Close Combat,7.61904761905%,14.7047619048
+4:Double-Edge,3.80952380952%,7.35238095238
+5:Retaliate,0.952380952381%,1.8380952381
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,6.39534883721%,12.3430232558
+2:Dazzling Gleam,4.06976744186%,7.85465116279
+3:Origin Pulse,3.48837209302%,6.73255813953
+4:Water Spout,2.90697674419%,5.61046511628
+5:Hyper Voice,1.74418604651%,3.36627906977
+6:Rock Slide,1.74418604651%,3.36627906977
+7:Precipice Blades,1.16279069767%,2.24418604651
+8:Moonblast,1.16279069767%,2.24418604651
+9:Iron Head,1.16279069767%,2.24418604651
+10:Draco Meteor,1.16279069767%,2.24418604651
+11:Sucker Punch,1.16279069767%,2.24418604651
+12:Ice Beam,1.16279069767%,2.24418604651
+13:Dragon Ascent,0.581395348837%,1.12209302326
+14:Brave Bird,0.581395348837%,1.12209302326
+15:Overheat,0.581395348837%,1.12209302326
+16:Extreme Speed,0.581395348837%,1.12209302326
+17:Sacred Fire,0.581395348837%,1.12209302326
+18:Icy Wind,0.581395348837%,1.12209302326
+19:Explosion,0.581395348837%,1.12209302326
+20:Thunderbolt,0.581395348837%,1.12209302326
+0:Other,2.32558139535%,4.48837209302
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Crobat
+4:Groudon
+5:Ferrothorn
+6:Mawile
+7:Talonflame
+8:Salamence
+9:Xerneas
+10:Rayquaza
+11:Greninja
+12:Togekiss
+13:Kyogre
+14:Smeargle
+15:Sylveon
+16:Thundurus
+17:Thundurus
+18:Archeops
+19:Whimsicott
+20:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Mawile
+5:Salamence
+6:Rayquaza
+7:Sylveon
+8:Talonflame
+9:Landorus
+10:Terrakion
+11:Abomasnow
+12:Rayquaza
+13:Camerupt
+14:Gardevoir
+15:Ho-Oh
+16:Ditto
+17:Gengar

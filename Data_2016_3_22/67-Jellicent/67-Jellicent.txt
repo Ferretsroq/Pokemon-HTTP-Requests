@@ -1,0 +1,117 @@
+67:Jellicent|60
+ ---------- 
+Moves used:
+1:Scald,78.3333333333%,47.0
+2:Ice Beam,78.3333333333%,47.0
+3:Trick Room,43.3333333333%,26.0
+4:Will-O-Wisp,43.3333333333%,26.0
+5:Water Spout,38.3333333333%,23.0
+6:Shadow Ball,38.3333333333%,23.0
+7:Magic Coat,36.6666666667%,22.0
+8:Recover,25.0%,15.0
+9:Taunt,18.3333333333%,11.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,40.0%,24.0
+2:Choice Scarf,38.3333333333%,23.0
+3:Red Card,18.3333333333%,11.0
+4:Chesto Berry,3.33333333333%,2.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,60.0%,36.0
+2:Cursed Body,40.0%,24.0
+
+ ---------- 
+Natures used:
+1:Timid,38.3333333333%,23.0
+2:Sassy,25.0%,15.0
+3:Calm,18.3333333333%,11.0
+4:Relaxed,18.3333333333%,11.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Mawile
+5:Rayquaza
+6:Groudon
+7:Lickilicky
+8:Gengar
+9:Yveltal
+10:Landorus
+11:Talonflame
+12:Cresselia
+13:Salamence
+14:Raichu
+15:Amoonguss
+16:Alakazam
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,37.9310344828%,22.7586206897
+2:Water Spout,27.5862068966%,16.5517241379
+3:Ice Beam,20.6896551724%,12.4137931034
+4:Shadow Ball,13.7931034483%,8.27586206897
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.9534883721%,8.37209302326
+2:Moonblast,13.9534883721%,8.37209302326
+3:Power Whip,9.3023255814%,5.58139534884
+4:Precipice Blades,6.97674418605%,4.18604651163
+5:Sucker Punch,6.97674418605%,4.18604651163
+6:Dragon Ascent,4.6511627907%,2.79069767442
+7:Snarl,4.6511627907%,2.79069767442
+8:Grass Knot,4.6511627907%,2.79069767442
+9:Double-Edge,4.6511627907%,2.79069767442
+10:Draco Meteor,2.32558139535%,1.39534883721
+11:Earth Power,2.32558139535%,1.39534883721
+12:Brave Bird,2.32558139535%,1.39534883721
+13:Seed Bomb,2.32558139535%,1.39534883721
+14:Night Slash,2.32558139535%,1.39534883721
+15:Dark Pulse,2.32558139535%,1.39534883721
+16:Knock Off,2.32558139535%,1.39534883721
+17:Rock Slide,2.32558139535%,1.39534883721
+18:Earthquake,2.32558139535%,1.39534883721
+19:Thunder,2.32558139535%,1.39534883721
+20:Bite,2.32558139535%,1.39534883721
+0:Other,4.4408920985e-15%,2.6645352591e-15
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Talonflame
+3:Groudon
+4:Smeargle
+5:Salamence
+6:Xerneas
+7:Aegislash
+8:Landorus
+9:Dialga
+10:Togekiss
+11:Weavile
+12:Kyogre
+13:Manectric
+14:Lugia
+15:Zapdos
+16:Gengar
+17:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Ferrothorn
+3:Groudon
+4:Yveltal
+5:Rayquaza
+6:Kangaskhan
+7:Weavile
+8:Salamence
+9:Talonflame
+10:Landorus
+11:Amoonguss
+12:Dialga
+13:Mawile

@@ -1,0 +1,139 @@
+122:Trevenant|190
+ ---------- 
+Moves used:
+1:Trick Room,97.3684210526%,185.0
+2:Phantom Force,82.6315789474%,157.0
+3:Curse,78.9473684211%,150.0
+4:Protect,76.3157894737%,145.0
+5:Forest's Curse,25.7894736842%,49.0
+6:Wood Hammer,12.6315789474%,24.0
+7:Will-O-Wisp,8.94736842105%,17.0
+8:Horn Leech,4.73684210526%,9.0
+9:Magic Coat,4.21052631579%,8.0
+10:Skill Swap,3.15789473684%,6.0
+11:Foul Play,2.10526315789%,4.0
+12:Substitute,1.05263157895%,2.0
+13:Leech Seed,1.05263157895%,2.0
+14:Shadow Claw,0.526315789474%,1.0
+15:Rock Slide,0.526315789474%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,91.5789473684%,174.0
+2:Focus Sash,3.68421052632%,7.0
+3:Mental Herb,3.68421052632%,7.0
+4:Lum Berry,1.05263157895%,2.0
+
+ ---------- 
+Abilities used:
+1:Harvest,92.6315789474%,176.0
+2:Frisk,7.36842105263%,14.0
+
+ ---------- 
+Natures used:
+1:Careful,82.1052631579%,156.0
+2:Brave,7.89473684211%,15.0
+3:Sassy,4.21052631579%,8.0
+4:Impish,2.63157894737%,5.0
+5:Adamant,2.63157894737%,5.0
+6:Timid,0.526315789474%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Kangaskhan
+4:Sylveon
+5:Mawile
+6:Groudon
+7:Landorus
+8:Talonflame
+9:Cresselia
+10:Sableye
+11:Liepard
+12:Hypno
+13:Thundurus
+14:Dialga
+15:Togekiss
+16:Kyurem
+17:Hydreigon
+18:Braviary
+19:Ferrothorn
+20:Gigalith
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,80.5555555556%,153.055555556
+2:Wood Hammer,13.8888888889%,26.3888888889
+3:Horn Leech,2.77777777778%,5.27777777778
+4:Rock Slide,2.77777777778%,5.27777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,13.8686131387%,26.3503649635
+2:Eruption,10.9489051095%,20.802919708
+3:Dragon Ascent,6.56934306569%,12.4817518248
+4:Brave Bird,6.56934306569%,12.4817518248
+5:Moonblast,5.83941605839%,11.0948905109
+6:Dazzling Gleam,5.10948905109%,9.70802919708
+7:Hyper Voice,3.6496350365%,6.93430656934
+8:Fire Punch,3.6496350365%,6.93430656934
+9:Precipice Blades,2.9197080292%,5.54744525547
+10:Flare Blitz,2.1897810219%,4.16058394161
+11:Overheat,2.1897810219%,4.16058394161
+12:Knock Off,2.1897810219%,4.16058394161
+13:Double-Edge,2.1897810219%,4.16058394161
+14:Play Rough,1.4598540146%,2.77372262774
+15:Foul Play,1.4598540146%,2.77372262774
+16:Iron Head,1.4598540146%,2.77372262774
+17:Power Whip,1.4598540146%,2.77372262774
+18:Fire Fang,1.4598540146%,2.77372262774
+19:Sucker Punch,1.4598540146%,2.77372262774
+20:Shadow Ball,1.4598540146%,2.77372262774
+0:Other,10.9489051095%,20.802919708
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Ferrothorn
+4:Gengar
+5:Gengar
+6:Talonflame
+7:Thundurus
+8:Terrakion
+9:Mienshao
+10:Amoonguss
+11:Gothitelle
+12:Liepard
+13:Togekiss
+14:Groudon
+15:Metagross
+16:Mawile
+17:Smeargle
+18:Crobat
+19:Mewtwo
+20:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Salamence
+6:Mawile
+7:Rayquaza
+8:Rayquaza
+9:Ferrothorn
+10:Yveltal
+11:Cresselia
+12:Dialga
+13:Ho-Oh
+14:Ditto
+15:Kangaskhan
+16:Aegislash
+17:Landorus
+18:Terrakion
+19:Whimsicott
+20:Liepard

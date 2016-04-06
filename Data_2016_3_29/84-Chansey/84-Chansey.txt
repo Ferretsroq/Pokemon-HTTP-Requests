@@ -1,0 +1,108 @@
+84:Chansey|80
+ ---------- 
+Moves used:
+1:Soft-Boiled,100.0%,80.0
+2:Seismic Toss,73.75%,59.0
+3:Counter,62.5%,50.0
+4:Minimize,41.25%,33.0
+5:Heal Pulse,36.25%,29.0
+6:Toxic,27.5%,22.0
+7:Skill Swap,25.0%,20.0
+8:Thunder Wave,21.25%,17.0
+9:Helping Hand,12.5%,10.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,80.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,100.0%,80.0
+
+ ---------- 
+Natures used:
+1:Bold,73.75%,59.0
+2:Relaxed,26.25%,21.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Mewtwo
+3:Kyogre
+4:Smeargle
+5:Gengar
+6:Groudon
+7:Sableye
+8:Greninja
+9:Talonflame
+10:Rayquaza
+11:Dialga
+12:Gyarados
+13:Crobat
+14:Landorus
+15:Whimsicott
+16:Yveltal
+17:Thundurus
+18:Lickilicky
+19:Garchomp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,76.9230769231%,61.5384615385
+2:Counter,23.0769230769%,18.4615384615
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,13.1578947368%,10.5263157895
+2:Fire Punch,13.1578947368%,10.5263157895
+3:Brave Bird,10.5263157895%,8.42105263158
+4:Double-Edge,10.5263157895%,8.42105263158
+5:Precipice Blades,7.89473684211%,6.31578947368
+6:Eruption,7.89473684211%,6.31578947368
+7:Origin Pulse,5.26315789474%,4.21052631579
+8:Dragon Ascent,2.63157894737%,2.10526315789
+9:Snarl,2.63157894737%,2.10526315789
+10:Iron Head,2.63157894737%,2.10526315789
+11:Flash Cannon,2.63157894737%,2.10526315789
+12:Giga Impact,2.63157894737%,2.10526315789
+13:Earth Power,2.63157894737%,2.10526315789
+14:Water Spout,2.63157894737%,2.10526315789
+15:Knock Off,2.63157894737%,2.10526315789
+16:Extreme Speed,2.63157894737%,2.10526315789
+17:Sludge Bomb,2.63157894737%,2.10526315789
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Kyogre
+4:Mawile
+5:Xerneas
+6:Ferrothorn
+7:Rayquaza
+8:Crobat
+9:Terrakion
+10:Bisharp
+11:Lilligant
+12:Cresselia
+13:Weavile
+14:Ho-Oh
+15:Smeargle
+16:Clefairy
+17:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Kyogre
+5:Yveltal
+6:Talonflame
+7:Rayquaza
+8:Ho-Oh
+9:Dialga
+10:Mawile
+11:Smeargle
+12:Crobat
+13:Kangaskhan

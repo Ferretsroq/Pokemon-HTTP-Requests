@@ -1,0 +1,69 @@
+249:Cottonee|14
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,14.0
+2:Tailwind,78.5714285714%,11.0
+3:Fake Tears,78.5714285714%,11.0
+4:Worry Seed,71.4285714286%,10.0
+5:Encore,21.4285714286%,3.0
+6:Safeguard,21.4285714286%,3.0
+7:Protect,14.2857142857%,2.0
+8:Swagger,7.14285714286%,1.0
+9:Toxic,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,14.0
+
+ ---------- 
+Abilities used:
+1:Prankster,92.8571428571%,13.0
+2:Infiltrator,7.14285714286%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,85.7142857143%,12.0
+2:Bold,14.2857142857%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Salamence
+3:Kyogre
+4:Groudon
+5:Crobat
+6:Amoonguss
+7:Sableye
+8:Kangaskhan
+9:Ferrothorn
+10:Giratina
+11:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,25.0%,3.5
+2:Extreme Speed,16.6666666667%,2.33333333333
+3:Oblivion Wing,8.33333333333%,1.16666666667
+4:Brave Bird,8.33333333333%,1.16666666667
+5:Hidden Power,8.33333333333%,1.16666666667
+6:Psychic,8.33333333333%,1.16666666667
+7:Ice Beam,8.33333333333%,1.16666666667
+8:Double-Edge,8.33333333333%,1.16666666667
+9:Fire Punch,8.33333333333%,1.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Rayquaza
+3:Yveltal
+4:Talonflame
+5:Amoonguss
+6:Cresselia
+7:Infernape
+8:Kangaskhan

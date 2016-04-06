@@ -1,0 +1,84 @@
+144:Aron|18
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,18.0
+2:Protect,100.0%,18.0
+3:Toxic,94.4444444444%,17.0
+4:Stealth Rock,66.6666666667%,12.0
+5:Swagger,22.2222222222%,4.0
+6:Rock Tomb,11.1111111111%,2.0
+7:Rock Slide,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Berry Juice,83.3333333333%,15.0
+2:Shell Bell,16.6666666667%,3.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Impish,66.6666666667%,12.0
+2:Naughty,16.6666666667%,3.0
+3:Brave,11.1111111111%,2.0
+4:Lax,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Mienshao
+3:Krookodile
+4:Kyogre
+5:Musharna
+6:Groudon
+7:Illumise
+8:Ditto
+9:Kangaskhan
+10:Meowstic
+11:Talonflame
+12:Dialga
+13:Lickilicky
+14:Xerneas
+15:Amoonguss
+16:Giratina
+17:Infernape
+18:Rayquaza
+19:Sharpedo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,13.3333333333%,2.4
+2:Precipice Blades,6.66666666667%,1.2
+3:Origin Pulse,6.66666666667%,1.2
+4:Dazzling Gleam,6.66666666667%,1.2
+5:Scald,6.66666666667%,1.2
+6:Grass Knot,6.66666666667%,1.2
+7:Feint,6.66666666667%,1.2
+8:Water Spout,6.66666666667%,1.2
+9:Hyper Voice,6.66666666667%,1.2
+10:Rock Slide,6.66666666667%,1.2
+11:Thunderbolt,6.66666666667%,1.2
+12:Low Kick,6.66666666667%,1.2
+13:Blizzard,6.66666666667%,1.2
+14:Double-Edge,6.66666666667%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Kyurem
+6:Thundurus
+7:Amoonguss
+8:Salamence
+9:Mawile
+10:Raichu

@@ -1,0 +1,71 @@
+98:Gallade|3
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,3.0
+2:Wide Guard,100.0%,3.0
+3:Close Combat,66.6666666667%,2.0
+4:Heal Pulse,33.3333333333%,1.0
+5:Trick Room,33.3333333333%,1.0
+6:Leaf Blade,33.3333333333%,1.0
+7:Earthquake,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Galladite,33.3333333333%,1.0
+2:Rocky Helmet,33.3333333333%,1.0
+3:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Steadfast,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,66.6666666667%,2.0
+2:Impish,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Kyogre
+3:Yveltal
+4:Klefki
+5:Meowstic
+6:Kyurem
+7:Tornadus
+8:Whimsicott
+9:Rayquaza
+10:Groudon
+11:Mawile
+12:Scizor
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,66.6666666667%,2.0
+2:Earthquake,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,22.2222222222%,0.666666666667
+2:Ice Beam,22.2222222222%,0.666666666667
+3:Dragon Ascent,11.1111111111%,0.333333333333
+4:Water Spout,11.1111111111%,0.333333333333
+5:Overheat,11.1111111111%,0.333333333333
+6:Hyper Voice,11.1111111111%,0.333333333333
+7:Double-Edge,11.1111111111%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mawile
+2:Ditto
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Kyogre
+3:Salamence
+4:Cresselia
+5:Rayquaza
+6:Groudon

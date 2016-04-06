@@ -1,0 +1,124 @@
+188:Swoobat|50
+ ---------- 
+Moves used:
+1:Stored Power,72.0%,36.0
+2:Protect,60.0%,30.0
+3:Skill Swap,48.0%,24.0
+4:Heat Wave,46.0%,23.0
+5:Amnesia,46.0%,23.0
+6:Calm Mind,24.0%,12.0
+7:Endeavor,22.0%,11.0
+8:Taunt,16.0%,8.0
+9:Reflect,14.0%,7.0
+10:Super Fang,10.0%,5.0
+11:Thunder Wave,10.0%,5.0
+12:After You,8.0%,4.0
+13:Tailwind,6.0%,3.0
+14:Charm,4.0%,2.0
+15:Trick Room,2.0%,1.0
+16:Imprison,2.0%,1.0
+17:Helping Hand,2.0%,1.0
+18:Future Sight,2.0%,1.0
+19:Psych Up,2.0%,1.0
+20:Substitute,2.0%,1.0
+0:Other,2.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,25.0
+2:Weakness Policy,46.0%,23.0
+3:Leftovers,2.0%,1.0
+4:Mental Herb,2.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Simple,96.0%,48.0
+2:Unaware,4.0%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,72.0%,36.0
+2:Jolly,28.0%,14.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Kyogre
+4:Smeargle
+5:Talonflame
+6:Crobat
+7:Ambipom
+8:Landorus
+9:Rotom
+10:Kyurem
+11:Groudon
+12:Kangaskhan
+13:Dialga
+14:Gengar
+15:Yveltal
+16:Ludicolo
+17:Thundurus
+18:Chandelure
+19:Amoonguss
+20:Drifblim
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stored Power,100.0%,50.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.5%,6.25
+2:Brave Bird,10.0%,5.0
+3:Water Spout,10.0%,5.0
+4:Rock Slide,10.0%,5.0
+5:Explosion,7.5%,3.75
+6:Ice Beam,7.5%,3.75
+7:Moonblast,5.0%,2.5
+8:Sucker Punch,5.0%,2.5
+9:Eruption,5.0%,2.5
+10:Double-Edge,5.0%,2.5
+11:Origin Pulse,2.5%,1.25
+12:Wild Charge,2.5%,1.25
+13:Scald,2.5%,1.25
+14:Gyro Ball,2.5%,1.25
+15:Knock Off,2.5%,1.25
+16:Shadow Ball,2.5%,1.25
+17:Return,2.5%,1.25
+18:Sludge Bomb,2.5%,1.25
+19:Surf,2.5%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Palkia
+4:Xerneas
+5:Salamence
+6:Talonflame
+7:Thundurus
+8:Amoonguss
+9:Azumarill
+10:Crobat
+11:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Talonflame
+4:Landorus
+5:Groudon
+6:Kangaskhan
+7:Greninja
+8:Gengar
+9:Florges
+10:Thundurus
+11:Bisharp
+12:Ferrothorn
+13:Cresselia
+14:Mamoswine
+15:Toxicroak
+16:Mawile
+17:Aerodactyl

@@ -1,0 +1,100 @@
+200:Furret|41
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,41.0
+2:Charm,90.243902439%,37.0
+3:Knock Off,78.0487804878%,32.0
+4:Protect,78.0487804878%,32.0
+5:Helping Hand,21.9512195122%,9.0
+6:Fling,12.1951219512%,5.0
+7:Me First,4.87804878049%,2.0
+8:Trick,4.87804878049%,2.0
+9:Super Fang,4.87804878049%,2.0
+10:Quick Attack,4.87804878049%,2.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,65.8536585366%,27.0
+2:Focus Sash,12.1951219512%,5.0
+3:Light Ball,12.1951219512%,5.0
+4:Full Incense,4.87804878049%,2.0
+5:Sitrus Berry,4.87804878049%,2.0
+
+ ---------- 
+Abilities used:
+1:Frisk,95.1219512195%,39.0
+2:Keen Eye,4.87804878049%,2.0
+
+ ---------- 
+Natures used:
+1:Impish,70.7317073171%,29.0
+2:Jolly,29.2682926829%,12.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Azumarill
+4:Raichu
+5:Xerneas
+6:Groudon
+7:Ferrothorn
+8:Salamence
+9:Mawile
+10:Aegislash
+11:Ho-Oh
+12:Scizor
+13:Landorus
+14:Beheeyem
+15:Heatran
+16:Quagsire
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,7.89473684211%,3.23684210526
+2:Hyper Voice,7.89473684211%,3.23684210526
+3:Double-Edge,7.89473684211%,3.23684210526
+4:Precipice Blades,5.26315789474%,2.15789473684
+5:Origin Pulse,5.26315789474%,2.15789473684
+6:Power-Up Punch,5.26315789474%,2.15789473684
+7:Dazzling Gleam,5.26315789474%,2.15789473684
+8:Earth Power,5.26315789474%,2.15789473684
+9:Return,5.26315789474%,2.15789473684
+10:Ice Beam,5.26315789474%,2.15789473684
+11:Dragon Ascent,2.63157894737%,1.07894736842
+12:Oblivion Wing,2.63157894737%,1.07894736842
+13:Moonblast,2.63157894737%,1.07894736842
+14:Play Rough,2.63157894737%,1.07894736842
+15:Draco Meteor,2.63157894737%,1.07894736842
+16:Brave Bird,2.63157894737%,1.07894736842
+17:Water Pulse,2.63157894737%,1.07894736842
+18:Eruption,2.63157894737%,1.07894736842
+19:Knock Off,2.63157894737%,1.07894736842
+20:Beat Up,2.63157894737%,1.07894736842
+0:Other,10.5263157895%,4.31578947368
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Xerneas
+5:Salamence
+6:Yveltal
+7:Rayquaza
+8:Meowstic
+9:Talonflame
+10:Kyurem
+11:Landorus
+12:Weavile
+13:Rayquaza
+14:Kyogre
+15:Mawile
+16:Mewtwo
+17:Blastoise

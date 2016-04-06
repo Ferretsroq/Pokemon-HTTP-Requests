@@ -1,0 +1,41 @@
+268:Pidgeot|1
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,1.0
+2:Roost,100.0%,1.0
+3:Heat Wave,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Pidgeotite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Keen Eye,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Greninja
+2:Mandibuzz
+3:Breloom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

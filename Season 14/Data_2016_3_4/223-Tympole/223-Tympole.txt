@@ -1,0 +1,72 @@
+223:Tympole|18
+ ---------- 
+Moves used:
+1:After You,94.4444444444%,17.0
+2:Endeavor,94.4444444444%,17.0
+3:Icy Wind,94.4444444444%,17.0
+4:Protect,94.4444444444%,17.0
+5:Earth Power,5.55555555556%,1.0
+6:Hidden Power,5.55555555556%,1.0
+7:Sludge Bomb,5.55555555556%,1.0
+8:Hydro Pump,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,94.4444444444%,17.0
+2:Choice Specs,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Timid,94.4444444444%,17.0
+2:Modest,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Zekrom
+6:Archeops
+7:Gurdurr
+8:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,100.0%,18.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,26.6666666667%,4.8
+2:Hurricane,6.66666666667%,1.2
+3:Sucker Punch,6.66666666667%,1.2
+4:Water Spout,6.66666666667%,1.2
+5:Hyper Voice,6.66666666667%,1.2
+6:Eruption,6.66666666667%,1.2
+7:Fake Out,6.66666666667%,1.2
+8:Extreme Speed,6.66666666667%,1.2
+9:Rock Slide,6.66666666667%,1.2
+10:High Jump Kick,6.66666666667%,1.2
+11:Ice Beam,6.66666666667%,1.2
+12:Double-Edge,6.66666666667%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Sceptile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Tornadus
+4:Mienshao
+5:Cresselia
+6:Rayquaza
+7:Groudon
+8:Kyogre
+9:Salamence
+10:Mawile

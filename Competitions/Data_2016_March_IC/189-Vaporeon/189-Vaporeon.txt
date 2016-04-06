@@ -1,0 +1,54 @@
+189:Vaporeon|1
+ ---------- 
+Moves used:
+1:Muddy Water,100.0%,1.0
+2:Helping Hand,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mesprit
+2:Groudon
+3:Ho-Oh
+4:Crobat
+5:Aerodactyl
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Muddy Water,50.0%,0.5
+2:Icy Wind,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,0.25
+2:Rock Slide,25.0%,0.25
+3:Dragon Ascent,12.5%,0.125
+4:Close Combat,12.5%,0.125
+5:Shadow Ball,12.5%,0.125
+6:Return,12.5%,0.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Aegislash
+3:Terrakion
+4:Rayquaza
+5:Kangaskhan

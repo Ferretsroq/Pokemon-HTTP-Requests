@@ -1,0 +1,52 @@
+263:Unfezant|6
+ ---------- 
+Moves used:
+1:Night Slash,100.0%,6.0
+2:Tailwind,100.0%,6.0
+3:Detect,100.0%,6.0
+4:Hypnosis,83.3333333333%,5.0
+5:Psych Up,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Razor Claw,83.3333333333%,5.0
+2:Scope Lens,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Super Luck,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Krookodile
+2:Crobat
+3:Metagross
+4:Yveltal
+5:Rayquaza
+6:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,1.2
+2:Foul Play,20.0%,1.2
+3:Leaf Storm,20.0%,1.2
+4:Hyper Voice,20.0%,1.2
+5:Extreme Speed,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Liepard
+3:Serperior
+4:Rayquaza
+5:Salamence

@@ -1,0 +1,152 @@
+65:Suicune|482
+ ---------- 
+Moves used:
+1:Scald,95.4356846473%,460.0
+2:Tailwind,81.5352697095%,393.0
+3:Ice Beam,67.8423236515%,327.0
+4:Snarl,56.4315352697%,272.0
+5:Roar,28.4232365145%,137.0
+6:Icy Wind,25.3112033195%,122.0
+7:Protect,15.1452282158%,73.0
+8:Mirror Coat,8.71369294606%,42.0
+9:Calm Mind,7.05394190871%,34.0
+10:Psych Up,6.43153526971%,31.0
+11:Rest,3.31950207469%,16.0
+12:Reflect,2.28215767635%,11.0
+13:Sleep Talk,0.829875518672%,4.0
+14:Blizzard,0.414937759336%,2.0
+15:Ice Fang,0.207468879668%,1.0
+16:Substitute,0.207468879668%,1.0
+17:Aurora Beam,0.207468879668%,1.0
+18:Hydro Pump,0.207468879668%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,56.6390041494%,273.0
+2:Leftovers,24.4813278008%,118.0
+3:Rocky Helmet,6.22406639004%,30.0
+4:Lum Berry,5.1867219917%,25.0
+5:Chesto Berry,3.52697095436%,17.0
+6:Maranga Berry,1.24481327801%,6.0
+7:Assault Vest,1.24481327801%,6.0
+8:Mental Herb,0.622406639004%,3.0
+9:Red Card,0.207468879668%,1.0
+10:Expert Belt,0.207468879668%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,482.0
+
+ ---------- 
+Natures used:
+1:Bold,60.3734439834%,291.0
+2:Calm,20.1244813278%,97.0
+3:Modest,8.09128630705%,39.0
+4:Timid,6.84647302905%,33.0
+5:Relaxed,3.52697095436%,17.0
+6:Serious,0.414937759336%,2.0
+7:Docile,0.207468879668%,1.0
+8:Naughty,0.207468879668%,1.0
+9:Hardy,0.207468879668%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Mewtwo
+6:Xerneas
+7:Ferrothorn
+8:Talonflame
+9:Terrakion
+10:Landorus
+11:Yveltal
+12:Thundurus
+13:Ho-Oh
+14:Togekiss
+15:Mienshao
+16:Weavile
+17:Salamence
+18:Crobat
+19:Cresselia
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,48.9082969432%,235.737991266
+2:Ice Beam,27.0742358079%,130.497816594
+3:Snarl,10.480349345%,50.5152838428
+4:Icy Wind,10.0436681223%,48.4104803493
+5:Mirror Coat,3.05676855895%,14.7336244541
+6:Blizzard,0.436681222707%,2.10480349345
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.4426229508%,64.793442623
+2:Moonblast,8.85245901639%,42.668852459
+3:Precipice Blades,8.19672131148%,39.5081967213
+4:Thunder,6.55737704918%,31.606557377
+5:Power Whip,5.5737704918%,26.8655737705
+6:Dragon Ascent,5.24590163934%,25.2852459016
+7:Water Spout,5.24590163934%,25.2852459016
+8:Origin Pulse,4.59016393443%,22.1245901639
+9:Double-Edge,4.26229508197%,20.5442622951
+10:Brave Bird,3.60655737705%,17.3836065574
+11:Sucker Punch,3.60655737705%,17.3836065574
+12:Hyper Voice,2.95081967213%,14.2229508197
+13:Return,2.29508196721%,11.062295082
+14:Earthquake,2.29508196721%,11.062295082
+15:Thunderbolt,2.29508196721%,11.062295082
+16:Eruption,1.96721311475%,9.48196721311
+17:Earth Power,1.6393442623%,7.90163934426
+18:Rock Slide,1.6393442623%,7.90163934426
+19:Extreme Speed,1.31147540984%,6.32131147541
+20:Play Rough,0.983606557377%,4.74098360656
+0:Other,13.1147540984%,63.2131147541
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Talonflame
+4:Kangaskhan
+5:Xerneas
+6:Crobat
+7:Smeargle
+8:Landorus
+9:Rayquaza
+10:Yveltal
+11:Weavile
+12:Whimsicott
+13:Liepard
+14:Kyogre
+15:Ho-Oh
+16:Cresselia
+17:Mawile
+18:Thundurus
+19:Ferrothorn
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Ferrothorn
+6:Rayquaza
+7:Salamence
+8:Talonflame
+9:Mawile
+10:Landorus
+11:Thundurus
+12:Rayquaza
+13:Yveltal
+14:Giratina
+15:Kyurem
+16:Terrakion
+17:Amoonguss
+18:Cresselia
+19:Dialga
+20:Ho-Oh

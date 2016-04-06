@@ -1,0 +1,39 @@
+181:Shuckle|1
+ ---------- 
+Moves used:
+1:Infestation,100.0%,1.0
+2:After You,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Toxic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

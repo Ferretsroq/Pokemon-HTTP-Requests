@@ -1,0 +1,72 @@
+216:Cinccino|19
+ ---------- 
+Moves used:
+1:After You,100.0%,19.0
+2:Bullet Seed,57.8947368421%,11.0
+3:Protect,52.6315789474%,10.0
+4:Tail Slap,47.3684210526%,9.0
+5:U-turn,47.3684210526%,9.0
+6:Helping Hand,42.1052631579%,8.0
+7:Encore,42.1052631579%,8.0
+8:Rock Blast,10.5263157895%,2.0
+
+ ---------- 
+Items used:
+1:King's Rock,52.6315789474%,10.0
+2:Focus Sash,42.1052631579%,8.0
+3:Choice Scarf,5.26315789474%,1.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Jolly,94.7368421053%,18.0
+2:Adamant,5.26315789474%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Giratina
+4:Kyogre
+5:Zekrom
+6:Kangaskhan
+7:Crobat
+8:Aegislash
+9:Whimsicott
+10:Togetic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Tail Slap,100.0%,19.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,3.16666666667
+2:Ice Beam,16.6666666667%,3.16666666667
+3:Dazzling Gleam,8.33333333333%,1.58333333333
+4:Foul Play,8.33333333333%,1.58333333333
+5:Eruption,8.33333333333%,1.58333333333
+6:Extreme Speed,8.33333333333%,1.58333333333
+7:Hidden Power,8.33333333333%,1.58333333333
+8:Psychic,8.33333333333%,1.58333333333
+9:Earthquake,8.33333333333%,1.58333333333
+10:Low Kick,8.33333333333%,1.58333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Mienshao
+4:Liepard
+5:Cresselia
+6:Giratina
+7:Rayquaza
+8:Kyogre
+9:Zapdos

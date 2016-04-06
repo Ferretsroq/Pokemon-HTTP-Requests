@@ -1,0 +1,134 @@
+122:Nidoqueen|132
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,132.0
+2:Sludge Bomb,89.3939393939%,118.0
+3:Ice Beam,86.3636363636%,114.0
+4:Protect,41.6666666667%,55.0
+5:Flamethrower,31.0606060606%,41.0
+6:Fire Blast,28.0303030303%,37.0
+7:Thunder,10.6060606061%,14.0
+8:Poison Jab,9.84848484848%,13.0
+9:Rock Slide,1.51515151515%,2.0
+10:Sludge Wave,0.757575757576%,1.0
+11:Thunderbolt,0.757575757576%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,71.2121212121%,94.0
+2:Choice Scarf,28.0303030303%,37.0
+3:Assault Vest,0.757575757576%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,132.0
+
+ ---------- 
+Natures used:
+1:Modest,88.6363636364%,117.0
+2:Brave,8.33333333333%,11.0
+3:Sassy,1.51515151515%,2.0
+4:Quiet,1.51515151515%,2.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Ferrothorn
+5:Whimsicott
+6:Liepard
+7:Mawile
+8:Zapdos
+9:Dusclops
+10:Rayquaza
+11:Hariyama
+12:Cresselia
+13:Kyogre
+14:Talonflame
+15:Yveltal
+16:Bronzong
+17:Slowking
+18:Togekiss
+19:Crobat
+20:Terrakion
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,42.1052631579%,55.5789473684
+2:Sludge Bomb,27.6315789474%,36.4736842105
+3:Ice Beam,15.7894736842%,20.8421052632
+4:Fire Blast,7.89473684211%,10.4210526316
+5:Poison Jab,3.94736842105%,5.21052631579
+6:Rock Slide,1.31578947368%,1.73684210526
+7:Thunder,1.31578947368%,1.73684210526
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.829787234%,18.2553191489
+2:Origin Pulse,8.51063829787%,11.2340425532
+3:Earth Power,8.51063829787%,11.2340425532
+4:Double-Edge,7.44680851064%,9.82978723404
+5:Water Spout,6.3829787234%,8.42553191489
+6:Ice Beam,6.3829787234%,8.42553191489
+7:Dragon Ascent,5.31914893617%,7.02127659574
+8:Dazzling Gleam,5.31914893617%,7.02127659574
+9:Moonblast,4.25531914894%,5.6170212766
+10:Eruption,4.25531914894%,5.6170212766
+11:Sucker Punch,3.1914893617%,4.21276595745
+12:Brave Bird,2.12765957447%,2.8085106383
+13:Hyper Voice,2.12765957447%,2.8085106383
+14:Return,2.12765957447%,2.8085106383
+15:Fire Punch,2.12765957447%,2.8085106383
+16:Freeze-Dry,1.06382978723%,1.40425531915
+17:Retaliate,1.06382978723%,1.40425531915
+18:Foul Play,1.06382978723%,1.40425531915
+19:Dragon Pulse,1.06382978723%,1.40425531915
+20:Flare Blitz,1.06382978723%,1.40425531915
+0:Other,10.6382978723%,14.0425531915
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Mawile
+5:Ferrothorn
+6:Thundurus
+7:Whimsicott
+8:Landorus
+9:Smeargle
+10:Gengar
+11:Aromatisse
+12:Amoonguss
+13:Liepard
+14:Dialga
+15:Kyogre
+16:Crobat
+17:Aegislash
+18:Giratina
+19:Garchomp
+20:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Cresselia
+7:Salamence
+8:Talonflame
+9:Greninja
+10:Kyurem
+11:Zekrom
+12:Ferrothorn
+13:Amoonguss
+14:Palkia
+15:Dialga
+16:Glalie
+17:Mawile
+18:Sableye
+19:Blaziken
+20:Ho-Oh

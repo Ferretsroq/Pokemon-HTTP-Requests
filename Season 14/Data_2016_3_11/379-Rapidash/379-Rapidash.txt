@@ -1,0 +1,41 @@
+379:Rapidash|1
+ ---------- 
+Moves used:
+1:Flame Charge,100.0%,1.0
+2:Flare Blitz,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Flame Wheel,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Charcoal,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Run Away,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Gardevoir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flame Charge,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Garchomp
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame

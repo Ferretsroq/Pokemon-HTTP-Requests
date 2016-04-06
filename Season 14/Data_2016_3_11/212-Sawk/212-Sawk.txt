@@ -1,0 +1,84 @@
+212:Sawk|1
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Double Kick,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Groudon
+3:Ho-Oh
+4:Mawile
+5:Greninja
+6:Landorus
+7:Togekiss
+8:Rayquaza
+9:Xerneas
+10:Thundurus
+11:Ferrothorn
+12:Palkia
+13:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,33.3333333333%,0.333333333333
+2:Double Kick,33.3333333333%,0.333333333333
+3:Knock Off,16.6666666667%,0.166666666667
+4:Rock Slide,16.6666666667%,0.166666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,17.2413793103%,0.172413793103
+2:Precipice Blades,10.3448275862%,0.103448275862
+3:Dazzling Gleam,10.3448275862%,0.103448275862
+4:Hyper Voice,10.3448275862%,0.103448275862
+5:Eruption,10.3448275862%,0.103448275862
+6:Dragon Ascent,6.89655172414%,0.0689655172414
+7:Play Rough,6.89655172414%,0.0689655172414
+8:Moonblast,3.44827586207%,0.0344827586207
+9:Psystrike,3.44827586207%,0.0344827586207
+10:Foul Play,3.44827586207%,0.0344827586207
+11:Water Spout,3.44827586207%,0.0344827586207
+12:Overheat,3.44827586207%,0.0344827586207
+13:Return,3.44827586207%,0.0344827586207
+14:Flamethrower,3.44827586207%,0.0344827586207
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Weavile
+3:Smeargle
+4:Liepard
+5:Infernape
+6:Kyogre
+7:Kangaskhan
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Xerneas
+4:Salamence
+5:Rayquaza
+6:Mawile
+7:Whimsicott
+8:Liepard
+9:Kyogre
+10:Mewtwo
+11:Kangaskhan

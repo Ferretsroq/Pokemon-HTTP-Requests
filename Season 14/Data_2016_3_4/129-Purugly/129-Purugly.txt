@@ -1,0 +1,119 @@
+129:Purugly|120
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,120.0
+2:Return,56.6666666667%,68.0
+3:Roar,56.6666666667%,68.0
+4:Snatch,54.1666666667%,65.0
+5:U-turn,33.3333333333%,40.0
+6:Super Fang,33.3333333333%,40.0
+7:Hypnosis,33.3333333333%,40.0
+8:Last Resort,10.0%,12.0
+9:Taunt,1.66666666667%,2.0
+10:Foul Play,0.833333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,88.3333333333%,106.0
+2:Life Orb,10.0%,12.0
+3:Lum Berry,1.66666666667%,2.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,120.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,120.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Mewtwo
+4:Scizor
+5:Lopunny
+6:Crobat
+7:Golduck
+8:Slurpuff
+9:Houndoom
+10:Kyogre
+11:Salamence
+12:Empoleon
+13:Xerneas
+14:Landorus
+15:Infernape
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Return,60.0%,72.0
+2:U-turn,23.3333333333%,28.0
+3:Last Resort,10.0%,12.0
+4:Fake Out,6.66666666667%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,15.3846153846%,18.4615384615
+2:Precipice Blades,7.69230769231%,9.23076923077
+3:Dazzling Gleam,7.69230769231%,9.23076923077
+4:Sucker Punch,6.59340659341%,7.91208791209
+5:Low Kick,6.59340659341%,7.91208791209
+6:Water Spout,5.49450549451%,6.59340659341
+7:Rock Slide,5.49450549451%,6.59340659341
+8:Eruption,4.3956043956%,5.27472527473
+9:Double-Edge,4.3956043956%,5.27472527473
+10:Foul Play,3.2967032967%,3.95604395604
+11:Dragon Ascent,2.1978021978%,2.63736263736
+12:Brave Bird,2.1978021978%,2.63736263736
+13:Return,2.1978021978%,2.63736263736
+14:Sludge Bomb,2.1978021978%,2.63736263736
+15:Origin Pulse,1.0989010989%,1.31868131868
+16:Oblivion Wing,1.0989010989%,1.31868131868
+17:Power-Up Punch,1.0989010989%,1.31868131868
+18:Hurricane,1.0989010989%,1.31868131868
+19:Psystrike,1.0989010989%,1.31868131868
+20:Sludge Wave,1.0989010989%,1.31868131868
+0:Other,13.1868131868%,15.8241758242
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Landorus
+3:Rayquaza
+4:Xerneas
+5:Whimsicott
+6:Kyogre
+7:Salamence
+8:Smeargle
+9:Kangaskhan
+10:Mienshao
+11:Amoonguss
+12:Cresselia
+13:Palkia
+14:Infernape
+15:Groudon
+16:Salamence
+17:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Salamence
+4:Xerneas
+5:Kyogre
+6:Yveltal
+7:Cresselia
+8:Rayquaza
+9:Ditto
+10:Thundurus
+11:Ferrothorn
+12:Ho-Oh
+13:Gengar
+14:Landorus
+15:Tornadus
+16:Terrakion
+17:Scrafty
+18:Giratina
+19:Palkia
+20:Dialga

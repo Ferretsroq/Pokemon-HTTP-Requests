@@ -1,0 +1,90 @@
+94:Slowbro|28
+ ---------- 
+Moves used:
+1:Trick Room,96.4285714286%,27.0
+2:Scald,92.8571428571%,26.0
+3:Heal Pulse,78.5714285714%,22.0
+4:Skill Swap,78.5714285714%,22.0
+5:Ice Beam,17.8571428571%,5.0
+6:Light Screen,14.2857142857%,4.0
+7:Psyshock,7.14285714286%,2.0
+8:Slack Off,3.57142857143%,1.0
+9:Rest,3.57142857143%,1.0
+10:Psychic,3.57142857143%,1.0
+11:Flamethrower,3.57142857143%,1.0
+
+ ---------- 
+Items used:
+1:Kasib Berry,71.4285714286%,20.0
+2:Slowbronite,17.8571428571%,5.0
+3:Assault Vest,3.57142857143%,1.0
+4:Sitrus Berry,3.57142857143%,1.0
+5:Chesto Berry,3.57142857143%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,92.8571428571%,26.0
+2:Regenerator,3.57142857143%,1.0
+3:Own Tempo,3.57142857143%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,75.0%,21.0
+2:Bold,17.8571428571%,5.0
+3:Sassy,3.57142857143%,1.0
+4:Modest,3.57142857143%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Talonflame
+4:Groudon
+5:Xerneas
+6:Rayquaza
+7:Metagross
+8:Hitmontop
+9:Plusle
+10:Landorus
+11:Ferrothorn
+12:Infernape
+13:Scizor
+14:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,75.0%,21.0
+2:Ice Beam,25.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,40.0%,11.2
+2:Dazzling Gleam,13.3333333333%,3.73333333333
+3:Dragon Pulse,13.3333333333%,3.73333333333
+4:Water Spout,13.3333333333%,3.73333333333
+5:Sucker Punch,6.66666666667%,1.86666666667
+6:Shadow Ball,6.66666666667%,1.86666666667
+7:Return,6.66666666667%,1.86666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Meowstic
+3:Landorus
+4:Mienshao
+5:Amoonguss
+6:Groudon
+7:Mawile
+8:Sableye
+9:Crobat
+10:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Dialga
+4:Kyogre
+5:Yveltal
+6:Aegislash
+7:Kangaskhan

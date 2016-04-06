@@ -1,0 +1,121 @@
+202:Diggersby|40
+ ---------- 
+Moves used:
+1:Earthquake,80.0%,32.0
+2:Protect,57.5%,23.0
+3:Return,50.0%,20.0
+4:Foul Play,30.0%,12.0
+5:Superpower,25.0%,10.0
+6:Quick Attack,25.0%,10.0
+7:Rock Slide,22.5%,9.0
+8:Giga Impact,17.5%,7.0
+9:Gastro Acid,17.5%,7.0
+10:Swords Dance,17.5%,7.0
+11:Double Kick,15.0%,6.0
+12:Wild Charge,10.0%,4.0
+13:Stone Edge,10.0%,4.0
+14:U-turn,10.0%,4.0
+15:Fire Punch,7.5%,3.0
+16:Gunk Shot,5.0%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,32.5%,13.0
+2:Choice Scarf,27.5%,11.0
+3:Life Orb,25.0%,10.0
+4:Choice Band,15.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,40.0
+
+ ---------- 
+Natures used:
+1:Adamant,60.0%,24.0
+2:Jolly,32.5%,13.0
+3:Careful,7.5%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Cresselia
+6:Rayquaza
+7:Talonflame
+8:Mawile
+9:Kangaskhan
+10:Yveltal
+11:Ferrothorn
+12:Lucario
+13:Crobat
+14:Blastoise
+15:Sylveon
+16:Meowstic
+17:Heatran
+18:Rotom
+19:Sceptile
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,36.8421052632%,14.7368421053
+2:Superpower,15.7894736842%,6.31578947368
+3:Return,15.7894736842%,6.31578947368
+4:Foul Play,10.5263157895%,4.21052631579
+5:Rock Slide,10.5263157895%,4.21052631579
+6:Stone Edge,5.26315789474%,2.10526315789
+7:Double Kick,5.26315789474%,2.10526315789
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,9.375%,3.75
+2:Dazzling Gleam,9.375%,3.75
+3:Water Spout,9.375%,3.75
+4:Eruption,9.375%,3.75
+5:Precipice Blades,6.25%,2.5
+6:Scald,6.25%,2.5
+7:Brave Bird,6.25%,2.5
+8:Low Kick,6.25%,2.5
+9:Flamethrower,6.25%,2.5
+10:Dragon Ascent,3.125%,1.25
+11:Power-Up Punch,3.125%,1.25
+12:Play Rough,3.125%,1.25
+13:Draco Meteor,3.125%,1.25
+14:Flash Cannon,3.125%,1.25
+15:Gyro Ball,3.125%,1.25
+16:Hammer Arm,3.125%,1.25
+17:Hyper Voice,3.125%,1.25
+18:Earthquake,3.125%,1.25
+19:Fire Punch,3.125%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Weavile
+4:Kyogre
+5:Smeargle
+6:Talonflame
+7:Thundurus
+8:Liepard
+9:Rayquaza
+10:Groudon
+11:Mawile
+12:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Landorus
+8:Ferrothorn
+9:Dialga
+10:Garchomp
+11:Rayquaza
+12:Mawile

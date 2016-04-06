@@ -1,0 +1,168 @@
+32:Mewtwo|829
+ ---------- 
+Moves used:
+1:Psystrike,81.302774427%,674.0
+2:Protect,78.4077201448%,650.0
+3:Ice Beam,52.8347406514%,438.0
+4:Flamethrower,21.23039807%,176.0
+5:Psychic,20.8685162847%,173.0
+6:Aura Sphere,19.3003618818%,160.0
+7:Low Kick,19.17973462%,159.0
+8:Blizzard,19.0591073583%,158.0
+9:Gravity,18.2147165259%,151.0
+10:Grass Knot,6.15199034982%,51.0
+11:Safeguard,5.42822677925%,45.0
+12:Me First,5.18697225573%,43.0
+13:Shadow Ball,4.22195416164%,35.0
+14:Focus Blast,4.10132689988%,34.0
+15:Skill Swap,4.10132689988%,34.0
+16:Substitute,3.49819059107%,29.0
+17:Barrier,3.25693606755%,27.0
+18:Snatch,2.65379975875%,22.0
+19:Thunder,2.65379975875%,22.0
+20:Taunt,2.41254523522%,20.0
+0:Other,25.9348612786%,215.0
+
+ ---------- 
+Items used:
+1:Mewtwonite Y,32.4487334138%,269.0
+2:Life Orb,24.9698431846%,207.0
+3:Mewtwonite X,21.4716525935%,178.0
+4:Lum Berry,5.06634499397%,42.0
+5:Mind Plate,3.7394451146%,31.0
+6:Sitrus Berry,3.7394451146%,31.0
+7:Weakness Policy,3.01568154403%,25.0
+8:Focus Sash,2.29191797346%,19.0
+9:Choice Specs,1.93003618818%,16.0
+10:Assault Vest,1.32689987937%,11.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,829.0
+
+ ---------- 
+Natures used:
+1:Timid,70.9288299156%,588.0
+2:Naive,13.148371532%,109.0
+3:Jolly,6.87575392039%,57.0
+4:Modest,6.03136308806%,50.0
+5:Hardy,1.93003618818%,16.0
+6:Adamant,0.844390832328%,7.0
+7:Hasty,0.241254523522%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Crobat
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Purugly
+8:Ferrothorn
+9:Landorus
+10:Smeargle
+11:Whimsicott
+12:Xerneas
+13:Thundurus
+14:Sableye
+15:Yveltal
+16:Mienshao
+17:Liepard
+18:Meowstic
+19:Rayquaza
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psystrike,41.0394265233%,340.216845878
+2:Ice Beam,19.3548387097%,160.451612903
+3:Blizzard,11.6487455197%,96.5681003584
+4:Low Kick,7.8853046595%,65.3691756272
+5:Psychic,6.63082437276%,54.9695340502
+6:Aura Sphere,2.86738351254%,23.770609319
+7:Flamethrower,2.86738351254%,23.770609319
+8:Focus Punch,1.79211469534%,14.8566308244
+9:Focus Blast,1.0752688172%,8.91397849462
+10:Me First,0.716845878136%,5.94265232975
+11:Grass Knot,0.537634408602%,4.45698924731
+12:Shadow Ball,0.537634408602%,4.45698924731
+13:Fire Blast,0.537634408602%,4.45698924731
+14:Water Pulse,0.358422939068%,2.97132616487
+15:Iron Tail,0.358422939068%,2.97132616487
+16:Icy Wind,0.358422939068%,2.97132616487
+17:Rock Slide,0.358422939068%,2.97132616487
+18:Thunder,0.358422939068%,2.97132616487
+19:Ice Punch,0.358422939068%,2.97132616487
+20:Psycho Cut,0.179211469534%,1.48566308244
+0:Other,0.179211469534%,1.48566308244
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.071942446%,83.4964028777
+2:Water Spout,7.73381294964%,64.1133093525
+3:Precipice Blades,7.19424460432%,59.6402877698
+4:Origin Pulse,6.8345323741%,56.6582733813
+5:Sucker Punch,6.11510791367%,50.6942446043
+6:Double-Edge,4.85611510791%,40.2571942446
+7:Moonblast,4.13669064748%,34.2931654676
+8:Eruption,4.13669064748%,34.2931654676
+9:Dragon Ascent,3.95683453237%,32.8021582734
+10:Brave Bird,3.59712230216%,29.8201438849
+11:Extreme Speed,3.23741007194%,26.8381294964
+12:Rock Slide,2.69784172662%,22.3651079137
+13:Hyper Voice,2.51798561151%,20.8741007194
+14:Gyro Ball,2.15827338129%,17.8920863309
+15:Shadow Ball,1.79856115108%,14.9100719424
+16:Dragon Pulse,1.61870503597%,13.4190647482
+17:Knock Off,1.43884892086%,11.928057554
+18:Ice Beam,1.43884892086%,11.928057554
+19:Fire Punch,1.43884892086%,11.928057554
+20:Snarl,1.25899280576%,10.4370503597
+0:Other,16.5467625899%,137.172661871
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kangaskhan
+3:Talonflame
+4:Kyogre
+5:Landorus
+6:Smeargle
+7:Xerneas
+8:Crobat
+9:Groudon
+10:Rayquaza
+11:Thundurus
+12:Ferrothorn
+13:Gengar
+14:Raichu
+15:Yveltal
+16:Whimsicott
+17:Weavile
+18:Amoonguss
+19:Rayquaza
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Yveltal
+7:Talonflame
+8:Salamence
+9:Mawile
+10:Landorus
+11:Dialga
+12:Ferrothorn
+13:Thundurus
+14:Gengar
+15:Kyogre
+16:Weavile
+17:Rayquaza
+18:Ho-Oh
+19:Gengar
+20:Kyurem

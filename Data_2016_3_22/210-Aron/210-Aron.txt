@@ -1,0 +1,37 @@
+210:Aron|1
+ ---------- 
+Moves used:
+1:Bulldoze,100.0%,1.0
+2:Stealth Rock,100.0%,1.0
+3:Endeavor,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Berry Juice,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Groudon
+3:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

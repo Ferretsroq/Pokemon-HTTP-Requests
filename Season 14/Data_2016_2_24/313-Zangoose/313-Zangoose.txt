@@ -1,0 +1,45 @@
+313:Zangoose|2
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,2.0
+2:Facade,100.0%,2.0
+3:X-Scissor,50.0%,1.0
+4:Feint,50.0%,1.0
+5:Protect,50.0%,1.0
+6:Swords Dance,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Toxic Boost,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Klefki
+3:Amoonguss
+4:Rayquaza
+5:Togetic
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,50.0%,1.0
+2:Return,50.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Kangaskhan

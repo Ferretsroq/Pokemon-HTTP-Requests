@@ -1,0 +1,91 @@
+72:Musharna|54
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,54.0
+2:Gravity,100.0%,54.0
+3:Hypnosis,100.0%,54.0
+4:Psychic,87.037037037%,47.0
+5:Helping Hand,12.962962963%,7.0
+
+ ---------- 
+Items used:
+1:Lum Berry,83.3333333333%,45.0
+2:Mental Herb,16.6666666667%,9.0
+
+ ---------- 
+Abilities used:
+1:Telepathy,100.0%,54.0
+
+ ---------- 
+Natures used:
+1:Sassy,77.7777777778%,42.0
+2:Relaxed,18.5185185185%,10.0
+3:Bold,3.7037037037%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Landorus
+4:Smeargle
+5:Xerneas
+6:Mienshao
+7:Metagross
+8:Talonflame
+9:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,100.0%,54.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,21.875%,11.8125
+2:Hyper Voice,9.375%,5.0625
+3:Dragon Ascent,6.25%,3.375
+4:Precipice Blades,6.25%,3.375
+5:Explosion,6.25%,3.375
+6:Ice Beam,6.25%,3.375
+7:Double-Edge,6.25%,3.375
+8:Origin Pulse,3.125%,1.6875
+9:Moonblast,3.125%,1.6875
+10:Iron Head,3.125%,1.6875
+11:Brave Bird,3.125%,1.6875
+12:Water Spout,3.125%,1.6875
+13:Eruption,3.125%,1.6875
+14:Knock Off,3.125%,1.6875
+15:Fake Out,3.125%,1.6875
+16:Extreme Speed,3.125%,1.6875
+17:Sacred Fire,3.125%,1.6875
+18:Waterfall,3.125%,1.6875
+19:Thunderbolt,3.125%,1.6875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Xerneas
+4:Amoonguss
+5:Dialga
+6:Rayquaza
+7:Kyogre
+8:Salamence
+9:Crobat
+10:Gengar
+11:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Landorus
+7:Rayquaza
+8:Ho-Oh
+9:Thundurus
+10:Ferrothorn
+11:Rayquaza
+12:Mawile
+13:Gyarados

@@ -1,0 +1,151 @@
+50:Garchomp|305
+ ---------- 
+Moves used:
+1:Earthquake,93.1147540984%,284.0
+2:Rock Slide,91.8032786885%,280.0
+3:Dragon Claw,85.5737704918%,261.0
+4:Iron Head,59.6721311475%,182.0
+5:Protect,32.131147541%,98.0
+6:Draco Meteor,8.19672131148%,25.0
+7:Earth Power,6.88524590164%,21.0
+8:Rock Tomb,5.5737704918%,17.0
+9:Flamethrower,4.91803278689%,15.0
+10:Roar,3.93442622951%,12.0
+11:Outrage,1.6393442623%,5.0
+12:Fire Blast,0.983606557377%,3.0
+13:Toxic,0.983606557377%,3.0
+14:Dual Chop,0.655737704918%,2.0
+15:Poison Jab,0.655737704918%,2.0
+16:Swords Dance,0.655737704918%,2.0
+17:Stealth Rock,0.327868852459%,1.0
+18:Stone Edge,0.327868852459%,1.0
+19:Fire Fang,0.327868852459%,1.0
+20:Dragon Rush,0.327868852459%,1.0
+0:Other,1.31147540984%,4.0
+
+ ---------- 
+Items used:
+1:Choice Band,59.6721311475%,182.0
+2:Focus Sash,27.868852459%,85.0
+3:Life Orb,10.1639344262%,31.0
+4:Garchompite,0.983606557377%,3.0
+5:Rocky Helmet,0.327868852459%,1.0
+6:King's Rock,0.327868852459%,1.0
+7:Lansat Berry,0.327868852459%,1.0
+8:Lum Berry,0.327868852459%,1.0
+
+ ---------- 
+Abilities used:
+1:Rough Skin,100.0%,305.0
+
+ ---------- 
+Natures used:
+1:Jolly,91.4754098361%,279.0
+2:Naive,6.22950819672%,19.0
+3:Modest,0.983606557377%,3.0
+4:Timid,0.983606557377%,3.0
+5:Impish,0.327868852459%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Talonflame
+3:Xerneas
+4:Kyogre
+5:Mawile
+6:Salamence
+7:Rayquaza
+8:Kangaskhan
+9:Gengar
+10:Thundurus
+11:Groudon
+12:Ferrothorn
+13:Crobat
+14:Bisharp
+15:Mewtwo
+16:Liepard
+17:Ho-Oh
+18:Dragonite
+19:Lugia
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,55.2486187845%,168.508287293
+2:Dragon Claw,18.7845303867%,57.2928176796
+3:Rock Slide,17.1270718232%,52.2375690608
+4:Iron Head,3.86740331492%,11.7955801105
+5:Draco Meteor,1.65745856354%,5.05524861878
+6:Rock Tomb,1.65745856354%,5.05524861878
+7:Earth Power,1.10497237569%,3.37016574586
+8:Dual Chop,0.552486187845%,1.68508287293
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,14.598540146%,44.5255474453
+2:Dazzling Gleam,12.4087591241%,37.8467153285
+3:Precipice Blades,6.56934306569%,20.0364963504
+4:Moonblast,5.10948905109%,15.5839416058
+5:Dragon Pulse,5.10948905109%,15.5839416058
+6:Sucker Punch,5.10948905109%,15.5839416058
+7:Eruption,5.10948905109%,15.5839416058
+8:Origin Pulse,4.3795620438%,13.3576642336
+9:Hyper Voice,4.3795620438%,13.3576642336
+10:Hidden Power,4.3795620438%,13.3576642336
+11:Water Spout,3.6496350365%,11.1313868613
+12:Double-Edge,2.9197080292%,8.90510948905
+13:Draco Meteor,2.1897810219%,6.67883211679
+14:Knock Off,2.1897810219%,6.67883211679
+15:Rock Slide,2.1897810219%,6.67883211679
+16:Explosion,2.1897810219%,6.67883211679
+17:Shadow Sneak,1.4598540146%,4.45255474453
+18:Gyro Ball,1.4598540146%,4.45255474453
+19:Extreme Speed,1.4598540146%,4.45255474453
+20:Icy Wind,1.4598540146%,4.45255474453
+0:Other,8.75912408759%,26.7153284672
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Mawile
+8:Thundurus
+9:Smeargle
+10:Dialga
+11:Ferrothorn
+12:Liepard
+13:Rayquaza
+14:Yveltal
+15:Kyurem
+16:Sableye
+17:Scizor
+18:Zapdos
+19:Gengar
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Dialga
+5:Salamence
+6:Kangaskhan
+7:Yveltal
+8:Landorus
+9:Thundurus
+10:Ferrothorn
+11:Cresselia
+12:Weavile
+13:Giratina
+14:Togekiss
+15:Rayquaza
+16:Mawile
+17:Sylveon
+18:Talonflame
+19:Kyurem
+20:Landorus

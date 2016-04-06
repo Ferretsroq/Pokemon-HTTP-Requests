@@ -1,0 +1,93 @@
+107:Lilligant|37
+ ---------- 
+Moves used:
+1:Protect,86.4864864865%,32.0
+2:After You,83.7837837838%,31.0
+3:Grass Knot,72.972972973%,27.0
+4:Sleep Powder,62.1621621622%,23.0
+5:Teeter Dance,43.2432432432%,16.0
+6:Role Play,21.6216216216%,8.0
+7:Helping Hand,21.6216216216%,8.0
+8:Quiver Dance,2.7027027027%,1.0
+9:Leaf Storm,2.7027027027%,1.0
+10:Giga Drain,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,67.5675675676%,25.0
+2:Red Card,16.2162162162%,6.0
+3:Wide Lens,10.8108108108%,4.0
+4:Mental Herb,5.40540540541%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Timid,83.7837837838%,31.0
+2:Modest,16.2162162162%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Kyurem
+6:Gothorita
+7:Clefairy
+8:Cresselia
+9:Palkia
+10:Kyogre
+11:Crobat
+12:Aromatisse
+13:Landorus
+14:Mawile
+15:Sableye
+16:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,37.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,19.3548387097%,7.16129032258
+2:Double-Edge,19.3548387097%,7.16129032258
+3:Dazzling Gleam,12.9032258065%,4.77419354839
+4:Ice Beam,12.9032258065%,4.77419354839
+5:Gyro Ball,6.45161290323%,2.38709677419
+6:Return,6.45161290323%,2.38709677419
+7:Wild Charge,3.22580645161%,1.1935483871
+8:Grass Knot,3.22580645161%,1.1935483871
+9:Brave Bird,3.22580645161%,1.1935483871
+10:Knock Off,3.22580645161%,1.1935483871
+11:Shadow Ball,3.22580645161%,1.1935483871
+12:Sludge Bomb,3.22580645161%,1.1935483871
+13:Seismic Toss,3.22580645161%,1.1935483871
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Rayquaza
+3:Sableye
+4:Smeargle
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan
+3:Xerneas
+4:Ferrothorn
+5:Kyogre
+6:Gengar
+7:Talonflame
+8:Kyurem
+9:Thundurus
+10:Amoonguss
+11:Cresselia
+12:Weavile
+13:Altaria
+14:Chansey

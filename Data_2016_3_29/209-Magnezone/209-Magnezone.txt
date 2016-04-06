@@ -1,0 +1,50 @@
+209:Magnezone|3
+ ---------- 
+Moves used:
+1:Flash Cannon,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Volt Switch,66.6666666667%,2.0
+4:Thunderbolt,66.6666666667%,2.0
+5:Gravity,33.3333333333%,1.0
+6:Hidden Power,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,66.6666666667%,2.0
+2:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,66.6666666667%,2.0
+2:Magnet Pull,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Cresselia
+3:Kyogre
+4:Groudon
+5:Gyarados
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power-Up Punch,33.3333333333%,1.0
+2:Earth Power,33.3333333333%,1.0
+3:Low Kick,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon

@@ -1,0 +1,68 @@
+104:Jynx|3
+ ---------- 
+Moves used:
+1:Magic Coat,66.6666666667%,2.0
+2:Fake Out,66.6666666667%,2.0
+3:Psyshock,33.3333333333%,1.0
+4:Trick Room,33.3333333333%,1.0
+5:Helping Hand,33.3333333333%,1.0
+6:Rain Dance,33.3333333333%,1.0
+7:Protect,33.3333333333%,1.0
+8:Lovely Kiss,33.3333333333%,1.0
+9:Blizzard,33.3333333333%,1.0
+10:Ice Beam,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,66.6666666667%,2.0
+2:Oblivious,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Mawile
+5:Slurpuff
+6:Thundurus
+7:Ferrothorn
+8:Dialga
+9:Rotom
+10:Bronzong
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,0.6
+2:Dragon Ascent,10.0%,0.3
+3:Water Spout,10.0%,0.3
+4:Shadow Ball,10.0%,0.3
+5:Extreme Speed,10.0%,0.3
+6:Rock Slide,10.0%,0.3
+7:Thunder,10.0%,0.3
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Ferrothorn
+3:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Landorus
+5:Gengar

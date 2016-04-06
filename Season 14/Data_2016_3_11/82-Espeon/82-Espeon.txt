@@ -1,0 +1,160 @@
+82:Espeon|451
+ ---------- 
+Moves used:
+1:Psychic,81.5964523282%,368.0
+2:Trick Room,42.7937915743%,193.0
+3:Helping Hand,35.9201773836%,162.0
+4:Yawn,27.7161862528%,125.0
+5:Dazzling Gleam,27.2727272727%,123.0
+6:Detect,25.9423503326%,117.0
+7:Trick,23.0598669623%,104.0
+8:Reflect,22.3946784922%,101.0
+9:Protect,19.955654102%,90.0
+10:Light Screen,18.1818181818%,82.0
+11:Skill Swap,15.7427937916%,71.0
+12:Psyshock,14.6341463415%,66.0
+13:Charm,13.7472283814%,62.0
+14:Hidden Power,8.20399113082%,37.0
+15:Shadow Ball,7.53880266075%,34.0
+16:Grass Knot,5.76496674058%,26.0
+17:Fake Tears,1.9955654102%,9.0
+18:Psych Up,1.9955654102%,9.0
+19:Signal Beam,1.77383592018%,8.0
+20:Morning Sun,0.886917960089%,4.0
+0:Other,2.88248337029%,13.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,20.399113082%,92.0
+2:Power Lens,16.1862527716%,73.0
+3:Sitrus Berry,15.5210643016%,70.0
+4:Light Clay,15.0776053215%,68.0
+5:Focus Sash,14.4124168514%,65.0
+6:Power Belt,7.09534368071%,32.0
+7:Colbur Berry,2.43902439024%,11.0
+8:Twisted Spoon,1.9955654102%,9.0
+9:Chilan Berry,1.33037694013%,6.0
+10:Leftovers,1.10864745011%,5.0
+11:Focus Band,0.886917960089%,4.0
+12:Mental Herb,0.886917960089%,4.0
+13:Choice Band,0.665188470067%,3.0
+14:Life Orb,0.443458980044%,2.0
+15:Lum Berry,0.443458980044%,2.0
+16:Eject Button,0.221729490022%,1.0
+17:Choice Specs,0.221729490022%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,98.4478935698%,444.0
+2:Synchronize,1.55210643016%,7.0
+
+ ---------- 
+Natures used:
+1:Timid,43.9024390244%,198.0
+2:Sassy,23.2815964523%,105.0
+3:Modest,16.8514412417%,76.0
+4:Bold,7.31707317073%,33.0
+5:Calm,4.43458980044%,20.0
+6:Jolly,3.9911308204%,18.0
+7:Quiet,0.221729490022%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Mawile
+4:Xerneas
+5:Salamence
+6:Yveltal
+7:Palkia
+8:Ho-Oh
+9:Sylveon
+10:Ferrothorn
+11:Smeargle
+12:Kangaskhan
+13:Crobat
+14:Talonflame
+15:Lapras
+16:Landorus
+17:Weavile
+18:Rayquaza
+19:Thundurus
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,72.3577235772%,326.333333333
+2:Dazzling Gleam,13.8211382114%,62.3333333333
+3:Psyshock,10.5691056911%,47.6666666667
+4:Hidden Power,2.43902439024%,11.0
+5:Grass Knot,0.813008130081%,3.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.5942028986%,52.2898550725
+2:Dazzling Gleam,10.7246376812%,48.368115942
+3:Water Spout,10.4347826087%,47.0608695652
+4:Eruption,7.24637681159%,32.6811594203
+5:Origin Pulse,5.21739130435%,23.5304347826
+6:Double-Edge,4.92753623188%,22.2231884058
+7:Hyper Voice,4.34782608696%,19.6086956522
+8:Dragon Ascent,4.05797101449%,18.3014492754
+9:Moonblast,2.89855072464%,13.0724637681
+10:Sucker Punch,2.89855072464%,13.0724637681
+11:Knock Off,2.89855072464%,13.0724637681
+12:Brave Bird,2.60869565217%,11.7652173913
+13:Extreme Speed,2.31884057971%,10.4579710145
+14:Gyro Ball,2.02898550725%,9.15072463768
+15:Earthquake,2.02898550725%,9.15072463768
+16:Fire Punch,1.73913043478%,7.84347826087
+17:Earth Power,1.44927536232%,6.53623188406
+18:Shadow Ball,1.44927536232%,6.53623188406
+19:Snarl,1.15942028986%,5.22898550725
+20:Iron Head,1.15942028986%,5.22898550725
+0:Other,15.9420289855%,71.8985507246
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Smeargle
+3:Gengar
+4:Talonflame
+5:Landorus
+6:Groudon
+7:Salamence
+8:Kangaskhan
+9:Xerneas
+10:Rayquaza
+11:Amoonguss
+12:Whimsicott
+13:Rayquaza
+14:Kyogre
+15:Thundurus
+16:Gothitelle
+17:Sableye
+18:Gengar
+19:Raichu
+20:Hawlucha
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Ferrothorn
+8:Yveltal
+9:Talonflame
+10:Landorus
+11:Weavile
+12:Rayquaza
+13:Thundurus
+14:Dialga
+15:Kyurem
+16:Infernape
+17:Gengar
+18:Aegislash
+19:Mawile
+20:Ditto

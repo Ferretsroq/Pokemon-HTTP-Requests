@@ -1,0 +1,133 @@
+13:Mawile|230
+ ---------- 
+Moves used:
+1:Sucker Punch,99.5652173913%,229.0
+2:Iron Head,97.3913043478%,224.0
+3:Protect,94.7826086957%,218.0
+4:Play Rough,91.7391304348%,211.0
+5:Fire Fang,5.65217391304%,13.0
+6:Knock Off,4.34782608696%,10.0
+7:Rock Slide,3.04347826087%,7.0
+8:Swords Dance,1.73913043478%,4.0
+9:Substitute,0.869565217391%,2.0
+10:Foul Play,0.434782608696%,1.0
+11:Thunder Punch,0.434782608696%,1.0
+
+ ---------- 
+Items used:
+1:Mawilite,100.0%,230.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,99.5652173913%,229.0
+2:Hyper Cutter,0.434782608696%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,67.8260869565%,156.0
+2:Brave,26.9565217391%,62.0
+3:Careful,4.78260869565%,11.0
+4:Relaxed,0.434782608696%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Cresselia
+4:Yveltal
+5:Salamence
+6:Talonflame
+7:Thundurus
+8:Kangaskhan
+9:Smeargle
+10:Xerneas
+11:Liepard
+12:Landorus
+13:Amoonguss
+14:Rayquaza
+15:Crobat
+16:Ferrothorn
+17:Bronzong
+18:Weavile
+19:Gengar
+20:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,38.0208333333%,87.4479166667
+2:Play Rough,30.8035714286%,70.8482142857
+3:Sucker Punch,25.9672619048%,59.724702381
+4:Rock Slide,3.27380952381%,7.52976190476
+5:Fire Fang,1.11607142857%,2.56696428571
+6:Knock Off,0.744047619048%,1.71130952381
+7:Foul Play,0.0744047619048%,0.171130952381
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,19.7482297404%,45.4209284028
+2:Origin Pulse,8.96931549961%,20.6294256491
+3:Earth Power,8.18253343824%,18.8198269079
+4:Eruption,7.63178599528%,17.5531077891
+5:Water Spout,7.39575137687%,17.0102281668
+6:Fire Punch,5.19276160504%,11.9433516916
+7:Overheat,4.24862313139%,9.7718332022
+8:Flamethrower,3.46184107002%,7.96223446105
+9:Dazzling Gleam,3.22580645161%,7.41935483871
+10:Moonblast,2.83241542093%,6.51455546814
+11:Earthquake,2.59638080252%,5.97167584579
+12:Flare Blitz,2.51770259638%,5.79071597168
+13:Scald,1.88827694729%,4.34303697876
+14:Iron Head,1.65224232887%,3.80015735641
+15:Hyper Voice,1.57356412274%,3.6191974823
+16:Sucker Punch,1.25885129819%,2.89535798584
+17:Thunderbolt,1.25885129819%,2.89535798584
+18:Double-Edge,0.944138473643%,2.17151848938
+19:Gyro Ball,0.865460267506%,1.99055861526
+20:Close Combat,0.786782061369%,1.80959874115
+0:Other,11.2509834776%,25.8772619984
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Salamence
+5:Yveltal
+6:Smeargle
+7:Thundurus
+8:Groudon
+9:Rayquaza
+10:Weavile
+11:Talonflame
+12:Amoonguss
+13:Landorus
+14:Crobat
+15:Liepard
+16:Cresselia
+17:Ferrothorn
+18:Mawile
+19:Kyurem
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Talonflame
+6:Salamence
+7:Landorus
+8:Kangaskhan
+9:Mawile
+10:Yveltal
+11:Dialga
+12:Rayquaza
+13:Thundurus
+14:Ferrothorn
+15:Kyogre
+16:Ditto
+17:Kyurem
+18:Palkia
+19:Ho-Oh
+20:Terrakion

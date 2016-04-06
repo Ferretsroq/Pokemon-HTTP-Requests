@@ -1,0 +1,47 @@
+323:Riolu|3
+ ---------- 
+Moves used:
+1:Feint,66.6666666667%,2.0
+2:Role Play,66.6666666667%,2.0
+3:Follow Me,66.6666666667%,2.0
+4:Protect,66.6666666667%,2.0
+5:Bullet Punch,33.3333333333%,1.0
+6:Endure,33.3333333333%,1.0
+7:Reversal,33.3333333333%,1.0
+8:Counter,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Talonflame
+5:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,1.5
+2:Psychic,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Cresselia

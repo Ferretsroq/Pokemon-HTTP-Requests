@@ -1,0 +1,135 @@
+43:Gastrodon|17
+ ---------- 
+Moves used:
+1:Earth Power,94.1176470588%,16.0
+2:Ice Beam,94.1176470588%,16.0
+3:Protect,64.7058823529%,11.0
+4:Scald,41.1764705882%,7.0
+5:Muddy Water,29.4117647059%,5.0
+6:Recover,29.4117647059%,5.0
+7:Clear Smog,17.6470588235%,3.0
+8:Mirror Coat,17.6470588235%,3.0
+9:Icy Wind,5.88235294118%,1.0
+10:Counter,5.88235294118%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,29.4117647059%,5.0
+2:Assault Vest,23.5294117647%,4.0
+3:Leftovers,23.5294117647%,4.0
+4:Expert Belt,11.7647058824%,2.0
+5:Rocky Helmet,5.88235294118%,1.0
+6:Life Orb,5.88235294118%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Quiet,35.2941176471%,6.0
+2:Bold,23.5294117647%,4.0
+3:Modest,17.6470588235%,3.0
+4:Sassy,11.7647058824%,2.0
+5:Calm,11.7647058824%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Kangaskhan
+4:Ferrothorn
+5:Cresselia
+6:Xerneas
+7:Kyurem
+8:Rayquaza
+9:Salamence
+10:Mawile
+11:Dialga
+12:Aegislash
+13:Whimsicott
+14:Liepard
+15:Weavile
+16:Kyogre
+17:Raichu
+18:Yveltal
+19:Sylveon
+20:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,45.4545454545%,7.72727272727
+2:Ice Beam,30.303030303%,5.15151515152
+3:Scald,15.1515151515%,2.57575757576
+4:Muddy Water,6.06060606061%,1.0303030303
+5:Mirror Coat,3.0303030303%,0.515151515152
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,14.4927536232%,2.46376811594
+2:Precipice Blades,13.0434782609%,2.21739130435
+3:Double-Edge,10.1449275362%,1.72463768116
+4:Dazzling Gleam,7.24637681159%,1.23188405797
+5:Dragon Ascent,5.79710144928%,0.985507246377
+6:Power Whip,5.79710144928%,0.985507246377
+7:Moonblast,4.34782608696%,0.739130434783
+8:Earth Power,4.34782608696%,0.739130434783
+9:Extreme Speed,4.34782608696%,0.739130434783
+10:Draco Meteor,2.89855072464%,0.492753623188
+11:Brave Bird,2.89855072464%,0.492753623188
+12:Seed Bomb,2.89855072464%,0.492753623188
+13:Eruption,2.89855072464%,0.492753623188
+14:Frustration,2.89855072464%,0.492753623188
+15:Origin Pulse,1.44927536232%,0.246376811594
+16:Play Rough,1.44927536232%,0.246376811594
+17:Snarl,1.44927536232%,0.246376811594
+18:Foul Play,1.44927536232%,0.246376811594
+19:Grass Knot,1.44927536232%,0.246376811594
+20:Iron Head,1.44927536232%,0.246376811594
+0:Other,7.24637681159%,1.23188405797
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Talonflame
+5:Mawile
+6:Yveltal
+7:Landorus
+8:Thundurus
+9:Liepard
+10:Cresselia
+11:Bronzong
+12:Rayquaza
+13:Smeargle
+14:Kangaskhan
+15:Gengar
+16:Xerneas
+17:Kyurem
+18:Zekrom
+19:Amoonguss
+20:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Ferrothorn
+6:Rayquaza
+7:Salamence
+8:Yveltal
+9:Rayquaza
+10:Mawile
+11:Heliolisk
+12:Talonflame
+13:Kyurem
+14:Landorus
+15:Amoonguss
+16:Cresselia
+17:Dialga
+18:Hitmontop
+19:Crobat
+20:Ditto

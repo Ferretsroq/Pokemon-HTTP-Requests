@@ -1,0 +1,38 @@
+330:Regirock|1
+ ---------- 
+Moves used:
+1:Bulldoze,100.0%,1.0
+2:Iron Defense,100.0%,1.0
+3:Ancient Power,100.0%,1.0
+4:Curse,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Rayquaza
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

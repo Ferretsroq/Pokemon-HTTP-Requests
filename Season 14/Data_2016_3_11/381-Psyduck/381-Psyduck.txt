@@ -1,0 +1,41 @@
+381:Psyduck|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Soak,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Thundurus
+2:Groudon
+3:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Extreme Speed,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Dragonite

@@ -1,0 +1,97 @@
+74:Purugly|94
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,94.0
+2:Super Fang,96.8085106383%,91.0
+3:Hypnosis,96.8085106383%,91.0
+4:U-turn,69.1489361702%,65.0
+5:Taunt,19.1489361702%,18.0
+6:Knock Off,10.6382978723%,10.0
+7:Sucker Punch,3.1914893617%,3.0
+8:Body Slam,3.1914893617%,3.0
+9:Shadow Claw,1.06382978723%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,96.8085106383%,91.0
+2:Silk Scarf,3.1914893617%,3.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,94.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,94.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mewtwo
+3:Crobat
+4:Golduck
+5:Houndoom
+6:Rayquaza
+7:Lugia
+8:Xerneas
+9:Landorus
+10:Volcarona
+11:Hitmonlee
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:U-turn,63.6363636364%,59.8181818182
+2:Fake Out,18.1818181818%,17.0909090909
+3:Sucker Punch,9.09090909091%,8.54545454545
+4:Knock Off,9.09090909091%,8.54545454545
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.9491525424%,15.9322033898
+2:Precipice Blades,11.8644067797%,11.1525423729
+3:Double-Edge,11.8644067797%,11.1525423729
+4:Water Spout,8.47457627119%,7.96610169492
+5:Hyper Voice,6.77966101695%,6.37288135593
+6:Ice Beam,6.77966101695%,6.37288135593
+7:Origin Pulse,5.08474576271%,4.77966101695
+8:Sucker Punch,5.08474576271%,4.77966101695
+9:Low Kick,5.08474576271%,4.77966101695
+10:Explosion,3.38983050847%,3.18644067797
+11:Moonblast,1.69491525424%,1.59322033898
+12:Ice Shard,1.69491525424%,1.59322033898
+13:Brave Bird,1.69491525424%,1.59322033898
+14:Feint,1.69491525424%,1.59322033898
+15:Eruption,1.69491525424%,1.59322033898
+16:Heat Wave,1.69491525424%,1.59322033898
+17:Extreme Speed,1.69491525424%,1.59322033898
+18:Return,1.69491525424%,1.59322033898
+19:Rock Slide,1.69491525424%,1.59322033898
+20:Earthquake,1.69491525424%,1.59322033898
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Cresselia
+3:Xerneas
+4:Meowstic
+5:Thundurus
+6:Rayquaza
+7:Kangaskhan
+8:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Kyogre
+4:Groudon
+5:Salamence
+6:Cresselia
+7:Landorus
+8:Yveltal
+9:Talonflame
+10:Weavile
+11:Lucario
+12:Rayquaza
+13:Groudon
+14:Mawile

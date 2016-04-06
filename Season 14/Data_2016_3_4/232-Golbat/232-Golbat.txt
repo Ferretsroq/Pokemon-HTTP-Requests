@@ -1,0 +1,72 @@
+232:Golbat|16
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,16.0
+2:Quick Guard,87.5%,14.0
+3:Super Fang,75.0%,12.0
+4:Haze,68.75%,11.0
+5:Confuse Ray,37.5%,6.0
+6:Roost,12.5%,2.0
+7:Snatch,12.5%,2.0
+8:Protect,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,16.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,16.0
+
+ ---------- 
+Natures used:
+1:Impish,81.25%,13.0
+2:Timid,12.5%,2.0
+3:Jolly,6.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Gengar
+3:Kyurem
+4:Landorus
+5:Groudon
+6:Ferrothorn
+7:Rayquaza
+8:Talonflame
+9:Bisharp
+10:Amoonguss
+11:Palkia
+12:Lopunny
+13:Salamence
+14:Mawile
+15:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,15.3846153846%,2.46153846154
+2:Dazzling Gleam,15.3846153846%,2.46153846154
+3:Water Spout,15.3846153846%,2.46153846154
+4:Spacial Rend,7.69230769231%,1.23076923077
+5:Feint,7.69230769231%,1.23076923077
+6:Gyro Ball,7.69230769231%,1.23076923077
+7:Eruption,7.69230769231%,1.23076923077
+8:Return,7.69230769231%,1.23076923077
+9:Ice Beam,7.69230769231%,1.23076923077
+10:Fire Punch,7.69230769231%,1.23076923077
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Ferrothorn
+5:Palkia
+6:Weavile
+7:Kangaskhan

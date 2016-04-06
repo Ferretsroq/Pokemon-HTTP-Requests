@@ -1,0 +1,77 @@
+264:Gliscor|9
+ ---------- 
+Moves used:
+1:Earthquake,88.8888888889%,8.0
+2:Knock Off,55.5555555556%,5.0
+3:Substitute,55.5555555556%,5.0
+4:Protect,44.4444444444%,4.0
+5:Taunt,33.3333333333%,3.0
+6:Guillotine,33.3333333333%,3.0
+7:Roost,22.2222222222%,2.0
+8:Toxic,22.2222222222%,2.0
+9:Stealth Rock,11.1111111111%,1.0
+10:U-turn,11.1111111111%,1.0
+11:Aerial Ace,11.1111111111%,1.0
+12:Rock Slide,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,88.8888888889%,8.0
+2:Choice Band,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Poison Heal,88.8888888889%,8.0
+2:Hyper Cutter,11.1111111111%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,44.4444444444%,4.0
+2:Impish,33.3333333333%,3.0
+3:Jolly,22.2222222222%,2.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Lugia
+3:Rayquaza
+4:Kyogre
+5:Altaria
+6:Aegislash
+7:Landorus
+8:Serperior
+9:Rotom
+10:Lopunny
+11:Groudon
+12:Glalie
+13:Mawile
+14:Sableye
+15:Smeargle
+16:Wobbuffet
+17:Crobat
+18:Gengar
+19:Arcanine
+20:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,25.0%,2.25
+2:Dazzling Gleam,25.0%,2.25
+3:Icicle Crash,12.5%,1.125
+4:Water Spout,12.5%,1.125
+5:Eruption,12.5%,1.125
+6:Hidden Power,12.5%,1.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Thundurus
+4:Weavile
+5:Groudon

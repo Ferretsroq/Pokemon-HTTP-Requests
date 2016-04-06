@@ -1,0 +1,54 @@
+289:Tornadus-T|4
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,4.0
+2:Focus Blast,75.0%,3.0
+3:U-turn,50.0%,2.0
+4:Heat Wave,50.0%,2.0
+5:Hidden Power,50.0%,2.0
+6:Icy Wind,50.0%,2.0
+7:Tailwind,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,75.0%,3.0
+2:Life Orb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Talonflame
+3:Landorus
+4:Hydreigon
+5:Heatran
+6:Weavile
+7:Rayquaza
+8:Kyogre
+9:Mawile
+10:Sableye
+11:Swampert
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,50.0%,2.0
+2:Rock Slide,50.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Venusaur
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

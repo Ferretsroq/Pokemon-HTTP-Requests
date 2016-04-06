@@ -1,0 +1,80 @@
+214:Vileplume|20
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,20.0
+2:Protect,95.0%,19.0
+3:Sludge Bomb,80.0%,16.0
+4:After You,70.0%,14.0
+5:Grass Knot,35.0%,7.0
+6:Moonblast,20.0%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,90.0%,18.0
+2:Life Orb,5.0%,1.0
+3:Sitrus Berry,5.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,20.0
+
+ ---------- 
+Natures used:
+1:Timid,75.0%,15.0
+2:Modest,25.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Sableye
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Mawile
+8:Scrafty
+9:Xerneas
+10:Crobat
+11:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,42.8571428571%,8.57142857143
+2:Sludge Bomb,42.8571428571%,8.57142857143
+3:Moonblast,14.2857142857%,2.85714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.1818181818%,3.63636363636
+2:Origin Pulse,9.09090909091%,1.81818181818
+3:Spacial Rend,9.09090909091%,1.81818181818
+4:Brave Bird,9.09090909091%,1.81818181818
+5:Gyro Ball,9.09090909091%,1.81818181818
+6:Hyper Voice,9.09090909091%,1.81818181818
+7:Eruption,9.09090909091%,1.81818181818
+8:Rock Slide,9.09090909091%,1.81818181818
+9:Psychic,9.09090909091%,1.81818181818
+10:Ice Beam,9.09090909091%,1.81818181818
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Kyogre
+3:Breloom
+4:Swampert
+5:Hitmontop
+6:Mewtwo
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyurem
+3:Ferrothorn
+4:Cresselia
+5:Palkia
+6:Groudon
+7:Kyogre
+8:Salamence
+9:Ho-Oh
+10:Steelix

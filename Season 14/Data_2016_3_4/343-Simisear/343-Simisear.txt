@@ -1,0 +1,38 @@
+343:Simisear|1
+ ---------- 
+Moves used:
+1:Flame Burst,100.0%,1.0
+2:Sunny Day,100.0%,1.0
+3:Fire Blast,100.0%,1.0
+4:Flamethrower,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Gluttony,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bashful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Simipour
+2:Simisage
+3:Finneon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Foul Play,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Liepard

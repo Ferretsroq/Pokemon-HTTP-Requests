@@ -1,0 +1,139 @@
+97:Shiftry|306
+ ---------- 
+Moves used:
+1:Fake Out,98.6928104575%,302.0
+2:Leaf Blade,87.908496732%,269.0
+3:Knock Off,84.9673202614%,260.0
+4:Tailwind,42.1568627451%,129.0
+5:Low Kick,40.522875817%,124.0
+6:Foul Play,14.3790849673%,44.0
+7:Leaf Storm,8.16993464052%,25.0
+8:Worry Seed,6.2091503268%,19.0
+9:Swagger,5.22875816993%,16.0
+10:Protect,3.92156862745%,12.0
+11:Grass Knot,3.26797385621%,10.0
+12:Swords Dance,1.96078431373%,6.0
+13:Brick Break,1.30718954248%,4.0
+14:Icy Wind,0.653594771242%,2.0
+15:Whirlwind,0.653594771242%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,52.9411764706%,162.0
+2:Life Orb,44.7712418301%,137.0
+3:Eject Button,1.96078431373%,6.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,306.0
+
+ ---------- 
+Natures used:
+1:Jolly,57.5163398693%,176.0
+2:Adamant,31.045751634%,95.0
+3:Timid,10.4575163399%,32.0
+4:Modest,0.980392156863%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Talonflame
+5:Kangaskhan
+6:Yveltal
+7:Mawile
+8:Kyurem
+9:Thundurus
+10:Metagross
+11:Crobat
+12:Palkia
+13:Bronzong
+14:Kyogre
+15:Gengar
+16:Aegislash
+17:Giratina
+18:Smeargle
+19:Raichu
+20:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,35.8208955224%,109.611940299
+2:Leaf Blade,26.8656716418%,82.2089552239
+3:Foul Play,14.9253731343%,45.671641791
+4:Low Kick,10.447761194%,31.9701492537
+5:Fake Out,5.97014925373%,18.2686567164
+6:Grass Knot,2.98507462687%,9.13432835821
+7:Leaf Storm,1.49253731343%,4.5671641791
+8:Brick Break,1.49253731343%,4.5671641791
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.8536585366%,48.512195122
+2:Eruption,10.9756097561%,33.5853658537
+3:Hyper Voice,10.5691056911%,32.3414634146
+4:Ice Beam,7.31707317073%,22.3902439024
+5:Double-Edge,5.69105691057%,17.4146341463
+6:Brave Bird,5.28455284553%,16.1707317073
+7:Water Spout,4.06504065041%,12.4390243902
+8:Dragon Ascent,3.25203252033%,9.9512195122
+9:Origin Pulse,3.25203252033%,9.9512195122
+10:Low Kick,3.25203252033%,9.9512195122
+11:Flamethrower,2.84552845528%,8.70731707317
+12:Precipice Blades,2.43902439024%,7.46341463415
+13:Gyro Ball,2.0325203252%,6.21951219512
+14:Iron Head,1.62601626016%,4.9756097561
+15:U-turn,1.62601626016%,4.9756097561
+16:Extreme Speed,1.62601626016%,4.9756097561
+17:Power-Up Punch,1.21951219512%,3.73170731707
+18:Overheat,1.21951219512%,3.73170731707
+19:Sludge Bomb,1.21951219512%,3.73170731707
+20:Rock Slide,1.21951219512%,3.73170731707
+0:Other,11.3821138211%,34.8292682927
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Smeargle
+4:Gengar
+5:Liepard
+6:Groudon
+7:Xerneas
+8:Talonflame
+9:Dialga
+10:Rayquaza
+11:Salamence
+12:Gengar
+13:Meowstic
+14:Landorus
+15:Palkia
+16:Lugia
+17:Noivern
+18:Whimsicott
+19:Cresselia
+20:Rotom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Rayquaza
+10:Ferrothorn
+11:Dialga
+12:Mawile
+13:Cresselia
+14:Yveltal
+15:Greninja
+16:Palkia
+17:Togekiss
+18:Weavile
+19:Smeargle
+20:Gengar

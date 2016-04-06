@@ -1,0 +1,56 @@
+49:Bisharp|6
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,6.0
+2:Sucker Punch,100.0%,6.0
+3:Protect,100.0%,6.0
+4:Knock Off,83.3333333333%,5.0
+5:Assurance,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,66.6666666667%,4.0
+2:Life Orb,16.6666666667%,1.0
+3:Black Glasses,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Kyogre
+5:Xerneas
+6:Cresselia
+7:Giratina
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,1.2
+2:Play Rough,20.0%,1.2
+3:Snarl,20.0%,1.2
+4:Gyro Ball,20.0%,1.2
+5:Overheat,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Ferrothorn
+3:Rayquaza
+4:Groudon
+5:Mawile

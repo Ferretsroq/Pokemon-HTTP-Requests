@@ -1,0 +1,87 @@
+32:Palkia|16
+ ---------- 
+Moves used:
+1:Spacial Rend,100.0%,16.0
+2:Protect,75.0%,12.0
+3:Earth Power,62.5%,10.0
+4:Thunder,62.5%,10.0
+5:Trick Room,43.75%,7.0
+6:Hydro Pump,37.5%,6.0
+7:Blizzard,12.5%,2.0
+8:Flamethrower,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Lustrous Orb,43.75%,7.0
+2:Haban Berry,37.5%,6.0
+3:Assault Vest,12.5%,2.0
+4:Lum Berry,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,87.5%,14.0
+2:Telepathy,12.5%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,62.5%,10.0
+2:Quiet,37.5%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Mawile
+4:Kyogre
+5:Kangaskhan
+6:Thundurus
+7:Talonflame
+8:Meowstic
+9:Greninja
+10:Landorus
+11:Ferrothorn
+12:Weavile
+13:Salamence
+14:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Spacial Rend,75.0%,12.0
+2:Earth Power,12.5%,2.0
+3:Blizzard,12.5%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,15.3846153846%,2.46153846154
+2:Draco Meteor,15.3846153846%,2.46153846154
+3:Dragon Ascent,7.69230769231%,1.23076923077
+4:Power-Up Punch,7.69230769231%,1.23076923077
+5:Dazzling Gleam,7.69230769231%,1.23076923077
+6:Sucker Punch,7.69230769231%,1.23076923077
+7:Water Spout,7.69230769231%,1.23076923077
+8:Extreme Speed,7.69230769231%,1.23076923077
+9:Return,7.69230769231%,1.23076923077
+10:Ice Beam,7.69230769231%,1.23076923077
+11:Double-Edge,7.69230769231%,1.23076923077
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Tornadus
+3:Amoonguss
+4:Cresselia
+5:Groudon
+6:Kyogre
+7:Hitmontop
+8:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Ferrothorn
+3:Rayquaza
+4:Salamence
+5:Xerneas
+6:Noivern
+7:Kyogre
+8:Kyogre

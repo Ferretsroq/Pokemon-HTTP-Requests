@@ -1,0 +1,168 @@
+54:Zekrom|611
+ ---------- 
+Moves used:
+1:Fusion Bolt,73.6497545008%,450.0
+2:Bolt Strike,55.8101472995%,341.0
+3:Draco Meteor,48.9361702128%,299.0
+4:Dragon Claw,45.9901800327%,281.0
+5:Protect,44.6808510638%,273.0
+6:Rock Slide,30.2782324059%,185.0
+7:Tailwind,24.8772504092%,152.0
+8:Volt Switch,18.3306055646%,112.0
+9:Outrage,17.8396072013%,109.0
+10:Earth Power,12.4386252046%,76.0
+11:Focus Blast,3.60065466448%,22.0
+12:Substitute,2.94599018003%,18.0
+13:Crunch,2.78232405892%,17.0
+14:Hidden Power,2.45499181669%,15.0
+15:Dragon Tail,2.12765957447%,13.0
+16:Zen Headbutt,2.12765957447%,13.0
+17:Giga Impact,2.12765957447%,13.0
+18:Thunder Wave,2.12765957447%,13.0
+19:Safeguard,1.80032733224%,11.0
+20:Rock Tomb,1.3093289689%,8.0
+0:Other,3.7643207856%,23.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,51.3911620295%,314.0
+2:Life Orb,19.6399345336%,120.0
+3:Shuca Berry,7.52864157119%,46.0
+4:Focus Sash,6.87397708674%,42.0
+5:Haban Berry,3.27332242226%,20.0
+6:Expert Belt,2.94599018003%,18.0
+7:Zap Plate,2.61865793781%,16.0
+8:Assault Vest,1.63666121113%,10.0
+9:Lum Berry,0.981996726678%,6.0
+10:Safety Goggles,0.654664484452%,4.0
+11:Weakness Policy,0.654664484452%,4.0
+12:Yache Berry,0.654664484452%,4.0
+13:Air Balloon,0.490998363339%,3.0
+14:Wide Lens,0.327332242226%,2.0
+
+ ---------- 
+Abilities used:
+1:Teravolt,100.0%,611.0
+
+ ---------- 
+Natures used:
+1:Adamant,27.3322422259%,167.0
+2:Naughty,17.348608838%,106.0
+3:Jolly,17.0212765957%,104.0
+4:Lonely,14.0752864157%,86.0
+5:Rash,5.89198036007%,36.0
+6:Quiet,5.40098199673%,33.0
+7:Naive,4.25531914894%,26.0
+8:Mild,4.09165302782%,25.0
+9:Brave,2.94599018003%,18.0
+10:Hasty,0.981996726678%,6.0
+11:Calm,0.490998363339%,3.0
+12:Modest,0.163666121113%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Talonflame
+5:Landorus
+6:Gengar
+7:Ferrothorn
+8:Salamence
+9:Crobat
+10:Reshiram
+11:Greninja
+12:Cresselia
+13:Scizor
+14:Whimsicott
+15:Thundurus
+16:Rayquaza
+17:Mawile
+18:Ditto
+19:Amoonguss
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fusion Bolt,47.2602739726%,288.760273973
+2:Bolt Strike,19.8630136986%,121.363013699
+3:Draco Meteor,12.100456621%,73.9337899543
+4:Dragon Claw,10.0456621005%,61.3789954338
+5:Outrage,4.1095890411%,25.1095890411
+6:Rock Slide,2.96803652968%,18.1347031963
+7:Volt Switch,1.14155251142%,6.97488584475
+8:Earth Power,1.14155251142%,6.97488584475
+9:Crunch,0.456621004566%,2.7899543379
+10:Hidden Power,0.456621004566%,2.7899543379
+11:Zen Headbutt,0.228310502283%,1.39497716895
+12:Struggle,0.228310502283%,1.39497716895
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.1518987342%,74.2481012658
+2:Precipice Blades,9.36708860759%,57.2329113924
+3:Ice Beam,9.11392405063%,55.6860759494
+4:Draco Meteor,6.32911392405%,38.6708860759
+5:Earth Power,6.32911392405%,38.6708860759
+6:Sucker Punch,4.81012658228%,29.3898734177
+7:Moonblast,4.55696202532%,27.8430379747
+8:Earthquake,3.54430379747%,21.6556962025
+9:Water Spout,3.29113924051%,20.1088607595
+10:Extreme Speed,3.29113924051%,20.1088607595
+11:Double-Edge,3.29113924051%,20.1088607595
+12:Eruption,3.03797468354%,18.5620253165
+13:Play Rough,2.78481012658%,17.0151898734
+14:Spacial Rend,2.27848101266%,13.9215189873
+15:Origin Pulse,2.0253164557%,12.3746835443
+16:Foul Play,1.51898734177%,9.28101265823
+17:Dragon Pulse,1.26582278481%,7.73417721519
+18:Dragon Claw,1.26582278481%,7.73417721519
+19:Low Kick,1.26582278481%,7.73417721519
+20:Blizzard,1.26582278481%,7.73417721519
+0:Other,11.6455696203%,71.1544303797
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Rayquaza
+3:Crobat
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Xerneas
+8:Groudon
+9:Yveltal
+10:Thundurus
+11:Ho-Oh
+12:Togekiss
+13:Gengar
+14:Gengar
+15:Weavile
+16:Liepard
+17:Palkia
+18:Landorus
+19:Ferrothorn
+20:Cresselia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Mawile
+8:Landorus
+9:Palkia
+10:Dialga
+11:Yveltal
+12:Liepard
+13:Aegislash
+14:Giratina
+15:Ditto
+16:Gengar
+17:Kyurem
+18:Weavile
+19:Kyogre
+20:Ferrothorn

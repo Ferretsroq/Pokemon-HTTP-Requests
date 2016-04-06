@@ -1,0 +1,53 @@
+51:Shedinja|6
+ ---------- 
+Moves used:
+1:Phantom Force,100.0%,6.0
+2:Confuse Ray,100.0%,6.0
+3:Hone Claws,83.3333333333%,5.0
+4:Double Team,83.3333333333%,5.0
+5:Will-O-Wisp,16.6666666667%,1.0
+6:Protect,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Wonder Guard,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Naughty,83.3333333333%,5.0
+2:Adamant,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Mienshao
+3:Manectric
+4:Mewtwo
+5:Yveltal
+6:Tyranitar
+7:Blissey
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,50.0%,3.0
+2:Hyper Voice,50.0%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Smeargle
+4:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Salamence

@@ -1,0 +1,166 @@
+4:Xerneas|10507
+ ---------- 
+Moves used:
+1:Dazzling Gleam,99.390882269%,10443.0
+2:Geomancy,92.8143142667%,9752.0
+3:Protect,92.6144475112%,9731.0
+4:Moonblast,90.872751499%,9548.0
+5:Grass Knot,8.66089273817%,910.0
+6:Psychic,4.42562101456%,465.0
+7:Focus Blast,3.37869991434%,355.0
+8:Hidden Power,2.29370895593%,241.0
+9:Sleep Talk,2.13191205863%,224.0
+10:Thunderbolt,0.942228990197%,99.0
+11:Psyshock,0.494908156467%,52.0
+12:Thunder,0.456838298277%,48.0
+13:Substitute,0.295041400971%,31.0
+14:Thunder Wave,0.123727039117%,13.0
+15:Psych Up,0.085657180927%,9.0
+16:Flash Cannon,0.0571047872847%,6.0
+17:Heal Pulse,0.0475873227372%,5.0
+18:Close Combat,0.0475873227372%,5.0
+19:Rock Slide,0.0285523936423%,3.0
+20:Reflect,0.0285523936423%,3.0
+0:Other,0.0190349290949%,2.0
+
+ ---------- 
+Items used:
+1:Power Herb,92.2718187875%,9695.0
+2:Choice Scarf,3.87360807081%,407.0
+3:Choice Specs,3.00751879699%,316.0
+4:Pixie Plate,0.390216046445%,41.0
+5:Life Orb,0.323593794613%,34.0
+6:Sitrus Berry,0.0475873227372%,5.0
+7:Leftovers,0.0285523936423%,3.0
+8:Power Weight,0.00951746454744%,1.0
+9:Power Belt,0.00951746454744%,1.0
+10:Mental Herb,0.00951746454744%,1.0
+11:Lum Berry,0.00951746454744%,1.0
+
+ ---------- 
+Abilities used:
+1:Fairy Aura,100.0%,10507.0
+
+ ---------- 
+Natures used:
+1:Timid,71.2477396022%,7486.0
+2:Modest,25.7542590654%,2706.0
+3:Bold,1.60845150852%,169.0
+4:Calm,0.78043209289%,82.0
+5:Quiet,0.218901684591%,23.0
+6:Hasty,0.104692110022%,11.0
+7:Naive,0.0951746454744%,10.0
+8:Serious,0.085657180927%,9.0
+9:Gentle,0.0571047872847%,6.0
+10:Sassy,0.0190349290949%,2.0
+11:Naughty,0.0190349290949%,2.0
+12:Jolly,0.00951746454744%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Salamence
+5:Smeargle
+6:Kyogre
+7:Cresselia
+8:Amoonguss
+9:Thundurus
+10:Landorus
+11:Crobat
+12:Rayquaza
+13:Liepard
+14:Gengar
+15:Ferrothorn
+16:Mawile
+17:Whimsicott
+18:Togekiss
+19:Weavile
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,70.5521472393%,7412.91411043
+2:Moonblast,28.0472276884%,2946.92221322
+3:Grass Knot,0.706100243084%,74.1899525408
+4:Hidden Power,0.231508276421%,24.3245746035
+5:Psychic,0.173631207316%,18.2434309527
+6:Focus Blast,0.150480379674%,15.8109734923
+7:Psyshock,0.0347262414631%,3.64868619053
+8:Sleep Talk,0.0231508276421%,2.43245746035
+9:Rock Slide,0.0231508276421%,2.43245746035
+10:Thunder,0.0231508276421%,2.43245746035
+11:Close Combat,0.011575413821%,1.21622873018
+12:Struggle,0.011575413821%,1.21622873018
+13:Thunderbolt,0.011575413821%,1.21622873018
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.6896918172%,1228.23591923
+2:Dazzling Gleam,7.77541622388%,816.962982643
+3:Double-Edge,7.29720155863%,766.716967765
+4:Gyro Ball,7.04923839887%,740.663478569
+5:Water Spout,6.65958200496%,699.722281261
+6:Moonblast,5.88026921714%,617.839886645
+7:Origin Pulse,4.64045341835%,487.572440666
+8:Iron Head,4.37477860432%,459.657987956
+9:Eruption,4.09139213603%,429.882571732
+10:Dragon Ascent,3.96741055615%,416.855827134
+11:Brave Bird,3.91427559334%,411.272936592
+12:Fire Punch,3.59546581651%,377.77559334
+13:Extreme Speed,3.09953949699%,325.668614949
+14:Sludge Bomb,2.35565001771%,247.508147361
+15:Ice Beam,1.93057031527%,202.845023025
+16:Sucker Punch,1.75345377258%,184.235387885
+17:Rock Slide,1.39922068721%,147.016117605
+18:Hyper Voice,1.34608572441%,141.433227063
+19:Return,1.27523910733%,133.989373007
+20:Earth Power,1.11583421892%,117.240701382
+0:Other,12.8586609989%,1351.05951116
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Salamence
+3:Xerneas
+4:Kyogre
+5:Groudon
+6:Talonflame
+7:Smeargle
+8:Thundurus
+9:Rayquaza
+10:Landorus
+11:Yveltal
+12:Cresselia
+13:Weavile
+14:Crobat
+15:Rayquaza
+16:Whimsicott
+17:Liepard
+18:Dialga
+19:Gengar
+20:Meowstic
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Ferrothorn
+6:Rayquaza
+7:Talonflame
+8:Salamence
+9:Mawile
+10:Rayquaza
+11:Gengar
+12:Landorus
+13:Bronzong
+14:Dialga
+15:Aegislash
+16:Gengar
+17:Ditto
+18:Kyogre
+19:Thundurus
+20:Ho-Oh

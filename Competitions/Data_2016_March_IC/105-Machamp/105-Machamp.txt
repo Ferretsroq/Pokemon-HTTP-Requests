@@ -1,0 +1,60 @@
+105:Machamp|3
+ ---------- 
+Moves used:
+1:Dynamic Punch,100.0%,3.0
+2:Quick Guard,66.6666666667%,2.0
+3:Wide Guard,66.6666666667%,2.0
+4:Ice Punch,66.6666666667%,2.0
+5:Bullet Punch,33.3333333333%,1.0
+6:Knock Off,33.3333333333%,1.0
+7:Thunder Punch,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,66.6666666667%,2.0
+2:Adamant,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Meowstic
+3:Kyurem
+4:Groudon
+5:Kangaskhan
+6:Greninja
+7:Liepard
+8:Rayquaza
+9:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dynamic Punch,66.6666666667%,2.0
+2:Bullet Punch,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,40.0%,1.2
+2:Brave Bird,20.0%,0.6
+3:U-turn,20.0%,0.6
+4:Thunder,20.0%,0.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Mienshao
+4:Kyogre

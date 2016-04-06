@@ -1,0 +1,130 @@
+75:Azumarill|92
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,92.0
+2:Play Rough,92.3913043478%,85.0
+3:Waterfall,75.0%,69.0
+4:Superpower,65.2173913043%,60.0
+5:Knock Off,36.9565217391%,34.0
+6:Belly Drum,16.3043478261%,15.0
+7:Protect,11.9565217391%,11.0
+8:Toxic,1.08695652174%,1.0
+9:Ice Punch,1.08695652174%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,72.8260869565%,67.0
+2:Sitrus Berry,11.9565217391%,11.0
+3:Choice Band,7.60869565217%,7.0
+4:Mystic Water,5.4347826087%,5.0
+5:Sea Incense,1.08695652174%,1.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,92.0
+
+ ---------- 
+Natures used:
+1:Adamant,72.8260869565%,67.0
+2:Brave,27.1739130435%,25.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Thundurus
+5:Groudon
+6:Kangaskhan
+7:Salamence
+8:Bronzong
+9:Weavile
+10:Gengar
+11:Talonflame
+12:Dialga
+13:Manectric
+14:Crobat
+15:Cresselia
+16:Togekiss
+17:Meowstic
+18:Mienshao
+19:Amoonguss
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,40.350877193%,37.1228070175
+2:Play Rough,24.5614035088%,22.5964912281
+3:Waterfall,15.7894736842%,14.5263157895
+4:Superpower,10.5263157895%,9.68421052632
+5:Knock Off,8.77192982456%,8.0701754386
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.3265306122%,15.0204081633
+2:Sludge Bomb,10.2040816327%,9.38775510204
+3:Dazzling Gleam,6.12244897959%,5.63265306122
+4:Thunderbolt,6.12244897959%,5.63265306122
+5:Origin Pulse,4.08163265306%,3.75510204082
+6:Moonblast,4.08163265306%,3.75510204082
+7:Play Rough,4.08163265306%,3.75510204082
+8:Iron Head,4.08163265306%,3.75510204082
+9:Flash Cannon,4.08163265306%,3.75510204082
+10:Brave Bird,4.08163265306%,3.75510204082
+11:Water Spout,4.08163265306%,3.75510204082
+12:Extreme Speed,4.08163265306%,3.75510204082
+13:Double-Edge,4.08163265306%,3.75510204082
+14:Dragon Ascent,2.04081632653%,1.87755102041
+15:Volt Switch,2.04081632653%,1.87755102041
+16:Shadow Force,2.04081632653%,1.87755102041
+17:Power Whip,2.04081632653%,1.87755102041
+18:Volt Tackle,2.04081632653%,1.87755102041
+19:Hyper Voice,2.04081632653%,1.87755102041
+20:Eruption,2.04081632653%,1.87755102041
+0:Other,10.2040816327%,9.38775510204
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Ferrothorn
+6:Cresselia
+7:Dialga
+8:Kyogre
+9:Kyurem
+10:Salamence
+11:Zapdos
+12:Gengar
+13:Greninja
+14:Landorus
+15:Bisharp
+16:Mienshao
+17:Whimsicott
+18:Liepard
+19:Bronzong
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Thundurus
+5:Rayquaza
+6:Salamence
+7:Gengar
+8:Talonflame
+9:Dialga
+10:Bisharp
+11:Ferrothorn
+12:Cresselia
+13:Giratina
+14:Metagross
+15:Manectric
+16:Mawile
+17:Porygon2
+18:Azumarill
+19:Crobat
+20:Kangaskhan

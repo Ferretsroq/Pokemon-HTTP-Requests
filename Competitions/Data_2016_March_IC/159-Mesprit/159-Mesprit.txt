@@ -1,0 +1,45 @@
+159:Mesprit|1
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Light Screen,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Ho-Oh
+3:Crobat
+4:Aerodactyl
+5:Vaporeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,33.3333333333%,0.333333333333
+2:Rock Slide,33.3333333333%,0.333333333333
+3:Ice Beam,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Bronzong
+2:Kyogre
+3:Aerodactyl

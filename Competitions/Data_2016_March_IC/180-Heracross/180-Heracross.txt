@@ -1,0 +1,39 @@
+180:Heracross|1
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,1.0
+2:Bullet Seed,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Pin Missile,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Heracronite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swarm,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Clawitzer
+2:Amoonguss
+3:Escavalier
+4:Dusclops
+5:Camerupt
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

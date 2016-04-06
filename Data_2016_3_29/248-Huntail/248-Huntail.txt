@@ -1,0 +1,39 @@
+248:Huntail|1
+ ---------- 
+Moves used:
+1:Shell Smash,100.0%,1.0
+2:Iron Defense,100.0%,1.0
+3:Baton Pass,100.0%,1.0
+4:Waterfall,100.0%,1.0
+
+ ---------- 
+Items used:
+1:White Herb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Volcarona
+2:Groudon
+3:Sceptile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame

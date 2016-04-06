@@ -1,0 +1,118 @@
+163:Blissey|61
+ ---------- 
+Moves used:
+1:Soft-Boiled,100.0%,61.0
+2:Minimize,72.131147541%,44.0
+3:Calm Mind,52.4590163934%,32.0
+4:Ice Beam,40.9836065574%,25.0
+5:Heal Pulse,37.7049180328%,23.0
+6:Water Pulse,26.2295081967%,16.0
+7:Helping Hand,26.2295081967%,16.0
+8:Toxic,16.393442623%,10.0
+9:Seismic Toss,11.4754098361%,7.0
+10:Flamethrower,6.55737704918%,4.0
+11:Hyper Voice,4.91803278689%,3.0
+12:Icy Wind,3.27868852459%,2.0
+13:Protect,1.6393442623%,1.0
+
+ ---------- 
+Items used:
+1:Kee Berry,50.8196721311%,31.0
+2:Sitrus Berry,27.868852459%,17.0
+3:Lum Berry,8.19672131148%,5.0
+4:Mental Herb,4.91803278689%,3.0
+5:Bright Powder,4.91803278689%,3.0
+6:Leftovers,3.27868852459%,2.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,47.5409836066%,29.0
+2:Serene Grace,39.3442622951%,24.0
+3:Healer,13.1147540984%,8.0
+
+ ---------- 
+Natures used:
+1:Bold,52.4590163934%,32.0
+2:Relaxed,47.5409836066%,29.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Kyogre
+3:Natu
+4:Latias
+5:Rayquaza
+6:Yveltal
+7:Landorus
+8:Groudon
+9:Mienshao
+10:Gengar
+11:Kangaskhan
+12:Meowstic
+13:Ferrothorn
+14:Togekiss
+15:Palkia
+16:Carbink
+17:Bisharp
+18:Dialga
+19:Sableye
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,80.6451612903%,49.1935483871
+2:Hyper Voice,9.67741935484%,5.90322580645
+3:Seismic Toss,6.45161290323%,3.93548387097
+4:Water Pulse,3.22580645161%,1.96774193548
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.0%,9.76
+2:Double-Edge,12.0%,7.32
+3:Dragon Ascent,8.0%,4.88
+4:Flare Blitz,8.0%,4.88
+5:Low Kick,8.0%,4.88
+6:Dazzling Gleam,4.0%,2.44
+7:Hurricane,4.0%,2.44
+8:Psystrike,4.0%,2.44
+9:Scald,4.0%,2.44
+10:Brave Bird,4.0%,2.44
+11:Close Combat,4.0%,2.44
+12:Dragon Claw,4.0%,2.44
+13:Eruption,4.0%,2.44
+14:Knock Off,4.0%,2.44
+15:Return,4.0%,2.44
+16:Fire Punch,4.0%,2.44
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Rayquaza
+3:Groudon
+4:Talonflame
+5:Thundurus
+6:Yveltal
+7:Xerneas
+8:Ferrothorn
+9:Landorus
+10:Weavile
+11:Bronzong
+12:Rayquaza
+13:Lugia
+14:Crobat
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Rayquaza
+5:Yveltal
+6:Xerneas
+7:Terrakion
+8:Mienshao
+9:Rayquaza
+10:Kyogre
+11:Mewtwo
+12:Dragonite

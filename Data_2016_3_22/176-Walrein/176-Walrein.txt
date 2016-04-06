@@ -1,0 +1,45 @@
+176:Walrein|1
+ ---------- 
+Moves used:
+1:Sheer Cold,100.0%,1.0
+2:Icy Wind,100.0%,1.0
+3:Super Fang,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Mewtwo
+4:Breloom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,66.6666666667%,0.666666666667
+2:Ice Beam,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Kyogre
+3:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

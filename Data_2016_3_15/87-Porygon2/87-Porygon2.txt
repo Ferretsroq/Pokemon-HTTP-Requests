@@ -1,0 +1,37 @@
+87:Porygon2|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Tri Attack,100.0%,1.0
+3:Recover,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Download,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Ferrothorn
+2:Scrafty
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

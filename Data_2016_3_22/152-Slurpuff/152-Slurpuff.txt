@@ -1,0 +1,43 @@
+152:Slurpuff|1
+ ---------- 
+Moves used:
+1:Play Rough,100.0%,1.0
+2:Drain Punch,100.0%,1.0
+3:Belly Drum,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sweet Veil,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Lugia
+3:Salamence
+4:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,50.0%,0.5
+2:Origin Pulse,25.0%,0.25
+3:Scald,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre

@@ -1,0 +1,43 @@
+165:Swoobat|1
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,1.0
+2:Taunt,100.0%,1.0
+3:Reflect,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Simple,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Suicune
+3:Kangaskhan
+4:Groudon
+5:Porygon2
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,66.6666666667%,0.666666666667
+2:Eruption,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon

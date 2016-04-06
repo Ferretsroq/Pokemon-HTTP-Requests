@@ -1,0 +1,101 @@
+188:Accelgor|41
+ ---------- 
+Moves used:
+1:Protect,82.9268292683%,34.0
+2:Encore,80.487804878%,33.0
+3:Acid Spray,70.7317073171%,29.0
+4:Final Gambit,60.9756097561%,25.0
+5:Knock Off,34.1463414634%,14.0
+6:Gastro Acid,26.8292682927%,11.0
+7:Feint,17.0731707317%,7.0
+8:Struggle Bug,14.6341463415%,6.0
+9:Bug Buzz,4.87804878049%,2.0
+10:Me First,4.87804878049%,2.0
+11:Recover,2.43902439024%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,70.7317073171%,29.0
+2:Sitrus Berry,17.0731707317%,7.0
+3:Bright Powder,12.1951219512%,5.0
+
+ ---------- 
+Abilities used:
+1:Unburden,56.0975609756%,23.0
+2:Sticky Hold,29.2682926829%,12.0
+3:Hydration,14.6341463415%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,41.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Gengar
+4:Groudon
+5:Rayquaza
+6:Kangaskhan
+7:Clefairy
+8:Mawile
+9:Amoonguss
+10:Talonflame
+11:Crobat
+12:Raichu
+13:Landorus
+14:Hydreigon
+15:Lopunny
+16:Spinda
+17:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Final Gambit,75.0%,30.75
+2:Struggle Bug,12.5%,5.125
+3:Knock Off,12.5%,5.125
+
+ ---------- 
+Moves that KO this pokemon:
+1:Struggle,9.375%,3.84375
+2:Precipice Blades,6.25%,2.5625
+3:Brave Bird,6.25%,2.5625
+4:Dragon Ascent,3.125%,1.28125
+5:Origin Pulse,3.125%,1.28125
+6:Play Rough,3.125%,1.28125
+7:Dragon Pulse,3.125%,1.28125
+8:Gyro Ball,3.125%,1.28125
+9:Hyper Voice,3.125%,1.28125
+10:Eruption,3.125%,1.28125
+11:Extreme Speed,3.125%,1.28125
+12:Rock Slide,3.125%,1.28125
+13:Thunderbolt,3.125%,1.28125
+14:Double-Edge,3.125%,1.28125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Ferrothorn
+4:Whimsicott
+5:Palkia
+6:Groudon
+7:Smeargle
+8:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Landorus
+5:Thundurus
+6:Ferrothorn
+7:Carracosta
+8:Dialga
+9:Rayquaza
+10:Rayquaza
+11:Kyogre
+12:Salamence
+13:Mawile
+14:Kangaskhan

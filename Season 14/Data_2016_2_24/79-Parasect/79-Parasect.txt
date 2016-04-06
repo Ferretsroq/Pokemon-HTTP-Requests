@@ -1,0 +1,128 @@
+79:Parasect|330
+ ---------- 
+Moves used:
+1:Rage Powder,99.696969697%,329.0
+2:Wide Guard,96.6666666667%,319.0
+3:Spore,88.7878787879%,293.0
+4:Protect,74.2424242424%,245.0
+5:Seed Bomb,11.5151515152%,38.0
+6:Sweet Scent,11.2121212121%,37.0
+7:After You,6.9696969697%,23.0
+8:Struggle Bug,5.15151515152%,17.0
+9:X-Scissor,2.42424242424%,8.0
+10:Grass Knot,1.81818181818%,6.0
+11:Counter,0.909090909091%,3.0
+12:Worry Seed,0.30303030303%,1.0
+13:Giga Drain,0.30303030303%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,52.1212121212%,172.0
+2:Mental Herb,26.3636363636%,87.0
+3:Sitrus Berry,17.5757575758%,58.0
+4:Leftovers,1.21212121212%,4.0
+5:Rocky Helmet,0.909090909091%,3.0
+6:Air Balloon,0.606060606061%,2.0
+7:Lum Berry,0.606060606061%,2.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,48.4848484848%,160.0
+2:Effect Spore,40.303030303%,133.0
+3:Damp,11.2121212121%,37.0
+
+ ---------- 
+Natures used:
+1:Relaxed,35.1515151515%,116.0
+2:Sassy,23.3333333333%,77.0
+3:Careful,16.0606060606%,53.0
+4:Impish,12.7272727273%,42.0
+5:Brave,6.06060606061%,20.0
+6:Bold,3.63636363636%,12.0
+7:Adamant,2.42424242424%,8.0
+8:Calm,0.606060606061%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Mewtwo
+6:Smeargle
+7:Scolipede
+8:Machoke
+9:Talonflame
+10:Mawile
+11:Cresselia
+12:Landorus
+13:Rayquaza
+14:Salamence
+15:Gengar
+16:Machamp
+17:Bronzong
+18:Aegislash
+19:Ho-Oh
+20:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,62.5%,206.25
+2:Grass Knot,25.0%,82.5
+3:Struggle Bug,12.5%,41.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,13.2478632479%,43.7179487179
+2:Brave Bird,10.2564102564%,33.8461538462
+3:Double-Edge,6.41025641026%,21.1538461538
+4:Dragon Ascent,4.2735042735%,14.1025641026
+5:Return,3.84615384615%,12.6923076923
+6:Sludge Bomb,3.84615384615%,12.6923076923
+7:Flamethrower,3.84615384615%,12.6923076923
+8:Moonblast,3.4188034188%,11.2820512821
+9:Fire Punch,3.4188034188%,11.2820512821
+10:Dazzling Gleam,2.99145299145%,9.87179487179
+11:Air Slash,2.99145299145%,9.87179487179
+12:Eruption,2.13675213675%,7.05128205128
+13:Foul Play,1.28205128205%,4.23076923077
+14:Iron Head,1.28205128205%,4.23076923077
+15:Dragon Pulse,1.28205128205%,4.23076923077
+16:Flare Blitz,1.28205128205%,4.23076923077
+17:Water Spout,1.28205128205%,4.23076923077
+18:Overheat,1.28205128205%,4.23076923077
+19:Hyper Voice,1.28205128205%,4.23076923077
+20:Extreme Speed,1.28205128205%,4.23076923077
+0:Other,23.9316239316%,78.9743589744
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Yveltal
+3:Rayquaza
+4:Kangaskhan
+5:Gengar
+6:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Talonflame
+5:Xerneas
+6:Rayquaza
+7:Salamence
+8:Togekiss
+9:Ho-Oh
+10:Yveltal
+11:Mawile
+12:Rayquaza
+13:Gengar
+14:Landorus
+15:Cresselia
+16:Dialga
+17:Scizor
+18:Gengar
+19:Liepard
+20:Kyurem

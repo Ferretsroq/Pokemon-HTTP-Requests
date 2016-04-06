@@ -1,0 +1,164 @@
+6:Talonflame|6925
+ ---------- 
+Moves used:
+1:Brave Bird,99.9855595668%,6924.0
+2:Tailwind,89.7328519856%,6214.0
+3:Flare Blitz,81.9061371841%,5672.0
+4:Quick Guard,63.9422382671%,4428.0
+5:Taunt,22.7436823105%,1575.0
+6:Protect,19.0758122744%,1321.0
+7:Sleep Talk,5.09747292419%,353.0
+8:U-turn,4.96750902527%,344.0
+9:Snatch,3.20577617329%,222.0
+10:Swords Dance,2.16606498195%,150.0
+11:Will-O-Wisp,1.90613718412%,132.0
+12:Overheat,1.03971119134%,72.0
+13:Roost,1.02527075812%,71.0
+14:Steel Wing,0.606498194946%,42.0
+15:Aerial Ace,0.259927797834%,18.0
+16:Fly,0.259927797834%,18.0
+17:Swagger,0.115523465704%,8.0
+18:Acrobatics,0.101083032491%,7.0
+19:Me First,0.086642599278%,6.0
+20:Natural Gift,0.014440433213%,1.0
+0:Other,0.028880866426%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,63.5812274368%,4403.0
+2:Sharp Beak,9.1119133574%,631.0
+3:Choice Band,8.64981949458%,599.0
+4:Lum Berry,7.13357400722%,494.0
+5:Sky Plate,4.98194945848%,345.0
+6:Focus Sash,1.94945848375%,135.0
+7:Wacan Berry,1.27075812274%,88.0
+8:Red Card,0.981949458484%,68.0
+9:Sitrus Berry,0.447653429603%,31.0
+10:Chesto Berry,0.418772563177%,29.0
+11:King's Rock,0.346570397112%,24.0
+12:Flame Plate,0.202166064982%,14.0
+13:Charti Berry,0.187725631769%,13.0
+14:Bright Powder,0.158844765343%,11.0
+15:Eject Button,0.14440433213%,10.0
+16:Rocky Helmet,0.14440433213%,10.0
+17:Muscle Band,0.043321299639%,3.0
+18:Razor Claw,0.028880866426%,2.0
+19:Leftovers,0.028880866426%,2.0
+
+ ---------- 
+Abilities used:
+1:Gale Wings,99.9566787004%,6922.0
+2:Flame Body,0.043321299639%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,65.6750902527%,4548.0
+2:Jolly,31.8700361011%,2207.0
+3:Naughty,1.18411552347%,82.0
+4:Naive,0.779783393502%,54.0
+5:Hasty,0.346570397112%,24.0
+6:Careful,0.057761732852%,4.0
+7:Impish,0.043321299639%,3.0
+8:Lonely,0.028880866426%,2.0
+9:Bashful,0.014440433213%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Smeargle
+7:Rayquaza
+8:Landorus
+9:Cresselia
+10:Mawile
+11:Yveltal
+12:Ferrothorn
+13:Thundurus
+14:Dialga
+15:Gengar
+16:Liepard
+17:Amoonguss
+18:Weavile
+19:Raichu
+20:Mienshao
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,80.3938730853%,5567.27571116
+2:Flare Blitz,19.3873085339%,1342.57111597
+3:U-turn,0.0875273522976%,6.06126914661
+4:Overheat,0.0875273522976%,6.06126914661
+5:Sleep Talk,0.0437636761488%,3.0306345733
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,10.0853080569%,698.407582938
+2:Double-Edge,8.34123222749%,577.630331754
+3:Dazzling Gleam,7.01421800948%,485.734597156
+4:Water Spout,5.95260663507%,412.218009479
+5:Origin Pulse,5.78199052133%,400.402843602
+6:Thunderbolt,4.79620853081%,332.137440758
+7:Hyper Voice,4.47393364929%,309.819905213
+8:Brave Bird,3.62085308057%,250.744075829
+9:Precipice Blades,3.09004739336%,213.985781991
+10:Eruption,3.03317535545%,210.047393365
+11:Extreme Speed,2.50236966825%,173.289099526
+12:Return,2.08530805687%,144.407582938
+13:Dragon Ascent,1.9336492891%,133.90521327
+14:Moonblast,1.74407582938%,120.777251185
+15:Ice Beam,1.47867298578%,102.398104265
+16:Sludge Bomb,1.45971563981%,101.085308057
+17:Scald,1.42180094787%,98.4597156398
+18:Foul Play,1.21327014218%,84.018957346
+19:Sucker Punch,1.02369668246%,70.8909952607
+20:Dragon Pulse,0.947867298578%,65.6398104265
+0:Other,12.7393364929%,882.199052133
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Smeargle
+4:Talonflame
+5:Kyogre
+6:Groudon
+7:Crobat
+8:Salamence
+9:Ferrothorn
+10:Thundurus
+11:Gengar
+12:Whimsicott
+13:Cresselia
+14:Liepard
+15:Amoonguss
+16:Weavile
+17:Mawile
+18:Gengar
+19:Yveltal
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Thundurus
+7:Rayquaza
+8:Talonflame
+9:Landorus
+10:Yveltal
+11:Gengar
+12:Rayquaza
+13:Dialga
+14:Weavile
+15:Kyurem
+16:Raichu
+17:Kyogre
+18:Mawile
+19:Gengar
+20:Cresselia

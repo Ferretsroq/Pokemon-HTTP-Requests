@@ -1,0 +1,144 @@
+144:Hariyama|128
+ ---------- 
+Moves used:
+1:Fake Out,98.4375%,126.0
+2:Close Combat,96.875%,124.0
+3:Wide Guard,52.34375%,67.0
+4:Knock Off,30.46875%,39.0
+5:Rock Slide,26.5625%,34.0
+6:Feint,24.21875%,31.0
+7:Protect,21.09375%,27.0
+8:Facade,20.3125%,26.0
+9:Ice Punch,11.71875%,15.0
+10:Helping Hand,6.25%,8.0
+11:Bullet Punch,3.90625%,5.0
+12:Stone Edge,3.125%,4.0
+13:Low Kick,3.125%,4.0
+14:Heavy Slam,0.78125%,1.0
+15:Detect,0.78125%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,26.5625%,34.0
+2:Lum Berry,19.53125%,25.0
+3:Assault Vest,12.5%,16.0
+4:Focus Sash,11.71875%,15.0
+5:Sitrus Berry,10.9375%,14.0
+6:Toxic Orb,6.25%,8.0
+7:Coba Berry,5.46875%,7.0
+8:White Herb,4.6875%,6.0
+9:Leftovers,1.5625%,2.0
+
+ ---------- 
+Abilities used:
+1:Guts,59.375%,76.0
+2:Thick Fat,40.625%,52.0
+
+ ---------- 
+Natures used:
+1:Brave,58.59375%,75.0
+2:Adamant,41.40625%,53.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Rayquaza
+3:Xerneas
+4:Kyogre
+5:Whimsicott
+6:Dusclops
+7:Groudon
+8:Nidoqueen
+9:Dialga
+10:Talonflame
+11:Ferrothorn
+12:Cresselia
+13:Landorus
+14:Gengar
+15:Gothitelle
+16:Musharna
+17:Yveltal
+18:Giratina
+19:Gastrodon
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,58.7301587302%,75.1746031746
+2:Feint,11.1111111111%,14.2222222222
+3:Rock Slide,9.52380952381%,12.1904761905
+4:Facade,6.34920634921%,8.12698412698
+5:Fake Out,6.34920634921%,8.12698412698
+6:Bullet Punch,3.1746031746%,4.06349206349
+7:Ice Punch,3.1746031746%,4.06349206349
+8:Stone Edge,1.5873015873%,2.03174603175
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,10.2272727273%,13.0909090909
+2:Brave Bird,10.2272727273%,13.0909090909
+3:Dazzling Gleam,6.81818181818%,8.72727272727
+4:Water Spout,6.81818181818%,8.72727272727
+5:Eruption,5.68181818182%,7.27272727273
+6:Moonblast,4.54545454545%,5.81818181818
+7:Dragon Ascent,3.40909090909%,4.36363636364
+8:Flamethrower,3.40909090909%,4.36363636364
+9:Precipice Blades,2.27272727273%,2.90909090909
+10:Play Rough,2.27272727273%,2.90909090909
+11:Earth Power,2.27272727273%,2.90909090909
+12:Dragon Claw,2.27272727273%,2.90909090909
+13:Hyper Voice,2.27272727273%,2.90909090909
+14:Return,2.27272727273%,2.90909090909
+15:Double-Edge,2.27272727273%,2.90909090909
+16:Fire Punch,2.27272727273%,2.90909090909
+17:Fusion Bolt,1.13636363636%,1.45454545455
+18:Psystrike,1.13636363636%,1.45454545455
+19:Acrobatics,1.13636363636%,1.45454545455
+20:Scald,1.13636363636%,1.45454545455
+0:Other,18.1818181818%,23.2727272727
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Ferrothorn
+3:Kyogre
+4:Weavile
+5:Crobat
+6:Smeargle
+7:Xerneas
+8:Groudon
+9:Liepard
+10:Dialga
+11:Rayquaza
+12:Clefairy
+13:Klefki
+14:Talonflame
+15:Hydreigon
+16:Salamence
+17:Mawile
+18:Porygon2
+19:Espeon
+20:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Kangaskhan
+8:Aegislash
+9:Cresselia
+10:Mawile
+11:Ho-Oh
+12:Kyurem
+13:Zekrom
+14:Ferrothorn
+15:Gothitelle
+16:Giratina
+17:Palkia
+18:Weavile
+19:Bronzong
+20:Drifblim

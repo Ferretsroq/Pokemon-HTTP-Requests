@@ -1,0 +1,73 @@
+109:Marowak|5
+ ---------- 
+Moves used:
+1:Bonemerang,100.0%,5.0
+2:Fire Punch,100.0%,5.0
+3:Stone Edge,80.0%,4.0
+4:Protect,80.0%,4.0
+5:Detect,20.0%,1.0
+6:Perish Song,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Thick Club,100.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Adamant,80.0%,4.0
+2:Brave,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Toxicroak
+3:Sharpedo
+4:Lugia
+5:Zoroark
+6:Dialga
+7:Kyogre
+8:Thundurus
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stone Edge,40.0%,2.0
+2:Fire Punch,40.0%,2.0
+3:Bonemerang,20.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Scald,30.7692307692%,1.53846153846
+2:Sucker Punch,15.3846153846%,0.769230769231
+3:Precipice Blades,7.69230769231%,0.384615384615
+4:Origin Pulse,7.69230769231%,0.384615384615
+5:Dazzling Gleam,7.69230769231%,0.384615384615
+6:Draco Meteor,7.69230769231%,0.384615384615
+7:Water Spout,7.69230769231%,0.384615384615
+8:Ice Beam,7.69230769231%,0.384615384615
+9:Double-Edge,7.69230769231%,0.384615384615
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Thundurus
+3:Cresselia
+4:Smeargle
+5:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Greninja
+4:Cresselia
+5:Rayquaza
+6:Groudon
+7:Kyogre
+8:Salamence
+9:Mawile
+10:Kangaskhan

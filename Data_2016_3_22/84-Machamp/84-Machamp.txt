@@ -1,0 +1,96 @@
+84:Machamp|38
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,38.0
+2:Dynamic Punch,100.0%,38.0
+3:Protect,81.5789473684%,31.0
+4:Rock Slide,42.1052631579%,16.0
+5:Stone Edge,39.4736842105%,15.0
+6:Quick Guard,15.7894736842%,6.0
+7:Ice Punch,15.7894736842%,6.0
+8:Bullet Punch,5.26315789474%,2.0
+
+ ---------- 
+Items used:
+1:Lum Berry,55.2631578947%,21.0
+2:Focus Sash,42.1052631579%,16.0
+3:Life Orb,2.63157894737%,1.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,38.0
+
+ ---------- 
+Natures used:
+1:Adamant,78.9473684211%,30.0
+2:Brave,21.0526315789%,8.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Dialga
+4:Mawile
+5:Kyurem
+6:Cresselia
+7:Kyogre
+8:Meowstic
+9:Talonflame
+10:Kyurem
+11:Xerneas
+12:Landorus
+13:Ferrothorn
+14:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dynamic Punch,84.6153846154%,32.1538461538
+2:Rock Slide,15.3846153846%,5.84615384615
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,25.9259259259%,9.85185185185
+2:Dragon Ascent,7.40740740741%,2.81481481481
+3:Brave Bird,7.40740740741%,2.81481481481
+4:Eruption,7.40740740741%,2.81481481481
+5:Extreme Speed,7.40740740741%,2.81481481481
+6:Dazzling Gleam,3.7037037037%,1.40740740741
+7:Moonblast,3.7037037037%,1.40740740741
+8:Play Rough,3.7037037037%,1.40740740741
+9:Drill Run,3.7037037037%,1.40740740741
+10:Dragon Pulse,3.7037037037%,1.40740740741
+11:Air Slash,3.7037037037%,1.40740740741
+12:Gyro Ball,3.7037037037%,1.40740740741
+13:Sludge Bomb,3.7037037037%,1.40740740741
+14:Thunderbolt,3.7037037037%,1.40740740741
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kyurem
+3:Xerneas
+4:Talonflame
+5:Thundurus
+6:Ferrothorn
+7:Weavile
+8:Groudon
+9:Smeargle
+10:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Salamence
+3:Talonflame
+4:Rayquaza
+5:Rayquaza
+6:Groudon
+7:Xerneas
+8:Thundurus
+9:Ferrothorn
+10:Whimsicott
+11:Excadrill
+12:Dialga
+13:Togekiss
+14:Mawile
+15:Gengar

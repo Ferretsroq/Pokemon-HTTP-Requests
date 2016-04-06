@@ -1,0 +1,104 @@
+176:Pinsir|61
+ ---------- 
+Moves used:
+1:Feint,100.0%,61.0
+2:Protect,100.0%,61.0
+3:Focus Punch,83.606557377%,51.0
+4:Me First,44.262295082%,27.0
+5:Thief,39.3442622951%,24.0
+6:Return,16.393442623%,10.0
+7:Smack Down,11.4754098361%,7.0
+8:Close Combat,4.91803278689%,3.0
+
+ ---------- 
+Items used:
+1:Pinsirite,83.606557377%,51.0
+2:Persim Berry,16.393442623%,10.0
+
+ ---------- 
+Abilities used:
+1:Hyper Cutter,100.0%,61.0
+
+ ---------- 
+Natures used:
+1:Adamant,81.9672131148%,50.0
+2:Jolly,18.0327868852%,11.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Aurorus
+4:Kangaskhan
+5:Ditto
+6:Krookodile
+7:Sableye
+8:Yveltal
+9:Garchomp
+10:Hitmontop
+11:Meowstic
+12:Chandelure
+13:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,64.2857142857%,39.2142857143
+2:Focus Punch,30.9523809524%,18.880952381
+3:Return,2.38095238095%,1.45238095238
+4:Thief,2.38095238095%,1.45238095238
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,25.0%,15.25
+2:Dazzling Gleam,13.8888888889%,8.47222222222
+3:Rock Slide,11.1111111111%,6.77777777778
+4:Dragon Ascent,8.33333333333%,5.08333333333
+5:Eruption,8.33333333333%,5.08333333333
+6:Fire Punch,5.55555555556%,3.38888888889
+7:Psystrike,2.77777777778%,1.69444444444
+8:Shadow Sneak,2.77777777778%,1.69444444444
+9:Sucker Punch,2.77777777778%,1.69444444444
+10:Water Spout,2.77777777778%,1.69444444444
+11:Facade,2.77777777778%,1.69444444444
+12:Icy Wind,2.77777777778%,1.69444444444
+13:Blizzard,2.77777777778%,1.69444444444
+14:Ice Beam,2.77777777778%,1.69444444444
+15:Flamethrower,2.77777777778%,1.69444444444
+16:Double-Edge,2.77777777778%,1.69444444444
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Talonflame
+4:Xerneas
+5:Crobat
+6:Klefki
+7:Kyurem
+8:Landorus
+9:Mienshao
+10:Ferrothorn
+11:Whimsicott
+12:Cresselia
+13:Weavile
+14:Groudon
+15:Kyogre
+16:Scizor
+17:Mewtwo
+18:Gengar
+19:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Kyogre
+6:Kangaskhan
+7:Aegislash
+8:Kyurem
+9:Garchomp
+10:Salamence
+11:Mewtwo
+12:Gengar

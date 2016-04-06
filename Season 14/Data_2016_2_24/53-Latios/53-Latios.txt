@@ -1,0 +1,160 @@
+53:Latios|679
+ ---------- 
+Moves used:
+1:Draco Meteor,91.7525773196%,623.0
+2:Psychic,69.5139911635%,472.0
+3:Ice Beam,46.6863033873%,317.0
+4:Trick,30.3387334315%,206.0
+5:Grass Knot,24.8895434462%,169.0
+6:Tailwind,17.9675994109%,122.0
+7:Psyshock,13.6966126657%,93.0
+8:Dragon Pulse,12.6656848306%,86.0
+9:Helping Hand,12.6656848306%,86.0
+10:Thunder,11.7820324006%,80.0
+11:Shadow Ball,11.6347569956%,79.0
+12:Protect,10.7511045655%,73.0
+13:Roar,9.13107511046%,62.0
+14:Safeguard,7.36377025037%,50.0
+15:Memento,6.18556701031%,42.0
+16:Thunderbolt,4.12371134021%,28.0
+17:Surf,3.9764359352%,27.0
+18:Hidden Power,3.53460972018%,24.0
+19:Icy Wind,2.79823269514%,19.0
+20:Heal Pulse,1.9145802651%,13.0
+0:Other,6.62739322533%,45.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,64.9484536082%,441.0
+2:Lum Berry,11.6347569956%,79.0
+3:Choice Specs,6.33284241532%,43.0
+4:Focus Sash,4.86008836524%,33.0
+5:Life Orb,3.9764359352%,27.0
+6:Latiosite,2.79823269514%,19.0
+7:Assault Vest,2.20913107511%,15.0
+8:Leftovers,0.736377025037%,5.0
+9:Mental Herb,0.736377025037%,5.0
+10:Wise Glasses,0.589101620029%,4.0
+11:Red Card,0.294550810015%,2.0
+12:Light Clay,0.294550810015%,2.0
+13:Haban Berry,0.294550810015%,2.0
+14:Sitrus Berry,0.294550810015%,2.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,679.0
+
+ ---------- 
+Natures used:
+1:Timid,62.7393225331%,426.0
+2:Modest,36.2297496318%,246.0
+3:Mild,0.589101620029%,4.0
+4:Quirky,0.294550810015%,2.0
+5:Bold,0.147275405007%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Xerneas
+4:Kangaskhan
+5:Kyogre
+6:Dialga
+7:Liepard
+8:Landorus
+9:Crobat
+10:Talonflame
+11:Ho-Oh
+12:Infernape
+13:Cresselia
+14:Ferrothorn
+15:Latias
+16:Salamence
+17:Amoonguss
+18:Mawile
+19:Thundurus
+20:Raikou
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,42.2572178478%,286.926509186
+2:Draco Meteor,25.1968503937%,171.086614173
+3:Ice Beam,17.8477690289%,121.186351706
+4:Psyshock,6.03674540682%,40.9895013123
+5:Dragon Pulse,3.41207349081%,23.1679790026
+6:Grass Knot,2.36220472441%,16.0393700787
+7:Shadow Ball,0.787401574803%,5.34645669291
+8:Thunder,0.787401574803%,5.34645669291
+9:Icy Wind,0.524934383202%,3.56430446194
+10:Surf,0.524934383202%,3.56430446194
+11:Thunderbolt,0.262467191601%,1.78215223097
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.2113821138%,89.7052845528
+2:Ice Beam,7.11382113821%,48.3028455285
+3:Sucker Punch,6.91056910569%,46.9227642276
+4:Dragon Ascent,4.67479674797%,31.7418699187
+5:Draco Meteor,4.67479674797%,31.7418699187
+6:Brave Bird,4.26829268293%,28.9817073171
+7:Origin Pulse,3.45528455285%,23.4613821138
+8:Moonblast,3.25203252033%,22.081300813
+9:Knock Off,3.25203252033%,22.081300813
+10:Extreme Speed,3.0487804878%,20.7012195122
+11:Shadow Ball,2.84552845528%,19.3211382114
+12:Hyper Voice,2.43902439024%,16.5609756098
+13:Double-Edge,2.43902439024%,16.5609756098
+14:Gyro Ball,2.0325203252%,13.8008130081
+15:Rock Slide,2.0325203252%,13.8008130081
+16:Water Spout,1.82926829268%,12.4207317073
+17:Eruption,1.82926829268%,12.4207317073
+18:Dragon Claw,1.42276422764%,9.66056910569
+19:Precipice Blades,1.21951219512%,8.28048780488
+20:Foul Play,1.21951219512%,8.28048780488
+0:Other,16.8699186992%,114.546747967
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Salamence
+3:Groudon
+4:Gengar
+5:Talonflame
+6:Landorus
+7:Rayquaza
+8:Kyogre
+9:Kangaskhan
+10:Gengar
+11:Amoonguss
+12:Smeargle
+13:Xerneas
+14:Whimsicott
+15:Kyurem
+16:Thundurus
+17:Palkia
+18:Rayquaza
+19:Terrakion
+20:Mienshao
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Groudon
+6:Salamence
+7:Weavile
+8:Talonflame
+9:Mawile
+10:Yveltal
+11:Kyurem
+12:Landorus
+13:Ferrothorn
+14:Gengar
+15:Dialga
+16:Rayquaza
+17:Aegislash
+18:Palkia
+19:Scizor
+20:Gengar

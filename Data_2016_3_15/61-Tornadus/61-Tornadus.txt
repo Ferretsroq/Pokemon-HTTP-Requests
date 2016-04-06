@@ -1,0 +1,58 @@
+61:Tornadus|4
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,4.0
+2:Taunt,100.0%,4.0
+3:Hurricane,75.0%,3.0
+4:Hidden Power,50.0%,2.0
+5:Sky Drop,25.0%,1.0
+6:Role Play,25.0%,1.0
+7:Substitute,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,50.0%,2.0
+2:Life Orb,25.0%,1.0
+3:Sitrus Berry,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Modest,50.0%,2.0
+2:Jolly,25.0%,1.0
+3:Timid,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Talonflame
+4:Serperior
+5:Rayquaza
+6:Groudon
+7:Mawile
+8:Scizor
+9:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,1.0
+2:Foul Play,25.0%,1.0
+3:Spacial Rend,25.0%,1.0
+4:Double-Edge,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Palkia
+4:Kangaskhan

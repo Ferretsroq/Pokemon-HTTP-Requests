@@ -1,0 +1,101 @@
+119:Excadrill|31
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,31.0
+2:Rock Slide,96.7741935484%,30.0
+3:Drill Run,87.0967741935%,27.0
+4:Earthquake,74.1935483871%,23.0
+5:Horn Drill,22.5806451613%,7.0
+6:Rock Tomb,6.45161290323%,2.0
+7:Brick Break,6.45161290323%,2.0
+8:Protect,6.45161290323%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,87.0967741935%,27.0
+2:Life Orb,6.45161290323%,2.0
+3:Assault Vest,3.22580645161%,1.0
+4:Choice Band,3.22580645161%,1.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,74.1935483871%,23.0
+2:Sand Rush,22.5806451613%,7.0
+3:Sand Force,3.22580645161%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,58.064516129%,18.0
+2:Adamant,41.935483871%,13.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Lugia
+3:Kyogre
+4:Kangaskhan
+5:Electrode
+6:Talonflame
+7:Ferrothorn
+8:Groudon
+9:Yveltal
+10:Rhyperior
+11:Crobat
+12:Venomoth
+13:Thundurus
+14:Cresselia
+15:Togekiss
+16:Hippowdon
+17:Latios
+18:Salamence
+19:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,66.6666666667%,20.6666666667
+2:Rock Slide,20.0%,6.2
+3:Iron Head,13.3333333333%,4.13333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.0%,3.72
+2:Moonblast,12.0%,3.72
+3:Sucker Punch,12.0%,3.72
+4:Eruption,12.0%,3.72
+5:Dazzling Gleam,8.0%,2.48
+6:Water Spout,8.0%,2.48
+7:Dragon Ascent,4.0%,1.24
+8:Power-Up Punch,4.0%,1.24
+9:Scald,4.0%,1.24
+10:Earth Power,4.0%,1.24
+11:Brave Bird,4.0%,1.24
+12:Hyper Voice,4.0%,1.24
+13:Superpower,4.0%,1.24
+14:Earthquake,4.0%,1.24
+15:Fire Punch,4.0%,1.24
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Salamence
+3:Xerneas
+4:Thundurus
+5:Terrakion
+6:Ferrothorn
+7:Groudon
+8:Kyogre
+9:Gengar
+10:Arcanine
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Rayquaza
+5:Kangaskhan
+6:Yveltal
+7:Talonflame
+8:Thundurus
+9:Salamence
+10:Mawile

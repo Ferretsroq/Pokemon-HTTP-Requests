@@ -1,0 +1,71 @@
+41:Zapdos|10
+ ---------- 
+Moves used:
+1:Thunderbolt,100.0%,10.0
+2:Hidden Power,90.0%,9.0
+3:Heat Wave,80.0%,8.0
+4:Thunder Wave,50.0%,5.0
+5:Tailwind,40.0%,4.0
+6:Volt Switch,20.0%,2.0
+7:Roar,20.0%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,70.0%,7.0
+2:Choice Scarf,20.0%,2.0
+3:Expert Belt,10.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Static,100.0%,10.0
+
+ ---------- 
+Natures used:
+1:Modest,70.0%,7.0
+2:Calm,20.0%,2.0
+3:Timid,10.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Yveltal
+3:Groudon
+4:Kyogre
+5:Salamence
+6:Garchomp
+7:Mawile
+8:Talonflame
+9:Whimsicott
+10:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,60.0%,6.0
+2:Heat Wave,20.0%,2.0
+3:Hidden Power,20.0%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,1.42857142857
+2:Scald,14.2857142857%,1.42857142857
+3:Water Spout,14.2857142857%,1.42857142857
+4:Eruption,14.2857142857%,1.42857142857
+5:Rock Slide,14.2857142857%,1.42857142857
+6:Thunderbolt,14.2857142857%,1.42857142857
+7:Double-Edge,14.2857142857%,1.42857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Aegislash
+2:Talonflame
+3:Rayquaza
+4:Groudon
+5:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Thundurus
+5:Kangaskhan

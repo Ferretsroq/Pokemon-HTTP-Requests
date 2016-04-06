@@ -1,0 +1,46 @@
+280:Zweilous|1
+ ---------- 
+Moves used:
+1:Dragon Rush,100.0%,1.0
+2:Superpower,100.0%,1.0
+3:Crunch,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Hustle,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Musharna
+2:Kyurem
+3:Zekrom
+4:Gigalith
+5:Rhyperior
+6:Yveltal
+7:Dialga
+8:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,50.0%,0.5
+2:Ice Beam,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre

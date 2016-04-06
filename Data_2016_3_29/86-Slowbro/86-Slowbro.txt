@@ -1,0 +1,126 @@
+86:Slowbro|75
+ ---------- 
+Moves used:
+1:Trick Room,98.6666666667%,74.0
+2:Scald,94.6666666667%,71.0
+3:Heal Pulse,60.0%,45.0
+4:Skill Swap,60.0%,45.0
+5:Ice Beam,38.6666666667%,29.0
+6:Magic Coat,29.3333333333%,22.0
+7:Light Screen,5.33333333333%,4.0
+8:Psyshock,2.66666666667%,2.0
+9:Rest,2.66666666667%,2.0
+10:Fire Blast,2.66666666667%,2.0
+11:Psychic,2.66666666667%,2.0
+12:Slack Off,1.33333333333%,1.0
+13:Flamethrower,1.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Kasib Berry,54.6666666667%,41.0
+2:Slowbronite,36.0%,27.0
+3:Rindo Berry,2.66666666667%,2.0
+4:Sitrus Berry,2.66666666667%,2.0
+5:Chesto Berry,2.66666666667%,2.0
+6:Assault Vest,1.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,94.6666666667%,71.0
+2:Own Tempo,4.0%,3.0
+3:Regenerator,1.33333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,57.3333333333%,43.0
+2:Bold,36.0%,27.0
+3:Sassy,2.66666666667%,2.0
+4:Quiet,2.66666666667%,2.0
+5:Modest,1.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Talonflame
+4:Groudon
+5:Rayquaza
+6:Hitmontop
+7:Metagross
+8:Ferrothorn
+9:Plusle
+10:Xerneas
+11:Infernape
+12:Landorus
+13:Cresselia
+14:Salamence
+15:Zangoose
+16:Scizor
+17:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,70.0%,52.5
+2:Ice Beam,27.5%,20.625
+3:Psychic,2.5%,1.875
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.6363636364%,10.2272727273
+2:Dazzling Gleam,11.3636363636%,8.52272727273
+3:Draco Meteor,6.81818181818%,5.11363636364
+4:Water Spout,6.81818181818%,5.11363636364
+5:Eruption,6.81818181818%,5.11363636364
+6:Thunder,6.81818181818%,5.11363636364
+7:Moonblast,4.54545454545%,3.40909090909
+8:Spacial Rend,4.54545454545%,3.40909090909
+9:Dragon Pulse,4.54545454545%,3.40909090909
+10:Rock Slide,4.54545454545%,3.40909090909
+11:Thunderbolt,4.54545454545%,3.40909090909
+12:Origin Pulse,2.27272727273%,1.70454545455
+13:Snarl,2.27272727273%,1.70454545455
+14:Earth Power,2.27272727273%,1.70454545455
+15:Dark Pulse,2.27272727273%,1.70454545455
+16:Sucker Punch,2.27272727273%,1.70454545455
+17:Volt Tackle,2.27272727273%,1.70454545455
+18:Hyper Voice,2.27272727273%,1.70454545455
+19:Shadow Ball,2.27272727273%,1.70454545455
+20:Return,2.27272727273%,1.70454545455
+0:Other,4.54545454545%,3.40909090909
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Landorus
+4:Smeargle
+5:Xerneas
+6:Mienshao
+7:Amoonguss
+8:Rayquaza
+9:Rayquaza
+10:Salamence
+11:Mawile
+12:Meowstic
+13:Thundurus
+14:Sableye
+15:Crobat
+16:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Thundurus
+5:Dialga
+6:Yveltal
+7:Kyurem
+8:Palkia
+9:Kangaskhan
+10:Aegislash
+11:Landorus
+12:Salamence
+13:Zapdos
+14:Gengar
+15:Raichu

@@ -1,0 +1,116 @@
+159:Froslass|56
+ ---------- 
+Moves used:
+1:Protect,94.6428571429%,53.0
+2:Ice Beam,58.9285714286%,33.0
+3:Destiny Bond,51.7857142857%,29.0
+4:Taunt,46.4285714286%,26.0
+5:Pain Split,46.4285714286%,26.0
+6:Frost Breath,41.0714285714%,23.0
+7:Thunder Wave,41.0714285714%,23.0
+8:Shadow Ball,8.92857142857%,5.0
+9:Hex,3.57142857143%,2.0
+10:Trick,3.57142857143%,2.0
+11:Safeguard,1.78571428571%,1.0
+12:Toxic,1.78571428571%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,85.7142857143%,48.0
+2:Life Orb,8.92857142857%,5.0
+3:Choice Scarf,3.57142857143%,2.0
+4:Expert Belt,1.78571428571%,1.0
+
+ ---------- 
+Abilities used:
+1:Cursed Body,100.0%,56.0
+
+ ---------- 
+Natures used:
+1:Timid,98.2142857143%,55.0
+2:Jolly,1.78571428571%,1.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Rayquaza
+3:Kyogre
+4:Ho-Oh
+5:Xerneas
+6:Delphox
+7:Seismitoad
+8:Crobat
+9:Togekiss
+10:Whimsicott
+11:Groudon
+12:Gengar
+13:Liepard
+14:Sylveon
+15:Greninja
+16:Ferrothorn
+17:Amoonguss
+18:Giratina
+19:Milotic
+20:Gardevoir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,35.7142857143%,20.0
+2:Ice Beam,35.7142857143%,20.0
+3:Frost Breath,28.5714285714%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.2173913043%,8.52173913043
+2:Origin Pulse,13.0434782609%,7.30434782609
+3:Precipice Blades,8.69565217391%,4.86956521739
+4:Rock Slide,8.69565217391%,4.86956521739
+5:Gyro Ball,6.52173913043%,3.65217391304
+6:Water Spout,6.52173913043%,3.65217391304
+7:Moonblast,4.34782608696%,2.4347826087
+8:Eruption,4.34782608696%,2.4347826087
+9:Fire Punch,4.34782608696%,2.4347826087
+10:Dragon Ascent,2.17391304348%,1.21739130435
+11:Snarl,2.17391304348%,1.21739130435
+12:Iron Head,2.17391304348%,1.21739130435
+13:Ice Shard,2.17391304348%,1.21739130435
+14:Earth Power,2.17391304348%,1.21739130435
+15:Sucker Punch,2.17391304348%,1.21739130435
+16:Hyper Voice,2.17391304348%,1.21739130435
+17:Knock Off,2.17391304348%,1.21739130435
+18:Beat Up,2.17391304348%,1.21739130435
+19:Thunder,2.17391304348%,1.21739130435
+20:Flamethrower,2.17391304348%,1.21739130435
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Groudon
+3:Crobat
+4:Xerneas
+5:Talonflame
+6:Excadrill
+7:Liepard
+8:Rayquaza
+9:Kyogre
+10:Salamence
+11:Altaria
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Ferrothorn
+5:Yveltal
+6:Landorus
+7:Whimsicott
+8:Excadrill
+9:Dialga
+10:Weavile
+11:Rayquaza
+12:Salamence
+13:Smeargle
+14:Ditto
+15:Lapras
+16:Kangaskhan

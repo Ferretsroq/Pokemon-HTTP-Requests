@@ -1,0 +1,39 @@
+325:Emolga|1
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Knock Off,100.0%,1.0
+4:Encore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Yache Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Motor Drive,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Aegislash
+2:Kyogre
+3:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus

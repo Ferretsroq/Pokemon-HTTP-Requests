@@ -1,0 +1,95 @@
+182:Simisage|45
+ ---------- 
+Moves used:
+1:Leaf Storm,93.3333333333%,42.0
+2:Protect,93.3333333333%,42.0
+3:Rock Slide,93.3333333333%,42.0
+4:Knock Off,57.7777777778%,26.0
+5:Helping Hand,28.8888888889%,13.0
+6:Gunk Shot,8.88888888889%,4.0
+7:Energy Ball,4.44444444444%,2.0
+8:Seed Bomb,4.44444444444%,2.0
+9:Substitute,4.44444444444%,2.0
+10:Solar Beam,4.44444444444%,2.0
+11:Worry Seed,2.22222222222%,1.0
+12:Fling,2.22222222222%,1.0
+13:Role Play,2.22222222222%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,93.3333333333%,42.0
+2:Light Ball,2.22222222222%,1.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,93.3333333333%,42.0
+2:Gluttony,6.66666666667%,3.0
+
+ ---------- 
+Natures used:
+1:Naive,93.3333333333%,42.0
+2:Lonely,4.44444444444%,2.0
+3:Timid,2.22222222222%,1.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Lickilicky
+3:Zygarde
+4:Lopunny
+5:Scizor
+6:Steelix
+7:Xerneas
+8:Tyrantrum
+9:Braviary
+10:Escavalier
+11:Simipour
+12:Simisear
+13:Finneon
+14:Groudon
+15:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,66.6666666667%,30.0
+2:Knock Off,16.6666666667%,7.5
+3:Rock Slide,16.6666666667%,7.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,16.6666666667%,7.5
+2:Origin Pulse,12.5%,5.625
+3:Extreme Speed,12.5%,5.625
+4:Dazzling Gleam,8.33333333333%,3.75
+5:Water Spout,8.33333333333%,3.75
+6:Hyper Voice,8.33333333333%,3.75
+7:Precipice Blades,4.16666666667%,1.875
+8:Feint,4.16666666667%,1.875
+9:Gyro Ball,4.16666666667%,1.875
+10:Eruption,4.16666666667%,1.875
+11:Sludge Bomb,4.16666666667%,1.875
+12:Earthquake,4.16666666667%,1.875
+13:Ice Beam,4.16666666667%,1.875
+14:Double-Edge,4.16666666667%,1.875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Togekiss
+3:Liepard
+4:Cresselia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Rayquaza
+3:Talonflame
+4:Xerneas
+5:Groudon
+6:Salamence
+7:Mienshao
+8:Cresselia
+9:Bronzong
+10:Ho-Oh
+11:Kangaskhan
+12:Gengar

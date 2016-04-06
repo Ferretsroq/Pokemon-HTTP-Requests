@@ -1,0 +1,133 @@
+120:Empoleon|138
+ ---------- 
+Moves used:
+1:Ice Beam,100.0%,138.0
+2:Grass Knot,70.2898550725%,97.0
+3:Flash Cannon,70.2898550725%,97.0
+4:Scald,66.6666666667%,92.0
+5:Aqua Jet,29.7101449275%,41.0
+6:Steel Wing,28.2608695652%,39.0
+7:Knock Off,26.8115942029%,37.0
+8:Protect,4.34782608696%,6.0
+9:Hydro Pump,2.17391304348%,3.0
+10:Toxic,0.724637681159%,1.0
+11:Roar,0.724637681159%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,57.2463768116%,79.0
+2:Shuca Berry,36.231884058%,50.0
+3:Leftovers,4.34782608696%,6.0
+4:Expert Belt,2.17391304348%,3.0
+
+ ---------- 
+Abilities used:
+1:Torrent,71.7391304348%,99.0
+2:Defiant,28.2608695652%,39.0
+
+ ---------- 
+Natures used:
+1:Calm,37.6811594203%,52.0
+2:Modest,34.0579710145%,47.0
+3:Brave,26.0869565217%,36.0
+4:Quiet,2.17391304348%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Krookodile
+4:Crobat
+5:Infernape
+6:Amoonguss
+7:Xerneas
+8:Gastrodon
+9:Kyogre
+10:Groudon
+11:Thundurus
+12:Serperior
+13:Togekiss
+14:Kangaskhan
+15:Mienshao
+16:Venusaur
+17:Yveltal
+18:Thundurus
+19:Rotom
+20:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,25.8064516129%,35.6129032258
+2:Scald,24.7311827957%,34.1290322581
+3:Aqua Jet,17.2043010753%,23.7419354839
+4:Flash Cannon,16.1290322581%,22.2580645161
+5:Grass Knot,7.52688172043%,10.3870967742
+6:Steel Wing,7.52688172043%,10.3870967742
+7:Knock Off,1.0752688172%,1.48387096774
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,9.375%,12.9375
+2:Dazzling Gleam,8.33333333333%,11.5
+3:Precipice Blades,6.25%,8.625
+4:Eruption,6.25%,8.625
+5:Earth Power,5.20833333333%,7.1875
+6:Thunder,5.20833333333%,7.1875
+7:Power-Up Punch,4.16666666667%,5.75
+8:Sucker Punch,4.16666666667%,5.75
+9:Thunderbolt,4.16666666667%,5.75
+10:Low Kick,4.16666666667%,5.75
+11:Dragon Ascent,3.125%,4.3125
+12:Rock Slide,3.125%,4.3125
+13:Earthquake,3.125%,4.3125
+14:Origin Pulse,2.08333333333%,2.875
+15:Power Whip,2.08333333333%,2.875
+16:Flare Blitz,2.08333333333%,2.875
+17:Hyper Voice,2.08333333333%,2.875
+18:Knock Off,2.08333333333%,2.875
+19:Superpower,2.08333333333%,2.875
+20:Ice Beam,2.08333333333%,2.875
+0:Other,14.5833333333%,20.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Groudon
+4:Rayquaza
+5:Salamence
+6:Smeargle
+7:Kyogre
+8:Kangaskhan
+9:Thundurus
+10:Whimsicott
+11:Weavile
+12:Meowstic
+13:Mienshao
+14:Liepard
+15:Clefairy
+16:Zygarde
+17:Sylveon
+18:Landorus
+19:Zekrom
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Landorus
+7:Thundurus
+8:Ferrothorn
+9:Mawile
+10:Yveltal
+11:Talonflame
+12:Cresselia
+13:Salamence
+14:Giratina
+15:Rayquaza
+16:Breloom
+17:Zapdos

@@ -1,0 +1,67 @@
+166:Xatu|11
+ ---------- 
+Moves used:
+1:Ally Switch,90.9090909091%,10.0
+2:Tailwind,81.8181818182%,9.0
+3:Skill Swap,72.7272727273%,8.0
+4:Feather Dance,54.5454545455%,6.0
+5:Simple Beam,27.2727272727%,3.0
+6:Protect,27.2727272727%,3.0
+7:Haze,18.1818181818%,2.0
+8:Thunder Wave,18.1818181818%,2.0
+9:Wish,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,63.6363636364%,7.0
+2:Focus Sash,27.2727272727%,3.0
+3:Red Card,9.09090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Timid,90.9090909091%,10.0
+2:Bold,9.09090909091%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Gengar
+5:Groudon
+6:Manectric
+7:Kangaskhan
+8:Salamence
+9:Mawile
+10:Masquerain
+11:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,30.0%,3.3
+2:Precipice Blades,10.0%,1.1
+3:Origin Pulse,10.0%,1.1
+4:Final Gambit,10.0%,1.1
+5:Ice Shard,10.0%,1.1
+6:Volt Tackle,10.0%,1.1
+7:Icy Wind,10.0%,1.1
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Staraptor
+3:Groudon
+4:Kyogre
+5:Lapras
+6:Gengar
+7:Raichu

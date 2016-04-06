@@ -1,0 +1,60 @@
+165:Kecleon|11
+ ---------- 
+Moves used:
+1:Shadow Sneak,100.0%,11.0
+2:Sucker Punch,100.0%,11.0
+3:Fake Out,100.0%,11.0
+4:Low Kick,81.8181818182%,9.0
+5:Power-Up Punch,18.1818181818%,2.0
+
+ ---------- 
+Items used:
+1:Expert Belt,81.8181818182%,9.0
+2:Life Orb,9.09090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Protean,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Ferrothorn
+6:Chatot
+7:Kyogre
+8:Manectric
+9:Pinsir
+10:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,50.0%,5.5
+2:Sucker Punch,50.0%,5.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,3.66666666667
+2:Origin Pulse,16.6666666667%,1.83333333333
+3:Power-Up Punch,16.6666666667%,1.83333333333
+4:Moonblast,16.6666666667%,1.83333333333
+5:Superpower,16.6666666667%,1.83333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Jumpluff
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Thundurus
+3:Whimsicott
+4:Kyogre
+5:Kangaskhan

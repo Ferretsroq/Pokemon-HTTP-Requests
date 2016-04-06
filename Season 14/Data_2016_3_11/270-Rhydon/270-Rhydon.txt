@@ -1,0 +1,61 @@
+270:Rhydon|11
+ ---------- 
+Moves used:
+1:Stone Edge,100.0%,11.0
+2:Protect,100.0%,11.0
+3:Fire Punch,81.8181818182%,9.0
+4:Drill Run,72.7272727273%,8.0
+5:Earthquake,27.2727272727%,3.0
+6:Power-Up Punch,18.1818181818%,2.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,11.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Jynx
+3:Yveltal
+4:Mawile
+5:Murkrow
+6:Rayquaza
+7:Cresselia
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fire Punch,60.0%,6.6
+2:Drill Run,20.0%,2.2
+3:Stone Edge,20.0%,2.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power-Up Punch,20.0%,2.2
+2:Moonblast,20.0%,2.2
+3:Flash Cannon,20.0%,2.2
+4:Water Spout,20.0%,2.2
+5:Low Kick,20.0%,2.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Sylveon
+2:Ferrothorn
+3:Liepard
+4:Rayquaza
+5:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Dialga
+4:Kyogre

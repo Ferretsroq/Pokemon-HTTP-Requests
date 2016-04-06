@@ -1,0 +1,88 @@
+228:Luxray|20
+ ---------- 
+Moves used:
+1:Baby-Doll Eyes,75.0%,15.0
+2:Snarl,70.0%,14.0
+3:Protect,55.0%,11.0
+4:Volt Switch,45.0%,9.0
+5:Thunder Wave,40.0%,8.0
+6:Wild Charge,30.0%,6.0
+7:Helping Hand,30.0%,6.0
+8:Ice Fang,15.0%,3.0
+9:Crunch,15.0%,3.0
+10:Light Screen,15.0%,3.0
+11:Roar,10.0%,2.0
+
+ ---------- 
+Items used:
+1:Eject Button,30.0%,6.0
+2:Leftovers,25.0%,5.0
+3:Sitrus Berry,25.0%,5.0
+4:Quick Claw,15.0%,3.0
+5:Lum Berry,5.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,20.0
+
+ ---------- 
+Natures used:
+1:Impish,30.0%,6.0
+2:Adamant,30.0%,6.0
+3:Calm,25.0%,5.0
+4:Bold,15.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Crobat
+3:Kyogre
+4:Kyurem
+5:Mawile
+6:Xerneas
+7:Greninja
+8:Toxicroak
+9:Espeon
+10:Rayquaza
+11:Groudon
+12:Gengar
+13:Aurorus
+14:Talonflame
+15:Ferrothorn
+16:Lopunny
+17:Sableye
+18:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,66.6666666667%,13.3333333333
+2:Volt Switch,33.3333333333%,6.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,4.0
+2:Eruption,13.3333333333%,2.66666666667
+3:Double-Edge,13.3333333333%,2.66666666667
+4:Precipice Blades,6.66666666667%,1.33333333333
+5:Origin Pulse,6.66666666667%,1.33333333333
+6:Shadow Sneak,6.66666666667%,1.33333333333
+7:Earth Power,6.66666666667%,1.33333333333
+8:Water Spout,6.66666666667%,1.33333333333
+9:Sacred Fire,6.66666666667%,1.33333333333
+10:Giga Drain,6.66666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Whimsicott
+3:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Aegislash
+6:Ho-Oh
+7:Venusaur

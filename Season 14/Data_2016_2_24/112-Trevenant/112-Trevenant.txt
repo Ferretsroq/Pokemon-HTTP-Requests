@@ -1,0 +1,131 @@
+112:Trevenant|154
+ ---------- 
+Moves used:
+1:Trick Room,96.1038961039%,148.0
+2:Phantom Force,82.4675324675%,127.0
+3:Curse,81.8181818182%,126.0
+4:Protect,72.7272727273%,112.0
+5:Forest's Curse,29.2207792208%,45.0
+6:Will-O-Wisp,11.6883116883%,18.0
+7:Wood Hammer,10.3896103896%,16.0
+8:Horn Leech,5.19480519481%,8.0
+9:Magic Coat,5.19480519481%,8.0
+10:Foul Play,1.94805194805%,3.0
+11:Leech Seed,1.94805194805%,3.0
+12:Destiny Bond,0.649350649351%,1.0
+13:Substitute,0.649350649351%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,94.8051948052%,146.0
+2:Focus Sash,3.8961038961%,6.0
+3:Mental Herb,1.2987012987%,2.0
+
+ ---------- 
+Abilities used:
+1:Harvest,94.8051948052%,146.0
+2:Frisk,5.19480519481%,8.0
+
+ ---------- 
+Natures used:
+1:Careful,85.0649350649%,131.0
+2:Brave,7.14285714286%,11.0
+3:Sassy,3.8961038961%,6.0
+4:Impish,3.24675324675%,5.0
+5:Relaxed,0.649350649351%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Kangaskhan
+4:Sylveon
+5:Mawile
+6:Groudon
+7:Landorus
+8:Talonflame
+9:Cresselia
+10:Sableye
+11:Liepard
+12:Kyurem
+13:Hydreigon
+14:Gigalith
+15:Weavile
+16:Salamence
+17:Hitmontop
+18:Scizor
+19:Crobat
+20:Nidoqueen
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Phantom Force,87.0967741935%,134.129032258
+2:Wood Hammer,6.45161290323%,9.93548387097
+3:Horn Leech,3.22580645161%,4.96774193548
+4:Destiny Bond,3.22580645161%,4.96774193548
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,13.6363636364%,21.0
+2:Ice Beam,13.6363636364%,21.0
+3:Dragon Ascent,8.18181818182%,12.6
+4:Dazzling Gleam,7.27272727273%,11.2
+5:Brave Bird,5.45454545455%,8.4
+6:Moonblast,4.54545454545%,7.0
+7:Hyper Voice,3.63636363636%,5.6
+8:Fire Punch,3.63636363636%,5.6
+9:Flare Blitz,2.72727272727%,4.2
+10:Water Spout,2.72727272727%,4.2
+11:Overheat,2.72727272727%,4.2
+12:Knock Off,2.72727272727%,4.2
+13:Precipice Blades,1.81818181818%,2.8
+14:Iron Head,1.81818181818%,2.8
+15:Power Whip,1.81818181818%,2.8
+16:Fire Fang,1.81818181818%,2.8
+17:Sucker Punch,1.81818181818%,2.8
+18:Psychic,1.81818181818%,2.8
+19:Oblivion Wing,0.909090909091%,1.4
+20:Play Rough,0.909090909091%,1.4
+0:Other,7.27272727273%,11.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Gengar
+4:Ferrothorn
+5:Groudon
+6:Talonflame
+7:Thundurus
+8:Terrakion
+9:Amoonguss
+10:Gothitelle
+11:Liepard
+12:Togekiss
+13:Mawile
+14:Ludicolo
+15:Mewtwo
+16:Ditto
+17:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Mawile
+6:Rayquaza
+7:Salamence
+8:Rayquaza
+9:Yveltal
+10:Ferrothorn
+11:Cresselia
+12:Ho-Oh
+13:Ditto
+14:Kangaskhan
+15:Landorus
+16:Whimsicott
+17:Giratina
+18:Dialga
+19:Metagross

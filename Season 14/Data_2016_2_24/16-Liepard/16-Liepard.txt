@@ -1,0 +1,171 @@
+16:Liepard|13835
+ ---------- 
+Moves used:
+1:Fake Out,95.7715937839%,13250.0
+2:Foul Play,83.9320563787%,11612.0
+3:Encore,73.8417058186%,10216.0
+4:Taunt,41.2576797976%,5708.0
+5:Thunder Wave,31.9840983014%,4425.0
+6:Fake Tears,27.5822190098%,3816.0
+7:Swagger,20.9251897362%,2895.0
+8:Role Play,6.32453921214%,875.0
+9:Protect,6.22334658475%,861.0
+10:Knock Off,3.0719190459%,425.0
+11:Assist,3.05023491146%,422.0
+12:Trick,1.50343332129%,208.0
+13:Substitute,1.36610046982%,189.0
+14:Charm,0.722804481388%,100.0
+15:Snarl,0.571015540296%,79.0
+16:Sucker Punch,0.520419226599%,72.0
+17:U-turn,0.238525478858%,33.0
+18:Psych Up,0.216841344416%,30.0
+19:Yawn,0.202385254789%,28.0
+20:Snatch,0.187929165161%,26.0
+0:Other,0.505963136971%,70.0
+
+ ---------- 
+Items used:
+1:Focus Sash,89.786772678%,12422.0
+2:Eject Button,3.04300686664%,421.0
+3:Wide Lens,2.71774485002%,376.0
+4:Mental Herb,1.38778460426%,192.0
+5:Black Glasses,0.881821467293%,122.0
+6:Lum Berry,0.542103361041%,75.0
+7:Safety Goggles,0.411998554391%,57.0
+8:Dread Plate,0.346946151066%,48.0
+9:Bright Powder,0.187929165161%,26.0
+10:Roseli Berry,0.144560896278%,20.0
+11:Leftovers,0.0939645825804%,13.0
+12:Sitrus Berry,0.0867365377665%,12.0
+13:Rocky Helmet,0.0722804481388%,10.0
+14:Air Balloon,0.0650524033249%,9.0
+15:Life Orb,0.0505963136971%,7.0
+16:Focus Band,0.0361402240694%,5.0
+17:Lansat Berry,0.0216841344416%,3.0
+18:Red Card,0.00722804481388%,1.0
+19:Iron Ball,0.00722804481388%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,99.80484279%,13808.0
+2:Unburden,0.122876761836%,17.0
+3:Limber,0.0722804481388%,10.0
+
+ ---------- 
+Natures used:
+1:Jolly,68.7025659559%,9505.0
+2:Timid,27.1702204554%,3759.0
+3:Impish,2.42139501265%,335.0
+4:Bold,0.737260571016%,102.0
+5:Naive,0.361402240694%,50.0
+6:Calm,0.216841344416%,30.0
+7:Adamant,0.187929165161%,26.0
+8:Hasty,0.166245030719%,23.0
+9:Careful,0.0361402240694%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Yveltal
+6:Rayquaza
+7:Talonflame
+8:Mawile
+9:Kangaskhan
+10:Gengar
+11:Ferrothorn
+12:Cresselia
+13:Smeargle
+14:Landorus
+15:Amoonguss
+16:Ditto
+17:Crobat
+18:Dialga
+19:Mewtwo
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,92.5797770088%,12808.4121492
+2:Fake Out,4.07535563245%,563.825451749
+3:Knock Off,1.84544405998%,255.317185698
+4:Sucker Punch,0.576701268743%,79.7866205306
+5:Snarl,0.422914263745%,58.5101883891
+6:Gunk Shot,0.153787004998%,21.2764321415
+7:Copycat,0.115340253749%,15.9573241061
+8:Night Slash,0.076893502499%,10.6382160707
+9:U-turn,0.076893502499%,10.6382160707
+10:Dark Pulse,0.0384467512495%,5.31910803537
+11:Struggle,0.0384467512495%,5.31910803537
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.5180631017%,2146.92403012
+2:Eruption,6.40549042036%,886.199599657
+3:Precipice Blades,5.97655132971%,826.855876466
+4:Water Spout,5.63340005719%,779.380897912
+5:Origin Pulse,5.04241731008%,697.618434849
+6:Brave Bird,5.03288533028%,696.299685445
+7:Double-Edge,4.89943761319%,677.837193785
+8:Hyper Voice,4.69926603756%,650.143456296
+9:Extreme Speed,3.81279191688%,527.499761701
+10:Ice Beam,2.84052997808%,392.987322467
+11:Rock Slide,2.76427413974%,382.437327233
+12:Low Kick,2.52597464493%,349.468592127
+13:Fake Out,2.28767515013%,316.49985702
+14:Gyro Ball,2.21141931179%,305.949861786
+15:Return,2.19235535221%,303.312362978
+16:Thunderbolt,1.66809646364%,230.781145744
+17:Sludge Bomb,1.47745686779%,204.406157659
+18:Earth Power,1.25822133257%,174.074921361
+19:Power-Up Punch,1.23915737299%,171.437422553
+20:Iron Head,1.1057096559%,152.974930893
+0:Other,18.5587646554%,2567.60509008
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Rayquaza
+6:Crobat
+7:Landorus
+8:Smeargle
+9:Xerneas
+10:Salamence
+11:Thundurus
+12:Gengar
+13:Liepard
+14:Cresselia
+15:Gengar
+16:Yveltal
+17:Mawile
+18:Ferrothorn
+19:Whimsicott
+20:Aegislash
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Ferrothorn
+9:Landorus
+10:Mawile
+11:Thundurus
+12:Cresselia
+13:Yveltal
+14:Rayquaza
+15:Gengar
+16:Dialga
+17:Gengar
+18:Weavile
+19:Smeargle
+20:Ho-Oh

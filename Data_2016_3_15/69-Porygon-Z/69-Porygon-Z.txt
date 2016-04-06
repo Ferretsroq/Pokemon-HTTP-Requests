@@ -1,0 +1,40 @@
+69:Porygon-Z|1
+ ---------- 
+Moves used:
+1:Trick,100.0%,1.0
+2:Uproar,100.0%,1.0
+3:Tri Attack,100.0%,1.0
+4:Hyper Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Talonflame
+4:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

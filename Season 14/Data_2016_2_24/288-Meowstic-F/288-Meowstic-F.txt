@@ -1,0 +1,53 @@
+288:Meowstic-F|3
+ ---------- 
+Moves used:
+1:Fake Out,66.6666666667%,2.0
+2:Hidden Power,66.6666666667%,2.0
+3:Stored Power,33.3333333333%,1.0
+4:Psyshock,33.3333333333%,1.0
+5:Gravity,33.3333333333%,1.0
+6:Calm Mind,33.3333333333%,1.0
+7:Protect,33.3333333333%,1.0
+8:Barrier,33.3333333333%,1.0
+9:Psychic,33.3333333333%,1.0
+10:Thunder Wave,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,66.6666666667%,2.0
+2:Leftovers,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Giratina
+3:Palkia
+4:Groudon
+5:Ho-Oh
+6:Azumarill
+7:Lapras
+8:Ponyta
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,50.0%,1.5
+2:Play Rough,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Mawile

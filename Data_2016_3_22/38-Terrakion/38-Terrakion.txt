@@ -1,0 +1,138 @@
+38:Terrakion|255
+ ---------- 
+Moves used:
+1:Rock Slide,99.6078431373%,254.0
+2:Protect,77.2549019608%,197.0
+3:Close Combat,75.2941176471%,192.0
+4:Earthquake,56.862745098%,145.0
+5:Double Kick,38.0392156863%,97.0
+6:Quick Guard,28.6274509804%,73.0
+7:Quick Attack,10.1960784314%,26.0
+8:Iron Head,7.8431372549%,20.0
+9:Stone Edge,4.3137254902%,11.0
+10:X-Scissor,0.78431372549%,2.0
+11:Poison Jab,0.78431372549%,2.0
+12:Sacred Sword,0.392156862745%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,46.2745098039%,118.0
+2:Life Orb,31.7647058824%,81.0
+3:Choice Scarf,11.3725490196%,29.0
+4:Focus Sash,5.09803921569%,13.0
+5:Wide Lens,2.74509803922%,7.0
+6:Shuca Berry,1.56862745098%,4.0
+7:Expert Belt,0.78431372549%,2.0
+8:Chople Berry,0.392156862745%,1.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,255.0
+
+ ---------- 
+Natures used:
+1:Jolly,88.2352941176%,225.0
+2:Adamant,11.7647058824%,30.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Xerneas
+6:Cresselia
+7:Salamence
+8:Weavile
+9:Gengar
+10:Yveltal
+11:Ferrothorn
+12:Smeargle
+13:Mawile
+14:Kangaskhan
+15:Amoonguss
+16:Ho-Oh
+17:Thundurus
+18:Meowstic
+19:Dialga
+20:Heliolisk
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,56.5420560748%,144.182242991
+2:Close Combat,26.1682242991%,66.7289719626
+3:Double Kick,7.47663551402%,19.0654205607
+4:Earthquake,7.00934579439%,17.8738317757
+5:Iron Head,1.40186915888%,3.57476635514
+6:Quick Attack,0.934579439252%,2.38317757009
+7:Poison Jab,0.467289719626%,1.19158878505
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.7339901478%,45.2216748768
+2:Water Spout,10.3448275862%,26.3793103448
+3:Precipice Blades,8.37438423645%,21.354679803
+4:Earthquake,6.89655172414%,17.5862068966
+5:Origin Pulse,6.4039408867%,16.3300492611
+6:Earth Power,6.4039408867%,16.3300492611
+7:Low Kick,4.43349753695%,11.3054187192
+8:Hyper Voice,3.94088669951%,10.0492610837
+9:Iron Head,2.46305418719%,6.28078817734
+10:Grass Knot,1.97044334975%,5.02463054187
+11:Brave Bird,1.97044334975%,5.02463054187
+12:Psychic,1.97044334975%,5.02463054187
+13:Dragon Ascent,1.47783251232%,3.7684729064
+14:Moonblast,1.47783251232%,3.7684729064
+15:Psystrike,1.47783251232%,3.7684729064
+16:Dragon Pulse,1.47783251232%,3.7684729064
+17:Waterfall,1.47783251232%,3.7684729064
+18:Thunderbolt,1.47783251232%,3.7684729064
+19:Blizzard,1.47783251232%,3.7684729064
+20:Draco Meteor,0.985221674877%,2.51231527094
+0:Other,12.8078817734%,32.6600985222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Smeargle
+4:Groudon
+5:Kyogre
+6:Salamence
+7:Crobat
+8:Thundurus
+9:Xerneas
+10:Mawile
+11:Bronzong
+12:Ferrothorn
+13:Landorus
+14:Cresselia
+15:Dialga
+16:Gengar
+17:Yveltal
+18:Amoonguss
+19:Liepard
+20:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Landorus
+5:Rayquaza
+6:Salamence
+7:Kangaskhan
+8:Kyogre
+9:Dialga
+10:Mawile
+11:Talonflame
+12:Thundurus
+13:Cresselia
+14:Kyurem
+15:Whimsicott
+16:Mewtwo
+17:Tangrowth
+18:Weavile
+19:Ditto
+20:Yveltal

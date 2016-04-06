@@ -1,0 +1,49 @@
+75:Blaziken|2
+ ---------- 
+Moves used:
+1:Flare Blitz,100.0%,2.0
+2:Protect,100.0%,2.0
+3:Baton Pass,50.0%,1.0
+4:High Jump Kick,50.0%,1.0
+5:Swords Dance,50.0%,1.0
+6:Thunder Punch,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Blazikenite,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Blaze,50.0%,1.0
+2:Speed Boost,50.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,50.0%,1.0
+2:Adamant,50.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Greninja
+2:Groudon
+3:Yveltal
+4:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunder Punch,66.6666666667%,1.33333333333
+2:Flare Blitz,33.3333333333%,0.666666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,100.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kyogre
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

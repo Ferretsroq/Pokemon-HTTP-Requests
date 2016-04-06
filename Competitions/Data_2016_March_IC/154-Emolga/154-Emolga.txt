@@ -1,0 +1,43 @@
+154:Emolga|1
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Encore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Motor Drive,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Bronzong
+2:Lopunny
+3:Groudon
+4:Kyogre
+5:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nuzzle,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

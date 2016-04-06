@@ -1,0 +1,166 @@
+86:Lickilicky|263
+ ---------- 
+Moves used:
+1:Explosion,66.9201520913%,176.0
+2:Ice Beam,65.0190114068%,171.0
+3:Protect,41.0646387833%,108.0
+4:Flamethrower,40.6844106464%,107.0
+5:Surf,33.4600760456%,88.0
+6:Power Whip,25.855513308%,68.0
+7:Focus Blast,23.1939163498%,61.0
+8:Gyro Ball,18.6311787072%,49.0
+9:Muddy Water,15.969581749%,42.0
+10:Fire Blast,11.0266159696%,29.0
+11:Body Slam,7.60456273764%,20.0
+12:Knock Off,7.22433460076%,19.0
+13:Return,6.08365019011%,16.0
+14:Rest,5.32319391635%,14.0
+15:Swords Dance,5.32319391635%,14.0
+16:Sleep Talk,4.56273764259%,12.0
+17:Earthquake,4.56273764259%,12.0
+18:Aqua Tail,4.1825095057%,11.0
+19:Water Pulse,2.66159695817%,7.0
+20:Belly Drum,1.90114068441%,5.0
+0:Other,8.74524714829%,23.0
+
+ ---------- 
+Items used:
+1:Assault Vest,46.7680608365%,123.0
+2:Life Orb,25.0950570342%,66.0
+3:Normal Gem,7.22433460076%,19.0
+4:Wise Glasses,5.32319391635%,14.0
+5:Silk Scarf,4.1825095057%,11.0
+6:Chesto Berry,4.1825095057%,11.0
+7:Custap Berry,1.90114068441%,5.0
+8:Choice Band,1.52091254753%,4.0
+9:Lum Berry,1.52091254753%,4.0
+10:Expert Belt,1.14068441065%,3.0
+11:Soothe Bell,0.760456273764%,2.0
+12:Sitrus Berry,0.380228136882%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,98.4790874525%,259.0
+2:Own Tempo,1.52091254753%,4.0
+
+ ---------- 
+Natures used:
+1:Quiet,58.174904943%,153.0
+2:Brave,25.4752851711%,67.0
+3:Careful,5.32319391635%,14.0
+4:Relaxed,5.32319391635%,14.0
+5:Adamant,2.66159695817%,7.0
+6:Modest,1.52091254753%,4.0
+7:Calm,1.14068441065%,3.0
+8:Sassy,0.380228136882%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Salamence
+4:Mawile
+5:Ferrothorn
+6:Gengar
+7:Crobat
+8:Cresselia
+9:Xerneas
+10:Groudon
+11:Talonflame
+12:Mewtwo
+13:Amoonguss
+14:Giratina
+15:Gyarados
+16:Meowstic
+17:Dialga
+18:Sableye
+19:Scizor
+20:Gothitelle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,34.7222222222%,91.3194444444
+2:Ice Beam,20.8333333333%,54.7916666667
+3:Surf,9.02777777778%,23.7430555556
+4:Muddy Water,5.55555555556%,14.6111111111
+5:Fire Blast,5.55555555556%,14.6111111111
+6:Flamethrower,4.86111111111%,12.7847222222
+7:Power Whip,4.16666666667%,10.9583333333
+8:Body Slam,4.16666666667%,10.9583333333
+9:Return,2.77777777778%,7.30555555556
+10:Focus Blast,2.08333333333%,5.47916666667
+11:Gyro Ball,1.38888888889%,3.65277777778
+12:Water Pulse,1.38888888889%,3.65277777778
+13:Knock Off,1.38888888889%,3.65277777778
+14:Ice Punch,1.38888888889%,3.65277777778
+15:Icy Wind,0.694444444444%,1.82638888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,7.92682926829%,20.8475609756
+2:Dazzling Gleam,4.87804878049%,12.8292682927
+3:Dragon Ascent,4.26829268293%,11.2256097561
+4:Origin Pulse,4.26829268293%,11.2256097561
+5:Low Kick,4.26829268293%,11.2256097561
+6:Moonblast,3.0487804878%,8.01829268293
+7:Water Spout,3.0487804878%,8.01829268293
+8:Eruption,3.0487804878%,8.01829268293
+9:Double-Edge,3.0487804878%,8.01829268293
+10:Brave Bird,2.43902439024%,6.41463414634
+11:Hyper Voice,1.82926829268%,4.81097560976
+12:Sludge Bomb,1.82926829268%,4.81097560976
+13:Power-Up Punch,1.21951219512%,3.20731707317
+14:Iron Head,1.21951219512%,3.20731707317
+15:Sucker Punch,1.21951219512%,3.20731707317
+16:Superpower,1.21951219512%,3.20731707317
+17:Return,1.21951219512%,3.20731707317
+18:Rock Slide,1.21951219512%,3.20731707317
+19:Thunderbolt,1.21951219512%,3.20731707317
+20:Blizzard,1.21951219512%,3.20731707317
+0:Other,10.9756097561%,28.8658536585
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Ferrothorn
+5:Salamence
+6:Rayquaza
+7:Whimsicott
+8:Crobat
+9:Kangaskhan
+10:Talonflame
+11:Thundurus
+12:Amoonguss
+13:Cresselia
+14:Weavile
+15:Mawile
+16:Smeargle
+17:Gengar
+18:Liepard
+19:Rayquaza
+20:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Yveltal
+8:Talonflame
+9:Landorus
+10:Thundurus
+11:Gengar
+12:Kyurem
+13:Ferrothorn
+14:Groudon
+15:Sylveon
+16:Aegislash
+17:Gothitelle
+18:Carracosta
+19:Dialga
+20:Metagross

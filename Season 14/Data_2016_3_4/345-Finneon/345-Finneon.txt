@@ -1,0 +1,38 @@
+345:Finneon|1
+ ---------- 
+Moves used:
+1:Aqua Ring,100.0%,1.0
+2:Whirlpool,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Aurora Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bashful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Simipour
+2:Simisear
+3:Simisage
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

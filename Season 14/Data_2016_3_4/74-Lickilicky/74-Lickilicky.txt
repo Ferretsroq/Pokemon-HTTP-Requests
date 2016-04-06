@@ -1,0 +1,168 @@
+74:Lickilicky|464
+ ---------- 
+Moves used:
+1:Protect,60.9913793103%,283.0
+2:Flamethrower,58.8362068966%,273.0
+3:Explosion,53.2327586207%,247.0
+4:Ice Beam,52.5862068966%,244.0
+5:Muddy Water,39.6551724138%,184.0
+6:Power Whip,31.4655172414%,146.0
+7:Surf,26.5086206897%,123.0
+8:Gyro Ball,23.0603448276%,107.0
+9:Focus Blast,18.5344827586%,86.0
+10:Fire Blast,7.97413793103%,37.0
+11:Knock Off,6.03448275862%,28.0
+12:Return,6.03448275862%,28.0
+13:Aqua Tail,3.66379310345%,17.0
+14:Earthquake,3.66379310345%,17.0
+15:Fire Punch,1.93965517241%,9.0
+16:Belly Drum,1.72413793103%,8.0
+17:Ice Punch,1.0775862069%,5.0
+18:Hammer Arm,0.646551724138%,3.0
+19:Rock Tomb,0.431034482759%,2.0
+20:Disable,0.431034482759%,2.0
+0:Other,1.29310344828%,6.0
+
+ ---------- 
+Items used:
+1:Assault Vest,32.974137931%,153.0
+2:Expert Belt,30.6034482759%,142.0
+3:Life Orb,16.1637931034%,75.0
+4:Normal Gem,6.03448275862%,28.0
+5:Sitrus Berry,4.52586206897%,21.0
+6:Wise Glasses,3.01724137931%,14.0
+7:Silk Scarf,2.58620689655%,12.0
+8:Choice Band,1.29310344828%,6.0
+9:Custap Berry,1.29310344828%,6.0
+10:Lum Berry,0.646551724138%,3.0
+11:Grip Claw,0.215517241379%,1.0
+12:Leftovers,0.215517241379%,1.0
+13:Soothe Bell,0.215517241379%,1.0
+14:Chople Berry,0.215517241379%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,99.1379310345%,460.0
+2:Own Tempo,0.862068965517%,4.0
+
+ ---------- 
+Natures used:
+1:Quiet,40.7327586207%,189.0
+2:Sassy,30.1724137931%,140.0
+3:Brave,18.75%,87.0
+4:Modest,4.52586206897%,21.0
+5:Relaxed,2.80172413793%,13.0
+6:Adamant,2.58620689655%,12.0
+7:Careful,0.215517241379%,1.0
+8:Bold,0.215517241379%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mewtwo
+3:Zygarde
+4:Rayquaza
+5:Lopunny
+6:Salamence
+7:Mawile
+8:Scizor
+9:Ferrothorn
+10:Crobat
+11:Talonflame
+12:Gengar
+13:Raichu
+14:Palkia
+15:Simisage
+16:Dialga
+17:Xerneas
+18:Giratina
+19:Cresselia
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,24.2290748899%,112.422907489
+2:Ice Beam,22.9074889868%,106.290748899
+3:Flamethrower,14.9779735683%,69.4977973568
+4:Muddy Water,14.5374449339%,67.4537444934
+5:Surf,6.60792951542%,30.6607929515
+6:Power Whip,5.28634361233%,24.5286343612
+7:Focus Blast,2.20264317181%,10.2202643172
+8:Fire Blast,2.20264317181%,10.2202643172
+9:Gyro Ball,1.76211453744%,8.17621145374
+10:Return,1.76211453744%,8.17621145374
+11:Knock Off,1.32158590308%,6.13215859031
+12:Ice Punch,0.881057268722%,4.08810572687
+13:Aqua Tail,0.440528634361%,2.04405286344
+14:Earthquake,0.440528634361%,2.04405286344
+15:Fire Punch,0.440528634361%,2.04405286344
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.33333333333%,38.6666666667
+2:Dragon Ascent,5.33333333333%,24.7466666667
+3:Dazzling Gleam,5.0%,23.2
+4:Water Spout,5.0%,23.2
+5:Origin Pulse,4.33333333333%,20.1066666667
+6:Eruption,3.66666666667%,17.0133333333
+7:Low Kick,3.33333333333%,15.4666666667
+8:Moonblast,2.66666666667%,12.3733333333
+9:Ice Beam,2.66666666667%,12.3733333333
+10:Double-Edge,2.66666666667%,12.3733333333
+11:Brave Bird,1.66666666667%,7.73333333333
+12:Hyper Voice,1.66666666667%,7.73333333333
+13:Iron Head,1.33333333333%,6.18666666667
+14:Earth Power,1.33333333333%,6.18666666667
+15:Sucker Punch,1.33333333333%,6.18666666667
+16:Extreme Speed,1.33333333333%,6.18666666667
+17:Thunderbolt,1.33333333333%,6.18666666667
+18:Power-Up Punch,1.0%,4.64
+19:Return,1.0%,4.64
+20:Sludge Bomb,1.0%,4.64
+0:Other,15.3333333333%,71.1466666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Ferrothorn
+4:Xerneas
+5:Kangaskhan
+6:Rayquaza
+7:Salamence
+8:Thundurus
+9:Whimsicott
+10:Aegislash
+11:Mawile
+12:Talonflame
+13:Amoonguss
+14:Liepard
+15:Crobat
+16:Landorus
+17:Cresselia
+18:Dialga
+19:Weavile
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Kangaskhan
+6:Salamence
+7:Thundurus
+8:Ferrothorn
+9:Yveltal
+10:Talonflame
+11:Dialga
+12:Cresselia
+13:Mawile
+14:Kyurem
+15:Landorus
+16:Aegislash
+17:Terrakion
+18:Groudon
+19:Metagross
+20:Mewtwo

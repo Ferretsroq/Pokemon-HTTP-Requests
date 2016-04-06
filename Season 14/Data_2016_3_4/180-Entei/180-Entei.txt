@@ -1,0 +1,111 @@
+180:Entei|46
+ ---------- 
+Moves used:
+1:Sacred Fire,100.0%,46.0
+2:Protect,93.4782608696%,43.0
+3:Stone Edge,63.0434782609%,29.0
+4:Iron Head,45.652173913%,21.0
+5:Roar,26.0869565217%,12.0
+6:Bulldoze,23.9130434783%,11.0
+7:Snarl,19.5652173913%,9.0
+8:Rest,10.8695652174%,5.0
+9:Substitute,8.69565217391%,4.0
+10:Will-O-Wisp,6.52173913043%,3.0
+11:Flame Charge,2.17391304348%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,34.7826086957%,16.0
+2:Leftovers,30.4347826087%,14.0
+3:Lum Berry,19.5652173913%,9.0
+4:Assault Vest,6.52173913043%,3.0
+5:Safety Goggles,4.34782608696%,2.0
+6:Sitrus Berry,2.17391304348%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,46.0
+
+ ---------- 
+Natures used:
+1:Jolly,50.0%,23.0
+2:Adamant,32.6086956522%,15.0
+3:Brave,10.8695652174%,5.0
+4:Impish,6.52173913043%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Whimsicott
+4:Togekiss
+5:Landorus
+6:Yveltal
+7:Crobat
+8:Xerneas
+9:Meowstic
+10:Thundurus
+11:Cresselia
+12:Lugia
+13:Clefable
+14:Talonflame
+15:Hydreigon
+16:Mienshao
+17:Eelektross
+18:Ferrothorn
+19:Giratina
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sacred Fire,53.3333333333%,24.5333333333
+2:Stone Edge,20.0%,9.2
+3:Iron Head,20.0%,9.2
+4:Snarl,6.66666666667%,3.06666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,17.2413793103%,7.93103448276
+2:Precipice Blades,10.3448275862%,4.75862068966
+3:Origin Pulse,10.3448275862%,4.75862068966
+4:Dazzling Gleam,10.3448275862%,4.75862068966
+5:Rock Slide,10.3448275862%,4.75862068966
+6:Dragon Ascent,3.44827586207%,1.58620689655
+7:Foul Play,3.44827586207%,1.58620689655
+8:Roar of Time,3.44827586207%,1.58620689655
+9:Draco Meteor,3.44827586207%,1.58620689655
+10:Brave Bird,3.44827586207%,1.58620689655
+11:Last Resort,3.44827586207%,1.58620689655
+12:Water Spout,3.44827586207%,1.58620689655
+13:Hyper Voice,3.44827586207%,1.58620689655
+14:Eruption,3.44827586207%,1.58620689655
+15:Extreme Speed,3.44827586207%,1.58620689655
+16:Waterfall,3.44827586207%,1.58620689655
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Xerneas
+3:Weavile
+4:Kyogre
+5:Talonflame
+6:Cresselia
+7:Salamence
+8:Mawile
+9:Smeargle
+10:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Kyogre
+4:Xerneas
+5:Yveltal
+6:Excadrill
+7:Palkia
+8:Dialga
+9:Salamence
+10:Mawile
+11:Ho-Oh
+12:Snorlax

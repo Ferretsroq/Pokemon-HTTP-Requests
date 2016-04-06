@@ -1,0 +1,66 @@
+92:Aurorus|3
+ ---------- 
+Moves used:
+1:Nature Power,66.6666666667%,2.0
+2:Mirror Coat,66.6666666667%,2.0
+3:Protect,66.6666666667%,2.0
+4:Roar,66.6666666667%,2.0
+5:Stealth Rock,33.3333333333%,1.0
+6:Encore,33.3333333333%,1.0
+7:Thunder Wave,33.3333333333%,1.0
+8:Blizzard,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Icy Rock,33.3333333333%,1.0
+2:Focus Sash,33.3333333333%,1.0
+3:Mental Herb,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Refrigerate,66.6666666667%,2.0
+2:Snow Warning,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,66.6666666667%,2.0
+2:Calm,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Ditto
+4:Yveltal
+5:Mamoswine
+6:Weavile
+7:Lucario
+8:Garchomp
+9:Regice
+10:Shedinja
+11:Articuno
+12:Pinsir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Mirror Coat,66.6666666667%,2.0
+2:Blizzard,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,0.75
+2:Water Spout,25.0%,0.75
+3:Hyper Voice,25.0%,0.75
+4:Eruption,25.0%,0.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Heatran
+3:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence

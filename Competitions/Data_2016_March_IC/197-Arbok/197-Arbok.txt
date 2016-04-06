@@ -1,0 +1,52 @@
+197:Arbok|1
+ ---------- 
+Moves used:
+1:Gunk Shot,100.0%,1.0
+2:Sucker Punch,100.0%,1.0
+3:Rock Tomb,100.0%,1.0
+4:Glare,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Black Sludge,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gourgeist
+2:Cresselia
+3:Giratina
+4:Groudon
+5:Registeel
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,0.25
+2:Double-Edge,25.0%,0.25
+3:Eruption,16.6666666667%,0.166666666667
+4:Dragon Ascent,8.33333333333%,0.0833333333333
+5:Origin Pulse,8.33333333333%,0.0833333333333
+6:Dazzling Gleam,8.33333333333%,0.0833333333333
+7:Hyper Voice,8.33333333333%,0.0833333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Rayquaza
+5:Kyogre
+6:Salamence

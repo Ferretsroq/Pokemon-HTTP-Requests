@@ -1,0 +1,36 @@
+371:Combusken|1
+ ---------- 
+Moves used:
+1:Flame Charge,100.0%,1.0
+2:Bulk Up,100.0%,1.0
+3:Strength,100.0%,1.0
+4:Double Kick,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Blaze,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Latios
+3:Linoone
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

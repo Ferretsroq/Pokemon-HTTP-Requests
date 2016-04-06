@@ -1,0 +1,127 @@
+50:Metagross|12
+ ---------- 
+Moves used:
+1:Iron Head,83.3333333333%,10.0
+2:Ice Punch,66.6666666667%,8.0
+3:Bullet Punch,50.0%,6.0
+4:Protect,50.0%,6.0
+5:Zen Headbutt,41.6666666667%,5.0
+6:Earthquake,25.0%,3.0
+7:Hammer Arm,16.6666666667%,2.0
+8:Meteor Mash,16.6666666667%,2.0
+9:Substitute,16.6666666667%,2.0
+10:Psych Up,8.33333333333%,1.0
+11:Pursuit,8.33333333333%,1.0
+12:Rock Slide,8.33333333333%,1.0
+13:Thunder Punch,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Metagrossite,75.0%,9.0
+2:Assault Vest,16.6666666667%,2.0
+3:Choice Scarf,8.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,12.0
+
+ ---------- 
+Natures used:
+1:Adamant,75.0%,9.0
+2:Jolly,16.6666666667%,2.0
+3:Brave,8.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Groudon
+5:Salamence
+6:Talonflame
+7:Landorus
+8:Thundurus
+9:Ferrothorn
+10:Crobat
+11:Yveltal
+12:Meowstic
+13:Furfrou
+14:Hydreigon
+15:Mienshao
+16:Gothitelle
+17:Whimsicott
+18:Cresselia
+19:Palkia
+20:Uxie
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,41.3333333333%,4.96
+2:Ice Punch,20.0%,2.4
+3:Bullet Punch,13.3333333333%,1.6
+4:Zen Headbutt,12.0%,1.44
+5:Thunder Punch,5.33333333333%,0.64
+6:Meteor Mash,4.0%,0.48
+7:Earthquake,2.66666666667%,0.32
+8:Pursuit,1.33333333333%,0.16
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,19.1176470588%,2.29411764706
+2:Eruption,14.7058823529%,1.76470588235
+3:Fire Punch,8.82352941176%,1.05882352941
+4:Origin Pulse,7.35294117647%,0.882352941176
+5:Earth Power,7.35294117647%,0.882352941176
+6:Flare Blitz,5.88235294118%,0.705882352941
+7:Water Spout,5.88235294118%,0.705882352941
+8:Moonblast,4.41176470588%,0.529411764706
+9:Sucker Punch,4.41176470588%,0.529411764706
+10:Dazzling Gleam,2.94117647059%,0.352941176471
+11:Extreme Speed,2.94117647059%,0.352941176471
+12:Flamethrower,2.94117647059%,0.352941176471
+13:Foul Play,1.47058823529%,0.176470588235
+14:Shadow Sneak,1.47058823529%,0.176470588235
+15:Brave Bird,1.47058823529%,0.176470588235
+16:Hyper Voice,1.47058823529%,0.176470588235
+17:Fake Out,1.47058823529%,0.176470588235
+18:Thunderbolt,1.47058823529%,0.176470588235
+19:Low Kick,1.47058823529%,0.176470588235
+20:Ice Beam,1.47058823529%,0.176470588235
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Thundurus
+3:Salamence
+4:Smeargle
+5:Kyogre
+6:Landorus
+7:Groudon
+8:Talonflame
+9:Rayquaza
+10:Kyurem
+11:Mienshao
+12:Amoonguss
+13:Kangaskhan
+14:Yveltal
+15:Dragalge
+16:Aromatisse
+17:Krookodile
+18:Cresselia
+19:Lickilicky
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Kangaskhan
+6:Rayquaza
+7:Greninja
+8:Thundurus
+9:Dialga
+10:Kyogre
+11:Salamence
+12:Sableye

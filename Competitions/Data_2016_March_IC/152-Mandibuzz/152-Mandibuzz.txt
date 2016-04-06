@@ -1,0 +1,43 @@
+152:Mandibuzz|1
+ ---------- 
+Moves used:
+1:Roost,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Taunt,100.0%,1.0
+4:Toxic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Overcoat,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Talonflame
+3:Rayquaza
+4:Dragonite
+5:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Drain Punch,50.0%,0.5
+2:Rock Tomb,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Mewtwo

@@ -1,0 +1,66 @@
+275:Articuno|7
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,7.0
+2:Freeze-Dry,85.7142857143%,6.0
+3:Sheer Cold,71.4285714286%,5.0
+4:Protect,71.4285714286%,5.0
+5:Ice Beam,28.5714285714%,2.0
+6:Frost Breath,14.2857142857%,1.0
+7:Ice Shard,14.2857142857%,1.0
+8:U-turn,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Quick Claw,71.4285714286%,5.0
+2:Assault Vest,14.2857142857%,1.0
+3:Leftovers,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Modest,71.4285714286%,5.0
+2:Timid,14.2857142857%,1.0
+3:Bold,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Crobat
+4:Cresselia
+5:Xerneas
+6:Kyogre
+7:Shiftry
+8:Lugia
+9:Suicune
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,60.0%,4.2
+2:Sheer Cold,40.0%,2.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,1.75
+2:Aqua Jet,25.0%,1.75
+3:Bullet Punch,25.0%,1.75
+4:Double-Edge,25.0%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mienshao
+2:Cresselia
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Scizor
+3:Azumarill
+4:Kangaskhan

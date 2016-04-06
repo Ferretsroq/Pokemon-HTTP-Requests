@@ -1,0 +1,47 @@
+179:Sneasel|1
+ ---------- 
+Moves used:
+1:Icicle Crash,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Taunt,100.0%,1.0
+4:Fake Out,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Rayquaza
+3:Kyogre
+4:Mawile
+5:Dunsparce
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Crash,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Flash Cannon,33.3333333333%,0.333333333333
+2:Water Spout,33.3333333333%,0.333333333333
+3:Sacred Fire,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Sableye
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Dialga
+2:Kyogre
+3:Ho-Oh

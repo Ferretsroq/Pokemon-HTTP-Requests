@@ -1,0 +1,39 @@
+385:Metapod|1
+ ---------- 
+Moves used:
+1:Electroweb,100.0%,1.0
+2:Bug Bite,100.0%,1.0
+3:Iron Defense,100.0%,1.0
+4:String Shot,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Shed Skin,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Crobat
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Psychic,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Gothitelle

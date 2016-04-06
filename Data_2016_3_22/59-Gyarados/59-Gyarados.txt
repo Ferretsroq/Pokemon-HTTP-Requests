@@ -1,0 +1,136 @@
+59:Gyarados|80
+ ---------- 
+Moves used:
+1:Waterfall,92.5%,74.0
+2:Thunder Wave,75.0%,60.0
+3:Taunt,60.0%,48.0
+4:Protect,57.5%,46.0
+5:Ice Fang,26.25%,21.0
+6:Dragon Dance,23.75%,19.0
+7:Crunch,18.75%,15.0
+8:Roar,12.5%,10.0
+9:Earthquake,8.75%,7.0
+10:Stone Edge,7.5%,6.0
+11:Aqua Tail,7.5%,6.0
+12:Icy Wind,6.25%,5.0
+13:Toxic,2.5%,2.0
+14:Flamethrower,1.25%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,37.5%,30.0
+2:Lum Berry,26.25%,21.0
+3:Gyaradosite,20.0%,16.0
+4:Sitrus Berry,12.5%,10.0
+5:Life Orb,1.25%,1.0
+6:Wacan Berry,1.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,92.5%,74.0
+2:Moxie,7.5%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,36.25%,29.0
+2:Adamant,26.25%,21.0
+3:Impish,22.5%,18.0
+4:Careful,13.75%,11.0
+5:Brave,1.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Xerneas
+5:Thundurus
+6:Groudon
+7:Crobat
+8:Raichu
+9:Yveltal
+10:Ferrothorn
+11:Lickilicky
+12:Salamence
+13:Chansey
+14:Mewtwo
+15:Scizor
+16:Talonflame
+17:Kyurem
+18:Landorus
+19:Bisharp
+20:Volcarona
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Waterfall,75.0%,60.0
+2:Aqua Tail,9.375%,7.5
+3:Ice Fang,6.25%,5.0
+4:Crunch,6.25%,5.0
+5:Flamethrower,3.125%,2.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.6279069767%,9.3023255814
+2:Moonblast,11.6279069767%,9.3023255814
+3:Water Spout,6.97674418605%,5.58139534884
+4:Hyper Voice,6.97674418605%,5.58139534884
+5:Double-Edge,6.97674418605%,5.58139534884
+6:Precipice Blades,4.6511627907%,3.72093023256
+7:Foul Play,4.6511627907%,3.72093023256
+8:Brave Bird,4.6511627907%,3.72093023256
+9:Rock Slide,4.6511627907%,3.72093023256
+10:Thunder,4.6511627907%,3.72093023256
+11:Ice Beam,4.6511627907%,3.72093023256
+12:Origin Pulse,2.32558139535%,1.86046511628
+13:Power-Up Punch,2.32558139535%,1.86046511628
+14:Play Rough,2.32558139535%,1.86046511628
+15:Icicle Crash,2.32558139535%,1.86046511628
+16:Snarl,2.32558139535%,1.86046511628
+17:Wild Charge,2.32558139535%,1.86046511628
+18:Shadow Force,2.32558139535%,1.86046511628
+19:Draco Meteor,2.32558139535%,1.86046511628
+20:Dark Pulse,2.32558139535%,1.86046511628
+0:Other,6.97674418605%,5.58139534884
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Landorus
+4:Xerneas
+5:Weavile
+6:Kyogre
+7:Smeargle
+8:Yveltal
+9:Talonflame
+10:Thundurus
+11:Mienshao
+12:Musharna
+13:Cresselia
+14:Togekiss
+15:Salamence
+16:Mawile
+17:Ho-Oh
+18:Scizor
+19:Crobat
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Yveltal
+4:Groudon
+5:Kangaskhan
+6:Salamence
+7:Talonflame
+8:Mawile
+9:Landorus
+10:Thundurus
+11:Cresselia
+12:Giratina
+13:Dialga
+14:Weavile
+15:Rayquaza
+16:Suicune

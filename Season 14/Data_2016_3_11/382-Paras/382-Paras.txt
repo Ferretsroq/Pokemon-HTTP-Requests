@@ -1,0 +1,39 @@
+382:Paras|1
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,1.0
+2:Wide Guard,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Spore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Palkia
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Spacial Rend,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Palkia

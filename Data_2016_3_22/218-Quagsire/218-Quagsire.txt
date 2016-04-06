@@ -1,0 +1,39 @@
+218:Quagsire|1
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,1.0
+2:Icy Wind,100.0%,1.0
+3:Haze,100.0%,1.0
+4:Recover,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Maranga Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Weavile
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Knock Off,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile

@@ -1,0 +1,73 @@
+99:Plusle|1
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,1.0
+2:Entrainment,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Encore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Talonflame
+3:Xerneas
+4:Kyogre
+5:Slowbro
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nuzzle,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,13.7931034483%,0.137931034483
+2:Dazzling Gleam,10.3448275862%,0.103448275862
+3:Double-Edge,10.3448275862%,0.103448275862
+4:Gyro Ball,6.89655172414%,0.0689655172414
+5:Superpower,6.89655172414%,0.0689655172414
+6:Extreme Speed,6.89655172414%,0.0689655172414
+7:Hidden Power,6.89655172414%,0.0689655172414
+8:Precipice Blades,3.44827586207%,0.0344827586207
+9:Foul Play,3.44827586207%,0.0344827586207
+10:Iron Head,3.44827586207%,0.0344827586207
+11:Power Whip,3.44827586207%,0.0344827586207
+12:Brave Bird,3.44827586207%,0.0344827586207
+13:Dark Pulse,3.44827586207%,0.0344827586207
+14:Eruption,3.44827586207%,0.0344827586207
+15:Fake Out,3.44827586207%,0.0344827586207
+16:Return,3.44827586207%,0.0344827586207
+17:Rock Slide,3.44827586207%,0.0344827586207
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Palkia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Thundurus
+5:Ferrothorn
+6:Rayquaza
+7:Groudon
+8:Talonflame
+9:Greninja
+10:Landorus
+11:Liepard
+12:Mawile
+13:Sableye
+14:Zapdos

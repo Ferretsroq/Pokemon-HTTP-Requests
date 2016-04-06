@@ -1,0 +1,85 @@
+229:Tentacruel|14
+ ---------- 
+Moves used:
+1:Toxic Spikes,92.8571428571%,13.0
+2:Tickle,78.5714285714%,11.0
+3:Magic Coat,78.5714285714%,11.0
+4:Sludge Bomb,78.5714285714%,11.0
+5:Acid Spray,14.2857142857%,2.0
+6:Acupressure,14.2857142857%,2.0
+7:Barrier,14.2857142857%,2.0
+8:Dazzling Gleam,7.14285714286%,1.0
+9:Muddy Water,7.14285714286%,1.0
+10:Blizzard,7.14285714286%,1.0
+11:Hydro Pump,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,71.4285714286%,10.0
+2:Black Sludge,14.2857142857%,2.0
+3:Assault Vest,7.14285714286%,1.0
+4:Chesto Berry,7.14285714286%,1.0
+
+ ---------- 
+Abilities used:
+1:Rain Dish,85.7142857143%,12.0
+2:Liquid Ooze,14.2857142857%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,78.5714285714%,11.0
+2:Bashful,14.2857142857%,2.0
+3:Modest,7.14285714286%,1.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Kyogre
+3:Heatran
+4:Groudon
+5:Mienshao
+6:Xerneas
+7:Blaziken
+8:Houndoom
+9:Aegislash
+10:Kyurem
+11:Garchomp
+12:Rayquaza
+13:Mawile
+14:Lugia
+15:Smeargle
+16:Gengar
+17:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,50.0%,7.0
+2:Hydro Pump,50.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,18.1818181818%,2.54545454545
+2:Dragon Ascent,9.09090909091%,1.27272727273
+3:Precipice Blades,9.09090909091%,1.27272727273
+4:Oblivion Wing,9.09090909091%,1.27272727273
+5:Fusion Bolt,9.09090909091%,1.27272727273
+6:Dragon Pulse,9.09090909091%,1.27272727273
+7:Shadow Ball,9.09090909091%,1.27272727273
+8:Return,9.09090909091%,1.27272727273
+9:Earthquake,9.09090909091%,1.27272727273
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mienshao
+2:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Yveltal
+4:Kyurem
+5:Dialga
+6:Rayquaza
+7:Salamence
+8:Gengar

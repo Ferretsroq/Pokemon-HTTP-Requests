@@ -1,0 +1,88 @@
+213:Pyroar|32
+ ---------- 
+Moves used:
+1:Hyper Voice,87.5%,28.0
+2:Heat Wave,87.5%,28.0
+3:Protect,78.125%,25.0
+4:Swagger,68.75%,22.0
+5:Endeavor,21.875%,7.0
+6:Solar Beam,18.75%,6.0
+7:Snarl,12.5%,4.0
+8:Overheat,12.5%,4.0
+9:Will-O-Wisp,12.5%,4.0
+
+ ---------- 
+Items used:
+1:Life Orb,87.5%,28.0
+2:Focus Sash,12.5%,4.0
+
+ ---------- 
+Abilities used:
+1:Unnerve,100.0%,32.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,32.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Liepard
+5:Ferrothorn
+6:Weavile
+7:Yveltal
+8:Kangaskhan
+9:Talonflame
+10:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,76.4705882353%,24.4705882353
+2:Heat Wave,23.5294117647%,7.52941176471
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,20.0%,6.4
+2:Precipice Blades,6.66666666667%,2.13333333333
+3:Origin Pulse,6.66666666667%,2.13333333333
+4:Dazzling Gleam,6.66666666667%,2.13333333333
+5:Moonblast,6.66666666667%,2.13333333333
+6:Psystrike,6.66666666667%,2.13333333333
+7:Scald,6.66666666667%,2.13333333333
+8:Brave Bird,6.66666666667%,2.13333333333
+9:Hyper Voice,6.66666666667%,2.13333333333
+10:Aeroblast,6.66666666667%,2.13333333333
+11:Earthquake,6.66666666667%,2.13333333333
+12:Blizzard,6.66666666667%,2.13333333333
+13:Double-Edge,6.66666666667%,2.13333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Palkia
+6:Dialga
+7:Rotom
+8:Salamence
+9:Sableye
+10:Suicune
+11:Smeargle
+12:Scizor
+13:Murkrow
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyurem
+4:Salamence
+5:Talonflame
+6:Landorus
+7:Kyogre
+8:Lugia
+9:Mewtwo
+10:Golduck

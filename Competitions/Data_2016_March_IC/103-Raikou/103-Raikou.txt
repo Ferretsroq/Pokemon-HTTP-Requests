@@ -1,0 +1,56 @@
+103:Raikou|3
+ ---------- 
+Moves used:
+1:Protect,66.6666666667%,2.0
+2:Thunder Wave,66.6666666667%,2.0
+3:Thunderbolt,66.6666666667%,2.0
+4:Snarl,33.3333333333%,1.0
+5:Volt Switch,33.3333333333%,1.0
+6:Magnet Rise,33.3333333333%,1.0
+7:Shadow Ball,33.3333333333%,1.0
+8:Hidden Power,33.3333333333%,1.0
+9:Reflect,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Yveltal
+5:Aegislash
+6:Talonflame
+7:Amoonguss
+8:Aggron
+9:Smeargle
+10:Ditto
+11:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Switch,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,50.0%,1.5
+2:Fire Punch,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre

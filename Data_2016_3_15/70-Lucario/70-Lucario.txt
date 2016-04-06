@@ -1,0 +1,43 @@
+70:Lucario|1
+ ---------- 
+Moves used:
+1:Feint,100.0%,1.0
+2:Follow Me,100.0%,1.0
+3:Focus Punch,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lucarionite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Smeargle
+3:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Focus Punch,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

@@ -1,0 +1,130 @@
+57:Gardevoir|86
+ ---------- 
+Moves used:
+1:Trick Room,56.976744186%,49.0
+2:Destiny Bond,48.8372093023%,42.0
+3:Hyper Voice,45.3488372093%,39.0
+4:Protect,45.3488372093%,39.0
+5:Helping Hand,43.023255814%,37.0
+6:Psyshock,30.2325581395%,26.0
+7:Safeguard,26.7441860465%,23.0
+8:Psychic,23.2558139535%,20.0
+9:Skill Swap,16.2790697674%,14.0
+10:Magic Coat,16.2790697674%,14.0
+11:Moonblast,11.6279069767%,10.0
+12:Focus Blast,11.6279069767%,10.0
+13:Thunderbolt,11.6279069767%,10.0
+14:Psych Up,9.3023255814%,8.0
+15:Encore,3.48837209302%,3.0
+
+ ---------- 
+Items used:
+1:Gardevoirite,45.3488372093%,39.0
+2:Mental Herb,43.023255814%,37.0
+3:Choice Scarf,11.6279069767%,10.0
+
+ ---------- 
+Abilities used:
+1:Trace,53.488372093%,46.0
+2:Telepathy,43.023255814%,37.0
+3:Synchronize,3.48837209302%,3.0
+
+ ---------- 
+Natures used:
+1:Relaxed,43.023255814%,37.0
+2:Modest,31.3953488372%,27.0
+3:Timid,22.0930232558%,19.0
+4:Bold,3.48837209302%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Smeargle
+4:Kangaskhan
+5:Liepard
+6:Landorus
+7:Ferrothorn
+8:Xerneas
+9:Dialga
+10:Crobat
+11:Scrafty
+12:Weavile
+13:Meowstic
+14:Whimsicott
+15:Mr. Mime
+16:Infernape
+17:Salamence
+18:Kyurem
+19:Mienshao
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,58.3333333333%,50.1666666667
+2:Destiny Bond,13.8888888889%,11.9444444444
+3:Psyshock,11.1111111111%,9.55555555556
+4:Moonblast,8.33333333333%,7.16666666667
+5:Psychic,5.55555555556%,4.77777777778
+6:Focus Blast,2.77777777778%,2.38888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.0350877193%,12.0701754386
+2:Water Spout,14.0350877193%,12.0701754386
+3:Precipice Blades,12.2807017544%,10.5614035088
+4:Double-Edge,10.5263157895%,9.05263157895
+5:Sludge Bomb,8.77192982456%,7.54385964912
+6:Origin Pulse,3.50877192982%,3.01754385965
+7:Gyro Ball,3.50877192982%,3.01754385965
+8:Eruption,3.50877192982%,3.01754385965
+9:Shadow Ball,3.50877192982%,3.01754385965
+10:Extreme Speed,3.50877192982%,3.01754385965
+11:Dragon Ascent,1.75438596491%,1.50877192982
+12:Moonblast,1.75438596491%,1.50877192982
+13:Scald,1.75438596491%,1.50877192982
+14:Iron Head,1.75438596491%,1.50877192982
+15:Volt Tackle,1.75438596491%,1.50877192982
+16:Hyper Voice,1.75438596491%,1.50877192982
+17:Return,1.75438596491%,1.50877192982
+18:Thunder,1.75438596491%,1.50877192982
+19:Blizzard,1.75438596491%,1.50877192982
+20:Fire Punch,1.75438596491%,1.50877192982
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Kyogre
+4:Groudon
+5:Kangaskhan
+6:Yveltal
+7:Landorus
+8:Mienshao
+9:Cresselia
+10:Gengar
+11:Thundurus
+12:Ferrothorn
+13:Togekiss
+14:Weavile
+15:Mawile
+16:Porygon2
+17:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Rayquaza
+7:Gengar
+8:Gengar
+9:Ferrothorn
+10:Kyogre
+11:Aegislash
+12:Kyurem
+13:Mawile
+14:Smeargle
+15:Ditto
+16:Raichu

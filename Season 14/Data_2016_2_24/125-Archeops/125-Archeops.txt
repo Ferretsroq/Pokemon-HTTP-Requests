@@ -1,0 +1,131 @@
+125:Archeops|120
+ ---------- 
+Moves used:
+1:Rock Slide,99.1666666667%,119.0
+2:Quick Guard,98.3333333333%,118.0
+3:Tailwind,90.0%,108.0
+4:U-turn,29.1666666667%,35.0
+5:Knock Off,25.0%,30.0
+6:Ally Switch,22.5%,27.0
+7:Stealth Rock,21.6666666667%,26.0
+8:Roar,9.16666666667%,11.0
+9:Acrobatics,0.833333333333%,1.0
+10:Earth Power,0.833333333333%,1.0
+11:Heat Wave,0.833333333333%,1.0
+12:Hidden Power,0.833333333333%,1.0
+13:Protect,0.833333333333%,1.0
+14:Sky Attack,0.833333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,47.5%,57.0
+2:Lum Berry,42.5%,51.0
+3:Sitrus Berry,9.16666666667%,11.0
+4:Power Herb,0.833333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Defeatist,100.0%,120.0
+
+ ---------- 
+Natures used:
+1:Jolly,99.1666666667%,119.0
+2:Timid,0.833333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Mienshao
+3:Yveltal
+4:Dialga
+5:Smeargle
+6:Kyogre
+7:Xerneas
+8:Ho-Oh
+9:Noivern
+10:Reshiram
+11:Gengar
+12:Salamence
+13:Sableye
+14:Charizard
+15:Talonflame
+16:Groudon
+17:Sylveon
+18:Landorus
+19:Scizor
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,97.619047619%,117.142857143
+2:U-turn,2.38095238095%,2.85714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.9574468085%,19.1489361702
+2:Origin Pulse,7.44680851064%,8.93617021277
+3:Thunderbolt,6.3829787234%,7.65957446809
+4:Foul Play,5.31914893617%,6.3829787234
+5:Water Spout,5.31914893617%,6.3829787234
+6:Ice Beam,5.31914893617%,6.3829787234
+7:Precipice Blades,4.25531914894%,5.10638297872
+8:Brave Bird,4.25531914894%,5.10638297872
+9:Rock Slide,4.25531914894%,5.10638297872
+10:Gyro Ball,3.1914893617%,3.82978723404
+11:Hyper Voice,3.1914893617%,3.82978723404
+12:Dragon Ascent,2.12765957447%,2.55319148936
+13:Icicle Crash,2.12765957447%,2.55319148936
+14:Scald,2.12765957447%,2.55319148936
+15:Iron Head,2.12765957447%,2.55319148936
+16:Draco Meteor,2.12765957447%,2.55319148936
+17:Feint,2.12765957447%,2.55319148936
+18:Eruption,2.12765957447%,2.55319148936
+19:Knock Off,2.12765957447%,2.55319148936
+20:Extreme Speed,2.12765957447%,2.55319148936
+0:Other,12.7659574468%,15.3191489362
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Crobat
+3:Xerneas
+4:Smeargle
+5:Togekiss
+6:Kyogre
+7:Gengar
+8:Gengar
+9:Reshiram
+10:Thundurus
+11:Amoonguss
+12:Liepard
+13:Weavile
+14:Rayquaza
+15:Sableye
+16:Shuckle
+17:Togetic
+18:Mewtwo
+19:Kangaskhan
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Thundurus
+5:Salamence
+6:Talonflame
+7:Cresselia
+8:Landorus
+9:Ferrothorn
+10:Weavile
+11:Rayquaza
+12:Yveltal
+13:Mienshao
+14:Gothitelle
+15:Klefki
+16:Heliolisk
+17:Aegislash
+18:Greninja
+19:Kyurem
+20:Liepard

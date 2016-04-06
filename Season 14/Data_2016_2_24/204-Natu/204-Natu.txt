@@ -1,0 +1,73 @@
+204:Natu|13
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,13.0
+2:Protect,100.0%,13.0
+3:Ally Switch,76.9230769231%,10.0
+4:Simple Beam,76.9230769231%,10.0
+5:Skill Swap,23.0769230769%,3.0
+6:Pain Split,23.0769230769%,3.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,13.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Relaxed,76.9230769231%,10.0
+2:Gentle,23.0769230769%,3.0
+
+ ---------- 
+Top teammates:
+1:Blissey
+2:Kyogre
+3:Smeargle
+4:Latias
+5:Mawile
+6:Mienshao
+7:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,15.7894736842%,2.05263157895
+2:Thunderbolt,10.5263157895%,1.36842105263
+3:Precipice Blades,5.26315789474%,0.684210526316
+4:Origin Pulse,5.26315789474%,0.684210526316
+5:Power-Up Punch,5.26315789474%,0.684210526316
+6:Dazzling Gleam,5.26315789474%,0.684210526316
+7:Play Rough,5.26315789474%,0.684210526316
+8:Iron Head,5.26315789474%,0.684210526316
+9:Gyro Ball,5.26315789474%,0.684210526316
+10:Hyper Voice,5.26315789474%,0.684210526316
+11:Knock Off,5.26315789474%,0.684210526316
+12:Fake Out,5.26315789474%,0.684210526316
+13:Shadow Ball,5.26315789474%,0.684210526316
+14:Aeroblast,5.26315789474%,0.684210526316
+15:Rock Slide,5.26315789474%,0.684210526316
+16:Double-Edge,5.26315789474%,0.684210526316
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Kangaskhan
+3:Groudon
+4:Mawile
+5:Yveltal
+6:Xerneas
+7:Thundurus
+8:Ferrothorn
+9:Kyogre
+10:Salamence
+11:Lugia
+12:Zapdos
+13:Gengar

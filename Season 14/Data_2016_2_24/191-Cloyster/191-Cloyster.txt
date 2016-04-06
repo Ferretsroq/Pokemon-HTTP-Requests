@@ -1,0 +1,114 @@
+191:Cloyster|34
+ ---------- 
+Moves used:
+1:Rock Blast,100.0%,34.0
+2:Icicle Spear,100.0%,34.0
+3:Swagger,50.0%,17.0
+4:Icy Wind,50.0%,17.0
+5:Ice Shard,41.1764705882%,14.0
+6:Razor Shell,23.5294117647%,8.0
+7:Shell Smash,17.6470588235%,6.0
+8:Explosion,11.7647058824%,4.0
+9:Sleep Talk,2.94117647059%,1.0
+10:Protect,2.94117647059%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,94.1176470588%,32.0
+2:Focus Sash,5.88235294118%,2.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Jolly,97.0588235294%,33.0
+2:Adamant,2.94117647059%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Kangaskhan
+4:Whimsicott
+5:Kyogre
+6:Terrakion
+7:Gengar
+8:Ferrothorn
+9:Staraptor
+10:Rayquaza
+11:Klefki
+12:Weavile
+13:Ambipom
+14:Pachirisu
+15:Mawile
+16:Ho-Oh
+17:Suicune
+18:Houndoom
+19:Mewtwo
+20:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Spear,67.7419354839%,23.0322580645
+2:Rock Blast,19.3548387097%,6.58064516129
+3:Razor Shell,6.45161290323%,2.1935483871
+4:Ice Shard,6.45161290323%,2.1935483871
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.33333333333%,2.83333333333
+2:Origin Pulse,8.33333333333%,2.83333333333
+3:Dazzling Gleam,8.33333333333%,2.83333333333
+4:Water Spout,8.33333333333%,2.83333333333
+5:Hyper Voice,8.33333333333%,2.83333333333
+6:Eruption,8.33333333333%,2.83333333333
+7:Rock Slide,8.33333333333%,2.83333333333
+8:Moonblast,4.16666666667%,1.41666666667
+9:Grass Knot,4.16666666667%,1.41666666667
+10:Power Whip,4.16666666667%,1.41666666667
+11:Brave Bird,4.16666666667%,1.41666666667
+12:Dragon Pulse,4.16666666667%,1.41666666667
+13:Seed Bomb,4.16666666667%,1.41666666667
+14:Sucker Punch,4.16666666667%,1.41666666667
+15:Shadow Ball,4.16666666667%,1.41666666667
+16:Sludge Bomb,4.16666666667%,1.41666666667
+17:Low Kick,4.16666666667%,1.41666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Rayquaza
+3:Smeargle
+4:Landorus
+5:Rayquaza
+6:Crobat
+7:Landorus
+8:Amoonguss
+9:Whimsicott
+10:Liepard
+11:Weavile
+12:Groudon
+13:Kyogre
+14:Ludicolo
+15:Scizor
+16:Kangaskhan
+17:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Ferrothorn
+5:Salamence
+6:Yveltal
+7:Talonflame
+8:Greninja
+9:Dialga
+10:Camerupt
+11:Tyranitar
+12:Hitmontop
+13:Gengar
+14:Gengar

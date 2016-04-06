@@ -1,0 +1,96 @@
+178:Flygon|43
+ ---------- 
+Moves used:
+1:Draco Meteor,100.0%,43.0
+2:Earth Power,100.0%,43.0
+3:Tailwind,81.3953488372%,35.0
+4:Feint,81.3953488372%,35.0
+5:Protect,18.6046511628%,8.0
+6:Flamethrower,18.6046511628%,8.0
+
+ ---------- 
+Items used:
+1:Focus Sash,81.3953488372%,35.0
+2:Life Orb,18.6046511628%,8.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,43.0
+
+ ---------- 
+Natures used:
+1:Naive,76.7441860465%,33.0
+2:Timid,23.2558139535%,10.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Crobat
+4:Zekrom
+5:Greninja
+6:Xerneas
+7:Thundurus
+8:Kyurem
+9:Ambipom
+10:Rayquaza
+11:Misdreavus
+12:Klefki
+13:Reshiram
+14:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,44.4444444444%,19.1111111111
+2:Draco Meteor,27.7777777778%,11.9444444444
+3:Flamethrower,16.6666666667%,7.16666666667
+4:Feint,11.1111111111%,4.77777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,13.3333333333%,5.73333333333
+2:Water Spout,13.3333333333%,5.73333333333
+3:Gyro Ball,10.0%,4.3
+4:Eruption,10.0%,4.3
+5:Ice Beam,10.0%,4.3
+6:Dazzling Gleam,6.66666666667%,2.86666666667
+7:Sucker Punch,6.66666666667%,2.86666666667
+8:Moonblast,3.33333333333%,1.43333333333
+9:Scald,3.33333333333%,1.43333333333
+10:Spacial Rend,3.33333333333%,1.43333333333
+11:Iron Head,3.33333333333%,1.43333333333
+12:Flash Cannon,3.33333333333%,1.43333333333
+13:Super Fang,3.33333333333%,1.43333333333
+14:Rock Slide,3.33333333333%,1.43333333333
+15:Flamethrower,3.33333333333%,1.43333333333
+16:Double-Edge,3.33333333333%,1.43333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Ferrothorn
+3:Kangaskhan
+4:Xerneas
+5:Kyurem
+6:Whimsicott
+7:Dialga
+8:Kyogre
+9:Salamence
+10:Ditto
+11:Starmie
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Cresselia
+3:Groudon
+4:Mawile
+5:Xerneas
+6:Ferrothorn
+7:Kangaskhan
+8:Palkia
+9:Magnezone
+10:Bronzong
+11:Gastrodon
+12:Crobat

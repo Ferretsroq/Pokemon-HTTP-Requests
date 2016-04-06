@@ -1,0 +1,138 @@
+21:Liepard|100
+ ---------- 
+Moves used:
+1:Fake Out,95.0%,95.0
+2:Foul Play,85.0%,85.0
+3:Encore,72.0%,72.0
+4:Taunt,41.0%,41.0
+5:Thunder Wave,40.0%,40.0
+6:Swagger,28.0%,28.0
+7:Fake Tears,15.0%,15.0
+8:Protect,8.0%,8.0
+9:Role Play,6.0%,6.0
+10:Knock Off,4.0%,4.0
+11:Assist,4.0%,4.0
+12:Snarl,1.0%,1.0
+13:Substitute,1.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,85.0%,85.0
+2:Wide Lens,4.0%,4.0
+3:Mental Herb,4.0%,4.0
+4:Black Glasses,2.0%,2.0
+5:Safety Goggles,1.0%,1.0
+6:Eject Button,1.0%,1.0
+7:Life Orb,1.0%,1.0
+8:Bright Powder,1.0%,1.0
+9:Sitrus Berry,1.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,99.0%,99.0
+2:Limber,1.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,78.0%,78.0
+2:Timid,20.0%,20.0
+3:Bold,2.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Mawile
+5:Xerneas
+6:Salamence
+7:Talonflame
+8:Kangaskhan
+9:Ferrothorn
+10:Rayquaza
+11:Crobat
+12:Cresselia
+13:Landorus
+14:Smeargle
+15:Amoonguss
+16:Gengar
+17:Ditto
+18:Thundurus
+19:Togekiss
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,92.8870292887%,92.8870292887
+2:Fake Out,4.18410041841%,4.18410041841
+3:Knock Off,2.92887029289%,2.92887029289
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.5922746781%,14.5922746781
+2:Precipice Blades,9.54935622318%,9.54935622318
+3:Hyper Voice,8.47639484979%,8.47639484979
+4:Brave Bird,5.57939914163%,5.57939914163
+5:Water Spout,5.57939914163%,5.57939914163
+6:Eruption,5.15021459227%,5.15021459227
+7:Double-Edge,4.61373390558%,4.61373390558
+8:Origin Pulse,4.18454935622%,4.18454935622
+9:Ice Beam,3.64806866953%,3.64806866953
+10:Extreme Speed,3.21888412017%,3.21888412017
+11:Low Kick,2.4678111588%,2.4678111588
+12:Rock Slide,2.14592274678%,2.14592274678
+13:Thunderbolt,2.03862660944%,2.03862660944
+14:Earth Power,1.9313304721%,1.9313304721
+15:Gyro Ball,1.71673819742%,1.71673819742
+16:Fire Punch,1.71673819742%,1.71673819742
+17:Return,1.50214592275%,1.50214592275
+18:Iron Head,1.28755364807%,1.28755364807
+19:Sucker Punch,1.28755364807%,1.28755364807
+20:Fake Out,0.965665236052%,0.965665236052
+0:Other,16.8454935622%,16.8454935622
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Xerneas
+5:Talonflame
+6:Salamence
+7:Thundurus
+8:Rayquaza
+9:Smeargle
+10:Landorus
+11:Whimsicott
+12:Crobat
+13:Cresselia
+14:Yveltal
+15:Rayquaza
+16:Mawile
+17:Scizor
+18:Meowstic
+19:Liepard
+20:Bronzong
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Mawile
+9:Landorus
+10:Thundurus
+11:Yveltal
+12:Ferrothorn
+13:Cresselia
+14:Rayquaza
+15:Kyurem
+16:Dialga
+17:Bronzong
+18:Gengar
+19:Amoonguss
+20:Crobat

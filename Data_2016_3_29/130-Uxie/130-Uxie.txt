@@ -1,0 +1,92 @@
+130:Uxie|23
+ ---------- 
+Moves used:
+1:Skill Swap,95.652173913%,22.0
+2:Trick Room,73.9130434783%,17.0
+3:Foul Play,65.2173913043%,15.0
+4:Helping Hand,34.7826086957%,8.0
+5:Swagger,34.7826086957%,8.0
+6:Thunder Wave,26.0869565217%,6.0
+7:Imprison,21.7391304348%,5.0
+8:Psychic,13.0434782609%,3.0
+9:Grass Knot,8.69565217391%,2.0
+10:Magic Coat,8.69565217391%,2.0
+11:Protect,8.69565217391%,2.0
+12:Yawn,4.34782608696%,1.0
+13:Memento,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,52.1739130435%,12.0
+2:Mental Herb,39.1304347826%,9.0
+3:Lum Berry,8.69565217391%,2.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Jolly,26.0869565217%,6.0
+2:Calm,21.7391304348%,5.0
+3:Careful,17.3913043478%,4.0
+4:Timid,17.3913043478%,4.0
+5:Sassy,13.0434782609%,3.0
+6:Bold,4.34782608696%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Liepard
+4:Groudon
+5:Mawile
+6:Weavile
+7:Rayquaza
+8:Landorus
+9:Kangaskhan
+10:Durant
+11:Xerneas
+12:Vivillon
+13:Talonflame
+14:Mienshao
+15:Ferrothorn
+16:Whimsicott
+17:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,85.7142857143%,19.7142857143
+2:Grass Knot,14.2857142857%,3.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,25.0%,5.75
+2:Double-Edge,18.75%,4.3125
+3:Eruption,12.5%,2.875
+4:Dazzling Gleam,6.25%,1.4375
+5:Flash Cannon,6.25%,1.4375
+6:Water Spout,6.25%,1.4375
+7:Shadow Ball,6.25%,1.4375
+8:Sludge Bomb,6.25%,1.4375
+9:Fire Punch,6.25%,1.4375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Xerneas
+3:Thundurus
+4:Dialga
+5:Kyogre
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Aegislash
+6:Dialga
+7:Salamence
+8:Venusaur

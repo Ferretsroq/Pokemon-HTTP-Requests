@@ -1,0 +1,103 @@
+185:Dragalge|38
+ ---------- 
+Moves used:
+1:Protect,89.4736842105%,34.0
+2:Draco Meteor,86.8421052632%,33.0
+3:Sludge Wave,84.2105263158%,32.0
+4:Focus Blast,78.9473684211%,30.0
+5:Dragon Pulse,15.7894736842%,6.0
+6:Sludge Bomb,15.7894736842%,6.0
+7:Hydro Pump,13.1578947368%,5.0
+8:Scald,5.26315789474%,2.0
+9:Thunder,5.26315789474%,2.0
+10:Thunderbolt,5.26315789474%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,86.8421052632%,33.0
+2:Assault Vest,7.89473684211%,3.0
+3:Black Sludge,2.63157894737%,1.0
+4:Focus Sash,2.63157894737%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,89.4736842105%,34.0
+2:Poison Touch,7.89473684211%,3.0
+3:Poison Point,2.63157894737%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,97.3684210526%,37.0
+2:Calm,2.63157894737%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Camerupt
+3:Cresselia
+4:Zygarde
+5:Ferrothorn
+6:Gengar
+7:Salamence
+8:Rayquaza
+9:Groudon
+10:Kyogre
+11:Yveltal
+12:Liepard
+13:Kangaskhan
+14:Xerneas
+15:Infernape
+16:Scizor
+17:Crobat
+18:Typhlosion
+19:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Wave,47.619047619%,18.0952380952
+2:Draco Meteor,28.5714285714%,10.8571428571
+3:Sludge Bomb,9.52380952381%,3.61904761905
+4:Focus Blast,4.7619047619%,1.80952380952
+5:Dragon Pulse,4.7619047619%,1.80952380952
+6:Hydro Pump,4.7619047619%,1.80952380952
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.3846153846%,5.84615384615
+2:Precipice Blades,7.69230769231%,2.92307692308
+3:Psystrike,7.69230769231%,2.92307692308
+4:Bullet Punch,7.69230769231%,2.92307692308
+5:Earth Power,7.69230769231%,2.92307692308
+6:Sucker Punch,7.69230769231%,2.92307692308
+7:Heat Wave,7.69230769231%,2.92307692308
+8:Shadow Ball,7.69230769231%,2.92307692308
+9:Ice Beam,7.69230769231%,2.92307692308
+10:Double-Edge,7.69230769231%,2.92307692308
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Xerneas
+5:Meowstic
+6:Talonflame
+7:Greninja
+8:Kyurem
+9:Ferrothorn
+10:Gothitelle
+11:Liepard
+12:Honchkrow
+13:Smeargle
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Heatran
+5:Kyogre
+6:Scizor
+7:Mewtwo
+8:Gengar

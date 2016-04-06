@@ -1,0 +1,61 @@
+229:Masquerain|16
+ ---------- 
+Moves used:
+1:Scald,93.75%,15.0
+2:Quiver Dance,93.75%,15.0
+3:Baton Pass,93.75%,15.0
+4:Protect,87.5%,14.0
+5:Whirlwind,12.5%,2.0
+6:Struggle Bug,6.25%,1.0
+7:Air Slash,6.25%,1.0
+8:Tailwind,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,93.75%,15.0
+2:Sitrus Berry,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,16.0
+
+ ---------- 
+Natures used:
+1:Timid,93.75%,15.0
+2:Calm,6.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Xatu
+4:Ferrothorn
+5:Landorus
+6:Weavile
+7:Lugia
+8:Scizor
+9:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,100.0%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,33.3333333333%,5.33333333333
+2:Origin Pulse,16.6666666667%,2.66666666667
+3:Brave Bird,16.6666666667%,2.66666666667
+4:Eruption,16.6666666667%,2.66666666667
+5:Ice Beam,16.6666666667%,2.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Landorus
+4:Cresselia
+5:Kyogre

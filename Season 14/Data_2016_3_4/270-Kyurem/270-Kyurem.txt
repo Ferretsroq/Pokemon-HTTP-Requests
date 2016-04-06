@@ -1,0 +1,68 @@
+270:Kyurem|7
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,7.0
+2:Glaciate,85.7142857143%,6.0
+3:Flash Cannon,85.7142857143%,6.0
+4:Dragon Pulse,85.7142857143%,6.0
+5:Draco Meteor,14.2857142857%,1.0
+6:Protect,14.2857142857%,1.0
+7:Blizzard,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,71.4285714286%,5.0
+2:Focus Sash,14.2857142857%,1.0
+3:Life Orb,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Modest,85.7142857143%,6.0
+2:Quiet,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Raichu
+2:Noivern
+3:Rayquaza
+4:Groudon
+5:Haxorus
+6:Amoonguss
+7:Musharna
+8:Liepard
+9:Honchkrow
+10:Kyogre
+11:Ludicolo
+12:Kingdra
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Glaciate,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,1.16666666667
+2:Power-Up Punch,16.6666666667%,1.16666666667
+3:Dazzling Gleam,16.6666666667%,1.16666666667
+4:Brave Bird,16.6666666667%,1.16666666667
+5:Gyro Ball,16.6666666667%,1.16666666667
+6:Eruption,16.6666666667%,1.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Togekiss
+3:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Ferrothorn
+5:Kangaskhan

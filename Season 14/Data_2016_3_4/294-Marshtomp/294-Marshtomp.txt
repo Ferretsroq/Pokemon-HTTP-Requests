@@ -1,0 +1,47 @@
+294:Marshtomp|4
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,4.0
+2:Icy Wind,100.0%,4.0
+3:Protect,100.0%,4.0
+4:Confide,75.0%,3.0
+5:Tackle,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Torrent,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Landorus
+6:Latias
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,50.0%,2.0
+2:Hyper Voice,25.0%,1.0
+3:Double-Edge,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Salamence
+3:Kangaskhan

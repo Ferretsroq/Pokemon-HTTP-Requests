@@ -1,0 +1,38 @@
+140:Hawlucha|1
+ ---------- 
+Moves used:
+1:Acrobatics,100.0%,1.0
+2:Helping Hand,100.0%,1.0
+3:Sky Attack,100.0%,1.0
+4:High Jump Kick,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Talonflame
+3:Groudon
+4:Raichu
+5:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

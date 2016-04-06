@@ -1,0 +1,140 @@
+86:Shiftry|321
+ ---------- 
+Moves used:
+1:Fake Out,98.753894081%,317.0
+2:Leaf Blade,89.4080996885%,287.0
+3:Knock Off,86.9158878505%,279.0
+4:Low Kick,44.2367601246%,142.0
+5:Tailwind,39.5638629283%,127.0
+6:Foul Play,13.0841121495%,42.0
+7:Leaf Storm,7.47663551402%,24.0
+8:Worry Seed,5.60747663551%,18.0
+9:Swagger,4.98442367601%,16.0
+10:Protect,3.11526479751%,10.0
+11:Grass Knot,2.18068535826%,7.0
+12:Swords Dance,1.8691588785%,6.0
+13:Brick Break,1.246105919%,4.0
+14:Whirlwind,0.934579439252%,3.0
+15:Icy Wind,0.623052959502%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,48.9096573209%,157.0
+2:Focus Sash,48.5981308411%,156.0
+3:Eject Button,1.8691588785%,6.0
+4:Expert Belt,0.311526479751%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,321.0
+
+ ---------- 
+Natures used:
+1:Jolly,57.3208722741%,184.0
+2:Adamant,33.0218068536%,106.0
+3:Timid,9.03426791277%,29.0
+4:Modest,0.623052959502%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Talonflame
+5:Yveltal
+6:Kangaskhan
+7:Mawile
+8:Thundurus
+9:Crobat
+10:Kyurem
+11:Rayquaza
+12:Zekrom
+13:Bronzong
+14:Kyogre
+15:Metagross
+16:Gengar
+17:Aegislash
+18:Meowstic
+19:Palkia
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,35.2112676056%,113.028169014
+2:Leaf Blade,29.5774647887%,94.9436619718
+3:Foul Play,14.0845070423%,45.2112676056
+4:Low Kick,9.85915492958%,31.6478873239
+5:Fake Out,7.04225352113%,22.6056338028
+6:Grass Knot,1.40845070423%,4.52112676056
+7:Leaf Storm,1.40845070423%,4.52112676056
+8:Brick Break,1.40845070423%,4.52112676056
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.84375%,47.6484375
+2:Eruption,10.9375%,35.109375
+3:Hyper Voice,10.546875%,33.85546875
+4:Ice Beam,7.03125%,22.5703125
+5:Brave Bird,5.46875%,17.5546875
+6:Double-Edge,5.078125%,16.30078125
+7:Water Spout,3.90625%,12.5390625
+8:Origin Pulse,3.515625%,11.28515625
+9:Dragon Ascent,3.125%,10.03125
+10:Precipice Blades,2.734375%,8.77734375
+11:Low Kick,2.734375%,8.77734375
+12:Flamethrower,2.34375%,7.5234375
+13:Power-Up Punch,1.953125%,6.26953125
+14:Sludge Bomb,1.953125%,6.26953125
+15:Iron Head,1.5625%,5.015625
+16:U-turn,1.5625%,5.015625
+17:Extreme Speed,1.5625%,5.015625
+18:Moonblast,1.171875%,3.76171875
+19:Gyro Ball,1.171875%,3.76171875
+20:Overheat,1.171875%,3.76171875
+0:Other,12.890625%,41.37890625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Smeargle
+4:Xerneas
+5:Liepard
+6:Groudon
+7:Gengar
+8:Talonflame
+9:Landorus
+10:Dialga
+11:Rayquaza
+12:Salamence
+13:Meowstic
+14:Cresselia
+15:Palkia
+16:Lugia
+17:Gengar
+18:Noivern
+19:Whimsicott
+20:Rotom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Rayquaza
+10:Mawile
+11:Cresselia
+12:Yveltal
+13:Ferrothorn
+14:Dialga
+15:Greninja
+16:Palkia
+17:Togekiss
+18:Weavile
+19:Ho-Oh
+20:Smeargle

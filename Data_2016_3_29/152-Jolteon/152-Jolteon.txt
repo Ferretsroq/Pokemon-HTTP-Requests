@@ -1,0 +1,81 @@
+152:Jolteon|15
+ ---------- 
+Moves used:
+1:Hidden Power,100.0%,15.0
+2:Protect,86.6666666667%,13.0
+3:Discharge,73.3333333333%,11.0
+4:Roar,73.3333333333%,11.0
+5:Volt Switch,13.3333333333%,2.0
+6:Shadow Ball,13.3333333333%,2.0
+7:Thunder,13.3333333333%,2.0
+8:Thunder Wave,13.3333333333%,2.0
+9:Thunderbolt,13.3333333333%,2.0
+
+ ---------- 
+Items used:
+1:Flame Orb,73.3333333333%,11.0
+2:Choice Specs,13.3333333333%,2.0
+3:Expert Belt,13.3333333333%,2.0
+
+ ---------- 
+Abilities used:
+1:Quick Feet,73.3333333333%,11.0
+2:Volt Absorb,26.6666666667%,4.0
+
+ ---------- 
+Natures used:
+1:Modest,73.3333333333%,11.0
+2:Timid,26.6666666667%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Sceptile
+3:Groudon
+4:Scizor
+5:Rayquaza
+6:Swampert
+7:Yveltal
+8:Landorus
+9:Amoonguss
+10:Weavile
+11:Mawile
+12:Gengar
+13:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Discharge,66.6666666667%,10.0
+2:Volt Switch,16.6666666667%,2.5
+3:Hidden Power,16.6666666667%,2.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Extreme Speed,16.6666666667%,2.5
+2:Precipice Blades,8.33333333333%,1.25
+3:Moonblast,8.33333333333%,1.25
+4:Play Rough,8.33333333333%,1.25
+5:Earth Power,8.33333333333%,1.25
+6:Dragon Pulse,8.33333333333%,1.25
+7:Flare Blitz,8.33333333333%,1.25
+8:Earthquake,8.33333333333%,1.25
+9:Double-Edge,8.33333333333%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Liepard
+3:Rayquaza
+4:Kyogre
+5:Lapras
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Landorus
+6:Dialga
+7:Mawile
+8:Kangaskhan

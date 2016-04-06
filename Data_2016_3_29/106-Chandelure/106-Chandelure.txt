@@ -1,0 +1,98 @@
+106:Chandelure|37
+ ---------- 
+Moves used:
+1:Heat Wave,100.0%,37.0
+2:Shadow Ball,100.0%,37.0
+3:Trick Room,91.8918918919%,34.0
+4:Protect,75.6756756757%,28.0
+5:Will-O-Wisp,16.2162162162%,6.0
+6:Overheat,8.10810810811%,3.0
+7:Hidden Power,8.10810810811%,3.0
+
+ ---------- 
+Items used:
+1:Focus Sash,75.6756756757%,28.0
+2:Mental Herb,16.2162162162%,6.0
+3:Choice Scarf,8.10810810811%,3.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,75.6756756757%,28.0
+2:Infiltrator,16.2162162162%,6.0
+3:Flame Body,8.10810810811%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,75.6756756757%,28.0
+2:Quiet,16.2162162162%,6.0
+3:Modest,8.10810810811%,3.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Sableye
+3:Aegislash
+4:Gengar
+5:Groudon
+6:Hitmontop
+7:Rayquaza
+8:Crobat
+9:Kangaskhan
+10:Gastrodon
+11:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,64.2857142857%,23.7857142857
+2:Shadow Ball,33.3333333333%,12.3333333333
+3:Hidden Power,2.38095238095%,0.880952380952
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,21.4285714286%,7.92857142857
+2:Dazzling Gleam,17.8571428571%,6.60714285714
+3:Earth Power,14.2857142857%,5.28571428571
+4:Rock Slide,10.7142857143%,3.96428571429
+5:Precipice Blades,7.14285714286%,2.64285714286
+6:Brave Bird,7.14285714286%,2.64285714286
+7:Origin Pulse,3.57142857143%,1.32142857143
+8:Moonblast,3.57142857143%,1.32142857143
+9:Sucker Punch,3.57142857143%,1.32142857143
+10:Eruption,3.57142857143%,1.32142857143
+11:Knock Off,3.57142857143%,1.32142857143
+12:Ice Beam,3.57142857143%,1.32142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Thundurus
+3:Salamence
+4:Crobat
+5:Meowstic
+6:Talonflame
+7:Landorus
+8:Amoonguss
+9:Whimsicott
+10:Gengar
+11:Kyurem
+12:Bisharp
+13:Ferrothorn
+14:Liepard
+15:Cresselia
+16:Dialga
+17:Weavile
+18:Infernape
+19:Groudon
+20:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Kyogre
+5:Yveltal
+6:Talonflame
+7:Palkia
+8:Ho-Oh
+9:Kangaskhan

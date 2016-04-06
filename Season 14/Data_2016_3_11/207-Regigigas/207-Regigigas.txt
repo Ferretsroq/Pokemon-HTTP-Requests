@@ -1,0 +1,114 @@
+207:Regigigas|36
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,36.0
+2:Knock Off,55.5555555556%,20.0
+3:Drain Punch,44.4444444444%,16.0
+4:Return,41.6666666667%,15.0
+5:Thunder Wave,36.1111111111%,13.0
+6:Crush Grip,33.3333333333%,12.0
+7:Rock Slide,30.5555555556%,11.0
+8:Safeguard,19.4444444444%,7.0
+9:Confuse Ray,16.6666666667%,6.0
+10:Ice Punch,8.33333333333%,3.0
+11:Gravity,5.55555555556%,2.0
+12:Icy Wind,5.55555555556%,2.0
+13:Giga Impact,2.77777777778%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,58.3333333333%,21.0
+2:Lum Berry,19.4444444444%,7.0
+3:Silk Scarf,16.6666666667%,6.0
+4:Mental Herb,5.55555555556%,2.0
+
+ ---------- 
+Abilities used:
+1:Slow Start,100.0%,36.0
+
+ ---------- 
+Natures used:
+1:Impish,30.5555555556%,11.0
+2:Careful,27.7777777778%,10.0
+3:Jolly,19.4444444444%,7.0
+4:Adamant,16.6666666667%,6.0
+5:Modest,5.55555555556%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Cresselia
+4:Rayquaza
+5:Mienshao
+6:Kangaskhan
+7:Yveltal
+8:Durant
+9:Salamence
+10:Crobat
+11:Latios
+12:Scizor
+13:Xerneas
+14:Heatran
+15:Dialga
+16:Bronzong
+17:Mawile
+18:Gengar
+19:Talonflame
+20:Kyurem
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,41.6666666667%,15.0
+2:Return,25.0%,9.0
+3:Crush Grip,8.33333333333%,3.0
+4:Giga Impact,8.33333333333%,3.0
+5:Drain Punch,8.33333333333%,3.0
+6:Rock Slide,8.33333333333%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,14.2857142857%,5.14285714286
+2:Precipice Blades,9.52380952381%,3.42857142857
+3:Dragon Ascent,4.7619047619%,1.71428571429
+4:Dazzling Gleam,4.7619047619%,1.71428571429
+5:Play Rough,4.7619047619%,1.71428571429
+6:Scald,4.7619047619%,1.71428571429
+7:Foul Play,4.7619047619%,1.71428571429
+8:Brave Bird,4.7619047619%,1.71428571429
+9:U-turn,4.7619047619%,1.71428571429
+10:Water Spout,4.7619047619%,1.71428571429
+11:Overheat,4.7619047619%,1.71428571429
+12:Superpower,4.7619047619%,1.71428571429
+13:Extreme Speed,4.7619047619%,1.71428571429
+14:Low Kick,4.7619047619%,1.71428571429
+15:Ice Beam,4.7619047619%,1.71428571429
+16:Double-Edge,4.7619047619%,1.71428571429
+17:Fire Punch,4.7619047619%,1.71428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Yveltal
+3:Xerneas
+4:Meowstic
+5:Landorus
+6:Ferrothorn
+7:Giratina
+8:Rayquaza
+9:Kyogre
+10:Gengar
+11:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Landorus
+5:Rayquaza
+6:Yveltal
+7:Talonflame
+8:Mienshao
+9:Mawile
+10:Kangaskhan

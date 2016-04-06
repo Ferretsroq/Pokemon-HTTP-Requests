@@ -1,0 +1,66 @@
+273:Sharpedo|7
+ ---------- 
+Moves used:
+1:Crunch,100.0%,7.0
+2:Protect,85.7142857143%,6.0
+3:Waterfall,85.7142857143%,6.0
+4:Ice Beam,57.1428571429%,4.0
+5:Aqua Jet,14.2857142857%,1.0
+6:Ice Fang,14.2857142857%,1.0
+7:Dive,14.2857142857%,1.0
+8:Destiny Bond,14.2857142857%,1.0
+9:Surf,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Sharpedonite,71.4285714286%,5.0
+2:Focus Sash,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,85.7142857143%,6.0
+2:Rough Skin,14.2857142857%,1.0
+
+ ---------- 
+Natures used:
+1:Naughty,57.1428571429%,4.0
+2:Adamant,28.5714285714%,2.0
+3:Naive,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Crobat
+4:Yveltal
+5:Ferrothorn
+6:Xerneas
+7:Amoonguss
+8:Liepard
+9:Groudon
+10:Salamence
+11:Tropius
+12:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Crunch,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,20.0%,1.4
+2:Precipice Blades,20.0%,1.4
+3:Spacial Rend,20.0%,1.4
+4:Eruption,20.0%,1.4
+5:Extreme Speed,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Palkia

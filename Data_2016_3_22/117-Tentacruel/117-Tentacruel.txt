@@ -1,0 +1,60 @@
+117:Tentacruel|17
+ ---------- 
+Moves used:
+1:Scald,100.0%,17.0
+2:Safeguard,88.2352941176%,15.0
+3:Swagger,88.2352941176%,15.0
+4:Protect,82.3529411765%,14.0
+5:Sludge Bomb,29.4117647059%,5.0
+6:Haze,11.7647058824%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,88.2352941176%,15.0
+2:Life Orb,11.7647058824%,2.0
+
+ ---------- 
+Abilities used:
+1:Liquid Ooze,88.2352941176%,15.0
+2:Clear Body,11.7647058824%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,17.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Manectric
+3:Ho-Oh
+4:Ferrothorn
+5:Sylveon
+6:Mewtwo
+7:Mienshao
+8:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,100.0%,17.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,45.4545454545%,7.72727272727
+2:Precipice Blades,18.1818181818%,3.09090909091
+3:Dragon Ascent,9.09090909091%,1.54545454545
+4:Earth Power,9.09090909091%,1.54545454545
+5:Eruption,9.09090909091%,1.54545454545
+6:Rock Slide,9.09090909091%,1.54545454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Carracosta
+4:Rayquaza
+5:Salamence

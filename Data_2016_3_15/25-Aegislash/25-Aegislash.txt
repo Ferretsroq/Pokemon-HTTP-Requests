@@ -1,0 +1,83 @@
+25:Aegislash|23
+ ---------- 
+Moves used:
+1:King's Shield,86.9565217391%,20.0
+2:Shadow Ball,73.9130434783%,17.0
+3:Wide Guard,60.8695652174%,14.0
+4:Iron Head,56.5217391304%,13.0
+5:Shadow Sneak,56.5217391304%,13.0
+6:Gyro Ball,39.1304347826%,9.0
+7:Substitute,21.7391304348%,5.0
+8:Flash Cannon,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,34.7826086957%,8.0
+2:Lum Berry,34.7826086957%,8.0
+3:Occa Berry,26.0869565217%,6.0
+4:Leftovers,4.34782608696%,1.0
+
+ ---------- 
+Abilities used:
+1:Stance Change,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Brave,56.5217391304%,13.0
+2:Quiet,43.4782608696%,10.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Thundurus
+4:Talonflame
+5:Groudon
+6:Kangaskhan
+7:Salamence
+8:Whimsicott
+9:Ampharos
+10:Xerneas
+11:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,33.3333333333%,7.66666666667
+2:Shadow Sneak,33.3333333333%,7.66666666667
+3:Shadow Ball,33.3333333333%,7.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,15.3846153846%,3.53846153846
+2:Water Spout,15.3846153846%,3.53846153846
+3:Fire Punch,15.3846153846%,3.53846153846
+4:Origin Pulse,7.69230769231%,1.76923076923
+5:Scald,7.69230769231%,1.76923076923
+6:Power Whip,7.69230769231%,1.76923076923
+7:Flash Cannon,7.69230769231%,1.76923076923
+8:Sucker Punch,7.69230769231%,1.76923076923
+9:Eruption,7.69230769231%,1.76923076923
+10:Thunderbolt,7.69230769231%,1.76923076923
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Trevenant
+3:Talonflame
+4:Thundurus
+5:Groudon
+6:Salamence
+7:Smeargle
+8:Kangaskhan
+9:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Yveltal
+4:Landorus
+5:Ferrothorn
+6:Dialga
+7:Rayquaza
+8:Zapdos

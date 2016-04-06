@@ -1,0 +1,116 @@
+191:Typhlosion|40
+ ---------- 
+Moves used:
+1:Eruption,100.0%,40.0
+2:Focus Blast,50.0%,20.0
+3:Solar Beam,47.5%,19.0
+4:Extrasensory,40.0%,16.0
+5:Protect,35.0%,14.0
+6:Hidden Power,32.5%,13.0
+7:Lava Plume,27.5%,11.0
+8:Fire Blast,25.0%,10.0
+9:Flamethrower,25.0%,10.0
+10:Quick Attack,10.0%,4.0
+11:Overheat,7.5%,3.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,60.0%,24.0
+2:Choice Specs,25.0%,10.0
+3:Life Orb,10.0%,4.0
+4:Leftovers,5.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,67.5%,27.0
+2:Blaze,32.5%,13.0
+
+ ---------- 
+Natures used:
+1:Timid,67.5%,27.0
+2:Modest,22.5%,9.0
+3:Naive,10.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Talonflame
+4:Kyogre
+5:Gengar
+6:Yveltal
+7:Salamence
+8:Charizard
+9:Xerneas
+10:Meowstic
+11:Ferrothorn
+12:Raichu
+13:Greninja
+14:Thundurus
+15:Whimsicott
+16:Cresselia
+17:Palkia
+18:Toxicroak
+19:Lucario
+20:Honchkrow
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Eruption,86.9565217391%,34.7826086957
+2:Lava Plume,4.34782608696%,1.73913043478
+3:Hidden Power,4.34782608696%,1.73913043478
+4:Fire Blast,4.34782608696%,1.73913043478
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.8064516129%,10.3225806452
+2:Precipice Blades,12.9032258065%,5.16129032258
+3:Sucker Punch,9.67741935484%,3.87096774194
+4:Earth Power,6.45161290323%,2.58064516129
+5:Earthquake,6.45161290323%,2.58064516129
+6:Double-Edge,6.45161290323%,2.58064516129
+7:Dragon Ascent,3.22580645161%,1.29032258065
+8:Moonblast,3.22580645161%,1.29032258065
+9:Brave Bird,3.22580645161%,1.29032258065
+10:Water Spout,3.22580645161%,1.29032258065
+11:Hyper Voice,3.22580645161%,1.29032258065
+12:Extreme Speed,3.22580645161%,1.29032258065
+13:Return,3.22580645161%,1.29032258065
+14:Sludge Bomb,3.22580645161%,1.29032258065
+15:Psychic,3.22580645161%,1.29032258065
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Crobat
+4:Kangaskhan
+5:Gengar
+6:Kyurem
+7:Landorus
+8:Thundurus
+9:Liepard
+10:Mismagius
+11:Kyogre
+12:Sableye
+13:Sceptile
+14:Smeargle
+15:Gengar
+16:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Rayquaza
+4:Salamence
+5:Mawile
+6:Kangaskhan
+7:Yveltal
+8:Talonflame
+9:Landorus
+10:Garchomp
+11:Kyogre
+12:Latios
+13:Smeargle
+14:Gengar

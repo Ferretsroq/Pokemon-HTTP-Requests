@@ -1,0 +1,156 @@
+40:Gothitelle|2052
+ ---------- 
+Moves used:
+1:Trick Room,94.0545808967%,1930.0
+2:Protect,68.3723196881%,1403.0
+3:Psychic,46.1500974659%,947.0
+4:Heal Pulse,41.4717348928%,851.0
+5:Magic Coat,37.962962963%,779.0
+6:Helping Hand,27.9727095517%,574.0
+7:Skill Swap,20.0779727096%,412.0
+8:Psyshock,17.9337231969%,368.0
+9:Fake Tears,6.7738791423%,139.0
+10:Taunt,6.04288499025%,124.0
+11:Role Play,5.6530214425%,116.0
+12:Foul Play,5.11695906433%,105.0
+13:Gravity,3.99610136452%,82.0
+14:Thunderbolt,2.43664717349%,50.0
+15:Thunder Wave,2.29044834308%,47.0
+16:Swagger,2.04678362573%,42.0
+17:Reflect,1.80311890838%,37.0
+18:Tickle,1.70565302144%,35.0
+19:Mirror Coat,1.31578947368%,27.0
+20:Safeguard,1.21832358674%,25.0
+0:Other,5.60428849903%,115.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,45.8576998051%,941.0
+2:Mental Herb,38.7914230019%,796.0
+3:Lum Berry,9.64912280702%,198.0
+4:Leftovers,3.41130604288%,70.0
+5:Chesto Berry,1.07212475634%,22.0
+6:Choice Scarf,0.584795321637%,12.0
+7:Rocky Helmet,0.292397660819%,6.0
+8:Safety Goggles,0.0974658869396%,2.0
+9:Quick Claw,0.0974658869396%,2.0
+10:Colbur Berry,0.0974658869396%,2.0
+11:Focus Sash,0.0487329434698%,1.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,99.6101364522%,2044.0
+2:Competitive,0.341130604288%,7.0
+3:Frisk,0.0487329434698%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,38.4990253411%,790.0
+2:Calm,22.5633528265%,463.0
+3:Bold,21.9298245614%,450.0
+4:Relaxed,15.3996101365%,316.0
+5:Timid,1.55945419103%,32.0
+6:Modest,0.0487329434698%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Mawile
+4:Rayquaza
+5:Kangaskhan
+6:Ferrothorn
+7:Xerneas
+8:Liepard
+9:Yveltal
+10:Gengar
+11:Salamence
+12:Smeargle
+13:Talonflame
+14:Landorus
+15:Amoonguss
+16:Scrafty
+17:Dewgong
+18:Zapdos
+19:Giratina
+20:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,68.2080924855%,1399.6300578
+2:Psyshock,21.098265896%,432.936416185
+3:Foul Play,5.20231213873%,106.751445087
+4:Thunderbolt,3.17919075145%,65.2369942197
+5:Mirror Coat,1.15606936416%,23.7225433526
+6:Grass Knot,0.578034682081%,11.8612716763
+7:Struggle,0.578034682081%,11.8612716763
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.0386100386%,205.992277992
+2:Water Spout,8.41698841699%,172.716602317
+3:Dazzling Gleam,8.18532818533%,167.962934363
+4:Origin Pulse,7.56756756757%,155.286486486
+5:Eruption,6.25482625483%,128.349034749
+6:Double-Edge,6.10038610039%,125.17992278
+7:Dragon Ascent,4.71042471042%,96.6579150579
+8:Moonblast,4.09266409266%,83.9814671815
+9:Brave Bird,3.16602316602%,64.9667953668
+10:Hyper Voice,3.0888030888%,63.3822393822
+11:Knock Off,3.01158301158%,61.7976833977
+12:Ice Beam,2.7027027027%,55.4594594595
+13:Extreme Speed,2.00772200772%,41.1984555985
+14:Earth Power,1.9305019305%,39.6138996139
+15:Shadow Ball,1.9305019305%,39.6138996139
+16:Earthquake,1.62162162162%,33.2756756757
+17:Dark Pulse,1.46718146718%,30.1065637066
+18:Return,1.46718146718%,30.1065637066
+19:Power Whip,1.23552123552%,25.3528957529
+20:Rock Slide,1.1583011583%,23.7683397683
+0:Other,17.6833976834%,362.863320463
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Crobat
+3:Talonflame
+4:Kyogre
+5:Groudon
+6:Kangaskhan
+7:Xerneas
+8:Whimsicott
+9:Mienshao
+10:Rayquaza
+11:Thundurus
+12:Salamence
+13:Amoonguss
+14:Gengar
+15:Gengar
+16:Mawile
+17:Dialga
+18:Rayquaza
+19:Raichu
+20:Greninja
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Yveltal
+8:Talonflame
+9:Ferrothorn
+10:Landorus
+11:Weavile
+12:Rayquaza
+13:Mawile
+14:Gengar
+15:Smeargle
+16:Scizor
+17:Giratina
+18:Ho-Oh
+19:Liepard
+20:Cresselia

@@ -1,0 +1,85 @@
+230:Beedrill|20
+ ---------- 
+Moves used:
+1:Poison Jab,100.0%,20.0
+2:Protect,100.0%,20.0
+3:Drill Run,85.0%,17.0
+4:U-turn,55.0%,11.0
+5:X-Scissor,20.0%,4.0
+6:Pin Missile,20.0%,4.0
+7:Twineedle,15.0%,3.0
+8:Pursuit,5.0%,1.0
+
+ ---------- 
+Items used:
+1:Beedrillite,100.0%,20.0
+
+ ---------- 
+Abilities used:
+1:Swarm,100.0%,20.0
+
+ ---------- 
+Natures used:
+1:Jolly,70.0%,14.0
+2:Adamant,30.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Cresselia
+4:Crobat
+5:Dragonite
+6:Meowstic
+7:Kyurem
+8:Dialga
+9:Weavile
+10:Clefairy
+11:Klefki
+12:Sylveon
+13:Talonflame
+14:Liepard
+15:Rayquaza
+16:Entei
+17:Xerneas
+18:Thundurus
+19:Magnezone
+20:Ludicolo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Poison Jab,100.0%,20.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,17.6470588235%,3.52941176471
+2:Double-Edge,11.7647058824%,2.35294117647
+3:Precipice Blades,5.88235294118%,1.17647058824
+4:Shadow Force,5.88235294118%,1.17647058824
+5:Brave Bird,5.88235294118%,1.17647058824
+6:Gyro Ball,5.88235294118%,1.17647058824
+7:Hyper Voice,5.88235294118%,1.17647058824
+8:Eruption,5.88235294118%,1.17647058824
+9:Extreme Speed,5.88235294118%,1.17647058824
+10:Return,5.88235294118%,1.17647058824
+11:Fire Blast,5.88235294118%,1.17647058824
+12:Psychic,5.88235294118%,1.17647058824
+13:Flamethrower,5.88235294118%,1.17647058824
+14:Fire Punch,5.88235294118%,1.17647058824
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Liepard
+3:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Talonflame
+4:Ferrothorn
+5:Giratina
+6:Rayquaza
+7:Latios
+8:Salamence

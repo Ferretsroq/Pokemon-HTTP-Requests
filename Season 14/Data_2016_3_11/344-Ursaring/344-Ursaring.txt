@@ -1,0 +1,42 @@
+344:Ursaring|1
+ ---------- 
+Moves used:
+1:Facade,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Earthquake,100.0%,1.0
+4:Ice Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Rayquaza
+3:Infernape
+4:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,50.0%,0.5
+2:Double-Edge,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan

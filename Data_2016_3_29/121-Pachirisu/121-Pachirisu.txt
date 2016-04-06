@@ -1,0 +1,79 @@
+121:Pachirisu|31
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,31.0
+2:Super Fang,100.0%,31.0
+3:Nuzzle,80.6451612903%,25.0
+4:Protect,74.1935483871%,23.0
+5:U-turn,25.8064516129%,8.0
+6:Helping Hand,19.3548387097%,6.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,35.4838709677%,11.0
+2:Focus Sash,25.8064516129%,8.0
+3:Air Balloon,19.3548387097%,6.0
+4:Mental Herb,19.3548387097%,6.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,61.2903225806%,19.0
+2:Pickup,38.7096774194%,12.0
+
+ ---------- 
+Natures used:
+1:Impish,51.6129032258%,16.0
+2:Jolly,25.8064516129%,8.0
+3:Careful,19.3548387097%,6.0
+4:Calm,3.22580645161%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Kyogre
+4:Talonflame
+5:Kangaskhan
+6:Smeargle
+7:Ditto
+8:Blastoise
+9:Crobat
+10:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,26.9230769231%,8.34615384615
+2:Precipice Blades,11.5384615385%,3.57692307692
+3:Moonblast,7.69230769231%,2.38461538462
+4:Double-Edge,7.69230769231%,2.38461538462
+5:Dragon Ascent,3.84615384615%,1.19230769231
+6:Iron Head,3.84615384615%,1.19230769231
+7:Earth Power,3.84615384615%,1.19230769231
+8:Seed Bomb,3.84615384615%,1.19230769231
+9:Gyro Ball,3.84615384615%,1.19230769231
+10:Volt Tackle,3.84615384615%,1.19230769231
+11:Eruption,3.84615384615%,1.19230769231
+12:Knock Off,3.84615384615%,1.19230769231
+13:Return,3.84615384615%,1.19230769231
+14:Sludge Bomb,3.84615384615%,1.19230769231
+15:Explosion,3.84615384615%,1.19230769231
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Ferrothorn
+5:Xerneas
+6:Landorus
+7:Whimsicott
+8:Rayquaza
+9:Mawile
+10:Gengar
+11:Raichu

@@ -1,0 +1,41 @@
+186:Zygarde|1
+ ---------- 
+Moves used:
+1:Land's Wrath,100.0%,1.0
+2:Dragon Dance,100.0%,1.0
+3:Extreme Speed,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Aura Break,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Thundurus
+2:Groudon
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Extreme Speed,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Claw,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Garchomp

@@ -1,0 +1,54 @@
+285:Golbat|4
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,4.0
+2:Super Fang,100.0%,4.0
+3:Quick Guard,50.0%,2.0
+4:Roost,50.0%,2.0
+5:Snatch,50.0%,2.0
+6:Taunt,25.0%,1.0
+7:Protect,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,50.0%,2.0
+2:Jolly,25.0%,1.0
+3:Impish,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Talonflame
+3:Rayquaza
+4:Xerneas
+5:Palkia
+6:Groudon
+7:Mawile
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,1.0
+2:Origin Pulse,25.0%,1.0
+3:Gyro Ball,25.0%,1.0
+4:Water Spout,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Ferrothorn
+3:Groudon

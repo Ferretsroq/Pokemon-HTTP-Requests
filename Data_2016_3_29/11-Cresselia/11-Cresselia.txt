@@ -1,0 +1,164 @@
+11:Cresselia|6836
+ ---------- 
+Moves used:
+1:Trick Room,92.7881802224%,6343.0
+2:Skill Swap,69.8069046226%,4772.0
+3:Ice Beam,68.958455237%,4714.0
+4:Helping Hand,58.4698654184%,3997.0
+5:Gravity,45.479812756%,3109.0
+6:Magic Coat,14.4528964307%,988.0
+7:Psychic,12.2440023406%,837.0
+8:Icy Wind,11.2346401404%,768.0
+9:Safeguard,6.17320070217%,422.0
+10:Thunder Wave,5.95377413692%,407.0
+11:Swagger,4.05207723815%,277.0
+12:Moonlight,2.89643066121%,198.0
+13:Psyshock,1.85781158572%,127.0
+14:Protect,1.60912814511%,110.0
+15:Lunar Dance,0.863077823288%,59.0
+16:Reflect,0.658279695728%,45.0
+17:Grass Knot,0.599765944997%,41.0
+18:Light Screen,0.555880631949%,38.0
+19:Moonblast,0.541252194266%,37.0
+20:Calm Mind,0.351082504389%,24.0
+0:Other,0.453481568169%,31.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,45.1433586893%,3086.0
+2:Mental Herb,41.1790520772%,2815.0
+3:Lum Berry,9.09888823874%,622.0
+4:Leftovers,2.19426565243%,150.0
+5:Rocky Helmet,1.93095377414%,132.0
+6:Chesto Berry,0.234055002926%,16.0
+7:Maranga Berry,0.0292568753657%,2.0
+8:Light Clay,0.0292568753657%,2.0
+9:Lucky Egg,0.0292568753657%,2.0
+10:Choice Band,0.0292568753657%,2.0
+11:Kee Berry,0.0146284376829%,1.0
+12:Assault Vest,0.0146284376829%,1.0
+13:Weakness Policy,0.0146284376829%,1.0
+14:Power Anklet,0.0146284376829%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,6836.0
+
+ ---------- 
+Natures used:
+1:Sassy,62.1854885898%,4251.0
+2:Bold,15.3744880047%,1051.0
+3:Relaxed,14.3066120538%,978.0
+4:Calm,4.16910473961%,285.0
+5:Modest,1.34581626682%,92.0
+6:Timid,0.965476887068%,66.0
+7:Quiet,0.92159157402%,63.0
+8:Careful,0.380339379754%,26.0
+9:Lax,0.20479812756%,14.0
+10:Serious,0.0731421884143%,5.0
+11:Mild,0.0438853130486%,3.0
+12:Impish,0.0292568753657%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Mawile
+7:Talonflame
+8:Smeargle
+9:Ferrothorn
+10:Rayquaza
+11:Yveltal
+12:Thundurus
+13:Dialga
+14:Landorus
+15:Amoonguss
+16:Gengar
+17:Crobat
+18:Weavile
+19:Palkia
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,75.9493670886%,5191.89873418
+2:Psychic,12.8580946036%,878.979347102
+3:Icy Wind,9.127248501%,623.938707528
+4:Psyshock,1.26582278481%,86.5316455696
+5:Moonblast,0.333111259161%,22.7714856762
+6:Grass Knot,0.266489007328%,18.217188541
+7:Struggle,0.133244503664%,9.10859427049
+8:Hidden Power,0.0666222518321%,4.55429713524
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,10.5450236967%,720.857819905
+2:Dazzling Gleam,8.85663507109%,605.43957346
+3:Precipice Blades,7.58293838863%,518.369668246
+4:Eruption,7.43483412322%,508.245260664
+5:Origin Pulse,6.16113744076%,421.17535545
+6:Double-Edge,5.92417061611%,404.976303318
+7:Moonblast,5.68720379147%,388.777251185
+8:Dragon Ascent,4.17654028436%,285.508293839
+9:Fire Punch,3.22867298578%,220.712085308
+10:Ice Beam,3.16943127962%,216.662322275
+11:Hyper Voice,2.48815165877%,170.090047393
+12:Knock Off,2.31042654028%,157.940758294
+13:Brave Bird,2.16232227488%,147.816350711
+14:Extreme Speed,2.1327014218%,145.791469194
+15:Shadow Ball,1.74763033175%,119.468009479
+16:Return,1.39218009479%,95.1694312796
+17:Rock Slide,1.39218009479%,95.1694312796
+18:Scald,1.36255924171%,93.144549763
+19:Sucker Punch,1.0663507109%,72.8957345972
+20:Dragon Pulse,0.977488151659%,66.8210900474
+0:Other,17.1800947867%,1174.43127962
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Smeargle
+3:Groudon
+4:Landorus
+5:Thundurus
+6:Rayquaza
+7:Kangaskhan
+8:Crobat
+9:Rayquaza
+10:Talonflame
+11:Whimsicott
+12:Kyogre
+13:Gengar
+14:Xerneas
+15:Liepard
+16:Amoonguss
+17:Yveltal
+18:Dialga
+19:Ferrothorn
+20:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Talonflame
+8:Yveltal
+9:Landorus
+10:Mawile
+11:Ferrothorn
+12:Rayquaza
+13:Dialga
+14:Gengar
+15:Kyurem
+16:Thundurus
+17:Weavile
+18:Gengar
+19:Aegislash
+20:Kyogre

@@ -1,0 +1,58 @@
+185:Slowking|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Flamethrower,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Groudon
+3:Altaria
+4:Kyogre
+5:Cradily
+6:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,50.0%,0.5
+2:Flamethrower,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,0.166666666667
+2:Grass Knot,16.6666666667%,0.166666666667
+3:Power Whip,16.6666666667%,0.166666666667
+4:Dark Pulse,16.6666666667%,0.166666666667
+5:Sucker Punch,16.6666666667%,0.166666666667
+6:Earthquake,16.6666666667%,0.166666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Groudon
+3:Entei
+4:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Landorus
+4:Ferrothorn
+5:Amoonguss
+6:Kangaskhan

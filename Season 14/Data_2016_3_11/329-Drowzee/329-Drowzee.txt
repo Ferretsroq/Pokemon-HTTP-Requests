@@ -1,0 +1,43 @@
+329:Drowzee|1
+ ---------- 
+Moves used:
+1:Foul Play,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Disable,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Everstone,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,66.6666666667%,0.666666666667
+2:Dark Pulse,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Aegislash
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal

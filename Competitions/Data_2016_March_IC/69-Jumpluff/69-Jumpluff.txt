@@ -1,0 +1,91 @@
+69:Jumpluff|8
+ ---------- 
+Moves used:
+1:Encore,100.0%,8.0
+2:Sleep Powder,100.0%,8.0
+3:Rage Powder,87.5%,7.0
+4:Protect,87.5%,7.0
+5:Grass Knot,12.5%,1.0
+6:Helping Hand,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,75.0%,6.0
+2:Wide Lens,25.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Cresselia
+4:Salamence
+5:Mawile
+6:Yveltal
+7:Xerneas
+8:Talonflame
+9:Thundurus
+10:Meowstic
+11:Kyurem
+12:Hydreigon
+13:Bisharp
+14:Palkia
+15:Dialga
+16:Scizor
+17:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,13.1147540984%,1.04918032787
+2:Double-Edge,13.1147540984%,1.04918032787
+3:Eruption,11.4754098361%,0.918032786885
+4:Ice Beam,9.83606557377%,0.786885245902
+5:Dazzling Gleam,8.19672131148%,0.655737704918
+6:Water Spout,6.55737704918%,0.524590163934
+7:Brave Bird,4.91803278689%,0.393442622951
+8:Fire Punch,4.91803278689%,0.393442622951
+9:Precipice Blades,3.27868852459%,0.262295081967
+10:Snarl,3.27868852459%,0.262295081967
+11:Gyro Ball,3.27868852459%,0.262295081967
+12:Dragon Ascent,1.6393442623%,0.131147540984
+13:Oblivion Wing,1.6393442623%,0.131147540984
+14:Icicle Crash,1.6393442623%,0.131147540984
+15:Iron Head,1.6393442623%,0.131147540984
+16:Overheat,1.6393442623%,0.131147540984
+17:Frustration,1.6393442623%,0.131147540984
+18:Return,1.6393442623%,0.131147540984
+19:Sleep Talk,1.6393442623%,0.131147540984
+20:Icy Wind,1.6393442623%,0.131147540984
+0:Other,3.27868852459%,0.262295081967
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Salamence
+5:Xerneas
+6:Talonflame
+7:Yveltal
+8:Bronzong
+9:Bisharp
+10:Musharna
+11:Cresselia
+12:Weavile
+13:Rayquaza
+14:Swampert
+15:Ditto
+16:Gengar

@@ -1,0 +1,70 @@
+279:Kingler|9
+ ---------- 
+Moves used:
+1:Crabhammer,100.0%,9.0
+2:Ally Switch,88.8888888889%,8.0
+3:Wide Guard,88.8888888889%,8.0
+4:Protect,55.5555555556%,5.0
+5:Superpower,44.4444444444%,4.0
+6:Knock Off,11.1111111111%,1.0
+7:Rock Slide,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Focus Band,44.4444444444%,4.0
+2:Expert Belt,33.3333333333%,3.0
+3:Choice Scarf,11.1111111111%,1.0
+4:Sitrus Berry,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Shell Armor,55.5555555556%,5.0
+2:Hyper Cutter,44.4444444444%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,9.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Gengar
+4:Xerneas
+5:Infernape
+6:Kangaskhan
+7:Sylveon
+8:Talonflame
+9:Amoonguss
+10:Palkia
+11:Weavile
+12:Crobat
+13:Aerodactyl
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Crabhammer,50.0%,4.5
+2:Superpower,25.0%,2.25
+3:Rock Slide,25.0%,2.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,16.6666666667%,1.5
+2:Hyper Voice,16.6666666667%,1.5
+3:Eruption,16.6666666667%,1.5
+4:Thunder,16.6666666667%,1.5
+5:Ice Beam,16.6666666667%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Groudon
+3:Mawile
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Salamence

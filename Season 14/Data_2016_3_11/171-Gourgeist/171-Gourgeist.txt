@@ -1,0 +1,104 @@
+171:Gourgeist|68
+ ---------- 
+Moves used:
+1:Destiny Bond,100.0%,68.0
+2:Trick-or-Treat,86.7647058824%,59.0
+3:Seed Bomb,86.7647058824%,59.0
+4:Trick,86.7647058824%,59.0
+5:Trick Room,13.2352941176%,9.0
+6:Worry Seed,13.2352941176%,9.0
+7:Protect,7.35294117647%,5.0
+8:Will-O-Wisp,4.41176470588%,3.0
+9:Rock Slide,1.47058823529%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,86.7647058824%,59.0
+2:Coba Berry,13.2352941176%,9.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,100.0%,68.0
+
+ ---------- 
+Natures used:
+1:Jolly,86.7647058824%,59.0
+2:Sassy,13.2352941176%,9.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Giratina
+3:Sableye
+4:Dialga
+5:Kyogre
+6:Chandelure
+7:Kangaskhan
+8:Aegislash
+9:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,60.0%,40.8
+2:Seed Bomb,40.0%,27.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,21.0526315789%,14.3157894737
+2:Dazzling Gleam,12.2807017544%,8.35087719298
+3:Hyper Voice,10.5263157895%,7.15789473684
+4:Ice Beam,8.77192982456%,5.9649122807
+5:Dragon Ascent,3.50877192982%,2.38596491228
+6:Oblivion Wing,3.50877192982%,2.38596491228
+7:Moonblast,3.50877192982%,2.38596491228
+8:Snarl,3.50877192982%,2.38596491228
+9:Brave Bird,3.50877192982%,2.38596491228
+10:Overheat,3.50877192982%,2.38596491228
+11:Knock Off,3.50877192982%,2.38596491228
+12:Heat Wave,3.50877192982%,2.38596491228
+13:Flamethrower,3.50877192982%,2.38596491228
+14:Origin Pulse,1.75438596491%,1.19298245614
+15:Icicle Crash,1.75438596491%,1.19298245614
+16:Spacial Rend,1.75438596491%,1.19298245614
+17:Dark Pulse,1.75438596491%,1.19298245614
+18:Water Spout,1.75438596491%,1.19298245614
+19:Sacred Fire,1.75438596491%,1.19298245614
+20:Sludge Bomb,1.75438596491%,1.19298245614
+0:Other,3.50877192982%,2.38596491228
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Smeargle
+4:Yveltal
+5:Kyogre
+6:Weavile
+7:Rayquaza
+8:Xerneas
+9:Hydreigon
+10:Scrafty
+11:Liepard
+12:Crobat
+13:Mewtwo
+14:Kangaskhan
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Yveltal
+5:Kyogre
+6:Rayquaza
+7:Ho-Oh
+8:Talonflame
+9:Hydreigon
+10:Heatran
+11:Palkia
+12:Weavile
+13:Rayquaza
+14:Mewtwo
+15:Gengar
+16:Charizard

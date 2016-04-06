@@ -1,0 +1,124 @@
+119:Aron|198
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,198.0
+2:Protect,100.0%,198.0
+3:Toxic,47.9797979798%,95.0
+4:Sandstorm,46.9696969697%,93.0
+5:Swagger,29.2929292929%,58.0
+6:Aerial Ace,16.1616161616%,32.0
+7:Rock Tomb,15.6565656566%,31.0
+8:Sleep Talk,15.6565656566%,31.0
+9:Roar,9.09090909091%,18.0
+10:Stealth Rock,7.57575757576%,15.0
+11:Tackle,5.55555555556%,11.0
+12:Mud-Slap,2.0202020202%,4.0
+13:Earth Power,1.0101010101%,2.0
+14:Rock Slide,1.0101010101%,2.0
+
+ ---------- 
+Items used:
+1:Berry Juice,57.5757575758%,114.0
+2:Shell Bell,42.4242424242%,84.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,198.0
+
+ ---------- 
+Natures used:
+1:Timid,26.7676767677%,53.0
+2:Adamant,15.1515151515%,30.0
+3:Careful,10.101010101%,20.0
+4:Lonely,9.09090909091%,18.0
+5:Brave,8.58585858586%,17.0
+6:Jolly,8.08080808081%,16.0
+7:Naughty,5.55555555556%,11.0
+8:Modest,5.05050505051%,10.0
+9:Quirky,4.54545454545%,9.0
+10:Quiet,3.0303030303%,6.0
+11:Docile,2.0202020202%,4.0
+12:Relaxed,1.51515151515%,3.0
+13:Calm,0.505050505051%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Xerneas
+4:Infernape
+5:Liepard
+6:Talonflame
+7:Kangaskhan
+8:Smeargle
+9:Meowstic
+10:Palkia
+11:Dialga
+12:Mawile
+13:Kyogre
+14:Raichu
+15:Yveltal
+16:Porygon2
+17:Mewtwo
+18:Zapdos
+19:Aromatisse
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aerial Ace,75.0%,148.5
+2:Tackle,25.0%,49.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.6870229008%,21.1603053435
+2:Ice Beam,7.63358778626%,15.1145038168
+3:Water Spout,6.87022900763%,13.6030534351
+4:Hyper Voice,6.87022900763%,13.6030534351
+5:Eruption,5.34351145038%,10.5801526718
+6:Precipice Blades,3.81679389313%,7.5572519084
+7:Fake Out,3.81679389313%,7.5572519084
+8:Origin Pulse,3.0534351145%,6.04580152672
+9:Moonblast,3.0534351145%,6.04580152672
+10:Extreme Speed,3.0534351145%,6.04580152672
+11:Low Kick,3.0534351145%,6.04580152672
+12:Power-Up Punch,2.29007633588%,4.53435114504
+13:Earth Power,2.29007633588%,4.53435114504
+14:Rock Slide,2.29007633588%,4.53435114504
+15:Double-Edge,2.29007633588%,4.53435114504
+16:Scald,1.52671755725%,3.02290076336
+17:Foul Play,1.52671755725%,3.02290076336
+18:Brave Bird,1.52671755725%,3.02290076336
+19:Flare Blitz,1.52671755725%,3.02290076336
+20:Sucker Punch,1.52671755725%,3.02290076336
+0:Other,18.320610687%,36.2748091603
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Kyogre
+4:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Salamence
+6:Talonflame
+7:Cresselia
+8:Ferrothorn
+9:Whimsicott
+10:Rayquaza
+11:Yveltal
+12:Liepard
+13:Weavile
+14:Rayquaza
+15:Mawile
+16:Crobat
+17:Sylveon
+18:Aegislash
+19:Kyurem
+20:Landorus

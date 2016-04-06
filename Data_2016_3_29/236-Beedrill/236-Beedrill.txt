@@ -1,0 +1,42 @@
+236:Beedrill|1
+ ---------- 
+Moves used:
+1:Fell Stinger,100.0%,1.0
+2:Poison Jab,100.0%,1.0
+3:Brick Break,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Beedrillite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swarm,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mismagius
+2:Kyogre
+3:Hydreigon
+4:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fell Stinger,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn

@@ -1,0 +1,166 @@
+24:Raichu|1669
+ ---------- 
+Moves used:
+1:Fake Out,98.3223487118%,1641.0
+2:Volt Tackle,73.037747154%,1219.0
+3:Feint,69.0233672858%,1152.0
+4:Nuzzle,61.1743559017%,1021.0
+5:Encore,32.7741162373%,547.0
+6:Protect,16.237267825%,271.0
+7:Thunderbolt,11.7435590174%,196.0
+8:Volt Switch,7.30976632714%,122.0
+9:Helping Hand,6.83043738766%,114.0
+10:Hidden Power,4.91312162972%,82.0
+11:Thunder Wave,4.07429598562%,68.0
+12:Fling,2.93588975434%,49.0
+13:Endeavor,2.51647693229%,42.0
+14:Teeter Dance,1.61773517076%,27.0
+15:Swagger,1.61773517076%,27.0
+16:Charm,1.25823846615%,21.0
+17:Thunder Punch,1.13840623128%,19.0
+18:Knock Off,1.07849011384%,18.0
+19:Discharge,0.718993409227%,12.0
+20:Electroweb,0.659077291791%,11.0
+0:Other,1.01857399641%,17.0
+
+ ---------- 
+Items used:
+1:Focus Sash,32.5344517675%,543.0
+2:Zap Plate,29.4787297783%,492.0
+3:Assault Vest,9.58657878969%,160.0
+4:Magnet,5.27261833433%,88.0
+5:Air Balloon,5.2127022169%,87.0
+6:Life Orb,4.67345715998%,78.0
+7:Lum Berry,3.65488316357%,61.0
+8:Lansat Berry,2.15698022768%,36.0
+9:Lax Incense,1.61773517076%,27.0
+10:Expert Belt,1.37807070102%,23.0
+11:Light Ball,1.01857399641%,17.0
+12:King's Rock,0.778909526663%,13.0
+13:Sitrus Berry,0.778909526663%,13.0
+14:Chesto Berry,0.718993409227%,12.0
+15:Quick Claw,0.599161174356%,10.0
+16:Sky Plate,0.239664469742%,4.0
+17:Lucky Egg,0.119832234871%,2.0
+18:Mental Herb,0.119832234871%,2.0
+19:Bright Powder,0.0599161174356%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,91.9712402636%,1535.0
+2:Static,8.02875973637%,134.0
+
+ ---------- 
+Natures used:
+1:Jolly,72.3187537448%,1207.0
+2:Timid,18.6339125225%,311.0
+3:Hasty,4.61354104254%,77.0
+4:Naive,3.05572198922%,51.0
+5:Adamant,1.37807070102%,23.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Salamence
+5:Groudon
+6:Talonflame
+7:Gengar
+8:Landorus
+9:Kangaskhan
+10:Ferrothorn
+11:Yveltal
+12:Smeargle
+13:Mawile
+14:Crobat
+15:Amoonguss
+16:Ho-Oh
+17:Lugia
+18:Scizor
+19:Dialga
+20:Milotic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,63.8157894737%,1065.08552632
+2:Feint,15.1315789474%,252.546052632
+3:Thunderbolt,8.77192982456%,146.403508772
+4:Nuzzle,4.16666666667%,69.5416666667
+5:Fake Out,3.0701754386%,51.2412280702
+6:Volt Switch,2.19298245614%,36.600877193
+7:Hidden Power,1.31578947368%,21.9605263158
+8:Thunder Punch,0.657894736842%,10.9802631579
+9:Knock Off,0.438596491228%,7.3201754386
+10:Discharge,0.219298245614%,3.6600877193
+11:Thunder,0.219298245614%,3.6600877193
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.4134542706%,190.490551776
+2:Precipice Blades,10.2040816327%,170.306122449
+3:Water Spout,8.69236583522%,145.07558579
+4:Double-Edge,8.23885109599%,137.506424792
+5:Eruption,4.00604686319%,66.8609221466
+6:Origin Pulse,3.85487528345%,64.3378684807
+7:Sucker Punch,3.02343159486%,50.4610733182
+8:Extreme Speed,3.02343159486%,50.4610733182
+9:Rock Slide,2.87226001512%,47.9380196523
+10:Hyper Voice,2.56991685563%,42.8919123205
+11:Return,2.56991685563%,42.8919123205
+12:Earth Power,2.04081632653%,34.0612244898
+13:Ice Beam,1.88964474679%,31.5381708239
+14:Sludge Bomb,1.81405895692%,30.2766439909
+15:Knock Off,1.43613000756%,23.9690098262
+16:Moonblast,1.28495842782%,21.4459561602
+17:Brave Bird,1.28495842782%,21.4459561602
+18:Draco Meteor,1.13378684807%,18.9229024943
+19:Earthquake,1.13378684807%,18.9229024943
+20:Fire Punch,1.13378684807%,18.9229024943
+0:Other,17.5359032502%,292.674225246
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kyogre
+3:Crobat
+4:Smeargle
+5:Kangaskhan
+6:Yveltal
+7:Xerneas
+8:Thundurus
+9:Salamence
+10:Gengar
+11:Weavile
+12:Rayquaza
+13:Groudon
+14:Liepard
+15:Cresselia
+16:Kyogre
+17:Mawile
+18:Togekiss
+19:Meowstic
+20:Landorus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Rayquaza
+7:Landorus
+8:Talonflame
+9:Ferrothorn
+10:Yveltal
+11:Kyogre
+12:Mawile
+13:Dialga
+14:Weavile
+15:Kyurem
+16:Rayquaza
+17:Gengar
+18:Gengar
+19:Cresselia
+20:Thundurus

@@ -1,0 +1,44 @@
+317:Avalugg|3
+ ---------- 
+Moves used:
+1:Gyro Ball,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Ice Fang,66.6666666667%,2.0
+4:Rock Slide,66.6666666667%,2.0
+5:Stone Edge,33.3333333333%,1.0
+6:Ice Beam,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Own Tempo,66.6666666667%,2.0
+2:Sturdy,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Sunflora
+3:Gengar
+4:Rayquaza
+5:Breloom
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

@@ -1,0 +1,39 @@
+91:Exeggutor|1
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,1.0
+2:Gravity,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Sleep Powder,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Kyurem
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Overheat,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

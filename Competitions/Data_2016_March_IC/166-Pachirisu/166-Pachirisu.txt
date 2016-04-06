@@ -1,0 +1,43 @@
+166:Pachirisu|1
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,1.0
+2:Follow Me,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Super Fang,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Giratina
+2:Lucario
+3:Kyogre
+4:Zapdos
+5:Gyarados
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,50.0%,0.5
+2:Return,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan

@@ -1,0 +1,50 @@
+213:Kingdra|3
+ ---------- 
+Moves used:
+1:Protect,100.0%,3.0
+2:Scald,66.6666666667%,2.0
+3:Dragon Pulse,66.6666666667%,2.0
+4:Ice Beam,66.6666666667%,2.0
+5:Draco Meteor,33.3333333333%,1.0
+6:Surf,33.3333333333%,1.0
+7:Hydro Pump,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,66.6666666667%,2.0
+2:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Ferrothorn
+2:Liepard
+3:Groudon
+4:Amoonguss
+5:Metagross
+6:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,33.3333333333%,1.0
+2:Power Whip,33.3333333333%,1.0
+3:Dragon Pulse,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Dialga
+3:Rayquaza

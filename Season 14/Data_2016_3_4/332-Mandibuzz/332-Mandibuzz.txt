@@ -1,0 +1,37 @@
+332:Mandibuzz|1
+ ---------- 
+Moves used:
+1:Foul Play,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Roost,100.0%,1.0
+4:Knock Off,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Overcoat,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Thundurus
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

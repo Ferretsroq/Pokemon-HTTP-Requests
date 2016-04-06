@@ -1,0 +1,65 @@
+276:Slurpuff|4
+ ---------- 
+Moves used:
+1:Dazzling Gleam,75.0%,3.0
+2:After You,50.0%,2.0
+3:Gastro Acid,50.0%,2.0
+4:Protect,50.0%,2.0
+5:Cotton Spore,50.0%,2.0
+6:Confide,25.0%,1.0
+7:Play Rough,25.0%,1.0
+8:Drain Punch,25.0%,1.0
+9:Helping Hand,25.0%,1.0
+10:Belly Drum,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,50.0%,2.0
+2:Leftovers,25.0%,1.0
+3:Sitrus Berry,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sweet Veil,75.0%,3.0
+2:Unburden,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,50.0%,2.0
+2:Calm,25.0%,1.0
+3:Adamant,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Groudon
+3:Zygarde
+4:Xerneas
+5:Aegislash
+6:Talonflame
+7:Amoonguss
+8:Kyogre
+9:Mewtwo
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Iron Head,25.0%,1.0
+2:Water Spout,25.0%,1.0
+3:Eruption,25.0%,1.0
+4:Double-Edge,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Breloom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Kangaskhan

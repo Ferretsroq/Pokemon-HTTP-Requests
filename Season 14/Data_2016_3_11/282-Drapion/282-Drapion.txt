@@ -1,0 +1,63 @@
+282:Drapion|8
+ ---------- 
+Moves used:
+1:Cross Poison,75.0%,6.0
+2:Night Slash,75.0%,6.0
+3:Protect,75.0%,6.0
+4:Knock Off,62.5%,5.0
+5:Earthquake,62.5%,5.0
+6:Poison Jab,25.0%,2.0
+7:Taunt,25.0%,2.0
+
+ ---------- 
+Items used:
+1:Razor Claw,50.0%,4.0
+2:Scope Lens,50.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Sniper,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Togekiss
+4:Raichu
+5:Aromatisse
+6:Gallade
+7:Mawile
+8:Groudon
+9:Aggron
+10:Ho-Oh
+11:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,50.0%,4.0
+2:Earthquake,50.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,1.6
+2:Moonblast,20.0%,1.6
+3:Spacial Rend,20.0%,1.6
+4:Water Spout,20.0%,1.6
+5:Rock Slide,20.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Pachirisu
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Palkia
+4:Groudon
+5:Kyogre

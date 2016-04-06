@@ -1,0 +1,94 @@
+119:Probopass|139
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,139.0
+2:Protect,84.8920863309%,118.0
+3:Volt Switch,80.5755395683%,112.0
+4:Magnet Bomb,59.7122302158%,83.0
+5:Flash Cannon,20.8633093525%,29.0
+6:Magic Coat,19.4244604317%,27.0
+7:Pain Split,19.4244604317%,27.0
+8:Taunt,15.1079136691%,21.0
+
+ ---------- 
+Items used:
+1:Eject Button,76.9784172662%,107.0
+2:Berry Juice,19.4244604317%,27.0
+3:Sitrus Berry,3.59712230216%,5.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,139.0
+
+ ---------- 
+Natures used:
+1:Calm,59.7122302158%,83.0
+2:Bold,20.8633093525%,29.0
+3:Relaxed,19.4244604317%,27.0
+
+ ---------- 
+Top teammates:
+1:Sableye
+2:Murkrow
+3:Gengar
+4:Groudon
+5:Carbink
+6:Venusaur
+7:Aurorus
+8:Giratina
+9:Kyogre
+10:Xerneas
+11:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,14.2857142857%,19.8571428571
+2:Power-Up Punch,8.92857142857%,12.4107142857
+3:Precipice Blades,5.35714285714%,7.44642857143
+4:Origin Pulse,5.35714285714%,7.44642857143
+5:Fake Out,5.35714285714%,7.44642857143
+6:Fire Punch,5.35714285714%,7.44642857143
+7:Dazzling Gleam,3.57142857143%,4.96428571429
+8:Earth Power,3.57142857143%,4.96428571429
+9:Brave Bird,3.57142857143%,4.96428571429
+10:Flare Blitz,3.57142857143%,4.96428571429
+11:Moonblast,1.78571428571%,2.48214285714
+12:Hex,1.78571428571%,2.48214285714
+13:Iron Head,1.78571428571%,2.48214285714
+14:Power Whip,1.78571428571%,2.48214285714
+15:Draco Meteor,1.78571428571%,2.48214285714
+16:Flash Cannon,1.78571428571%,2.48214285714
+17:Bullet Punch,1.78571428571%,2.48214285714
+18:Air Slash,1.78571428571%,2.48214285714
+19:Gyro Ball,1.78571428571%,2.48214285714
+20:Water Spout,1.78571428571%,2.48214285714
+0:Other,16.0714285714%,22.3392857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Xerneas
+6:Ferrothorn
+7:Sylveon
+8:Kyurem
+9:Landorus
+10:Mienshao
+11:Whimsicott
+12:Liepard
+13:Dialga
+14:Togekiss
+15:Weavile
+16:Rayquaza
+17:Metagross
+18:Salamence
+19:Mawile
+20:Ho-Oh

@@ -1,0 +1,73 @@
+179:Machoke|1
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,1.0
+2:Bullet Punch,100.0%,1.0
+3:Encore,100.0%,1.0
+4:Dynamic Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Scolipede
+2:Smeargle
+3:Parasect
+4:Ariados
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dynamic Punch,71.4285714286%,0.714285714286
+2:Bullet Punch,28.5714285714%,0.285714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,0.166666666667
+2:Return,11.1111111111%,0.111111111111
+3:Double-Edge,11.1111111111%,0.111111111111
+4:Dragon Ascent,5.55555555556%,0.0555555555556
+5:Origin Pulse,5.55555555556%,0.0555555555556
+6:Oblivion Wing,5.55555555556%,0.0555555555556
+7:Psystrike,5.55555555556%,0.0555555555556
+8:Draco Meteor,5.55555555556%,0.0555555555556
+9:Flash Cannon,5.55555555556%,0.0555555555556
+10:Close Combat,5.55555555556%,0.0555555555556
+11:Water Spout,5.55555555556%,0.0555555555556
+12:Eruption,5.55555555556%,0.0555555555556
+13:Frustration,5.55555555556%,0.0555555555556
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+3:Greninja
+4:Lilligant
+5:Whimsicott
+6:Liepard
+7:Weavile
+8:Kyogre
+9:Salamence
+10:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Kyogre
+4:Yveltal
+5:Terrakion
+6:Giratina
+7:Magnezone
+8:Rayquaza
+9:Groudon
+10:Mewtwo

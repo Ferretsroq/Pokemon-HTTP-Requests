@@ -1,0 +1,100 @@
+203:Cradily|33
+ ---------- 
+Moves used:
+1:Ancient Power,78.7878787879%,26.0
+2:Giga Drain,60.6060606061%,20.0
+3:Earth Power,48.4848484848%,16.0
+4:Protect,48.4848484848%,16.0
+5:Recover,48.4848484848%,16.0
+6:Grass Knot,39.3939393939%,13.0
+7:Mirror Coat,30.303030303%,10.0
+8:Stockpile,21.2121212121%,7.0
+9:Rock Slide,6.06060606061%,2.0
+10:Toxic,6.06060606061%,2.0
+11:Infestation,3.0303030303%,1.0
+12:Stone Edge,3.0303030303%,1.0
+13:Gastro Acid,3.0303030303%,1.0
+14:Hidden Power,3.0303030303%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,39.3939393939%,13.0
+2:Sitrus Berry,39.3939393939%,13.0
+3:Leftovers,12.1212121212%,4.0
+4:Lum Berry,6.06060606061%,2.0
+5:Assault Vest,3.0303030303%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,33.0
+
+ ---------- 
+Natures used:
+1:Modest,72.7272727273%,24.0
+2:Sassy,12.1212121212%,4.0
+3:Calm,12.1212121212%,4.0
+4:Bold,3.0303030303%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Liepard
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Kyogre
+8:Houndoom
+9:Greninja
+10:Smeargle
+11:Yveltal
+12:Meowstic
+13:Kyurem
+14:Whimsicott
+15:Cresselia
+16:Weavile
+17:Lucario
+18:Salamence
+19:Sableye
+20:Azumarill
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Giga Drain,35.7142857143%,11.7857142857
+2:Grass Knot,28.5714285714%,9.42857142857
+3:Ancient Power,21.4285714286%,7.07142857143
+4:Earth Power,14.2857142857%,4.71428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,37.5%,12.375
+2:Low Kick,18.75%,6.1875
+3:Precipice Blades,12.5%,4.125
+4:Iron Head,12.5%,4.125
+5:Dazzling Gleam,6.25%,2.0625
+6:Bullet Punch,6.25%,2.0625
+7:Knock Off,6.25%,2.0625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Ferrothorn
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Smeargle
+7:Crobat
+8:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Aegislash
+5:Cresselia
+6:Weavile
+7:Garchomp
+8:Groudon
+9:Scizor
+10:Ditto

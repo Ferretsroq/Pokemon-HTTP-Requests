@@ -1,0 +1,53 @@
+187:Jynx|6
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,6.0
+2:Skill Swap,83.3333333333%,5.0
+3:Lovely Kiss,83.3333333333%,5.0
+4:Ice Beam,83.3333333333%,5.0
+5:Wish,16.6666666667%,1.0
+6:Role Play,16.6666666667%,1.0
+7:Taunt,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,83.3333333333%,5.0
+2:Oblivious,16.6666666667%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Dialga
+3:Amoonguss
+4:Salamence
+5:Mawile
+6:Landorus
+7:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,25.0%,1.5
+2:Hyper Voice,25.0%,1.5
+3:Giga Drain,25.0%,1.5
+4:Earthquake,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Landorus
+3:Amoonguss
+4:Salamence

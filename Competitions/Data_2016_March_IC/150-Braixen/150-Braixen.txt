@@ -1,0 +1,43 @@
+150:Braixen|1
+ ---------- 
+Moves used:
+1:Magic Coat,100.0%,1.0
+2:Will-O-Wisp,100.0%,1.0
+3:Hypnosis,100.0%,1.0
+4:Fire Spin,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Blaze,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Pancham
+3:Cresselia
+4:Groudon
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fire Spin,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

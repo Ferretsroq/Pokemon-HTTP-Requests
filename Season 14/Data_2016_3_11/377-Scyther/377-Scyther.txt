@@ -1,0 +1,36 @@
+377:Scyther|1
+ ---------- 
+Moves used:
+1:Bug Bite,100.0%,1.0
+2:Roost,100.0%,1.0
+3:Aerial Ace,100.0%,1.0
+4:Quick Attack,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Aerodactyl
+2:Starmie
+3:Machamp
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

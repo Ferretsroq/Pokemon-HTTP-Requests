@@ -1,0 +1,168 @@
+38:Infernape|3032
+ ---------- 
+Moves used:
+1:Fake Out,93.7664907652%,2843.0
+2:Close Combat,88.1266490765%,2672.0
+3:Quick Guard,48.1530343008%,1460.0
+4:Overheat,46.3720316623%,1406.0
+5:Feint,25.4947229551%,773.0
+6:Flare Blitz,15.6992084433%,476.0
+7:Encore,12.3350923483%,374.0
+8:Endeavor,7.98153034301%,242.0
+9:Heat Wave,7.81662269129%,237.0
+10:Mach Punch,7.68469656992%,233.0
+11:Taunt,7.65171503958%,232.0
+12:Protect,7.2889182058%,221.0
+13:Fire Punch,5.2110817942%,158.0
+14:Roar,3.72691292876%,113.0
+15:Role Play,3.62796833773%,110.0
+16:Rock Slide,3.56200527704%,108.0
+17:Hidden Power,3.39709762533%,103.0
+18:Thunder Punch,2.3746701847%,72.0
+19:Flamethrower,1.97889182058%,60.0
+20:Grass Knot,1.68205804749%,51.0
+0:Other,6.06860158311%,184.0
+
+ ---------- 
+Items used:
+1:Focus Sash,72.6583113456%,2203.0
+2:Life Orb,18.073878628%,548.0
+3:Lum Berry,2.63852242744%,80.0
+4:Black Belt,2.24274406332%,68.0
+5:Coba Berry,2.04485488127%,62.0
+6:Expert Belt,1.08839050132%,33.0
+7:White Herb,0.527704485488%,16.0
+8:Choice Band,0.230870712401%,7.0
+9:Razor Fang,0.164907651715%,5.0
+10:Fist Plate,0.098944591029%,3.0
+11:Lax Incense,0.065963060686%,2.0
+12:Leftovers,0.065963060686%,2.0
+13:Focus Band,0.032981530343%,1.0
+
+ ---------- 
+Abilities used:
+1:Blaze,77.5395778364%,2351.0
+2:Iron Fist,22.4604221636%,681.0
+
+ ---------- 
+Natures used:
+1:Naive,43.6675461741%,1324.0
+2:Jolly,31.9920844327%,970.0
+3:Hasty,11.5105540897%,349.0
+4:Adamant,7.48680738786%,227.0
+5:Timid,4.58443271768%,139.0
+6:Mild,0.758575197889%,23.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Ferrothorn
+5:Groudon
+6:Salamence
+7:Gengar
+8:Thundurus
+9:Crobat
+10:Mawile
+11:Kangaskhan
+12:Smeargle
+13:Yveltal
+14:Cresselia
+15:Landorus
+16:Talonflame
+17:Togekiss
+18:Amoonguss
+19:Scizor
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,49.6888888889%,1506.56711111
+2:Overheat,18.3111111111%,555.192888889
+3:Feint,8.53333333333%,258.730666667
+4:Flare Blitz,6.57777777778%,199.438222222
+5:Heat Wave,4.0%,121.28
+6:Mach Punch,2.57777777778%,78.1582222222
+7:Fake Out,2.13333333333%,64.6826666667
+8:Fire Punch,1.86666666667%,56.5973333333
+9:Rock Slide,1.68888888889%,51.2071111111
+10:Hidden Power,1.15555555556%,35.0364444444
+11:Thunder Punch,0.977777777778%,29.6462222222
+12:Flamethrower,0.8%,24.256
+13:Rock Tomb,0.444444444444%,13.4755555556
+14:Stone Edge,0.355555555556%,10.7804444444
+15:Gunk Shot,0.355555555556%,10.7804444444
+16:Double Kick,0.355555555556%,10.7804444444
+17:Grass Knot,0.0888888888889%,2.69511111111
+18:Low Kick,0.0888888888889%,2.69511111111
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.8194023387%,388.684278909
+2:Precipice Blades,8.57514075357%,259.998267648
+3:Water Spout,6.88609787787%,208.786487657
+4:Hyper Voice,6.62624512776%,200.907752274
+5:Origin Pulse,6.27977479428%,190.402771763
+6:Brave Bird,5.15374621048%,156.261585102
+7:Eruption,4.67734950195%,141.817236899
+8:Double-Edge,4.41749675184%,133.938501516
+9:Earth Power,3.59462970983%,108.989172802
+10:Rock Slide,2.90168904288%,87.97921178
+11:Sucker Punch,2.42529233434%,73.5348635773
+12:Extreme Speed,2.25205716761%,68.2823733218
+13:Sludge Bomb,1.94889562581%,59.0905153746
+14:Ice Beam,1.73235166739%,52.5249025552
+15:Thunderbolt,1.6890428757%,51.2117799913
+16:Fake Out,1.34257254223%,40.7067994803
+17:Return,1.34257254223%,40.7067994803
+18:Dragon Ascent,1.25595495886%,38.0805543525
+19:Oblivion Wing,1.16933737549%,35.4543092248
+20:Moonblast,1.08271979212%,32.828064097
+0:Other,17.4534430489%,529.188393244
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Xerneas
+4:Kyogre
+5:Talonflame
+6:Ferrothorn
+7:Mawile
+8:Liepard
+9:Groudon
+10:Kangaskhan
+11:Crobat
+12:Dialga
+13:Weavile
+14:Whimsicott
+15:Amoonguss
+16:Thundurus
+17:Gengar
+18:Cresselia
+19:Yveltal
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Yveltal
+10:Thundurus
+11:Cresselia
+12:Mawile
+13:Gengar
+14:Palkia
+15:Dialga
+16:Gengar
+17:Ferrothorn
+18:Ho-Oh
+19:Weavile
+20:Rayquaza

@@ -1,0 +1,58 @@
+176:Venomoth|8
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,8.0
+2:Tailwind,100.0%,8.0
+3:Skill Swap,100.0%,8.0
+4:Protect,100.0%,8.0
+
+ ---------- 
+Items used:
+1:Focus Sash,87.5%,7.0
+2:Chesto Berry,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Tinted Lens,75.0%,6.0
+2:Shield Dust,25.0%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Rayquaza
+4:Excadrill
+5:Cresselia
+6:Groudon
+7:Ditto
+8:Xerneas
+9:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,14.2857142857%,1.14285714286
+2:Origin Pulse,14.2857142857%,1.14285714286
+3:Feint,14.2857142857%,1.14285714286
+4:Sacred Fire,14.2857142857%,1.14285714286
+5:Waterfall,14.2857142857%,1.14285714286
+6:Ice Beam,14.2857142857%,1.14285714286
+7:Double-Edge,14.2857142857%,1.14285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Weavile
+3:Rayquaza
+4:Rayquaza
+5:Ho-Oh
+6:Kangaskhan

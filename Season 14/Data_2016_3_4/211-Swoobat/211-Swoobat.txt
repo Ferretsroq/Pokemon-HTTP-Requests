@@ -1,0 +1,95 @@
+211:Swoobat|26
+ ---------- 
+Moves used:
+1:Skill Swap,88.4615384615%,23.0
+2:Stored Power,46.1538461538%,12.0
+3:Calm Mind,46.1538461538%,12.0
+4:Endeavor,42.3076923077%,11.0
+5:Taunt,30.7692307692%,8.0
+6:Reflect,26.9230769231%,7.0
+7:Super Fang,23.0769230769%,6.0
+8:After You,19.2307692308%,5.0
+9:Protect,19.2307692308%,5.0
+10:Thunder Wave,19.2307692308%,5.0
+11:Tailwind,11.5384615385%,3.0
+12:Charm,7.69230769231%,2.0
+13:Trick Room,3.84615384615%,1.0
+14:Imprison,3.84615384615%,1.0
+15:Attract,3.84615384615%,1.0
+16:Substitute,3.84615384615%,1.0
+17:Double Team,3.84615384615%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,92.3076923077%,24.0
+2:Leftovers,3.84615384615%,1.0
+3:Quick Claw,3.84615384615%,1.0
+
+ ---------- 
+Abilities used:
+1:Simple,92.3076923077%,24.0
+2:Unaware,7.69230769231%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,53.8461538462%,14.0
+2:Timid,46.1538461538%,12.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Talonflame
+4:Rotom
+5:Kangaskhan
+6:Gengar
+7:Yveltal
+8:Amoonguss
+9:Groudon
+10:Ludicolo
+11:Kyurem
+12:Landorus
+13:Thundurus
+14:Chandelure
+15:Rayquaza
+16:Mawile
+17:Smeargle
+18:Nidoqueen
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stored Power,100.0%,26.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,18.1818181818%,4.72727272727
+2:Dazzling Gleam,13.6363636364%,3.54545454545
+3:Water Spout,9.09090909091%,2.36363636364
+4:Eruption,9.09090909091%,2.36363636364
+5:Ice Beam,9.09090909091%,2.36363636364
+6:Double-Edge,9.09090909091%,2.36363636364
+7:Origin Pulse,4.54545454545%,1.18181818182
+8:Hex,4.54545454545%,1.18181818182
+9:Scald,4.54545454545%,1.18181818182
+10:Sucker Punch,4.54545454545%,1.18181818182
+11:Return,4.54545454545%,1.18181818182
+12:Explosion,4.54545454545%,1.18181818182
+13:Surf,4.54545454545%,1.18181818182
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Landorus
+4:Groudon
+5:Kangaskhan
+6:Greninja
+7:Cresselia
+8:Toxicroak
+9:Aerodactyl
+10:Gengar

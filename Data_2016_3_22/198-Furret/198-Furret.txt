@@ -1,0 +1,44 @@
+198:Furret|1
+ ---------- 
+Moves used:
+1:Helping Hand,100.0%,1.0
+2:Follow Me,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Super Fang,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Linoone
+6:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,50.0%,0.5
+2:Clear Smog,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Amoonguss
+2:Rayquaza

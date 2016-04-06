@@ -1,0 +1,112 @@
+103:Conkeldurr|39
+ ---------- 
+Moves used:
+1:Mach Punch,89.7435897436%,35.0
+2:Drain Punch,87.1794871795%,34.0
+3:Knock Off,87.1794871795%,34.0
+4:Ice Punch,53.8461538462%,21.0
+5:Protect,33.3333333333%,13.0
+6:Wide Guard,12.8205128205%,5.0
+7:Rock Slide,10.2564102564%,4.0
+8:Hammer Arm,5.12820512821%,2.0
+9:Focus Punch,5.12820512821%,2.0
+10:Earthquake,5.12820512821%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,51.2820512821%,20.0
+2:Black Belt,20.5128205128%,8.0
+3:Life Orb,12.8205128205%,5.0
+4:Flame Orb,7.69230769231%,3.0
+5:Coba Berry,5.12820512821%,2.0
+6:Sitrus Berry,2.5641025641%,1.0
+
+ ---------- 
+Abilities used:
+1:Iron Fist,84.6153846154%,33.0
+2:Guts,15.3846153846%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,69.2307692308%,27.0
+2:Sassy,20.5128205128%,8.0
+3:Brave,10.2564102564%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Salamence
+4:Meowstic
+5:Ferrothorn
+6:Rayquaza
+7:Talonflame
+8:Gastrodon
+9:Cresselia
+10:Liepard
+11:Lucario
+12:Groudon
+13:Smeargle
+14:Kyurem
+15:Landorus
+16:Hydreigon
+17:Whimsicott
+18:Abomasnow
+19:Camerupt
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Mach Punch,28.5714285714%,11.1428571429
+2:Drain Punch,19.0476190476%,7.42857142857
+3:Ice Punch,19.0476190476%,7.42857142857
+4:Focus Punch,14.2857142857%,5.57142857143
+5:Hammer Arm,9.52380952381%,3.71428571429
+6:Knock Off,9.52380952381%,3.71428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,11.1111111111%,4.33333333333
+2:Play Rough,11.1111111111%,4.33333333333
+3:Fire Punch,11.1111111111%,4.33333333333
+4:Dragon Ascent,5.55555555556%,2.16666666667
+5:Precipice Blades,5.55555555556%,2.16666666667
+6:Dazzling Gleam,5.55555555556%,2.16666666667
+7:Moonblast,5.55555555556%,2.16666666667
+8:Clear Smog,5.55555555556%,2.16666666667
+9:Brave Bird,5.55555555556%,2.16666666667
+10:Water Spout,5.55555555556%,2.16666666667
+11:Eruption,5.55555555556%,2.16666666667
+12:Return,5.55555555556%,2.16666666667
+13:Sludge Bomb,5.55555555556%,2.16666666667
+14:Double-Edge,5.55555555556%,2.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Weavile
+3:Rayquaza
+4:Yveltal
+5:Xerneas
+6:Greninja
+7:Ferrothorn
+8:Cresselia
+9:Togekiss
+10:Groudon
+11:Kyogre
+12:Crobat
+13:Gengar
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Mawile
+5:Amoonguss
+6:Rayquaza
+7:Salamence
+8:Ho-Oh
+9:Kangaskhan
+10:Gengar

@@ -1,0 +1,67 @@
+226:Stantler|7
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,7.0
+2:Magic Room,57.1428571429%,4.0
+3:Mud Sport,57.1428571429%,4.0
+4:Trick Room,42.8571428571%,3.0
+5:Gravity,42.8571428571%,3.0
+6:Hypnosis,42.8571428571%,3.0
+7:Thunder Wave,42.8571428571%,3.0
+8:Protect,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,57.1428571429%,4.0
+2:Mental Herb,42.8571428571%,3.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Jolly,57.1428571429%,4.0
+2:Sassy,42.8571428571%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Greninja
+5:Crobat
+6:Kangaskhan
+7:Ferrothorn
+8:Yveltal
+9:Meowstic
+10:Amoonguss
+11:Liepard
+12:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,1.75
+2:Precipice Blades,12.5%,0.875
+3:Origin Pulse,12.5%,0.875
+4:Double-Edge,12.5%,0.875
+5:Snarl,6.25%,0.4375
+6:Water Spout,6.25%,0.4375
+7:Hyper Voice,6.25%,0.4375
+8:Eruption,6.25%,0.4375
+9:Fake Out,6.25%,0.4375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Yveltal

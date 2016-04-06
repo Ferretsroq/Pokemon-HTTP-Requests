@@ -1,0 +1,53 @@
+149:Houndoom|8
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,8.0
+2:Protect,100.0%,8.0
+3:Role Play,75.0%,6.0
+4:Heat Wave,75.0%,6.0
+5:Fire Blast,25.0%,2.0
+6:Hidden Power,12.5%,1.0
+7:Destiny Bond,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mewtwo
+3:Crobat
+4:Purugly
+5:Ferrothorn
+6:Cresselia
+7:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dark Pulse,100.0%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,57.1428571429%,4.57142857143
+2:Moonblast,14.2857142857%,1.14285714286
+3:Double-Edge,14.2857142857%,1.14285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan

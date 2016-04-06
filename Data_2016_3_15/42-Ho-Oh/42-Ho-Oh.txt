@@ -1,0 +1,65 @@
+42:Ho-Oh|9
+ ---------- 
+Moves used:
+1:Brave Bird,100.0%,9.0
+2:Sacred Fire,100.0%,9.0
+3:Protect,100.0%,9.0
+4:Tailwind,55.5555555556%,5.0
+5:Recover,44.4444444444%,4.0
+
+ ---------- 
+Items used:
+1:Lum Berry,55.5555555556%,5.0
+2:Sitrus Berry,44.4444444444%,4.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Careful,55.5555555556%,5.0
+2:Adamant,44.4444444444%,4.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Cresselia
+3:Groudon
+4:Thundurus
+5:Kyogre
+6:Whimsicott
+7:Landorus
+8:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sacred Fire,55.5555555556%,5.0
+2:Brave Bird,44.4444444444%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.2857142857%,1.28571428571
+2:Origin Pulse,14.2857142857%,1.28571428571
+3:Brave Bird,14.2857142857%,1.28571428571
+4:Sucker Punch,14.2857142857%,1.28571428571
+5:Rock Slide,14.2857142857%,1.28571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Noivern
+3:Ferrothorn
+4:Whimsicott
+5:Liepard
+6:Giratina
+7:Mawile
+8:Politoed
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Garchomp
+3:Groudon
+4:Kyogre
+5:Kangaskhan

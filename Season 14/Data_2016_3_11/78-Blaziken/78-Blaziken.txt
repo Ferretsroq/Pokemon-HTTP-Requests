@@ -1,0 +1,168 @@
+78:Blaziken|514
+ ---------- 
+Moves used:
+1:Protect,95.5252918288%,491.0
+2:Flare Blitz,73.9299610895%,380.0
+3:Low Kick,53.6964980545%,276.0
+4:Rock Slide,25.8754863813%,133.0
+5:Poison Jab,21.2062256809%,109.0
+6:Superpower,18.6770428016%,96.0
+7:Swords Dance,18.2879377432%,94.0
+8:High Jump Kick,17.3151750973%,89.0
+9:Overheat,13.6186770428%,70.0
+10:Double Kick,12.4513618677%,64.0
+11:Baton Pass,12.0622568093%,62.0
+12:Hidden Power,10.3112840467%,53.0
+13:Thunder Punch,8.75486381323%,45.0
+14:Fire Blast,3.89105058366%,20.0
+15:Will-O-Wisp,1.94552529183%,10.0
+16:Feint,1.75097276265%,9.0
+17:Heat Wave,1.75097276265%,9.0
+18:Brave Bird,0.972762645914%,5.0
+19:Blaze Kick,0.972762645914%,5.0
+20:Role Play,0.972762645914%,5.0
+0:Other,6.03112840467%,31.0
+
+ ---------- 
+Items used:
+1:Blazikenite,37.3540856031%,192.0
+2:Life Orb,29.9610894942%,154.0
+3:Focus Sash,22.373540856%,115.0
+4:Air Balloon,4.66926070039%,24.0
+5:Lum Berry,2.91828793774%,15.0
+6:Expert Belt,1.1673151751%,6.0
+7:Coba Berry,0.583657587549%,3.0
+8:Sitrus Berry,0.389105058366%,2.0
+9:Wise Glasses,0.194552529183%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,84.046692607%,432.0
+2:Blaze,15.953307393%,82.0
+
+ ---------- 
+Natures used:
+1:Adamant,48.4435797665%,249.0
+2:Jolly,15.953307393%,82.0
+3:Careful,14.2023346304%,73.0
+4:Naive,12.4513618677%,64.0
+5:Rash,3.30739299611%,17.0
+6:Naughty,2.14007782101%,11.0
+7:Hasty,1.75097276265%,9.0
+8:Modest,0.583657587549%,3.0
+9:Impish,0.583657587549%,3.0
+10:Timid,0.389105058366%,2.0
+11:Lax,0.194552529183%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Rayquaza
+5:Talonflame
+6:Gengar
+7:Togekiss
+8:Salamence
+9:Greninja
+10:Palkia
+11:Thundurus
+12:Gardevoir
+13:Kangaskhan
+14:Yveltal
+15:Dialga
+16:Amoonguss
+17:Ferrothorn
+18:Landorus
+19:Weavile
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,28.9198606272%,148.648083624
+2:Low Kick,24.0418118467%,123.574912892
+3:Rock Slide,10.8013937282%,55.5191637631
+4:High Jump Kick,9.40766550523%,48.3554006969
+5:Superpower,5.57491289199%,28.6550522648
+6:Thunder Punch,4.52961672474%,23.2822299652
+7:Double Kick,3.83275261324%,19.7003484321
+8:Poison Jab,3.13588850174%,16.118466899
+9:Overheat,2.43902439024%,12.5365853659
+10:Hidden Power,2.43902439024%,12.5365853659
+11:Heat Wave,1.74216027875%,8.95470383275
+12:Focus Blast,0.696864111498%,3.5818815331
+13:Feint,0.696864111498%,3.5818815331
+14:Fire Blast,0.696864111498%,3.5818815331
+15:Rock Tomb,0.348432055749%,1.79094076655
+16:Blaze Kick,0.348432055749%,1.79094076655
+17:Flamethrower,0.348432055749%,1.79094076655
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.6684636119%,65.115902965
+2:Precipice Blades,9.9730458221%,51.2614555256
+3:Double-Edge,7.54716981132%,38.7924528302
+4:Earth Power,6.46900269542%,33.2506738544
+5:Origin Pulse,5.66037735849%,29.0943396226
+6:Brave Bird,5.39083557951%,27.7088948787
+7:Water Spout,5.39083557951%,27.7088948787
+8:Hyper Voice,4.04312668464%,20.781671159
+9:Dragon Ascent,2.96495956873%,15.2398921833
+10:Sucker Punch,2.96495956873%,15.2398921833
+11:Earthquake,2.69541778976%,13.8544474394
+12:Extreme Speed,2.42587601078%,12.4690026954
+13:Sludge Bomb,2.15633423181%,11.0835579515
+14:Eruption,1.61725067385%,8.31266846361
+15:Moonblast,1.34770889488%,6.92722371968
+16:Draco Meteor,1.34770889488%,6.92722371968
+17:Return,1.34770889488%,6.92722371968
+18:Rock Slide,1.34770889488%,6.92722371968
+19:Psychic,1.34770889488%,6.92722371968
+20:Scald,1.0781671159%,5.54177897574
+0:Other,12.9380053908%,66.5013477089
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Kyogre
+4:Ferrothorn
+5:Groudon
+6:Talonflame
+7:Smeargle
+8:Crobat
+9:Liepard
+10:Yveltal
+11:Cresselia
+12:Mawile
+13:Whimsicott
+14:Dialga
+15:Weavile
+16:Kyurem
+17:Rayquaza
+18:Kangaskhan
+19:Amoonguss
+20:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Giratina
+10:Rayquaza
+11:Ho-Oh
+12:Gengar
+13:Yveltal
+14:Terrakion
+15:Dialga
+16:Togekiss
+17:Suicune
+18:Gengar
+19:Thundurus
+20:Ferrothorn

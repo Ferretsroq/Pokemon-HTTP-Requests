@@ -1,0 +1,45 @@
+131:Alomomola|11
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,11.0
+2:Helping Hand,100.0%,11.0
+3:Mirror Coat,100.0%,11.0
+4:Heal Pulse,63.6363636364%,7.0
+5:Magic Coat,36.3636363636%,4.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,11.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Charizard
+3:Kyogre
+4:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,40.0%,4.4
+2:Water Spout,40.0%,4.4
+3:Eruption,20.0%,2.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon

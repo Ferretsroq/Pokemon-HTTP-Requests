@@ -1,0 +1,51 @@
+129:Tyranitar|2
+ ---------- 
+Moves used:
+1:Crunch,100.0%,2.0
+2:Rock Slide,100.0%,2.0
+3:Dragon Dance,50.0%,1.0
+4:Aerial Ace,50.0%,1.0
+5:Protect,50.0%,1.0
+6:Earthquake,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Tyranitarite,50.0%,1.0
+2:Choice Scarf,50.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sand Stream,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Sylveon
+3:Talonflame
+4:Ferrothorn
+5:Liepard
+6:Rayquaza
+7:Salamence
+8:Breloom
+9:Kangaskhan
+10:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,1.0
+2:Waterfall,50.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon

@@ -1,0 +1,1042 @@
+1.Groudon|694
+---
+1:Protect,98.9913544669%,687.0
+2:Precipice Blades,64.9855907781%,451.0
+3:Eruption,48.4149855908%,336.0
+4:Earth Power,42.939481268%,298.0
+5:Fire Punch,42.3631123919%,294.0
+6:Rock Slide,35.446685879%,246.0
+7:Flamethrower,15.7060518732%,109.0
+8:Overheat,6.05187319885%,42.0
+9:Thunderbolt,5.76368876081%,40.0
+10:Substitute,5.47550432277%,38.0
+11:Thunder Wave,5.47550432277%,38.0
+12:Thunder Punch,5.33141210375%,37.0
+13:Dragon Claw,5.04322766571%,35.0
+14:Ancient Power,3.74639769452%,26.0
+15:Hidden Power,2.59365994236%,18.0
+16:Thunder,2.30547550432%,16.0
+17:Swords Dance,1.87319884726%,13.0
+18:Iron Head,1.72910662824%,12.0
+19:Fire Blast,1.58501440922%,11.0
+20:Rock Polish,1.15273775216%,8.0
+0:Other,3.02593659942%,21.0
+
+ ---------- 
+2.Kyogre|553
+---
+1:Ice Beam,98.191681736%,543.0
+2:Protect,91.1392405063%,504.0
+3:Water Spout,76.3110307414%,422.0
+4:Origin Pulse,66.7269439421%,369.0
+5:Thunder,39.6021699819%,219.0
+6:Scald,25.678119349%,142.0
+7:Sleep Talk,1.08499095841%,6.0
+8:Psych Up,0.904159132007%,5.0
+9:Hydro Pump,0.361663652803%,2.0
+
+ ---------- 
+3.Xerneas|444
+---
+1:Dazzling Gleam,99.7747747748%,443.0
+2:Moonblast,91.4414414414%,406.0
+3:Protect,85.8108108108%,381.0
+4:Geomancy,85.3603603604%,379.0
+5:Psychic,13.5135135135%,60.0
+6:Focus Blast,8.78378378378%,39.0
+7:Hidden Power,6.30630630631%,28.0
+8:Sleep Talk,4.95495495495%,22.0
+9:Grass Knot,2.25225225225%,10.0
+10:Substitute,0.675675675676%,3.0
+11:Thunder,0.225225225225%,1.0
+
+ ---------- 
+4.Kangaskhan|399
+---
+1:Fake Out,94.2355889724%,376.0
+2:Sucker Punch,81.954887218%,327.0
+3:Double-Edge,73.1829573935%,292.0
+4:Low Kick,64.9122807018%,259.0
+5:Return,25.0626566416%,100.0
+6:Protect,25.0626566416%,100.0
+7:Power-Up Punch,22.8070175439%,91.0
+8:Fire Punch,6.2656641604%,25.0
+9:Frustration,1.5037593985%,6.0
+10:Ice Punch,1.25313283208%,5.0
+11:Substitute,1.00250626566%,4.0
+12:Crunch,0.751879699248%,3.0
+13:Safeguard,0.751879699248%,3.0
+14:Giga Impact,0.501253132832%,2.0
+15:Ice Beam,0.501253132832%,2.0
+16:Hyper Beam,0.250626566416%,1.0
+
+ ---------- 
+5.Talonflame|372
+---
+1:Brave Bird,100.0%,372.0
+2:Tailwind,91.935483871%,342.0
+3:Flare Blitz,82.7956989247%,308.0
+4:Quick Guard,64.247311828%,239.0
+5:Taunt,24.7311827957%,92.0
+6:Protect,12.0967741935%,45.0
+7:U-turn,8.87096774194%,33.0
+8:Sleep Talk,5.37634408602%,20.0
+9:Swords Dance,3.76344086022%,14.0
+10:Will-O-Wisp,2.41935483871%,9.0
+11:Overheat,1.61290322581%,6.0
+12:Snatch,0.537634408602%,2.0
+
+ ---------- 
+6.Salamence|314
+---
+1:Hyper Voice,96.4968152866%,303.0
+2:Protect,93.3121019108%,293.0
+3:Double-Edge,85.3503184713%,268.0
+4:Draco Meteor,56.3694267516%,177.0
+5:Tailwind,42.0382165605%,132.0
+6:Substitute,9.55414012739%,30.0
+7:Flamethrower,7.00636942675%,22.0
+8:Fire Blast,3.1847133758%,10.0
+9:Return,2.86624203822%,9.0
+10:Dragon Pulse,0.955414012739%,3.0
+11:Earthquake,0.955414012739%,3.0
+12:Roar,0.955414012739%,3.0
+13:Roost,0.31847133758%,1.0
+14:Dragon Claw,0.31847133758%,1.0
+15:Hyper Beam,0.31847133758%,1.0
+
+ ---------- 
+7.Rayquaza|212
+---
+1:Dragon Ascent,99.5283018868%,211.0
+2:Extreme Speed,97.1698113208%,206.0
+3:Protect,81.1320754717%,172.0
+4:Overheat,34.9056603774%,74.0
+5:Waterfall,27.358490566%,58.0
+6:Swords Dance,16.9811320755%,36.0
+7:Draco Meteor,14.6226415094%,31.0
+8:Earthquake,11.7924528302%,25.0
+9:Flamethrower,5.18867924528%,11.0
+10:Dragon Claw,3.30188679245%,7.0
+11:Fire Blast,2.83018867925%,6.0
+12:Earth Power,2.35849056604%,5.0
+13:Dragon Dance,0.943396226415%,2.0
+14:Rock Slide,0.943396226415%,2.0
+15:Dragon Pulse,0.471698113208%,1.0
+16:Water Pulse,0.471698113208%,1.0
+
+ ---------- 
+8.Thundurus|195
+---
+1:Thunder Wave,97.9487179487%,191.0
+2:Thunderbolt,87.6923076923%,171.0
+3:Taunt,74.8717948718%,146.0
+4:Protect,69.2307692308%,135.0
+5:Swagger,22.0512820513%,43.0
+6:Hidden Power,18.9743589744%,37.0
+7:Foul Play,6.15384615385%,12.0
+8:Substitute,5.64102564103%,11.0
+9:Role Play,5.12820512821%,10.0
+10:Wild Charge,4.61538461538%,9.0
+11:Superpower,4.10256410256%,8.0
+12:Grass Knot,1.53846153846%,3.0
+13:Thunder,1.53846153846%,3.0
+14:Fling,0.512820512821%,1.0
+
+ ---------- 
+9.Smeargle|195
+---
+1:Dark Void,95.8974358974%,187.0
+2:Follow Me,64.1025641026%,125.0
+3:Spiky Shield,63.0769230769%,123.0
+4:Wide Guard,56.9230769231%,111.0
+5:Fake Out,45.1282051282%,88.0
+6:Transform,20.0%,39.0
+7:Crafty Shield,18.4615384615%,36.0
+8:Spore,6.66666666667%,13.0
+9:Feint,6.15384615385%,12.0
+10:King's Shield,5.12820512821%,10.0
+11:Super Fang,4.61538461538%,9.0
+12:Endeavor,3.07692307692%,6.0
+13:Sheer Cold,2.05128205128%,4.0
+14:Quick Guard,1.53846153846%,3.0
+15:Extreme Speed,1.53846153846%,3.0
+16:Foul Play,1.02564102564%,2.0
+17:Tailwind,1.02564102564%,2.0
+18:Destiny Bond,1.02564102564%,2.0
+19:Nuzzle,0.512820512821%,1.0
+20:Imprison,0.512820512821%,1.0
+0:Other,1.53846153846%,3.0
+
+ ---------- 
+10.Cresselia|159
+---
+1:Trick Room,96.8553459119%,154.0
+2:Skill Swap,85.534591195%,136.0
+3:Ice Beam,77.9874213836%,124.0
+4:Helping Hand,52.8301886792%,84.0
+5:Gravity,38.3647798742%,61.0
+6:Magic Coat,18.2389937107%,29.0
+7:Psychic,18.2389937107%,29.0
+8:Safeguard,3.14465408805%,5.0
+9:Thunder Wave,2.51572327044%,4.0
+10:Psyshock,1.88679245283%,3.0
+11:Icy Wind,1.88679245283%,3.0
+12:Protect,1.25786163522%,2.0
+13:Calm Mind,0.62893081761%,1.0
+14:Moonlight,0.62893081761%,1.0
+
+ ---------- 
+11.Mawile|132
+---
+1:Sucker Punch,100.0%,132.0
+2:Protect,92.4242424242%,122.0
+3:Iron Head,89.3939393939%,118.0
+4:Play Rough,85.6060606061%,113.0
+5:Swords Dance,21.9696969697%,29.0
+6:Fire Fang,6.81818181818%,9.0
+7:Foul Play,3.0303030303%,4.0
+8:Rock Slide,0.757575757576%,1.0
+
+ ---------- 
+12.Ferrothorn|128
+---
+1:Gyro Ball,100.0%,128.0
+2:Power Whip,96.09375%,123.0
+3:Protect,89.84375%,115.0
+4:Leech Seed,63.28125%,81.0
+5:Substitute,12.5%,16.0
+6:Knock Off,10.15625%,13.0
+7:Seed Bomb,7.03125%,9.0
+8:Sleep Talk,4.6875%,6.0
+9:Thunder Wave,3.90625%,5.0
+10:Worry Seed,3.125%,4.0
+11:Self-Destruct,2.34375%,3.0
+12:Bullet Seed,1.5625%,2.0
+13:Hidden Power,1.5625%,2.0
+14:Iron Head,0.78125%,1.0
+15:Gravity,0.78125%,1.0
+
+ ---------- 
+13.Landorus-T|94
+---
+1:Earthquake,97.8723404255%,92.0
+2:Rock Slide,86.170212766%,81.0
+3:Superpower,56.3829787234%,53.0
+4:Explosion,52.1276595745%,49.0
+5:U-turn,47.8723404255%,45.0
+6:Protect,34.0425531915%,32.0
+7:Knock Off,8.51063829787%,8.0
+8:Rock Tomb,6.3829787234%,6.0
+9:Stone Edge,2.12765957447%,2.0
+10:Earth Power,2.12765957447%,2.0
+11:Outrage,2.12765957447%,2.0
+12:Sludge Bomb,2.12765957447%,2.0
+13:Hammer Arm,1.06382978723%,1.0
+14:Gravity,1.06382978723%,1.0
+
+ ---------- 
+14.Dialga|85
+---
+1:Dragon Pulse,78.8235294118%,67.0
+2:Flash Cannon,75.2941176471%,64.0
+3:Trick Room,54.1176470588%,46.0
+4:Earth Power,35.2941176471%,30.0
+5:Thunder,30.5882352941%,26.0
+6:Protect,28.2352941176%,24.0
+7:Flamethrower,24.7058823529%,21.0
+8:Draco Meteor,18.8235294118%,16.0
+9:Aura Sphere,12.9411764706%,11.0
+10:Iron Head,10.5882352941%,9.0
+11:Overheat,9.41176470588%,8.0
+12:Roar of Time,8.23529411765%,7.0
+13:Gravity,8.23529411765%,7.0
+14:Fire Blast,4.70588235294%,4.0
+
+ ---------- 
+15.Gengar|73
+---
+1:Sludge Bomb,87.6712328767%,64.0
+2:Protect,76.7123287671%,56.0
+3:Shadow Ball,61.6438356164%,45.0
+4:Taunt,32.8767123288%,24.0
+5:Skill Swap,23.2876712329%,17.0
+6:Disable,21.9178082192%,16.0
+7:Trick Room,17.8082191781%,13.0
+8:Hidden Power,15.0684931507%,11.0
+9:Destiny Bond,13.698630137%,10.0
+10:Icy Wind,10.9589041096%,8.0
+11:Substitute,10.9589041096%,8.0
+12:Will-O-Wisp,8.21917808219%,6.0
+13:Perish Song,8.21917808219%,6.0
+14:Hex,4.1095890411%,3.0
+15:Hypnosis,4.1095890411%,3.0
+16:Sludge Wave,2.7397260274%,2.0
+
+ ---------- 
+16.Yveltal|71
+---
+1:Snarl,88.7323943662%,63.0
+2:Sucker Punch,78.8732394366%,56.0
+3:Protect,76.0563380282%,54.0
+4:Foul Play,38.0281690141%,27.0
+5:Knock Off,33.8028169014%,24.0
+6:Oblivion Wing,29.5774647887%,21.0
+7:Dark Pulse,21.1267605634%,15.0
+8:Tailwind,15.4929577465%,11.0
+9:Sky Drop,8.45070422535%,6.0
+10:Heat Wave,4.22535211268%,3.0
+11:Phantom Force,1.40845070423%,1.0
+12:Taunt,1.40845070423%,1.0
+13:Substitute,1.40845070423%,1.0
+14:Rock Slide,1.40845070423%,1.0
+
+ ---------- 
+17.Crobat|71
+---
+1:Tailwind,100.0%,71.0
+2:Super Fang,100.0%,71.0
+3:Quick Guard,85.9154929577%,61.0
+4:Taunt,83.0985915493%,59.0
+5:Haze,23.9436619718%,17.0
+6:Hypnosis,4.22535211268%,3.0
+7:Snatch,1.40845070423%,1.0
+8:Whirlwind,1.40845070423%,1.0
+
+ ---------- 
+18.Amoonguss|65
+---
+1:Rage Powder,100.0%,65.0
+2:Spore,100.0%,65.0
+3:Protect,98.4615384615%,64.0
+4:Grass Knot,55.3846153846%,36.0
+5:Giga Drain,18.4615384615%,12.0
+6:Clear Smog,13.8461538462%,9.0
+7:Sludge Bomb,10.7692307692%,7.0
+8:Foul Play,3.07692307692%,2.0
+
+ ---------- 
+19.Weavile|45
+---
+1:Fake Out,100.0%,45.0
+2:Knock Off,84.4444444444%,38.0
+3:Icicle Crash,71.1111111111%,32.0
+4:Low Kick,60.0%,27.0
+5:Feint,26.6666666667%,12.0
+6:Ice Punch,22.2222222222%,10.0
+7:Beat Up,8.88888888889%,4.0
+8:Icy Wind,8.88888888889%,4.0
+9:Ice Shard,6.66666666667%,3.0
+10:Taunt,4.44444444444%,2.0
+11:Reflect,4.44444444444%,2.0
+12:Poison Jab,2.22222222222%,1.0
+
+ ---------- 
+20.Kyurem-W|42
+---
+1:Blizzard,97.619047619%,41.0
+2:Draco Meteor,95.2380952381%,40.0
+3:Ice Beam,88.0952380952%,37.0
+4:Fusion Flare,71.4285714286%,30.0
+5:Earth Power,33.3333333333%,14.0
+6:Icy Wind,7.14285714286%,3.0
+7:Dragon Pulse,4.7619047619%,2.0
+8:Focus Blast,2.38095238095%,1.0
+
+ ---------- 
+21.Whimsicott|35
+---
+1:Encore,91.4285714286%,32.0
+2:Safeguard,68.5714285714%,24.0
+3:Tailwind,57.1428571429%,20.0
+4:Endeavor,37.1428571429%,13.0
+5:Fake Tears,34.2857142857%,12.0
+6:Moonblast,22.8571428571%,8.0
+7:Trick Room,22.8571428571%,8.0
+8:Taunt,22.8571428571%,8.0
+9:Worry Seed,17.1428571429%,6.0
+10:Protect,11.4285714286%,4.0
+11:Grass Knot,5.71428571429%,2.0
+12:Grass Whistle,2.85714285714%,1.0
+13:Helping Hand,2.85714285714%,1.0
+14:Nature Power,2.85714285714%,1.0
+
+ ---------- 
+22.Liepard|33
+---
+1:Fake Out,96.9696969697%,32.0
+2:Foul Play,84.8484848485%,28.0
+3:Encore,57.5757575758%,19.0
+4:Fake Tears,33.3333333333%,11.0
+5:Taunt,33.3333333333%,11.0
+6:Role Play,30.303030303%,10.0
+7:Thunder Wave,27.2727272727%,9.0
+8:Swagger,21.2121212121%,7.0
+9:Knock Off,12.1212121212%,4.0
+10:Protect,3.0303030303%,1.0
+
+ ---------- 
+23.Bronzong|31
+---
+1:Trick Room,100.0%,31.0
+2:Gyro Ball,54.8387096774%,17.0
+3:Gravity,54.8387096774%,17.0
+4:Skill Swap,54.8387096774%,17.0
+5:Safeguard,54.8387096774%,17.0
+6:Hypnosis,45.1612903226%,14.0
+7:Protect,25.8064516129%,8.0
+8:Psywave,9.67741935484%,3.0
+
+ ---------- 
+24.Garchomp|1
+---
+1:Iron Head,100.0%,1.0
+2:Dragon Claw,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+25.Aegislash|23
+---
+1:King's Shield,86.9565217391%,20.0
+2:Shadow Ball,73.9130434783%,17.0
+3:Wide Guard,60.8695652174%,14.0
+4:Iron Head,56.5217391304%,13.0
+5:Shadow Sneak,56.5217391304%,13.0
+6:Gyro Ball,39.1304347826%,9.0
+7:Substitute,21.7391304348%,5.0
+8:Flash Cannon,4.34782608696%,1.0
+
+ ---------- 
+26.Ditto|23
+---
+1:Transform,100.0%,23.0
+
+ ---------- 
+27.Togekiss|21
+---
+1:Follow Me,100.0%,21.0
+2:Air Slash,95.2380952381%,20.0
+3:Protect,57.1428571429%,12.0
+4:Thunder Wave,52.380952381%,11.0
+5:Dazzling Gleam,33.3333333333%,7.0
+6:Fire Blast,19.0476190476%,4.0
+7:Safeguard,14.2857142857%,3.0
+8:Tailwind,9.52380952381%,2.0
+9:Magic Coat,9.52380952381%,2.0
+10:Grass Knot,4.7619047619%,1.0
+11:Trick,4.7619047619%,1.0
+
+ ---------- 
+28.Sableye|20
+---
+1:Quash,90.0%,18.0
+2:Gravity,70.0%,14.0
+3:Fake Out,60.0%,12.0
+4:Feint,50.0%,10.0
+5:Foul Play,40.0%,8.0
+6:Will-O-Wisp,40.0%,8.0
+7:Role Play,35.0%,7.0
+8:Taunt,10.0%,2.0
+9:Magic Coat,5.0%,1.0
+
+ ---------- 
+29.Scizor|19
+---
+1:Bullet Punch,100.0%,19.0
+2:Protect,68.4210526316%,13.0
+3:Bug Bite,57.8947368421%,11.0
+4:Feint,47.3684210526%,9.0
+5:Swords Dance,36.8421052632%,7.0
+6:Superpower,31.5789473684%,6.0
+7:Iron Head,26.3157894737%,5.0
+8:Knock Off,10.5263157895%,2.0
+9:Tailwind,5.26315789474%,1.0
+10:Aerial Ace,5.26315789474%,1.0
+11:False Swipe,5.26315789474%,1.0
+12:Quick Attack,5.26315789474%,1.0
+
+ ---------- 
+30.Noivern|17
+---
+1:Draco Meteor,100.0%,17.0
+2:Super Fang,100.0%,17.0
+3:Tailwind,88.2352941176%,15.0
+4:Taunt,88.2352941176%,15.0
+5:Protect,11.7647058824%,2.0
+6:Flamethrower,11.7647058824%,2.0
+
+ ---------- 
+31.Giratina-O|8
+---
+1:Shadow Force,100.0%,8.0
+2:Draco Meteor,100.0%,8.0
+3:Shadow Sneak,87.5%,7.0
+4:Will-O-Wisp,87.5%,7.0
+5:Iron Head,12.5%,1.0
+6:Protect,12.5%,1.0
+
+ ---------- 
+32.Palkia|16
+---
+1:Spacial Rend,100.0%,16.0
+2:Protect,75.0%,12.0
+3:Earth Power,62.5%,10.0
+4:Thunder,62.5%,10.0
+5:Trick Room,43.75%,7.0
+6:Hydro Pump,37.5%,6.0
+7:Blizzard,12.5%,2.0
+8:Flamethrower,6.25%,1.0
+
+ ---------- 
+33.Raichu|16
+---
+1:Fake Out,87.5%,14.0
+2:Volt Switch,75.0%,12.0
+3:Protect,56.25%,9.0
+4:Nuzzle,43.75%,7.0
+5:Encore,43.75%,7.0
+6:Hidden Power,37.5%,6.0
+7:Thunderbolt,18.75%,3.0
+8:Teeter Dance,12.5%,2.0
+9:Helping Hand,12.5%,2.0
+10:Feint,6.25%,1.0
+11:Volt Tackle,6.25%,1.0
+
+ ---------- 
+34.Meowstic|15
+---
+1:Gravity,80.0%,12.0
+2:Safeguard,73.3333333333%,11.0
+3:Swagger,60.0%,9.0
+4:Trick Room,40.0%,6.0
+5:Quick Guard,20.0%,3.0
+6:Assist,20.0%,3.0
+7:Fake Out,20.0%,3.0
+8:Charm,20.0%,3.0
+9:Thunder Wave,20.0%,3.0
+10:Magic Room,13.3333333333%,2.0
+11:Magic Coat,13.3333333333%,2.0
+12:Hidden Power,13.3333333333%,2.0
+13:Psychic,6.66666666667%,1.0
+
+ ---------- 
+35.Zekrom|2
+---
+1:Fusion Bolt,100.0%,2.0
+2:Dragon Claw,100.0%,2.0
+3:Safeguard,100.0%,2.0
+4:Protect,100.0%,2.0
+
+ ---------- 
+36.Mienshao|14
+---
+1:Wide Guard,92.8571428571%,13.0
+2:Fake Out,92.8571428571%,13.0
+3:Helping Hand,50.0%,7.0
+4:High Jump Kick,50.0%,7.0
+5:Low Kick,50.0%,7.0
+6:Quick Guard,35.7142857143%,5.0
+7:Feint,21.4285714286%,3.0
+8:Rock Slide,7.14285714286%,1.0
+
+ ---------- 
+37.Mewtwo|14
+---
+1:Psystrike,100.0%,14.0
+2:Ice Beam,64.2857142857%,9.0
+3:Protect,57.1428571429%,8.0
+4:Me First,42.8571428571%,6.0
+5:Thunder Wave,42.8571428571%,6.0
+6:Gravity,21.4285714286%,3.0
+7:Safeguard,21.4285714286%,3.0
+8:Blizzard,21.4285714286%,3.0
+9:Aura Sphere,14.2857142857%,2.0
+10:Psychic,14.2857142857%,2.0
+
+ ---------- 
+38.Clefairy|14
+---
+1:Follow Me,100.0%,14.0
+2:After You,78.5714285714%,11.0
+3:Protect,78.5714285714%,11.0
+4:Icy Wind,50.0%,7.0
+5:Helping Hand,42.8571428571%,6.0
+6:Heal Pulse,21.4285714286%,3.0
+7:Thunder Wave,14.2857142857%,2.0
+8:Role Play,7.14285714286%,1.0
+9:Encore,7.14285714286%,1.0
+
+ ---------- 
+39.Infernape|13
+---
+1:Quick Guard,100.0%,13.0
+2:Close Combat,100.0%,13.0
+3:Overheat,100.0%,13.0
+4:Fake Out,100.0%,13.0
+
+ ---------- 
+40.Greninja|10
+---
+1:Low Kick,70.0%,7.0
+2:Gunk Shot,60.0%,6.0
+3:Water Shuriken,50.0%,5.0
+4:Rock Slide,50.0%,5.0
+5:Ice Beam,50.0%,5.0
+6:Protect,40.0%,4.0
+7:Dark Pulse,30.0%,3.0
+8:Mat Block,20.0%,2.0
+9:Grass Knot,20.0%,2.0
+10:Scald,10.0%,1.0
+
+ ---------- 
+41.Zapdos|10
+---
+1:Thunderbolt,100.0%,10.0
+2:Hidden Power,90.0%,9.0
+3:Heat Wave,80.0%,8.0
+4:Thunder Wave,50.0%,5.0
+5:Tailwind,40.0%,4.0
+6:Volt Switch,20.0%,2.0
+7:Roar,20.0%,2.0
+
+ ---------- 
+42.Ho-Oh|9
+---
+1:Brave Bird,100.0%,9.0
+2:Sacred Fire,100.0%,9.0
+3:Protect,100.0%,9.0
+4:Tailwind,55.5555555556%,5.0
+5:Recover,44.4444444444%,4.0
+
+ ---------- 
+43.Venusaur|9
+---
+1:Grass Knot,100.0%,9.0
+2:Sludge Bomb,100.0%,9.0
+3:Protect,100.0%,9.0
+4:Sleep Powder,100.0%,9.0
+
+ ---------- 
+44.Sceptile|4
+---
+1:Quick Guard,100.0%,4.0
+2:Dragon Pulse,100.0%,4.0
+3:Grass Knot,75.0%,3.0
+4:Protect,75.0%,3.0
+5:Leaf Storm,25.0%,1.0
+6:Detect,25.0%,1.0
+
+ ---------- 
+45.Hitmontop|8
+---
+1:Wide Guard,100.0%,8.0
+2:Close Combat,100.0%,8.0
+3:Feint,100.0%,8.0
+4:Fake Out,100.0%,8.0
+
+ ---------- 
+46.Lapras|8
+---
+1:Ice Shard,100.0%,8.0
+2:Hydro Pump,100.0%,8.0
+3:Freeze-Dry,87.5%,7.0
+4:Blizzard,87.5%,7.0
+5:Sheer Cold,12.5%,1.0
+6:Ice Beam,12.5%,1.0
+
+ ---------- 
+47.Manectric|7
+---
+1:Volt Switch,100.0%,7.0
+2:Electric Terrain,85.7142857143%,6.0
+3:Thunderbolt,85.7142857143%,6.0
+4:Flamethrower,85.7142857143%,6.0
+5:Overheat,14.2857142857%,1.0
+6:Hidden Power,14.2857142857%,1.0
+7:Protect,14.2857142857%,1.0
+
+ ---------- 
+48.Trevenant|6
+---
+1:Wood Hammer,100.0%,6.0
+2:Protect,100.0%,6.0
+3:Trick Room,83.3333333333%,5.0
+4:Skill Swap,83.3333333333%,5.0
+5:Will-O-Wisp,16.6666666667%,1.0
+6:Leech Seed,16.6666666667%,1.0
+
+ ---------- 
+49.Bisharp|6
+---
+1:Iron Head,100.0%,6.0
+2:Sucker Punch,100.0%,6.0
+3:Protect,100.0%,6.0
+4:Knock Off,83.3333333333%,5.0
+5:Assurance,16.6666666667%,1.0
+
+ ---------- 
+50.Milotic|1
+---
+1:Swagger,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Recover,100.0%,1.0
+4:Hydro Pump,100.0%,1.0
+
+ ---------- 
+51.Shedinja|6
+---
+1:Phantom Force,100.0%,6.0
+2:Confuse Ray,100.0%,6.0
+3:Hone Claws,83.3333333333%,5.0
+4:Double Team,83.3333333333%,5.0
+5:Will-O-Wisp,16.6666666667%,1.0
+6:Protect,16.6666666667%,1.0
+
+ ---------- 
+52.Lugia|6
+---
+1:Aeroblast,100.0%,6.0
+2:Psyshock,50.0%,3.0
+3:Calm Mind,50.0%,3.0
+4:Protect,50.0%,3.0
+5:Earth Power,33.3333333333%,2.0
+6:Roost,33.3333333333%,2.0
+7:Psych Up,33.3333333333%,2.0
+8:Tailwind,16.6666666667%,1.0
+9:Skill Swap,16.6666666667%,1.0
+10:Recover,16.6666666667%,1.0
+
+ ---------- 
+53.Politoed|1
+---
+1:Scald,100.0%,1.0
+2:Perish Song,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Double Team,100.0%,1.0
+
+ ---------- 
+54.Landorus|1
+---
+1:Earth Power,100.0%,1.0
+2:Sludge Bomb,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+55.Serperior|5
+---
+1:Leaf Storm,100.0%,5.0
+2:Protect,100.0%,5.0
+3:Glare,100.0%,5.0
+4:Taunt,60.0%,3.0
+5:Hidden Power,40.0%,2.0
+
+ ---------- 
+56.Empoleon|1
+---
+1:Scald,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Flash Cannon,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+57.Metagross|5
+---
+1:Zen Headbutt,100.0%,5.0
+2:Iron Head,80.0%,4.0
+3:Protect,60.0%,3.0
+4:Ice Punch,60.0%,3.0
+5:Bullet Punch,40.0%,2.0
+6:Rock Slide,40.0%,2.0
+7:Meteor Mash,20.0%,1.0
+
+ ---------- 
+58.Ampharos|5
+---
+1:Protect,100.0%,5.0
+2:Dragon Pulse,60.0%,3.0
+3:Hidden Power,60.0%,3.0
+4:Thunderbolt,60.0%,3.0
+5:Discharge,40.0%,2.0
+6:Thunder,40.0%,2.0
+7:Thunder Wave,40.0%,2.0
+
+ ---------- 
+59.Golduck|1
+---
+1:Scald,100.0%,1.0
+2:Soak,100.0%,1.0
+3:Ice Beam,100.0%,1.0
+4:Surf,100.0%,1.0
+
+ ---------- 
+60.Dragalge|1
+---
+1:Sludge Wave,100.0%,1.0
+2:Draco Meteor,100.0%,1.0
+3:Focus Blast,100.0%,1.0
+4:Dragon Pulse,100.0%,1.0
+
+ ---------- 
+61.Tornadus|4
+---
+1:Tailwind,100.0%,4.0
+2:Taunt,100.0%,4.0
+3:Hurricane,75.0%,3.0
+4:Hidden Power,50.0%,2.0
+5:Sky Drop,25.0%,1.0
+6:Role Play,25.0%,1.0
+7:Substitute,25.0%,1.0
+
+ ---------- 
+62.Ludicolo|1
+---
+1:Scald,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Fake Out,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+63.Espeon|4
+---
+1:Psychic,100.0%,4.0
+2:Psych Up,75.0%,3.0
+3:Morning Sun,75.0%,3.0
+4:Protect,75.0%,3.0
+5:Dazzling Gleam,25.0%,1.0
+6:Trick,25.0%,1.0
+7:Charm,25.0%,1.0
+
+ ---------- 
+64.Tyrantrum|1
+---
+1:Head Smash,100.0%,1.0
+2:Iron Head,100.0%,1.0
+3:Superpower,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+65.Terrakion|3
+---
+1:Close Combat,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Rock Slide,100.0%,3.0
+4:Quick Attack,66.6666666667%,2.0
+5:Quick Guard,33.3333333333%,1.0
+
+ ---------- 
+66.Scrafty|1
+---
+1:Foul Play,100.0%,1.0
+2:Drain Punch,100.0%,1.0
+3:Fake Out,100.0%,1.0
+4:Super Fang,100.0%,1.0
+
+ ---------- 
+67.Moltres|1
+---
+1:Hurricane,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Safeguard,100.0%,1.0
+4:Flamethrower,100.0%,1.0
+
+ ---------- 
+68.Giratina|2
+---
+1:Thunder Wave,100.0%,2.0
+2:Shadow Force,50.0%,1.0
+3:Iron Head,50.0%,1.0
+4:Draco Meteor,50.0%,1.0
+5:Shadow Sneak,50.0%,1.0
+6:Destiny Bond,50.0%,1.0
+7:Protect,50.0%,1.0
+
+ ---------- 
+69.Porygon-Z|1
+---
+1:Trick,100.0%,1.0
+2:Uproar,100.0%,1.0
+3:Tri Attack,100.0%,1.0
+4:Hyper Beam,100.0%,1.0
+
+ ---------- 
+70.Lucario|1
+---
+1:Feint,100.0%,1.0
+2:Follow Me,100.0%,1.0
+3:Focus Punch,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+71.Lopunny|1
+---
+1:Teeter Dance,100.0%,1.0
+2:Fake Out,100.0%,1.0
+3:Encore,100.0%,1.0
+4:Frustration,100.0%,1.0
+
+ ---------- 
+72.Staraptor|1
+---
+1:Final Gambit,100.0%,1.0
+2:Brave Bird,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Whirlwind,100.0%,1.0
+
+ ---------- 
+73.Walrein|1
+---
+1:Brine,100.0%,1.0
+2:Icy Wind,100.0%,1.0
+3:Super Fang,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+74.Breloom|2
+---
+1:Bullet Seed,100.0%,2.0
+2:Mach Punch,100.0%,2.0
+3:Spore,100.0%,2.0
+4:Protect,50.0%,1.0
+5:Rock Slide,50.0%,1.0
+
+ ---------- 
+75.Blaziken|2
+---
+1:Flare Blitz,100.0%,2.0
+2:Protect,100.0%,2.0
+3:Baton Pass,50.0%,1.0
+4:High Jump Kick,50.0%,1.0
+5:Swords Dance,50.0%,1.0
+6:Thunder Punch,50.0%,1.0
+
+ ---------- 
+76.Suicune|1
+---
+1:Snarl,100.0%,1.0
+2:Scald,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+77.Dragonite|1
+---
+1:Extreme Speed,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Ice Punch,100.0%,1.0
+
+ ---------- 
+78.Parasect|1
+---
+1:Rage Powder,100.0%,1.0
+2:Wide Guard,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Spore,100.0%,1.0
+
+ ---------- 
+79.Heliolisk|1
+---
+1:Volt Switch,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Thunder,100.0%,1.0
+4:Surf,100.0%,1.0
+
+ ---------- 
+80.Tornadus-T|1
+---
+1:Hurricane,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Taunt,100.0%,1.0
+4:Substitute,100.0%,1.0
+
+ ---------- 
+81.Gothitelle|1
+---
+1:Trick Room,100.0%,1.0
+2:Helping Hand,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Psychic,100.0%,1.0
+
+ ---------- 
+82.Cherrim|1
+---
+1:Seed Bomb,100.0%,1.0
+2:Worry Seed,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+83.Latios|1
+---
+1:Psyshock,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Trick,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+84.Tyranitar|1
+---
+1:Iron Head,100.0%,1.0
+2:Crunch,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+85.Raikou|1
+---
+1:Snarl,100.0%,1.0
+2:Shadow Ball,100.0%,1.0
+3:Hidden Power,100.0%,1.0
+4:Thunder,100.0%,1.0
+
+ ---------- 
+86.Blissey|1
+---
+1:Helping Hand,100.0%,1.0
+2:Soft-Boiled,100.0%,1.0
+3:Thunder Wave,100.0%,1.0
+4:Seismic Toss,100.0%,1.0
+
+ ---------- 
+87.Porygon2|1
+---
+1:Trick Room,100.0%,1.0
+2:Tri Attack,100.0%,1.0
+3:Recover,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+88.Heracross|1
+---
+1:Close Combat,100.0%,1.0
+2:Bullet Seed,100.0%,1.0
+3:Pin Missile,100.0%,1.0
+4:Fury Attack,100.0%,1.0
+
+ ---------- 
+89.Misdreavus|1
+---
+1:Foul Play,100.0%,1.0
+2:Skill Swap,100.0%,1.0
+3:Pain Split,100.0%,1.0
+4:Icy Wind,100.0%,1.0
+
+ ---------- 
+90.Azumarill|1
+---
+1:Play Rough,100.0%,1.0
+2:Aqua Jet,100.0%,1.0
+3:Superpower,100.0%,1.0
+4:Waterfall,100.0%,1.0
+
+ ---------- 
+91.Exeggutor|1
+---
+1:Leaf Storm,100.0%,1.0
+2:Gravity,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Sleep Powder,100.0%,1.0
+
+ ---------- 

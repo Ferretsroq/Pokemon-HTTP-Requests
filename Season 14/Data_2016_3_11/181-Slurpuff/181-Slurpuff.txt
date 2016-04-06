@@ -1,0 +1,119 @@
+181:Slurpuff|55
+ ---------- 
+Moves used:
+1:Protect,98.1818181818%,54.0
+2:Play Rough,96.3636363636%,53.0
+3:Belly Drum,94.5454545455%,52.0
+4:Copycat,72.7272727273%,40.0
+5:Drain Punch,23.6363636364%,13.0
+6:Dazzling Gleam,3.63636363636%,2.0
+7:Confide,1.81818181818%,1.0
+8:Cotton Guard,1.81818181818%,1.0
+9:After You,1.81818181818%,1.0
+10:Gastro Acid,1.81818181818%,1.0
+11:Helping Hand,1.81818181818%,1.0
+12:Cotton Spore,1.81818181818%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,96.3636363636%,53.0
+2:Choice Scarf,1.81818181818%,1.0
+3:Leftovers,1.81818181818%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,74.5454545455%,41.0
+2:Sweet Veil,25.4545454545%,14.0
+
+ ---------- 
+Natures used:
+1:Adamant,96.3636363636%,53.0
+2:Calm,1.81818181818%,1.0
+3:Timid,1.81818181818%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Lopunny
+4:Scizor
+5:Purugly
+6:Salamence
+7:Mr. Mime
+8:Raichu
+9:Xerneas
+10:Rayquaza
+11:Zygarde
+12:Talonflame
+13:Whimsicott
+14:Mewtwo
+15:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Play Rough,80.0%,44.0
+2:Drain Punch,10.0%,5.5
+3:Copycat,10.0%,5.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,12.8205128205%,7.05128205128
+2:Dragon Ascent,10.2564102564%,5.64102564103
+3:Water Spout,10.2564102564%,5.64102564103
+4:Dazzling Gleam,7.69230769231%,4.23076923077
+5:Extreme Speed,7.69230769231%,4.23076923077
+6:Iron Head,5.12820512821%,2.82051282051
+7:Sucker Punch,5.12820512821%,2.82051282051
+8:Origin Pulse,2.5641025641%,1.41025641026
+9:Foul Play,2.5641025641%,1.41025641026
+10:Shadow Force,2.5641025641%,1.41025641026
+11:Gunk Shot,2.5641025641%,1.41025641026
+12:Cross Poison,2.5641025641%,1.41025641026
+13:Air Slash,2.5641025641%,1.41025641026
+14:Flare Blitz,2.5641025641%,1.41025641026
+15:U-turn,2.5641025641%,1.41025641026
+16:Overheat,2.5641025641%,1.41025641026
+17:Hyper Voice,2.5641025641%,1.41025641026
+18:Sacred Fire,2.5641025641%,1.41025641026
+19:Frustration,2.5641025641%,1.41025641026
+20:Return,2.5641025641%,1.41025641026
+0:Other,5.12820512821%,2.82051282051
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Groudon
+3:Togekiss
+4:Kyogre
+5:Smeargle
+6:Xerneas
+7:Yveltal
+8:Kyurem
+9:Landorus
+10:Tornadus
+11:Mienshao
+12:Liepard
+13:Salamence
+14:Salamence
+15:Mawile
+16:Sableye
+17:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Yveltal
+5:Xerneas
+6:Mawile
+7:Kangaskhan
+8:Greninja
+9:Landorus
+10:Giratina
+11:Garchomp
+12:Salamence
+13:Ho-Oh
+14:Smeargle
+15:Crobat
+16:Arcanine

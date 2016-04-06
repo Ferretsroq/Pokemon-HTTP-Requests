@@ -1,0 +1,167 @@
+5:Salamence|7225
+ ---------- 
+Moves used:
+1:Protect,98.6574394464%,7128.0
+2:Hyper Voice,91.7370242215%,6628.0
+3:Double-Edge,82.76816609%,5980.0
+4:Draco Meteor,59.2664359862%,4282.0
+5:Tailwind,32.0276816609%,2314.0
+6:Substitute,8.62283737024%,623.0
+7:Flamethrower,8.17993079585%,591.0
+8:Fire Blast,5.41176470588%,391.0
+9:Hyper Beam,2.06228373702%,149.0
+10:Snore,1.43944636678%,104.0
+11:Earthquake,1.21799307958%,88.0
+12:Dragon Dance,1.20415224913%,87.0
+13:Dragon Pulse,1.03806228374%,75.0
+14:Giga Impact,1.02422145329%,74.0
+15:Hydro Pump,0.955017301038%,69.0
+16:Return,0.927335640138%,67.0
+17:Rock Slide,0.871972318339%,63.0
+18:Roar,0.747404844291%,54.0
+19:Dragon Claw,0.567474048443%,41.0
+20:Hidden Power,0.470588235294%,34.0
+0:Other,0.80276816609%,58.0
+
+ ---------- 
+Items used:
+1:Salamencite,99.0726643599%,7158.0
+2:Lum Berry,0.456747404844%,33.0
+3:Life Orb,0.166089965398%,12.0
+4:Choice Scarf,0.110726643599%,8.0
+5:Yache Berry,0.083044982699%,6.0
+6:Focus Sash,0.0553633217993%,4.0
+7:Chesto Berry,0.0276816608997%,2.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,7225.0
+
+ ---------- 
+Natures used:
+1:Naive,65.7301038062%,4749.0
+2:Timid,16.8442906574%,1217.0
+3:Hasty,12.955017301%,936.0
+4:Jolly,1.68858131488%,122.0
+5:Modest,1.21799307958%,88.0
+6:Adamant,0.871972318339%,63.0
+7:Rash,0.290657439446%,21.0
+8:Brave,0.221453287197%,16.0
+9:Quiet,0.0553633217993%,4.0
+10:Docile,0.0415224913495%,3.0
+11:Naughty,0.0415224913495%,3.0
+12:Mild,0.0276816608997%,2.0
+13:Lonely,0.0138408304498%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Smeargle
+6:Thundurus
+7:Cresselia
+8:Ferrothorn
+9:Dialga
+10:Crobat
+11:Amoonguss
+12:Landorus
+13:Bronzong
+14:Yveltal
+15:Weavile
+16:Whimsicott
+17:Gengar
+18:Liepard
+19:Raichu
+20:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,59.8121601582%,4321.42857143
+2:Double-Edge,27.3109243697%,1973.21428571
+3:Draco Meteor,9.31784478497%,673.214285714
+4:Flamethrower,1.11220958972%,80.3571428571
+5:Fire Blast,0.420168067227%,30.3571428571
+6:Hyper Beam,0.420168067227%,30.3571428571
+7:Rock Slide,0.370736529906%,26.7857142857
+8:Giga Impact,0.271873455264%,19.6428571429
+9:Return,0.271873455264%,19.6428571429
+10:Snore,0.173010380623%,12.5
+11:Hydro Pump,0.148294611962%,10.7142857143
+12:Earthquake,0.0988630746416%,7.14285714286
+13:Dragon Pulse,0.0741473059812%,5.35714285714
+14:Dragon Claw,0.0741473059812%,5.35714285714
+15:Hidden Power,0.0741473059812%,5.35714285714
+16:Heat Wave,0.0247157686604%,1.78571428571
+17:Frustration,0.0247157686604%,1.78571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,20.151187905%,1455.92332613
+2:Dazzling Gleam,16.2850971922%,1176.59827214
+3:Draco Meteor,4.29805615551%,310.534557235
+4:Moonblast,4.03887688985%,291.808855292
+5:Hidden Power,3.54211663067%,255.917926566
+6:Rock Slide,3.45572354212%,249.676025918
+7:Water Spout,3.19654427646%,230.950323974
+8:Hyper Voice,2.95896328294%,213.785097192
+9:Eruption,2.50539956803%,181.01511879
+10:Sucker Punch,2.37580993521%,171.652267819
+11:Double-Edge,2.37580993521%,171.652267819
+12:Origin Pulse,2.28941684665%,165.410367171
+13:Dragon Pulse,2.26781857451%,163.849892009
+14:Brave Bird,2.09503239741%,151.366090713
+15:Precipice Blades,1.98704103672%,143.563714903
+16:Extreme Speed,1.72786177106%,124.838012959
+17:Dragon Ascent,1.64146868251%,118.596112311
+18:Gyro Ball,1.51187904968%,109.233261339
+19:Play Rough,1.1879049676%,85.8261339093
+20:Thunderbolt,1.1879049676%,85.8261339093
+0:Other,12.807775378%,925.361771058
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Talonflame
+4:Kyogre
+5:Salamence
+6:Smeargle
+7:Xerneas
+8:Rayquaza
+9:Crobat
+10:Landorus
+11:Gengar
+12:Whimsicott
+13:Ferrothorn
+14:Yveltal
+15:Thundurus
+16:Rayquaza
+17:Liepard
+18:Cresselia
+19:Amoonguss
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Rayquaza
+7:Cresselia
+8:Gengar
+9:Dialga
+10:Talonflame
+11:Thundurus
+12:Yveltal
+13:Mawile
+14:Weavile
+15:Kyogre
+16:Ferrothorn
+17:Landorus
+18:Rayquaza
+19:Whimsicott
+20:Kyurem

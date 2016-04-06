@@ -1,0 +1,158 @@
+20:Whimsicott|2949
+ ---------- 
+Moves used:
+1:Encore,78.4672770431%,2314.0
+2:Tailwind,63.2078670736%,1864.0
+3:Safeguard,44.8287555103%,1322.0
+4:Moonblast,33.6724313327%,993.0
+5:Protect,32.0786707358%,946.0
+6:Endeavor,29.0946083418%,858.0
+7:Taunt,24.7541539505%,730.0
+8:Trick Room,18.1078331638%,534.0
+9:Grass Whistle,14.4455747711%,426.0
+10:Worry Seed,14.4116649712%,425.0
+11:Grass Knot,11.1902339776%,330.0
+12:Fake Tears,10.9189555782%,322.0
+13:Beat Up,10.2746693795%,303.0
+14:Swagger,7.59579518481%,224.0
+15:Helping Hand,4.001356392%,118.0
+16:Dazzling Gleam,0.373007799254%,11.0
+17:Energy Ball,0.373007799254%,11.0
+18:Memento,0.373007799254%,11.0
+19:Stun Spore,0.373007799254%,11.0
+20:Fling,0.271278399457%,8.0
+0:Other,1.18684299763%,35.0
+
+ ---------- 
+Items used:
+1:Focus Sash,84.6388606307%,2496.0
+2:Life Orb,4.06917599186%,120.0
+3:Mental Herb,3.22143099356%,95.0
+4:Rocky Helmet,2.9501525941%,87.0
+5:Sitrus Berry,2.44150559512%,72.0
+6:Wide Lens,0.77992539844%,23.0
+7:Lum Berry,0.542556798915%,16.0
+8:Coba Berry,0.474737199051%,14.0
+9:Leftovers,0.30518819939%,9.0
+10:Lansat Berry,0.271278399457%,8.0
+11:Focus Band,0.135639199729%,4.0
+12:Eject Button,0.0678195998644%,2.0
+13:Bright Powder,0.0339097999322%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,2949.0
+
+ ---------- 
+Natures used:
+1:Timid,78.7046456426%,2321.0
+2:Relaxed,11.3597829773%,335.0
+3:Bold,4.23872499152%,125.0
+4:Quiet,2.78060359444%,82.0
+5:Modest,1.11902339776%,33.0
+6:Calm,0.847744998305%,25.0
+7:Jolly,0.847744998305%,25.0
+8:Sassy,0.0678195998644%,2.0
+9:Bashful,0.0339097999322%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Gengar
+8:Terrakion
+9:Kyurem
+10:Meowstic
+11:Sableye
+12:Yveltal
+13:Talonflame
+14:Dialga
+15:Landorus
+16:Cresselia
+17:Ferrothorn
+18:Mawile
+19:Crobat
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Moonblast,77.4086378738%,2282.7807309
+2:Grass Knot,17.6079734219%,519.259136213
+3:Beat Up,3.65448504983%,107.77076412
+4:Energy Ball,0.664451827243%,19.5946843854
+5:Dazzling Gleam,0.332225913621%,9.79734219269
+6:Nature Power,0.332225913621%,9.79734219269
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.7332089552%,375.50233209
+2:Hyper Voice,8.11567164179%,239.331156716
+3:Ice Beam,7.50932835821%,221.450093284
+4:Double-Edge,6.38992537313%,188.438899254
+5:Water Spout,5.55037313433%,163.680503731
+6:Eruption,5.55037313433%,163.680503731
+7:Precipice Blades,5.45708955224%,160.929570896
+8:Brave Bird,5.45708955224%,160.929570896
+9:Gyro Ball,4.01119402985%,118.29011194
+10:Origin Pulse,3.59141791045%,105.910914179
+11:Extreme Speed,2.75186567164%,81.1525186567
+12:Fire Punch,2.37873134328%,70.1487873134
+13:Iron Head,1.7723880597%,52.2677238806
+14:Rock Slide,1.67910447761%,49.5167910448
+15:Sludge Bomb,1.49253731343%,44.0149253731
+16:Moonblast,1.39925373134%,41.2639925373
+17:Thunderbolt,1.25932835821%,37.1375932836
+18:Fake Out,1.21268656716%,35.7621268657
+19:Return,1.21268656716%,35.7621268657
+20:Blizzard,1.02611940299%,30.260261194
+0:Other,16.9309701493%,499.294309701
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kyogre
+3:Xerneas
+4:Groudon
+5:Smeargle
+6:Kangaskhan
+7:Thundurus
+8:Yveltal
+9:Rayquaza
+10:Rayquaza
+11:Whimsicott
+12:Liepard
+13:Weavile
+14:Gengar
+15:Landorus
+16:Salamence
+17:Talonflame
+18:Zapdos
+19:Infernape
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Ferrothorn
+8:Rayquaza
+9:Cresselia
+10:Yveltal
+11:Mawile
+12:Thundurus
+13:Landorus
+14:Dialga
+15:Kyurem
+16:Weavile
+17:Rayquaza
+18:Bronzong
+19:Smeargle
+20:Gengar

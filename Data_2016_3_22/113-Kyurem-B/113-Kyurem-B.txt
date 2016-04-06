@@ -1,0 +1,76 @@
+113:Kyurem-B|18
+ ---------- 
+Moves used:
+1:Fusion Bolt,94.4444444444%,17.0
+2:Dragon Claw,94.4444444444%,17.0
+3:Iron Head,83.3333333333%,15.0
+4:Protect,61.1111111111%,11.0
+5:Rock Slide,27.7777777778%,5.0
+6:Freeze Shock,22.2222222222%,4.0
+7:Draco Meteor,5.55555555556%,1.0
+8:Zen Headbutt,5.55555555556%,1.0
+9:Blizzard,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Focus Band,50.0%,9.0
+2:Assault Vest,27.7777777778%,5.0
+3:Choice Scarf,11.1111111111%,2.0
+4:Power Herb,11.1111111111%,2.0
+
+ ---------- 
+Abilities used:
+1:Teravolt,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Brave,77.7777777778%,14.0
+2:Adamant,16.6666666667%,3.0
+3:Timid,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Machamp
+3:Kyogre
+4:Talonflame
+5:Cresselia
+6:Yveltal
+7:Golem
+8:Landorus
+9:Lickilicky
+10:Weavile
+11:Kangaskhan
+12:Gengar
+13:Psyduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fusion Bolt,60.0%,10.8
+2:Iron Head,20.0%,3.6
+3:Dragon Claw,20.0%,3.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,3.6
+2:Iron Head,20.0%,3.6
+3:Gyro Ball,20.0%,3.6
+4:Precipice Blades,10.0%,1.8
+5:Play Rough,10.0%,1.8
+6:Draco Meteor,10.0%,1.8
+7:Hyper Voice,10.0%,1.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Gothitelle
+4:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile
+2:Xerneas
+3:Ferrothorn
+4:Salamence
+5:Groudon

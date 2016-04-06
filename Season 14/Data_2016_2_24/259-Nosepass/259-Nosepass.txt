@@ -1,0 +1,49 @@
+259:Nosepass|7
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,7.0
+2:Magic Coat,100.0%,7.0
+3:Thunder Wave,100.0%,7.0
+4:Rock Slide,57.1428571429%,4.0
+5:Rock Tomb,42.8571428571%,3.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Glalie
+4:Kangaskhan
+5:Talonflame
+6:Gengar
+7:Beedrill
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Tomb,66.6666666667%,4.66666666667
+2:Rock Slide,33.3333333333%,2.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,66.6666666667%,4.66666666667
+2:Dazzling Gleam,33.3333333333%,2.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

@@ -1,0 +1,61 @@
+163:Hitmonlee|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Poison Jab,100.0%,1.0
+3:Close Combat,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Limber,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Landorus
+4:Weavile
+5:Magmortar
+6:Lugia
+7:Noivern
+8:Aurorus
+9:Thundurus
+10:Purugly
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,0.333333333333
+2:Scald,11.1111111111%,0.111111111111
+3:Dragon Pulse,11.1111111111%,0.111111111111
+4:Return,11.1111111111%,0.111111111111
+5:Thunderbolt,11.1111111111%,0.111111111111
+6:Ice Beam,11.1111111111%,0.111111111111
+7:Fire Punch,11.1111111111%,0.111111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Smeargle
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Thundurus
+4:Dialga
+5:Groudon
+6:Kangaskhan

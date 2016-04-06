@@ -1,0 +1,37 @@
+332:Swellow|1
+ ---------- 
+Moves used:
+1:Brave Bird,100.0%,1.0
+2:U-turn,100.0%,1.0
+3:Facade,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

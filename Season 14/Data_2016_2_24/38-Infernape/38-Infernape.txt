@@ -1,0 +1,165 @@
+38:Infernape|2243
+ ---------- 
+Moves used:
+1:Fake Out,98.2166740972%,2203.0
+2:Close Combat,80.8292465448%,1813.0
+3:Quick Guard,56.219349086%,1261.0
+4:Overheat,44.9843958984%,1009.0
+5:Feint,24.7436469015%,555.0
+6:Flare Blitz,22.0686580473%,495.0
+7:Mach Punch,13.4195274186%,301.0
+8:Encore,12.8399465002%,288.0
+9:Endeavor,7.80205082479%,175.0
+10:Protect,5.43914400357%,122.0
+11:Roar,4.59206419973%,103.0
+12:Taunt,4.54748105216%,102.0
+13:Hidden Power,3.87873383861%,87.0
+14:Heat Wave,3.70040124833%,83.0
+15:Flamethrower,2.94248773963%,66.0
+16:Rock Slide,2.49665626393%,56.0
+17:Grass Knot,2.13999108337%,48.0
+18:Gunk Shot,2.00624164066%,45.0
+19:Will-O-Wisp,1.51582701739%,34.0
+20:Role Play,1.29291127954%,29.0
+0:Other,4.32456531431%,97.0
+
+ ---------- 
+Items used:
+1:Focus Sash,71.1547035221%,1596.0
+2:Life Orb,22.2915737851%,500.0
+3:Black Belt,2.63040570664%,59.0
+4:Lum Berry,1.47124386982%,33.0
+5:Expert Belt,0.624164065983%,14.0
+6:Coba Berry,0.624164065983%,14.0
+7:White Herb,0.490414623272%,11.0
+8:Fist Plate,0.356665180562%,8.0
+9:Razor Fang,0.222915737851%,5.0
+10:Lax Incense,0.0445831475702%,1.0
+11:Scope Lens,0.0445831475702%,1.0
+12:Focus Band,0.0445831475702%,1.0
+
+ ---------- 
+Abilities used:
+1:Blaze,75.7913508694%,1700.0
+2:Iron Fist,24.2086491306%,543.0
+
+ ---------- 
+Natures used:
+1:Naive,39.6344181899%,889.0
+2:Jolly,35.6219349086%,799.0
+3:Hasty,12.8845296478%,289.0
+4:Adamant,7.04413731609%,158.0
+5:Timid,3.7449843959%,84.0
+6:Mild,1.06999554169%,24.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Ferrothorn
+5:Gengar
+6:Groudon
+7:Mawile
+8:Salamence
+9:Thundurus
+10:Yveltal
+11:Talonflame
+12:Crobat
+13:Cresselia
+14:Togekiss
+15:Dialga
+16:Smeargle
+17:Scizor
+18:Landorus
+19:Glaceon
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,44.6706586826%,1001.96287425
+2:Overheat,17.9640718563%,402.934131737
+3:Feint,9.7005988024%,217.584431138
+4:Flare Blitz,9.10179640719%,204.153293413
+5:Mach Punch,6.34730538922%,142.37005988
+6:Fake Out,2.87425149701%,64.4694610778
+7:Heat Wave,2.63473053892%,59.097005988
+8:Hidden Power,1.4371257485%,32.2347305389
+9:Rock Slide,1.19760479042%,26.8622754491
+10:Flamethrower,1.19760479042%,26.8622754491
+11:Thunder Punch,1.19760479042%,26.8622754491
+12:Gunk Shot,0.479041916168%,10.7449101796
+13:Double Kick,0.479041916168%,10.7449101796
+14:Fire Punch,0.359281437126%,8.05868263473
+15:Grass Knot,0.239520958084%,5.37245508982
+16:Low Kick,0.119760479042%,2.68622754491
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.7635636779%,308.716733295
+2:Precipice Blades,8.39520274129%,188.304397487
+3:Water Spout,6.62478583666%,148.593946316
+4:Origin Pulse,6.56767561393%,147.312964021
+5:Hyper Voice,5.71102227299%,128.098229583
+6:Brave Bird,5.31125071388%,119.131353512
+7:Eruption,5.31125071388%,119.131353512
+8:Double-Edge,3.99771559109%,89.6687607082
+9:Earth Power,3.65505425471%,81.9828669332
+10:Rock Slide,2.96973158195%,66.6110793832
+11:Sucker Punch,2.05596801828%,46.1153626499
+12:Thunderbolt,2.05596801828%,46.1153626499
+13:Extreme Speed,1.88463735009%,42.2724157624
+14:Ice Beam,1.59908623644%,35.8675042833
+15:Sludge Bomb,1.54197601371%,34.5865219874
+16:Return,1.37064534552%,30.7435750999
+17:Earthquake,1.37064534552%,30.7435750999
+18:Oblivion Wing,1.31353512279%,29.4625928041
+19:Moonblast,1.19931467733%,26.9006282125
+20:Fake Out,1.19931467733%,26.9006282125
+0:Other,17.133066819%,384.294688749
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Xerneas
+4:Ferrothorn
+5:Kyogre
+6:Mawile
+7:Talonflame
+8:Groudon
+9:Liepard
+10:Crobat
+11:Whimsicott
+12:Kangaskhan
+13:Weavile
+14:Amoonguss
+15:Cresselia
+16:Dialga
+17:Rayquaza
+18:Yveltal
+19:Togekiss
+20:Greninja
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Thundurus
+10:Yveltal
+11:Cresselia
+12:Gengar
+13:Mawile
+14:Palkia
+15:Dialga
+16:Gengar
+17:Ferrothorn
+18:Kyurem
+19:Ho-Oh
+20:Terrakion

@@ -1,0 +1,101 @@
+206:Kingler|30
+ ---------- 
+Moves used:
+1:Crabhammer,100.0%,30.0
+2:Wide Guard,96.6666666667%,29.0
+3:Protect,83.3333333333%,25.0
+4:Superpower,80.0%,24.0
+5:Ally Switch,33.3333333333%,10.0
+6:Knock Off,3.33333333333%,1.0
+7:Rock Slide,3.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,63.3333333333%,19.0
+2:Expert Belt,13.3333333333%,4.0
+3:Focus Band,13.3333333333%,4.0
+4:Sitrus Berry,6.66666666667%,2.0
+5:Choice Scarf,3.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,63.3333333333%,19.0
+2:Shell Armor,20.0%,6.0
+3:Hyper Cutter,16.6666666667%,5.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,30.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Crobat
+4:Xerneas
+5:Rayquaza
+6:Nidoking
+7:Infernape
+8:Gengar
+9:Aerodactyl
+10:Sylveon
+11:Talonflame
+12:Amoonguss
+13:Palkia
+14:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Superpower,50.0%,15.0
+2:Crabhammer,42.8571428571%,12.8571428571
+3:Rock Slide,7.14285714286%,2.14285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,12.0%,3.6
+2:Earth Power,12.0%,3.6
+3:Water Spout,8.0%,2.4
+4:Thunder,8.0%,2.4
+5:Precipice Blades,4.0%,1.2
+6:Dazzling Gleam,4.0%,1.2
+7:Moonblast,4.0%,1.2
+8:Psystrike,4.0%,1.2
+9:Power Whip,4.0%,1.2
+10:Draco Meteor,4.0%,1.2
+11:Bullet Punch,4.0%,1.2
+12:Sucker Punch,4.0%,1.2
+13:Hyper Voice,4.0%,1.2
+14:Eruption,4.0%,1.2
+15:Shadow Ball,4.0%,1.2
+16:Ice Beam,4.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Thundurus
+4:Ferrothorn
+5:Dialga
+6:Groudon
+7:Kyogre
+8:Metagross
+9:Mawile
+10:Smeargle
+11:Crobat
+12:Mewtwo
+13:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Xerneas
+5:Aegislash
+6:Thundurus
+7:Ferrothorn
+8:Dialga
+9:Salamence
+10:Scizor
+11:Mewtwo
+12:Kangaskhan

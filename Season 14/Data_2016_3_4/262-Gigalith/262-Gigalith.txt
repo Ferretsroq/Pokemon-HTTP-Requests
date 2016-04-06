@@ -1,0 +1,66 @@
+262:Gigalith|3
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,3.0
+2:Earthquake,100.0%,3.0
+3:Stone Edge,66.6666666667%,2.0
+4:Explosion,66.6666666667%,2.0
+5:Superpower,33.3333333333%,1.0
+6:Rock Slide,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,66.6666666667%,2.0
+2:Leftovers,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,66.6666666667%,2.0
+2:Brave,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Kyurem
+3:Musharna
+4:Kyogre
+5:Zweilous
+6:Cresselia
+7:Mawile
+8:Sableye
+9:Yveltal
+10:Trevenant
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,60.0%,1.8
+2:Stone Edge,20.0%,0.6
+3:Explosion,20.0%,0.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,28.5714285714%,0.857142857143
+2:Iron Head,14.2857142857%,0.428571428571
+3:Sucker Punch,14.2857142857%,0.428571428571
+4:Fake Out,14.2857142857%,0.428571428571
+5:Ice Beam,14.2857142857%,0.428571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Whimsicott
+4:Crobat
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Aegislash
+3:Kyogre
+4:Mawile
+5:Raichu

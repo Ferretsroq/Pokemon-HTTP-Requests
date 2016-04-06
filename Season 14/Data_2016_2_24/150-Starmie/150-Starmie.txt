@@ -1,0 +1,97 @@
+150:Starmie|69
+ ---------- 
+Moves used:
+1:Scald,100.0%,69.0
+2:Psychic,100.0%,69.0
+3:Trick Room,98.5507246377%,68.0
+4:Protect,98.5507246377%,68.0
+5:Minimize,1.44927536232%,1.0
+6:Ice Beam,1.44927536232%,1.0
+
+ ---------- 
+Items used:
+1:Iron Ball,98.5507246377%,68.0
+2:Bright Powder,1.44927536232%,1.0
+
+ ---------- 
+Abilities used:
+1:Analytic,98.5507246377%,68.0
+2:Natural Cure,1.44927536232%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,98.5507246377%,68.0
+2:Timid,1.44927536232%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Ho-Oh
+4:Salamence
+5:Manectric
+6:Weavile
+7:Rayquaza
+8:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,66.6666666667%,46.0
+2:Psychic,33.3333333333%,23.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,15.0%,10.35
+2:Origin Pulse,10.0%,6.9
+3:Precipice Blades,7.5%,5.175
+4:Dazzling Gleam,7.5%,5.175
+5:Water Spout,7.5%,5.175
+6:Play Rough,5.0%,3.45
+7:Earth Power,5.0%,3.45
+8:Extreme Speed,5.0%,3.45
+9:Rock Slide,5.0%,3.45
+10:Thunder,5.0%,3.45
+11:Thunderbolt,5.0%,3.45
+12:Power Whip,2.5%,1.725
+13:Flash Cannon,2.5%,1.725
+14:Dragon Pulse,2.5%,1.725
+15:Seed Bomb,2.5%,1.725
+16:Frustration,2.5%,1.725
+17:Sludge Bomb,2.5%,1.725
+18:Blizzard,2.5%,1.725
+19:Ice Beam,2.5%,1.725
+20:Double-Edge,2.5%,1.725
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Talonflame
+4:Gengar
+5:Salamence
+6:Terrakion
+7:Liepard
+8:Palkia
+9:Rayquaza
+10:Scizor
+11:Kangaskhan
+12:Slowbro
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Mawile
+6:Ferrothorn
+7:Dialga
+8:Rayquaza
+9:Kyogre
+10:Yveltal
+11:Kyurem
+12:Thundurus
+13:Cresselia
+14:Flygon
+15:Zapdos
+16:Gengar

@@ -1,0 +1,72 @@
+238:Arbok|17
+ ---------- 
+Moves used:
+1:Gunk Shot,100.0%,17.0
+2:Sucker Punch,52.9411764706%,9.0
+3:Glare,52.9411764706%,9.0
+4:Switcheroo,47.0588235294%,8.0
+5:Gastro Acid,47.0588235294%,8.0
+6:Beat Up,47.0588235294%,8.0
+7:Rock Tomb,35.2941176471%,6.0
+8:Protect,17.6470588235%,3.0
+
+ ---------- 
+Items used:
+1:Black Sludge,52.9411764706%,9.0
+2:Choice Scarf,47.0588235294%,8.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,17.0
+
+ ---------- 
+Top teammates:
+1:Cobalion
+2:Giratina
+3:Rayquaza
+4:Gourgeist
+5:Cresselia
+6:Clefable
+7:Kyogre
+8:Terrakion
+9:Groudon
+10:Registeel
+11:Kyurem
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gunk Shot,100.0%,17.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,21.4285714286%,3.64285714286
+2:Eruption,14.2857142857%,2.42857142857
+3:Precipice Blades,7.14285714286%,1.21428571429
+4:Psyshock,7.14285714286%,1.21428571429
+5:Earth Power,7.14285714286%,1.21428571429
+6:Air Slash,7.14285714286%,1.21428571429
+7:U-turn,7.14285714286%,1.21428571429
+8:Water Spout,7.14285714286%,1.21428571429
+9:Hyper Voice,7.14285714286%,1.21428571429
+10:Psychic,7.14285714286%,1.21428571429
+11:Fire Punch,7.14285714286%,1.21428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Kangaskhan
+4:Landorus
+5:Dialga
+6:Togekiss
+7:Kyogre
+8:Latios
+9:Lugia

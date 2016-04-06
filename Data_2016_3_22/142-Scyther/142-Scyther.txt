@@ -1,0 +1,53 @@
+142:Scyther|1
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Feint,100.0%,1.0
+4:Safeguard,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Landorus
+3:Ferrothorn
+4:Kyogre
+5:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,0.25
+2:Origin Pulse,12.5%,0.125
+3:Snarl,12.5%,0.125
+4:Water Spout,12.5%,0.125
+5:Rock Slide,12.5%,0.125
+6:Thunderbolt,12.5%,0.125
+7:Double-Edge,12.5%,0.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal
+3:Landorus
+4:Kyogre
+5:Kyogre
+6:Raikou
+7:Kangaskhan

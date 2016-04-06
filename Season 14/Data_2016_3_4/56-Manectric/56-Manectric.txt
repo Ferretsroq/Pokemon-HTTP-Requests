@@ -1,0 +1,138 @@
+56:Manectric|679
+ ---------- 
+Moves used:
+1:Protect,93.3726067747%,634.0
+2:Volt Switch,69.9558173785%,475.0
+3:Hidden Power,65.5375552283%,445.0
+4:Thunder,41.6789396171%,283.0
+5:Thunderbolt,32.4005891016%,220.0
+6:Snarl,30.7805596465%,209.0
+7:Flamethrower,29.4550810015%,200.0
+8:Overheat,16.6421207658%,113.0
+9:Roar,7.36377025037%,50.0
+10:Light Screen,3.9764359352%,27.0
+11:Discharge,3.24005891016%,22.0
+12:Thunder Wave,3.24005891016%,22.0
+13:Electric Terrain,1.32547864507%,9.0
+14:Substitute,1.03092783505%,7.0
+
+ ---------- 
+Items used:
+1:Manectite,97.6435935199%,663.0
+2:Safety Goggles,2.20913107511%,15.0
+3:Amulet Coin,0.147275405007%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,87.7761413844%,596.0
+2:Static,11.1929307806%,76.0
+3:Minus,1.03092783505%,7.0
+
+ ---------- 
+Natures used:
+1:Timid,96.4653902798%,655.0
+2:Modest,3.53460972018%,24.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Ferrothorn
+4:Cresselia
+5:Xerneas
+6:Yveltal
+7:Rayquaza
+8:Crobat
+9:Ho-Oh
+10:Talonflame
+11:Bronzong
+12:Salamence
+13:Tornadus
+14:Starmie
+15:Liepard
+16:Giratina
+17:Whimsicott
+18:Weavile
+19:Mienshao
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Switch,23.0508474576%,156.515254237
+2:Thunderbolt,22.7118644068%,154.213559322
+3:Thunder,18.9830508475%,128.894915254
+4:Hidden Power,17.2881355932%,117.386440678
+5:Flamethrower,8.81355932203%,59.8440677966
+6:Snarl,4.74576271186%,32.2237288136
+7:Discharge,2.37288135593%,16.1118644068
+8:Overheat,2.03389830508%,13.8101694915
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,12.8865979381%,87.5
+2:Origin Pulse,12.3711340206%,84.0
+3:Dazzling Gleam,8.50515463918%,57.75
+4:Precipice Blades,6.70103092784%,45.5
+5:Earth Power,5.92783505155%,40.25
+6:Draco Meteor,5.67010309278%,38.5
+7:Extreme Speed,5.41237113402%,36.75
+8:Moonblast,4.63917525773%,31.5
+9:Sucker Punch,4.38144329897%,29.75
+10:Ice Beam,3.09278350515%,21.0
+11:Eruption,2.57731958763%,17.5
+12:Gyro Ball,1.80412371134%,12.25
+13:Hyper Voice,1.80412371134%,12.25
+14:Sludge Bomb,1.80412371134%,12.25
+15:Earthquake,1.54639175258%,10.5
+16:Double-Edge,1.54639175258%,10.5
+17:Scald,1.28865979381%,8.75
+18:Power Whip,1.28865979381%,8.75
+19:Brave Bird,1.28865979381%,8.75
+20:Rock Slide,1.28865979381%,8.75
+0:Other,13.1443298969%,89.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kyogre
+3:Crobat
+4:Salamence
+5:Rayquaza
+6:Ferrothorn
+7:Weavile
+8:Smeargle
+9:Thundurus
+10:Liepard
+11:Togekiss
+12:Kangaskhan
+13:Groudon
+14:Xerneas
+15:Landorus
+16:Whimsicott
+17:Gengar
+18:Rayquaza
+19:Raichu
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Rayquaza
+5:Kangaskhan
+6:Yveltal
+7:Ferrothorn
+8:Dialga
+9:Talonflame
+10:Rayquaza
+11:Salamence
+12:Landorus
+13:Kyogre
+14:Kyurem
+15:Mawile
+16:Gengar
+17:Thundurus
+18:Terrakion
+19:Cresselia
+20:Palkia

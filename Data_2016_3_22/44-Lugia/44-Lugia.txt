@@ -1,0 +1,141 @@
+44:Lugia|173
+ ---------- 
+Moves used:
+1:Aeroblast,93.063583815%,161.0
+2:Roost,65.3179190751%,113.0
+3:Protect,61.8497109827%,107.0
+4:Tailwind,52.0231213873%,90.0
+5:Skill Swap,20.2312138728%,35.0
+6:Recover,18.4971098266%,32.0
+7:Earth Power,17.9190751445%,31.0
+8:Calm Mind,14.450867052%,25.0
+9:Thunder Wave,12.7167630058%,22.0
+10:Hydro Pump,12.7167630058%,22.0
+11:Psyshock,11.5606936416%,20.0
+12:Icy Wind,6.93641618497%,12.0
+13:Substitute,3.46820809249%,6.0
+14:Reflect,3.46820809249%,6.0
+15:Psych Up,2.8901734104%,5.0
+16:Toxic,1.73410404624%,3.0
+17:Ice Beam,1.15606936416%,2.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,65.8959537572%,114.0
+2:Leftovers,13.8728323699%,24.0
+3:Rocky Helmet,6.93641618497%,12.0
+4:Lum Berry,4.62427745665%,8.0
+5:Razor Claw,2.8901734104%,5.0
+6:Choice Specs,2.8901734104%,5.0
+7:Sitrus Berry,2.8901734104%,5.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,173.0
+
+ ---------- 
+Natures used:
+1:Timid,74.5664739884%,129.0
+2:Bold,16.7630057803%,29.0
+3:Modest,8.67052023121%,15.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Zoroark
+4:Kangaskhan
+5:Thundurus
+6:Toxicroak
+7:Zekrom
+8:Smeargle
+9:Raichu
+10:Groudon
+11:Landorus
+12:Ludicolo
+13:Salamence
+14:Klefki
+15:Ferrothorn
+16:Sharpedo
+17:Scizor
+18:Cresselia
+19:Marowak
+20:Slurpuff
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aeroblast,89.4736842105%,154.789473684
+2:Earth Power,5.26315789474%,9.10526315789
+3:Psyshock,2.63157894737%,4.55263157895
+4:Icy Wind,1.31578947368%,2.27631578947
+5:Hydro Pump,1.31578947368%,2.27631578947
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,7.95454545455%,13.7613636364
+2:Ice Beam,7.95454545455%,13.7613636364
+3:Double-Edge,7.95454545455%,13.7613636364
+4:Thunderbolt,6.81818181818%,11.7954545455
+5:Dragon Ascent,4.54545454545%,7.86363636364
+6:Precipice Blades,4.54545454545%,7.86363636364
+7:Origin Pulse,4.54545454545%,7.86363636364
+8:Eruption,4.54545454545%,7.86363636364
+9:Thunder,4.54545454545%,7.86363636364
+10:Foul Play,3.40909090909%,5.89772727273
+11:Brave Bird,3.40909090909%,5.89772727273
+12:Dragon Pulse,3.40909090909%,5.89772727273
+13:Water Spout,3.40909090909%,5.89772727273
+14:Rock Slide,3.40909090909%,5.89772727273
+15:Scald,2.27272727273%,3.93181818182
+16:Sucker Punch,2.27272727273%,3.93181818182
+17:Hyper Voice,2.27272727273%,3.93181818182
+18:Knock Off,2.27272727273%,3.93181818182
+19:Sludge Bomb,2.27272727273%,3.93181818182
+20:Moonblast,1.13636363636%,1.96590909091
+0:Other,15.9090909091%,27.5227272727
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Landorus
+5:Ferrothorn
+6:Salamence
+7:Talonflame
+8:Crobat
+9:Kyogre
+10:Rayquaza
+11:Thundurus
+12:Whimsicott
+13:Cresselia
+14:Mawile
+15:Smeargle
+16:Amoonguss
+17:Scrafty
+18:Dialga
+19:Rayquaza
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Thundurus
+6:Dialga
+7:Salamence
+8:Talonflame
+9:Rayquaza
+10:Yveltal
+11:Liepard
+12:Weavile
+13:Rayquaza
+14:Kyogre
+15:Kyurem
+16:Landorus
+17:Terrakion
+18:Ferrothorn
+19:Jellicent
+20:Cresselia

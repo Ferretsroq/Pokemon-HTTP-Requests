@@ -1,0 +1,43 @@
+189:Gallade|1
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,1.0
+2:Psycho Cut,100.0%,1.0
+3:Close Combat,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Galladite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Rotom
+3:Rhyperior
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psycho Cut,50.0%,0.5
+2:Close Combat,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza

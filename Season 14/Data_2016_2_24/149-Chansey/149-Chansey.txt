@@ -1,0 +1,127 @@
+149:Chansey|70
+ ---------- 
+Moves used:
+1:Seismic Toss,84.2857142857%,59.0
+2:Soft-Boiled,80.0%,56.0
+3:Thunder Wave,45.7142857143%,32.0
+4:Helping Hand,38.5714285714%,27.0
+5:Toxic,35.7142857143%,25.0
+6:Minimize,28.5714285714%,20.0
+7:Counter,20.0%,14.0
+8:Protect,17.1428571429%,12.0
+9:Charge Beam,7.14285714286%,5.0
+10:Skill Swap,7.14285714286%,5.0
+11:Heal Bell,7.14285714286%,5.0
+12:Icy Wind,5.71428571429%,4.0
+13:Substitute,5.71428571429%,4.0
+14:Flamethrower,5.71428571429%,4.0
+15:Snatch,2.85714285714%,2.0
+16:Psych Up,2.85714285714%,2.0
+17:Grass Knot,1.42857142857%,1.0
+18:Gravity,1.42857142857%,1.0
+19:Light Screen,1.42857142857%,1.0
+20:Sing,1.42857142857%,1.0
+0:Other,3.99680288865e-15%,2.79776202206e-15
+
+ ---------- 
+Items used:
+1:Eviolite,92.8571428571%,65.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,68.5714285714%,48.0
+2:Healer,24.2857142857%,17.0
+3:Serene Grace,7.14285714286%,5.0
+
+ ---------- 
+Natures used:
+1:Bold,97.1428571429%,68.0
+2:Relaxed,2.85714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Xerneas
+5:Clefable
+6:Klefki
+7:Ferrothorn
+8:Talonflame
+9:Landorus
+10:Yveltal
+11:Salamence
+12:Mawile
+13:Shedinja
+14:Golduck
+15:Meowstic
+16:Giratina
+17:Lugia
+18:Kangaskhan
+19:Gengar
+20:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,66.6666666667%,46.6666666667
+2:Counter,28.5714285714%,20.0
+3:Charge Beam,4.7619047619%,3.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,18.6046511628%,13.023255814
+2:Precipice Blades,9.3023255814%,6.51162790698
+3:Dazzling Gleam,6.97674418605%,4.88372093023
+4:Water Spout,6.97674418605%,4.88372093023
+5:Extreme Speed,6.97674418605%,4.88372093023
+6:Dragon Ascent,4.6511627907%,3.25581395349
+7:Power Whip,4.6511627907%,3.25581395349
+8:Hyper Voice,4.6511627907%,3.25581395349
+9:Play Rough,2.32558139535%,1.62790697674
+10:Fusion Bolt,2.32558139535%,1.62790697674
+11:Bullet Punch,2.32558139535%,1.62790697674
+12:Close Combat,2.32558139535%,1.62790697674
+13:Gyro Ball,2.32558139535%,1.62790697674
+14:Eruption,2.32558139535%,1.62790697674
+15:Sacred Fire,2.32558139535%,1.62790697674
+16:Return,2.32558139535%,1.62790697674
+17:Earthquake,2.32558139535%,1.62790697674
+18:Thunder,2.32558139535%,1.62790697674
+19:Thunderbolt,2.32558139535%,1.62790697674
+20:Low Kick,2.32558139535%,1.62790697674
+0:Other,2.32558139535%,1.62790697674
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Talonflame
+4:Rayquaza
+5:Kangaskhan
+6:Xerneas
+7:Thundurus
+8:Amoonguss
+9:Whimsicott
+10:Rayquaza
+11:Latios
+12:Mawile
+13:Arcanine
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Rayquaza
+3:Groudon
+4:Kangaskhan
+5:Kyogre
+6:Xerneas
+7:Ferrothorn
+8:Landorus
+9:Zekrom
+10:Terrakion
+11:Groudon
+12:Manectric
+13:Mawile
+14:Ho-Oh
+15:Scizor
+16:Mewtwo

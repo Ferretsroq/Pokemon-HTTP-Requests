@@ -1,0 +1,82 @@
+116:Excadrill|17
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,17.0
+2:Drill Run,94.1176470588%,16.0
+3:Rock Slide,94.1176470588%,16.0
+4:Protect,64.7058823529%,11.0
+5:Horn Drill,35.2941176471%,6.0
+6:Rock Tomb,5.88235294118%,1.0
+7:Earthquake,5.88235294118%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,64.7058823529%,11.0
+2:Choice Scarf,29.4117647059%,5.0
+3:Assault Vest,5.88235294118%,1.0
+
+ ---------- 
+Abilities used:
+1:Sand Force,58.8235294118%,10.0
+2:Sand Rush,35.2941176471%,6.0
+3:Mold Breaker,5.88235294118%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,94.1176470588%,16.0
+2:Jolly,5.88235294118%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Whimsicott
+5:Kyogre
+6:Rayquaza
+7:Ferrothorn
+8:Talonflame
+9:Venomoth
+10:Yveltal
+11:Cresselia
+12:Hippowdon
+13:Latios
+14:Latias
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Drill Run,57.1428571429%,9.71428571429
+2:Iron Head,28.5714285714%,4.85714285714
+3:Rock Slide,14.2857142857%,2.42857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,21.4285714286%,3.64285714286
+2:Precipice Blades,14.2857142857%,2.42857142857
+3:Dazzling Gleam,14.2857142857%,2.42857142857
+4:Water Spout,14.2857142857%,2.42857142857
+5:Low Kick,14.2857142857%,2.42857142857
+6:Superpower,7.14285714286%,1.21428571429
+7:Rock Slide,7.14285714286%,1.21428571429
+8:Earthquake,7.14285714286%,1.21428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyurem
+2:Terrakion
+3:Cresselia
+4:Togekiss
+5:Groudon
+6:Metagross
+7:Machamp
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Mienshao
+4:Kyogre
+5:Thundurus
+6:Rayquaza
+7:Groudon
+8:Kangaskhan

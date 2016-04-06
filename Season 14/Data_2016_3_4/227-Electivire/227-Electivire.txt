@@ -1,0 +1,89 @@
+227:Electivire|17
+ ---------- 
+Moves used:
+1:Wild Charge,82.3529411765%,14.0
+2:Protect,82.3529411765%,14.0
+3:Ice Punch,76.4705882353%,13.0
+4:Low Kick,47.0588235294%,8.0
+5:Earthquake,35.2941176471%,6.0
+6:Fire Punch,35.2941176471%,6.0
+7:Thunder Punch,17.6470588235%,3.0
+8:Feint,11.7647058824%,2.0
+9:Hidden Power,11.7647058824%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,70.5882352941%,12.0
+2:White Herb,23.5294117647%,4.0
+3:Air Balloon,5.88235294118%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,88.2352941176%,15.0
+2:Motor Drive,11.7647058824%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,76.4705882353%,13.0
+2:Naive,11.7647058824%,2.0
+3:Adamant,11.7647058824%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Crobat
+4:Rayquaza
+5:Salamence
+6:Kangaskhan
+7:Gengar
+8:Xerneas
+9:Mienshao
+10:Mawile
+11:Yveltal
+12:Landorus
+13:Audino
+14:Cresselia
+15:Dialga
+16:Toxicroak
+17:Sableye
+18:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,63.6363636364%,10.8181818182
+2:Earthquake,9.09090909091%,1.54545454545
+3:Low Kick,9.09090909091%,1.54545454545
+4:Ice Punch,9.09090909091%,1.54545454545
+5:Fire Punch,9.09090909091%,1.54545454545
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.0%,1.7
+2:Dazzling Gleam,10.0%,1.7
+3:Flare Blitz,10.0%,1.7
+4:Sucker Punch,10.0%,1.7
+5:Eruption,10.0%,1.7
+6:Extreme Speed,10.0%,1.7
+7:Sacred Fire,10.0%,1.7
+8:Thunderbolt,10.0%,1.7
+9:Flamethrower,10.0%,1.7
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kyurem
+3:Togekiss
+4:Groudon
+5:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Talonflame
+5:Togekiss
+6:Rayquaza
+7:Ho-Oh
+8:Zapdos

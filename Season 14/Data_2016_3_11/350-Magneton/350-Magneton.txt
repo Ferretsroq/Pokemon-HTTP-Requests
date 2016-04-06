@@ -1,0 +1,42 @@
+350:Magneton|1
+ ---------- 
+Moves used:
+1:Flash Cannon,100.0%,1.0
+2:Magic Coat,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Thunderbolt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Groudon
+3:Ludicolo
+4:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,50.0%,0.5
+2:Dazzling Gleam,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre

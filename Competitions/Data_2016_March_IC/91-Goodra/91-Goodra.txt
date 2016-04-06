@@ -1,0 +1,72 @@
+91:Goodra|3
+ ---------- 
+Moves used:
+1:Sludge Bomb,100.0%,3.0
+2:Thunderbolt,66.6666666667%,2.0
+3:Flamethrower,66.6666666667%,2.0
+4:Draco Meteor,33.3333333333%,1.0
+5:Focus Blast,33.3333333333%,1.0
+6:Dragon Pulse,33.3333333333%,1.0
+7:Muddy Water,33.3333333333%,1.0
+8:Fire Blast,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,66.6666666667%,2.0
+2:Weakness Policy,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sap Sipper,66.6666666667%,2.0
+2:Gooey,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,66.6666666667%,2.0
+2:Calm,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kangaskhan
+3:Meowstic
+4:Kyurem
+5:Amoonguss
+6:Gothitelle
+7:Cresselia
+8:Ambipom
+9:Groudon
+10:Kyogre
+11:Gardevoir
+12:Ho-Oh
+13:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,33.3333333333%,1.0
+2:Dragon Pulse,33.3333333333%,1.0
+3:Fire Blast,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,0.75
+2:Dragon Ascent,12.5%,0.375
+3:Precipice Blades,12.5%,0.375
+4:Moonblast,12.5%,0.375
+5:Play Rough,12.5%,0.375
+6:Icicle Crash,12.5%,0.375
+7:Ice Beam,12.5%,0.375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Weavile
+3:Rayquaza
+4:Groudon
+5:Kyogre
+6:Mawile

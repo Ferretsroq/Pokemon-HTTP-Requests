@@ -1,0 +1,88 @@
+131:Altaria|23
+ ---------- 
+Moves used:
+1:Protect,69.5652173913%,16.0
+2:Hyper Voice,60.8695652174%,14.0
+3:Tailwind,52.1739130435%,12.0
+4:Flamethrower,43.4782608696%,10.0
+5:Return,34.7826086957%,8.0
+6:Fire Blast,30.4347826087%,7.0
+7:Dragon Dance,21.7391304348%,5.0
+8:Dragon Claw,21.7391304348%,5.0
+9:Hidden Power,21.7391304348%,5.0
+10:Roost,17.3913043478%,4.0
+11:Cotton Guard,13.0434782609%,3.0
+12:Draco Meteor,8.69565217391%,2.0
+13:Swagger,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Altarianite,95.652173913%,22.0
+2:Focus Sash,4.34782608696%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,95.652173913%,22.0
+2:Natural Cure,4.34782608696%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,60.8695652174%,14.0
+2:Adamant,21.7391304348%,5.0
+3:Brave,13.0434782609%,3.0
+4:Calm,4.34782608696%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Ho-Oh
+5:Talonflame
+6:Liepard
+7:Bronzong
+8:Landorus
+9:Weavile
+10:Slowking
+11:Crobat
+12:Shedinja
+13:Kyurem
+14:Thundurus
+15:Gothitelle
+16:Lopunny
+17:Empoleon
+18:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,44.4444444444%,10.2222222222
+2:Return,44.4444444444%,10.2222222222
+3:Flamethrower,11.1111111111%,2.55555555556
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,30.0%,6.9
+2:Dazzling Gleam,20.0%,4.6
+3:Origin Pulse,10.0%,2.3
+4:Moonblast,10.0%,2.3
+5:Frustration,10.0%,2.3
+6:Fire Punch,10.0%,2.3
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Thundurus
+4:Lilligant
+5:Whimsicott
+6:Giratina
+7:Mawile
+8:Omastar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Cresselia
+4:Groudon
+5:Kangaskhan

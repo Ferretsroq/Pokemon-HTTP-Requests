@@ -1,0 +1,104 @@
+172:Flygon|50
+ ---------- 
+Moves used:
+1:Draco Meteor,100.0%,50.0
+2:Earth Power,100.0%,50.0
+3:Tailwind,82.0%,41.0
+4:Feint,82.0%,41.0
+5:Protect,10.0%,5.0
+6:Flamethrower,10.0%,5.0
+7:Fire Blast,8.0%,4.0
+8:Focus Energy,8.0%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,82.0%,41.0
+2:Life Orb,10.0%,5.0
+3:Scope Lens,8.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,50.0
+
+ ---------- 
+Natures used:
+1:Naive,80.0%,40.0
+2:Timid,12.0%,6.0
+3:Modest,8.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Greninja
+4:Crobat
+5:Zekrom
+6:Xerneas
+7:Kyurem
+8:Toxicroak
+9:Thundurus
+10:Swampert
+11:Klefki
+12:Rayquaza
+13:Reshiram
+14:Ferrothorn
+15:Ambipom
+16:Misdreavus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,57.8947368421%,28.9473684211
+2:Draco Meteor,21.0526315789%,10.5263157895
+3:Feint,15.7894736842%,7.89473684211
+4:Flamethrower,5.26315789474%,2.63157894737
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,16.6666666667%,8.33333333333
+2:Water Spout,13.8888888889%,6.94444444444
+3:Origin Pulse,11.1111111111%,5.55555555556
+4:Eruption,11.1111111111%,5.55555555556
+5:Gyro Ball,8.33333333333%,4.16666666667
+6:Dazzling Gleam,5.55555555556%,2.77777777778
+7:Moonblast,5.55555555556%,2.77777777778
+8:Rock Slide,5.55555555556%,2.77777777778
+9:Snarl,2.77777777778%,1.38888888889
+10:Scald,2.77777777778%,1.38888888889
+11:Spacial Rend,2.77777777778%,1.38888888889
+12:Iron Head,2.77777777778%,1.38888888889
+13:Flash Cannon,2.77777777778%,1.38888888889
+14:Sucker Punch,2.77777777778%,1.38888888889
+15:Dragon Claw,2.77777777778%,1.38888888889
+16:Double-Edge,2.77777777778%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Kyurem
+5:Ferrothorn
+6:Whimsicott
+7:Dialga
+8:Rayquaza
+9:Kyogre
+10:Salamence
+11:Mawile
+12:Ditto
+13:Starmie
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Cresselia
+4:Xerneas
+5:Mawile
+6:Ferrothorn
+7:Yveltal
+8:Palkia
+9:Magnezone
+10:Bronzong
+11:Gastrodon
+12:Kangaskhan

@@ -1,0 +1,122 @@
+176:Slurpuff|48
+ ---------- 
+Moves used:
+1:Play Rough,93.75%,45.0
+2:Belly Drum,93.75%,45.0
+3:Protect,89.5833333333%,43.0
+4:Copycat,83.3333333333%,40.0
+5:Drain Punch,10.4166666667%,5.0
+6:Dazzling Gleam,6.25%,3.0
+7:After You,4.16666666667%,2.0
+8:Gastro Acid,4.16666666667%,2.0
+9:Secret Power,4.16666666667%,2.0
+10:Cotton Spore,4.16666666667%,2.0
+11:Confide,2.08333333333%,1.0
+12:Helping Hand,2.08333333333%,1.0
+13:Return,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,93.75%,45.0
+2:Choice Scarf,4.16666666667%,2.0
+3:Leftovers,2.08333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,93.75%,45.0
+2:Sweet Veil,6.25%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,91.6666666667%,44.0
+2:Timid,4.16666666667%,2.0
+3:Calm,2.08333333333%,1.0
+4:Jolly,2.08333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Lopunny
+4:Scizor
+5:Purugly
+6:Mr. Mime
+7:Gengar
+8:Xerneas
+9:Aegislash
+10:Talonflame
+11:Greninja
+12:Whimsicott
+13:Zygarde
+14:Amoonguss
+15:Liepard
+16:Honchkrow
+17:Kyogre
+18:Absol
+19:Mewtwo
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Play Rough,76.0%,36.48
+2:Copycat,20.0%,9.6
+3:Dazzling Gleam,4.0%,1.92
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.1578947368%,6.31578947368
+2:Eruption,13.1578947368%,6.31578947368
+3:Dragon Ascent,7.89473684211%,3.78947368421
+4:Iron Head,7.89473684211%,3.78947368421
+5:Extreme Speed,7.89473684211%,3.78947368421
+6:Sucker Punch,5.26315789474%,2.52631578947
+7:Water Spout,5.26315789474%,2.52631578947
+8:Origin Pulse,2.63157894737%,1.26315789474
+9:Foul Play,2.63157894737%,1.26315789474
+10:Shadow Force,2.63157894737%,1.26315789474
+11:Gunk Shot,2.63157894737%,1.26315789474
+12:Cross Poison,2.63157894737%,1.26315789474
+13:Air Slash,2.63157894737%,1.26315789474
+14:Flare Blitz,2.63157894737%,1.26315789474
+15:U-turn,2.63157894737%,1.26315789474
+16:Overheat,2.63157894737%,1.26315789474
+17:Hyper Voice,2.63157894737%,1.26315789474
+18:Sacred Fire,2.63157894737%,1.26315789474
+19:Earthquake,2.63157894737%,1.26315789474
+20:Double-Edge,2.63157894737%,1.26315789474
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Togekiss
+2:Rayquaza
+3:Kyogre
+4:Groudon
+5:Salamence
+6:Sableye
+7:Landorus
+8:Tornadus
+9:Mienshao
+10:Liepard
+11:Salamence
+12:Mawile
+13:Breloom
+14:Smeargle
+15:Furret
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Xerneas
+4:Yveltal
+5:Kyogre
+6:Mawile
+7:Greninja
+8:Landorus
+9:Giratina
+10:Garchomp
+11:Salamence
+12:Ho-Oh
+13:Crobat
+14:Kangaskhan
+15:Arcanine

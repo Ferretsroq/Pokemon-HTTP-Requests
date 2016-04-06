@@ -1,0 +1,76 @@
+89:Alakazam|4
+ ---------- 
+Moves used:
+1:Psychic,100.0%,4.0
+2:Encore,75.0%,3.0
+3:Protect,50.0%,2.0
+4:Disable,50.0%,2.0
+5:Magic Room,25.0%,1.0
+6:Gravity,25.0%,1.0
+7:Taunt,25.0%,1.0
+8:Hidden Power,25.0%,1.0
+9:Swagger,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Alakazite,50.0%,2.0
+2:Focus Sash,25.0%,1.0
+3:Mental Herb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Amoonguss
+3:Togekiss
+4:Rayquaza
+5:Groudon
+6:Salamence
+7:Aerodactyl
+8:Yveltal
+9:Bisharp
+10:Whimsicott
+11:Kangaskhan
+12:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,80.0%,3.2
+2:Hidden Power,20.0%,0.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,11.1111111111%,0.444444444444
+2:Iron Head,11.1111111111%,0.444444444444
+3:Brave Bird,11.1111111111%,0.444444444444
+4:Water Spout,11.1111111111%,0.444444444444
+5:Eruption,11.1111111111%,0.444444444444
+6:Fake Out,11.1111111111%,0.444444444444
+7:Struggle,11.1111111111%,0.444444444444
+8:Flamethrower,11.1111111111%,0.444444444444
+9:Fire Punch,11.1111111111%,0.444444444444
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Amoonguss
+2:Rayquaza
+3:Salamence
+4:Smeargle
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Dialga
+5:Kyogre
+6:Mawile
+7:Kangaskhan

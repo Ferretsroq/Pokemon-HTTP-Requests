@@ -1,0 +1,57 @@
+178:Rotom-Frost|7
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,7.0
+2:Thunder,100.0%,7.0
+3:Blizzard,100.0%,7.0
+4:Discharge,42.8571428571%,3.0
+5:Volt Switch,28.5714285714%,2.0
+6:Will-O-Wisp,28.5714285714%,2.0
+
+ ---------- 
+Items used:
+1:Choice Specs,57.1428571429%,4.0
+2:Choice Scarf,42.8571428571%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Modest,71.4285714286%,5.0
+2:Quiet,28.5714285714%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Meowstic
+4:Xerneas
+5:Kangaskhan
+6:Gengar
+7:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Iron Head,20.0%,1.4
+2:Dragon Pulse,20.0%,1.4
+3:Sucker Punch,20.0%,1.4
+4:Flamethrower,20.0%,1.4
+5:Double-Edge,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Heatran
+3:Mawile
+4:Sceptile

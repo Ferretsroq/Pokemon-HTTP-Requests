@@ -1,0 +1,112 @@
+89:Heatran|70
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,70.0
+2:Flash Cannon,82.8571428571%,58.0
+3:Heat Wave,81.4285714286%,57.0
+4:Protect,80.0%,56.0
+5:Overheat,17.1428571429%,12.0
+6:Fire Blast,14.2857142857%,10.0
+7:Ancient Power,8.57142857143%,6.0
+8:Substitute,8.57142857143%,6.0
+9:Flamethrower,7.14285714286%,5.0
+
+ ---------- 
+Items used:
+1:Air Balloon,71.4285714286%,50.0
+2:Choice Specs,10.0%,7.0
+3:Choice Scarf,10.0%,7.0
+4:Life Orb,4.28571428571%,3.0
+5:Red Card,1.42857142857%,1.0
+6:Leftovers,1.42857142857%,1.0
+7:Shuca Berry,1.42857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,100.0%,70.0
+
+ ---------- 
+Natures used:
+1:Modest,44.2857142857%,31.0
+2:Quiet,40.0%,28.0
+3:Timid,15.7142857143%,11.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kangaskhan
+3:Kyogre
+4:Gengar
+5:Smeargle
+6:Thundurus
+7:Crobat
+8:Landorus
+9:Salamence
+10:Talonflame
+11:Groudon
+12:Yveltal
+13:Xerneas
+14:Zekrom
+15:Whimsicott
+16:Togekiss
+17:Mawile
+18:Terrakion
+19:Hydreigon
+20:Gastrodon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,50.0%,35.0
+2:Flash Cannon,23.8095238095%,16.6666666667
+3:Earth Power,19.0476190476%,13.3333333333
+4:Flamethrower,4.7619047619%,3.33333333333
+5:Ancient Power,2.38095238095%,1.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,24.2424242424%,16.9696969697
+2:Earth Power,18.1818181818%,12.7272727273
+3:Moonblast,9.09090909091%,6.36363636364
+4:Water Spout,9.09090909091%,6.36363636364
+5:Origin Pulse,6.06060606061%,4.24242424242
+6:Brave Bird,6.06060606061%,4.24242424242
+7:Low Kick,6.06060606061%,4.24242424242
+8:Dazzling Gleam,3.0303030303%,2.12121212121
+9:Snarl,3.0303030303%,2.12121212121
+10:Dark Pulse,3.0303030303%,2.12121212121
+11:Earthquake,3.0303030303%,2.12121212121
+12:Thunderbolt,3.0303030303%,2.12121212121
+13:Double-Edge,3.0303030303%,2.12121212121
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Salamence
+5:Talonflame
+6:Cresselia
+7:Crobat
+8:Gengar
+9:Yveltal
+10:Palkia
+11:Rotom
+12:Infernape
+13:Rayquaza
+14:Manectric
+15:Sableye
+16:Smeargle
+17:Scizor
+18:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Yveltal
+5:Talonflame
+6:Kangaskhan
+7:Thundurus
+8:Rayquaza
+9:Salamence

@@ -1,0 +1,89 @@
+90:Charizard|4
+ ---------- 
+Moves used:
+1:Heat Wave,100.0%,4.0
+2:Solar Beam,75.0%,3.0
+3:Air Slash,50.0%,2.0
+4:Protect,50.0%,2.0
+5:Dragon Pulse,25.0%,1.0
+6:Tailwind,25.0%,1.0
+7:Overheat,25.0%,1.0
+8:Hidden Power,25.0%,1.0
+9:Flamethrower,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Charizardite Y,50.0%,2.0
+2:Choice Scarf,50.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Solar Power,50.0%,2.0
+2:Blaze,50.0%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,50.0%,2.0
+2:Modest,25.0%,1.0
+3:Naive,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Hawlucha
+4:Talonflame
+5:Ferrothorn
+6:Giratina
+7:Infernape
+8:Kyogre
+9:Lugia
+10:Smeargle
+11:Scizor
+12:Crobat
+13:Kangaskhan
+14:Gengar
+15:Raichu
+16:Blastoise
+17:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,66.6666666667%,2.66666666667
+2:Air Slash,11.1111111111%,0.444444444444
+3:Overheat,11.1111111111%,0.444444444444
+4:Solar Beam,11.1111111111%,0.444444444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,22.2222222222%,0.888888888889
+2:Sucker Punch,16.6666666667%,0.666666666667
+3:Origin Pulse,11.1111111111%,0.444444444444
+4:Brave Bird,11.1111111111%,0.444444444444
+5:Rock Slide,11.1111111111%,0.444444444444
+6:Dragon Ascent,5.55555555556%,0.222222222222
+7:Precipice Blades,5.55555555556%,0.222222222222
+8:Thunder,5.55555555556%,0.222222222222
+9:Thunderbolt,5.55555555556%,0.222222222222
+10:Ice Beam,5.55555555556%,0.222222222222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Talonflame
+4:Amoonguss
+5:Dialga
+6:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Talonflame
+3:Groudon
+4:Yveltal
+5:Thundurus
+6:Mienshao
+7:Rayquaza
+8:Mawile
+9:Kangaskhan

@@ -1,0 +1,169 @@
+6:Talonflame|14546
+ ---------- 
+Moves used:
+1:Brave Bird,99.8900041248%,14530.0
+2:Tailwind,89.9628763921%,13086.0
+3:Flare Blitz,78.3170631101%,11392.0
+4:Quick Guard,64.6981988175%,9411.0
+5:Taunt,24.370961089%,3545.0
+6:Protect,19.9161281452%,2897.0
+7:Sleep Talk,5.0941839681%,741.0
+8:U-turn,4.3654612952%,635.0
+9:Snatch,3.10738347312%,452.0
+10:Will-O-Wisp,2.26866492507%,330.0
+11:Swords Dance,2.03492369036%,296.0
+12:Overheat,1.40932215042%,205.0
+13:Roost,1.30620101746%,190.0
+14:Fly,0.598102571154%,87.0
+15:Steel Wing,0.549979375773%,80.0
+16:Aerial Ace,0.261240203492%,38.0
+17:Swagger,0.144369586141%,21.0
+18:Acrobatics,0.116870617352%,17.0
+19:Me First,0.0549979375773%,8.0
+20:Flamethrower,0.0343737109858%,5.0
+0:Other,0.0481231953802%,7.0
+
+ ---------- 
+Items used:
+1:Life Orb,65.970026124%,9596.0
+2:Choice Band,8.20844218342%,1194.0
+3:Sharp Beak,7.65846280764%,1114.0
+4:Lum Berry,6.71662312663%,977.0
+5:Sky Plate,5.5754159219%,811.0
+6:Focus Sash,1.9455520418%,283.0
+7:Red Card,0.934964938815%,136.0
+8:Sitrus Berry,0.646225766534%,94.0
+9:Wacan Berry,0.591227828956%,86.0
+10:Eject Button,0.26811494569%,39.0
+11:King's Rock,0.219991750309%,32.0
+12:Bright Powder,0.192492781521%,28.0
+13:Chesto Berry,0.178743297126%,26.0
+14:Rocky Helmet,0.164993812732%,24.0
+15:Flame Plate,0.144369586141%,21.0
+16:Charti Berry,0.130620101746%,19.0
+17:Leftovers,0.109995875155%,16.0
+18:Razor Fang,0.0962463907603%,14.0
+19:Expert Belt,0.0687474219717%,10.0
+20:Shell Bell,0.0687474219717%,10.0
+0:Other,0.0687474219717%,10.0
+
+ ---------- 
+Abilities used:
+1:Gale Wings,99.9862505156%,14544.0
+2:Flame Body,0.0137494843943%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,64.2857142857%,9351.0
+2:Jolly,33.1087584216%,4816.0
+3:Naughty,1.2237041111%,178.0
+4:Naive,0.996837618589%,145.0
+5:Hasty,0.171868554929%,25.0
+6:Careful,0.0756221641688%,11.0
+7:Brave,0.0618726797745%,9.0
+8:Lonely,0.041248453183%,6.0
+9:Impish,0.0274989687887%,4.0
+10:Bashful,0.00687474219717%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Smeargle
+7:Rayquaza
+8:Cresselia
+9:Landorus
+10:Thundurus
+11:Mawile
+12:Yveltal
+13:Gengar
+14:Ferrothorn
+15:Dialga
+16:Weavile
+17:Liepard
+18:Raichu
+19:Amoonguss
+20:Kyurem
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,81.3484562067%,11832.9464398
+2:Flare Blitz,18.2314639782%,2651.94875026
+3:Overheat,0.126023944549%,18.3314429742
+4:Sleep Talk,0.126023944549%,18.3314429742
+5:Acrobatics,0.084015963033%,12.2209619828
+6:U-turn,0.0630119722747%,9.16572148708
+7:Steel Wing,0.0210039907582%,3.05524049569
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,10.3345388788%,1503.26202532
+2:Double-Edge,8.13743218807%,1183.67088608
+3:Dazzling Gleam,6.43761301989%,936.415189873
+4:Water Spout,5.87703435805%,854.873417722
+5:Origin Pulse,5.11754068716%,744.397468354
+6:Thunderbolt,5.0%,727.3
+7:Hyper Voice,4.55696202532%,662.855696203
+8:Brave Bird,3.47197106691%,505.032911392
+9:Eruption,3.36347197107%,489.250632911
+10:Precipice Blades,2.85714285714%,415.6
+11:Return,2.2513562387%,327.482278481
+12:Moonblast,2.1157323689%,307.75443038
+13:Extreme Speed,2.1157323689%,307.75443038
+14:Dragon Ascent,1.79927667269%,261.72278481
+15:Sludge Bomb,1.45569620253%,211.74556962
+16:Scald,1.44665461121%,210.430379747
+17:Ice Beam,1.29294755877%,188.072151899
+18:Foul Play,1.16636528029%,169.659493671
+19:Knock Off,1.02169981917%,148.616455696
+20:Dragon Pulse,0.976491862568%,142.040506329
+0:Other,13.4629294756%,1958.31772152
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Smeargle
+4:Talonflame
+5:Kyogre
+6:Groudon
+7:Crobat
+8:Ferrothorn
+9:Salamence
+10:Thundurus
+11:Whimsicott
+12:Weavile
+13:Gengar
+14:Amoonguss
+15:Liepard
+16:Cresselia
+17:Rayquaza
+18:Gengar
+19:Yveltal
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Thundurus
+7:Rayquaza
+8:Talonflame
+9:Landorus
+10:Yveltal
+11:Rayquaza
+12:Dialga
+13:Gengar
+14:Weavile
+15:Kyurem
+16:Kyogre
+17:Gengar
+18:Raichu
+19:Liepard
+20:Mawile

@@ -1,0 +1,93 @@
+89:Noivern|33
+ ---------- 
+Moves used:
+1:Draco Meteor,84.8484848485%,28.0
+2:Super Fang,84.8484848485%,28.0
+3:Taunt,81.8181818182%,27.0
+4:Tailwind,54.5454545455%,18.0
+5:Protect,45.4545454545%,15.0
+6:Flamethrower,21.2121212121%,7.0
+7:Hidden Power,12.1212121212%,4.0
+8:Air Slash,9.09090909091%,3.0
+9:Boomburst,3.0303030303%,1.0
+10:Snatch,3.0303030303%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,57.5757575758%,19.0
+2:Lum Berry,42.4242424242%,14.0
+
+ ---------- 
+Abilities used:
+1:Frisk,84.8484848485%,28.0
+2:Telepathy,15.1515151515%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,33.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Kangaskhan
+4:Giratina
+5:Groudon
+6:Ferrothorn
+7:Dialga
+8:Talonflame
+9:Landorus
+10:Salamence
+11:Rayquaza
+12:Amoonguss
+13:Whimsicott
+14:Liepard
+15:Palkia
+16:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,100.0%,33.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.5862068966%,9.10344827586
+2:Ice Beam,10.3448275862%,3.41379310345
+3:Brave Bird,6.89655172414%,2.27586206897
+4:Sucker Punch,6.89655172414%,2.27586206897
+5:Rock Slide,6.89655172414%,2.27586206897
+6:Double-Edge,6.89655172414%,2.27586206897
+7:Precipice Blades,3.44827586207%,1.13793103448
+8:Origin Pulse,3.44827586207%,1.13793103448
+9:Icicle Crash,3.44827586207%,1.13793103448
+10:Snarl,3.44827586207%,1.13793103448
+11:Volt Switch,3.44827586207%,1.13793103448
+12:Dragon Pulse,3.44827586207%,1.13793103448
+13:Gyro Ball,3.44827586207%,1.13793103448
+14:Extreme Speed,3.44827586207%,1.13793103448
+15:Return,3.44827586207%,1.13793103448
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Yveltal
+4:Landorus
+5:Palkia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Landorus
+5:Yveltal
+6:Talonflame
+7:Cresselia
+8:Dialga
+9:Weavile
+10:Bronzong
+11:Rayquaza
+12:Groudon
+13:Manectric
+14:Ho-Oh

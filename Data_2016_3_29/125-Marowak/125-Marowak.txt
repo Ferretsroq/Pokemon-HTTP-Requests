@@ -1,0 +1,91 @@
+125:Marowak|28
+ ---------- 
+Moves used:
+1:Bonemerang,85.7142857143%,24.0
+2:Protect,82.1428571429%,23.0
+3:Fire Punch,82.1428571429%,23.0
+4:Stone Edge,53.5714285714%,15.0
+5:Detect,17.8571428571%,5.0
+6:Perish Song,17.8571428571%,5.0
+7:Rock Slide,17.8571428571%,5.0
+8:Knock Off,14.2857142857%,4.0
+9:Earthquake,14.2857142857%,4.0
+10:Double-Edge,14.2857142857%,4.0
+
+ ---------- 
+Items used:
+1:Thick Club,100.0%,28.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,85.7142857143%,24.0
+2:Rock Head,14.2857142857%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,67.8571428571%,19.0
+2:Brave,32.1428571429%,9.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Toxicroak
+3:Sharpedo
+4:Lugia
+5:Thundurus
+6:Zoroark
+7:Kyogre
+8:Kangaskhan
+9:Dialga
+10:Rayquaza
+11:Cresselia
+12:Regice
+13:Liepard
+14:Meowstic
+15:Shedinja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stone Edge,28.5714285714%,8.0
+2:Rock Slide,28.5714285714%,8.0
+3:Bonemerang,28.5714285714%,8.0
+4:Fire Punch,14.2857142857%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,21.0526315789%,5.89473684211
+2:Scald,21.0526315789%,5.89473684211
+3:Origin Pulse,10.5263157895%,2.94736842105
+4:Dragon Ascent,5.26315789474%,1.47368421053
+5:Precipice Blades,5.26315789474%,1.47368421053
+6:Power Whip,5.26315789474%,1.47368421053
+7:Draco Meteor,5.26315789474%,1.47368421053
+8:Dragon Pulse,5.26315789474%,1.47368421053
+9:Sucker Punch,5.26315789474%,1.47368421053
+10:Water Spout,5.26315789474%,1.47368421053
+11:Double-Edge,5.26315789474%,1.47368421053
+12:Ice Punch,5.26315789474%,1.47368421053
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Xerneas
+3:Talonflame
+4:Thundurus
+5:Cobalion
+6:Cresselia
+7:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Rayquaza
+4:Greninja
+5:Ferrothorn
+6:Dialga
+7:Weavile
+8:Groudon
+9:Kyogre
+10:Salamence
+11:Mawile

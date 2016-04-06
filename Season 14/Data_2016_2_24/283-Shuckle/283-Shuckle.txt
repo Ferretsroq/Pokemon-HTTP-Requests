@@ -1,0 +1,62 @@
+283:Shuckle|4
+ ---------- 
+Moves used:
+1:Knock Off,75.0%,3.0
+2:Toxic,75.0%,3.0
+3:Guard Split,50.0%,2.0
+4:Protect,50.0%,2.0
+5:Sticky Web,25.0%,1.0
+6:Shell Smash,25.0%,1.0
+7:Power Split,25.0%,1.0
+8:Gyro Ball,25.0%,1.0
+9:Encore,25.0%,1.0
+10:Rest,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,50.0%,2.0
+2:Rocky Helmet,25.0%,1.0
+3:Sitrus Berry,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Bold,50.0%,2.0
+2:Impish,25.0%,1.0
+3:Relaxed,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gastrodon
+2:Chansey
+3:Xerneas
+4:Talonflame
+5:Tornadus
+6:Cresselia
+7:Palkia
+8:Groudon
+9:Mewtwo
+10:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Snarl,25.0%,1.0
+2:Scald,25.0%,1.0
+3:Gyro Ball,25.0%,1.0
+4:Rock Slide,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Ferrothorn
+3:Archeops
+4:Ludicolo

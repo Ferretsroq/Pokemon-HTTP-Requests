@@ -1,0 +1,71 @@
+203:Maractus|26
+ ---------- 
+Moves used:
+1:Wood Hammer,100.0%,26.0
+2:Sucker Punch,100.0%,26.0
+3:Spiky Shield,96.1538461538%,25.0
+4:Endeavor,96.1538461538%,25.0
+5:Protect,3.84615384615%,1.0
+6:Leech Seed,3.84615384615%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,96.1538461538%,25.0
+2:Yache Berry,3.84615384615%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,96.1538461538%,25.0
+2:Water Absorb,3.84615384615%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,96.1538461538%,25.0
+2:Brave,3.84615384615%,1.0
+
+ ---------- 
+Top teammates:
+1:Porygon2
+2:Kyogre
+3:Mawile
+4:Landorus
+5:Rayquaza
+6:Greninja
+7:Whimsicott
+8:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wood Hammer,75.0%,19.5
+2:Sucker Punch,25.0%,6.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,28.5714285714%,7.42857142857
+2:Thunderbolt,9.52380952381%,2.47619047619
+3:Dazzling Gleam,4.7619047619%,1.2380952381
+4:Snarl,4.7619047619%,1.2380952381
+5:Grass Knot,4.7619047619%,1.2380952381
+6:Dragon Pulse,4.7619047619%,1.2380952381
+7:Gyro Ball,4.7619047619%,1.2380952381
+8:Psychic,4.7619047619%,1.2380952381
+9:Flamethrower,4.7619047619%,1.2380952381
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Weavile
+3:Azumarill
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Thundurus
+3:Dialga
+4:Yveltal
+5:Xerneas
+6:Jellicent
+7:Amoonguss
+8:Gothitelle
+9:Cresselia
+10:Bronzong

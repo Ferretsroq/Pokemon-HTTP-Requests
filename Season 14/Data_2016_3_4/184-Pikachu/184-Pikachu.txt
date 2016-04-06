@@ -1,0 +1,113 @@
+184:Pikachu|45
+ ---------- 
+Moves used:
+1:Fake Out,77.7777777778%,35.0
+2:Volt Tackle,73.3333333333%,33.0
+3:Protect,60.0%,27.0
+4:Grass Knot,37.7777777778%,17.0
+5:Encore,37.7777777778%,17.0
+6:Endeavor,35.5555555556%,16.0
+7:Feint,24.4444444444%,11.0
+8:Nuzzle,11.1111111111%,5.0
+9:Hidden Power,11.1111111111%,5.0
+10:Thunder,11.1111111111%,5.0
+11:Toxic,8.88888888889%,4.0
+12:Quick Attack,4.44444444444%,2.0
+13:Helping Hand,2.22222222222%,1.0
+14:Thunderbolt,2.22222222222%,1.0
+15:Thunder Punch,2.22222222222%,1.0
+
+ ---------- 
+Items used:
+1:Light Ball,64.4444444444%,29.0
+2:Focus Sash,28.8888888889%,13.0
+3:Eviolite,6.66666666667%,3.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,45.0
+
+ ---------- 
+Natures used:
+1:Naive,35.5555555556%,16.0
+2:Jolly,33.3333333333%,15.0
+3:Timid,13.3333333333%,6.0
+4:Brave,11.1111111111%,5.0
+5:Hasty,6.66666666667%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Arcanine
+5:Kyurem
+6:Kangaskhan
+7:Meowstic
+8:Talonflame
+9:Salamence
+10:Cresselia
+11:Ho-Oh
+12:Nidoking
+13:Xerneas
+14:Lapras
+15:Dialga
+16:Lugia
+17:Charizard
+18:Greninja
+19:Cobalion
+20:Bisharp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,73.3333333333%,33.0
+2:Thunderbolt,13.3333333333%,6.0
+3:Grass Knot,6.66666666667%,3.0
+4:Hidden Power,6.66666666667%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,13.3333333333%,6.0
+2:Double-Edge,13.3333333333%,6.0
+3:Precipice Blades,6.66666666667%,3.0
+4:Dazzling Gleam,6.66666666667%,3.0
+5:Sucker Punch,6.66666666667%,3.0
+6:Water Spout,6.66666666667%,3.0
+7:Shadow Ball,6.66666666667%,3.0
+8:Extreme Speed,6.66666666667%,3.0
+9:Hyper Voice,3.33333333333%,1.5
+10:Eruption,3.33333333333%,1.5
+11:Knock Off,3.33333333333%,1.5
+12:Fake Out,3.33333333333%,1.5
+13:Sacred Fire,3.33333333333%,1.5
+14:Return,3.33333333333%,1.5
+15:Sludge Bomb,3.33333333333%,1.5
+16:Waterfall,3.33333333333%,1.5
+17:Ice Beam,3.33333333333%,1.5
+18:Fire Punch,3.33333333333%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Landorus
+4:Whimsicott
+5:Piplup
+6:Ludicolo
+7:Crobat
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Gengar
+5:Xerneas
+6:Rayquaza
+7:Salamence
+8:Meowstic
+9:Mienshao
+10:Rayquaza
+11:Ho-Oh
+12:Lugia

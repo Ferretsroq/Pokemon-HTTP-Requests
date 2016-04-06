@@ -1,0 +1,118 @@
+90:Exeggutor|68
+ ---------- 
+Moves used:
+1:Trick Room,88.2352941176%,60.0
+2:Psyshock,60.2941176471%,41.0
+3:Solar Beam,60.2941176471%,41.0
+4:Protect,55.8823529412%,38.0
+5:Gravity,36.7647058824%,25.0
+6:Leaf Storm,29.4117647059%,20.0
+7:Sleep Powder,26.4705882353%,18.0
+8:Giga Drain,17.6470588235%,12.0
+9:Power Swap,13.2352941176%,9.0
+10:Psychic,10.2941176471%,7.0
+11:Rest,1.47058823529%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,61.7647058824%,42.0
+2:Focus Sash,25.0%,17.0
+3:Coba Berry,13.2352941176%,9.0
+
+ ---------- 
+Abilities used:
+1:Harvest,75.0%,51.0
+2:Chlorophyll,25.0%,17.0
+
+ ---------- 
+Natures used:
+1:Calm,60.2941176471%,41.0
+2:Modest,16.1764705882%,11.0
+3:Relaxed,13.2352941176%,9.0
+4:Timid,10.2941176471%,7.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Landorus
+4:Kangaskhan
+5:Salamence
+6:Xerneas
+7:Hitmontop
+8:Crobat
+9:Kyurem
+10:Dialga
+11:Aegislash
+12:Manectric
+13:Hydreigon
+14:Ferrothorn
+15:Rayquaza
+16:Mawile
+17:Tyranitar
+18:Mewtwo
+19:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psyshock,50.0%,34.0
+2:Leaf Storm,22.2222222222%,15.1111111111
+3:Solar Beam,22.2222222222%,15.1111111111
+4:Psychic,5.55555555556%,3.77777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,11.320754717%,7.69811320755
+2:Brave Bird,9.43396226415%,6.41509433962
+3:Dragon Ascent,7.54716981132%,5.1320754717
+4:Hyper Voice,7.54716981132%,5.1320754717
+5:Dazzling Gleam,5.66037735849%,3.84905660377
+6:Sludge Bomb,5.66037735849%,3.84905660377
+7:Double-Edge,5.66037735849%,3.84905660377
+8:Power-Up Punch,3.77358490566%,2.56603773585
+9:Moonblast,3.77358490566%,2.56603773585
+10:U-turn,3.77358490566%,2.56603773585
+11:Eruption,3.77358490566%,2.56603773585
+12:Knock Off,3.77358490566%,2.56603773585
+13:Return,3.77358490566%,2.56603773585
+14:Blizzard,3.77358490566%,2.56603773585
+15:Flamethrower,3.77358490566%,2.56603773585
+16:Fire Punch,3.77358490566%,2.56603773585
+17:Play Rough,1.88679245283%,1.28301886792
+18:Snarl,1.88679245283%,1.28301886792
+19:Draco Meteor,1.88679245283%,1.28301886792
+20:Shadow Sneak,1.88679245283%,1.28301886792
+0:Other,5.66037735849%,3.84905660377
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Amoonguss
+4:Crobat
+5:Landorus
+6:Thundurus
+7:Groudon
+8:Salamence
+9:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Salamence
+3:Xerneas
+4:Talonflame
+5:Kyogre
+6:Groudon
+7:Yveltal
+8:Kyurem
+9:Landorus
+10:Cresselia
+11:Dialga
+12:Rayquaza
+13:Rayquaza
+14:Gengar
+15:Giratina
+16:Lickilicky
+17:Mawile
+18:Gengar

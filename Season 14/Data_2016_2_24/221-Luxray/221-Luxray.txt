@@ -1,0 +1,87 @@
+221:Luxray|16
+ ---------- 
+Moves used:
+1:Baby-Doll Eyes,50.0%,8.0
+2:Snarl,50.0%,8.0
+3:Wild Charge,50.0%,8.0
+4:Volt Switch,50.0%,8.0
+5:Protect,43.75%,7.0
+6:Thunder Wave,43.75%,7.0
+7:Superpower,37.5%,6.0
+8:Ice Fang,25.0%,4.0
+9:Double Kick,25.0%,4.0
+10:Electric Terrain,12.5%,2.0
+11:Light Screen,12.5%,2.0
+
+ ---------- 
+Items used:
+1:Eject Button,31.25%,5.0
+2:Choice Scarf,25.0%,4.0
+3:Sitrus Berry,18.75%,3.0
+4:Life Orb,12.5%,2.0
+5:Chesto Berry,12.5%,2.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,16.0
+
+ ---------- 
+Natures used:
+1:Impish,31.25%,5.0
+2:Jolly,25.0%,4.0
+3:Adamant,25.0%,4.0
+4:Bold,18.75%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Crobat
+3:Xerneas
+4:Lugia
+5:Gengar
+6:Infernape
+7:Espeon
+8:Mienshao
+9:Ferrothorn
+10:Lopunny
+11:Rayquaza
+12:Ho-Oh
+13:Yveltal
+14:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,66.6666666667%,10.6666666667
+2:Volt Switch,33.3333333333%,5.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,2.66666666667
+2:Origin Pulse,8.33333333333%,1.33333333333
+3:Shadow Sneak,8.33333333333%,1.33333333333
+4:Earth Power,8.33333333333%,1.33333333333
+5:Dragon Claw,8.33333333333%,1.33333333333
+6:Water Spout,8.33333333333%,1.33333333333
+7:Eruption,8.33333333333%,1.33333333333
+8:Extreme Speed,8.33333333333%,1.33333333333
+9:Sacred Fire,8.33333333333%,1.33333333333
+10:Ice Beam,8.33333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Weavile
+3:Mawile
+4:Ho-Oh
+5:Crobat
+6:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Aegislash
+6:Cresselia
+7:Ho-Oh

@@ -1,0 +1,41 @@
+351:Doublade|1
+ ---------- 
+Moves used:
+1:Sacred Sword,100.0%,1.0
+2:Wide Guard,100.0%,1.0
+3:Iron Head,100.0%,1.0
+4:Shadow Sneak,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

@@ -1,0 +1,39 @@
+170:Regice|1
+ ---------- 
+Moves used:
+1:Protect,100.0%,1.0
+2:Toxic,100.0%,1.0
+3:Thunderbolt,100.0%,1.0
+4:Blizzard,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Ice Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Aurorus
+2:Mamoswine
+3:Weavile
+4:Garchomp
+5:Articuno
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

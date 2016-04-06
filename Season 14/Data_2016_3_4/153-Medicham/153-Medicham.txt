@@ -1,0 +1,141 @@
+153:Medicham|76
+ ---------- 
+Moves used:
+1:Feint,69.7368421053%,53.0
+2:Focus Punch,57.8947368421%,44.0
+3:Fake Out,40.7894736842%,31.0
+4:Helping Hand,38.1578947368%,29.0
+5:Bullet Punch,28.9473684211%,22.0
+6:Detect,27.6315789474%,21.0
+7:Protect,26.3157894737%,20.0
+8:Zen Headbutt,19.7368421053%,15.0
+9:Low Kick,19.7368421053%,15.0
+10:Counter,15.7894736842%,12.0
+11:Poison Jab,14.4736842105%,11.0
+12:High Jump Kick,14.4736842105%,11.0
+13:Drain Punch,6.57894736842%,5.0
+14:Substitute,6.57894736842%,5.0
+15:Quick Guard,5.26315789474%,4.0
+16:Ice Punch,3.94736842105%,3.0
+17:Low Sweep,2.63157894737%,2.0
+18:Psycho Cut,1.31578947368%,1.0
+
+ ---------- 
+Items used:
+1:Medichamite,93.4210526316%,71.0
+2:Coba Berry,3.94736842105%,3.0
+3:Eject Button,1.31578947368%,1.0
+4:Life Orb,1.31578947368%,1.0
+
+ ---------- 
+Abilities used:
+1:Pure Power,97.3684210526%,74.0
+2:Telepathy,2.63157894737%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,61.8421052632%,47.0
+2:Adamant,38.1578947368%,29.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Ditto
+4:Kyogre
+5:Xerneas
+6:Thundurus
+7:Groudon
+8:Giratina
+9:Ho-Oh
+10:Jellicent
+11:Escavalier
+12:Talonflame
+13:Whimsicott
+14:Mewtwo
+15:Parasect
+16:Reshiram
+17:Togekiss
+18:Rayquaza
+19:Ludicolo
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Focus Punch,47.8260869565%,36.347826087
+2:Feint,28.2608695652%,21.4782608696
+3:High Jump Kick,6.52173913043%,4.95652173913
+4:Low Kick,6.52173913043%,4.95652173913
+5:Bullet Punch,4.34782608696%,3.30434782609
+6:Fake Out,4.34782608696%,3.30434782609
+7:Poison Jab,2.17391304348%,1.65217391304
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.6440677966%,14.1694915254
+2:Eruption,10.1694915254%,7.72881355932
+3:Origin Pulse,6.77966101695%,5.15254237288
+4:Brave Bird,6.77966101695%,5.15254237288
+5:Precipice Blades,5.08474576271%,3.86440677966
+6:Hyper Voice,5.08474576271%,3.86440677966
+7:Extreme Speed,5.08474576271%,3.86440677966
+8:Double-Edge,5.08474576271%,3.86440677966
+9:Dragon Ascent,3.38983050847%,2.57627118644
+10:Dark Pulse,3.38983050847%,2.57627118644
+11:Water Spout,3.38983050847%,2.57627118644
+12:Shadow Ball,3.38983050847%,2.57627118644
+13:Moonblast,1.69491525424%,1.28813559322
+14:Play Rough,1.69491525424%,1.28813559322
+15:Snarl,1.69491525424%,1.28813559322
+16:Gear Grind,1.69491525424%,1.28813559322
+17:Spacial Rend,1.69491525424%,1.28813559322
+18:Bug Bite,1.69491525424%,1.28813559322
+19:Grass Knot,1.69491525424%,1.28813559322
+20:Iron Head,1.69491525424%,1.28813559322
+0:Other,10.1694915254%,7.72881355932
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+3:Groudon
+4:Talonflame
+5:Liepard
+6:Palkia
+7:Xerneas
+8:Amoonguss
+9:Dialga
+10:Mawile
+11:Landorus
+12:Thundurus
+13:Tornadus
+14:Mienshao
+15:Whimsicott
+16:Weavile
+17:Abomasnow
+18:Infernape
+19:Rayquaza
+20:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Kangaskhan
+8:Yveltal
+9:Aegislash
+10:Mawile
+11:Gengar
+12:Landorus
+13:Hydreigon
+14:Klinklang
+15:Amoonguss
+16:Palkia
+17:Weavile
+18:Rayquaza
+19:Scizor
+20:Zapdos

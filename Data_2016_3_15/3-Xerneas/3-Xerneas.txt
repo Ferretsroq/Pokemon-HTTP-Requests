@@ -1,0 +1,134 @@
+3:Xerneas|444
+ ---------- 
+Moves used:
+1:Dazzling Gleam,99.7747747748%,443.0
+2:Moonblast,91.4414414414%,406.0
+3:Protect,85.8108108108%,381.0
+4:Geomancy,85.3603603604%,379.0
+5:Psychic,13.5135135135%,60.0
+6:Focus Blast,8.78378378378%,39.0
+7:Hidden Power,6.30630630631%,28.0
+8:Sleep Talk,4.95495495495%,22.0
+9:Grass Knot,2.25225225225%,10.0
+10:Substitute,0.675675675676%,3.0
+11:Thunder,0.225225225225%,1.0
+
+ ---------- 
+Items used:
+1:Power Herb,85.3603603604%,379.0
+2:Choice Scarf,9.68468468468%,43.0
+3:Choice Specs,4.27927927928%,19.0
+4:Life Orb,0.675675675676%,3.0
+
+ ---------- 
+Abilities used:
+1:Fairy Aura,100.0%,444.0
+
+ ---------- 
+Natures used:
+1:Timid,61.9369369369%,275.0
+2:Modest,36.2612612613%,161.0
+3:Bold,1.12612612613%,5.0
+4:Naive,0.45045045045%,2.0
+5:Naughty,0.225225225225%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Salamence
+4:Kangaskhan
+5:Smeargle
+6:Kyogre
+7:Thundurus
+8:Cresselia
+9:Amoonguss
+10:Mawile
+11:Garchomp
+12:Liepard
+13:Zekrom
+14:Infernape
+15:Gengar
+16:Yveltal
+17:Crobat
+18:Rayquaza
+19:Whimsicott
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,68.4971098266%,304.12716763
+2:Moonblast,29.1907514451%,129.606936416
+3:Hidden Power,1.73410404624%,7.69942196532
+4:Focus Blast,0.28901734104%,1.28323699422
+5:Psychic,0.28901734104%,1.28323699422
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,9.92063492063%,44.0476190476
+2:Dazzling Gleam,9.52380952381%,42.2857142857
+3:Iron Head,8.73015873016%,38.7619047619
+4:Double-Edge,7.93650793651%,35.2380952381
+5:Eruption,7.14285714286%,31.7142857143
+6:Moonblast,6.74603174603%,29.9523809524
+7:Water Spout,6.34920634921%,28.1904761905
+8:Origin Pulse,3.1746031746%,14.0952380952
+9:Fire Punch,3.1746031746%,14.0952380952
+10:Brave Bird,2.77777777778%,12.3333333333
+11:Gyro Ball,2.77777777778%,12.3333333333
+12:Sucker Punch,1.98412698413%,8.80952380952
+13:Hyper Voice,1.98412698413%,8.80952380952
+14:Extreme Speed,1.98412698413%,8.80952380952
+15:Sludge Bomb,1.98412698413%,8.80952380952
+16:Ice Beam,1.98412698413%,8.80952380952
+17:Earth Power,1.5873015873%,7.04761904762
+18:Flare Blitz,1.5873015873%,7.04761904762
+19:Rock Slide,1.5873015873%,7.04761904762
+20:Flash Cannon,1.19047619048%,5.28571428571
+0:Other,15.0793650794%,66.9523809524
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+3:Kangaskhan
+4:Groudon
+5:Talonflame
+6:Thundurus
+7:Rayquaza
+8:Kyogre
+9:Cresselia
+10:Smeargle
+11:Dialga
+12:Crobat
+13:Landorus
+14:Rayquaza
+15:Yveltal
+16:Kyurem
+17:Whimsicott
+18:Mawile
+19:Meowstic
+20:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Mawile
+5:Kangaskhan
+6:Salamence
+7:Talonflame
+8:Ferrothorn
+9:Rayquaza
+10:Kyogre
+11:Aegislash
+12:Ditto
+13:Dialga
+14:Garchomp
+15:Metagross
+16:Scizor
+17:Gengar
+18:Yveltal
+19:Landorus
+20:Amoonguss

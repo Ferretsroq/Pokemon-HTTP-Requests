@@ -1,0 +1,95 @@
+199:Mantine|29
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,29.0
+2:Tailwind,96.5517241379%,28.0
+3:Helping Hand,79.3103448276%,23.0
+4:Icy Wind,48.275862069%,14.0
+5:Mirror Coat,20.6896551724%,6.0
+6:Ice Beam,17.2413793103%,5.0
+7:Scald,13.7931034483%,4.0
+8:Air Slash,13.7931034483%,4.0
+9:Haze,6.89655172414%,2.0
+10:Protect,3.44827586207%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,58.6206896552%,17.0
+2:Lum Berry,17.2413793103%,5.0
+3:Rocky Helmet,10.3448275862%,3.0
+4:King's Rock,6.89655172414%,2.0
+5:Wacan Berry,6.89655172414%,2.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,75.8620689655%,22.0
+2:Swift Swim,24.1379310345%,7.0
+
+ ---------- 
+Natures used:
+1:Bold,79.3103448276%,23.0
+2:Calm,20.6896551724%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Terrakion
+3:Mewtwo
+4:Kyogre
+5:Ho-Oh
+6:Metagross
+7:Xerneas
+8:Cresselia
+9:Salamence
+10:Mawile
+11:Raichu
+12:Meowstic
+13:Zygarde
+14:Yveltal
+15:Klefki
+16:Whimsicott
+17:Seismitoad
+18:Dialga
+19:Togekiss
+20:Gastrodon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,80.0%,23.2
+2:Scald,20.0%,5.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,25.0%,7.25
+2:Thunder,12.5%,3.625
+3:Thunderbolt,12.5%,3.625
+4:Dragon Ascent,6.25%,1.8125
+5:Precipice Blades,6.25%,1.8125
+6:Brave Bird,6.25%,1.8125
+7:Sucker Punch,6.25%,1.8125
+8:Fake Out,6.25%,1.8125
+9:Shadow Ball,6.25%,1.8125
+10:Extreme Speed,6.25%,1.8125
+11:Rock Slide,6.25%,1.8125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Rayquaza
+3:Groudon
+4:Crobat
+5:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Thundurus
+3:Gengar
+4:Talonflame
+5:Greninja
+6:Kyurem
+7:Liepard
+8:Rayquaza
+9:Rayquaza
+10:Groudon
+11:Kangaskhan

@@ -1,0 +1,175 @@
+1:Groudon|34860
+ ---------- 
+Moves used:
+1:Protect,98.5370051635%,34350.0
+2:Precipice Blades,68.3706253586%,23834.0
+3:Fire Punch,45.9810671256%,16029.0
+4:Eruption,45.0745840505%,15713.0
+5:Rock Slide,38.8410786001%,13540.0
+6:Earth Power,37.3493975904%,13020.0
+7:Flamethrower,14.5983935743%,5089.0
+8:Overheat,9.61273666093%,3351.0
+9:Substitute,6.66953528399%,2325.0
+10:Swords Dance,5.80034423408%,2022.0
+11:Hidden Power,3.17842799771%,1108.0
+12:Thunderbolt,3.03499713138%,1058.0
+13:Dragon Claw,2.65633964429%,926.0
+14:Thunder Punch,2.45266781411%,855.0
+15:Stone Edge,2.24325874928%,782.0
+16:Rock Tomb,2.20309810671%,768.0
+17:Ancient Power,2.12277682157%,740.0
+18:Thunder Wave,1.9736087206%,688.0
+19:Psych Up,1.73264486517%,604.0
+20:Thunder,1.50028686173%,523.0
+0:Other,6.06712564544%,2115.0
+
+ ---------- 
+Items used:
+1:Red Orb,99.7848537005%,34785.0
+2:Choice Scarf,0.16924842226%,59.0
+3:Choice Band,0.0286861732645%,10.0
+
+ ---------- 
+Abilities used:
+1:Drought,100.0%,34860.0
+
+ ---------- 
+Natures used:
+1:Brave,25.5306942054%,8900.0
+2:Timid,21.3625932301%,7447.0
+3:Adamant,18.1726907631%,6335.0
+4:Jolly,16.7326448652%,5833.0
+5:Modest,7.3752151463%,2571.0
+6:Quiet,7.02524383247%,2449.0
+7:Naive,0.906483075158%,316.0
+8:Hasty,0.763052208835%,266.0
+9:Bold,0.461847389558%,161.0
+10:Relaxed,0.364314400459%,127.0
+11:Sassy,0.26678141136%,93.0
+12:Naughty,0.223752151463%,78.0
+13:Mild,0.186460126219%,65.0
+14:Lonely,0.157773952955%,55.0
+15:Careful,0.126219162364%,44.0
+16:Calm,0.103270223752%,36.0
+17:Hardy,0.0516351118761%,18.0
+18:Rash,0.0458978772232%,16.0
+19:Lax,0.0430292598967%,15.0
+20:Quirky,0.0372920252438%,13.0
+0:Other,0.0631095811819%,22.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Xerneas
+3:Salamence
+4:Talonflame
+5:Smeargle
+6:Kyogre
+7:Cresselia
+8:Thundurus
+9:Yveltal
+10:Crobat
+11:Mawile
+12:Gengar
+13:Ferrothorn
+14:Whimsicott
+15:Bronzong
+16:Landorus
+17:Amoonguss
+18:Dialga
+19:Kyurem
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Precipice Blades,41.3133609737%,14401.8376354
+2:Eruption,22.6327404039%,7889.7733048
+3:Earth Power,10.1979403504%,3555.00200615
+4:Rock Slide,9.60278186438%,3347.52975792
+5:Fire Punch,9.55597164638%,3331.21171593
+6:Flamethrower,2.16330078909%,754.126655076
+7:Overheat,1.11007088404%,386.970710178
+8:Thunderbolt,0.48816370202%,170.173866524
+9:Hidden Power,0.441353484018%,153.855824529
+10:Rock Tomb,0.384512505015%,134.041059248
+11:Thunder Punch,0.381168918015%,132.87548482
+12:Ancient Power,0.320984352013%,111.895145112
+13:Stone Edge,0.294235656012%,102.570549686
+14:Dragon Claw,0.290892069012%,101.404975257
+15:Earthquake,0.180553698007%,62.9410191253
+16:Fire Blast,0.177210111007%,61.7754446971
+17:Iron Head,0.147117828006%,51.2852748429
+18:Dragon Pulse,0.127056306005%,44.2918282734
+19:Thunder,0.120369132005%,41.9606794169
+20:Lava Plume,0.0234051090009%,8.15902099773
+0:Other,0.0468102180019%,16.3180419955
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.4102564103%,5720.61538462
+2:Earth Power,12.4542124542%,4341.53846154
+3:Water Spout,11.3614163614%,3960.58974359
+4:Origin Pulse,8.85225885226%,3085.8974359
+5:Ice Beam,5.25641025641%,1832.38461538
+6:Hyper Voice,4.3956043956%,1532.30769231
+7:Dazzling Gleam,4.17582417582%,1455.69230769
+8:Moonblast,3.43101343101%,1196.05128205
+9:Scald,3.31501831502%,1155.61538462
+10:Double-Edge,3.25396825397%,1134.33333333
+11:Sucker Punch,2.21611721612%,772.538461538
+12:Eruption,2.03907203907%,710.820512821
+13:Waterfall,2.00244200244%,698.051282051
+14:Earthquake,1.72771672772%,602.282051282
+15:Hidden Power,1.53846153846%,536.307692308
+16:Dragon Ascent,1.41636141636%,493.743589744
+17:Brave Bird,1.40415140415%,489.487179487
+18:Foul Play,1.31257631258%,457.564102564
+19:Draco Meteor,1.06837606838%,372.435897436
+20:Return,0.976800976801%,340.512820513
+0:Other,10.5128205128%,3664.76923077
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Talonflame
+6:Smeargle
+7:Thundurus
+8:Ferrothorn
+9:Salamence
+10:Mawile
+11:Crobat
+12:Cresselia
+13:Dialga
+14:Landorus
+15:Rayquaza
+16:Bronzong
+17:Gengar
+18:Yveltal
+19:Weavile
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Yveltal
+8:Landorus
+9:Talonflame
+10:Dialga
+11:Kyogre
+12:Rayquaza
+13:Kyurem
+14:Mawile
+15:Thundurus
+16:Cresselia
+17:Ditto
+18:Gengar
+19:Gengar
+20:Palkia

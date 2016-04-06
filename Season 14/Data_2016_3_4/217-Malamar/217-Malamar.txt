@@ -1,0 +1,98 @@
+217:Malamar|22
+ ---------- 
+Moves used:
+1:Superpower,100.0%,22.0
+2:Trick Room,72.7272727273%,16.0
+3:Topsy-Turvy,54.5454545455%,12.0
+4:Protect,54.5454545455%,12.0
+5:Knock Off,31.8181818182%,7.0
+6:Psycho Cut,22.7272727273%,5.0
+7:Rock Slide,22.7272727273%,5.0
+8:Hypnosis,22.7272727273%,5.0
+9:Rest,13.6363636364%,3.0
+10:Night Slash,4.54545454545%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,54.5454545455%,12.0
+2:Iron Ball,22.7272727273%,5.0
+3:Lum Berry,18.1818181818%,4.0
+4:Shell Bell,4.54545454545%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,22.0
+
+ ---------- 
+Natures used:
+1:Careful,54.5454545455%,12.0
+2:Adamant,22.7272727273%,5.0
+3:Brave,22.7272727273%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Giratina
+3:Gyarados
+4:Musharna
+5:Metagross
+6:Scizor
+7:Meowstic
+8:Ferrothorn
+9:Giratina
+10:Groudon
+11:Gengar
+12:Azelf
+13:Hawlucha
+14:Terrakion
+15:Sableye
+16:Gardevoir
+17:Kangaskhan
+18:Nidoqueen
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Superpower,60.0%,13.2
+2:Psycho Cut,20.0%,4.4
+3:Rock Slide,20.0%,4.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.1111111111%,2.44444444444
+2:Precipice Blades,5.55555555556%,1.22222222222
+3:Origin Pulse,5.55555555556%,1.22222222222
+4:Moonblast,5.55555555556%,1.22222222222
+5:Spacial Rend,5.55555555556%,1.22222222222
+6:Draco Meteor,5.55555555556%,1.22222222222
+7:Earth Power,5.55555555556%,1.22222222222
+8:Brave Bird,5.55555555556%,1.22222222222
+9:Dragon Pulse,5.55555555556%,1.22222222222
+10:Bug Buzz,5.55555555556%,1.22222222222
+11:Sucker Punch,5.55555555556%,1.22222222222
+12:Water Spout,5.55555555556%,1.22222222222
+13:Eruption,5.55555555556%,1.22222222222
+14:Knock Off,5.55555555556%,1.22222222222
+15:Thunderbolt,5.55555555556%,1.22222222222
+16:Double-Edge,5.55555555556%,1.22222222222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Rotom
+3:Weavile
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Palkia
+3:Groudon
+4:Kyogre
+5:Yveltal
+6:Goodra
+7:Thundurus
+8:Volcarona
+9:Dialga
+10:Salamence
+11:Mawile
+12:Ho-Oh

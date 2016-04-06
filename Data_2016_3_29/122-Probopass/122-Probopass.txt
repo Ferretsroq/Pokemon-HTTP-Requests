@@ -1,0 +1,53 @@
+122:Probopass|1
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,1.0
+2:Wide Guard,100.0%,1.0
+3:Magnet Bomb,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eject Button,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sableye
+2:Murkrow
+3:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,8.33333333333%,0.0833333333333
+2:Dazzling Gleam,8.33333333333%,0.0833333333333
+3:Moonblast,8.33333333333%,0.0833333333333
+4:Earth Power,8.33333333333%,0.0833333333333
+5:Feint,8.33333333333%,0.0833333333333
+6:Overheat,8.33333333333%,0.0833333333333
+7:Hidden Power,8.33333333333%,0.0833333333333
+8:Rock Slide,8.33333333333%,0.0833333333333
+9:Thunderbolt,8.33333333333%,0.0833333333333
+10:Fire Punch,8.33333333333%,0.0833333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Landorus
+5:Thundurus
+6:Scizor

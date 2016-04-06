@@ -1,0 +1,39 @@
+305:Sigilyph|1
+ ---------- 
+Moves used:
+1:Roost,100.0%,1.0
+2:Cosmic Power,100.0%,1.0
+3:Magic Coat,100.0%,1.0
+4:Heat Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Wonder Skin,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

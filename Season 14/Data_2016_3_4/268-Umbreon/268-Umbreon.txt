@@ -1,0 +1,68 @@
+268:Umbreon|8
+ ---------- 
+Moves used:
+1:Snarl,87.5%,7.0
+2:Foul Play,75.0%,6.0
+3:Helping Hand,62.5%,5.0
+4:Substitute,62.5%,5.0
+5:Moonlight,37.5%,3.0
+6:Charm,25.0%,2.0
+7:Toxic,25.0%,2.0
+8:Taunt,12.5%,1.0
+9:Heal Bell,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,62.5%,5.0
+2:Sitrus Berry,25.0%,2.0
+3:Rocky Helmet,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,87.5%,7.0
+2:Synchronize,12.5%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,62.5%,5.0
+2:Bold,37.5%,3.0
+
+ ---------- 
+Top teammates:
+1:Garchomp
+2:Kyogre
+3:Ho-Oh
+4:Ferrothorn
+5:Groudon
+6:Salamence
+7:Sylveon
+8:Landorus
+9:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Snarl,50.0%,4.0
+2:Foul Play,50.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Bolt Strike,16.6666666667%,1.33333333333
+2:Power Whip,16.6666666667%,1.33333333333
+3:Brave Bird,16.6666666667%,1.33333333333
+4:Hyper Voice,16.6666666667%,1.33333333333
+5:Earthquake,16.6666666667%,1.33333333333
+6:Low Kick,16.6666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Lumineon
+2:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Zekrom
+2:Ferrothorn
+3:Weavile
+4:Rayquaza
+5:Salamence
+6:Ho-Oh

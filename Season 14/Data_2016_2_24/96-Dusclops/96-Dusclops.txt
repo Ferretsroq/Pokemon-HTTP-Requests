@@ -1,0 +1,132 @@
+96:Dusclops|225
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,225.0
+2:Night Shade,69.3333333333%,156.0
+3:Skill Swap,53.7777777778%,121.0
+4:Will-O-Wisp,50.6666666667%,114.0
+5:Pain Split,50.6666666667%,114.0
+6:Haze,40.0%,90.0
+7:Gravity,13.7777777778%,31.0
+8:Ice Beam,7.55555555556%,17.0
+9:Disable,5.77777777778%,13.0
+10:Confuse Ray,3.55555555556%,8.0
+11:Taunt,1.77777777778%,4.0
+12:Protect,1.33333333333%,3.0
+13:Ice Punch,0.888888888889%,2.0
+14:Destiny Bond,0.444444444444%,1.0
+15:Curse,0.444444444444%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,225.0
+
+ ---------- 
+Abilities used:
+1:Frisk,76.8888888889%,173.0
+2:Pressure,23.1111111111%,52.0
+
+ ---------- 
+Natures used:
+1:Relaxed,61.3333333333%,138.0
+2:Sassy,35.1111111111%,79.0
+3:Careful,3.11111111111%,7.0
+4:Bold,0.444444444444%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Rayquaza
+4:Togekiss
+5:Groudon
+6:Talonflame
+7:Ferrothorn
+8:Kangaskhan
+9:Yveltal
+10:Hariyama
+11:Nidoqueen
+12:Xerneas
+13:Palkia
+14:Salamence
+15:Liepard
+16:Thundurus
+17:Dialga
+18:Gastrodon
+19:Roserade
+20:Kecleon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Night Shade,87.5%,196.875
+2:Ice Beam,12.5%,28.125
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,9.55882352941%,21.5073529412
+2:Dazzling Gleam,9.55882352941%,21.5073529412
+3:Eruption,9.55882352941%,21.5073529412
+4:Moonblast,8.08823529412%,18.1985294118
+5:Water Spout,7.35294117647%,16.5441176471
+6:Precipice Blades,6.61764705882%,14.8897058824
+7:Dragon Ascent,5.88235294118%,13.2352941176
+8:Brave Bird,5.14705882353%,11.5808823529
+9:Sucker Punch,4.41176470588%,9.92647058824
+10:Draco Meteor,3.67647058824%,8.27205882353
+11:Hyper Voice,2.94117647059%,6.61764705882
+12:Shadow Ball,2.94117647059%,6.61764705882
+13:Earth Power,2.20588235294%,4.96323529412
+14:Ice Beam,2.20588235294%,4.96323529412
+15:Flamethrower,2.20588235294%,4.96323529412
+16:Power Whip,1.47058823529%,3.30882352941
+17:Dragon Pulse,1.47058823529%,3.30882352941
+18:Air Slash,1.47058823529%,3.30882352941
+19:Snarl,0.735294117647%,1.65441176471
+20:Hex,0.735294117647%,1.65441176471
+0:Other,9.55882352941%,21.5073529412
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Cresselia
+4:Rayquaza
+5:Salamence
+6:Smeargle
+7:Crobat
+8:Xerneas
+9:Talonflame
+10:Thundurus
+11:Amoonguss
+12:Palkia
+13:Weavile
+14:Mawile
+15:Aegislash
+16:Ferrothorn
+17:Whimsicott
+18:Seismitoad
+19:Bronzong
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Rayquaza
+5:Salamence
+6:Talonflame
+7:Kangaskhan
+8:Aegislash
+9:Dialga
+10:Mawile
+11:Ho-Oh
+12:Ferrothorn
+13:Cresselia
+14:Togekiss
+15:Kyogre
+16:Gengar
+17:Yveltal
+18:Noivern
+19:Hydreigon
+20:Amoonguss

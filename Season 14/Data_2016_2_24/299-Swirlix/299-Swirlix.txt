@@ -1,0 +1,38 @@
+299:Swirlix|1
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,1.0
+2:Helping Hand,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Cotton Spore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sweet Veil,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Rayquaza
+3:Bisharp
+4:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

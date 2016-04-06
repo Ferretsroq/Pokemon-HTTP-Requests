@@ -1,0 +1,42 @@
+319:Hitmonchan|1
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,1.0
+2:Fake Out,100.0%,1.0
+3:Mach Punch,100.0%,1.0
+4:Ice Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Klefki
+4:Golem
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,50.0%,0.5
+2:Double-Edge,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Kangaskhan

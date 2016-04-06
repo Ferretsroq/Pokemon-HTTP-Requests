@@ -1,0 +1,109 @@
+167:Blissey|50
+ ---------- 
+Moves used:
+1:Soft-Boiled,100.0%,50.0
+2:Minimize,68.0%,34.0
+3:Calm Mind,50.0%,25.0
+4:Ice Beam,44.0%,22.0
+5:Heal Pulse,42.0%,21.0
+6:Water Pulse,32.0%,16.0
+7:Helping Hand,32.0%,16.0
+8:Toxic,16.0%,8.0
+9:Hyper Voice,6.0%,3.0
+10:Flamethrower,6.0%,3.0
+11:Icy Wind,2.0%,1.0
+12:Seismic Toss,2.0%,1.0
+
+ ---------- 
+Items used:
+1:Kee Berry,54.0%,27.0
+2:Sitrus Berry,32.0%,16.0
+3:Mental Herb,6.0%,3.0
+4:Bright Powder,6.0%,3.0
+5:Leftovers,2.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,48.0%,24.0
+2:Serene Grace,36.0%,18.0
+3:Healer,16.0%,8.0
+
+ ---------- 
+Natures used:
+1:Relaxed,50.0%,25.0
+2:Bold,50.0%,25.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Natu
+3:Kyogre
+4:Rayquaza
+5:Yveltal
+6:Landorus
+7:Latias
+8:Mienshao
+9:Groudon
+10:Gengar
+11:Ferrothorn
+12:Carbink
+13:Aegislash
+14:Meowstic
+15:Bisharp
+16:Dialga
+17:Sableye
+18:Mewtwo
+19:Terrakion
+20:Suicune
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,79.3103448276%,39.6551724138
+2:Water Pulse,10.3448275862%,5.1724137931
+3:Hyper Voice,10.3448275862%,5.1724137931
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.6470588235%,8.82352941176
+2:Double-Edge,11.7647058824%,5.88235294118
+3:Dragon Ascent,5.88235294118%,2.94117647059
+4:Dazzling Gleam,5.88235294118%,2.94117647059
+5:Psystrike,5.88235294118%,2.94117647059
+6:Brave Bird,5.88235294118%,2.94117647059
+7:Flare Blitz,5.88235294118%,2.94117647059
+8:Close Combat,5.88235294118%,2.94117647059
+9:Eruption,5.88235294118%,2.94117647059
+10:Knock Off,5.88235294118%,2.94117647059
+11:Return,5.88235294118%,2.94117647059
+12:Low Kick,5.88235294118%,2.94117647059
+13:Fire Punch,5.88235294118%,2.94117647059
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Groudon
+3:Talonflame
+4:Thundurus
+5:Rayquaza
+6:Yveltal
+7:Xerneas
+8:Landorus
+9:Ferrothorn
+10:Rayquaza
+11:Lugia
+12:Togetic
+13:Crobat
+14:Kangaskhan
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Yveltal
+5:Xerneas
+6:Terrakion
+7:Mienshao
+8:Rayquaza
+9:Mewtwo

@@ -1,0 +1,88 @@
+79:Lilligant|5
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,5.0
+2:Grass Knot,80.0%,4.0
+3:After You,60.0%,3.0
+4:Teeter Dance,60.0%,3.0
+5:Protect,60.0%,3.0
+6:Hidden Power,20.0%,1.0
+7:Giga Drain,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,80.0%,4.0
+2:Coba Berry,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,60.0%,3.0
+2:Modest,40.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyurem
+3:Cresselia
+4:Kangaskhan
+5:Xerneas
+6:Meowstic
+7:Talonflame
+8:Hydreigon
+9:Gothorita
+10:Giratina
+11:Salamence
+12:Mawile
+13:Sableye
+14:Smeargle
+15:Crobat
+16:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.0434782609%,0.652173913043
+2:Origin Pulse,8.69565217391%,0.434782608696
+3:Water Spout,8.69565217391%,0.434782608696
+4:Hyper Voice,8.69565217391%,0.434782608696
+5:Eruption,8.69565217391%,0.434782608696
+6:Return,8.69565217391%,0.434782608696
+7:Fire Punch,8.69565217391%,0.434782608696
+8:Dazzling Gleam,4.34782608696%,0.217391304348
+9:Spacial Rend,4.34782608696%,0.217391304348
+10:Flare Blitz,4.34782608696%,0.217391304348
+11:Feint,4.34782608696%,0.217391304348
+12:Gyro Ball,4.34782608696%,0.217391304348
+13:Waterfall,4.34782608696%,0.217391304348
+14:Ice Beam,4.34782608696%,0.217391304348
+15:Double-Edge,4.34782608696%,0.217391304348
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Whimsicott
+3:Rayquaza
+4:Kyogre
+5:Smeargle
+6:Mr. Mime
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Xerneas
+6:Clawitzer
+7:Talonflame
+8:Mienshao
+9:Palkia
+10:Bronzong
+11:Rayquaza

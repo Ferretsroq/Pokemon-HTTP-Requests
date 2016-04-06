@@ -1,0 +1,129 @@
+41:Manectric|19
+ ---------- 
+Moves used:
+1:Protect,94.7368421053%,18.0
+2:Volt Switch,73.6842105263%,14.0
+3:Hidden Power,73.6842105263%,14.0
+4:Thunder,47.3684210526%,9.0
+5:Thunderbolt,42.1052631579%,8.0
+6:Flamethrower,26.3157894737%,5.0
+7:Snarl,15.7894736842%,3.0
+8:Overheat,10.5263157895%,2.0
+9:Thunder Wave,10.5263157895%,2.0
+10:Electric Terrain,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Manectite,100.0%,19.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,94.7368421053%,18.0
+2:Static,5.26315789474%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,94.7368421053%,18.0
+2:Modest,5.26315789474%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Yveltal
+5:Ferrothorn
+6:Cresselia
+7:Mawile
+8:Talonflame
+9:Smeargle
+10:Crobat
+11:Xerneas
+12:Landorus
+13:Landorus
+14:Gothitelle
+15:Liepard
+16:Bronzong
+17:Rayquaza
+18:Espeon
+19:Tornadus
+20:Hydreigon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,29.8969072165%,5.68041237113
+2:Volt Switch,28.8659793814%,5.48453608247
+3:Hidden Power,23.7113402062%,4.50515463918
+4:Thunder,11.3402061856%,2.15463917526
+5:Flamethrower,5.15463917526%,0.979381443299
+6:Overheat,1.03092783505%,0.19587628866
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.5607476636%,3.90654205607
+2:Water Spout,11.214953271%,2.1308411215
+3:Origin Pulse,7.47663551402%,1.42056074766
+4:Dazzling Gleam,7.47663551402%,1.42056074766
+5:Earth Power,7.47663551402%,1.42056074766
+6:Dragon Ascent,2.80373831776%,0.532710280374
+7:Scald,2.80373831776%,0.532710280374
+8:Draco Meteor,2.80373831776%,0.532710280374
+9:Sucker Punch,2.80373831776%,0.532710280374
+10:Eruption,2.80373831776%,0.532710280374
+11:Extreme Speed,2.80373831776%,0.532710280374
+12:Ice Beam,2.80373831776%,0.532710280374
+13:Double-Edge,2.80373831776%,0.532710280374
+14:Play Rough,1.8691588785%,0.355140186916
+15:Power Whip,1.8691588785%,0.355140186916
+16:Gyro Ball,1.8691588785%,0.355140186916
+17:Power-Up Punch,0.934579439252%,0.177570093458
+18:Moonblast,0.934579439252%,0.177570093458
+19:Snarl,0.934579439252%,0.177570093458
+20:Foul Play,0.934579439252%,0.177570093458
+0:Other,12.1495327103%,2.30841121495
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Salamence
+4:Kangaskhan
+5:Groudon
+6:Thundurus
+7:Landorus
+8:Weavile
+9:Amoonguss
+10:Rayquaza
+11:Crobat
+12:Xerneas
+13:Greninja
+14:Mienshao
+15:Ferrothorn
+16:Rayquaza
+17:Mawile
+18:Terrakion
+19:Gothitelle
+20:Scrafty
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Kangaskhan
+6:Ferrothorn
+7:Yveltal
+8:Landorus
+9:Cresselia
+10:Dialga
+11:Kyogre
+12:Mawile
+13:Landorus
+14:Zekrom
+15:Hydreigon
+16:Liepard
+17:Giratina
+18:Palkia
+19:Weavile
+20:Lucario

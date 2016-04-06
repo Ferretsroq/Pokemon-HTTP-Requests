@@ -1,0 +1,39 @@
+341:Wigglytuff|1
+ ---------- 
+Moves used:
+1:Dazzling Gleam,100.0%,1.0
+2:Hyper Voice,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Sing,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Misdreavus
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

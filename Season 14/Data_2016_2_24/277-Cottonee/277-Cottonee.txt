@@ -1,0 +1,55 @@
+277:Cottonee|4
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,4.0
+2:Encore,75.0%,3.0
+3:Tailwind,50.0%,2.0
+4:Fake Tears,50.0%,2.0
+5:Safeguard,50.0%,2.0
+6:Swagger,25.0%,1.0
+7:Protect,25.0%,1.0
+8:Toxic,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Prankster,50.0%,2.0
+2:Infiltrator,50.0%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,75.0%,3.0
+2:Bold,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Ferrothorn
+5:Amoonguss
+6:Giratina
+7:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,25.0%,1.0
+2:Eruption,25.0%,1.0
+3:Psychic,25.0%,1.0
+4:Ice Beam,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Cresselia
+3:Groudon
+4:Kyogre

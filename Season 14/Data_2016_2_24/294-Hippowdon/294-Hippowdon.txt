@@ -1,0 +1,51 @@
+294:Hippowdon|3
+ ---------- 
+Moves used:
+1:Rock Tomb,100.0%,3.0
+2:Yawn,100.0%,3.0
+3:Earthquake,100.0%,3.0
+4:Stealth Rock,66.6666666667%,2.0
+5:Slack Off,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,66.6666666667%,2.0
+2:Sitrus Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sand Stream,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Impish,66.6666666667%,2.0
+2:Careful,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Porygon2
+2:Sylveon
+3:Tyrantrum
+4:Aegislash
+5:Talonflame
+6:Salamence
+7:Scizor
+8:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,33.3333333333%,1.0
+2:Water Spout,33.3333333333%,1.0
+3:Eruption,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre

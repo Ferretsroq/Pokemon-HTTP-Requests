@@ -1,0 +1,58 @@
+245:Rotom-Fan|15
+ ---------- 
+Moves used:
+1:Air Slash,100.0%,15.0
+2:Snatch,100.0%,15.0
+3:Protect,100.0%,15.0
+4:Thunderbolt,100.0%,15.0
+
+ ---------- 
+Items used:
+1:Power Herb,93.3333333333%,14.0
+2:Leftovers,6.66666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,15.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Rayquaza
+4:Smeargle
+5:Ferrothorn
+6:Groudon
+7:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,80.0%,12.0
+2:Air Slash,20.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,22.2222222222%,3.33333333333
+2:Dazzling Gleam,22.2222222222%,3.33333333333
+3:Rock Slide,22.2222222222%,3.33333333333
+4:Eruption,11.1111111111%,1.66666666667
+5:Fake Out,11.1111111111%,1.66666666667
+6:Ice Beam,11.1111111111%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Xerneas
+3:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Landorus
+5:Kangaskhan

@@ -1,0 +1,36 @@
+378:Dodrio|1
+ ---------- 
+Moves used:
+1:Roost,100.0%,1.0
+2:Pursuit,100.0%,1.0
+3:Drill Peck,100.0%,1.0
+4:Fly,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Run Away,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Magnezone
+2:Blaziken
+3:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

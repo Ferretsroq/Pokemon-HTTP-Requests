@@ -1,0 +1,150 @@
+99:Reshiram|243
+ ---------- 
+Moves used:
+1:Fusion Flare,65.8436213992%,160.0
+2:Draco Meteor,62.1399176955%,151.0
+3:Protect,54.3209876543%,132.0
+4:Earth Power,53.9094650206%,131.0
+5:Dragon Pulse,35.8024691358%,87.0
+6:Blue Flare,29.6296296296%,72.0
+7:Tailwind,18.5185185185%,45.0
+8:Substitute,14.8148148148%,36.0
+9:Focus Blast,12.7572016461%,31.0
+10:Solar Beam,12.7572016461%,31.0
+11:Extrasensory,12.3456790123%,30.0
+12:Flamethrower,11.1111111111%,27.0
+13:Heat Wave,9.87654320988%,24.0
+14:Shadow Ball,3.7037037037%,9.0
+15:Dragon Breath,1.23456790123%,3.0
+16:Stone Edge,0.82304526749%,2.0
+17:Slash,0.411522633745%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,47.7366255144%,116.0
+2:Choice Scarf,16.8724279835%,41.0
+3:Air Balloon,15.6378600823%,38.0
+4:Assault Vest,13.9917695473%,34.0
+5:Focus Sash,1.64609053498%,4.0
+6:Roseli Berry,1.23456790123%,3.0
+7:Choice Specs,0.82304526749%,2.0
+8:Shuca Berry,0.82304526749%,2.0
+9:Charcoal,0.411522633745%,1.0
+10:White Herb,0.411522633745%,1.0
+11:Lum Berry,0.411522633745%,1.0
+
+ ---------- 
+Abilities used:
+1:Turboblaze,100.0%,243.0
+
+ ---------- 
+Natures used:
+1:Timid,51.8518518519%,126.0
+2:Modest,32.5102880658%,79.0
+3:Calm,14.4032921811%,35.0
+4:Quiet,0.82304526749%,2.0
+5:Quirky,0.411522633745%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Zekrom
+3:Raichu
+4:Talonflame
+5:Groudon
+6:Kyogre
+7:Gengar
+8:Crobat
+9:Ditto
+10:Garchomp
+11:Rayquaza
+12:Whimsicott
+13:Charizard
+14:Cresselia
+15:Thundurus
+16:Meowstic
+17:Mienshao
+18:Glalie
+19:Hitmontop
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fusion Flare,38.5185185185%,93.6
+2:Draco Meteor,20.0%,48.6
+3:Dragon Pulse,13.3333333333%,32.4
+4:Earth Power,11.1111111111%,27.0
+5:Blue Flare,8.88888888889%,21.6
+6:Heat Wave,4.44444444444%,10.8
+7:Flamethrower,2.96296296296%,7.2
+8:Focus Blast,0.740740740741%,1.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,19.6319018405%,47.7055214724
+2:Dazzling Gleam,8.58895705521%,20.8711656442
+3:Double-Edge,7.36196319018%,17.8895705521
+4:Origin Pulse,4.90797546012%,11.9263803681
+5:Moonblast,4.90797546012%,11.9263803681
+6:Earth Power,4.90797546012%,11.9263803681
+7:Sucker Punch,4.29447852761%,10.4355828221
+8:Earthquake,4.29447852761%,10.4355828221
+9:Water Spout,3.68098159509%,8.94478527607
+10:Rock Slide,3.68098159509%,8.94478527607
+11:Dragon Ascent,3.06748466258%,7.45398773006
+12:Brave Bird,3.06748466258%,7.45398773006
+13:Draco Meteor,2.45398773006%,5.96319018405
+14:Extreme Speed,2.45398773006%,5.96319018405
+15:Spacial Rend,1.22699386503%,2.98159509202
+16:Hyper Voice,1.22699386503%,2.98159509202
+17:Shadow Ball,1.22699386503%,2.98159509202
+18:Ice Beam,1.22699386503%,2.98159509202
+19:Oblivion Wing,0.613496932515%,1.49079754601
+20:Play Rough,0.613496932515%,1.49079754601
+0:Other,7.9754601227%,19.3803680982
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Salamence
+4:Talonflame
+5:Cresselia
+6:Xerneas
+7:Ferrothorn
+8:Smeargle
+9:Weavile
+10:Yveltal
+11:Rayquaza
+12:Whimsicott
+13:Rayquaza
+14:Kyogre
+15:Mawile
+16:Crobat
+17:Gengar
+18:Mienshao
+19:Amoonguss
+20:Abomasnow
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Landorus
+7:Salamence
+8:Talonflame
+9:Palkia
+10:Mawile
+11:Gengar
+12:Yveltal
+13:Giratina
+14:Archeops
+15:Cresselia
+16:Dialga
+17:Salamence
+18:Breloom
+19:Sceptile
+20:Ho-Oh

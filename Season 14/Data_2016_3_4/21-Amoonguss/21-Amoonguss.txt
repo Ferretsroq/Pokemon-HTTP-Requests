@@ -1,0 +1,169 @@
+21:Amoonguss|10150
+ ---------- 
+Moves used:
+1:Spore,99.8916256158%,10139.0
+2:Rage Powder,99.6748768473%,10117.0
+3:Protect,88.5812807882%,8991.0
+4:Grass Knot,52.3054187192%,5309.0
+5:Clear Smog,24.9950738916%,2537.0
+6:Giga Drain,19.1231527094%,1941.0
+7:Sludge Bomb,6.24630541872%,634.0
+8:Foul Play,3.81280788177%,387.0
+9:After You,1.22167487685%,124.0
+10:Energy Ball,1.14285714286%,116.0
+11:Gastro Acid,1.07389162562%,109.0
+12:Hidden Power,0.827586206897%,84.0
+13:Worry Seed,0.305418719212%,31.0
+14:Synthesis,0.167487684729%,17.0
+15:Sunny Day,0.147783251232%,15.0
+16:Rest,0.137931034483%,14.0
+17:Seed Bomb,0.0886699507389%,9.0
+18:Substitute,0.0689655172414%,7.0
+19:Mega Drain,0.0591133004926%,6.0
+20:Swagger,0.0394088669951%,4.0
+0:Other,0.0886699507389%,9.0
+
+ ---------- 
+Items used:
+1:Mental Herb,27.8620689655%,2828.0
+2:Sitrus Berry,17.0738916256%,1733.0
+3:Rocky Helmet,16.5320197044%,1678.0
+4:Coba Berry,10.4729064039%,1063.0
+5:Lum Berry,9.54679802956%,969.0
+6:Focus Sash,5.14285714286%,522.0
+7:Occa Berry,4.65024630542%,472.0
+8:Black Sludge,2.18719211823%,222.0
+9:Red Card,1.90147783251%,193.0
+10:Chesto Berry,1.62561576355%,165.0
+11:Eject Button,1.16256157635%,118.0
+12:Leftovers,0.778325123153%,79.0
+13:Yache Berry,0.384236453202%,39.0
+14:Jaboca Berry,0.354679802956%,36.0
+15:Quick Claw,0.118226600985%,12.0
+16:Bright Powder,0.0591133004926%,6.0
+17:Custap Berry,0.0591133004926%,6.0
+18:White Herb,0.0197044334975%,2.0
+19:Power Herb,0.00985221674877%,1.0
+20:Expert Belt,0.00985221674877%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,86.5714285714%,8787.0
+2:Effect Spore,13.4285714286%,1363.0
+
+ ---------- 
+Natures used:
+1:Sassy,48.8768472906%,4961.0
+2:Relaxed,28.0295566502%,2845.0
+3:Calm,11.9704433498%,1215.0
+4:Bold,9.52709359606%,967.0
+5:Timid,0.995073891626%,101.0
+6:Careful,0.423645320197%,43.0
+7:Quiet,0.0788177339901%,8.0
+8:Impish,0.0591133004926%,6.0
+9:Brave,0.0295566502463%,3.0
+10:Bashful,0.00985221674877%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Cresselia
+9:Mawile
+10:Landorus
+11:Crobat
+12:Dialga
+13:Gengar
+14:Liepard
+15:Smeargle
+16:Thundurus
+17:Palkia
+18:Mewtwo
+19:Ho-Oh
+20:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,60.0858369099%,6098.71244635
+2:Giga Drain,15.4506437768%,1568.24034335
+3:Clear Smog,13.0901287554%,1328.64806867
+4:Sludge Bomb,5.90128755365%,598.980686695
+5:Foul Play,4.07725321888%,413.841201717
+6:Energy Ball,0.643776824034%,65.3433476395
+7:Hidden Power,0.429184549356%,43.5622317597
+8:Struggle,0.321888412017%,32.6716738197
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,11.2366806587%,1140.52308686
+2:Double-Edge,9.13787536325%,927.49434937
+3:Brave Bird,8.44365515015%,857.03099774
+4:Dragon Ascent,8.16919599613%,829.173393607
+5:Eruption,6.95834678721%,706.272198902
+6:Precipice Blades,5.29544720697%,537.487891508
+7:Iron Head,3.19664191153%,324.45915402
+8:Water Spout,3.19664191153%,324.45915402
+9:Hyper Voice,3.01905069422%,306.433645463
+10:Dazzling Gleam,2.58314497901%,262.18921537
+11:Fire Punch,2.47013238618%,250.718437197
+12:Origin Pulse,2.32483048111%,235.970293833
+13:Overheat,2.30868582499%,234.331611237
+14:Return,2.30868582499%,234.331611237
+15:Psychic,1.54988698741%,157.313529222
+16:Flamethrower,1.50145301905%,152.397481434
+17:Moonblast,1.3722957701%,139.288020665
+18:Sludge Bomb,1.32386180174%,134.371972877
+19:Psystrike,1.27542783339%,129.455925089
+20:Flare Blitz,1.24313852115%,126.178559897
+0:Other,20.0839522118%,2038.5211495
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Smeargle
+5:Kangaskhan
+6:Whimsicott
+7:Liepard
+8:Cresselia
+9:Thundurus
+10:Palkia
+11:Crobat
+12:Gengar
+13:Landorus
+14:Mienshao
+15:Rayquaza
+16:Gengar
+17:Weavile
+18:Rayquaza
+19:Talonflame
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Xerneas
+8:Mawile
+9:Rayquaza
+10:Cresselia
+11:Dialga
+12:Yveltal
+13:Weavile
+14:Ho-Oh
+15:Gengar
+16:Landorus
+17:Palkia
+18:Kyurem
+19:Mewtwo
+20:Mewtwo

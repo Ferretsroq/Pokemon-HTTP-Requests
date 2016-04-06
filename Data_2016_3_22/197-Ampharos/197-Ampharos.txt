@@ -1,0 +1,43 @@
+197:Ampharos|1
+ ---------- 
+Moves used:
+1:Dragon Pulse,100.0%,1.0
+2:Hidden Power,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Thunderbolt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Ampharosite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Static,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Aegislash
+2:Thundurus
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Pulse,50.0%,0.5
+2:Thunderbolt,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Garchomp
+2:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

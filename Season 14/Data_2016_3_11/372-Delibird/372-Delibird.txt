@@ -1,0 +1,39 @@
+372:Delibird|1
+ ---------- 
+Moves used:
+1:Ice Shard,100.0%,1.0
+2:Fake Out,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Destiny Bond,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Naive,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Groudon
+3:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Explosion,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn

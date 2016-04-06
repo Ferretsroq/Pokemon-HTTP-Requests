@@ -1,0 +1,81 @@
+207:Illumise|22
+ ---------- 
+Moves used:
+1:Encore,100.0%,22.0
+2:Fake Tears,86.3636363636%,19.0
+3:Tailwind,72.7272727273%,16.0
+4:Thunder Wave,63.6363636364%,14.0
+5:Sweet Scent,36.3636363636%,8.0
+6:Protect,13.6363636364%,3.0
+7:Light Screen,13.6363636364%,3.0
+8:Helping Hand,9.09090909091%,2.0
+9:Swagger,4.54545454545%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,72.7272727273%,16.0
+2:Focus Sash,13.6363636364%,3.0
+3:Sitrus Berry,13.6363636364%,3.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,22.0
+
+ ---------- 
+Natures used:
+1:Bold,86.3636363636%,19.0
+2:Timid,9.09090909091%,2.0
+3:Calm,4.54545454545%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Sceptile
+4:Ludicolo
+5:Dialga
+6:Lugia
+7:Blaziken
+8:Kangaskhan
+9:Yveltal
+10:Dedenne
+11:Kyurem
+12:Ferrothorn
+13:Rayquaza
+14:Groudon
+15:Zapdos
+16:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.75%,4.125
+2:Hyper Voice,12.5%,2.75
+3:Double-Edge,12.5%,2.75
+4:Origin Pulse,6.25%,1.375
+5:Brave Bird,6.25%,1.375
+6:Gyro Ball,6.25%,1.375
+7:Water Spout,6.25%,1.375
+8:Overheat,6.25%,1.375
+9:Eruption,6.25%,1.375
+10:Shadow Ball,6.25%,1.375
+11:Extreme Speed,6.25%,1.375
+12:Rock Slide,6.25%,1.375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Sylveon
+6:Aegislash
+7:Talonflame
+8:Ferrothorn
+9:Rayquaza
+10:Salamence

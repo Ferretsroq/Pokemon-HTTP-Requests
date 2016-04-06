@@ -1,0 +1,123 @@
+189:Diggersby|34
+ ---------- 
+Moves used:
+1:Earthquake,76.4705882353%,26.0
+2:Knock Off,64.7058823529%,22.0
+3:Frustration,64.7058823529%,22.0
+4:Quick Attack,55.8823529412%,19.0
+5:Return,29.4117647059%,10.0
+6:Foul Play,23.5294117647%,8.0
+7:Protect,17.6470588235%,6.0
+8:Double Kick,14.7058823529%,5.0
+9:Ice Punch,14.7058823529%,5.0
+10:Rock Slide,11.7647058824%,4.0
+11:Superpower,8.82352941176%,3.0
+12:Wild Charge,5.88235294118%,2.0
+13:Stone Edge,5.88235294118%,2.0
+14:U-turn,5.88235294118%,2.0
+
+ ---------- 
+Items used:
+1:Choice Band,41.1764705882%,14.0
+2:Choice Scarf,38.2352941176%,13.0
+3:Focus Sash,14.7058823529%,5.0
+4:Life Orb,5.88235294118%,2.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Adamant,70.5882352941%,24.0
+2:Jolly,29.4117647059%,10.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Infernape
+3:Yveltal
+4:Rayquaza
+5:Talonflame
+6:Glaceon
+7:Groudon
+8:Kyogre
+9:Mawile
+10:Gengar
+11:Blastoise
+12:Sylveon
+13:Meowstic
+14:Togekiss
+15:Lopunny
+16:Salamence
+17:Scizor
+18:Kangaskhan
+19:Mienshao
+20:Giratina
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Frustration,27.7777777778%,9.44444444444
+2:Earthquake,27.7777777778%,9.44444444444
+3:Quick Attack,11.1111111111%,3.77777777778
+4:Ice Punch,11.1111111111%,3.77777777778
+5:Superpower,5.55555555556%,1.88888888889
+6:Return,5.55555555556%,1.88888888889
+7:Rock Slide,5.55555555556%,1.88888888889
+8:Double Kick,5.55555555556%,1.88888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,5.66666666667
+2:Hyper Voice,10.0%,3.4
+3:Precipice Blades,6.66666666667%,2.26666666667
+4:Water Spout,6.66666666667%,2.26666666667
+5:Eruption,6.66666666667%,2.26666666667
+6:Ice Beam,6.66666666667%,2.26666666667
+7:Origin Pulse,3.33333333333%,1.13333333333
+8:Power-Up Punch,3.33333333333%,1.13333333333
+9:Moonblast,3.33333333333%,1.13333333333
+10:Scald,3.33333333333%,1.13333333333
+11:Spacial Rend,3.33333333333%,1.13333333333
+12:Bullet Punch,3.33333333333%,1.13333333333
+13:Earth Power,3.33333333333%,1.13333333333
+14:Brave Bird,3.33333333333%,1.13333333333
+15:Sucker Punch,3.33333333333%,1.13333333333
+16:Gyro Ball,3.33333333333%,1.13333333333
+17:Tri Attack,3.33333333333%,1.13333333333
+18:Earthquake,3.33333333333%,1.13333333333
+19:Double-Edge,3.33333333333%,1.13333333333
+20:Fire Punch,3.33333333333%,1.13333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Greninja
+4:Liepard
+5:Weavile
+6:Rayquaza
+7:Groudon
+8:Kyogre
+9:Salamence
+10:Mawile
+11:Crobat
+12:Kangaskhan
+13:Gengar
+14:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Greninja
+8:Ferrothorn
+9:Cresselia
+10:Giratina
+11:Palkia
+12:Porygon-Z
+13:Scizor

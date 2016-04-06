@@ -1,0 +1,122 @@
+60:Garchomp|9
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,9.0
+2:Rock Slide,88.8888888889%,8.0
+3:Dragon Claw,66.6666666667%,6.0
+4:Protect,66.6666666667%,6.0
+5:Outrage,33.3333333333%,3.0
+6:Iron Head,22.2222222222%,2.0
+7:Poison Jab,11.1111111111%,1.0
+8:Crunch,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,33.3333333333%,3.0
+2:Life Orb,22.2222222222%,2.0
+3:Lum Berry,22.2222222222%,2.0
+4:Focus Sash,11.1111111111%,1.0
+5:Choice Band,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Rough Skin,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Jolly,66.6666666667%,6.0
+2:Adamant,22.2222222222%,2.0
+3:Lax,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Xerneas
+3:Kyogre
+4:Thundurus
+5:Cresselia
+6:Rayquaza
+7:Yveltal
+8:Aurorus
+9:Furfrou
+10:Talonflame
+11:Greninja
+12:Ferrothorn
+13:Amoonguss
+14:Liepard
+15:Dialga
+16:Mamoswine
+17:Togekiss
+18:Weavile
+19:Groudon
+20:Latias
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,28.125%,2.53125
+2:Outrage,18.75%,1.6875
+3:Earthquake,18.75%,1.6875
+4:Dragon Claw,15.625%,1.40625
+5:Iron Head,12.5%,1.125
+6:Crunch,6.25%,0.5625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.9534883721%,1.25581395349
+2:Ice Beam,11.6279069767%,1.04651162791
+3:Precipice Blades,6.97674418605%,0.627906976744
+4:Origin Pulse,6.97674418605%,0.627906976744
+5:Eruption,6.97674418605%,0.627906976744
+6:Return,6.97674418605%,0.627906976744
+7:Moonblast,4.6511627907%,0.418604651163
+8:Icy Wind,4.6511627907%,0.418604651163
+9:Power-Up Punch,2.32558139535%,0.209302325581
+10:Play Rough,2.32558139535%,0.209302325581
+11:Scald,2.32558139535%,0.209302325581
+12:Earth Power,2.32558139535%,0.209302325581
+13:Dragon Pulse,2.32558139535%,0.209302325581
+14:Sucker Punch,2.32558139535%,0.209302325581
+15:Hidden Power,2.32558139535%,0.209302325581
+16:Explosion,2.32558139535%,0.209302325581
+17:Earthquake,2.32558139535%,0.209302325581
+18:Double-Edge,2.32558139535%,0.209302325581
+19:Ice Punch,2.32558139535%,0.209302325581
+20:Fire Punch,2.32558139535%,0.209302325581
+0:Other,8.881784197e-16%,7.9936057773e-17
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Smeargle
+7:Aegislash
+8:Meowstic
+9:Thundurus
+10:Amoonguss
+11:Liepard
+12:Cresselia
+13:Palkia
+14:Kyogre
+15:Salamence
+16:Dusclops
+17:Mawile
+18:Lugia
+19:Crobat
+20:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Landorus
+6:Cresselia
+7:Thundurus
+8:Whimsicott
+9:Dialga
+10:Mawile
+11:Gengar

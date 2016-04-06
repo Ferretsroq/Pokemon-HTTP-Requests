@@ -1,0 +1,35 @@
+353:Lotad|1
+ ---------- 
+Moves used:
+1:Astonish,100.0%,1.0
+2:Giga Drain,100.0%,1.0
+3:Leech Seed,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Buneary
+2:Combee
+3:Beldum
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

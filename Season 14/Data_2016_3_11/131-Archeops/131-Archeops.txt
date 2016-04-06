@@ -1,0 +1,135 @@
+131:Archeops|170
+ ---------- 
+Moves used:
+1:Quick Guard,98.8235294118%,168.0
+2:Rock Slide,94.1176470588%,160.0
+3:Tailwind,92.9411764706%,158.0
+4:Knock Off,42.9411764706%,73.0
+5:Ally Switch,32.3529411765%,55.0
+6:Stealth Rock,16.4705882353%,28.0
+7:Roar,7.05882352941%,12.0
+8:Endeavor,6.47058823529%,11.0
+9:Head Smash,5.29411764706%,9.0
+10:Acrobatics,0.588235294118%,1.0
+11:Earth Power,0.588235294118%,1.0
+12:Heat Wave,0.588235294118%,1.0
+13:Hidden Power,0.588235294118%,1.0
+14:Protect,0.588235294118%,1.0
+15:Sky Attack,0.588235294118%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,64.7058823529%,110.0
+2:Lum Berry,25.8823529412%,44.0
+3:Sitrus Berry,7.05882352941%,12.0
+4:Life Orb,1.76470588235%,3.0
+5:Power Herb,0.588235294118%,1.0
+
+ ---------- 
+Abilities used:
+1:Defeatist,100.0%,170.0
+
+ ---------- 
+Natures used:
+1:Jolly,94.1176470588%,160.0
+2:Hasty,5.29411764706%,9.0
+3:Timid,0.588235294118%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Dialga
+3:Mienshao
+4:Kyogre
+5:Weavile
+6:Xerneas
+7:Groudon
+8:Ferrothorn
+9:Salamence
+10:Ho-Oh
+11:Landorus
+12:Smeargle
+13:Charizard
+14:Reshiram
+15:Noivern
+16:Liepard
+17:Cresselia
+18:Gengar
+19:Yveltal
+20:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,91.5254237288%,155.593220339
+2:Head Smash,5.08474576271%,8.64406779661
+3:Knock Off,3.38983050847%,5.76271186441
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.4827586207%,24.6206896552
+2:Rock Slide,10.3448275862%,17.5862068966
+3:Origin Pulse,8.27586206897%,14.0689655172
+4:Ice Beam,8.27586206897%,14.0689655172
+5:Water Spout,4.13793103448%,7.03448275862
+6:Gyro Ball,3.44827586207%,5.86206896552
+7:Hyper Voice,3.44827586207%,5.86206896552
+8:Eruption,3.44827586207%,5.86206896552
+9:Precipice Blades,2.75862068966%,4.68965517241
+10:Scald,2.75862068966%,4.68965517241
+11:Foul Play,2.75862068966%,4.68965517241
+12:Draco Meteor,2.75862068966%,4.68965517241
+13:Brave Bird,2.75862068966%,4.68965517241
+14:Dragon Ascent,2.06896551724%,3.51724137931
+15:Icicle Crash,2.06896551724%,3.51724137931
+16:Iron Head,2.06896551724%,3.51724137931
+17:Sucker Punch,2.06896551724%,3.51724137931
+18:Extreme Speed,2.06896551724%,3.51724137931
+19:Thunderbolt,2.06896551724%,3.51724137931
+20:Spacial Rend,1.37931034483%,2.34482758621
+0:Other,12.4137931034%,21.1034482759
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Crobat
+3:Smeargle
+4:Kangaskhan
+5:Togekiss
+6:Kyogre
+7:Xerneas
+8:Weavile
+9:Groudon
+10:Reshiram
+11:Thundurus
+12:Amoonguss
+13:Cofagrigus
+14:Liepard
+15:Bronzong
+16:Rayquaza
+17:Salamence
+18:Sableye
+19:Mewtwo
+20:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Landorus
+5:Cresselia
+6:Salamence
+7:Ferrothorn
+8:Rayquaza
+9:Talonflame
+10:Weavile
+11:Yveltal
+12:Thundurus
+13:Mawile
+14:Gothitelle
+15:Palkia
+16:Kangaskhan
+17:Klefki
+18:Aegislash
+19:Greninja
+20:Kyurem

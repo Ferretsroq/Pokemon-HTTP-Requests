@@ -1,0 +1,94 @@
+86:Latios|4
+ ---------- 
+Moves used:
+1:Draco Meteor,100.0%,4.0
+2:Psychic,75.0%,3.0
+3:Psyshock,50.0%,2.0
+4:Trick,50.0%,2.0
+5:Grass Knot,25.0%,1.0
+6:Dragon Pulse,25.0%,1.0
+7:Calm Mind,25.0%,1.0
+8:Thunderbolt,25.0%,1.0
+9:Ice Beam,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,25.0%,1.0
+2:Choice Scarf,25.0%,1.0
+3:Life Orb,25.0%,1.0
+4:White Herb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Xerneas
+3:Groudon
+4:Kyogre
+5:Kangaskhan
+6:Landorus
+7:Ferrothorn
+8:Liepard
+9:Dialga
+10:Togekiss
+11:Rayquaza
+12:Mawile
+13:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,47.0588235294%,1.88235294118
+2:Psyshock,11.7647058824%,0.470588235294
+3:Dragon Pulse,11.7647058824%,0.470588235294
+4:Psychic,11.7647058824%,0.470588235294
+5:Thunderbolt,11.7647058824%,0.470588235294
+6:Ice Beam,5.88235294118%,0.235294117647
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,21.0526315789%,0.842105263158
+2:Ice Beam,15.7894736842%,0.631578947368
+3:Sucker Punch,10.5263157895%,0.421052631579
+4:Eruption,10.5263157895%,0.421052631579
+5:Play Rough,5.26315789474%,0.210526315789
+6:Earth Power,5.26315789474%,0.210526315789
+7:Brave Bird,5.26315789474%,0.210526315789
+8:Dragon Pulse,5.26315789474%,0.210526315789
+9:Water Spout,5.26315789474%,0.210526315789
+10:Hyper Voice,5.26315789474%,0.210526315789
+11:Rock Slide,5.26315789474%,0.210526315789
+12:Blizzard,5.26315789474%,0.210526315789
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Dialga
+4:Crobat
+5:Landorus
+6:Thundurus
+7:Liepard
+8:Rayquaza
+9:Kyogre
+10:Salamence
+11:Kangaskhan
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kyurem
+6:Talonflame
+7:Dialga
+8:Mawile
+9:Mewtwo

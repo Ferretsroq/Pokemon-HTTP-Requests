@@ -1,0 +1,74 @@
+265:Bouffalant|11
+ ---------- 
+Moves used:
+1:Head Charge,100.0%,11.0
+2:Revenge,100.0%,11.0
+3:Megahorn,100.0%,11.0
+4:Wild Charge,54.5454545455%,6.0
+5:Rock Tomb,45.4545454545%,5.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,11.0
+
+ ---------- 
+Abilities used:
+1:Reckless,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Ho-Oh
+2:Venusaur
+3:Groudon
+4:Kyogre
+5:Latias
+6:Mienshao
+7:Mewtwo
+8:Zekrom
+9:Thundurus
+10:Aggron
+11:Crobat
+12:Arcanine
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Head Charge,85.7142857143%,9.42857142857
+2:Wild Charge,14.2857142857%,1.57142857143
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,18.1818181818%,2.0
+2:Origin Pulse,9.09090909091%,1.0
+3:Dazzling Gleam,9.09090909091%,1.0
+4:Earth Power,9.09090909091%,1.0
+5:Brave Bird,9.09090909091%,1.0
+6:Hyper Voice,9.09090909091%,1.0
+7:Thunderbolt,9.09090909091%,1.0
+8:Low Kick,9.09090909091%,1.0
+9:Double-Edge,9.09090909091%,1.0
+10:Fire Punch,9.09090909091%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Xerneas
+3:Talonflame
+4:Whimsicott
+5:Weavile
+6:Salamence
+7:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Sylveon
+6:Talonflame
+7:Thundurus
+8:Kyogre

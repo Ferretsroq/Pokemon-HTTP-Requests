@@ -1,0 +1,42 @@
+318:Rhydon|1
+ ---------- 
+Moves used:
+1:Power-Up Punch,100.0%,1.0
+2:Stone Edge,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Rayquaza
+3:Cresselia
+4:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Flash Cannon,50.0%,0.5
+2:Low Kick,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Dialga
+2:Kangaskhan

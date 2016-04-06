@@ -1,0 +1,123 @@
+157:Froslass|68
+ ---------- 
+Moves used:
+1:Protect,89.7058823529%,61.0
+2:Ice Beam,57.3529411765%,39.0
+3:Destiny Bond,55.8823529412%,38.0
+4:Frost Breath,42.6470588235%,29.0
+5:Thunder Wave,41.1764705882%,28.0
+6:Taunt,39.7058823529%,27.0
+7:Pain Split,39.7058823529%,27.0
+8:Shadow Ball,11.7647058824%,8.0
+9:Trick,8.82352941176%,6.0
+10:Hex,5.88235294118%,4.0
+11:Safeguard,2.94117647059%,2.0
+12:Ice Shard,1.47058823529%,1.0
+13:Icy Wind,1.47058823529%,1.0
+14:Toxic,1.47058823529%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,82.3529411765%,56.0
+2:Life Orb,8.82352941176%,6.0
+3:Choice Scarf,7.35294117647%,5.0
+4:Expert Belt,1.47058823529%,1.0
+
+ ---------- 
+Abilities used:
+1:Cursed Body,100.0%,68.0
+
+ ---------- 
+Natures used:
+1:Timid,97.0588235294%,66.0
+2:Jolly,2.94117647059%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Mawile
+3:Ho-Oh
+4:Kyogre
+5:Xerneas
+6:Delphox
+7:Seismitoad
+8:Togekiss
+9:Crobat
+10:Groudon
+11:Gengar
+12:Whimsicott
+13:Greninja
+14:Liepard
+15:Tauros
+16:Talonflame
+17:Kyurem
+18:Sylveon
+19:Aegislash
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,52.1739130435%,35.4782608696
+2:Ice Beam,26.0869565217%,17.7391304348
+3:Frost Breath,17.3913043478%,11.8260869565
+4:Ice Shard,4.34782608696%,2.95652173913
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,9.71428571429
+2:Origin Pulse,10.7142857143%,7.28571428571
+3:Rock Slide,8.92857142857%,6.07142857143
+4:Precipice Blades,7.14285714286%,4.85714285714
+5:Moonblast,5.35714285714%,3.64285714286
+6:Gyro Ball,5.35714285714%,3.64285714286
+7:Water Spout,5.35714285714%,3.64285714286
+8:Eruption,5.35714285714%,3.64285714286
+9:Sucker Punch,3.57142857143%,2.42857142857
+10:Flamethrower,3.57142857143%,2.42857142857
+11:Fire Punch,3.57142857143%,2.42857142857
+12:Snarl,1.78571428571%,1.21428571429
+13:Foul Play,1.78571428571%,1.21428571429
+14:Spacial Rend,1.78571428571%,1.21428571429
+15:Ice Shard,1.78571428571%,1.21428571429
+16:Dragon Pulse,1.78571428571%,1.21428571429
+17:Dark Pulse,1.78571428571%,1.21428571429
+18:Flare Blitz,1.78571428571%,1.21428571429
+19:Hyper Voice,1.78571428571%,1.21428571429
+20:Knock Off,1.78571428571%,1.21428571429
+0:Other,7.14285714286%,4.85714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Xerneas
+4:Kyogre
+5:Landorus
+6:Salamence
+7:Talonflame
+8:Excadrill
+9:Palkia
+10:Rayquaza
+11:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Yveltal
+5:Ferrothorn
+6:Landorus
+7:Palkia
+8:Kangaskhan
+9:Talonflame
+10:Thundurus
+11:Whimsicott
+12:Excadrill
+13:Dialga
+14:Weavile
+15:Salamence
+16:Ho-Oh
+17:Smeargle
+18:Ditto
+19:Lapras

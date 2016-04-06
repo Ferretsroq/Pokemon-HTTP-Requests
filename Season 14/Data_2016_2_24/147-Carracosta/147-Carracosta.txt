@@ -1,0 +1,130 @@
+147:Carracosta|72
+ ---------- 
+Moves used:
+1:Aqua Jet,90.2777777778%,65.0
+2:Rock Slide,88.8888888889%,64.0
+3:Low Kick,69.4444444444%,50.0
+4:Protect,68.0555555556%,49.0
+5:Wide Guard,30.5555555556%,22.0
+6:Superpower,15.2777777778%,11.0
+7:Waterfall,11.1111111111%,8.0
+8:Shell Smash,9.72222222222%,7.0
+9:Stone Edge,9.72222222222%,7.0
+10:Icy Wind,4.16666666667%,3.0
+11:Knock Off,1.38888888889%,1.0
+12:Ice Beam,1.38888888889%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,69.4444444444%,50.0
+2:Weakness Policy,30.5555555556%,22.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,94.4444444444%,68.0
+2:Solid Rock,5.55555555556%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,84.7222222222%,61.0
+2:Jolly,9.72222222222%,7.0
+3:Brave,5.55555555556%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Gengar
+4:Dialga
+5:Kangaskhan
+6:Liepard
+7:Blaziken
+8:Sceptile
+9:Rayquaza
+10:Talonflame
+11:Landorus
+12:Ditto
+13:Meowstic
+14:Kyurem
+15:Thundurus
+16:Cresselia
+17:Salamence
+18:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,49.0909090909%,35.3454545455
+2:Rock Slide,27.2727272727%,19.6363636364
+3:Low Kick,18.1818181818%,13.0909090909
+4:Stone Edge,3.63636363636%,2.61818181818
+5:Superpower,1.81818181818%,1.30909090909
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.0212765957%,12.2553191489
+2:Precipice Blades,8.51063829787%,6.12765957447
+3:Low Kick,8.51063829787%,6.12765957447
+4:Grass Knot,6.3829787234%,4.59574468085
+5:Power Whip,6.3829787234%,4.59574468085
+6:Origin Pulse,4.25531914894%,3.06382978723
+7:Earth Power,4.25531914894%,3.06382978723
+8:Water Spout,4.25531914894%,3.06382978723
+9:Shadow Ball,4.25531914894%,3.06382978723
+10:Thunderbolt,4.25531914894%,3.06382978723
+11:Volt Switch,2.12765957447%,1.53191489362
+12:Draco Meteor,2.12765957447%,1.53191489362
+13:Brave Bird,2.12765957447%,1.53191489362
+14:Seed Bomb,2.12765957447%,1.53191489362
+15:Sucker Punch,2.12765957447%,1.53191489362
+16:Fake Out,2.12765957447%,1.53191489362
+17:Return,2.12765957447%,1.53191489362
+18:Icy Wind,2.12765957447%,1.53191489362
+19:Waterfall,2.12765957447%,1.53191489362
+20:Psychic,2.12765957447%,1.53191489362
+0:Other,4.25531914894%,3.06382978723
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Ferrothorn
+5:Weavile
+6:Salamence
+7:Ho-Oh
+8:Smeargle
+9:Yveltal
+10:Xerneas
+11:Greninja
+12:Kyurem
+13:Landorus
+14:Thundurus
+15:Accelgor
+16:Cresselia
+17:Dialga
+18:Lickilicky
+19:Mawile
+20:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Ferrothorn
+5:Kangaskhan
+6:Yveltal
+7:Aegislash
+8:Talonflame
+9:Thundurus
+10:Amoonguss
+11:Liepard
+12:Cresselia
+13:Giratina
+14:Rotom
+15:Weavile
+16:Rayquaza
+17:Latios
+18:Salamence
+19:Porygon2
+20:Ditto

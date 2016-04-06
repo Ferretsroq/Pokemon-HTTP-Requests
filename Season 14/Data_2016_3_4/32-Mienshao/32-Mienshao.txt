@@ -1,0 +1,168 @@
+32:Mienshao|3833
+ ---------- 
+Moves used:
+1:Fake Out,94.4951734933%,3622.0
+2:Wide Guard,65.7970258283%,2522.0
+3:Low Kick,56.0657448474%,2149.0
+4:High Jump Kick,39.6034437777%,1518.0
+5:Feint,33.9420819202%,1301.0
+6:Quick Guard,31.646230107%,1213.0
+7:Knock Off,29.3503782938%,1125.0
+8:Rock Slide,16.2796764936%,624.0
+9:Ally Switch,10.8792068876%,417.0
+10:Taunt,6.39186016175%,245.0
+11:Protect,3.62640229585%,139.0
+12:Poison Jab,2.2436733629%,86.0
+13:U-turn,2.21758413775%,85.0
+14:Role Play,2.1393164623%,82.0
+15:Drain Punch,1.43490738325%,55.0
+16:Helping Hand,0.9392121054%,36.0
+17:Swagger,0.80876597965%,31.0
+18:Stone Edge,0.5739629533%,22.0
+19:Rock Tomb,0.49569527785%,19.0
+20:Fling,0.4696060527%,18.0
+0:Other,0.60005217845%,23.0
+
+ ---------- 
+Items used:
+1:Focus Sash,84.1638403339%,3226.0
+2:Fist Plate,5.0091312288%,192.0
+3:Lum Berry,4.09600834855%,157.0
+4:Life Orb,4.0699191234%,156.0
+5:Black Belt,0.5739629533%,22.0
+6:Wide Lens,0.521784503%,20.0
+7:Expert Belt,0.49569527785%,19.0
+8:Salac Berry,0.2087138012%,8.0
+9:King's Rock,0.18262457605%,7.0
+10:Zoom Lens,0.13044612575%,5.0
+11:Razor Fang,0.07826767545%,3.0
+12:Choice Band,0.07826767545%,3.0
+13:Safety Goggles,0.0521784503%,2.0
+14:Eject Button,0.0521784503%,2.0
+15:Lax Incense,0.0521784503%,2.0
+16:Sitrus Berry,0.0521784503%,2.0
+17:Coba Berry,0.02608922515%,1.0
+18:Chesto Berry,0.02608922515%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,87.477171928%,3353.0
+2:Reckless,7.38325071745%,283.0
+3:Regenerator,5.13957735455%,197.0
+
+ ---------- 
+Natures used:
+1:Jolly,95.0169579963%,3642.0
+2:Adamant,4.61779285155%,177.0
+3:Timid,0.3130707018%,12.0
+4:Lax,0.02608922515%,1.0
+5:Impish,0.02608922515%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Groudon
+6:Salamence
+7:Ho-Oh
+8:Thundurus
+9:Ferrothorn
+10:Crobat
+11:Mawile
+12:Scizor
+13:Togekiss
+14:Mewtwo
+15:Gengar
+16:Dialga
+17:Landorus
+18:Cresselia
+19:Yveltal
+20:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,33.56545961%,1286.56406685
+2:High Jump Kick,29.1086350975%,1115.73398329
+3:Rock Slide,13.0222841226%,499.144150418
+4:Feint,12.2562674095%,469.782729805
+5:Knock Off,8.00835654596%,306.960306407
+6:Fake Out,2.78551532033%,106.768802228
+7:Drain Punch,0.41782729805%,16.0153203343
+8:Stone Edge,0.348189415042%,13.3461002786
+9:U-turn,0.208913649025%,8.00766016713
+10:Poison Jab,0.0696378830084%,2.66922005571
+11:Aura Sphere,0.0696378830084%,2.66922005571
+12:Rock Tomb,0.0696378830084%,2.66922005571
+13:Struggle,0.0696378830084%,2.66922005571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.58895705521%,329.214723926
+2:Ice Beam,4.63531015678%,177.671438309
+3:Hyper Voice,4.60122699387%,176.365030675
+4:Double-Edge,4.53306066803%,173.752215406
+5:Moonblast,4.36264485344%,167.220177232
+6:Precipice Blades,4.0899795501%,156.768916155
+7:Brave Bird,4.05589638718%,155.462508521
+8:Origin Pulse,4.02181322427%,154.156100886
+9:Water Spout,3.40831629175%,130.640763463
+10:Eruption,3.10156782549%,118.883094751
+11:Earth Power,2.93115201091%,112.351056578
+12:Extreme Speed,2.7266530334%,104.51261077
+13:Psychic,2.21540558964%,84.9164962509
+14:Fire Punch,2.11315610089%,80.997273347
+15:Fake Out,2.04498977505%,78.3844580777
+16:Thunderbolt,2.04498977505%,78.3844580777
+17:Gyro Ball,1.77232447171%,67.9331970007
+18:Sludge Bomb,1.73824130879%,66.6267893661
+19:Dragon Ascent,1.67007498296%,64.0139740968
+20:Flamethrower,1.56782549421%,60.0947511929
+0:Other,27.5051124744%,1054.27096115
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Kyogre
+4:Smeargle
+5:Xerneas
+6:Ferrothorn
+7:Groudon
+8:Weavile
+9:Liepard
+10:Kangaskhan
+11:Rayquaza
+12:Dialga
+13:Crobat
+14:Thundurus
+15:Yveltal
+16:Kyurem
+17:Whimsicott
+18:Mawile
+19:Cresselia
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Cresselia
+9:Mawile
+10:Thundurus
+11:Landorus
+12:Yveltal
+13:Dialga
+14:Gengar
+15:Ferrothorn
+16:Rayquaza
+17:Weavile
+18:Gengar
+19:Crobat
+20:Liepard

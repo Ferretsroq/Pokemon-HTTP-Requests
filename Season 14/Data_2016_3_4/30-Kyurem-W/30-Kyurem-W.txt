@@ -1,0 +1,165 @@
+30:Kyurem-W|4639
+ ---------- 
+Moves used:
+1:Fusion Flare,77.8400517353%,3611.0
+2:Draco Meteor,76.503556801%,3549.0
+3:Ice Beam,75.9862039233%,3525.0
+4:Blizzard,63.483509377%,2945.0
+5:Earth Power,49.2131924984%,2283.0
+6:Protect,28.6915283466%,1331.0
+7:Dragon Pulse,12.6751455055%,588.0
+8:Slash,4.00948480276%,186.0
+9:Focus Blast,3.49213192498%,162.0
+10:Flash Cannon,3.47057555508%,161.0
+11:Icy Wind,2.39275705971%,111.0
+12:Sleep Talk,1.05626212546%,49.0
+13:Ice Burn,0.366458288424%,17.0
+14:Hyper Voice,0.344901918517%,16.0
+15:Hail,0.150894589351%,7.0
+16:Rock Slide,0.129338219444%,6.0
+17:Shadow Ball,0.0862254796292%,4.0
+18:Dragon Breath,0.0862254796292%,4.0
+19:Psychic,0.0215563699073%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,65.0786807502%,3019.0
+2:Life Orb,21.9874973055%,1020.0
+3:Choice Specs,5.77710713516%,268.0
+4:Assault Vest,1.63828411296%,76.0
+5:Icicle Plate,1.22871308472%,57.0
+6:Never-Melt Ice,1.22871308472%,57.0
+7:Haban Berry,0.8838111662%,41.0
+8:White Herb,0.409571028239%,19.0
+9:Lum Berry,0.388014658332%,18.0
+10:Weakness Policy,0.32334554861%,15.0
+11:Power Herb,0.280232808795%,13.0
+12:Iron Ball,0.258676438888%,12.0
+13:Focus Sash,0.172450959258%,8.0
+14:Wise Glasses,0.129338219444%,6.0
+15:Expert Belt,0.107781849537%,5.0
+16:Lax Incense,0.0431127398146%,2.0
+17:Roseli Berry,0.0215563699073%,1.0
+18:Air Balloon,0.0215563699073%,1.0
+19:Sitrus Berry,0.0215563699073%,1.0
+
+ ---------- 
+Abilities used:
+1:Turboblaze,100.0%,4639.0
+
+ ---------- 
+Natures used:
+1:Modest,54.4513903859%,2526.0
+2:Timid,35.1584393188%,1631.0
+3:Quiet,5.75555076525%,267.0
+4:Naive,4.61306316016%,214.0
+5:Mild,0.0215563699073%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Sableye
+4:Gengar
+5:Meowstic
+6:Talonflame
+7:Kyogre
+8:Crobat
+9:Whimsicott
+10:Cresselia
+11:Mawile
+12:Ferrothorn
+13:Salamence
+14:Rayquaza
+15:Thundurus
+16:Liepard
+17:Aegislash
+18:Landorus
+19:Xerneas
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,46.7213114754%,2167.40163934
+2:Ice Beam,31.1731557377%,1446.12269467
+3:Draco Meteor,9.22131147541%,427.776639344
+4:Earth Power,5.50717213115%,255.477715164
+5:Fusion Flare,3.97028688525%,184.181608607
+6:Dragon Pulse,1.38319672131%,64.1664959016
+7:Icy Wind,1.38319672131%,64.1664959016
+8:Struggle,0.179303278689%,8.31787909836
+9:Flash Cannon,0.15368852459%,7.12961065574
+10:Focus Blast,0.15368852459%,7.12961065574
+11:Ice Burn,0.0768442622951%,3.56480532787
+12:Sleep Talk,0.0512295081967%,2.37653688525
+13:Hyper Voice,0.0256147540984%,1.18826844262
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.5351426583%,627.895267919
+2:Low Kick,6.75017397356%,313.140570633
+3:Precipice Blades,6.29784272791%,292.156924148
+4:Moonblast,5.88030619346%,272.787404315
+5:Draco Meteor,4.94084899095%,229.20598469
+6:Eruption,4.94084899095%,229.20598469
+7:Sucker Punch,4.21016005567%,195.309324983
+8:Dragon Ascent,3.75782881002%,174.325678497
+9:Ice Beam,3.75782881002%,174.325678497
+10:Gyro Ball,3.51426583159%,163.026791928
+11:Water Spout,3.16631871955%,146.8855254
+12:Origin Pulse,2.95755045233%,137.200765484
+13:Brave Bird,2.74878218511%,127.516005567
+14:Extreme Speed,2.74878218511%,127.516005567
+15:Double-Edge,2.43562978427%,112.988865692
+16:Iron Head,2.26165622825%,104.918232429
+17:Rock Slide,1.94850382742%,90.3910925539
+18:Dragon Pulse,1.11343075852%,51.652052888
+19:Spacial Rend,1.07863604732%,50.0379262352
+20:Foul Play,0.974251913709%,45.195546277
+0:Other,17.4669450244%,810.29157968
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Talonflame
+4:Salamence
+5:Rayquaza
+6:Kangaskhan
+7:Landorus
+8:Xerneas
+9:Kyogre
+10:Smeargle
+11:Yveltal
+12:Thundurus
+13:Cresselia
+14:Rayquaza
+15:Liepard
+16:Whimsicott
+17:Ferrothorn
+18:Gengar
+19:Gengar
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Mawile
+7:Salamence
+8:Ferrothorn
+9:Talonflame
+10:Yveltal
+11:Rayquaza
+12:Dialga
+13:Palkia
+14:Scizor
+15:Kyurem
+16:Landorus
+17:Weavile
+18:Mienshao
+19:Ho-Oh
+20:Terrakion

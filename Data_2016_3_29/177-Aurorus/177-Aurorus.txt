@@ -1,0 +1,71 @@
+177:Aurorus|7
+ ---------- 
+Moves used:
+1:Freeze-Dry,71.4285714286%,5.0
+2:Hyper Voice,71.4285714286%,5.0
+3:Ancient Power,57.1428571429%,4.0
+4:Hyper Beam,57.1428571429%,4.0
+5:Nature Power,28.5714285714%,2.0
+6:Mirror Coat,28.5714285714%,2.0
+7:Protect,28.5714285714%,2.0
+8:Roar,28.5714285714%,2.0
+9:Earth Power,14.2857142857%,1.0
+10:Thunderbolt,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,57.1428571429%,4.0
+2:Mental Herb,28.5714285714%,2.0
+3:Assault Vest,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Refrigerate,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Timid,57.1428571429%,4.0
+2:Calm,28.5714285714%,2.0
+3:Modest,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Talonflame
+3:Kyogre
+4:Mienshao
+5:Liepard
+6:Smeargle
+7:Yveltal
+8:Weavile
+9:Lucario
+10:Rayquaza
+11:Hitmonlee
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,77.7777777778%,5.44444444444
+2:Nature Power,11.1111111111%,0.777777777778
+3:Hyper Beam,11.1111111111%,0.777777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,60.0%,4.2
+2:Origin Pulse,20.0%,1.4
+3:Earth Power,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Liepard
+5:Kyogre
+6:Latios
+7:Dragonite
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyurem
+3:Kyogre

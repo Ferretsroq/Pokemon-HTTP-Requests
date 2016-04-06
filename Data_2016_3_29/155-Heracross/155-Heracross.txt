@@ -1,0 +1,74 @@
+155:Heracross|14
+ ---------- 
+Moves used:
+1:Bullet Seed,92.8571428571%,13.0
+2:Protect,92.8571428571%,13.0
+3:Close Combat,85.7142857143%,12.0
+4:Pin Missile,64.2857142857%,9.0
+5:Rock Blast,42.8571428571%,6.0
+6:Arm Thrust,7.14285714286%,1.0
+7:Pursuit,7.14285714286%,1.0
+8:Fury Attack,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Heracronite,100.0%,14.0
+
+ ---------- 
+Abilities used:
+1:Swarm,71.4285714286%,10.0
+2:Moxie,21.4285714286%,3.0
+3:Guts,7.14285714286%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,64.2857142857%,9.0
+2:Adamant,35.7142857143%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Dialga
+3:Landorus
+4:Cresselia
+5:Talonflame
+6:Kyurem
+7:Thundurus
+8:Aromatisse
+9:Thundurus
+10:Bronzong
+11:Groudon
+12:Smeargle
+13:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,40.0%,5.6
+2:Bullet Seed,40.0%,5.6
+3:Pin Missile,20.0%,2.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.2727272727%,3.81818181818
+2:Dragon Ascent,18.1818181818%,2.54545454545
+3:Moonblast,9.09090909091%,1.27272727273
+4:Brave Bird,9.09090909091%,1.27272727273
+5:Hyper Voice,9.09090909091%,1.27272727273
+6:Giga Drain,9.09090909091%,1.27272727273
+7:Double-Edge,9.09090909091%,1.27272727273
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Groudon
+3:Kyogre
+4:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Talonflame
+4:Amoonguss
+5:Gardevoir
+6:Kangaskhan

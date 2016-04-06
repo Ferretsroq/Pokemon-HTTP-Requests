@@ -1,0 +1,39 @@
+355:Alomomola|1
+ ---------- 
+Moves used:
+1:Heal Pulse,100.0%,1.0
+2:Scald,100.0%,1.0
+3:Wide Guard,100.0%,1.0
+4:Toxic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Hydration,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Kangaskhan
+3:Nidoqueen
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Play Rough,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile

@@ -1,0 +1,54 @@
+292:Rotom|3
+ ---------- 
+Moves used:
+1:Thunder,100.0%,3.0
+2:Thunder Wave,100.0%,3.0
+3:Reflect,66.6666666667%,2.0
+4:Light Screen,66.6666666667%,2.0
+5:Hex,33.3333333333%,1.0
+6:Will-O-Wisp,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Light Clay,66.6666666667%,2.0
+2:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Amoonguss
+3:Giratina
+4:Gardevoir
+5:Sableye
+6:Gengar
+7:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunder,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,1.0
+2:Snarl,33.3333333333%,1.0
+3:Dragon Claw,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Togekiss
+2:Talonflame
+3:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Rayquaza

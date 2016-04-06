@@ -1,0 +1,141 @@
+4:Kangaskhan|399
+ ---------- 
+Moves used:
+1:Fake Out,94.2355889724%,376.0
+2:Sucker Punch,81.954887218%,327.0
+3:Double-Edge,73.1829573935%,292.0
+4:Low Kick,64.9122807018%,259.0
+5:Return,25.0626566416%,100.0
+6:Protect,25.0626566416%,100.0
+7:Power-Up Punch,22.8070175439%,91.0
+8:Fire Punch,6.2656641604%,25.0
+9:Frustration,1.5037593985%,6.0
+10:Ice Punch,1.25313283208%,5.0
+11:Substitute,1.00250626566%,4.0
+12:Crunch,0.751879699248%,3.0
+13:Safeguard,0.751879699248%,3.0
+14:Giga Impact,0.501253132832%,2.0
+15:Ice Beam,0.501253132832%,2.0
+16:Hyper Beam,0.250626566416%,1.0
+
+ ---------- 
+Items used:
+1:Kangaskhanite,100.0%,399.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,56.8922305764%,227.0
+2:Scrappy,42.8571428571%,171.0
+3:Early Bird,0.250626566416%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,67.6691729323%,270.0
+2:Adamant,24.5614035088%,98.0
+3:Brave,6.51629072682%,26.0
+4:Lonely,0.751879699248%,3.0
+5:Naive,0.501253132832%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Smeargle
+6:Cresselia
+7:Thundurus
+8:Landorus
+9:Rayquaza
+10:Ferrothorn
+11:Amoonguss
+12:Dialga
+13:Whimsicott
+14:Kyurem
+15:Crobat
+16:Bronzong
+17:Scizor
+18:Gengar
+19:Liepard
+20:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Double-Edge,45.9349593496%,183.280487805
+2:Sucker Punch,15.8536585366%,63.256097561
+3:Return,14.6341463415%,58.3902439024
+4:Low Kick,14.6341463415%,58.3902439024
+5:Fake Out,4.47154471545%,17.8414634146
+6:Power-Up Punch,2.84552845528%,11.3536585366
+7:Frustration,0.813008130081%,3.24390243902
+8:Fire Punch,0.813008130081%,3.24390243902
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.3806228374%,41.4186851211
+2:Dazzling Gleam,8.3044982699%,33.1349480969
+3:Eruption,6.92041522491%,27.6124567474
+4:Water Spout,5.53633217993%,22.0899653979
+5:Hyper Voice,4.84429065744%,19.3287197232
+6:Origin Pulse,4.49826989619%,17.9480968858
+7:Low Kick,4.49826989619%,17.9480968858
+8:Moonblast,3.8062283737%,15.1868512111
+9:Brave Bird,3.8062283737%,15.1868512111
+10:Extreme Speed,3.46020761246%,13.8062283737
+11:Double-Edge,3.46020761246%,13.8062283737
+12:Sucker Punch,2.76816608997%,11.044982699
+13:Fire Punch,2.42214532872%,9.66435986159
+14:Dragon Ascent,1.73010380623%,6.90311418685
+15:Fake Out,1.73010380623%,6.90311418685
+16:Gyro Ball,1.38408304498%,5.52249134948
+17:Earth Power,1.03806228374%,4.14186851211
+18:Flare Blitz,1.03806228374%,4.14186851211
+19:Return,1.03806228374%,4.14186851211
+20:Rock Slide,1.03806228374%,4.14186851211
+0:Other,13.4948096886%,53.8442906574
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Talonflame
+4:Xerneas
+5:Thundurus
+6:Kyogre
+7:Groudon
+8:Dialga
+9:Salamence
+10:Weavile
+11:Crobat
+12:Yveltal
+13:Raichu
+14:Ferrothorn
+15:Rayquaza
+16:Noivern
+17:Dragalge
+18:Kyurem
+19:Landorus
+20:Cresselia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Ferrothorn
+10:Rayquaza
+11:Ditto
+12:Yveltal
+13:Thundurus
+14:Dialga
+15:Mawile
+16:Infernape
+17:Kyogre
+18:Gengar
+19:Venusaur
+20:Aegislash

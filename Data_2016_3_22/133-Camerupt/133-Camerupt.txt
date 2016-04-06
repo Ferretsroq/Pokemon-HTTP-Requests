@@ -1,0 +1,73 @@
+133:Camerupt|11
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,11.0
+2:Protect,100.0%,11.0
+3:Overheat,45.4545454545%,5.0
+4:Eruption,45.4545454545%,5.0
+5:Hidden Power,45.4545454545%,5.0
+6:Flamethrower,45.4545454545%,5.0
+7:Heat Wave,9.09090909091%,1.0
+8:Ancient Power,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Cameruptite,100.0%,11.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,54.5454545455%,6.0
+2:Magma Armor,45.4545454545%,5.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Hypno
+4:Dialga
+5:Landorus
+6:Ferrothorn
+7:Conkeldurr
+8:Meowstic
+9:Cresselia
+10:Mawile
+11:Tyranitar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,33.3333333333%,3.66666666667
+2:Hidden Power,33.3333333333%,3.66666666667
+3:Overheat,16.6666666667%,1.83333333333
+4:Eruption,16.6666666667%,1.83333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,22.2222222222%,2.44444444444
+2:Ice Beam,22.2222222222%,2.44444444444
+3:Precipice Blades,11.1111111111%,1.22222222222
+4:Power-Up Punch,11.1111111111%,1.22222222222
+5:Sucker Punch,11.1111111111%,1.22222222222
+6:Close Combat,11.1111111111%,1.22222222222
+7:Hyper Voice,11.1111111111%,1.22222222222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+3:Salamence
+4:Crobat
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Yveltal
+3:Infernape
+4:Groudon
+5:Kyogre
+6:Salamence
+7:Kangaskhan

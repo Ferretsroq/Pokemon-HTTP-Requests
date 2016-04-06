@@ -1,0 +1,43 @@
+308:Mantyke|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Wide Guard,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Togekiss
+3:Rayquaza
+4:Scizor
+5:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,50.0%,0.5
+2:Psystrike,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Mewtwo

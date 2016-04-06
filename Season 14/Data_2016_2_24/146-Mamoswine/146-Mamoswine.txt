@@ -1,0 +1,138 @@
+146:Mamoswine|75
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,75.0
+2:Ice Shard,81.3333333333%,61.0
+3:Icicle Spear,74.6666666667%,56.0
+4:Rock Slide,54.6666666667%,41.0
+5:Protect,38.6666666667%,29.0
+6:Icicle Crash,17.3333333333%,13.0
+7:Superpower,17.3333333333%,13.0
+8:Avalanche,8.0%,6.0
+9:Fissure,4.0%,3.0
+10:Rock Tomb,1.33333333333%,1.0
+11:Knock Off,1.33333333333%,1.0
+12:Swagger,1.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,22.6666666667%,17.0
+2:Choice Band,18.6666666667%,14.0
+3:Assault Vest,17.3333333333%,13.0
+4:Focus Sash,13.3333333333%,10.0
+5:Lum Berry,13.3333333333%,10.0
+6:Life Orb,6.66666666667%,5.0
+7:Expert Belt,6.66666666667%,5.0
+8:Chople Berry,1.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,75.0
+
+ ---------- 
+Natures used:
+1:Jolly,64.0%,48.0
+2:Adamant,36.0%,27.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Thundurus
+4:Ditto
+5:Groudon
+6:Togekiss
+7:Ho-Oh
+8:Ferrothorn
+9:Liepard
+10:Salamence
+11:Lugia
+12:Xerneas
+13:Talonflame
+14:Heatran
+15:Kangaskhan
+16:Charizard
+17:Giratina
+18:Dialga
+19:Gengar
+20:Klefki
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Spear,29.7872340426%,22.3404255319
+2:Ice Shard,27.6595744681%,20.7446808511
+3:Earthquake,21.2765957447%,15.9574468085
+4:Icicle Crash,8.51063829787%,6.3829787234
+5:Rock Slide,6.3829787234%,4.78723404255
+6:Avalanche,2.12765957447%,1.59574468085
+7:Superpower,2.12765957447%,1.59574468085
+8:Struggle,2.12765957447%,1.59574468085
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,14.0350877193%,10.5263157895
+2:Dazzling Gleam,12.2807017544%,9.21052631579
+3:Origin Pulse,7.01754385965%,5.26315789474
+4:Precipice Blades,5.26315789474%,3.94736842105
+5:Brave Bird,5.26315789474%,3.94736842105
+6:Eruption,5.26315789474%,3.94736842105
+7:Moonblast,3.50877192982%,2.63157894737
+8:Fake Out,3.50877192982%,2.63157894737
+9:Rock Slide,3.50877192982%,2.63157894737
+10:Low Kick,3.50877192982%,2.63157894737
+11:Flamethrower,3.50877192982%,2.63157894737
+12:Dragon Ascent,1.75438596491%,1.31578947368
+13:Power-Up Punch,1.75438596491%,1.31578947368
+14:Scald,1.75438596491%,1.31578947368
+15:Psyshock,1.75438596491%,1.31578947368
+16:Shadow Force,1.75438596491%,1.31578947368
+17:Flash Cannon,1.75438596491%,1.31578947368
+18:Earth Power,1.75438596491%,1.31578947368
+19:Dragon Pulse,1.75438596491%,1.31578947368
+20:Air Slash,1.75438596491%,1.31578947368
+0:Other,15.7894736842%,11.8421052632
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Landorus
+3:Thundurus
+4:Rayquaza
+5:Groudon
+6:Gengar
+7:Yveltal
+8:Xerneas
+9:Talonflame
+10:Amoonguss
+11:Liepard
+12:Smeargle
+13:Crobat
+14:Landorus
+15:Whimsicott
+16:Giratina
+17:Dialga
+18:Togekiss
+19:Rayquaza
+20:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Landorus
+7:Cresselia
+8:Rayquaza
+9:Giratina
+10:Dialga
+11:Rotom
+12:Togekiss
+13:Weavile
+14:Lucario
+15:Infernape
+16:Sableye
+17:Ho-Oh
+18:Lugia
+19:Smeargle

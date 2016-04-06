@@ -1,0 +1,50 @@
+333:Ninetales|3
+ ---------- 
+Moves used:
+1:Solar Beam,100.0%,3.0
+2:Extrasensory,66.6666666667%,2.0
+3:Confuse Ray,66.6666666667%,2.0
+4:Will-O-Wisp,33.3333333333%,1.0
+5:Heat Wave,33.3333333333%,1.0
+6:Protect,33.3333333333%,1.0
+7:Fire Blast,33.3333333333%,1.0
+8:Flamethrower,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Drought,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Dragonite
+2:Zapdos
+3:Snorlax
+4:Aerodactyl
+5:Lapras
+6:Gyarados
+7:Arcanine
+8:Nidoking
+9:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,1.5
+2:Hyper Voice,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Smeargle

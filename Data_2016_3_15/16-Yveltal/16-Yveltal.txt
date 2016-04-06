@@ -1,0 +1,137 @@
+16:Yveltal|71
+ ---------- 
+Moves used:
+1:Snarl,88.7323943662%,63.0
+2:Sucker Punch,78.8732394366%,56.0
+3:Protect,76.0563380282%,54.0
+4:Foul Play,38.0281690141%,27.0
+5:Knock Off,33.8028169014%,24.0
+6:Oblivion Wing,29.5774647887%,21.0
+7:Dark Pulse,21.1267605634%,15.0
+8:Tailwind,15.4929577465%,11.0
+9:Sky Drop,8.45070422535%,6.0
+10:Heat Wave,4.22535211268%,3.0
+11:Phantom Force,1.40845070423%,1.0
+12:Taunt,1.40845070423%,1.0
+13:Substitute,1.40845070423%,1.0
+14:Rock Slide,1.40845070423%,1.0
+
+ ---------- 
+Items used:
+1:Black Glasses,39.4366197183%,28.0
+2:Dread Plate,18.3098591549%,13.0
+3:Life Orb,15.4929577465%,11.0
+4:Weakness Policy,11.2676056338%,8.0
+5:Assault Vest,8.45070422535%,6.0
+6:Spooky Plate,2.81690140845%,2.0
+7:Leftovers,2.81690140845%,2.0
+8:Choice Band,1.40845070423%,1.0
+
+ ---------- 
+Abilities used:
+1:Dark Aura,100.0%,71.0
+
+ ---------- 
+Natures used:
+1:Timid,61.9718309859%,44.0
+2:Hasty,25.3521126761%,18.0
+3:Adamant,7.04225352113%,5.0
+4:Naive,4.22535211268%,3.0
+5:Jolly,1.40845070423%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Talonflame
+4:Garchomp
+5:Xerneas
+6:Thundurus
+7:Kyogre
+8:Liepard
+9:Salamence
+10:Kangaskhan
+11:Ferrothorn
+12:Bronzong
+13:Crobat
+14:Gengar
+15:Weavile
+16:Zapdos
+17:Ditto
+18:Meowstic
+19:Landorus
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,31.3725490196%,22.2745098039
+2:Snarl,23.5294117647%,16.7058823529
+3:Knock Off,19.6078431373%,13.9215686275
+4:Sucker Punch,13.7254901961%,9.74509803922
+5:Oblivion Wing,5.88235294118%,4.17647058824
+6:Dark Pulse,5.88235294118%,4.17647058824
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.75609756098%,6.92682926829
+2:Sucker Punch,7.31707317073%,5.19512195122
+3:Hyper Voice,7.31707317073%,5.19512195122
+4:Ice Beam,7.31707317073%,5.19512195122
+5:Double-Edge,7.31707317073%,5.19512195122
+6:Fire Punch,7.31707317073%,5.19512195122
+7:Origin Pulse,4.87804878049%,3.46341463415
+8:Brave Bird,4.87804878049%,3.46341463415
+9:Dragon Pulse,4.87804878049%,3.46341463415
+10:Eruption,4.87804878049%,3.46341463415
+11:Sludge Bomb,4.87804878049%,3.46341463415
+12:Thunder,4.87804878049%,3.46341463415
+13:Dragon Ascent,2.43902439024%,1.73170731707
+14:Moonblast,2.43902439024%,1.73170731707
+15:Play Rough,2.43902439024%,1.73170731707
+16:Bullet Punch,2.43902439024%,1.73170731707
+17:Close Combat,2.43902439024%,1.73170731707
+18:Water Spout,2.43902439024%,1.73170731707
+19:Extreme Speed,2.43902439024%,1.73170731707
+20:Return,2.43902439024%,1.73170731707
+0:Other,4.87804878049%,3.46341463415
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Thundurus
+4:Kyogre
+5:Cresselia
+6:Xerneas
+7:Landorus
+8:Salamence
+9:Smeargle
+10:Kangaskhan
+11:Gengar
+12:Noivern
+13:Aegislash
+14:Tornadus
+15:Bisharp
+16:Whimsicott
+17:Giratina
+18:Togekiss
+19:Bronzong
+20:Empoleon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Dialga
+8:Rayquaza
+9:Mawile
+10:Gengar
+11:Thundurus
+12:Bisharp
+13:Empoleon
+14:Hitmontop
+15:Scizor

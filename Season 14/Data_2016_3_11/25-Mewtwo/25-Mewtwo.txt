@@ -1,0 +1,184 @@
+25:Mewtwo|6636
+ ---------- 
+Moves used:
+1:Psystrike,87.4171187462%,5801.0
+2:Protect,81.7661241712%,5426.0
+3:Ice Beam,52.0795660036%,3456.0
+4:Aura Sphere,17.872212176%,1186.0
+5:Flamethrower,17.8571428571%,1185.0
+6:Skill Swap,13.0650994575%,867.0
+7:Psychic,12.8089210368%,850.0
+8:Substitute,12.6280892104%,838.0
+9:Disable,11.0759493671%,735.0
+10:Shadow Ball,8.19770946353%,544.0
+11:Low Kick,7.54972875226%,501.0
+12:Grass Knot,6.73598553345%,447.0
+13:Will-O-Wisp,6.54008438819%,434.0
+14:Me First,5.04822182037%,335.0
+15:Gravity,4.68655816757%,311.0
+16:Calm Mind,4.56600361664%,303.0
+17:Focus Blast,4.52079566004%,300.0
+18:Taunt,4.18927064497%,278.0
+19:Snatch,3.6317058469%,241.0
+20:Blizzard,3.34538878843%,222.0
+0:Other,34.388185654%,2282.0
+
+ ---------- 
+Items used:
+1:Mewtwonite Y,40.3707052441%,2679.0
+2:Life Orb,22.6341169379%,1502.0
+3:Mewtwonite X,10.9403254973%,726.0
+4:Choice Specs,7.65521398433%,508.0
+5:Leftovers,4.73176612417%,314.0
+6:Sitrus Berry,3.19469559976%,212.0
+7:Lum Berry,2.13984327908%,142.0
+8:Focus Sash,2.01928872815%,134.0
+9:Twisted Spoon,1.64255575648%,109.0
+10:Mind Plate,1.38637733574%,92.0
+11:Colbur Berry,0.874020494274%,58.0
+12:Assault Vest,0.783604581073%,52.0
+13:Bright Powder,0.647980711272%,43.0
+14:Expert Belt,0.42194092827%,28.0
+15:Choice Scarf,0.135623869801%,9.0
+16:Power Lens,0.105485232068%,7.0
+17:Lax Incense,0.0904159132007%,6.0
+18:Rocky Helmet,0.0452079566004%,3.0
+19:Starf Berry,0.0452079566004%,3.0
+20:Weakness Policy,0.0301386377336%,2.0
+0:Other,0.0904159132007%,6.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,6636.0
+
+ ---------- 
+Natures used:
+1:Timid,75.0904159132%,4983.0
+2:Modest,12.9445449066%,859.0
+3:Jolly,4.43037974684%,294.0
+4:Naive,3.08921036769%,205.0
+5:Adamant,2.42616033755%,161.0
+6:Hasty,1.11512959614%,74.0
+7:Quiet,0.542495479204%,36.0
+8:Bold,0.210970464135%,14.0
+9:Serious,0.0602772754671%,4.0
+10:Brave,0.0602772754671%,4.0
+11:Calm,0.0150693188668%,1.0
+12:Lonely,0.0150693188668%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Kangaskhan
+5:Crobat
+6:Ferrothorn
+7:Salamence
+8:Landorus
+9:Liepard
+10:Smeargle
+11:Xerneas
+12:Thundurus
+13:Gengar
+14:Rayquaza
+15:Mawile
+16:Weavile
+17:Terrakion
+18:Amoonguss
+19:Togekiss
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psystrike,60.4468085106%,4011.25021277
+2:Ice Beam,14.9361702128%,991.164255319
+3:Psychic,5.44680851064%,361.450212766
+4:Low Kick,4.12765957447%,273.911489362
+5:Flamethrower,2.65957446809%,176.489361702
+6:Aura Sphere,2.1914893617%,145.427234043
+7:Blizzard,1.65957446809%,110.129361702
+8:Focus Punch,1.34042553191%,88.9506382979
+9:Focus Blast,0.957446808511%,63.5361702128
+10:Grass Knot,0.914893617021%,60.7123404255
+11:Me First,0.723404255319%,48.005106383
+12:Drain Punch,0.553191489362%,36.709787234
+13:Ice Punch,0.510638297872%,33.8859574468
+14:Shadow Ball,0.468085106383%,31.0621276596
+15:Zen Headbutt,0.446808510638%,29.650212766
+16:Psycho Cut,0.382978723404%,25.4144680851
+17:Earthquake,0.382978723404%,25.4144680851
+18:Water Pulse,0.340425531915%,22.5906382979
+19:Rock Slide,0.340425531915%,22.5906382979
+20:Thunderbolt,0.31914893617%,21.1787234043
+0:Other,0.851063829787%,56.4765957447
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.69772998805%,577.181362007
+2:Precipice Blades,7.09677419355%,470.941935484
+3:Origin Pulse,6.71445639188%,445.571326165
+4:Eruption,6.66666666667%,442.4
+5:Water Spout,6.42771804062%,426.543369176
+6:Sucker Punch,6.35603345281%,421.786379928
+7:Double-Edge,4.89844683393%,325.0609319
+8:Moonblast,4.87455197133%,323.475268817
+9:Dragon Ascent,4.08602150538%,271.148387097
+10:Brave Bird,4.08602150538%,271.148387097
+11:Extreme Speed,3.60812425329%,239.435125448
+12:Gyro Ball,1.81600955795%,120.510394265
+13:Shadow Ball,1.76821983274%,117.3390681
+14:Knock Off,1.67264038232%,110.996415771
+15:Fire Punch,1.67264038232%,110.996415771
+16:Ice Beam,1.62485065711%,107.825089606
+17:Foul Play,1.52927120669%,101.482437276
+18:Hyper Voice,1.43369175627%,95.1397849462
+19:Rock Slide,1.40979689367%,93.5541218638
+20:Earth Power,1.31421744325%,87.2114695341
+0:Other,17.2998805257%,1148.02007168
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kyogre
+3:Talonflame
+4:Xerneas
+5:Groudon
+6:Kangaskhan
+7:Salamence
+8:Smeargle
+9:Rayquaza
+10:Landorus
+11:Thundurus
+12:Ferrothorn
+13:Gengar
+14:Amoonguss
+15:Gengar
+16:Togekiss
+17:Whimsicott
+18:Rayquaza
+19:Weavile
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Talonflame
+7:Salamence
+8:Mawile
+9:Yveltal
+10:Ferrothorn
+11:Dialga
+12:Weavile
+13:Rayquaza
+14:Landorus
+15:Aegislash
+16:Liepard
+17:Gengar
+18:Ho-Oh
+19:Cresselia
+20:Giratina

@@ -1,0 +1,82 @@
+135:Sharpedo|22
+ ---------- 
+Moves used:
+1:Crunch,100.0%,22.0
+2:Destiny Bond,100.0%,22.0
+3:Protect,100.0%,22.0
+4:Ice Fang,81.8181818182%,18.0
+5:Screech,13.6363636364%,3.0
+6:Waterfall,4.54545454545%,1.0
+
+ ---------- 
+Items used:
+1:Sharpedonite,81.8181818182%,18.0
+2:Lum Berry,9.09090909091%,2.0
+3:Focus Sash,4.54545454545%,1.0
+4:Mental Herb,4.54545454545%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,22.0
+
+ ---------- 
+Natures used:
+1:Jolly,95.4545454545%,21.0
+2:Adamant,4.54545454545%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Toxicroak
+3:Lugia
+4:Marowak
+5:Zoroark
+6:Groudon
+7:Meowstic
+8:Rayquaza
+9:Greninja
+10:Kyogre
+11:Salamence
+12:Aron
+13:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Fang,37.5%,8.25
+2:Destiny Bond,37.5%,8.25
+3:Crunch,25.0%,5.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.3333333333%,2.93333333333
+2:Water Spout,13.3333333333%,2.93333333333
+3:Earthquake,13.3333333333%,2.93333333333
+4:Dragon Ascent,6.66666666667%,1.46666666667
+5:Dazzling Gleam,6.66666666667%,1.46666666667
+6:Power Whip,6.66666666667%,1.46666666667
+7:Earth Power,6.66666666667%,1.46666666667
+8:Dragon Claw,6.66666666667%,1.46666666667
+9:Extreme Speed,6.66666666667%,1.46666666667
+10:Rock Slide,6.66666666667%,1.46666666667
+11:Thunder,6.66666666667%,1.46666666667
+12:Low Kick,6.66666666667%,1.46666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Thundurus
+3:Cresselia
+4:Rayquaza
+5:Groudon
+6:Salamence
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Xerneas
+5:Landorus
+6:Ferrothorn
+7:Kangaskhan

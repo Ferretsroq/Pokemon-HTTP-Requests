@@ -1,0 +1,72 @@
+262:Sunflora|12
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,12.0
+2:Earth Power,91.6666666667%,11.0
+3:Hidden Power,83.3333333333%,10.0
+4:Protect,83.3333333333%,10.0
+5:Sludge Bomb,16.6666666667%,2.0
+6:Leaf Storm,8.33333333333%,1.0
+7:Endeavor,8.33333333333%,1.0
+8:Hyper Beam,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,83.3333333333%,10.0
+2:Choice Specs,16.6666666667%,2.0
+
+ ---------- 
+Abilities used:
+1:Solar Power,100.0%,12.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,12.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Gengar
+3:Greninja
+4:Dialga
+5:Avalugg
+6:Cresselia
+7:Rayquaza
+8:Zygarde
+9:Liepard
+10:Weavile
+11:Salamence
+12:Ampharos
+13:Kangaskhan
+14:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,12.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,12.5%,1.5
+2:Precipice Blades,12.5%,1.5
+3:Dragon Pulse,12.5%,1.5
+4:Gyro Ball,12.5%,1.5
+5:Hyper Voice,12.5%,1.5
+6:Psychic,12.5%,1.5
+7:Ice Beam,12.5%,1.5
+8:Double-Edge,12.5%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Gothitelle
+2:Dialga
+3:Bronzong
+4:Rayquaza
+5:Groudon
+6:Kyogre
+7:Salamence
+8:Kangaskhan

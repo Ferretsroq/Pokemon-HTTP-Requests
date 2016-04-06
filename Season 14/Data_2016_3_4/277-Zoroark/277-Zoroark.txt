@@ -1,0 +1,61 @@
+277:Zoroark|6
+ ---------- 
+Moves used:
+1:Flamethrower,100.0%,6.0
+2:Grass Knot,83.3333333333%,5.0
+3:Night Daze,66.6666666667%,4.0
+4:Focus Blast,50.0%,3.0
+5:Foul Play,33.3333333333%,2.0
+6:Snatch,33.3333333333%,2.0
+7:Nasty Plot,16.6666666667%,1.0
+8:Extrasensory,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,50.0%,3.0
+2:Focus Sash,50.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Illusion,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Giratina
+3:Ferrothorn
+4:Groudon
+5:Tyrantrum
+6:Delphox
+7:Braviary
+8:Smeargle
+9:Kangaskhan
+10:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Night Daze,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,2.0
+2:Brave Bird,16.6666666667%,1.0
+3:Eruption,16.6666666667%,1.0
+4:Return,16.6666666667%,1.0
+5:Ice Beam,16.6666666667%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Kyurem
+4:Groudon
+5:Kangaskhan

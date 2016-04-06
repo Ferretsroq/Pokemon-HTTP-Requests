@@ -1,0 +1,165 @@
+75:Charizard|460
+ ---------- 
+Moves used:
+1:Protect,65.4347826087%,301.0
+2:Flare Blitz,62.3913043478%,287.0
+3:Dragon Claw,61.9565217391%,285.0
+4:Dragon Dance,47.1739130435%,217.0
+5:Heat Wave,33.0434782609%,152.0
+6:Solar Beam,16.0869565217%,74.0
+7:Flamethrower,15.2173913043%,70.0
+8:Dragon Pulse,15.0%,69.0
+9:Overheat,14.5652173913%,67.0
+10:Air Slash,11.3043478261%,52.0
+11:Brick Break,7.60869565217%,35.0
+12:Blast Burn,7.39130434783%,34.0
+13:Swords Dance,5.65217391304%,26.0
+14:Hidden Power,5.4347826087%,25.0
+15:Thunder Punch,5.4347826087%,25.0
+16:Outrage,4.78260869565%,22.0
+17:Focus Blast,3.47826086957%,16.0
+18:Fire Pledge,3.04347826087%,14.0
+19:Earthquake,3.04347826087%,14.0
+20:Roost,1.95652173913%,9.0
+0:Other,10.0%,46.0
+
+ ---------- 
+Items used:
+1:Charizardite X,64.1304347826%,295.0
+2:Charizardite Y,10.0%,46.0
+3:Choice Specs,10.0%,46.0
+4:Choice Scarf,9.5652173913%,44.0
+5:Life Orb,3.47826086957%,16.0
+6:Charcoal,1.08695652174%,5.0
+7:Expert Belt,0.869565217391%,4.0
+8:Lum Berry,0.652173913043%,3.0
+9:Wide Lens,0.217391304348%,1.0
+
+ ---------- 
+Abilities used:
+1:Blaze,58.2608695652%,268.0
+2:Solar Power,41.7391304348%,192.0
+
+ ---------- 
+Natures used:
+1:Adamant,40.8695652174%,188.0
+2:Timid,28.0434782609%,129.0
+3:Jolly,17.1739130435%,79.0
+4:Modest,6.52173913043%,30.0
+5:Naive,5.0%,23.0
+6:Quiet,1.30434782609%,6.0
+7:Impish,1.08695652174%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Whimsicott
+3:Greninja
+4:Terrakion
+5:Xerneas
+6:Kyogre
+7:Raichu
+8:Thundurus
+9:Landorus
+10:Talonflame
+11:Kangaskhan
+12:Crobat
+13:Rayquaza
+14:Venusaur
+15:Blastoise
+16:Palkia
+17:Amoonguss
+18:Togekiss
+19:Ho-Oh
+20:Kyurem
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Claw,33.8582677165%,155.748031496
+2:Flare Blitz,27.9527559055%,128.582677165
+3:Heat Wave,16.9291338583%,77.874015748
+4:Overheat,5.11811023622%,23.5433070866
+5:Blast Burn,3.14960629921%,14.4881889764
+6:Thunder Punch,2.75590551181%,12.6771653543
+7:Solar Beam,2.36220472441%,10.8661417323
+8:Dragon Pulse,1.1811023622%,5.43307086614
+9:Brick Break,1.1811023622%,5.43307086614
+10:Flamethrower,1.1811023622%,5.43307086614
+11:Outrage,0.787401574803%,3.62204724409
+12:Fire Blast,0.787401574803%,3.62204724409
+13:Earthquake,0.787401574803%,3.62204724409
+14:Fire Pledge,0.393700787402%,1.81102362205
+15:Focus Blast,0.393700787402%,1.81102362205
+16:Air Slash,0.393700787402%,1.81102362205
+17:Ancient Power,0.393700787402%,1.81102362205
+18:Hidden Power,0.393700787402%,1.81102362205
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,9.93975903614%,45.7228915663
+2:Origin Pulse,8.43373493976%,38.7951807229
+3:Precipice Blades,8.13253012048%,37.4096385542
+4:Dazzling Gleam,7.22891566265%,33.2530120482
+5:Double-Edge,6.92771084337%,31.8674698795
+6:Sucker Punch,5.42168674699%,24.9397590361
+7:Dragon Ascent,4.51807228916%,20.7831325301
+8:Water Spout,4.51807228916%,20.7831325301
+9:Brave Bird,3.61445783133%,16.6265060241
+10:Eruption,3.61445783133%,16.6265060241
+11:Hyper Voice,3.31325301205%,15.2409638554
+12:Moonblast,2.71084337349%,12.4698795181
+13:Earth Power,2.71084337349%,12.4698795181
+14:Draco Meteor,1.80722891566%,8.31325301205
+15:Extreme Speed,1.80722891566%,8.31325301205
+16:Earthquake,1.50602409639%,6.92771084337
+17:Return,1.20481927711%,5.5421686747
+18:Ice Beam,1.20481927711%,5.5421686747
+19:Psystrike,0.903614457831%,4.15662650602
+20:Scald,0.903614457831%,4.15662650602
+0:Other,12.0481927711%,55.421686747
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Talonflame
+6:Rayquaza
+7:Liepard
+8:Landorus
+9:Cresselia
+10:Salamence
+11:Smeargle
+12:Whimsicott
+13:Rayquaza
+14:Gengar
+15:Ferrothorn
+16:Togekiss
+17:Ho-Oh
+18:Crobat
+19:Yveltal
+20:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Yveltal
+8:Talonflame
+9:Landorus
+10:Mawile
+11:Mewtwo
+12:Cresselia
+13:Gengar
+14:Palkia
+15:Rayquaza
+16:Kyogre
+17:Noivern
+18:Aegislash
+19:Kyurem
+20:Reshiram

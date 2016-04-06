@@ -1,0 +1,39 @@
+194:Luxray|1
+ ---------- 
+Moves used:
+1:Wild Charge,100.0%,1.0
+2:Ice Fang,100.0%,1.0
+3:Facade,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Kyurem
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dark Pulse,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal

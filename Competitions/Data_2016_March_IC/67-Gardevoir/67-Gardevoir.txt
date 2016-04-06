@@ -1,0 +1,134 @@
+67:Gardevoir|8
+ ---------- 
+Moves used:
+1:Hyper Voice,87.5%,7.0
+2:Protect,75.0%,6.0
+3:Psyshock,25.0%,2.0
+4:Trick Room,25.0%,2.0
+5:Magic Coat,25.0%,2.0
+6:Psychic,25.0%,2.0
+7:Round,12.5%,1.0
+8:Shadow Sneak,12.5%,1.0
+9:Calm Mind,12.5%,1.0
+10:Will-O-Wisp,12.5%,1.0
+11:Psych Up,12.5%,1.0
+12:Hidden Power,12.5%,1.0
+13:Encore,12.5%,1.0
+14:Icy Wind,12.5%,1.0
+15:Destiny Bond,12.5%,1.0
+16:Toxic,12.5%,1.0
+17:Thunderbolt,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Gardevoirite,87.5%,7.0
+2:Leftovers,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Trace,75.0%,6.0
+2:Synchronize,25.0%,2.0
+
+ ---------- 
+Natures used:
+1:Modest,62.5%,5.0
+2:Timid,25.0%,2.0
+3:Bold,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Ferrothorn
+4:Talonflame
+5:Whimsicott
+6:Rayquaza
+7:Groudon
+8:Goodra
+9:Meowstic
+10:Thundurus
+11:Terrakion
+12:Alomomola
+13:Amoonguss
+14:Gothitelle
+15:Giratina
+16:Dialga
+17:Weavile
+18:Ambipom
+19:Infernape
+20:Swellow
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,80.5555555556%,6.44444444444
+2:Psyshock,8.33333333333%,0.666666666667
+3:Shadow Sneak,5.55555555556%,0.444444444444
+4:Round,2.77777777778%,0.222222222222
+5:Psychic,2.77777777778%,0.222222222222
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.7254901961%,1.09803921569
+2:Double-Edge,13.7254901961%,1.09803921569
+3:Precipice Blades,7.8431372549%,0.627450980392
+4:Moonblast,7.8431372549%,0.627450980392
+5:Bullet Punch,7.8431372549%,0.627450980392
+6:Iron Head,5.88235294118%,0.470588235294
+7:Sucker Punch,5.88235294118%,0.470588235294
+8:Dragon Ascent,3.92156862745%,0.313725490196
+9:Gyro Ball,3.92156862745%,0.313725490196
+10:Water Spout,3.92156862745%,0.313725490196
+11:Scald,1.96078431373%,0.156862745098
+12:Shadow Force,1.96078431373%,0.156862745098
+13:Gunk Shot,1.96078431373%,0.156862745098
+14:Flash Cannon,1.96078431373%,0.156862745098
+15:Shadow Sneak,1.96078431373%,0.156862745098
+16:Brave Bird,1.96078431373%,0.156862745098
+17:Hyper Voice,1.96078431373%,0.156862745098
+18:Fake Out,1.96078431373%,0.156862745098
+19:Extreme Speed,1.96078431373%,0.156862745098
+20:Sludge Bomb,1.96078431373%,0.156862745098
+0:Other,3.92156862745%,0.313725490196
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Rayquaza
+6:Groudon
+7:Kyogre
+8:Crobat
+9:Kyurem
+10:Ferrothorn
+11:Amoonguss
+12:Whimsicott
+13:Liepard
+14:Weavile
+15:Infernape
+16:Salamence
+17:Togetic
+18:Aerodactyl
+19:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Scizor
+5:Kyogre
+6:Mawile
+7:Yveltal
+8:Ferrothorn
+9:Giratina
+10:Talonflame
+11:Greninja
+12:Landorus
+13:Dialga
+14:Rayquaza
+15:Rayquaza
+16:Salamence
+17:Ditto
+18:Gengar

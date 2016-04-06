@@ -1,0 +1,140 @@
+137:Blastoise|95
+ ---------- 
+Moves used:
+1:Fake Out,88.4210526316%,84.0
+2:Aura Sphere,85.2631578947%,81.0
+3:Water Spout,53.6842105263%,51.0
+4:Dragon Pulse,35.7894736842%,34.0
+5:Icy Wind,28.4210526316%,27.0
+6:Ice Beam,28.4210526316%,27.0
+7:Dark Pulse,23.1578947368%,22.0
+8:Water Pulse,20.0%,19.0
+9:Protect,12.6315789474%,12.0
+10:Scald,10.5263157895%,10.0
+11:Flash Cannon,8.42105263158%,8.0
+12:Blizzard,3.15789473684%,3.0
+13:Mirror Coat,2.10526315789%,2.0
+
+ ---------- 
+Items used:
+1:Blastoisinite,81.0526315789%,77.0
+2:Choice Scarf,13.6842105263%,13.0
+3:Assault Vest,5.26315789474%,5.0
+
+ ---------- 
+Abilities used:
+1:Torrent,75.7894736842%,72.0
+2:Rain Dish,24.2105263158%,23.0
+
+ ---------- 
+Natures used:
+1:Modest,83.1578947368%,79.0
+2:Quiet,6.31578947368%,6.0
+3:Timid,5.26315789474%,5.0
+4:Bold,3.15789473684%,3.0
+5:Calm,2.10526315789%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Xerneas
+5:Charizard
+6:Smeargle
+7:Yveltal
+8:Scizor
+9:Meowstic
+10:Kyurem
+11:Talonflame
+12:Whimsicott
+13:Dialga
+14:Sylveon
+15:Thundurus
+16:Cresselia
+17:Ho-Oh
+18:Kangaskhan
+19:Crobat
+20:Diggersby
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Water Spout,33.3333333333%,31.6666666667
+2:Aura Sphere,22.2222222222%,21.1111111111
+3:Icy Wind,14.8148148148%,14.0740740741
+4:Dragon Pulse,7.40740740741%,7.03703703704
+5:Ice Beam,7.40740740741%,7.03703703704
+6:Dark Pulse,5.55555555556%,5.27777777778
+7:Water Pulse,3.7037037037%,3.51851851852
+8:Fake Out,3.7037037037%,3.51851851852
+9:Scald,1.85185185185%,1.75925925926
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.2807017544%,11.6666666667
+2:Precipice Blades,10.5263157895%,10.0
+3:Water Spout,8.77192982456%,8.33333333333
+4:Thunder,8.77192982456%,8.33333333333
+5:Dragon Ascent,7.01754385965%,6.66666666667
+6:Double-Edge,7.01754385965%,6.66666666667
+7:Grass Knot,5.26315789474%,5.0
+8:Brave Bird,5.26315789474%,5.0
+9:Return,5.26315789474%,5.0
+10:Sucker Punch,3.50877192982%,3.33333333333
+11:Rock Slide,3.50877192982%,3.33333333333
+12:Thunderbolt,3.50877192982%,3.33333333333
+13:Oblivion Wing,1.75438596491%,1.66666666667
+14:Freeze-Dry,1.75438596491%,1.66666666667
+15:Psystrike,1.75438596491%,1.66666666667
+16:Bug Bite,1.75438596491%,1.66666666667
+17:Power Whip,1.75438596491%,1.66666666667
+18:Earth Power,1.75438596491%,1.66666666667
+19:Feint,1.75438596491%,1.66666666667
+20:Hyper Voice,1.75438596491%,1.66666666667
+0:Other,5.26315789474%,5.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Kangaskhan
+4:Talonflame
+5:Liepard
+6:Rayquaza
+7:Mawile
+8:Smeargle
+9:Meowstic
+10:Landorus
+11:Ferrothorn
+12:Whimsicott
+13:Cresselia
+14:Dialga
+15:Weavile
+16:Greninja
+17:Palkia
+18:Togekiss
+19:Kyogre
+20:Sableye
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Rayquaza
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Thundurus
+9:Salamence
+10:Mawile
+11:Yveltal
+12:Heliolisk
+13:Greninja
+14:Thundurus
+15:Ferrothorn
+16:Cresselia
+17:Infernape
+18:Latias
+19:Ludicolo
+20:Ho-Oh

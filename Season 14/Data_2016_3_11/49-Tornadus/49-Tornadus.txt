@@ -1,0 +1,170 @@
+49:Tornadus|1222
+ ---------- 
+Moves used:
+1:Tailwind,97.790507365%,1195.0
+2:Taunt,87.1522094926%,1065.0
+3:Hurricane,79.5417348609%,972.0
+4:Role Play,73.4860883797%,898.0
+5:Protect,18.1669394435%,222.0
+6:Air Slash,8.34697217676%,102.0
+7:Icy Wind,8.18330605565%,100.0
+8:Swagger,7.03764320786%,86.0
+9:Heat Wave,6.13747954173%,75.0
+10:Grass Knot,4.41898527005%,54.0
+11:Sky Drop,2.37315875614%,29.0
+12:Foul Play,2.37315875614%,29.0
+13:Toxic,2.37315875614%,29.0
+14:Acrobatics,1.55482815057%,19.0
+15:Superpower,0.327332242226%,4.0
+16:U-turn,0.163666121113%,2.0
+17:Substitute,0.163666121113%,2.0
+18:Incinerate,0.0818330605565%,1.0
+19:Dark Pulse,0.0818330605565%,1.0
+20:Fling,0.0818330605565%,1.0
+0:Other,0.163666121113%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,54.5826513912%,667.0
+2:Sitrus Berry,11.3747954173%,139.0
+3:Lum Berry,10.7201309329%,131.0
+4:Life Orb,6.13747954173%,75.0
+5:Mental Herb,2.86415711948%,35.0
+6:Safety Goggles,2.29132569558%,28.0
+7:Sharp Beak,1.39116202946%,17.0
+8:Yache Berry,1.22749590835%,15.0
+9:Bright Powder,1.06382978723%,13.0
+10:Eject Button,0.981996726678%,12.0
+11:Zoom Lens,0.900163666121%,11.0
+12:Charti Berry,0.736497545008%,9.0
+13:Leftovers,0.572831423895%,7.0
+14:Rowap Berry,0.490998363339%,6.0
+15:Sky Plate,0.245499181669%,3.0
+16:Power Weight,0.163666121113%,2.0
+17:Rocky Helmet,0.0818330605565%,1.0
+18:King's Rock,0.0818330605565%,1.0
+19:Lansat Berry,0.0818330605565%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,1222.0
+
+ ---------- 
+Natures used:
+1:Timid,74.2225859247%,907.0
+2:Modest,5.40098199673%,66.0
+3:Gentle,4.66448445172%,57.0
+4:Calm,3.60065466448%,44.0
+5:Jolly,3.10965630115%,38.0
+6:Hardy,2.94599018003%,36.0
+7:Bold,2.86415711948%,35.0
+8:Adamant,1.47299509002%,18.0
+9:Hasty,0.654664484452%,8.0
+10:Lax,0.654664484452%,8.0
+11:Naive,0.327332242226%,4.0
+12:Quiet,0.0818330605565%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Ferrothorn
+6:Rayquaza
+7:Mawile
+8:Yveltal
+9:Landorus
+10:Salamence
+11:Landorus
+12:Cresselia
+13:Ho-Oh
+14:Crobat
+15:Palkia
+16:Dialga
+17:Weavile
+18:Infernape
+19:Talonflame
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,71.3567839196%,871.979899497
+2:Air Slash,11.5577889447%,141.236180905
+3:Icy Wind,8.04020100503%,98.2512562814
+4:Heat Wave,3.01507537688%,36.8442211055
+5:Acrobatics,2.01005025126%,24.5628140704
+6:Foul Play,2.01005025126%,24.5628140704
+7:Grass Knot,1.00502512563%,12.2814070352
+8:Sky Drop,0.502512562814%,6.14070351759
+9:Hidden Power,0.502512562814%,6.14070351759
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.014720314%,183.479882237
+2:Water Spout,6.18253189401%,75.5505397448
+3:Rock Slide,5.88812561335%,71.9528949951
+4:Double-Edge,5.10304219823%,62.3591756624
+5:Origin Pulse,4.80863591757%,58.7615309127
+6:Eruption,4.41609421001%,53.9646712463
+7:Ice Beam,4.21982335623%,51.5662414132
+8:Hyper Voice,4.02355250245%,49.16781158
+9:Extreme Speed,3.72914622179%,45.5701668302
+10:Brave Bird,3.6310107949%,44.3709519136
+11:Sucker Punch,3.14033366045%,38.3748773307
+12:Thunderbolt,3.04219823356%,37.1756624141
+13:Gyro Ball,2.84592737978%,34.777232581
+14:Return,2.35525024534%,28.781157998
+15:Precipice Blades,1.96270853778%,23.9842983317
+16:Moonblast,1.66830225711%,20.3866535819
+17:Foul Play,1.66830225711%,20.3866535819
+18:Dragon Ascent,1.37389597645%,16.7890088322
+19:Fire Punch,1.27576054956%,15.5897939156
+20:Fake Out,1.17762512267%,14.390578999
+0:Other,21.0991167812%,257.831207066
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Groudon
+4:Ferrothorn
+5:Liepard
+6:Kyogre
+7:Xerneas
+8:Smeargle
+9:Crobat
+10:Whimsicott
+11:Amoonguss
+12:Salamence
+13:Landorus
+14:Rayquaza
+15:Mienshao
+16:Palkia
+17:Mawile
+18:Thundurus
+19:Cresselia
+20:Lopunny
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Talonflame
+8:Landorus
+9:Ferrothorn
+10:Thundurus
+11:Yveltal
+12:Cresselia
+13:Mawile
+14:Liepard
+15:Rayquaza
+16:Aegislash
+17:Dialga
+18:Smeargle
+19:Weavile
+20:Kyurem

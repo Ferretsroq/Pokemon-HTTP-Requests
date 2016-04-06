@@ -1,0 +1,39 @@
+79:Heliolisk|1
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Thunder,100.0%,1.0
+4:Surf,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kyogre
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

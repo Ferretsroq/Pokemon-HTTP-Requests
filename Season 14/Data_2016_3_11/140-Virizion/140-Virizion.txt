@@ -1,0 +1,127 @@
+140:Virizion|133
+ ---------- 
+Moves used:
+1:Leaf Blade,98.4962406015%,131.0
+2:Close Combat,97.7443609023%,130.0
+3:Protect,94.7368421053%,126.0
+4:Helping Hand,38.3458646617%,51.0
+5:Quick Guard,22.5563909774%,30.0
+6:Stone Edge,21.8045112782%,29.0
+7:Zen Headbutt,13.5338345865%,18.0
+8:Worry Seed,3.75939849624%,5.0
+9:Double Kick,3.00751879699%,4.0
+10:Sacred Sword,2.25563909774%,3.0
+11:Roar,2.25563909774%,3.0
+12:Taunt,1.5037593985%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,35.3383458647%,47.0
+2:Life Orb,31.5789473684%,42.0
+3:Expert Belt,17.2932330827%,23.0
+4:Lum Berry,12.030075188%,16.0
+5:Roseli Berry,1.5037593985%,2.0
+6:Focus Sash,1.5037593985%,2.0
+7:Choice Scarf,0.751879699248%,1.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,133.0
+
+ ---------- 
+Natures used:
+1:Adamant,50.3759398496%,67.0
+2:Jolly,49.6240601504%,66.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Dialga
+4:Talonflame
+5:Meowstic
+6:Xerneas
+7:Mewtwo
+8:Rayquaza
+9:Raichu
+10:Groudon
+11:Smeargle
+12:Thundurus
+13:Kangaskhan
+14:Yveltal
+15:Ho-Oh
+16:Gengar
+17:Golduck
+18:Aegislash
+19:Crobat
+20:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Blade,51.2195121951%,68.1219512195
+2:Close Combat,43.9024390244%,58.3902439024
+3:Stone Edge,4.87804878049%,6.48780487805
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.447761194%,13.8955223881
+2:Brave Bird,7.46268656716%,9.92537313433
+3:Gyro Ball,7.46268656716%,9.92537313433
+4:Hyper Voice,7.46268656716%,9.92537313433
+5:Ice Beam,7.46268656716%,9.92537313433
+6:Dragon Ascent,5.97014925373%,7.94029850746
+7:Eruption,5.97014925373%,7.94029850746
+8:Origin Pulse,2.98507462687%,3.97014925373
+9:Moonblast,2.98507462687%,3.97014925373
+10:Hurricane,2.98507462687%,3.97014925373
+11:Iron Head,2.98507462687%,3.97014925373
+12:Sludge Bomb,2.98507462687%,3.97014925373
+13:Aeroblast,2.98507462687%,3.97014925373
+14:Fire Punch,2.98507462687%,3.97014925373
+15:Precipice Blades,1.49253731343%,1.98507462687
+16:Icicle Crash,1.49253731343%,1.98507462687
+17:Spacial Rend,1.49253731343%,1.98507462687
+18:Dragon Pulse,1.49253731343%,1.98507462687
+19:Flare Blitz,1.49253731343%,1.98507462687
+20:U-turn,1.49253731343%,1.98507462687
+0:Other,16.4179104478%,21.8358208955
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Ferrothorn
+4:Talonflame
+5:Weavile
+6:Xerneas
+7:Landorus
+8:Lopunny
+9:Mawile
+10:Ludicolo
+11:Smeargle
+12:Lapras
+13:Kangaskhan
+14:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Ferrothorn
+6:Rayquaza
+7:Salamence
+8:Landorus
+9:Ho-Oh
+10:Lugia
+11:Kangaskhan
+12:Yveltal
+13:Aegislash
+14:Vivillon
+15:Tornadus
+16:Cresselia
+17:Palkia
+18:Dialga
+19:Weavile
+20:Mawile

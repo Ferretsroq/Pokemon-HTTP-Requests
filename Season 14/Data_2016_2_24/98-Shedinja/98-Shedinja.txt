@@ -1,0 +1,145 @@
+98:Shedinja|207
+ ---------- 
+Moves used:
+1:Protect,88.4057971014%,183.0
+2:Toxic,54.1062801932%,112.0
+3:Will-O-Wisp,43.961352657%,91.0
+4:Shadow Sneak,39.61352657%,82.0
+5:Shadow Ball,39.61352657%,82.0
+6:Confuse Ray,35.7487922705%,74.0
+7:Phantom Force,23.6714975845%,49.0
+8:Bug Bite,17.3913043478%,36.0
+9:Sunny Day,17.3913043478%,36.0
+10:Shadow Claw,10.6280193237%,22.0
+11:Swagger,9.17874396135%,19.0
+12:X-Scissor,8.69565217391%,18.0
+13:Hone Claws,5.79710144928%,12.0
+14:Endure,2.4154589372%,5.0
+15:Double Team,1.93236714976%,4.0
+16:Spite,0.966183574879%,2.0
+17:Mud-Slap,0.48309178744%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,91.7874396135%,190.0
+2:Safety Goggles,3.38164251208%,7.0
+3:Wide Lens,2.4154589372%,5.0
+4:Lum Berry,2.4154589372%,5.0
+
+ ---------- 
+Abilities used:
+1:Wonder Guard,100.0%,207.0
+
+ ---------- 
+Natures used:
+1:Adamant,22.7053140097%,47.0
+2:Lonely,22.2222222222%,46.0
+3:Hasty,19.806763285%,41.0
+4:Modest,13.0434782609%,27.0
+5:Jolly,8.21256038647%,17.0
+6:Timid,7.24637681159%,15.0
+7:Brave,3.38164251208%,7.0
+8:Naughty,2.89855072464%,6.0
+9:Naive,0.48309178744%,1.0
+
+ ---------- 
+Top teammates:
+1:Golduck
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Kyogre
+6:Rayquaza
+7:Salamence
+8:Landorus
+9:Aegislash
+10:Rotom
+11:Talonflame
+12:Mawile
+13:Jumpluff
+14:Crobat
+15:Thundurus
+16:Smeargle
+17:Porygon2
+18:Gengar
+19:Lugia
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,36.2068965517%,74.9482758621
+2:Shadow Ball,32.7586206897%,67.8103448276
+3:Phantom Force,13.7931034483%,28.5517241379
+4:Bug Bite,8.62068965517%,17.8448275862
+5:X-Scissor,5.1724137931%,10.7068965517
+6:Shadow Claw,3.44827586207%,7.13793103448
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,7.14285714286%,14.7857142857
+2:Brave Bird,5.71428571429%,11.8285714286
+3:Sucker Punch,5.71428571429%,11.8285714286
+4:Eruption,5.71428571429%,11.8285714286
+5:Rock Slide,5.71428571429%,11.8285714286
+6:Air Slash,4.28571428571%,8.87142857143
+7:Foul Play,2.85714285714%,5.91428571429
+8:Overheat,2.85714285714%,5.91428571429
+9:Hyper Voice,2.85714285714%,5.91428571429
+10:Crunch,2.85714285714%,5.91428571429
+11:Flamethrower,2.85714285714%,5.91428571429
+12:Fire Punch,2.85714285714%,5.91428571429
+13:Snarl,1.42857142857%,2.95714285714
+14:Smack Down,1.42857142857%,2.95714285714
+15:Grass Knot,1.42857142857%,2.95714285714
+16:Iron Head,1.42857142857%,2.95714285714
+17:Power Whip,1.42857142857%,2.95714285714
+18:Dragon Pulse,1.42857142857%,2.95714285714
+19:Flare Blitz,1.42857142857%,2.95714285714
+20:Me First,1.42857142857%,2.95714285714
+0:Other,4.28571428571%,8.87142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Rayquaza
+3:Crobat
+4:Gengar
+5:Cresselia
+6:Landorus
+7:Thundurus
+8:Ferrothorn
+9:Dialga
+10:Groudon
+11:Mawile
+12:Ludicolo
+13:Gengar
+14:Aegislash
+15:Meowstic
+16:Talonflame
+17:Mienshao
+18:Gothitelle
+19:Whimsicott
+20:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Rayquaza
+4:Talonflame
+5:Togekiss
+6:Salamence
+7:Landorus
+8:Liepard
+9:Yveltal
+10:Xerneas
+11:Greninja
+12:Reshiram
+13:Ferrothorn
+14:Heatran
+15:Dialga
+16:Weavile
+17:Infernape
+18:Rayquaza
+19:Mawile
+20:Ho-Oh

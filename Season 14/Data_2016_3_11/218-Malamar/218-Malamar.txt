@@ -1,0 +1,111 @@
+218:Malamar|25
+ ---------- 
+Moves used:
+1:Superpower,100.0%,25.0
+2:Trick Room,68.0%,17.0
+3:Topsy-Turvy,44.0%,11.0
+4:Protect,44.0%,11.0
+5:Knock Off,40.0%,10.0
+6:Psycho Cut,28.0%,7.0
+7:Rock Slide,20.0%,5.0
+8:Hypnosis,20.0%,5.0
+9:Rest,16.0%,4.0
+10:Simple Beam,12.0%,3.0
+11:Night Slash,8.0%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,52.0%,13.0
+2:Iron Ball,20.0%,5.0
+3:Lum Berry,16.0%,4.0
+4:Roseli Berry,4.0%,1.0
+5:Choice Scarf,4.0%,1.0
+6:Shell Bell,4.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,25.0
+
+ ---------- 
+Natures used:
+1:Careful,44.0%,11.0
+2:Adamant,28.0%,7.0
+3:Brave,20.0%,5.0
+4:Jolly,8.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Giratina
+3:Gyarados
+4:Musharna
+5:Groudon
+6:Metagross
+7:Meowstic
+8:Ferrothorn
+9:Giratina
+10:Scizor
+11:Gengar
+12:Sylveon
+13:Azelf
+14:Kangaskhan
+15:Xerneas
+16:Hawlucha
+17:Aromatisse
+18:Terrakion
+19:Scrafty
+20:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Superpower,50.0%,12.5
+2:Knock Off,25.0%,6.25
+3:Psycho Cut,12.5%,3.125
+4:Rock Slide,12.5%,3.125
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,10.0%,2.5
+2:Dragon Ascent,5.0%,1.25
+3:Precipice Blades,5.0%,1.25
+4:Dazzling Gleam,5.0%,1.25
+5:Moonblast,5.0%,1.25
+6:Spacial Rend,5.0%,1.25
+7:Draco Meteor,5.0%,1.25
+8:Earth Power,5.0%,1.25
+9:Brave Bird,5.0%,1.25
+10:Dragon Pulse,5.0%,1.25
+11:Bug Buzz,5.0%,1.25
+12:Dark Pulse,5.0%,1.25
+13:Sucker Punch,5.0%,1.25
+14:Water Spout,5.0%,1.25
+15:Eruption,5.0%,1.25
+16:Knock Off,5.0%,1.25
+17:Thunderbolt,5.0%,1.25
+18:Double-Edge,5.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Dialga
+3:Rotom
+4:Weavile
+5:Smeargle
+6:Kangaskhan
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Yveltal
+3:Xerneas
+4:Palkia
+5:Groudon
+6:Goodra
+7:Thundurus
+8:Volcarona
+9:Dialga
+10:Rayquaza
+11:Salamence
+12:Mawile
+13:Ho-Oh

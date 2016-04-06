@@ -1,0 +1,58 @@
+202:Reshiram|4
+ ---------- 
+Moves used:
+1:Blue Flare,100.0%,4.0
+2:Earth Power,100.0%,4.0
+3:Draco Meteor,50.0%,2.0
+4:Dragon Pulse,50.0%,2.0
+5:Protect,50.0%,2.0
+6:Light Screen,25.0%,1.0
+7:Flamethrower,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,50.0%,2.0
+2:Shuca Berry,50.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Turboblaze,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Hydreigon
+3:Kangaskhan
+4:Yveltal
+5:Ferrothorn
+6:Liepard
+7:Weavile
+8:Mawile
+9:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,66.6666666667%,2.66666666667
+2:Blue Flare,33.3333333333%,1.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,33.3333333333%,1.33333333333
+2:Water Spout,33.3333333333%,1.33333333333
+3:Return,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan

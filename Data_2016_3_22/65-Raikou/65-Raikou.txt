@@ -1,0 +1,112 @@
+65:Raikou|62
+ ---------- 
+Moves used:
+1:Snarl,100.0%,62.0
+2:Thunderbolt,93.5483870968%,58.0
+3:Protect,69.3548387097%,43.0
+4:Roar,50.0%,31.0
+5:Hidden Power,45.1612903226%,28.0
+6:Reflect,30.6451612903%,19.0
+7:Volt Switch,6.45161290323%,4.0
+8:Thunder Wave,3.22580645161%,2.0
+9:Light Screen,1.61290322581%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,59.6774193548%,37.0
+2:Sitrus Berry,24.1935483871%,15.0
+3:Life Orb,16.1290322581%,10.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,62.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,62.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Crobat
+4:Xerneas
+5:Weavile
+6:Salamence
+7:Ferrothorn
+8:Talonflame
+9:Landorus
+10:Togetic
+11:Gengar
+12:Groudon
+13:Kangaskhan
+14:Amoonguss
+15:Cresselia
+16:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,66.6666666667%,41.3333333333
+2:Hidden Power,21.2121212121%,13.1515151515
+3:Snarl,12.1212121212%,7.51515151515
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.0212765957%,10.5531914894
+2:Water Spout,12.7659574468%,7.91489361702
+3:Double-Edge,10.6382978723%,6.59574468085
+4:Dazzling Gleam,6.3829787234%,3.95744680851
+5:Earth Power,6.3829787234%,3.95744680851
+6:Sucker Punch,6.3829787234%,3.95744680851
+7:Dragon Pulse,4.25531914894%,2.63829787234
+8:Hyper Voice,4.25531914894%,2.63829787234
+9:Eruption,4.25531914894%,2.63829787234
+10:Earthquake,4.25531914894%,2.63829787234
+11:Dragon Ascent,2.12765957447%,1.31914893617
+12:Origin Pulse,2.12765957447%,1.31914893617
+13:Moonblast,2.12765957447%,1.31914893617
+14:Brave Bird,2.12765957447%,1.31914893617
+15:Gyro Ball,2.12765957447%,1.31914893617
+16:Fake Out,2.12765957447%,1.31914893617
+17:Extreme Speed,2.12765957447%,1.31914893617
+18:Hidden Power,2.12765957447%,1.31914893617
+19:Sludge Bomb,2.12765957447%,1.31914893617
+20:Rock Slide,2.12765957447%,1.31914893617
+0:Other,2.12765957447%,1.31914893617
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Talonflame
+3:Kyogre
+4:Smeargle
+5:Crobat
+6:Landorus
+7:Bronzong
+8:Rayquaza
+9:Yveltal
+10:Xerneas
+11:Terrakion
+12:Liepard
+13:Cresselia
+14:Rayquaza
+15:Scyther
+16:Kangaskhan
+17:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Landorus
+6:Dialga
+7:Salamence
+8:Rayquaza
+9:Mawile
+10:Yveltal
+11:Talonflame
+12:Thundurus
+13:Ferrothorn
+14:Gengar

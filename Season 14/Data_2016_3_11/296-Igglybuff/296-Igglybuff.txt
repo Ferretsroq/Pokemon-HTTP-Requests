@@ -1,0 +1,55 @@
+296:Igglybuff|6
+ ---------- 
+Moves used:
+1:Endeavor,83.3333333333%,5.0
+2:Magic Coat,83.3333333333%,5.0
+3:Perish Song,83.3333333333%,5.0
+4:Protect,83.3333333333%,5.0
+5:Charm,16.6666666667%,1.0
+6:Sing,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,83.3333333333%,5.0
+
+ ---------- 
+Abilities used:
+1:Friend Guard,83.3333333333%,5.0
+2:Competitive,16.6666666667%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,83.3333333333%,5.0
+2:Modest,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Amoonguss
+2:Giratina
+3:Yveltal
+4:Gardevoir
+5:Hitmontop
+6:Xerneas
+7:Landorus
+8:Audino
+9:Groudon
+10:Tyranitar
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,1.5
+2:Scald,25.0%,1.5
+3:Earthquake,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Golduck

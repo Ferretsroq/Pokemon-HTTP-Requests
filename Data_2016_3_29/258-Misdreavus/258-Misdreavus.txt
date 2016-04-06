@@ -1,0 +1,37 @@
+258:Misdreavus|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Power Gem,100.0%,1.0
+3:Me First,100.0%,1.0
+4:Skill Swap,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

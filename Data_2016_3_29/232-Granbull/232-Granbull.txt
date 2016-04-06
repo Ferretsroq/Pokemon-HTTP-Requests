@@ -1,0 +1,46 @@
+232:Granbull|2
+ ---------- 
+Moves used:
+1:Play Rough,100.0%,2.0
+2:Close Combat,50.0%,1.0
+3:Super Fang,50.0%,1.0
+4:Rock Slide,50.0%,1.0
+5:Thunder Punch,50.0%,1.0
+6:Ice Punch,50.0%,1.0
+7:Fire Punch,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Ferrothorn
+3:Scizor
+4:Mewtwo
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Overheat,50.0%,1.0
+2:Double-Edge,50.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan

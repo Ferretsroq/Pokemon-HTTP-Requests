@@ -1,0 +1,95 @@
+195:Cradily|30
+ ---------- 
+Moves used:
+1:Ancient Power,80.0%,24.0
+2:Giga Drain,56.6666666667%,17.0
+3:Protect,53.3333333333%,16.0
+4:Earth Power,50.0%,15.0
+5:Recover,46.6666666667%,14.0
+6:Grass Knot,43.3333333333%,13.0
+7:Mirror Coat,26.6666666667%,8.0
+8:Stockpile,23.3333333333%,7.0
+9:Rock Slide,6.66666666667%,2.0
+10:Toxic,6.66666666667%,2.0
+11:Infestation,3.33333333333%,1.0
+12:Gastro Acid,3.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,43.3333333333%,13.0
+2:Sitrus Berry,36.6666666667%,11.0
+3:Leftovers,13.3333333333%,4.0
+4:Lum Berry,6.66666666667%,2.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,30.0
+
+ ---------- 
+Natures used:
+1:Modest,70.0%,21.0
+2:Sassy,13.3333333333%,4.0
+3:Calm,13.3333333333%,4.0
+4:Bold,3.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Liepard
+4:Talonflame
+5:Rayquaza
+6:Houndoom
+7:Kangaskhan
+8:Greninja
+9:Kyogre
+10:Smeargle
+11:Yveltal
+12:Meowstic
+13:Kyurem
+14:Whimsicott
+15:Weavile
+16:Lucario
+17:Sableye
+18:Azumarill
+19:Crobat
+20:Nidoking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,30.7692307692%,9.23076923077
+2:Giga Drain,30.7692307692%,9.23076923077
+3:Ancient Power,23.0769230769%,6.92307692308
+4:Earth Power,15.3846153846%,4.61538461538
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,40.0%,12.0
+2:Low Kick,20.0%,6.0
+3:Precipice Blades,13.3333333333%,4.0
+4:Iron Head,13.3333333333%,4.0
+5:Dazzling Gleam,6.66666666667%,2.0
+6:Bullet Punch,6.66666666667%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Ferrothorn
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Smeargle
+7:Crobat
+8:Ditto
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Aegislash
+5:Cresselia
+6:Garchomp
+7:Groudon
+8:Scizor
+9:Ditto

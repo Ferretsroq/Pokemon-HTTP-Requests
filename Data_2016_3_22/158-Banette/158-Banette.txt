@@ -1,0 +1,60 @@
+158:Banette|5
+ ---------- 
+Moves used:
+1:Protect,100.0%,5.0
+2:Phantom Force,80.0%,4.0
+3:Sucker Punch,80.0%,4.0
+4:Substitute,80.0%,4.0
+5:Gunk Shot,20.0%,1.0
+6:Skill Swap,20.0%,1.0
+7:Disable,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Banettite,100.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Frisk,80.0%,4.0
+2:Insomnia,20.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Yveltal
+3:Aromatisse
+4:Xerneas
+5:Rayquaza
+6:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,50.0%,2.5
+2:Phantom Force,25.0%,1.25
+3:Gunk Shot,25.0%,1.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,1.66666666667
+2:Wild Charge,33.3333333333%,1.66666666667
+3:Eruption,33.3333333333%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Aegislash
+4:Thundurus
+5:Dialga
+6:Sceptile
+7:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Thundurus
+2:Groudon
+3:Kyogre

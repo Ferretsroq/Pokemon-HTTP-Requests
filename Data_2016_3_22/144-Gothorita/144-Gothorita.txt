@@ -1,0 +1,56 @@
+144:Gothorita|9
+ ---------- 
+Moves used:
+1:Heal Pulse,100.0%,9.0
+2:Trick Room,100.0%,9.0
+3:Helping Hand,100.0%,9.0
+4:Gravity,77.7777777778%,7.0
+5:Foul Play,22.2222222222%,2.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,9.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,9.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyurem
+3:Lilligant
+4:Sableye
+5:Kyogre
+6:Xerneas
+7:Weavile
+8:Salamence
+9:Mawile
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Extreme Speed,33.3333333333%,3.0
+2:Dazzling Gleam,16.6666666667%,1.5
+3:Water Spout,16.6666666667%,1.5
+4:Knock Off,16.6666666667%,1.5
+5:Rock Slide,16.6666666667%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Weavile
+3:Rayquaza
+4:Rayquaza
+5:Groudon
+6:Kyogre

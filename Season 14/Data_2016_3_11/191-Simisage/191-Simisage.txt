@@ -1,0 +1,96 @@
+191:Simisage|48
+ ---------- 
+Moves used:
+1:Leaf Storm,93.75%,45.0
+2:Protect,93.75%,45.0
+3:Rock Slide,93.75%,45.0
+4:Knock Off,62.5%,30.0
+5:Helping Hand,27.0833333333%,13.0
+6:Gunk Shot,6.25%,3.0
+7:Energy Ball,4.16666666667%,2.0
+8:Seed Bomb,4.16666666667%,2.0
+9:Substitute,4.16666666667%,2.0
+10:Solar Beam,4.16666666667%,2.0
+11:Worry Seed,2.08333333333%,1.0
+12:Fling,2.08333333333%,1.0
+13:Role Play,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,93.75%,45.0
+2:Light Ball,2.08333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,93.75%,45.0
+2:Gluttony,6.25%,3.0
+
+ ---------- 
+Natures used:
+1:Naive,93.75%,45.0
+2:Lonely,4.16666666667%,2.0
+3:Timid,2.08333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Lickilicky
+3:Zygarde
+4:Lopunny
+5:Steelix
+6:Scizor
+7:Xerneas
+8:Tyrantrum
+9:Braviary
+10:Escavalier
+11:Simipour
+12:Simisear
+13:Finneon
+14:Groudon
+15:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,64.2857142857%,30.8571428571
+2:Rock Slide,21.4285714286%,10.2857142857
+3:Knock Off,14.2857142857%,6.85714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,16.0%,7.68
+2:Origin Pulse,12.0%,5.76
+3:Dazzling Gleam,12.0%,5.76
+4:Extreme Speed,12.0%,5.76
+5:Water Spout,8.0%,3.84
+6:Hyper Voice,8.0%,3.84
+7:Precipice Blades,4.0%,1.92
+8:Feint,4.0%,1.92
+9:Gyro Ball,4.0%,1.92
+10:Eruption,4.0%,1.92
+11:Sludge Bomb,4.0%,1.92
+12:Earthquake,4.0%,1.92
+13:Ice Beam,4.0%,1.92
+14:Double-Edge,4.0%,1.92
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Togekiss
+3:Liepard
+4:Cresselia
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Talonflame
+5:Groudon
+6:Salamence
+7:Mienshao
+8:Cresselia
+9:Bronzong
+10:Ho-Oh
+11:Kangaskhan
+12:Gengar

@@ -1,0 +1,52 @@
+296:Pangoro|3
+ ---------- 
+Moves used:
+1:Snatch,66.6666666667%,2.0
+2:Focus Punch,66.6666666667%,2.0
+3:Protect,66.6666666667%,2.0
+4:Thief,66.6666666667%,2.0
+5:Parting Shot,33.3333333333%,1.0
+6:Hammer Arm,33.3333333333%,1.0
+7:Knock Off,33.3333333333%,1.0
+8:Taunt,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,66.6666666667%,2.0
+2:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Iron Fist,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Smeargle
+3:Ditto
+4:Yveltal
+5:Kyogre
+6:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,50.0%,1.5
+2:Thief,50.0%,1.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,1.5
+2:Water Spout,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre

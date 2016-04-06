@@ -1,0 +1,75 @@
+100:Dusclops|3
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,3.0
+2:Night Shade,66.6666666667%,2.0
+3:Gravity,33.3333333333%,1.0
+4:Memento,33.3333333333%,1.0
+5:Pain Split,33.3333333333%,1.0
+6:Destiny Bond,33.3333333333%,1.0
+7:Protect,33.3333333333%,1.0
+8:Haze,33.3333333333%,1.0
+9:Leer,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Pressure,66.6666666667%,2.0
+2:Frisk,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,66.6666666667%,2.0
+2:Calm,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Clawitzer
+2:Landorus
+3:Ferrothorn
+4:Amoonguss
+5:Escavalier
+6:Cresselia
+7:Giratina
+8:Dialga
+9:Rotom
+10:Groudon
+11:Kyogre
+12:Camerupt
+13:Mawile
+14:Heracross
+15:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,15.3846153846%,0.461538461538
+2:Precipice Blades,7.69230769231%,0.230769230769
+3:Dazzling Gleam,7.69230769231%,0.230769230769
+4:Power Whip,7.69230769231%,0.230769230769
+5:Dragon Claw,7.69230769231%,0.230769230769
+6:Overheat,7.69230769231%,0.230769230769
+7:Knock Off,7.69230769231%,0.230769230769
+8:Rock Slide,7.69230769231%,0.230769230769
+9:Ice Beam,7.69230769231%,0.230769230769
+10:Double-Edge,7.69230769231%,0.230769230769
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Xerneas
+4:Landorus
+5:Ferrothorn
+6:Cresselia
+7:Weavile
+8:Garchomp
+9:Salamence

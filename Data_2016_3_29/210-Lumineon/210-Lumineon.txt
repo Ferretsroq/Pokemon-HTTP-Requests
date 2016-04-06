@@ -1,0 +1,42 @@
+210:Lumineon|1
+ ---------- 
+Moves used:
+1:Soak,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Xerneas
+4:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,0.5
+2:Thunderbolt,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Dialga

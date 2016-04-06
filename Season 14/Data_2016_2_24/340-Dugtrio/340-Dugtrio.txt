@@ -1,0 +1,39 @@
+340:Dugtrio|1
+ ---------- 
+Moves used:
+1:Protect,100.0%,1.0
+2:Rock Slide,100.0%,1.0
+3:Fissure,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Arena Trap,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Sableye
+3:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza

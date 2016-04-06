@@ -1,0 +1,48 @@
+301:Skuntank|1
+ ---------- 
+Moves used:
+1:Snarl,100.0%,1.0
+2:Acid Spray,100.0%,1.0
+3:Feint,100.0%,1.0
+4:Flamethrower,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lucky Egg,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Aftermath,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kyogre
+3:Mawile
+4:Slowking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,50.0%,0.5
+2:Flamethrower,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,0.333333333333
+2:Hyper Voice,33.3333333333%,0.333333333333
+3:Extreme Speed,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mawile
+2:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Kyogre
+3:Salamence

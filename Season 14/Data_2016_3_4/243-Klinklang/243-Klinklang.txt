@@ -1,0 +1,61 @@
+243:Klinklang|1
+ ---------- 
+Moves used:
+1:Gear Grind,100.0%,1.0
+2:Shift Gear,100.0%,1.0
+3:Metal Sound,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Palkia
+3:Groudon
+4:Amoonguss
+5:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gear Grind,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,22.2222222222%,0.222222222222
+2:Earthquake,22.2222222222%,0.222222222222
+3:Brave Bird,11.1111111111%,0.111111111111
+4:Dark Pulse,11.1111111111%,0.111111111111
+5:Aura Sphere,11.1111111111%,0.111111111111
+6:Flamethrower,11.1111111111%,0.111111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Tornadus
+3:Liepard
+4:Rayquaza
+5:Medicham
+6:Hitmontop
+7:Crobat
+8:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Yveltal
+3:Talonflame
+4:Landorus
+5:Lucario
+6:Groudon
+7:Gyarados

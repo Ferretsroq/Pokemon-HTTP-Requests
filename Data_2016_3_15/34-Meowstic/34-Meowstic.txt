@@ -1,0 +1,79 @@
+34:Meowstic|15
+ ---------- 
+Moves used:
+1:Gravity,80.0%,12.0
+2:Safeguard,73.3333333333%,11.0
+3:Swagger,60.0%,9.0
+4:Trick Room,40.0%,6.0
+5:Quick Guard,20.0%,3.0
+6:Assist,20.0%,3.0
+7:Fake Out,20.0%,3.0
+8:Charm,20.0%,3.0
+9:Thunder Wave,20.0%,3.0
+10:Magic Room,13.3333333333%,2.0
+11:Magic Coat,13.3333333333%,2.0
+12:Hidden Power,13.3333333333%,2.0
+13:Psychic,6.66666666667%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,80.0%,12.0
+2:Expert Belt,13.3333333333%,2.0
+3:Lum Berry,6.66666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Calm,53.3333333333%,8.0
+2:Sassy,26.6666666667%,4.0
+3:Timid,13.3333333333%,2.0
+4:Bold,6.66666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyurem
+4:Kyogre
+5:Ditto
+6:Yveltal
+7:Trevenant
+8:Talonflame
+9:Lucario
+10:Smeargle
+11:Greninja
+12:Ferrothorn
+13:Palkia
+14:Mawile
+15:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,2.5
+2:Water Spout,16.6666666667%,2.5
+3:Double-Edge,16.6666666667%,2.5
+4:Moonblast,8.33333333333%,1.25
+5:Brave Bird,8.33333333333%,1.25
+6:Flare Blitz,8.33333333333%,1.25
+7:Gyro Ball,8.33333333333%,1.25
+8:Shadow Ball,8.33333333333%,1.25
+9:Ice Beam,8.33333333333%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Kyogre
+4:Kangaskhan
+5:Cresselia
+6:Bronzong
+7:Gengar

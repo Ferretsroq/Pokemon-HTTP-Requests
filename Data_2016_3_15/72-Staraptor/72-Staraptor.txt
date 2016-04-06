@@ -1,0 +1,42 @@
+72:Staraptor|1
+ ---------- 
+Moves used:
+1:Final Gambit,100.0%,1.0
+2:Brave Bird,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Whirlwind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,66.6666666667%,0.666666666667
+2:Final Gambit,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:

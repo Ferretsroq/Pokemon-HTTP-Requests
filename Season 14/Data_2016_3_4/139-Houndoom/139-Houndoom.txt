@@ -1,0 +1,136 @@
+139:Houndoom|107
+ ---------- 
+Moves used:
+1:Dark Pulse,88.785046729%,95.0
+2:Protect,88.785046729%,95.0
+3:Heat Wave,68.2242990654%,73.0
+4:Overheat,35.5140186916%,38.0
+5:Role Play,35.5140186916%,38.0
+6:Fire Blast,20.5607476636%,22.0
+7:Destiny Bond,15.8878504673%,17.0
+8:Foul Play,10.2803738318%,11.0
+9:Super Fang,8.41121495327%,9.0
+10:Flamethrower,6.54205607477%,7.0
+11:Solar Beam,4.67289719626%,5.0
+12:Nasty Plot,3.73831775701%,4.0
+13:Hidden Power,3.73831775701%,4.0
+14:Taunt,2.80373831776%,3.0
+15:Snarl,1.8691588785%,2.0
+16:Will-O-Wisp,1.8691588785%,2.0
+17:Sludge Bomb,1.8691588785%,2.0
+18:Feint,0.934579439252%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,91.5887850467%,98.0
+2:Focus Sash,8.41121495327%,9.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,95.3271028037%,102.0
+2:Early Bird,3.73831775701%,4.0
+3:Unnerve,0.934579439252%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,107.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Crobat
+4:Mewtwo
+5:Ferrothorn
+6:Giratina
+7:Purugly
+8:Xerneas
+9:Murkrow
+10:Talonflame
+11:Landorus
+12:Liepard
+13:Mawile
+14:Trevenant
+15:Whimsicott
+16:Ditto
+17:Thundurus
+18:Weavile
+19:Garchomp
+20:Cradily
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,40.4255319149%,43.2553191489
+2:Dark Pulse,36.170212766%,38.7021276596
+3:Overheat,8.51063829787%,9.10638297872
+4:Foul Play,6.3829787234%,6.82978723404
+5:Fire Blast,4.25531914894%,4.55319148936
+6:Destiny Bond,2.12765957447%,2.27659574468
+7:Flamethrower,2.12765957447%,2.27659574468
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.1764705882%,17.3088235294
+2:Dazzling Gleam,11.7647058824%,12.5882352941
+3:Earth Power,10.2941176471%,11.0147058824
+4:Water Spout,7.35294117647%,7.86764705882
+5:Low Kick,5.88235294118%,6.29411764706
+6:Origin Pulse,4.41176470588%,4.72058823529
+7:Earthquake,4.41176470588%,4.72058823529
+8:Double-Edge,4.41176470588%,4.72058823529
+9:Dragon Ascent,2.94117647059%,3.14705882353
+10:Extreme Speed,2.94117647059%,3.14705882353
+11:Rock Slide,2.94117647059%,3.14705882353
+12:Waterfall,2.94117647059%,3.14705882353
+13:Play Rough,1.47058823529%,1.57352941176
+14:Scald,1.47058823529%,1.57352941176
+15:Cross Poison,1.47058823529%,1.57352941176
+16:Brave Bird,1.47058823529%,1.57352941176
+17:Aura Sphere,1.47058823529%,1.57352941176
+18:Sucker Punch,1.47058823529%,1.57352941176
+19:Hammer Arm,1.47058823529%,1.57352941176
+20:Dragon Claw,1.47058823529%,1.57352941176
+0:Other,5.88235294118%,6.29411764706
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Talonflame
+5:Cresselia
+6:Salamence
+7:Crobat
+8:Kangaskhan
+9:Yveltal
+10:Thundurus
+11:Smeargle
+12:Xerneas
+13:Meowstic
+14:Vivillon
+15:Kyurem
+16:Kyurem
+17:Liepard
+18:Toxicroak
+19:Infernape
+20:Sceptile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Landorus
+7:Palkia
+8:Kyurem
+9:Terrakion
+10:Liepard
+11:Rayquaza
+12:Mawile
+13:Blaziken
+14:Ho-Oh
+15:Crobat
+16:Mewtwo
+17:Charizard

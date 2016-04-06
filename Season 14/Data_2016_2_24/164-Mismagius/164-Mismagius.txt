@@ -1,0 +1,104 @@
+164:Mismagius|52
+ ---------- 
+Moves used:
+1:Taunt,50.0%,26.0
+2:Magic Coat,48.0769230769%,25.0
+3:Memento,48.0769230769%,25.0
+4:Shadow Ball,44.2307692308%,23.0
+5:Thunder Wave,44.2307692308%,23.0
+6:Will-O-Wisp,40.3846153846%,21.0
+7:Skill Swap,32.6923076923%,17.0
+8:Trick,19.2307692308%,10.0
+9:Destiny Bond,19.2307692308%,10.0
+10:Icy Wind,11.5384615385%,6.0
+11:Mystical Fire,9.61538461538%,5.0
+12:Pain Split,9.61538461538%,5.0
+13:Magic Room,7.69230769231%,4.0
+14:Trick Room,7.69230769231%,4.0
+15:Imprison,7.69230769231%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,65.3846153846%,34.0
+2:Choice Band,15.3846153846%,8.0
+3:Mental Herb,15.3846153846%,8.0
+4:Choice Specs,3.84615384615%,2.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,52.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,52.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Gengar
+3:Dialga
+4:Groudon
+5:Kyogre
+6:Kyurem
+7:Metagross
+8:Ho-Oh
+9:Rayquaza
+10:Crobat
+11:Hitmonlee
+12:Golduck
+13:Salamence
+14:Sylveon
+15:Aegislash
+16:Lucario
+17:Palkia
+18:Hitmontop
+19:Aerodactyl
+20:Tangela
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Ball,57.1428571429%,29.7142857143
+2:Destiny Bond,42.8571428571%,22.2857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.75609756098%,5.07317073171
+2:Water Spout,7.31707317073%,3.80487804878
+3:Origin Pulse,4.87804878049%,2.53658536585
+4:Foul Play,4.87804878049%,2.53658536585
+5:Dragon Ascent,2.43902439024%,1.26829268293
+6:Play Rough,2.43902439024%,1.26829268293
+7:Shadow Sneak,2.43902439024%,1.26829268293
+8:Sucker Punch,2.43902439024%,1.26829268293
+9:Overheat,2.43902439024%,1.26829268293
+10:Hyper Voice,2.43902439024%,1.26829268293
+11:Eruption,2.43902439024%,1.26829268293
+12:Knock Off,2.43902439024%,1.26829268293
+13:Rock Slide,2.43902439024%,1.26829268293
+14:Thunderbolt,2.43902439024%,1.26829268293
+15:Double-Edge,2.43902439024%,1.26829268293
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Gothitelle
+3:Scrafty
+4:Rayquaza
+5:Groudon
+6:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Mawile
+5:Thundurus
+6:Scrafty
+7:Liepard
+8:Giratina
+9:Weavile
+10:Rayquaza
+11:Salamence
+12:Smeargle
+13:Typhlosion

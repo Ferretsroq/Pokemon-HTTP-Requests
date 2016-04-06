@@ -1,0 +1,158 @@
+61:Venusaur|523
+ ---------- 
+Moves used:
+1:Sludge Bomb,95.793499044%,501.0
+2:Protect,77.6290630975%,406.0
+3:Sleep Powder,76.4818355641%,400.0
+4:Giga Drain,51.2428298279%,268.0
+5:Grass Knot,42.638623327%,223.0
+6:Hidden Power,11.4722753346%,60.0
+7:Leech Seed,11.4722753346%,60.0
+8:Worry Seed,10.8986615679%,57.0
+9:Synthesis,5.35372848948%,28.0
+10:Solar Beam,3.63288718929%,19.0
+11:Growth,3.44168260038%,18.0
+12:Safeguard,2.67686424474%,14.0
+13:Grass Pledge,1.52963671128%,8.0
+14:Leaf Storm,0.956022944551%,5.0
+15:Amnesia,0.956022944551%,5.0
+16:Substitute,0.764818355641%,4.0
+17:Light Screen,0.764818355641%,4.0
+18:Roar,0.764818355641%,4.0
+19:Energy Ball,0.38240917782%,2.0
+20:Seed Bomb,0.38240917782%,2.0
+0:Other,0.764818355641%,4.0
+
+ ---------- 
+Items used:
+1:Venusaurite,42.638623327%,223.0
+2:Wide Lens,26.9598470363%,141.0
+3:Focus Sash,11.2810707457%,59.0
+4:Life Orb,9.3690248566%,49.0
+5:Black Sludge,2.48565965583%,13.0
+6:Weakness Policy,2.29445506692%,12.0
+7:Leftovers,1.72084130019%,9.0
+8:Expert Belt,0.764818355641%,4.0
+9:Lum Berry,0.764818355641%,4.0
+10:Big Root,0.57361376673%,3.0
+11:Coba Berry,0.57361376673%,3.0
+12:Sitrus Berry,0.57361376673%,3.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,91.2045889101%,477.0
+2:Overgrow,8.79541108987%,46.0
+
+ ---------- 
+Natures used:
+1:Modest,47.8011472275%,250.0
+2:Timid,23.9005736138%,125.0
+3:Bold,17.017208413%,89.0
+4:Calm,7.4569789675%,39.0
+5:Quiet,2.48565965583%,13.0
+6:Serious,0.764818355641%,4.0
+7:Relaxed,0.38240917782%,2.0
+8:Sassy,0.19120458891%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Talonflame
+6:Cresselia
+7:Salamence
+8:Landorus
+9:Ho-Oh
+10:Yveltal
+11:Crobat
+12:Rayquaza
+13:Thundurus
+14:Dialga
+15:Liepard
+16:Carbink
+17:Klefki
+18:Aegislash
+19:Palkia
+20:Lugia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,56.0209424084%,292.989528796
+2:Giga Drain,20.942408377%,109.528795812
+3:Grass Knot,20.4188481675%,106.790575916
+4:Hidden Power,1.04712041885%,5.47643979058
+5:Leaf Storm,0.523560209424%,2.73821989529
+6:Seed Bomb,0.523560209424%,2.73821989529
+7:Earthquake,0.523560209424%,2.73821989529
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,9.65909090909%,50.5170454545
+2:Precipice Blades,8.52272727273%,44.5738636364
+3:Dragon Ascent,8.23863636364%,43.0880681818
+4:Eruption,7.67045454545%,40.1164772727
+5:Ice Beam,7.67045454545%,40.1164772727
+6:Dazzling Gleam,7.10227272727%,37.1448863636
+7:Hyper Voice,5.39772727273%,28.2301136364
+8:Water Spout,4.54545454545%,23.7727272727
+9:Brave Bird,3.40909090909%,17.8295454545
+10:Fire Punch,3.40909090909%,17.8295454545
+11:Origin Pulse,2.55681818182%,13.3721590909
+12:Gyro Ball,2.55681818182%,13.3721590909
+13:Return,2.55681818182%,13.3721590909
+14:Moonblast,1.42045454545%,7.42897727273
+15:Psystrike,1.42045454545%,7.42897727273
+16:Spacial Rend,1.42045454545%,7.42897727273
+17:Earthquake,1.42045454545%,7.42897727273
+18:Flamethrower,1.42045454545%,7.42897727273
+19:Draco Meteor,1.13636363636%,5.94318181818
+20:Sludge Bomb,1.13636363636%,5.94318181818
+0:Other,15.9090909091%,83.2045454545
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Liepard
+6:Talonflame
+7:Smeargle
+8:Whimsicott
+9:Togekiss
+10:Rayquaza
+11:Salamence
+12:Crobat
+13:Landorus
+14:Thundurus
+15:Cresselia
+16:Palkia
+17:Rotom
+18:Gengar
+19:Greninja
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Ferrothorn
+9:Landorus
+10:Palkia
+11:Rayquaza
+12:Mewtwo
+13:Gengar
+14:Yveltal
+15:Thundurus
+16:Cresselia
+17:Dialga
+18:Mawile
+19:Kyurem
+20:Tornadus

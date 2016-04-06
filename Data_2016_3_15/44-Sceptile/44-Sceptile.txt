@@ -1,0 +1,52 @@
+44:Sceptile|4
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,4.0
+2:Dragon Pulse,100.0%,4.0
+3:Grass Knot,75.0%,3.0
+4:Protect,75.0%,3.0
+5:Leaf Storm,25.0%,1.0
+6:Detect,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Sceptilite,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Crobat
+6:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Pulse,60.0%,2.4
+2:Grass Knot,20.0%,0.8
+3:Leaf Storm,20.0%,0.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,66.6666666667%,2.66666666667
+2:Hidden Power,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Thundurus

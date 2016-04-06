@@ -1,0 +1,42 @@
+170:Eelektross|1
+ ---------- 
+Moves used:
+1:Acid Spray,100.0%,1.0
+2:Gastro Acid,100.0%,1.0
+3:Super Fang,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Whimsicott
+4:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,50.0%,0.5
+2:Feint,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Scizor

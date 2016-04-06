@@ -1,0 +1,101 @@
+152:Gourgeist|67
+ ---------- 
+Moves used:
+1:Trick-or-Treat,100.0%,67.0
+2:Destiny Bond,100.0%,67.0
+3:Trick,97.0149253731%,65.0
+4:Seed Bomb,80.5970149254%,54.0
+5:Will-O-Wisp,19.4029850746%,13.0
+6:Shadow Sneak,2.98507462687%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,67.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,80.5970149254%,54.0
+2:Frisk,19.4029850746%,13.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,67.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Giratina
+3:Sableye
+4:Yveltal
+5:Meowstic
+6:Groudon
+7:Chandelure
+8:Aegislash
+9:Mawile
+10:Crobat
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,53.125%,35.59375
+2:Seed Bomb,46.875%,31.40625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,22.0338983051%,14.7627118644
+2:Dazzling Gleam,11.8644067797%,7.94915254237
+3:Hyper Voice,11.8644067797%,7.94915254237
+4:Ice Beam,8.47457627119%,5.67796610169
+5:Dragon Ascent,3.38983050847%,2.27118644068
+6:Oblivion Wing,3.38983050847%,2.27118644068
+7:Moonblast,3.38983050847%,2.27118644068
+8:Spacial Rend,3.38983050847%,2.27118644068
+9:Water Spout,3.38983050847%,2.27118644068
+10:Overheat,3.38983050847%,2.27118644068
+11:Flamethrower,3.38983050847%,2.27118644068
+12:Origin Pulse,1.69491525424%,1.13559322034
+13:Icicle Crash,1.69491525424%,1.13559322034
+14:Snarl,1.69491525424%,1.13559322034
+15:Foul Play,1.69491525424%,1.13559322034
+16:Brave Bird,1.69491525424%,1.13559322034
+17:Air Slash,1.69491525424%,1.13559322034
+18:Dark Pulse,1.69491525424%,1.13559322034
+19:Knock Off,1.69491525424%,1.13559322034
+20:Heat Wave,1.69491525424%,1.13559322034
+0:Other,6.77966101695%,4.54237288136
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Smeargle
+4:Kyogre
+5:Yveltal
+6:Weavile
+7:Xerneas
+8:Hydreigon
+9:Scrafty
+10:Swoobat
+11:Liepard
+12:Rayquaza
+13:Crobat
+14:Kangaskhan
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Yveltal
+6:Palkia
+7:Rayquaza
+8:Ho-Oh
+9:Hydreigon
+10:Liepard
+11:Togekiss
+12:Weavile
+13:Rayquaza
+14:Gengar
+15:Charizard

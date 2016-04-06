@@ -1,0 +1,41 @@
+193:Slowbro|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Calm Mind,100.0%,1.0
+4:Slack Off,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Swampert
+4:Kangaskhan
+5:Persian
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame

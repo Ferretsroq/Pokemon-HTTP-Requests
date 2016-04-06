@@ -1,0 +1,103 @@
+104:Houndoom|38
+ ---------- 
+Moves used:
+1:Protect,100.0%,38.0
+2:Dark Pulse,94.7368421053%,36.0
+3:Heat Wave,86.8421052632%,33.0
+4:Overheat,52.6315789474%,20.0
+5:Role Play,21.0526315789%,8.0
+6:Destiny Bond,10.5263157895%,4.0
+7:Solar Beam,10.5263157895%,4.0
+8:Fire Blast,7.89473684211%,3.0
+9:Snatch,5.26315789474%,2.0
+10:Thief,5.26315789474%,2.0
+11:Snarl,2.63157894737%,1.0
+12:Hidden Power,2.63157894737%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,94.7368421053%,36.0
+2:Focus Sash,5.26315789474%,2.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,94.7368421053%,36.0
+2:Unnerve,5.26315789474%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,94.7368421053%,36.0
+2:Jolly,5.26315789474%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Zekrom
+3:Ferrothorn
+4:Mewtwo
+5:Yveltal
+6:Landorus
+7:Purugly
+8:Crobat
+9:Golduck
+10:Whimsicott
+11:Liepard
+12:Smeargle
+13:Xerneas
+14:Weavile
+15:Lucario
+16:Espeon
+17:Cresselia
+18:Dialga
+19:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,38.0952380952%,14.4761904762
+2:Dark Pulse,33.3333333333%,12.6666666667
+3:Overheat,23.8095238095%,9.04761904762
+4:Destiny Bond,4.7619047619%,1.80952380952
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.9259259259%,9.85185185185
+2:Dazzling Gleam,18.5185185185%,7.03703703704
+3:Dragon Ascent,7.40740740741%,2.81481481481
+4:Earth Power,7.40740740741%,2.81481481481
+5:Origin Pulse,3.7037037037%,1.40740740741
+6:Oblivion Wing,3.7037037037%,1.40740740741
+7:Moonblast,3.7037037037%,1.40740740741
+8:Scald,3.7037037037%,1.40740740741
+9:Hyper Voice,3.7037037037%,1.40740740741
+10:Eruption,3.7037037037%,1.40740740741
+11:Thunderbolt,3.7037037037%,1.40740740741
+12:Double-Edge,3.7037037037%,1.40740740741
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Yveltal
+3:Talonflame
+4:Dialga
+5:Groudon
+6:Kangaskhan
+7:Cresselia
+8:Rayquaza
+9:Kyogre
+10:Salamence
+11:Gengar
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Yveltal
+4:Kyurem
+5:Thundurus
+6:Rayquaza
+7:Rayquaza
+8:Kyogre
+9:Kyogre
+10:Salamence
+11:Kangaskhan

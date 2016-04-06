@@ -1,0 +1,51 @@
+318:Spritzee|3
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,3.0
+2:Skill Swap,66.6666666667%,2.0
+3:Helping Hand,66.6666666667%,2.0
+4:Protect,66.6666666667%,2.0
+5:Draining Kiss,33.3333333333%,1.0
+6:Calm Mind,33.3333333333%,1.0
+7:Disable,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Aroma Veil,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Sassy,66.6666666667%,2.0
+2:Quiet,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Ferrothorn
+4:Liepard
+5:Lickilicky
+6:Victreebel
+7:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,33.3333333333%,1.0
+2:Overheat,33.3333333333%,1.0
+3:Hyper Voice,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Salamence

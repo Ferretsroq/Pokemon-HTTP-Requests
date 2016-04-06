@@ -1,0 +1,77 @@
+219:Lumineon|17
+ ---------- 
+Moves used:
+1:Soak,100.0%,17.0
+2:Tailwind,100.0%,17.0
+3:Protect,88.2352941176%,15.0
+4:Icy Wind,47.0588235294%,8.0
+5:Ice Beam,41.1764705882%,7.0
+6:Scald,5.88235294118%,1.0
+7:Safeguard,5.88235294118%,1.0
+8:Swagger,5.88235294118%,1.0
+9:Charm,5.88235294118%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,52.9411764706%,9.0
+2:Focus Sash,47.0588235294%,8.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Timid,52.9411764706%,9.0
+2:Calm,47.0588235294%,8.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Smeargle
+3:Kangaskhan
+4:Xerneas
+5:Groudon
+6:Togekiss
+7:Kyogre
+8:Talonflame
+9:Ferrothorn
+10:Serperior
+11:Rayquaza
+12:Shedinja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,100.0%,17.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,18.75%,3.1875
+2:Precipice Blades,12.5%,2.125
+3:Dazzling Gleam,12.5%,2.125
+4:Play Rough,6.25%,1.0625
+5:Snarl,6.25%,1.0625
+6:Volt Switch,6.25%,1.0625
+7:Power Whip,6.25%,1.0625
+8:Hyper Voice,6.25%,1.0625
+9:Eruption,6.25%,1.0625
+10:Focus Punch,6.25%,1.0625
+11:Rock Slide,6.25%,1.0625
+12:Thunderbolt,6.25%,1.0625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Thundurus
+5:Terrakion
+6:Ferrothorn
+7:Salamence
+8:Manectric
+9:Mawile
+10:Umbreon
