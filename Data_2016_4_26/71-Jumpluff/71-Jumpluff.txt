@@ -1,0 +1,116 @@
+71:Jumpluff|486
+ ---------- 
+Moves used:
+1:Sleep Powder,99.5884773663%,484.0
+2:Rage Powder,80.4526748971%,391.0
+3:Protect,79.012345679%,384.0
+4:Encore,78.3950617284%,381.0
+5:Worry Seed,26.9547325103%,131.0
+6:Helping Hand,21.8106995885%,106.0
+7:Grass Knot,8.43621399177%,41.0
+8:Cotton Spore,3.29218106996%,16.0
+9:Seed Bomb,1.64609053498%,8.0
+10:Reflect,0.411522633745%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,68.7242798354%,334.0
+2:Mental Herb,13.9917695473%,68.0
+3:Wide Lens,10.0823045267%,49.0
+4:Rocky Helmet,5.34979423868%,26.0
+5:Coba Berry,1.85185185185%,9.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,96.0905349794%,467.0
+2:Infiltrator,2.67489711934%,13.0
+3:Leaf Guard,1.23456790123%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,89.5061728395%,435.0
+2:Bold,5.34979423868%,26.0
+3:Jolly,4.11522633745%,20.0
+4:Calm,1.02880658436%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Salamence
+5:Kyurem
+6:Dialga
+7:Kyogre
+8:Mawile
+9:Talonflame
+10:Cresselia
+11:Palkia
+12:Rayquaza
+13:Mienshao
+14:Ferrothorn
+15:Sableye
+16:Yveltal
+17:Gengar
+18:Togekiss
+19:Crobat
+20:Reshiram
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,75.0%,364.5
+2:Struggle,25.0%,121.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,10.7033639144%,52.0183486239
+2:Dazzling Gleam,10.3975535168%,50.5321100917
+3:Ice Beam,9.78593272171%,47.5596330275
+4:Hyper Voice,9.17431192661%,44.5871559633
+5:Brave Bird,5.81039755352%,28.2385321101
+6:Eruption,4.28134556575%,20.8073394495
+7:Extreme Speed,3.9755351682%,19.3211009174
+8:Rock Slide,3.9755351682%,19.3211009174
+9:Water Spout,2.75229357798%,13.376146789
+10:Moonblast,2.44648318043%,11.8899082569
+11:Return,2.44648318043%,11.8899082569
+12:Sludge Bomb,2.44648318043%,11.8899082569
+13:Fire Punch,2.44648318043%,11.8899082569
+14:Dragon Ascent,2.14067278287%,10.4036697248
+15:Origin Pulse,1.52905198777%,7.43119266055
+16:Hidden Power,1.52905198777%,7.43119266055
+17:Blizzard,1.52905198777%,7.43119266055
+18:Precipice Blades,1.22324159021%,5.94495412844
+19:Snarl,1.22324159021%,5.94495412844
+20:Iron Head,1.22324159021%,5.94495412844
+0:Other,17.125382263%,83.2293577982
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Groudon
+3:Kyogre
+4:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Kyogre
+4:Groudon
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Cresselia
+9:Yveltal
+10:Gengar
+11:Rayquaza
+12:Kyurem
+13:Landorus
+14:Mawile
+15:Dialga
+16:Zapdos
+17:Ferrothorn
+18:Palkia
+19:Weavile
+20:Lugia

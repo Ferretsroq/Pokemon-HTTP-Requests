@@ -1,0 +1,146 @@
+92:Giratina|134
+ ---------- 
+Moves used:
+1:Protect,70.8955223881%,95.0
+2:Shadow Force,52.9850746269%,71.0
+3:Dragon Pulse,44.776119403%,60.0
+4:Substitute,44.0298507463%,59.0
+5:Will-O-Wisp,42.5373134328%,57.0
+6:Calm Mind,40.2985074627%,54.0
+7:Shadow Ball,39.552238806%,53.0
+8:Shadow Sneak,27.6119402985%,37.0
+9:Dragon Claw,13.4328358209%,18.0
+10:Tailwind,7.46268656716%,10.0
+11:Draco Meteor,4.4776119403%,6.0
+12:Earth Power,3.73134328358%,5.0
+13:Hex,2.23880597015%,3.0
+14:Iron Head,1.49253731343%,2.0
+15:Pain Split,1.49253731343%,2.0
+16:Dragon Tail,0.746268656716%,1.0
+17:Rest,0.746268656716%,1.0
+18:Toxic,0.746268656716%,1.0
+19:Roar,0.746268656716%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,78.3582089552%,105.0
+2:Weakness Policy,17.1641791045%,23.0
+3:Lum Berry,2.23880597015%,3.0
+4:Power Herb,1.49253731343%,2.0
+5:Chesto Berry,0.746268656716%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,98.5074626866%,132.0
+2:Telepathy,1.49253731343%,2.0
+
+ ---------- 
+Natures used:
+1:Bold,43.2835820896%,58.0
+2:Careful,31.3432835821%,42.0
+3:Adamant,17.9104477612%,24.0
+4:Modest,3.73134328358%,5.0
+5:Jolly,1.49253731343%,2.0
+6:Brave,1.49253731343%,2.0
+7:Impish,0.746268656716%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Dialga
+4:Whimsicott
+5:Talonflame
+6:Mienshao
+7:Gengar
+8:Ferrothorn
+9:Togekiss
+10:Mr. Mime
+11:Salamence
+12:Thundurus
+13:Cresselia
+14:Smeargle
+15:Amoonguss
+16:Mawile
+17:Liepard
+18:Rhyperior
+19:Weavile
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Pulse,45.7446808511%,61.2978723404
+2:Shadow Force,24.4680851064%,32.7872340426
+3:Shadow Sneak,11.7021276596%,15.6808510638
+4:Shadow Ball,9.57446808511%,12.829787234
+5:Dragon Claw,5.31914893617%,7.12765957447
+6:Earth Power,3.1914893617%,4.27659574468
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,15.625%,20.9375
+2:Precipice Blades,7.8125%,10.46875
+3:Dragon Pulse,7.8125%,10.46875
+4:Moonblast,6.25%,8.375
+5:Water Spout,6.25%,8.375
+6:Dragon Ascent,4.6875%,6.28125
+7:Foul Play,4.6875%,6.28125
+8:Dazzling Gleam,3.125%,4.1875
+9:Play Rough,3.125%,4.1875
+10:Scald,3.125%,4.1875
+11:Earth Power,3.125%,4.1875
+12:Brave Bird,3.125%,4.1875
+13:Sucker Punch,3.125%,4.1875
+14:Eruption,3.125%,4.1875
+15:Fire Punch,3.125%,4.1875
+16:Icicle Crash,1.5625%,2.09375
+17:Roar of Time,1.5625%,2.09375
+18:Draco Meteor,1.5625%,2.09375
+19:Bullet Punch,1.5625%,2.09375
+20:Dark Pulse,1.5625%,2.09375
+0:Other,12.5%,16.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Salamence
+3:Groudon
+4:Rayquaza
+5:Gengar
+6:Talonflame
+7:Crobat
+8:Kangaskhan
+9:Smeargle
+10:Xerneas
+11:Kyurem
+12:Ferrothorn
+13:Amoonguss
+14:Whimsicott
+15:Cresselia
+16:Rayquaza
+17:Mawile
+18:Yveltal
+19:Klefki
+20:Sylveon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Dialga
+5:Rayquaza
+6:Yveltal
+7:Talonflame
+8:Kyurem
+9:Landorus
+10:Weavile
+11:Salamence
+12:Mawile
+13:Kangaskhan
+14:Klefki
+15:Thundurus
+16:Hydreigon
+17:Kyogre
+18:Scizor
+19:Gengar

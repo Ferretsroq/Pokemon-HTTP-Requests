@@ -1,0 +1,39 @@
+285:Escavalier|1
+ ---------- 
+Moves used:
+1:Drill Run,100.0%,1.0
+2:Iron Head,100.0%,1.0
+3:Knock Off,100.0%,1.0
+4:Megahorn,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Overcoat,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Palkia
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+
+ ---------- 
+Pokemon that KO this pokemon:

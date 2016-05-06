@@ -1,0 +1,143 @@
+90:Venusaur|189
+ ---------- 
+Moves used:
+1:Sludge Bomb,98.9417989418%,187.0
+2:Protect,88.3597883598%,167.0
+3:Sleep Powder,86.2433862434%,163.0
+4:Giga Drain,60.8465608466%,115.0
+5:Grass Knot,37.5661375661%,71.0
+6:Synthesis,6.34920634921%,12.0
+7:Leech Seed,6.34920634921%,12.0
+8:Hidden Power,3.1746031746%,6.0
+9:Sleep Talk,3.1746031746%,6.0
+10:Grassy Terrain,2.6455026455%,5.0
+11:Growth,2.1164021164%,4.0
+12:Grass Pledge,1.0582010582%,2.0
+13:Light Screen,1.0582010582%,2.0
+14:Leaf Storm,0.529100529101%,1.0
+15:Worry Seed,0.529100529101%,1.0
+16:Substitute,0.529100529101%,1.0
+17:Solar Beam,0.529100529101%,1.0
+
+ ---------- 
+Items used:
+1:Venusaurite,64.5502645503%,122.0
+2:Focus Sash,19.5767195767%,37.0
+3:Wide Lens,6.87830687831%,13.0
+4:Life Orb,4.2328042328%,8.0
+5:Black Sludge,1.5873015873%,3.0
+6:Lum Berry,1.5873015873%,3.0
+7:Sitrus Berry,1.0582010582%,2.0
+8:Coba Berry,0.529100529101%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,99.4708994709%,188.0
+2:Overgrow,0.529100529101%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,59.7883597884%,113.0
+2:Calm,11.1111111111%,21.0
+3:Bold,10.0529100529%,19.0
+4:Quiet,8.46560846561%,16.0
+5:Timid,7.93650793651%,15.0
+6:Relaxed,1.5873015873%,3.0
+7:Serious,1.0582010582%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Thundurus
+6:Dialga
+7:Yveltal
+8:Talonflame
+9:Kyurem
+10:Lugia
+11:Crobat
+12:Sableye
+13:Cresselia
+14:Kangaskhan
+15:Raichu
+16:Weavile
+17:Cobalion
+18:Liepard
+19:Mawile
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,39.2857142857%,74.25
+2:Grass Knot,32.1428571429%,60.75
+3:Giga Drain,26.7857142857%,50.625
+4:Solar Beam,1.78571428571%,3.375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,9.5652173913%,18.0782608696
+2:Dragon Ascent,8.69565217391%,16.4347826087
+3:Hyper Voice,7.82608695652%,14.7913043478
+4:Precipice Blades,6.95652173913%,13.147826087
+5:Eruption,6.95652173913%,13.147826087
+6:Moonblast,5.21739130435%,9.86086956522
+7:Water Spout,5.21739130435%,9.86086956522
+8:Double-Edge,5.21739130435%,9.86086956522
+9:Fire Punch,5.21739130435%,9.86086956522
+10:Dazzling Gleam,4.34782608696%,8.21739130435
+11:Iron Head,3.47826086957%,6.57391304348
+12:Sucker Punch,3.47826086957%,6.57391304348
+13:Flamethrower,3.47826086957%,6.57391304348
+14:Extreme Speed,2.60869565217%,4.93043478261
+15:Return,2.60869565217%,4.93043478261
+16:Brave Bird,1.73913043478%,3.28695652174
+17:Flare Blitz,1.73913043478%,3.28695652174
+18:Earthquake,1.73913043478%,3.28695652174
+19:Origin Pulse,0.869565217391%,1.64347826087
+20:Oblivion Wing,0.869565217391%,1.64347826087
+0:Other,11.3043478261%,21.3652173913
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Smeargle
+6:Kyogre
+7:Thundurus
+8:Amoonguss
+9:Whimsicott
+10:Cresselia
+11:Palkia
+12:Rayquaza
+13:Mawile
+14:Suicune
+15:Hitmontop
+16:Golduck
+17:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Mawile
+8:Talonflame
+9:Rayquaza
+10:Yveltal
+11:Landorus
+12:Greninja
+13:Ferrothorn
+14:Cresselia
+15:Heatran
+16:Palkia
+17:Dialga
+18:Togekiss
+19:Weavile
+20:Metagross

@@ -1,0 +1,97 @@
+139:Cherrim|59
+ ---------- 
+Moves used:
+1:Protect,83.0508474576%,49.0
+2:Helping Hand,77.9661016949%,46.0
+3:Heal Pulse,72.8813559322%,43.0
+4:Grass Knot,72.8813559322%,43.0
+5:Grass Whistle,38.9830508475%,23.0
+6:Healing Wish,15.2542372881%,9.0
+7:Aromatherapy,15.2542372881%,9.0
+8:Worry Seed,11.8644067797%,7.0
+9:Seed Bomb,8.47457627119%,5.0
+10:Leech Seed,3.38983050847%,2.0
+
+ ---------- 
+Items used:
+1:Leftovers,32.2033898305%,19.0
+2:Occa Berry,22.0338983051%,13.0
+3:Power Lens,16.9491525424%,10.0
+4:Focus Sash,16.9491525424%,10.0
+5:Coba Berry,6.77966101695%,4.0
+6:Custap Berry,3.38983050847%,2.0
+7:Bright Powder,1.69491525424%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,59.0
+
+ ---------- 
+Natures used:
+1:Sassy,57.6271186441%,34.0
+2:Quiet,16.9491525424%,10.0
+3:Jolly,15.2542372881%,9.0
+4:Timid,8.47457627119%,5.0
+5:Impish,1.69491525424%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Dialga
+3:Mienshao
+4:Cresselia
+5:Xerneas
+6:Smeargle
+7:Kangaskhan
+8:Yveltal
+9:Talonflame
+10:Mawile
+11:Salamence
+12:Vivillon
+13:Kyurem
+14:Zekrom
+15:Thundurus
+16:Togekiss
+17:Gastrodon
+18:Floatzel
+19:Rayquaza
+20:Alakazam
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,59.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,21.875%,12.90625
+2:Fire Punch,15.625%,9.21875
+3:Eruption,12.5%,7.375
+4:Double-Edge,9.375%,5.53125
+5:Origin Pulse,6.25%,3.6875
+6:Dazzling Gleam,6.25%,3.6875
+7:Brave Bird,6.25%,3.6875
+8:Moonblast,3.125%,1.84375
+9:Icicle Crash,3.125%,1.84375
+10:Bug Bite,3.125%,1.84375
+11:Iron Head,3.125%,1.84375
+12:Water Spout,3.125%,1.84375
+13:Hyper Voice,3.125%,1.84375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Kyogre
+4:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Salamence
+6:Kangaskhan
+7:Weavile
+8:Mawile
+9:Scizor

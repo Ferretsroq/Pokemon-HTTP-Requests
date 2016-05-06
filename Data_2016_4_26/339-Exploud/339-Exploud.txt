@@ -1,0 +1,39 @@
+339:Exploud|1
+ ---------- 
+Moves used:
+1:Boomburst,100.0%,1.0
+2:Focus Blast,100.0%,1.0
+3:Fire Blast,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Scrappy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mime Jr.
+2:Bronzong
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

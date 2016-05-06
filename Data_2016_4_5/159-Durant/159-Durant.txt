@@ -1,0 +1,74 @@
+159:Durant|1
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,1.0
+2:X-Scissor,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Hustle,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Greninja
+4:Talonflame
+5:Salamence
+6:Terrakion
+7:Uxie
+8:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,42.8571428571%,0.428571428571
+2:X-Scissor,35.7142857143%,0.357142857143
+3:Iron Head,21.4285714286%,0.214285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.3333333333%,0.133333333333
+2:Water Spout,13.3333333333%,0.133333333333
+3:Shadow Ball,13.3333333333%,0.133333333333
+4:Moonblast,6.66666666667%,0.0666666666667
+5:Fusion Flare,6.66666666667%,0.0666666666667
+6:Overheat,6.66666666667%,0.0666666666667
+7:Hyper Voice,6.66666666667%,0.0666666666667
+8:Rock Slide,6.66666666667%,0.0666666666667
+9:Waterfall,6.66666666667%,0.0666666666667
+10:Thunder,6.66666666667%,0.0666666666667
+11:Fire Punch,6.66666666667%,0.0666666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Xerneas
+5:Thundurus
+6:Hydreigon
+7:Weavile
+8:Sableye
+9:Crobat
+10:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Aegislash
+4:Xerneas
+5:Kyurem
+6:Rayquaza
+7:Salamence
+8:Manectric

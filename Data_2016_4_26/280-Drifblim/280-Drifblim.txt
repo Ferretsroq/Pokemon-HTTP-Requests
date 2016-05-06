@@ -1,0 +1,46 @@
+280:Drifblim|1
+ ---------- 
+Moves used:
+1:Will-O-Wisp,100.0%,1.0
+2:Stockpile,100.0%,1.0
+3:Baton Pass,100.0%,1.0
+4:Minimize,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kangaskhan
+3:Staraptor
+4:Rayquaza
+5:Kingdra
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,0.25
+2:Water Spout,25.0%,0.25
+3:Rock Slide,25.0%,0.25
+4:Thunder,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Landorus

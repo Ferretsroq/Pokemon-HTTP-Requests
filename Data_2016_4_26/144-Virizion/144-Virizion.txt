@@ -1,0 +1,129 @@
+144:Virizion|80
+ ---------- 
+Moves used:
+1:Leaf Blade,92.5%,74.0
+2:Protect,88.75%,71.0
+3:Close Combat,78.75%,63.0
+4:Swords Dance,40.0%,32.0
+5:Quick Guard,36.25%,29.0
+6:Stone Edge,17.5%,14.0
+7:Sacred Sword,13.75%,11.0
+8:Taunt,10.0%,8.0
+9:Grass Knot,7.5%,6.0
+10:Focus Blast,7.5%,6.0
+11:Worry Seed,3.75%,3.0
+12:X-Scissor,2.5%,2.0
+13:Hidden Power,1.25%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,43.75%,35.0
+2:Life Orb,40.0%,32.0
+3:Lum Berry,12.5%,10.0
+4:Weakness Policy,1.25%,1.0
+5:Leftovers,1.25%,1.0
+6:King's Rock,1.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,80.0
+
+ ---------- 
+Natures used:
+1:Jolly,87.5%,70.0
+2:Timid,7.5%,6.0
+3:Adamant,2.5%,2.0
+4:Gentle,1.25%,1.0
+5:Lonely,1.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Smeargle
+4:Kangaskhan
+5:Xerneas
+6:Mewtwo
+7:Raichu
+8:Crobat
+9:Landorus
+10:Aegislash
+11:Thundurus
+12:Lickilicky
+13:Suicune
+14:Sableye
+15:Ho-Oh
+16:Ditto
+17:Gengar
+18:Golduck
+19:Yveltal
+20:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,40.0%,32.0
+2:Leaf Blade,34.2857142857%,27.4285714286
+3:Sacred Sword,8.57142857143%,6.85714285714
+4:Grass Knot,8.57142857143%,6.85714285714
+5:Focus Blast,5.71428571429%,4.57142857143
+6:X-Scissor,2.85714285714%,2.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,17.0731707317%,13.6585365854
+2:Hyper Voice,9.75609756098%,7.80487804878
+3:Dragon Ascent,7.31707317073%,5.85365853659
+4:Play Rough,7.31707317073%,5.85365853659
+5:Dazzling Gleam,4.87804878049%,3.90243902439
+6:Extreme Speed,4.87804878049%,3.90243902439
+7:Precipice Blades,2.43902439024%,1.9512195122
+8:Origin Pulse,2.43902439024%,1.9512195122
+9:Icicle Crash,2.43902439024%,1.9512195122
+10:Power Whip,2.43902439024%,1.9512195122
+11:Bullet Punch,2.43902439024%,1.9512195122
+12:Brave Bird,2.43902439024%,1.9512195122
+13:Dragon Pulse,2.43902439024%,1.9512195122
+14:Flare Blitz,2.43902439024%,1.9512195122
+15:Gyro Ball,2.43902439024%,1.9512195122
+16:Water Spout,2.43902439024%,1.9512195122
+17:Rock Tomb,2.43902439024%,1.9512195122
+18:Eruption,2.43902439024%,1.9512195122
+19:Knock Off,2.43902439024%,1.9512195122
+20:Fake Out,2.43902439024%,1.9512195122
+0:Other,9.75609756098%,7.80487804878
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Ferrothorn
+3:Mawile
+4:Kangaskhan
+5:Talonflame
+6:Dialga
+7:Groudon
+8:Yveltal
+9:Thundurus
+10:Cresselia
+11:Palkia
+12:Bronzong
+13:Rayquaza
+14:Rayquaza
+15:Smeargle
+16:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Salamence
+5:Mawile
+6:Kangaskhan
+7:Xerneas
+8:Talonflame
+9:Ferrothorn
+10:Yveltal
+11:Kyurem
+12:Weavile
+13:Rayquaza
+14:Scizor

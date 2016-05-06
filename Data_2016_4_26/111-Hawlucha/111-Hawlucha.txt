@@ -1,0 +1,111 @@
+111:Hawlucha|141
+ ---------- 
+Moves used:
+1:Quick Guard,98.5815602837%,139.0
+2:Encore,95.0354609929%,134.0
+3:Tailwind,83.6879432624%,118.0
+4:Fling,74.4680851064%,105.0
+5:Endeavor,15.6028368794%,22.0
+6:Rock Slide,14.8936170213%,21.0
+7:Entrainment,9.92907801418%,14.0
+8:Helping Hand,2.83687943262%,4.0
+9:Ally Switch,2.12765957447%,3.0
+10:High Jump Kick,1.41843971631%,2.0
+11:Sky Drop,0.709219858156%,1.0
+12:Protect,0.709219858156%,1.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,73.7588652482%,104.0
+2:Coba Berry,14.8936170213%,21.0
+3:Focus Sash,10.6382978723%,15.0
+4:King's Rock,0.709219858156%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,84.3971631206%,119.0
+2:Limber,15.6028368794%,22.0
+
+ ---------- 
+Natures used:
+1:Timid,67.3758865248%,95.0
+2:Jolly,32.6241134752%,46.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Yveltal
+6:Manectric
+7:Groudon
+8:Blastoise
+9:Togekiss
+10:Gengar
+11:Zekrom
+12:Crobat
+13:Cresselia
+14:Landorus
+15:Dragonite
+16:Aegislash
+17:Swoobat
+18:Giratina
+19:Lickilicky
+20:Aron
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,141.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.0434782609%,18.3913043478
+2:Hyper Voice,9.78260869565%,13.7934782609
+3:Double-Edge,7.60869565217%,10.7282608696
+4:Water Spout,6.52173913043%,9.19565217391
+5:Oblivion Wing,5.4347826087%,7.66304347826
+6:Precipice Blades,4.34782608696%,6.13043478261
+7:Extreme Speed,4.34782608696%,6.13043478261
+8:Ice Beam,4.34782608696%,6.13043478261
+9:Origin Pulse,3.26086956522%,4.59782608696
+10:Rock Slide,3.26086956522%,4.59782608696
+11:Thunderbolt,3.26086956522%,4.59782608696
+12:Fire Punch,3.26086956522%,4.59782608696
+13:Icicle Crash,2.17391304348%,3.0652173913
+14:Brave Bird,2.17391304348%,3.0652173913
+15:Dragon Pulse,2.17391304348%,3.0652173913
+16:Eruption,2.17391304348%,3.0652173913
+17:Return,2.17391304348%,3.0652173913
+18:Thunder,2.17391304348%,3.0652173913
+19:Moonblast,1.08695652174%,1.53260869565
+20:Play Rough,1.08695652174%,1.53260869565
+0:Other,14.1304347826%,19.9239130435
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Landorus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Yveltal
+7:Rayquaza
+8:Thundurus
+9:Cresselia
+10:Talonflame
+11:Liepard
+12:Dialga
+13:Weavile
+14:Heliolisk
+15:Meowstic
+16:Kyurem
+17:Landorus
+18:Whimsicott
+19:Manectric
+20:Gardevoir

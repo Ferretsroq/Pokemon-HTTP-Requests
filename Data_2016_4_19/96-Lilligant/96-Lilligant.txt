@@ -1,0 +1,118 @@
+96:Lilligant|160
+ ---------- 
+Moves used:
+1:Grass Knot,90.0%,144.0
+2:Sleep Powder,80.0%,128.0
+3:Teeter Dance,67.5%,108.0
+4:Protect,66.875%,107.0
+5:After You,53.75%,86.0
+6:Helping Hand,10.625%,17.0
+7:Hidden Power,10.0%,16.0
+8:Role Play,9.375%,15.0
+9:Safeguard,9.375%,15.0
+10:Leaf Storm,1.875%,3.0
+11:Secret Power,0.625%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,79.375%,127.0
+2:Lum Berry,6.875%,11.0
+3:Red Card,4.375%,7.0
+4:Wide Lens,3.75%,6.0
+5:Coba Berry,3.75%,6.0
+6:Mental Herb,1.875%,3.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,160.0
+
+ ---------- 
+Natures used:
+1:Timid,83.125%,133.0
+2:Modest,8.75%,14.0
+3:Bold,8.125%,13.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyurem
+3:Kangaskhan
+4:Crobat
+5:Xerneas
+6:Rayquaza
+7:Raichu
+8:Mawile
+9:Palkia
+10:Sableye
+11:Cresselia
+12:Salamence
+13:Meowstic
+14:Landorus
+15:Musharna
+16:Talonflame
+17:Gothorita
+18:Dialga
+19:Kyogre
+20:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,94.7368421053%,151.578947368
+2:Hidden Power,5.26315789474%,8.42105263158
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,12.8440366972%,20.5504587156
+2:Double-Edge,12.8440366972%,20.5504587156
+3:Dazzling Gleam,11.9266055046%,19.0825688073
+4:Hyper Voice,11.9266055046%,19.0825688073
+5:Precipice Blades,4.5871559633%,7.33944954128
+6:Origin Pulse,4.5871559633%,7.33944954128
+7:Sludge Bomb,4.5871559633%,7.33944954128
+8:Brave Bird,3.66972477064%,5.87155963303
+9:Water Spout,2.75229357798%,4.40366972477
+10:Return,2.75229357798%,4.40366972477
+11:Ice Shard,1.83486238532%,2.93577981651
+12:Gyro Ball,1.83486238532%,2.93577981651
+13:Shadow Ball,1.83486238532%,2.93577981651
+14:Extreme Speed,1.83486238532%,2.93577981651
+15:Earthquake,1.83486238532%,2.93577981651
+16:Moonblast,0.917431192661%,1.46788990826
+17:Icicle Crash,0.917431192661%,1.46788990826
+18:Snarl,0.917431192661%,1.46788990826
+19:Wild Charge,0.917431192661%,1.46788990826
+20:Foul Play,0.917431192661%,1.46788990826
+0:Other,12.8440366972%,20.5504587156
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Landorus
+5:Ditto
+6:Liepard
+7:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Groudon
+6:Talonflame
+7:Cresselia
+8:Gengar
+9:Thundurus
+10:Ferrothorn
+11:Weavile
+12:Rayquaza
+13:Mewtwo
+14:Lapras
+15:Yveltal
+16:Aegislash
+17:Landorus
+18:Thundurus
+19:Amoonguss
+20:Gothitelle

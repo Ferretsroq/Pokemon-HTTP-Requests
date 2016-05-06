@@ -1,0 +1,95 @@
+156:Glalie|34
+ ---------- 
+Moves used:
+1:Protect,100.0%,34.0
+2:Explosion,100.0%,34.0
+3:Ice Shard,64.7058823529%,22.0
+4:Return,38.2352941176%,13.0
+5:Freeze-Dry,20.5882352941%,7.0
+6:Substitute,20.5882352941%,7.0
+7:Giga Impact,17.6470588235%,6.0
+8:Sleep Talk,11.7647058824%,4.0
+9:Super Fang,11.7647058824%,4.0
+10:Earthquake,5.88235294118%,2.0
+11:Disable,5.88235294118%,2.0
+12:Icy Wind,2.94117647059%,1.0
+
+ ---------- 
+Items used:
+1:Glalitite,100.0%,34.0
+
+ ---------- 
+Abilities used:
+1:Moody,52.9411764706%,18.0
+2:Inner Focus,41.1764705882%,14.0
+3:Ice Body,5.88235294118%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,73.5294117647%,25.0
+2:Brave,26.4705882353%,9.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Cresselia
+4:Groudon
+5:Crobat
+6:Mienshao
+7:Cofagrigus
+8:Giratina
+9:Gengar
+10:Xerneas
+11:Liepard
+12:Trevenant
+13:Kyurem
+14:Landorus
+15:Ferrothorn
+16:Sableye
+17:Smeargle
+18:Talonflame
+19:Infernape
+20:Flygon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,90.9090909091%,30.9090909091
+2:Ice Shard,4.54545454545%,1.54545454545
+3:Return,4.54545454545%,1.54545454545
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,6.25%,2.125
+2:Low Kick,6.25%,2.125
+3:Dazzling Gleam,3.125%,1.0625
+4:Iron Head,3.125%,1.0625
+5:Brave Bird,3.125%,1.0625
+6:Gyro Ball,3.125%,1.0625
+7:Rock Slide,3.125%,1.0625
+8:Thunderbolt,3.125%,1.0625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Xerneas
+4:Meowstic
+5:Thundurus
+6:Amoonguss
+7:Liepard
+8:Rayquaza
+9:Smeargle
+10:Crobat
+11:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Thundurus
+6:Archeops
+7:Bronzong
+8:Mawile

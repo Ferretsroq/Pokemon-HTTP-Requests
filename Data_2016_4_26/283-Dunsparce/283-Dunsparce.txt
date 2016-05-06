@@ -1,0 +1,55 @@
+283:Dunsparce|6
+ ---------- 
+Moves used:
+1:Rock Slide,100.0%,6.0
+2:Coil,50.0%,3.0
+3:Roost,50.0%,3.0
+4:Endeavor,50.0%,3.0
+5:Protect,50.0%,3.0
+6:Glare,50.0%,3.0
+7:Pain Split,33.3333333333%,2.0
+8:Flail,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,50.0%,3.0
+2:Red Card,33.3333333333%,2.0
+3:Focus Sash,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Sassy,50.0%,3.0
+2:Adamant,50.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Bronzong
+2:Groudon
+3:Zygarde
+4:Xerneas
+5:Thundurus
+6:Kyogre
+7:Smeargle
+8:Aegislash
+9:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,6.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

@@ -1,0 +1,48 @@
+264:Meowstic-F|3
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,3.0
+2:Psychic,100.0%,3.0
+3:Trick,66.6666666667%,2.0
+4:Thunder Wave,66.6666666667%,2.0
+5:Role Play,33.3333333333%,1.0
+6:Thunderbolt,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Chesto Berry,66.6666666667%,2.0
+2:Expert Belt,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Rayquaza
+3:Yveltal
+4:Xerneas
+5:Groudon
+6:Ludicolo
+7:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,50.0%,1.5
+2:Waterfall,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza

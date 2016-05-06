@@ -1,0 +1,138 @@
+142:Zoroark|81
+ ---------- 
+Moves used:
+1:Taunt,82.7160493827%,67.0
+2:Night Daze,62.962962963%,51.0
+3:Protect,62.962962963%,51.0
+4:Fling,46.9135802469%,38.0
+5:Nasty Plot,25.9259259259%,21.0
+6:Dark Pulse,25.9259259259%,21.0
+7:Flamethrower,22.2222222222%,18.0
+8:Swagger,19.7530864198%,16.0
+9:Foul Play,11.1111111111%,9.0
+10:Grass Knot,8.64197530864%,7.0
+11:Hidden Power,7.40740740741%,6.0
+12:U-turn,6.17283950617%,5.0
+13:Sludge Bomb,6.17283950617%,5.0
+14:Focus Blast,3.7037037037%,3.0
+15:Trick,2.46913580247%,2.0
+16:Sucker Punch,1.23456790123%,1.0
+17:Substitute,1.23456790123%,1.0
+18:Low Kick,1.23456790123%,1.0
+19:Swords Dance,1.23456790123%,1.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,46.9135802469%,38.0
+2:Black Glasses,23.4567901235%,19.0
+3:Choice Specs,12.3456790123%,10.0
+4:Focus Sash,9.87654320988%,8.0
+5:Life Orb,6.17283950617%,5.0
+6:Focus Band,1.23456790123%,1.0
+
+ ---------- 
+Abilities used:
+1:Illusion,100.0%,81.0
+
+ ---------- 
+Natures used:
+1:Timid,92.5925925926%,75.0
+2:Hasty,6.17283950617%,5.0
+3:Adamant,1.23456790123%,1.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Yveltal
+3:Toxicroak
+4:Zekrom
+5:Kangaskhan
+6:Ferrothorn
+7:Kyogre
+8:Marowak
+9:Rayquaza
+10:Dialga
+11:Groudon
+12:Raichu
+13:Bisharp
+14:Sharpedo
+15:Xerneas
+16:Kyurem
+17:Gothorita
+18:Manectric
+19:Mawile
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Night Daze,48.275862069%,39.1034482759
+2:Dark Pulse,24.1379310345%,19.5517241379
+3:Flamethrower,17.2413793103%,13.9655172414
+4:Foul Play,3.44827586207%,2.79310344828
+5:Focus Blast,3.44827586207%,2.79310344828
+6:Fling,3.44827586207%,2.79310344828
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,28.5714285714%,23.1428571429
+2:Water Spout,7.93650793651%,6.42857142857
+3:Origin Pulse,6.34920634921%,5.14285714286
+4:Double-Edge,6.34920634921%,5.14285714286
+5:Precipice Blades,4.7619047619%,3.85714285714
+6:Hyper Voice,4.7619047619%,3.85714285714
+7:Extreme Speed,4.7619047619%,3.85714285714
+8:Power-Up Punch,3.1746031746%,2.57142857143
+9:Moonblast,3.1746031746%,2.57142857143
+10:Play Rough,3.1746031746%,2.57142857143
+11:Grass Knot,3.1746031746%,2.57142857143
+12:Dragon Pulse,3.1746031746%,2.57142857143
+13:Scald,1.5873015873%,1.28571428571
+14:Brave Bird,1.5873015873%,1.28571428571
+15:Aura Sphere,1.5873015873%,1.28571428571
+16:Force Palm,1.5873015873%,1.28571428571
+17:Sucker Punch,1.5873015873%,1.28571428571
+18:Feint,1.5873015873%,1.28571428571
+19:Eruption,1.5873015873%,1.28571428571
+20:Superpower,1.5873015873%,1.28571428571
+0:Other,6.34920634921%,5.14285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Landorus
+3:Meowstic
+4:Talonflame
+5:Weavile
+6:Smeargle
+7:Crobat
+8:Ferrothorn
+9:Jellicent
+10:Amoonguss
+11:Cresselia
+12:Kyogre
+13:Salamence
+14:Mawile
+15:Ho-Oh
+16:Lugia
+17:Hypno
+18:Arcanine
+19:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Dialga
+6:Salamence
+7:Landorus
+8:Amoonguss
+9:Rayquaza
+10:Mawile
+11:Talonflame
+12:Mienshao
+13:Whimsicott
+14:Rayquaza
+15:Breloom
+16:Raichu

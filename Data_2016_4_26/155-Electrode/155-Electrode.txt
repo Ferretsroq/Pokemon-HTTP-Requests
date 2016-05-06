@@ -1,0 +1,121 @@
+155:Electrode|68
+ ---------- 
+Moves used:
+1:Taunt,94.1176470588%,64.0
+2:Foul Play,58.8235294118%,40.0
+3:Thunderbolt,54.4117647059%,37.0
+4:Swagger,48.5294117647%,33.0
+5:Thunder Wave,48.5294117647%,33.0
+6:Protect,39.7058823529%,27.0
+7:Thunder,29.4117647059%,20.0
+8:Volt Switch,19.1176470588%,13.0
+9:Discharge,5.88235294118%,4.0
+10:Toxic,1.47058823529%,1.0
+
+ ---------- 
+Items used:
+1:Chesto Berry,42.6470588235%,29.0
+2:Life Orb,29.4117647059%,20.0
+3:Lum Berry,16.1764705882%,11.0
+4:Focus Sash,10.2941176471%,7.0
+5:Eject Button,1.47058823529%,1.0
+
+ ---------- 
+Abilities used:
+1:Static,48.5294117647%,33.0
+2:Soundproof,35.2941176471%,24.0
+3:Aftermath,16.1764705882%,11.0
+
+ ---------- 
+Natures used:
+1:Timid,94.1176470588%,64.0
+2:Jolly,5.88235294118%,4.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Groudon
+4:Kyogre
+5:Smeargle
+6:Salamence
+7:Lugia
+8:Excadrill
+9:Ferrothorn
+10:Amoonguss
+11:Talonflame
+12:Sceptile
+13:Cresselia
+14:Togekiss
+15:Kangaskhan
+16:Rhyperior
+17:Weavile
+18:Landorus
+19:Bronzong
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,36.8421052632%,25.0526315789
+2:Thunder,31.5789473684%,21.4736842105
+3:Foul Play,26.3157894737%,17.8947368421
+4:Volt Switch,5.26315789474%,3.57894736842
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.3389830508%,13.8305084746
+2:Dazzling Gleam,13.5593220339%,9.22033898305
+3:Double-Edge,6.77966101695%,4.61016949153
+4:Origin Pulse,5.08474576271%,3.45762711864
+5:Earth Power,5.08474576271%,3.45762711864
+6:Brave Bird,5.08474576271%,3.45762711864
+7:Water Spout,5.08474576271%,3.45762711864
+8:Eruption,5.08474576271%,3.45762711864
+9:Moonblast,3.38983050847%,2.30508474576
+10:Hyper Voice,3.38983050847%,2.30508474576
+11:Earthquake,3.38983050847%,2.30508474576
+12:Power-Up Punch,1.69491525424%,1.15254237288
+13:Play Rough,1.69491525424%,1.15254237288
+14:Psystrike,1.69491525424%,1.15254237288
+15:Scald,1.69491525424%,1.15254237288
+16:Sludge Wave,1.69491525424%,1.15254237288
+17:Bullet Punch,1.69491525424%,1.15254237288
+18:Dragon Pulse,1.69491525424%,1.15254237288
+19:Flare Blitz,1.69491525424%,1.15254237288
+20:Knock Off,1.69491525424%,1.15254237288
+0:Other,5.08474576271%,3.45762711864
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Crobat
+4:Yveltal
+5:Dialga
+6:Weavile
+7:Bronzong
+8:Rayquaza
+9:Groudon
+10:Kyogre
+11:Salamence
+12:Gengar
+13:Arcanine
+14:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Landorus
+7:Dialga
+8:Weavile
+9:Salamence
+10:Mawile
+11:Ludicolo
+12:Smeargle
+13:Scizor
+14:Mewtwo
+15:Gengar

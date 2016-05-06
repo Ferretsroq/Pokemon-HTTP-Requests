@@ -1,0 +1,58 @@
+236:Klinklang|1
+ ---------- 
+Moves used:
+1:Gear Grind,100.0%,1.0
+2:Shift Gear,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Kangaskhan
+4:Salamence
+5:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gear Grind,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,22.2222222222%,0.222222222222
+2:Dragon Ascent,11.1111111111%,0.111111111111
+3:Origin Pulse,11.1111111111%,0.111111111111
+4:Earth Power,11.1111111111%,0.111111111111
+5:Brave Bird,11.1111111111%,0.111111111111
+6:Water Spout,11.1111111111%,0.111111111111
+7:Hyper Voice,11.1111111111%,0.111111111111
+8:Low Kick,11.1111111111%,0.111111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Kyurem
+4:Rayquaza
+5:Kyogre
+6:Kyogre
+7:Salamence
+8:Kangaskhan

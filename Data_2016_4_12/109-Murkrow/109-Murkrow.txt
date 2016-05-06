@@ -1,0 +1,115 @@
+109:Murkrow|94
+ ---------- 
+Moves used:
+1:Protect,68.085106383%,64.0
+2:Perish Song,60.6382978723%,57.0
+3:Taunt,54.2553191489%,51.0
+4:Thunder Wave,48.9361702128%,46.0
+5:Tailwind,29.7872340426%,28.0
+6:Confuse Ray,29.7872340426%,28.0
+7:Quash,21.2765957447%,20.0
+8:Roost,19.1489361702%,18.0
+9:Foul Play,17.0212765957%,16.0
+10:Feather Dance,14.8936170213%,14.0
+11:Swagger,11.7021276596%,11.0
+12:Brave Bird,8.51063829787%,8.0
+13:Sucker Punch,7.44680851064%,7.0
+14:Haze,4.25531914894%,4.0
+15:Night Shade,4.25531914894%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,58.5106382979%,55.0
+2:Eviolite,38.2978723404%,36.0
+3:Mental Herb,3.1914893617%,3.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,94.0
+
+ ---------- 
+Natures used:
+1:Careful,60.6382978723%,57.0
+2:Calm,12.7659574468%,12.0
+3:Impish,9.57446808511%,9.0
+4:Jolly,7.44680851064%,7.0
+5:Adamant,7.44680851064%,7.0
+6:Bold,2.12765957447%,2.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Sableye
+3:Probopass
+4:Xerneas
+5:Kyogre
+6:Gothitelle
+7:Groudon
+8:Raichu
+9:Smeargle
+10:Yveltal
+11:Mawile
+12:Rayquaza
+13:Salamence
+14:Kangaskhan
+15:Thundurus
+16:Weavile
+17:Lucario
+18:Slowking
+19:Cryogonal
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,94.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,7.93650793651%,7.46031746032
+2:Dazzling Gleam,7.93650793651%,7.46031746032
+3:Water Spout,6.34920634921%,5.96825396825
+4:Eruption,6.34920634921%,5.96825396825
+5:Brave Bird,4.7619047619%,4.47619047619
+6:Gyro Ball,4.7619047619%,4.47619047619
+7:Hyper Voice,4.7619047619%,4.47619047619
+8:Rock Slide,4.7619047619%,4.47619047619
+9:Double-Edge,4.7619047619%,4.47619047619
+10:Moonblast,3.1746031746%,2.98412698413
+11:Dragon Pulse,3.1746031746%,2.98412698413
+12:Fake Out,3.1746031746%,2.98412698413
+13:Extreme Speed,3.1746031746%,2.98412698413
+14:Thunderbolt,3.1746031746%,2.98412698413
+15:Fire Punch,3.1746031746%,2.98412698413
+16:Play Rough,1.5873015873%,1.49206349206
+17:Snarl,1.5873015873%,1.49206349206
+18:Bug Bite,1.5873015873%,1.49206349206
+19:Iron Head,1.5873015873%,1.49206349206
+20:Feint,1.5873015873%,1.49206349206
+0:Other,11.1111111111%,10.4444444444
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Whimsicott
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Ferrothorn
+8:Rayquaza
+9:Thundurus
+10:Mawile
+11:Yveltal
+12:Terrakion
+13:Dialga
+14:Weavile
+15:Smeargle
+16:Scizor
+17:Gengar
+18:Raichu

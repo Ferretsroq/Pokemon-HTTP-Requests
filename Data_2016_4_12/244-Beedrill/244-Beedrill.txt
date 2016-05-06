@@ -1,0 +1,54 @@
+244:Beedrill|7
+ ---------- 
+Moves used:
+1:Poison Jab,100.0%,7.0
+2:U-turn,100.0%,7.0
+3:Protect,100.0%,7.0
+4:Drill Run,71.4285714286%,5.0
+5:Knock Off,28.5714285714%,2.0
+
+ ---------- 
+Items used:
+1:Beedrillite,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Sniper,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Crobat
+2:Kyogre
+3:Froslass
+4:Groudon
+5:Electivire
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Poison Jab,80.0%,5.6
+2:U-turn,20.0%,1.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,33.3333333333%,2.33333333333
+2:Brave Bird,16.6666666667%,1.16666666667
+3:Sucker Punch,16.6666666667%,1.16666666667
+4:Earthquake,16.6666666667%,1.16666666667
+5:Fire Punch,16.6666666667%,1.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Landorus
+4:Kangaskhan

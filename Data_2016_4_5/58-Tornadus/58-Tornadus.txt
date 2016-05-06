@@ -1,0 +1,139 @@
+58:Tornadus|288
+ ---------- 
+Moves used:
+1:Tailwind,97.5694444444%,281.0
+2:Taunt,93.4027777778%,269.0
+3:Hurricane,87.8472222222%,253.0
+4:Role Play,75.0%,216.0
+5:Protect,22.5694444444%,65.0
+6:Swagger,6.25%,18.0
+7:Air Slash,5.20833333333%,15.0
+8:Sky Drop,4.86111111111%,14.0
+9:Rain Dance,2.08333333333%,6.0
+10:Hidden Power,2.08333333333%,6.0
+11:Focus Blast,1.04166666667%,3.0
+12:Heat Wave,1.04166666667%,3.0
+13:Icy Wind,0.694444444444%,2.0
+14:Foul Play,0.347222222222%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,79.8611111111%,230.0
+2:Mental Herb,6.59722222222%,19.0
+3:Sitrus Berry,6.25%,18.0
+4:Life Orb,3.125%,9.0
+5:Sky Plate,2.43055555556%,7.0
+6:Red Card,0.694444444444%,2.0
+7:Expert Belt,0.347222222222%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,288.0
+
+ ---------- 
+Natures used:
+1:Timid,87.1527777778%,251.0
+2:Jolly,4.86111111111%,14.0
+3:Calm,3.81944444444%,11.0
+4:Modest,3.125%,9.0
+5:Naive,0.694444444444%,2.0
+6:Rash,0.347222222222%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Kyurem
+5:Mawile
+6:Cresselia
+7:Xerneas
+8:Bronzong
+9:Talonflame
+10:Dialga
+11:Salamence
+12:Rayquaza
+13:Manectric
+14:Greninja
+15:Raichu
+16:Scizor
+17:Aerodactyl
+18:Landorus
+19:Ludicolo
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,93.3333333333%,268.8
+2:Air Slash,4.44444444444%,12.8
+3:Sky Drop,2.22222222222%,6.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.4578313253%,41.6385542169
+2:Double-Edge,9.63855421687%,27.7590361446
+3:Water Spout,6.82730923695%,19.6626506024
+4:Ice Beam,6.82730923695%,19.6626506024
+5:Origin Pulse,6.02409638554%,17.3493975904
+6:Hyper Voice,5.62248995984%,16.1927710843
+7:Extreme Speed,4.41767068273%,12.7228915663
+8:Eruption,4.01606425703%,11.5662650602
+9:Sucker Punch,3.61445783133%,10.4096385542
+10:Brave Bird,3.21285140562%,9.25301204819
+11:Rock Slide,3.21285140562%,9.25301204819
+12:Moonblast,2.81124497992%,8.09638554217
+13:Fire Punch,2.81124497992%,8.09638554217
+14:Snarl,2.40963855422%,6.93975903614
+15:Dragon Pulse,1.60642570281%,4.6265060241
+16:Gyro Ball,1.60642570281%,4.6265060241
+17:Fake Out,1.60642570281%,4.6265060241
+18:Dragon Ascent,1.20481927711%,3.46987951807
+19:Precipice Blades,1.20481927711%,3.46987951807
+20:Knock Off,1.20481927711%,3.46987951807
+0:Other,14.4578313253%,41.6385542169
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Groudon
+4:Xerneas
+5:Amoonguss
+6:Landorus
+7:Ferrothorn
+8:Liepard
+9:Rayquaza
+10:Salamence
+11:Smeargle
+12:Meowstic
+13:Greninja
+14:Mienshao
+15:Lilligant
+16:Togekiss
+17:Toxicroak
+18:Lucario
+19:Garchomp
+20:Gastrodon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Salamence
+6:Yveltal
+7:Rayquaza
+8:Talonflame
+9:Thundurus
+10:Ferrothorn
+11:Cresselia
+12:Dialga
+13:Rayquaza
+14:Gengar
+15:Mawile
+16:Lapras
+17:Gengar
+18:Aegislash
+19:Kyurem
+20:Weavile

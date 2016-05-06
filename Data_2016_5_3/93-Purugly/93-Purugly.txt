@@ -1,0 +1,135 @@
+93:Purugly|253
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,253.0
+2:Hypnosis,96.442687747%,244.0
+3:Super Fang,51.7786561265%,131.0
+4:Return,45.0592885375%,114.0
+5:Snatch,41.5019762846%,105.0
+6:Knock Off,27.2727272727%,69.0
+7:U-turn,25.2964426877%,64.0
+8:Sucker Punch,3.16205533597%,8.0
+9:Play Rough,1.97628458498%,5.0
+10:Last Resort,1.97628458498%,5.0
+11:Fake Tears,1.18577075099%,3.0
+12:Body Slam,1.18577075099%,3.0
+13:Shadow Claw,0.790513833992%,2.0
+14:Charm,0.395256916996%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,98.023715415%,248.0
+2:Silk Scarf,1.58102766798%,4.0
+3:Life Orb,0.395256916996%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,98.814229249%,250.0
+2:Own Tempo,1.18577075099%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,99.604743083%,252.0
+2:Adamant,0.395256916996%,1.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Groudon
+3:Crobat
+4:Golduck
+5:Sceptile
+6:Houndoom
+7:Xerneas
+8:Yveltal
+9:Musharna
+10:Rayquaza
+11:Kyogre
+12:Salamence
+13:Hitmonlee
+14:Nidoking
+15:Meowstic
+16:Landorus
+17:Zekrom
+18:Volcarona
+19:Cresselia
+20:Regigigas
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Return,52.9411764706%,133.941176471
+2:Knock Off,19.6078431373%,49.6078431373
+3:U-turn,13.7254901961%,34.7254901961
+4:Fake Out,5.88235294118%,14.8823529412
+5:Sucker Punch,3.92156862745%,9.92156862745
+6:Last Resort,3.92156862745%,9.92156862745
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.9784946237%,35.3655913978
+2:Precipice Blades,12.9032258065%,32.6451612903
+3:Water Spout,7.52688172043%,19.0430107527
+4:Hyper Voice,6.45161290323%,16.3225806452
+5:Brave Bird,5.37634408602%,13.6021505376
+6:Eruption,5.37634408602%,13.6021505376
+7:Ice Beam,5.37634408602%,13.6021505376
+8:Double-Edge,4.30107526882%,10.8817204301
+9:Low Kick,3.76344086022%,9.52150537634
+10:Extreme Speed,2.68817204301%,6.80107526882
+11:Sludge Bomb,2.68817204301%,6.80107526882
+12:Origin Pulse,2.15053763441%,5.44086021505
+13:Foul Play,2.15053763441%,5.44086021505
+14:Fake Out,2.15053763441%,5.44086021505
+15:Rock Slide,2.15053763441%,5.44086021505
+16:Explosion,1.61290322581%,4.08064516129
+17:Thunderbolt,1.61290322581%,4.08064516129
+18:Power-Up Punch,1.0752688172%,2.72043010753
+19:Moonblast,1.0752688172%,2.72043010753
+20:Snarl,1.0752688172%,2.72043010753
+0:Other,13.4408602151%,34.0053763441
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Talonflame
+3:Groudon
+4:Kangaskhan
+5:Xerneas
+6:Thundurus
+7:Yveltal
+8:Cresselia
+9:Raichu
+10:Meowstic
+11:Greninja
+12:Landorus
+13:Amoonguss
+14:Whimsicott
+15:Rayquaza
+16:Rayquaza
+17:Kyogre
+18:Salamence
+19:Lugia
+20:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Cresselia
+8:Yveltal
+9:Landorus
+10:Gengar
+11:Liepard
+12:Rayquaza
+13:Rayquaza
+14:Thundurus
+15:Mienshao
+16:Dialga
+17:Weavile
+18:Crobat
+19:Gengar
+20:Kyurem

@@ -1,0 +1,144 @@
+91:Milotic|144
+ ---------- 
+Moves used:
+1:Scald,76.3888888889%,110.0
+2:Ice Beam,59.0277777778%,85.0
+3:Recover,45.1388888889%,65.0
+4:Icy Wind,44.4444444444%,64.0
+5:Protect,43.0555555556%,62.0
+6:Hydro Pump,30.5555555556%,44.0
+7:Swagger,23.6111111111%,34.0
+8:Coil,22.2222222222%,32.0
+9:Hypnosis,22.2222222222%,32.0
+10:Dragon Pulse,15.9722222222%,23.0
+11:Mirror Coat,9.02777777778%,13.0
+12:Magic Coat,3.47222222222%,5.0
+13:Safeguard,1.38888888889%,2.0
+14:Haze,1.38888888889%,2.0
+15:Toxic,1.38888888889%,2.0
+16:Blizzard,0.694444444444%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,38.1944444444%,55.0
+2:Choice Scarf,24.3055555556%,35.0
+3:Flame Orb,23.6111111111%,34.0
+4:Leftovers,6.25%,9.0
+5:Rocky Helmet,3.47222222222%,5.0
+6:Assault Vest,2.08333333333%,3.0
+7:Maranga Berry,0.694444444444%,1.0
+8:Kee Berry,0.694444444444%,1.0
+9:Wacan Berry,0.694444444444%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,75.0%,108.0
+2:Marvel Scale,25.0%,36.0
+
+ ---------- 
+Natures used:
+1:Bold,33.3333333333%,48.0
+2:Calm,27.0833333333%,39.0
+3:Modest,19.4444444444%,28.0
+4:Relaxed,11.8055555556%,17.0
+5:Timid,8.33333333333%,12.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Rayquaza
+4:Gengar
+5:Raichu
+6:Groudon
+7:Politoed
+8:Mawile
+9:Gardevoir
+10:Talonflame
+11:Landorus
+12:Banette
+13:Thundurus
+14:Ho-Oh
+15:Yveltal
+16:Xerneas
+17:Scizor
+18:Liepard
+19:Sableye
+20:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,43.9393939394%,63.2727272727
+2:Ice Beam,28.7878787879%,41.4545454545
+3:Icy Wind,21.2121212121%,30.5454545455
+4:Dragon Pulse,3.0303030303%,4.36363636364
+5:Mirror Coat,3.0303030303%,4.36363636364
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,24.0
+2:Precipice Blades,10.0%,14.4
+3:Moonblast,10.0%,14.4
+4:Thunder,8.33333333333%,12.0
+5:Dragon Ascent,6.66666666667%,9.6
+6:Thunderbolt,6.66666666667%,9.6
+7:Play Rough,3.33333333333%,4.8
+8:Power Whip,3.33333333333%,4.8
+9:Water Spout,3.33333333333%,4.8
+10:Extreme Speed,3.33333333333%,4.8
+11:Return,3.33333333333%,4.8
+12:Double-Edge,3.33333333333%,4.8
+13:Retaliate,1.66666666667%,2.4
+14:Psyshock,1.66666666667%,2.4
+15:Grass Knot,1.66666666667%,2.4
+16:Brave Bird,1.66666666667%,2.4
+17:Dragon Pulse,1.66666666667%,2.4
+18:Sucker Punch,1.66666666667%,2.4
+19:Volt Tackle,1.66666666667%,2.4
+20:Eruption,1.66666666667%,2.4
+0:Other,5.0%,7.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Smeargle
+4:Rayquaza
+5:Landorus
+6:Talonflame
+7:Dialga
+8:Kangaskhan
+9:Thundurus
+10:Yveltal
+11:Aegislash
+12:Gothitelle
+13:Whimsicott
+14:Cresselia
+15:Bronzong
+16:Kyogre
+17:Kyogre
+18:Mawile
+19:Ludicolo
+20:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Rayquaza
+7:Thundurus
+8:Ferrothorn
+9:Dialga
+10:Mawile
+11:Yveltal
+12:Talonflame
+13:Landorus
+14:Cresselia
+15:Rotom
+16:Salamence
+17:Lugia
+18:Zapdos
+19:Raichu

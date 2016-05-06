@@ -1,0 +1,56 @@
+194:Riolu|1
+ ---------- 
+Moves used:
+1:Force Palm,100.0%,1.0
+2:Feint,100.0%,1.0
+3:Follow Me,100.0%,1.0
+4:Screech,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Bisharp
+4:Talonflame
+5:Smeargle
+6:Yveltal
+7:Cryogonal
+8:Medicham
+9:Giratina
+10:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Blizzard,28.5714285714%,0.285714285714
+2:Origin Pulse,14.2857142857%,0.142857142857
+3:Psystrike,14.2857142857%,0.142857142857
+4:Hyper Voice,14.2857142857%,0.142857142857
+5:Frustration,14.2857142857%,0.142857142857
+6:Thunderbolt,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyurem
+2:Thundurus
+3:Kyogre
+4:Salamence
+5:Mewtwo
+6:Kangaskhan

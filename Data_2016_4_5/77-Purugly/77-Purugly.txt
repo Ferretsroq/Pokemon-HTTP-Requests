@@ -1,0 +1,106 @@
+77:Purugly|136
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,136.0
+2:Super Fang,97.0588235294%,132.0
+3:Hypnosis,97.0588235294%,132.0
+4:U-turn,47.7941176471%,65.0
+5:Knock Off,36.7647058824%,50.0
+6:Taunt,13.9705882353%,19.0
+7:Sucker Punch,2.94117647059%,4.0
+8:Body Slam,2.94117647059%,4.0
+9:Shadow Claw,1.47058823529%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,97.0588235294%,132.0
+2:Silk Scarf,2.94117647059%,4.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,136.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,136.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Groudon
+3:Crobat
+4:Golduck
+5:Houndoom
+6:Rayquaza
+7:Landorus
+8:Lugia
+9:Hitmonlee
+10:Xerneas
+11:Volcarona
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,50.0%,68.0
+2:U-turn,35.0%,47.6
+3:Fake Out,10.0%,13.6
+4:Sucker Punch,5.0%,6.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.4835164835%,22.4175824176
+2:Precipice Blades,8.79120879121%,11.956043956
+3:Double-Edge,8.79120879121%,11.956043956
+4:Water Spout,6.59340659341%,8.96703296703
+5:Hyper Voice,6.59340659341%,8.96703296703
+6:Brave Bird,5.49450549451%,7.47252747253
+7:Eruption,5.49450549451%,7.47252747253
+8:Ice Beam,5.49450549451%,7.47252747253
+9:Low Kick,4.3956043956%,5.97802197802
+10:Origin Pulse,3.2967032967%,4.48351648352
+11:Sucker Punch,3.2967032967%,4.48351648352
+12:Moonblast,2.1978021978%,2.98901098901
+13:Feint,2.1978021978%,2.98901098901
+14:Extreme Speed,2.1978021978%,2.98901098901
+15:Explosion,2.1978021978%,2.98901098901
+16:Earthquake,2.1978021978%,2.98901098901
+17:Blizzard,2.1978021978%,2.98901098901
+18:Power-Up Punch,1.0989010989%,1.49450549451
+19:Flash Cannon,1.0989010989%,1.49450549451
+20:Ice Shard,1.0989010989%,1.49450549451
+0:Other,6.59340659341%,8.96703296703
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Talonflame
+3:Cresselia
+4:Kangaskhan
+5:Xerneas
+6:Meowstic
+7:Thundurus
+8:Gothitelle
+9:Rayquaza
+10:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Salamence
+6:Cresselia
+7:Talonflame
+8:Landorus
+9:Kyurem
+10:Mienshao
+11:Gengar
+12:Yveltal
+13:Krookodile
+14:Dialga
+15:Weavile
+16:Lucario
+17:Lopunny
+18:Rayquaza
+19:Rayquaza
+20:Groudon

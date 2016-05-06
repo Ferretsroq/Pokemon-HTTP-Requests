@@ -1,0 +1,77 @@
+201:Lanturn|31
+ ---------- 
+Moves used:
+1:Thunderbolt,100.0%,31.0
+2:Ice Beam,100.0%,31.0
+3:Volt Switch,64.5161290323%,20.0
+4:Thunder Wave,58.064516129%,18.0
+5:Protect,41.935483871%,13.0
+6:Scald,35.4838709677%,11.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,58.064516129%,18.0
+2:Leftovers,41.935483871%,13.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,31.0
+
+ ---------- 
+Natures used:
+1:Bold,58.064516129%,18.0
+2:Quiet,41.935483871%,13.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Kyogre
+5:Kangaskhan
+6:Rayquaza
+7:Salamence
+8:Mawile
+9:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,46.1538461538%,14.3076923077
+2:Ice Beam,46.1538461538%,14.3076923077
+3:Volt Switch,7.69230769231%,2.38461538462
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,18.1818181818%,5.63636363636
+2:Sludge Bomb,18.1818181818%,5.63636363636
+3:Precipice Blades,9.09090909091%,2.81818181818
+4:Moonblast,9.09090909091%,2.81818181818
+5:Power Whip,9.09090909091%,2.81818181818
+6:Earthquake,9.09090909091%,2.81818181818
+7:Thunderbolt,9.09090909091%,2.81818181818
+8:Blizzard,9.09090909091%,2.81818181818
+9:Ice Beam,9.09090909091%,2.81818181818
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Rayquaza
+3:Smeargle
+4:Cresselia
+5:Dialga
+6:Rayquaza
+7:Salamence
+8:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Landorus
+4:Ferrothorn
+5:Kyogre
+6:Kyogre
+7:Smeargle
+8:Ditto
+9:Gengar
+10:Gengar

@@ -1,0 +1,91 @@
+200:Hitmonlee|21
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,21.0
+2:Wide Guard,76.1904761905%,16.0
+3:Poison Jab,71.4285714286%,15.0
+4:Rock Slide,71.4285714286%,15.0
+5:Fake Out,28.5714285714%,6.0
+6:Stone Edge,23.8095238095%,5.0
+7:Knock Off,23.8095238095%,5.0
+8:Feint,4.7619047619%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,76.1904761905%,16.0
+2:Normal Gem,23.8095238095%,5.0
+
+ ---------- 
+Abilities used:
+1:Limber,71.4285714286%,15.0
+2:Unburden,28.5714285714%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,21.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Landorus
+3:Xerneas
+4:Weavile
+5:Lugia
+6:Thundurus
+7:Amoonguss
+8:Lopunny
+9:Klefki
+10:Magmortar
+11:Purugly
+12:Groudon
+13:Blaziken
+14:Noivern
+15:Hawlucha
+16:Aurorus
+17:Slurpuff
+18:Talonflame
+19:Heatmor
+20:Krookodile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,75.0%,15.75
+2:Rock Slide,25.0%,5.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.5%,2.625
+2:Moonblast,12.5%,2.625
+3:Dragon Ascent,6.25%,1.3125
+4:Precipice Blades,6.25%,1.3125
+5:Origin Pulse,6.25%,1.3125
+6:Scald,6.25%,1.3125
+7:Dragon Pulse,6.25%,1.3125
+8:Dragon Claw,6.25%,1.3125
+9:Water Spout,6.25%,1.3125
+10:Return,6.25%,1.3125
+11:Thunderbolt,6.25%,1.3125
+12:Double-Edge,6.25%,1.3125
+13:Fire Punch,6.25%,1.3125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Yveltal
+3:Talonflame
+4:Liepard
+5:Groudon
+6:Kyogre
+7:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Thundurus
+6:Dialga
+7:Togekiss
+8:Garchomp
+9:Rayquaza

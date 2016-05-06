@@ -1,0 +1,92 @@
+222:Vaporeon|18
+ ---------- 
+Moves used:
+1:Scald,77.7777777778%,14.0
+2:Detect,61.1111111111%,11.0
+3:Fake Tears,55.5555555556%,10.0
+4:Haze,33.3333333333%,6.0
+5:Protect,27.7777777778%,5.0
+6:Ice Beam,27.7777777778%,5.0
+7:Icy Wind,22.2222222222%,4.0
+8:Muddy Water,16.6666666667%,3.0
+9:Wish,16.6666666667%,3.0
+10:Helping Hand,16.6666666667%,3.0
+11:Baton Pass,11.1111111111%,2.0
+12:Acid Armor,11.1111111111%,2.0
+13:Toxic,11.1111111111%,2.0
+14:Yawn,5.55555555556%,1.0
+15:Double Team,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,77.7777777778%,14.0
+2:Leftovers,22.2222222222%,4.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Sassy,33.3333333333%,6.0
+2:Calm,33.3333333333%,6.0
+3:Modest,16.6666666667%,3.0
+4:Bold,11.1111111111%,2.0
+5:Timid,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Espeon
+3:Leafeon
+4:Groudon
+5:Umbreon
+6:Glaceon
+7:Rayquaza
+8:Goodra
+9:Meowstic
+10:Landorus
+11:Azumarill
+12:Flareon
+13:Jolteon
+14:Yveltal
+15:Xerneas
+16:Whimsicott
+17:Mawile
+18:Crobat
+19:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,71.4285714286%,12.8571428571
+2:Muddy Water,14.2857142857%,2.57142857143
+3:Ice Beam,14.2857142857%,2.57142857143
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,3.6
+2:Precipice Blades,10.0%,1.8
+3:Earth Power,10.0%,1.8
+4:Brave Bird,10.0%,1.8
+5:Eruption,10.0%,1.8
+6:Earthquake,10.0%,1.8
+7:Thunder,10.0%,1.8
+8:Thunderbolt,10.0%,1.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kangaskhan
+3:Talonflame
+4:Ferrothorn
+5:Marowak
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Talonflame
+4:Heatran
+5:Rayquaza
+6:Kyogre
+7:Smeargle

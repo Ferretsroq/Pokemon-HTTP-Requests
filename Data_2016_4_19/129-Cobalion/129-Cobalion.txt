@@ -1,0 +1,122 @@
+129:Cobalion|75
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,75.0
+2:Close Combat,94.6666666667%,71.0
+3:Quick Guard,84.0%,63.0
+4:Double Kick,52.0%,39.0
+5:Protect,25.3333333333%,19.0
+6:Taunt,24.0%,18.0
+7:Roar,9.33333333333%,7.0
+8:Sacred Sword,5.33333333333%,4.0
+9:Metal Burst,2.66666666667%,2.0
+10:Helping Hand,2.66666666667%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,46.6666666667%,35.0
+2:Expert Belt,46.6666666667%,35.0
+3:Shuca Berry,2.66666666667%,2.0
+4:Occa Berry,2.66666666667%,2.0
+5:Iron Plate,1.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,75.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,75.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Thundurus
+3:Salamence
+4:Xerneas
+5:Kyogre
+6:Yveltal
+7:Venusaur
+8:Talonflame
+9:Kangaskhan
+10:Whimsicott
+11:Weavile
+12:Rayquaza
+13:Ambipom
+14:Lugia
+15:Smeargle
+16:Mewtwo
+17:Aerodactyl
+18:Porygon-Z
+19:Infernape
+20:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,48.275862069%,36.2068965517
+2:Double Kick,34.4827586207%,25.8620689655
+3:Iron Head,17.2413793103%,12.9310344828
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.2542372881%,11.4406779661
+2:Low Kick,11.8644067797%,8.89830508475
+3:Origin Pulse,8.47457627119%,6.35593220339
+4:Water Spout,8.47457627119%,6.35593220339
+5:Hyper Voice,8.47457627119%,6.35593220339
+6:Precipice Blades,6.77966101695%,5.08474576271
+7:Overheat,5.08474576271%,3.81355932203
+8:Eruption,5.08474576271%,3.81355932203
+9:Dragon Ascent,3.38983050847%,2.54237288136
+10:Flare Blitz,3.38983050847%,2.54237288136
+11:Earthquake,3.38983050847%,2.54237288136
+12:Thunderbolt,3.38983050847%,2.54237288136
+13:Oblivion Wing,1.69491525424%,1.27118644068
+14:Moonblast,1.69491525424%,1.27118644068
+15:Scald,1.69491525424%,1.27118644068
+16:Brave Bird,1.69491525424%,1.27118644068
+17:Knock Off,1.69491525424%,1.27118644068
+18:Shadow Ball,1.69491525424%,1.27118644068
+19:Aeroblast,1.69491525424%,1.27118644068
+20:Bonemerang,1.69491525424%,1.27118644068
+0:Other,1.69491525424%,1.27118644068
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Weavile
+4:Kyurem
+5:Liepard
+6:Cresselia
+7:Meowstic
+8:Talonflame
+9:Amoonguss
+10:Togekiss
+11:Bronzong
+12:Kyogre
+13:Gardevoir
+14:Scizor
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Rayquaza
+8:Landorus
+9:Thundurus
+10:Weavile
+11:Yveltal
+12:Bisharp
+13:Whimsicott
+14:Dialga
+15:Medicham
+16:Lugia
+17:Togetic
+18:Marowak
+19:Gengar

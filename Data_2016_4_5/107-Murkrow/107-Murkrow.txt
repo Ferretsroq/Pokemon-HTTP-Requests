@@ -1,0 +1,104 @@
+107:Murkrow|58
+ ---------- 
+Moves used:
+1:Perish Song,70.6896551724%,41.0
+2:Protect,70.6896551724%,41.0
+3:Taunt,65.5172413793%,38.0
+4:Thunder Wave,65.5172413793%,38.0
+5:Roost,27.5862068966%,16.0
+6:Tailwind,25.8620689655%,15.0
+7:Confuse Ray,24.1379310345%,14.0
+8:Brave Bird,15.5172413793%,9.0
+9:Quash,6.89655172414%,4.0
+10:Swagger,6.89655172414%,4.0
+11:Haze,6.89655172414%,4.0
+12:Night Shade,6.89655172414%,4.0
+13:Foul Play,3.44827586207%,2.0
+14:Feather Dance,3.44827586207%,2.0
+
+ ---------- 
+Items used:
+1:Eviolite,48.275862069%,28.0
+2:Focus Sash,46.5517241379%,27.0
+3:Mental Herb,5.1724137931%,3.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,58.0
+
+ ---------- 
+Natures used:
+1:Careful,93.1034482759%,54.0
+2:Jolly,3.44827586207%,2.0
+3:Bold,3.44827586207%,2.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Probopass
+3:Sableye
+4:Gothitelle
+5:Raichu
+6:Xerneas
+7:Groudon
+8:Rayquaza
+9:Smeargle
+10:Salamence
+11:Lucario
+12:Zekrom
+13:Cryogonal
+14:Mewtwo
+15:Zygarde
+16:Meowstic
+17:Talonflame
+18:Metagross
+19:Kangaskhan
+20:Machamp
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.9047619048%,6.90476190476
+2:Origin Pulse,7.14285714286%,4.14285714286
+3:Water Spout,7.14285714286%,4.14285714286
+4:Hyper Voice,7.14285714286%,4.14285714286
+5:Eruption,7.14285714286%,4.14285714286
+6:Moonblast,4.7619047619%,2.7619047619
+7:Brave Bird,4.7619047619%,2.7619047619
+8:Extreme Speed,4.7619047619%,2.7619047619
+9:Thunderbolt,4.7619047619%,2.7619047619
+10:Double-Edge,4.7619047619%,2.7619047619
+11:Play Rough,2.38095238095%,1.38095238095
+12:Foul Play,2.38095238095%,1.38095238095
+13:Bug Bite,2.38095238095%,1.38095238095
+14:Iron Head,2.38095238095%,1.38095238095
+15:Dragon Pulse,2.38095238095%,1.38095238095
+16:Fake Out,2.38095238095%,1.38095238095
+17:Sludge Bomb,2.38095238095%,1.38095238095
+18:Ice Beam,2.38095238095%,1.38095238095
+19:Flamethrower,2.38095238095%,1.38095238095
+20:Ice Punch,2.38095238095%,1.38095238095
+0:Other,2.38095238095%,1.38095238095
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Rayquaza
+6:Talonflame
+7:Thundurus
+8:Mawile
+9:Kyurem
+10:Liepard
+11:Weavile
+12:Smeargle
+13:Scizor
+14:Kangaskhan
+15:Gengar

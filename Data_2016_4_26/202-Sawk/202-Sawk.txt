@@ -1,0 +1,86 @@
+202:Sawk|26
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,26.0
+2:Ice Punch,100.0%,26.0
+3:Poison Jab,96.1538461538%,25.0
+4:Knock Off,96.1538461538%,25.0
+5:Rock Slide,3.84615384615%,1.0
+6:Earthquake,3.84615384615%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,57.6923076923%,15.0
+2:Salac Berry,38.4615384615%,10.0
+3:Choice Scarf,3.84615384615%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,26.0
+
+ ---------- 
+Natures used:
+1:Jolly,96.1538461538%,25.0
+2:Adamant,3.84615384615%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Groudon
+3:Smeargle
+4:Salamence
+5:Kyogre
+6:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,47.0588235294%,12.2352941176
+2:Ice Punch,29.4117647059%,7.64705882353
+3:Knock Off,17.6470588235%,4.58823529412
+4:Poison Jab,5.88235294118%,1.52941176471
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,13.3333333333%,3.46666666667
+2:Precipice Blades,6.66666666667%,1.73333333333
+3:Dazzling Gleam,6.66666666667%,1.73333333333
+4:Moonblast,6.66666666667%,1.73333333333
+5:Flash Cannon,6.66666666667%,1.73333333333
+6:Brave Bird,6.66666666667%,1.73333333333
+7:Dragon Pulse,6.66666666667%,1.73333333333
+8:Feint,6.66666666667%,1.73333333333
+9:Gyro Ball,6.66666666667%,1.73333333333
+10:Heat Wave,6.66666666667%,1.73333333333
+11:Return,6.66666666667%,1.73333333333
+12:Thunderbolt,6.66666666667%,1.73333333333
+13:Ice Beam,6.66666666667%,1.73333333333
+14:Double-Edge,6.66666666667%,1.73333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Meowstic
+6:Landorus
+7:Thundurus
+8:Cresselia
+9:Mawile
+10:Mewtwo
+11:Kangaskhan
+12:Marowak
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Dialga
+3:Rayquaza
+4:Kangaskhan
+5:Talonflame
+6:Thundurus
+7:Mienshao
+8:Bronzong
+9:Groudon
+10:Kyogre
+11:Camerupt

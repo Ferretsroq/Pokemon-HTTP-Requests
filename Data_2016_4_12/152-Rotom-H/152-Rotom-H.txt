@@ -1,0 +1,119 @@
+152:Rotom-H|36
+ ---------- 
+Moves used:
+1:Overheat,86.1111111111%,31.0
+2:Thunderbolt,77.7777777778%,28.0
+3:Protect,44.4444444444%,16.0
+4:Will-O-Wisp,33.3333333333%,12.0
+5:Discharge,25.0%,9.0
+6:Thunder Wave,22.2222222222%,8.0
+7:Foul Play,13.8888888889%,5.0
+8:Trick,13.8888888889%,5.0
+9:Hidden Power,13.8888888889%,5.0
+10:Volt Switch,11.1111111111%,4.0
+11:Snatch,11.1111111111%,4.0
+12:Thunder,11.1111111111%,4.0
+13:Dark Pulse,8.33333333333%,3.0
+14:Psych Up,8.33333333333%,3.0
+15:Substitute,8.33333333333%,3.0
+16:Confuse Ray,8.33333333333%,3.0
+17:Swagger,2.77777777778%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,25.0%,9.0
+2:Choice Specs,19.4444444444%,7.0
+3:Expert Belt,16.6666666667%,6.0
+4:Choice Scarf,13.8888888889%,5.0
+5:Leftovers,13.8888888889%,5.0
+6:Focus Sash,8.33333333333%,3.0
+7:Lum Berry,2.77777777778%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,36.0
+
+ ---------- 
+Natures used:
+1:Modest,61.1111111111%,22.0
+2:Timid,22.2222222222%,8.0
+3:Bold,11.1111111111%,4.0
+4:Calm,5.55555555556%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Rayquaza
+5:Kangaskhan
+6:Talonflame
+7:Blaziken
+8:Ferrothorn
+9:Dialga
+10:Salamence
+11:Smeargle
+12:Golduck
+13:Liepard
+14:Weavile
+15:Sceptile
+16:Crobat
+17:Jolteon
+18:Gengar
+19:Jellicent
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,38.8888888889%,14.0
+2:Overheat,27.7777777778%,10.0
+3:Volt Switch,11.1111111111%,4.0
+4:Discharge,11.1111111111%,4.0
+5:Foul Play,5.55555555556%,2.0
+6:Thunder,5.55555555556%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.0434782609%,4.69565217391
+2:Water Spout,13.0434782609%,4.69565217391
+3:Precipice Blades,8.69565217391%,3.13043478261
+4:Origin Pulse,8.69565217391%,3.13043478261
+5:Return,8.69565217391%,3.13043478261
+6:Moonblast,4.34782608696%,1.5652173913
+7:Scald,4.34782608696%,1.5652173913
+8:Draco Meteor,4.34782608696%,1.5652173913
+9:Sucker Punch,4.34782608696%,1.5652173913
+10:Eruption,4.34782608696%,1.5652173913
+11:Shadow Ball,4.34782608696%,1.5652173913
+12:Sludge Bomb,4.34782608696%,1.5652173913
+13:Rock Slide,4.34782608696%,1.5652173913
+14:Waterfall,4.34782608696%,1.5652173913
+15:Psychic,4.34782608696%,1.5652173913
+16:Surf,4.34782608696%,1.5652173913
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Dialga
+4:Klefki
+5:Liepard
+6:Cresselia
+7:Mawile
+8:Smeargle
+9:Kangaskhan
+10:Gengar
+11:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Rayquaza
+6:Aegislash
+7:Garchomp
+8:Salamence
+9:Mewtwo
+10:Gengar

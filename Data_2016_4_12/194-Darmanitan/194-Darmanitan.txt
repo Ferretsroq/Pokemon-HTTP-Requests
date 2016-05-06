@@ -1,0 +1,75 @@
+194:Darmanitan|19
+ ---------- 
+Moves used:
+1:Flare Blitz,100.0%,19.0
+2:Superpower,100.0%,19.0
+3:U-turn,84.2105263158%,16.0
+4:Rock Slide,84.2105263158%,16.0
+5:Taunt,15.7894736842%,3.0
+6:Earthquake,15.7894736842%,3.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,84.2105263158%,16.0
+2:Life Orb,15.7894736842%,3.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Adamant,84.2105263158%,16.0
+2:Brave,15.7894736842%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Cresselia
+4:Weavile
+5:Xerneas
+6:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,55.5555555556%,10.5555555556
+2:Rock Slide,33.3333333333%,6.33333333333
+3:U-turn,11.1111111111%,2.11111111111
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,17.6470588235%,3.35294117647
+2:Precipice Blades,11.7647058824%,2.23529411765
+3:Water Spout,11.7647058824%,2.23529411765
+4:Origin Pulse,5.88235294118%,1.11764705882
+5:Dazzling Gleam,5.88235294118%,1.11764705882
+6:Moonblast,5.88235294118%,1.11764705882
+7:Brave Bird,5.88235294118%,1.11764705882
+8:Sucker Punch,5.88235294118%,1.11764705882
+9:Feint,5.88235294118%,1.11764705882
+10:Shadow Ball,5.88235294118%,1.11764705882
+11:Explosion,5.88235294118%,1.11764705882
+12:Earthquake,5.88235294118%,1.11764705882
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kangaskhan
+3:Thundurus
+4:Rayquaza
+5:Kyogre
+6:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Aegislash
+5:Talonflame
+6:Kyurem
+7:Landorus
+8:Weavile
+9:Rayquaza
+10:Kangaskhan

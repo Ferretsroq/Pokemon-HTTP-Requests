@@ -1,0 +1,44 @@
+246:Cinccino|1
+ ---------- 
+Moves used:
+1:Rock Blast,100.0%,1.0
+2:Bullet Seed,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Sing,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Dialga
+3:Zapdos
+4:Nidoking
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,0.333333333333
+2:Snarl,33.3333333333%,0.333333333333
+3:Water Spout,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Kyogre

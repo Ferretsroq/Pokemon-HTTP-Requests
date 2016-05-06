@@ -1,0 +1,97 @@
+225:Crawdaunt|20
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,20.0
+2:Protect,100.0%,20.0
+3:Crabhammer,90.0%,18.0
+4:Knock Off,85.0%,17.0
+5:Crunch,15.0%,3.0
+6:Superpower,10.0%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,50.0%,10.0
+2:Focus Sash,30.0%,6.0
+3:White Herb,10.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,20.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,20.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Yveltal
+4:Bronzong
+5:Gengar
+6:Landorus
+7:Mewtwo
+8:Xerneas
+9:Thundurus
+10:Manectric
+11:Raichu
+12:Talonflame
+13:Fletchinder
+14:Terrakion
+15:Whimsicott
+16:Groudon
+17:Mawile
+18:Blaziken
+19:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,50.0%,10.0
+2:Knock Off,42.8571428571%,8.57142857143
+3:Crabhammer,7.14285714286%,1.42857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.5263157895%,2.10526315789
+2:Play Rough,10.5263157895%,2.10526315789
+3:Precipice Blades,5.26315789474%,1.05263157895
+4:Power-Up Punch,5.26315789474%,1.05263157895
+5:Fusion Bolt,5.26315789474%,1.05263157895
+6:Scald,5.26315789474%,1.05263157895
+7:Power Whip,5.26315789474%,1.05263157895
+8:Draco Meteor,5.26315789474%,1.05263157895
+9:Gyro Ball,5.26315789474%,1.05263157895
+10:Volt Tackle,5.26315789474%,1.05263157895
+11:Water Spout,5.26315789474%,1.05263157895
+12:Extreme Speed,5.26315789474%,1.05263157895
+13:Rock Slide,5.26315789474%,1.05263157895
+14:Thunder,5.26315789474%,1.05263157895
+15:Low Kick,5.26315789474%,1.05263157895
+16:Ice Beam,5.26315789474%,1.05263157895
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Groudon
+3:Kangaskhan
+4:Mienshao
+5:Cresselia
+6:Palkia
+7:Salamence
+8:Salamence
+9:Sableye
+10:Lugia
+11:Stantler
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Ferrothorn
+4:Groudon
+5:Mawile
+6:Kangaskhan
+7:Kyurem
+8:Rayquaza
+9:Salamence
+10:Raichu

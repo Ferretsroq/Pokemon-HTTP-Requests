@@ -1,0 +1,121 @@
+181:Cradily|42
+ ---------- 
+Moves used:
+1:Mirror Coat,71.4285714286%,30.0
+2:Ancient Power,61.9047619048%,26.0
+3:Giga Drain,59.5238095238%,25.0
+4:Protect,50.0%,21.0
+5:Recover,47.619047619%,20.0
+6:Grass Knot,40.4761904762%,17.0
+7:Earth Power,28.5714285714%,12.0
+8:Gastro Acid,23.8095238095%,10.0
+9:Worry Seed,11.9047619048%,5.0
+10:Stockpile,2.38095238095%,1.0
+11:Sludge Bomb,2.38095238095%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,52.380952381%,22.0
+2:Sitrus Berry,38.0952380952%,16.0
+3:Rocky Helmet,4.7619047619%,2.0
+4:Assault Vest,2.38095238095%,1.0
+5:Weakness Policy,2.38095238095%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,42.0
+
+ ---------- 
+Natures used:
+1:Relaxed,52.380952381%,22.0
+2:Sassy,26.1904761905%,11.0
+3:Calm,16.6666666667%,7.0
+4:Quiet,2.38095238095%,1.0
+5:Modest,2.38095238095%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Weavile
+3:Cresselia
+4:Mawile
+5:Swampert
+6:Kyurem
+7:Landorus
+8:Yveltal
+9:Rayquaza
+10:Amoonguss
+11:Giratina
+12:Kyogre
+13:Misdreavus
+14:Crobat
+15:Sylveon
+16:Whimsicott
+17:Dialga
+18:Kingdra
+19:Slowking
+20:Machamp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ancient Power,39.1304347826%,16.4347826087
+2:Mirror Coat,30.4347826087%,12.7826086957
+3:Earth Power,13.0434782609%,5.47826086957
+4:Grass Knot,8.69565217391%,3.65217391304
+5:Giga Drain,8.69565217391%,3.65217391304
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,18.75%,7.875
+2:Moonblast,12.5%,5.25
+3:Low Kick,9.375%,3.9375
+4:Fire Punch,9.375%,3.9375
+5:Earthquake,6.25%,2.625
+6:Dragon Ascent,3.125%,1.3125
+7:Dazzling Gleam,3.125%,1.3125
+8:Acrobatics,3.125%,1.3125
+9:Iron Head,3.125%,1.3125
+10:Bullet Punch,3.125%,1.3125
+11:Gyro Ball,3.125%,1.3125
+12:Hyper Voice,3.125%,1.3125
+13:Superpower,3.125%,1.3125
+14:Extreme Speed,3.125%,1.3125
+15:Aeroblast,3.125%,1.3125
+16:Rock Slide,3.125%,1.3125
+17:High Jump Kick,3.125%,1.3125
+18:Thunder,3.125%,1.3125
+19:Blizzard,3.125%,1.3125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Salamence
+4:Crobat
+5:Talonflame
+6:Amoonguss
+7:Dialga
+8:Togekiss
+9:Rayquaza
+10:Rayquaza
+11:Mewtwo
+12:Gyarados
+13:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Landorus
+6:Rayquaza
+7:Talonflame
+8:Kyurem
+9:Mienshao
+10:Ferrothorn
+11:Salamence
+12:Mawile
+13:Lugia
+14:Scizor
+15:Azumarill

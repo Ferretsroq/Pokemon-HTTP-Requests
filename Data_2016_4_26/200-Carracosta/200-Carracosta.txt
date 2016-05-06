@@ -1,0 +1,90 @@
+200:Carracosta|27
+ ---------- 
+Moves used:
+1:Aqua Jet,92.5925925926%,25.0
+2:Rock Slide,92.5925925926%,25.0
+3:Protect,81.4814814815%,22.0
+4:Low Kick,81.4814814815%,22.0
+5:Wide Guard,18.5185185185%,5.0
+6:Superpower,11.1111111111%,3.0
+7:Shell Smash,7.40740740741%,2.0
+8:Stone Edge,7.40740740741%,2.0
+9:Waterfall,7.40740740741%,2.0
+
+ ---------- 
+Items used:
+1:Expert Belt,81.4814814815%,22.0
+2:Weakness Policy,18.5185185185%,5.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,27.0
+
+ ---------- 
+Natures used:
+1:Adamant,92.5925925926%,25.0
+2:Jolly,7.40740740741%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Gengar
+4:Thundurus
+5:Ludicolo
+6:Kangaskhan
+7:Dialga
+8:Talonflame
+9:Liepard
+10:Blaziken
+11:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,61.1111111111%,16.5
+2:Aqua Jet,27.7777777778%,7.5
+3:Superpower,5.55555555556%,1.5
+4:Low Kick,5.55555555556%,1.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.0%,4.05
+2:Water Spout,15.0%,4.05
+3:Dazzling Gleam,10.0%,2.7
+4:Power Whip,10.0%,2.7
+5:Origin Pulse,5.0%,1.35
+6:Power-Up Punch,5.0%,1.35
+7:Brave Bird,5.0%,1.35
+8:Dragon Claw,5.0%,1.35
+9:Hyper Voice,5.0%,1.35
+10:Eruption,5.0%,1.35
+11:Thunderbolt,5.0%,1.35
+12:Low Kick,5.0%,1.35
+13:Ice Beam,5.0%,1.35
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Talonflame
+4:Xerneas
+5:Thundurus
+6:Liepard
+7:Cresselia
+8:Weavile
+9:Smeargle
+10:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Ferrothorn
+5:Talonflame
+6:Mienshao
+7:Cresselia
+8:Gardevoir
+9:Ditto
+10:Kangaskhan
+11:Raichu

@@ -1,0 +1,53 @@
+215:Zangoose|7
+ ---------- 
+Moves used:
+1:Facade,100.0%,7.0
+2:Quick Guard,85.7142857143%,6.0
+3:Feint,85.7142857143%,6.0
+4:Detect,85.7142857143%,6.0
+5:Protect,14.2857142857%,1.0
+6:Quick Attack,14.2857142857%,1.0
+7:Fire Punch,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Toxic Boost,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Metagross
+3:Groudon
+4:Hitmontop
+5:Slowbro
+6:Xerneas
+7:Talonflame
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,20.0%,1.4
+2:Double-Edge,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Amoonguss
+3:Breloom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan

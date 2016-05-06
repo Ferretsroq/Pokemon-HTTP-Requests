@@ -1,0 +1,115 @@
+114:Hawlucha|107
+ ---------- 
+Moves used:
+1:Quick Guard,95.3271028037%,102.0
+2:Encore,90.6542056075%,97.0
+3:Fling,83.1775700935%,89.0
+4:Tailwind,77.5700934579%,83.0
+5:Endeavor,16.8224299065%,18.0
+6:Rock Slide,16.8224299065%,18.0
+7:Helping Hand,3.73831775701%,4.0
+8:High Jump Kick,3.73831775701%,4.0
+9:Acrobatics,2.80373831776%,3.0
+10:Ally Switch,2.80373831776%,3.0
+11:Iron Head,2.80373831776%,3.0
+12:Feather Dance,1.8691588785%,2.0
+13:Sky Drop,0.934579439252%,1.0
+14:Protect,0.934579439252%,1.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,79.4392523364%,85.0
+2:Coba Berry,16.8224299065%,18.0
+3:Razor Fang,2.80373831776%,3.0
+4:King's Rock,0.934579439252%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,93.4579439252%,100.0
+2:Limber,6.54205607477%,7.0
+
+ ---------- 
+Natures used:
+1:Timid,67.2897196262%,72.0
+2:Jolly,29.9065420561%,32.0
+3:Adamant,2.80373831776%,3.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Yveltal
+6:Manectric
+7:Togekiss
+8:Gengar
+9:Landorus
+10:Crobat
+11:Dragonite
+12:Xerneas
+13:Weavile
+14:Aegislash
+15:Vivillon
+16:Thundurus
+17:Swoobat
+18:Aron
+19:Smeargle
+20:Hitmonlee
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,50.0%,53.5
+2:High Jump Kick,50.0%,53.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.1764705882%,17.3088235294
+2:Hyper Voice,10.2941176471%,11.0147058824
+3:Water Spout,8.82352941176%,9.44117647059
+4:Extreme Speed,7.35294117647%,7.86764705882
+5:Rock Slide,7.35294117647%,7.86764705882
+6:Origin Pulse,4.41176470588%,4.72058823529
+7:Brave Bird,4.41176470588%,4.72058823529
+8:Thunderbolt,4.41176470588%,4.72058823529
+9:Double-Edge,4.41176470588%,4.72058823529
+10:Precipice Blades,2.94117647059%,3.14705882353
+11:Oblivion Wing,2.94117647059%,3.14705882353
+12:Moonblast,2.94117647059%,3.14705882353
+13:Ice Beam,2.94117647059%,3.14705882353
+14:Fire Punch,2.94117647059%,3.14705882353
+15:Play Rough,1.47058823529%,1.57352941176
+16:Parabolic Charge,1.47058823529%,1.57352941176
+17:Psystrike,1.47058823529%,1.57352941176
+18:Foul Play,1.47058823529%,1.57352941176
+19:Eruption,1.47058823529%,1.57352941176
+20:Assist,1.47058823529%,1.57352941176
+0:Other,7.35294117647%,7.86764705882
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Rayquaza
+6:Talonflame
+7:Landorus
+8:Kangaskhan
+9:Yveltal
+10:Thundurus
+11:Liepard
+12:Cresselia
+13:Heliolisk
+14:Terrakion
+15:Whimsicott
+16:Kyogre
+17:Mawile
+18:Smeargle
+19:Mewtwo
+20:Zapdos

@@ -1,0 +1,168 @@
+4:Kangaskhan|34000
+ ---------- 
+Moves used:
+1:Fake Out,98.3411764706%,33436.0
+2:Sucker Punch,85.7794117647%,29165.0
+3:Double-Edge,74.2323529412%,25239.0
+4:Low Kick,69.0176470588%,23466.0
+5:Return,21.6264705882%,7353.0
+6:Power-Up Punch,19.1588235294%,6514.0
+7:Protect,14.6735294118%,4989.0
+8:Frustration,3.33235294118%,1133.0
+9:Ice Punch,3.27058823529%,1112.0
+10:Fire Punch,2.76176470588%,939.0
+11:Crunch,2.07941176471%,707.0
+12:Hammer Arm,0.932352941176%,317.0
+13:Aqua Tail,0.685294117647%,233.0
+14:Safeguard,0.523529411765%,178.0
+15:Ice Beam,0.464705882353%,158.0
+16:Rock Tomb,0.441176470588%,150.0
+17:Giga Impact,0.435294117647%,148.0
+18:Drain Punch,0.414705882353%,141.0
+19:Rock Slide,0.358823529412%,122.0
+20:Facade,0.311764705882%,106.0
+0:Other,1.15882352941%,394.0
+
+ ---------- 
+Items used:
+1:Kangaskhanite,99.9382352941%,33979.0
+2:Chople Berry,0.0117647058824%,4.0
+3:Soothe Bell,0.00588235294118%,2.0
+4:Assault Vest,0.00294117647059%,1.0
+5:Everstone,0.00294117647059%,1.0
+6:Quick Claw,0.00294117647059%,1.0
+
+ ---------- 
+Abilities used:
+1:Scrappy,53.2911764706%,18119.0
+2:Inner Focus,45.4941176471%,15468.0
+3:Early Bird,1.21470588235%,413.0
+
+ ---------- 
+Natures used:
+1:Jolly,69.45%,23613.0
+2:Adamant,22.5676470588%,7673.0
+3:Brave,7.18529411765%,2443.0
+4:Impish,0.429411764706%,146.0
+5:Naive,0.188235294118%,64.0
+6:Careful,0.0882352941176%,30.0
+7:Naughty,0.0470588235294%,16.0
+8:Docile,0.0294117647059%,10.0
+9:Hasty,0.0147058823529%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Smeargle
+6:Cresselia
+7:Thundurus
+8:Landorus
+9:Yveltal
+10:Ferrothorn
+11:Rayquaza
+12:Dialga
+13:Whimsicott
+14:Crobat
+15:Amoonguss
+16:Gengar
+17:Bronzong
+18:Meowstic
+19:Kyurem
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Double-Edge,43.5558304391%,14808.9823493
+2:Low Kick,17.1654217613%,5836.24339883
+3:Return,13.5924639612%,4621.4377468
+4:Sucker Punch,13.1167039345%,4459.67933774
+5:Fake Out,4.34844664351%,1478.47185879
+6:Power-Up Punch,3.12574337504%,1062.75274751
+7:Frustration,2.34073933108%,795.851372568
+8:Ice Punch,0.894428850088%,304.10580903
+9:Crunch,0.418668823445%,142.347399971
+10:Fire Punch,0.404396022646%,137.4946477
+11:Hammer Arm,0.242637613588%,82.4967886198
+12:Ice Beam,0.137970407726%,46.909938627
+13:Giga Impact,0.128455207193%,43.6747704458
+14:Aqua Tail,0.109424806128%,37.2044340834
+15:Facade,0.0951520053285%,32.3516818117
+16:Drain Punch,0.0761216042628%,25.8813454494
+17:Rock Slide,0.0761216042628%,25.8813454494
+18:Rock Tomb,0.0713640039964%,24.2637613588
+19:Dizzy Punch,0.033303201865%,11.3230886341
+20:Earthquake,0.0237880013321%,8.08792045292
+0:Other,0.0428184023978%,14.5582568153
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.73698131923%,2970.57364854
+2:Low Kick,8.22036700281%,2794.92478096
+3:Dazzling Gleam,6.95569515622%,2364.93635312
+4:Water Spout,5.4347826087%,1847.82608696
+5:Eruption,5.29426351463%,1800.04959497
+6:Moonblast,5.05868738634%,1719.95371136
+7:Origin Pulse,4.38915523227%,1492.31277897
+8:Hyper Voice,4.19077533477%,1424.86361382
+9:Double-Edge,3.01289469334%,1024.38419573
+10:Sucker Punch,2.93850223177%,999.090758803
+11:Brave Bird,2.82691353943%,961.150603406
+12:Dragon Ascent,2.66572987271%,906.34815672
+13:Extreme Speed,2.49214746239%,847.330137213
+14:Gyro Ball,1.88874194082%,642.172259878
+15:Fire Punch,1.70689370144%,580.343858489
+16:Ice Beam,1.47131757315%,500.247974872
+17:Thunderbolt,1.28946933377%,438.419573483
+18:Rock Slide,1.16548189783%,396.263845264
+19:Foul Play,1.09108943627%,370.970408332
+20:Earth Power,0.987766572987%,335.840634816
+0:Other,15.705075219%,5339.72557448
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Talonflame
+4:Kyogre
+5:Xerneas
+6:Groudon
+7:Thundurus
+8:Crobat
+9:Salamence
+10:Weavile
+11:Landorus
+12:Liepard
+13:Rayquaza
+14:Ferrothorn
+15:Cresselia
+16:Dialga
+17:Whimsicott
+18:Yveltal
+19:Amoonguss
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Landorus
+9:Mawile
+10:Yveltal
+11:Ferrothorn
+12:Rayquaza
+13:Thundurus
+14:Dialga
+15:Weavile
+16:Gengar
+17:Bronzong
+18:Cresselia
+19:Kyurem
+20:Liepard

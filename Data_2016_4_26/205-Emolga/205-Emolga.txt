@@ -1,0 +1,80 @@
+205:Emolga|25
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,25.0
+2:Tailwind,96.0%,24.0
+3:Helping Hand,96.0%,24.0
+4:Encore,76.0%,19.0
+5:Ion Deluge,16.0%,4.0
+6:Taunt,8.0%,2.0
+7:Volt Switch,4.0%,1.0
+8:Hidden Power,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,25.0
+
+ ---------- 
+Abilities used:
+1:Motor Drive,96.0%,24.0
+2:Static,4.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,76.0%,19.0
+2:Jolly,24.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Bronzong
+5:Xerneas
+6:Rayquaza
+7:Clefairy
+8:Scrafty
+9:Lopunny
+10:Salamence
+11:Hitmontop
+12:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,16.6666666667%,4.16666666667
+2:Gyro Ball,11.1111111111%,2.77777777778
+3:Origin Pulse,5.55555555556%,1.38888888889
+4:Dazzling Gleam,5.55555555556%,1.38888888889
+5:Snarl,5.55555555556%,1.38888888889
+6:Brave Bird,5.55555555556%,1.38888888889
+7:Close Combat,5.55555555556%,1.38888888889
+8:Feint,5.55555555556%,1.38888888889
+9:Water Spout,5.55555555556%,1.38888888889
+10:Hyper Voice,5.55555555556%,1.38888888889
+11:Eruption,5.55555555556%,1.38888888889
+12:Hidden Power,5.55555555556%,1.38888888889
+13:Icy Wind,5.55555555556%,1.38888888889
+14:Rock Slide,5.55555555556%,1.38888888889
+15:Ice Beam,5.55555555556%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Salamence
+4:Kangaskhan
+5:Yveltal
+6:Xerneas
+7:Talonflame
+8:Thundurus
+9:Mienshao
+10:Ferrothorn
+11:Bronzong
+12:Infernape
+13:Gyarados

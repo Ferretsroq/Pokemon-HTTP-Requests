@@ -1,0 +1,128 @@
+95:Chansey|132
+ ---------- 
+Moves used:
+1:Soft-Boiled,94.696969697%,125.0
+2:Seismic Toss,92.4242424242%,122.0
+3:Thunder Wave,50.7575757576%,67.0
+4:Counter,46.9696969697%,62.0
+5:Heal Pulse,33.3333333333%,44.0
+6:Minimize,31.0606060606%,41.0
+7:Skill Swap,18.9393939394%,25.0
+8:Toxic,12.1212121212%,16.0
+9:Helping Hand,9.84848484848%,13.0
+10:Icy Wind,5.30303030303%,7.0
+11:Protect,3.78787878788%,5.0
+12:Swagger,0.757575757576%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,132.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,93.9393939394%,124.0
+2:Healer,3.78787878788%,5.0
+3:Serene Grace,2.27272727273%,3.0
+
+ ---------- 
+Natures used:
+1:Bold,72.7272727273%,96.0
+2:Relaxed,16.6666666667%,22.0
+3:Calm,9.84848484848%,13.0
+4:Impish,0.757575757576%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Groudon
+4:Gengar
+5:Smeargle
+6:Mewtwo
+7:Sableye
+8:Crobat
+9:Rayquaza
+10:Landorus
+11:Dialga
+12:Gyarados
+13:Xerneas
+14:Whimsicott
+15:Ferrothorn
+16:Zapdos
+17:Yveltal
+18:Sylveon
+19:Giratina
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,76.5957446809%,101.106382979
+2:Counter,21.2765957447%,28.085106383
+3:Icy Wind,2.12765957447%,2.8085106383
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,13.5593220339%,17.8983050847
+2:Precipice Blades,10.1694915254%,13.4237288136
+3:Double-Edge,10.1694915254%,13.4237288136
+4:Dragon Ascent,8.47457627119%,11.186440678
+5:Moonblast,8.47457627119%,11.186440678
+6:Brave Bird,6.77966101695%,8.94915254237
+7:Eruption,5.08474576271%,6.71186440678
+8:Power-Up Punch,3.38983050847%,4.47457627119
+9:Snarl,3.38983050847%,4.47457627119
+10:Knock Off,3.38983050847%,4.47457627119
+11:Return,3.38983050847%,4.47457627119
+12:Origin Pulse,1.69491525424%,2.23728813559
+13:Play Rough,1.69491525424%,2.23728813559
+14:Scald,1.69491525424%,2.23728813559
+15:Iron Head,1.69491525424%,2.23728813559
+16:Flash Cannon,1.69491525424%,2.23728813559
+17:Earth Power,1.69491525424%,2.23728813559
+18:Flare Blitz,1.69491525424%,2.23728813559
+19:Sheer Cold,1.69491525424%,2.23728813559
+20:Water Spout,1.69491525424%,2.23728813559
+0:Other,3.38983050847%,4.47457627119
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Kyogre
+4:Rayquaza
+5:Xerneas
+6:Ferrothorn
+7:Weavile
+8:Salamence
+9:Crobat
+10:Thundurus
+11:Bisharp
+12:Amoonguss
+13:Gothitelle
+14:Whimsicott
+15:Cresselia
+16:Mawile
+17:Smeargle
+18:Kangaskhan
+19:Clefairy
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Rayquaza
+5:Salamence
+6:Yveltal
+7:Talonflame
+8:Kyogre
+9:Mawile
+10:Ho-Oh
+11:Ferrothorn
+12:Dialga
+13:Rayquaza
+14:Groudon
+15:Smeargle
+16:Crobat
+17:Lapras

@@ -1,0 +1,143 @@
+107:Blastoise|198
+ ---------- 
+Moves used:
+1:Aura Sphere,77.7777777778%,154.0
+2:Fake Out,71.2121212121%,141.0
+3:Water Spout,69.1919191919%,137.0
+4:Dragon Pulse,55.5555555556%,110.0
+5:Ice Beam,35.8585858586%,71.0
+6:Dark Pulse,22.2222222222%,44.0
+7:Protect,21.7171717172%,43.0
+8:Scald,19.1919191919%,38.0
+9:Water Pulse,10.6060606061%,21.0
+10:Swagger,8.08080808081%,16.0
+11:Yawn,6.06060606061%,12.0
+12:Water Pledge,1.0101010101%,2.0
+13:Mirror Coat,1.0101010101%,2.0
+14:Aqua Jet,0.505050505051%,1.0
+
+ ---------- 
+Items used:
+1:Blastoisinite,72.2222222222%,143.0
+2:Sitrus Berry,10.6060606061%,21.0
+3:Leftovers,8.08080808081%,16.0
+4:Choice Scarf,7.07070707071%,14.0
+5:Wacan Berry,1.51515151515%,3.0
+6:Lax Incense,0.505050505051%,1.0
+
+ ---------- 
+Abilities used:
+1:Torrent,79.797979798%,158.0
+2:Rain Dish,20.202020202%,40.0
+
+ ---------- 
+Natures used:
+1:Timid,43.9393939394%,87.0
+2:Modest,36.3636363636%,72.0
+3:Bold,9.09090909091%,18.0
+4:Calm,7.07070707071%,14.0
+5:Quiet,3.53535353535%,7.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Hawlucha
+3:Zekrom
+4:Rayquaza
+5:Kyogre
+6:Scizor
+7:Cresselia
+8:Xerneas
+9:Yveltal
+10:Mewtwo
+11:Thundurus
+12:Crobat
+13:Ditto
+14:Greninja
+15:Pikachu
+16:Amoonguss
+17:Liepard
+18:Landorus
+19:Gengar
+20:Terrakion
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Water Spout,29.5081967213%,58.4262295082
+2:Dragon Pulse,20.4918032787%,40.5737704918
+3:Aura Sphere,18.8524590164%,37.3278688525
+4:Ice Beam,12.2950819672%,24.3442622951
+5:Scald,9.01639344262%,17.8524590164
+6:Dark Pulse,6.55737704918%,12.9836065574
+7:Fake Out,2.45901639344%,4.86885245902
+8:Water Pulse,0.819672131148%,1.62295081967
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.3333333333%,26.4
+2:Dazzling Gleam,10.0%,19.8
+3:Water Spout,10.0%,19.8
+4:Dragon Ascent,6.66666666667%,13.2
+5:Origin Pulse,4.16666666667%,8.25
+6:Earth Power,4.16666666667%,8.25
+7:Thunder,4.16666666667%,8.25
+8:Power Whip,3.33333333333%,6.6
+9:Eruption,3.33333333333%,6.6
+10:Thunderbolt,3.33333333333%,6.6
+11:Double-Edge,3.33333333333%,6.6
+12:Dragon Pulse,2.5%,4.95
+13:Sucker Punch,2.5%,4.95
+14:Moonblast,1.66666666667%,3.3
+15:Brave Bird,1.66666666667%,3.3
+16:Gyro Ball,1.66666666667%,3.3
+17:Hyper Voice,1.66666666667%,3.3
+18:Extreme Speed,1.66666666667%,3.3
+19:Explosion,1.66666666667%,3.3
+20:Power-Up Punch,0.833333333333%,1.65
+0:Other,18.3333333333%,36.3
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Smeargle
+4:Kangaskhan
+5:Talonflame
+6:Xerneas
+7:Dialga
+8:Rayquaza
+9:Landorus
+10:Cresselia
+11:Weavile
+12:Mawile
+13:Yveltal
+14:Ferrothorn
+15:Kyogre
+16:Crobat
+17:Thundurus
+18:Amoonguss
+19:Whimsicott
+20:Bronzong
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Ferrothorn
+7:Thundurus
+8:Dialga
+9:Rayquaza
+10:Talonflame
+11:Landorus
+12:Mienshao
+13:Gastrodon
+14:Salamence
+15:Kyurem
+16:Cresselia
+17:Palkia
+18:Weavile
+19:Groudon
+20:Mawile

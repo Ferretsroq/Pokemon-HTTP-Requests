@@ -1,0 +1,85 @@
+146:Plusle|1
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,1.0
+2:Entrainment,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Encore,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Xerneas
+3:Talonflame
+4:Kyogre
+5:Slowbro
+6:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nuzzle,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.2542372881%,0.152542372881
+2:Extreme Speed,8.47457627119%,0.0847457627119
+3:Precipice Blades,6.77966101695%,0.0677966101695
+4:Water Spout,6.77966101695%,0.0677966101695
+5:Double-Edge,6.77966101695%,0.0677966101695
+6:Eruption,5.08474576271%,0.0508474576271
+7:Hidden Power,5.08474576271%,0.0508474576271
+8:Ice Beam,5.08474576271%,0.0508474576271
+9:Origin Pulse,3.38983050847%,0.0338983050847
+10:Snarl,3.38983050847%,0.0338983050847
+11:Power Whip,3.38983050847%,0.0338983050847
+12:Earth Power,3.38983050847%,0.0338983050847
+13:Gyro Ball,3.38983050847%,0.0338983050847
+14:Superpower,3.38983050847%,0.0338983050847
+15:Power-Up Punch,1.69491525424%,0.0169491525424
+16:Moonblast,1.69491525424%,0.0169491525424
+17:Foul Play,1.69491525424%,0.0169491525424
+18:Draco Meteor,1.69491525424%,0.0169491525424
+19:Brave Bird,1.69491525424%,0.0169491525424
+20:Dark Pulse,1.69491525424%,0.0169491525424
+0:Other,6.77966101695%,0.0677966101695
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Liepard
+3:Palkia
+4:Kyogre
+5:Smeargle
+6:Venusaur
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Thundurus
+6:Ferrothorn
+7:Rayquaza
+8:Yveltal
+9:Cresselia
+10:Salamence
+11:Zapdos
+12:Talonflame
+13:Greninja
+14:Landorus
+15:Liepard
+16:Rayquaza
+17:Sableye

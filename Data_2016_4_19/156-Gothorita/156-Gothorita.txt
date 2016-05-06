@@ -1,0 +1,76 @@
+156:Gothorita|46
+ ---------- 
+Moves used:
+1:Heal Pulse,100.0%,46.0
+2:Trick Room,100.0%,46.0
+3:Helping Hand,73.9130434783%,34.0
+4:Magic Coat,67.3913043478%,31.0
+5:Gravity,36.9565217391%,17.0
+6:Protect,21.7391304348%,10.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,46.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,46.0
+
+ ---------- 
+Natures used:
+1:Sassy,97.8260869565%,45.0
+2:Relaxed,2.17391304348%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Smeargle
+4:Kyurem
+5:Breloom
+6:Giratina
+7:Sableye
+8:Lilligant
+9:Zoroark
+10:Gengar
+11:Dialga
+12:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,10.0%,4.6
+2:Eruption,10.0%,4.6
+3:Rock Slide,10.0%,4.6
+4:Precipice Blades,6.66666666667%,3.06666666667
+5:Dazzling Gleam,6.66666666667%,3.06666666667
+6:Brave Bird,6.66666666667%,3.06666666667
+7:Water Spout,6.66666666667%,3.06666666667
+8:Hyper Voice,6.66666666667%,3.06666666667
+9:Knock Off,6.66666666667%,3.06666666667
+10:Extreme Speed,6.66666666667%,3.06666666667
+11:Dragon Ascent,3.33333333333%,1.53333333333
+12:Snarl,3.33333333333%,1.53333333333
+13:Sludge Bomb,3.33333333333%,1.53333333333
+14:Earthquake,3.33333333333%,1.53333333333
+15:Ice Beam,3.33333333333%,1.53333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Talonflame
+8:Weavile
+9:Rayquaza
+10:Crobat
+11:Kangaskhan
+12:Gengar

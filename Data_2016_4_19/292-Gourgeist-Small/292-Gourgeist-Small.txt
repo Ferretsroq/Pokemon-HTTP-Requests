@@ -1,0 +1,42 @@
+292:Gourgeist-Small|1
+ ---------- 
+Moves used:
+1:Trick-or-Treat,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Leech Seed,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Yveltal
+4:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,50.0%,0.5
+2:Hyper Voice,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Salamence

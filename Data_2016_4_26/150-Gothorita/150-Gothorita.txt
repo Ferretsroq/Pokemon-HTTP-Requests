@@ -1,0 +1,87 @@
+150:Gothorita|74
+ ---------- 
+Moves used:
+1:Heal Pulse,90.5405405405%,67.0
+2:Trick Room,90.5405405405%,67.0
+3:Helping Hand,87.8378378378%,65.0
+4:Magic Coat,62.1621621622%,46.0
+5:Protect,31.0810810811%,23.0
+6:Gravity,28.3783783784%,21.0
+7:Thunder Wave,9.45945945946%,7.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,74.0
+
+ ---------- 
+Abilities used:
+1:Shadow Tag,100.0%,74.0
+
+ ---------- 
+Natures used:
+1:Sassy,89.1891891892%,66.0
+2:Bold,9.45945945946%,7.0
+3:Relaxed,1.35135135135%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Smeargle
+4:Breloom
+5:Giratina
+6:Kyurem
+7:Sableye
+8:Kyogre
+9:Rayquaza
+10:Lilligant
+11:Scizor
+12:Zoroark
+13:Hydreigon
+14:Whimsicott
+15:Gengar
+16:Dialga
+17:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,10.6382978723%,7.87234042553
+2:Precipice Blades,10.6382978723%,7.87234042553
+3:Origin Pulse,10.6382978723%,7.87234042553
+4:Eruption,8.51063829787%,6.29787234043
+5:Dazzling Gleam,6.3829787234%,4.72340425532
+6:Water Spout,6.3829787234%,4.72340425532
+7:Hyper Voice,6.3829787234%,4.72340425532
+8:Knock Off,6.3829787234%,4.72340425532
+9:Rock Slide,6.3829787234%,4.72340425532
+10:Brave Bird,4.25531914894%,3.14893617021
+11:Extreme Speed,4.25531914894%,3.14893617021
+12:Moonblast,2.12765957447%,1.57446808511
+13:Snarl,2.12765957447%,1.57446808511
+14:Sludge Bomb,2.12765957447%,1.57446808511
+15:Fire Blast,2.12765957447%,1.57446808511
+16:Earthquake,2.12765957447%,1.57446808511
+17:Ice Beam,2.12765957447%,1.57446808511
+18:Double-Edge,2.12765957447%,1.57446808511
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Yveltal
+6:Rayquaza
+7:Salamence
+8:Kangaskhan
+9:Talonflame
+10:Weavile
+11:Crobat
+12:Gyarados
+13:Gengar

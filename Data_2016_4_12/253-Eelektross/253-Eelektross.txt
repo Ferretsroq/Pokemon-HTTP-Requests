@@ -1,0 +1,58 @@
+253:Eelektross|5
+ ---------- 
+Moves used:
+1:Super Fang,60.0%,3.0
+2:Volt Switch,40.0%,2.0
+3:Acid Spray,40.0%,2.0
+4:Gastro Acid,40.0%,2.0
+5:Giga Drain,40.0%,2.0
+6:Thunder Wave,40.0%,2.0
+7:Thunderbolt,40.0%,2.0
+8:Flamethrower,40.0%,2.0
+9:Wild Charge,20.0%,1.0
+10:Protect,20.0%,1.0
+11:Fire Punch,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,40.0%,2.0
+2:Focus Sash,40.0%,2.0
+3:Bright Powder,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Calm,40.0%,2.0
+2:Modest,40.0%,2.0
+3:Adamant,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Whimsicott
+4:Scizor
+5:Rayquaza
+6:Groudon
+7:Gengar
+8:Slowbro
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,1.66666666667
+2:Water Spout,33.3333333333%,1.66666666667
+3:Frustration,33.3333333333%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan

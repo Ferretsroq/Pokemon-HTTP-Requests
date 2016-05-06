@@ -1,0 +1,39 @@
+333:Kingler|1
+ ---------- 
+Moves used:
+1:Knock Off,100.0%,1.0
+2:Superpower,100.0%,1.0
+3:Facade,100.0%,1.0
+4:Crabhammer,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Ninjask
+2:Slowbro
+3:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

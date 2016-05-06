@@ -1,0 +1,131 @@
+162:Zoroark|74
+ ---------- 
+Moves used:
+1:Taunt,70.2702702703%,52.0
+2:Protect,70.2702702703%,52.0
+3:Fling,56.7567567568%,42.0
+4:Night Daze,52.7027027027%,39.0
+5:Dark Pulse,29.7297297297%,22.0
+6:Flamethrower,25.6756756757%,19.0
+7:Hidden Power,21.6216216216%,16.0
+8:Foul Play,16.2162162162%,12.0
+9:Sludge Bomb,14.8648648649%,11.0
+10:Grass Knot,6.75675675676%,5.0
+11:Nasty Plot,6.75675675676%,5.0
+12:U-turn,6.75675675676%,5.0
+13:Focus Blast,4.05405405405%,3.0
+14:Swagger,4.05405405405%,3.0
+15:Sucker Punch,2.7027027027%,2.0
+16:Trick,2.7027027027%,2.0
+17:Substitute,2.7027027027%,2.0
+18:Low Kick,2.7027027027%,2.0
+19:Swords Dance,2.7027027027%,2.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,56.7567567568%,42.0
+2:Choice Specs,14.8648648649%,11.0
+3:Focus Sash,13.5135135135%,10.0
+4:Life Orb,10.8108108108%,8.0
+5:Black Glasses,4.05405405405%,3.0
+
+ ---------- 
+Abilities used:
+1:Illusion,100.0%,74.0
+
+ ---------- 
+Natures used:
+1:Timid,90.5405405405%,67.0
+2:Hasty,6.75675675676%,5.0
+3:Adamant,2.7027027027%,2.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Toxicroak
+3:Zekrom
+4:Yveltal
+5:Kangaskhan
+6:Marowak
+7:Rayquaza
+8:Groudon
+9:Xerneas
+10:Giratina
+11:Landorus
+12:Sharpedo
+13:Raichu
+14:Talonflame
+15:Kyurem
+16:Mewtwo
+17:Gothorita
+18:Kyogre
+19:Manectric
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dark Pulse,32.0%,23.68
+2:Night Daze,24.0%,17.76
+3:Flamethrower,16.0%,11.84
+4:Foul Play,8.0%,5.92
+5:Sludge Bomb,8.0%,5.92
+6:Focus Blast,4.0%,2.96
+7:Fling,4.0%,2.96
+8:Hidden Power,4.0%,2.96
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,30.3571428571%,22.4642857143
+2:Water Spout,10.7142857143%,7.92857142857
+3:Double-Edge,8.92857142857%,6.60714285714
+4:Precipice Blades,7.14285714286%,5.28571428571
+5:Moonblast,5.35714285714%,3.96428571429
+6:Hyper Voice,5.35714285714%,3.96428571429
+7:Power-Up Punch,3.57142857143%,2.64285714286
+8:Play Rough,3.57142857143%,2.64285714286
+9:Scald,3.57142857143%,2.64285714286
+10:Grass Knot,3.57142857143%,2.64285714286
+11:Eruption,3.57142857143%,2.64285714286
+12:Extreme Speed,3.57142857143%,2.64285714286
+13:Origin Pulse,1.78571428571%,1.32142857143
+14:Dragon Pulse,1.78571428571%,1.32142857143
+15:Feint,1.78571428571%,1.32142857143
+16:Frustration,1.78571428571%,1.32142857143
+17:High Jump Kick,1.78571428571%,1.32142857143
+18:Earthquake,1.78571428571%,1.32142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Smeargle
+3:Kangaskhan
+4:Cresselia
+5:Mawile
+6:Xerneas
+7:Talonflame
+8:Ferrothorn
+9:Weavile
+10:Groudon
+11:Kyogre
+12:Salamence
+13:Shiftry
+14:Lugia
+15:Crobat
+16:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Salamence
+6:Amoonguss
+7:Whimsicott
+8:Mawile
+9:Landorus
+10:Mienshao
+11:Dialga
+12:Weavile
+13:Rayquaza
+14:Rayquaza

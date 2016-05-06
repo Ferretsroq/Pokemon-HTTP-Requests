@@ -1,0 +1,126 @@
+90:Jolteon|95
+ ---------- 
+Moves used:
+1:Discharge,96.8421052632%,92.0
+2:Protect,96.8421052632%,92.0
+3:Hidden Power,84.2105263158%,80.0
+4:Roar,81.0526315789%,77.0
+5:Thunderbolt,17.8947368421%,17.0
+6:Swagger,15.7894736842%,15.0
+7:Volt Switch,3.15789473684%,3.0
+8:Shadow Ball,2.10526315789%,2.0
+9:Thunder Wave,2.10526315789%,2.0
+
+ ---------- 
+Items used:
+1:Flame Orb,81.0526315789%,77.0
+2:Air Balloon,15.7894736842%,15.0
+3:Choice Specs,2.10526315789%,2.0
+
+ ---------- 
+Abilities used:
+1:Quick Feet,81.0526315789%,77.0
+2:Volt Absorb,18.9473684211%,18.0
+
+ ---------- 
+Natures used:
+1:Modest,81.0526315789%,77.0
+2:Timid,18.9473684211%,18.0
+
+ ---------- 
+Top teammates:
+1:Sceptile
+2:Groudon
+3:Kyogre
+4:Cresselia
+5:Scizor
+6:Golduck
+7:Xerneas
+8:Lucario
+9:Weavile
+10:Rotom
+11:Kangaskhan
+12:Yveltal
+13:Landorus
+14:Amoonguss
+15:Palkia
+16:Leafeon
+17:Mawile
+18:Flareon
+19:Vaporeon
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Discharge,69.7674418605%,66.2790697674
+2:Hidden Power,20.9302325581%,19.8837209302
+3:Thunderbolt,6.97674418605%,6.62790697674
+4:Volt Switch,2.32558139535%,2.20930232558
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.5135135135%,12.8378378378
+2:Dazzling Gleam,9.45945945946%,8.98648648649
+3:Extreme Speed,8.10810810811%,7.7027027027
+4:Double-Edge,8.10810810811%,7.7027027027
+5:Sucker Punch,4.05405405405%,3.85135135135
+6:Hyper Voice,4.05405405405%,3.85135135135
+7:Eruption,4.05405405405%,3.85135135135
+8:Return,4.05405405405%,3.85135135135
+9:Earthquake,4.05405405405%,3.85135135135
+10:Power Whip,2.7027027027%,2.56756756757
+11:Flare Blitz,2.7027027027%,2.56756756757
+12:Knock Off,2.7027027027%,2.56756756757
+13:Origin Pulse,1.35135135135%,1.28378378378
+14:Moonblast,1.35135135135%,1.28378378378
+15:Play Rough,1.35135135135%,1.28378378378
+16:Hex,1.35135135135%,1.28378378378
+17:Foul Play,1.35135135135%,1.28378378378
+18:Draco Meteor,1.35135135135%,1.28378378378
+19:Earth Power,1.35135135135%,1.28378378378
+20:Water Spout,1.35135135135%,1.28378378378
+0:Other,8.10810810811%,7.7027027027
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Smeargle
+3:Crobat
+4:Whimsicott
+5:Liepard
+6:Kyogre
+7:Salamence
+8:Kangaskhan
+9:Gengar
+10:Gengar
+11:Landorus
+12:Landorus
+13:Amoonguss
+14:Dialga
+15:Togekiss
+16:Infernape
+17:Rayquaza
+18:Lapras
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Rayquaza
+5:Salamence
+6:Landorus
+7:Weavile
+8:Talonflame
+9:Ferrothorn
+10:Mawile
+11:Yveltal
+12:Kyurem
+13:Terrakion
+14:Amoonguss
+15:Cresselia
+16:Dialga
+17:Lopunny
+18:Rayquaza
+19:Kyogre
+20:Kyogre

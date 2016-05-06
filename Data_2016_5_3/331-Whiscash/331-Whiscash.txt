@@ -1,0 +1,45 @@
+331:Whiscash|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Earth Power,100.0%,1.0
+3:Spark,100.0%,1.0
+4:Icy Wind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Bronzong
+4:Salamence
+5:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,50.0%,0.5
+2:Double-Edge,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Salamence

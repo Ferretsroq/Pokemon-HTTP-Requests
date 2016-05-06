@@ -1,0 +1,100 @@
+149:Banette|25
+ ---------- 
+Moves used:
+1:Destiny Bond,80.0%,20.0
+2:Protect,76.0%,19.0
+3:Knock Off,36.0%,9.0
+4:Skill Swap,32.0%,8.0
+5:Phantom Force,28.0%,7.0
+6:Shadow Claw,28.0%,7.0
+7:Will-O-Wisp,28.0%,7.0
+8:Gunk Shot,24.0%,6.0
+9:Magic Coat,24.0%,6.0
+10:Trick Room,12.0%,3.0
+11:Curse,12.0%,3.0
+12:Disable,12.0%,3.0
+13:Snatch,8.0%,2.0
+
+ ---------- 
+Items used:
+1:Banettite,88.0%,22.0
+2:Lum Berry,12.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,76.0%,19.0
+2:Frisk,24.0%,6.0
+
+ ---------- 
+Natures used:
+1:Impish,36.0%,9.0
+2:Adamant,32.0%,8.0
+3:Careful,20.0%,5.0
+4:Sassy,12.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Milotic
+4:Clefable
+5:Aegislash
+6:Landorus
+7:Kyogre
+8:Misdreavus
+9:Xerneas
+10:Kyurem
+11:Gastrodon
+12:Mawile
+13:Smeargle
+14:Sylveon
+15:Ferrothorn
+16:Ho-Oh
+17:Zekrom
+18:Whimsicott
+19:Scizor
+20:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,60.0%,15.0
+2:Gunk Shot,20.0%,5.0
+3:Knock Off,20.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,18.1818181818%,4.54545454545
+2:Precipice Blades,9.09090909091%,2.27272727273
+3:Dazzling Gleam,9.09090909091%,2.27272727273
+4:Moonblast,9.09090909091%,2.27272727273
+5:Brave Bird,9.09090909091%,2.27272727273
+6:Water Spout,9.09090909091%,2.27272727273
+7:Thunderbolt,9.09090909091%,2.27272727273
+8:Origin Pulse,4.54545454545%,1.13636363636
+9:Hurricane,4.54545454545%,1.13636363636
+10:Foul Play,4.54545454545%,1.13636363636
+11:Dragon Pulse,4.54545454545%,1.13636363636
+12:Hyper Voice,4.54545454545%,1.13636363636
+13:Double-Edge,4.54545454545%,1.13636363636
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Landorus
+4:Thundurus
+5:Groudon
+6:Smeargle
+7:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Thundurus
+6:Salamence
+7:Liepard
+8:Dialga
+9:Pidgeot

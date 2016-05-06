@@ -1,0 +1,113 @@
+119:Alakazam|45
+ ---------- 
+Moves used:
+1:Psychic,64.4444444444%,29.0
+2:Gravity,44.4444444444%,20.0
+3:Taunt,42.2222222222%,19.0
+4:Encore,40.0%,18.0
+5:Magic Room,28.8888888889%,13.0
+6:Magic Coat,26.6666666667%,12.0
+7:Psyshock,20.0%,9.0
+8:Hidden Power,20.0%,9.0
+9:Skill Swap,15.5555555556%,7.0
+10:Focus Blast,13.3333333333%,6.0
+11:Trick Room,11.1111111111%,5.0
+12:Knock Off,11.1111111111%,5.0
+13:Protect,8.88888888889%,4.0
+14:Ally Switch,6.66666666667%,3.0
+15:Guard Split,6.66666666667%,3.0
+16:Grass Knot,6.66666666667%,3.0
+17:Role Play,6.66666666667%,3.0
+18:Trick,6.66666666667%,3.0
+19:Swagger,6.66666666667%,3.0
+20:Dazzling Gleam,4.44444444444%,2.0
+0:Other,8.88888888889%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,75.5555555556%,34.0
+2:Mental Herb,11.1111111111%,5.0
+3:Choice Scarf,6.66666666667%,3.0
+4:Lum Berry,6.66666666667%,3.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,97.7777777778%,44.0
+2:Synchronize,2.22222222222%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,75.5555555556%,34.0
+2:Modest,24.4444444444%,11.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Gengar
+5:Crobat
+6:Kangaskhan
+7:Whimsicott
+8:Salamence
+9:Mawile
+10:Rayquaza
+11:Bisharp
+12:Ferrothorn
+13:Amoonguss
+14:Landorus
+15:Zekrom
+16:Jellicent
+17:Gallade
+18:Mewtwo
+19:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,64.2857142857%,28.9285714286
+2:Focus Blast,14.2857142857%,6.42857142857
+3:Hidden Power,14.2857142857%,6.42857142857
+4:Psyshock,7.14285714286%,3.21428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.7058823529%,6.61764705882
+2:Brave Bird,14.7058823529%,6.61764705882
+3:Dazzling Gleam,11.7647058824%,5.29411764706
+4:Double-Edge,11.7647058824%,5.29411764706
+5:Hyper Voice,8.82352941176%,3.97058823529
+6:Eruption,8.82352941176%,3.97058823529
+7:Origin Pulse,2.94117647059%,1.32352941176
+8:Power-Up Punch,2.94117647059%,1.32352941176
+9:Moonblast,2.94117647059%,1.32352941176
+10:Snarl,2.94117647059%,1.32352941176
+11:Aqua Jet,2.94117647059%,1.32352941176
+12:Earth Power,2.94117647059%,1.32352941176
+13:Water Spout,2.94117647059%,1.32352941176
+14:Fake Out,2.94117647059%,1.32352941176
+15:Return,2.94117647059%,1.32352941176
+16:Thunderbolt,2.94117647059%,1.32352941176
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Whimsicott
+3:Groudon
+4:Salamence
+5:Terrakion
+6:Rayquaza
+7:Smeargle
+8:Crobat
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Talonflame
+5:Salamence
+6:Kyogre
+7:Yveltal
+8:Azumarill
+9:Zapdos

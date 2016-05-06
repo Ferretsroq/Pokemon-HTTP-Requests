@@ -1,0 +1,107 @@
+148:Archeops|76
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,76.0
+2:Rock Slide,100.0%,76.0
+3:Quick Guard,82.8947368421%,63.0
+4:Knock Off,81.5789473684%,62.0
+5:Protect,18.4210526316%,14.0
+6:Endeavor,17.1052631579%,13.0
+
+ ---------- 
+Items used:
+1:Focus Sash,98.6842105263%,75.0
+2:Wide Lens,1.31578947368%,1.0
+
+ ---------- 
+Abilities used:
+1:Defeatist,100.0%,76.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,76.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Weavile
+3:Rayquaza
+4:Kyogre
+5:Landorus
+6:Mawile
+7:Yveltal
+8:Salamence
+9:Talonflame
+10:Xerneas
+11:Sylveon
+12:Cresselia
+13:Ambipom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,88.0%,66.88
+2:Knock Off,12.0%,9.12
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.4603174603%,13.2698412698
+2:Water Spout,14.2857142857%,10.8571428571
+3:Ice Beam,9.52380952381%,7.2380952381
+4:Rock Slide,7.93650793651%,6.03174603175
+5:Origin Pulse,4.7619047619%,3.61904761905
+6:Eruption,4.7619047619%,3.61904761905
+7:Scald,3.1746031746%,2.4126984127
+8:Grass Knot,3.1746031746%,2.4126984127
+9:Sucker Punch,3.1746031746%,2.4126984127
+10:Hyper Voice,3.1746031746%,2.4126984127
+11:Blizzard,3.1746031746%,2.4126984127
+12:Precipice Blades,1.5873015873%,1.20634920635
+13:Moonblast,1.5873015873%,1.20634920635
+14:Play Rough,1.5873015873%,1.20634920635
+15:Foul Play,1.5873015873%,1.20634920635
+16:Iron Head,1.5873015873%,1.20634920635
+17:Dragon Pulse,1.5873015873%,1.20634920635
+18:Flare Blitz,1.5873015873%,1.20634920635
+19:Feint,1.5873015873%,1.20634920635
+20:Gyro Ball,1.5873015873%,1.20634920635
+0:Other,6.34920634921%,4.8253968254
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Smeargle
+3:Thundurus
+4:Crobat
+5:Yveltal
+6:Mienshao
+7:Cofagrigus
+8:Cresselia
+9:Dialga
+10:Bronzong
+11:Salamence
+12:Glalie
+13:Ho-Oh
+14:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Landorus
+5:Amoonguss
+6:Kyogre
+7:Salamence
+8:Kangaskhan
+9:Talonflame
+10:Greninja
+11:Kyurem
+12:Thundurus
+13:Terrakion
+14:Liepard
+15:Cresselia
+16:Dialga
+17:Bronzong
+18:Metagross
+19:Mawile
+20:Sableye

@@ -1,0 +1,113 @@
+172:Uxie|59
+ ---------- 
+Moves used:
+1:Foul Play,57.6271186441%,34.0
+2:Skill Swap,57.6271186441%,34.0
+3:Trick Room,55.9322033898%,33.0
+4:Thunder Wave,44.0677966102%,26.0
+5:Helping Hand,28.813559322%,17.0
+6:Swagger,22.0338983051%,13.0
+7:Magic Coat,18.6440677966%,11.0
+8:Memento,16.9491525424%,10.0
+9:Protect,16.9491525424%,10.0
+10:Imprison,13.5593220339%,8.0
+11:Yawn,13.5593220339%,8.0
+12:Reflect,13.5593220339%,8.0
+13:Light Screen,13.5593220339%,8.0
+14:Psychic,11.8644067797%,7.0
+15:Grass Knot,10.1694915254%,6.0
+16:Toxic,3.38983050847%,2.0
+17:Trick,1.69491525424%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,72.8813559322%,43.0
+2:Leftovers,16.9491525424%,10.0
+3:Mental Herb,8.47457627119%,5.0
+4:Choice Scarf,1.69491525424%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,59.0
+
+ ---------- 
+Natures used:
+1:Timid,38.9830508475%,23.0
+2:Bold,25.4237288136%,15.0
+3:Jolly,16.9491525424%,10.0
+4:Calm,13.5593220339%,8.0
+5:Careful,5.08474576271%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Liepard
+4:Mawile
+5:Xerneas
+6:Kyogre
+7:Salamence
+8:Hydreigon
+9:Kangaskhan
+10:Landorus
+11:Zekrom
+12:Durant
+13:Rayquaza
+14:Clefable
+15:Gallade
+16:Weavile
+17:Crobat
+18:Heliolisk
+19:Talonflame
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,61.5384615385%,36.3076923077
+2:Grass Knot,23.0769230769%,13.6153846154
+3:Psychic,15.3846153846%,9.07692307692
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,15.7894736842%,9.31578947368
+2:Eruption,13.1578947368%,7.76315789474
+3:Hyper Voice,10.5263157895%,6.21052631579
+4:Dazzling Gleam,7.89473684211%,4.65789473684
+5:Water Spout,7.89473684211%,4.65789473684
+6:Brave Bird,5.26315789474%,3.10526315789
+7:Double-Edge,5.26315789474%,3.10526315789
+8:Precipice Blades,2.63157894737%,1.55263157895
+9:Moonblast,2.63157894737%,1.55263157895
+10:Volt Tackle,2.63157894737%,1.55263157895
+11:Knock Off,2.63157894737%,1.55263157895
+12:Shadow Ball,2.63157894737%,1.55263157895
+13:Return,2.63157894737%,1.55263157895
+14:Sludge Bomb,2.63157894737%,1.55263157895
+15:Fire Punch,2.63157894737%,1.55263157895
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Ferrothorn
+3:Kyogre
+4:Talonflame
+5:Landorus
+6:Liepard
+7:Dialga
+8:Rayquaza
+9:Mawile
+10:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Talonflame
+6:Kangaskhan
+7:Sylveon
+8:Weavile
+9:Gengar
+10:Raichu
+11:Venusaur

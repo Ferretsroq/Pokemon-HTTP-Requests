@@ -1,0 +1,64 @@
+196:Slurpuff|10
+ ---------- 
+Moves used:
+1:Protect,100.0%,10.0
+2:Play Rough,70.0%,7.0
+3:Drain Punch,70.0%,7.0
+4:Belly Drum,70.0%,7.0
+5:Dazzling Gleam,30.0%,3.0
+6:Yawn,20.0%,2.0
+7:Helping Hand,20.0%,2.0
+8:Magic Coat,10.0%,1.0
+9:Flamethrower,10.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,90.0%,9.0
+2:Kee Berry,10.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sweet Veil,100.0%,10.0
+
+ ---------- 
+Natures used:
+1:Adamant,70.0%,7.0
+2:Bold,20.0%,2.0
+3:Quiet,10.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Lugia
+3:Salamence
+4:Yveltal
+5:Meowstic
+6:Giratina
+7:Scizor
+8:Xerneas
+9:Landorus
+10:Dialga
+11:Kyogre
+12:Raichu
+13:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,28.5714285714%,2.85714285714
+2:Iron Head,28.5714285714%,2.85714285714
+3:Origin Pulse,14.2857142857%,1.42857142857
+4:Dazzling Gleam,14.2857142857%,1.42857142857
+5:Fire Punch,14.2857142857%,1.42857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Dialga
+4:Kyogre

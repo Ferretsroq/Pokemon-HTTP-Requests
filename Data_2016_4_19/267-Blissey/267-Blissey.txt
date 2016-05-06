@@ -1,0 +1,73 @@
+267:Blissey|6
+ ---------- 
+Moves used:
+1:Soft-Boiled,83.3333333333%,5.0
+2:Seismic Toss,83.3333333333%,5.0
+3:Heal Pulse,33.3333333333%,2.0
+4:Rock Slide,33.3333333333%,2.0
+5:Light Screen,33.3333333333%,2.0
+6:Thunder Wave,33.3333333333%,2.0
+7:Fling,16.6666666667%,1.0
+8:Calm Mind,16.6666666667%,1.0
+9:Minimize,16.6666666667%,1.0
+10:Toxic,16.6666666667%,1.0
+11:Counter,16.6666666667%,1.0
+12:Ice Beam,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,50.0%,3.0
+2:Kee Berry,16.6666666667%,1.0
+3:Choice Scarf,16.6666666667%,1.0
+4:Focus Sash,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,50.0%,3.0
+2:Natural Cure,50.0%,3.0
+
+ ---------- 
+Natures used:
+1:Bold,50.0%,3.0
+2:Calm,16.6666666667%,1.0
+3:Jolly,16.6666666667%,1.0
+4:Timid,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Salamence
+4:Crobat
+5:Talonflame
+6:Dialga
+7:Weavile
+8:Sableye
+9:Gardevoir
+10:Dragonite
+11:Gyarados
+12:Gengar
+13:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,1.5
+2:Bug Bite,25.0%,1.5
+3:Close Combat,25.0%,1.5
+4:Low Kick,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Terrakion
+2:Groudon
+3:Scizor
+4:Kangaskhan

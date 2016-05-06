@@ -1,0 +1,97 @@
+178:Misdreavus|25
+ ---------- 
+Moves used:
+1:Will-O-Wisp,72.0%,18.0
+2:Pain Split,64.0%,16.0
+3:Icy Wind,64.0%,16.0
+4:Trick Room,56.0%,14.0
+5:Hex,36.0%,9.0
+6:Shadow Ball,20.0%,5.0
+7:Foul Play,16.0%,4.0
+8:Skill Swap,16.0%,4.0
+9:Magic Coat,16.0%,4.0
+10:Protect,16.0%,4.0
+11:Power Gem,12.0%,3.0
+12:Curse,12.0%,3.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,25.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,25.0
+
+ ---------- 
+Natures used:
+1:Relaxed,36.0%,9.0
+2:Calm,28.0%,7.0
+3:Bold,20.0%,5.0
+4:Timid,16.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyurem
+3:Banette
+4:Kangaskhan
+5:Sylveon
+6:Xerneas
+7:Ferrothorn
+8:Giratina
+9:Kyogre
+10:Mawile
+11:Cloyster
+12:Tyrantrum
+13:Weavile
+14:Lugia
+15:Aegislash
+16:Heatran
+17:Cradily
+18:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hex,44.4444444444%,11.1111111111
+2:Icy Wind,44.4444444444%,11.1111111111
+3:Shadow Ball,11.1111111111%,2.77777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,15.7894736842%,3.94736842105
+2:Dazzling Gleam,10.5263157895%,2.63157894737
+3:Water Spout,10.5263157895%,2.63157894737
+4:Hyper Voice,10.5263157895%,2.63157894737
+5:Precipice Blades,5.26315789474%,1.31578947368
+6:Origin Pulse,5.26315789474%,1.31578947368
+7:Scald,5.26315789474%,1.31578947368
+8:Shadow Force,5.26315789474%,1.31578947368
+9:Brave Bird,5.26315789474%,1.31578947368
+10:Shadow Ball,5.26315789474%,1.31578947368
+11:Outrage,5.26315789474%,1.31578947368
+12:Thunderbolt,5.26315789474%,1.31578947368
+13:Flamethrower,5.26315789474%,1.31578947368
+14:Fire Punch,5.26315789474%,1.31578947368
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Meowstic
+4:Thundurus
+5:Cresselia
+6:Groudon
+7:Smeargle
+8:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Aegislash
+6:Talonflame
+7:Thundurus
+8:Giratina
+9:Garchomp

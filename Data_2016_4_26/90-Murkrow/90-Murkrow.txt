@@ -1,0 +1,131 @@
+90:Murkrow|248
+ ---------- 
+Moves used:
+1:Taunt,85.4838709677%,212.0
+2:Quash,66.5322580645%,165.0
+3:Haze,39.1129032258%,97.0
+4:Icy Wind,36.6935483871%,91.0
+5:Thunder Wave,31.4516129032%,78.0
+6:Tailwind,26.2096774194%,65.0
+7:Foul Play,23.7903225806%,59.0
+8:Protect,19.7580645161%,49.0
+9:Roost,19.3548387097%,48.0
+10:Perish Song,18.9516129032%,47.0
+11:Feather Dance,16.5322580645%,41.0
+12:Confuse Ray,7.66129032258%,19.0
+13:Swagger,3.22580645161%,8.0
+14:Brave Bird,2.82258064516%,7.0
+15:Night Shade,1.61290322581%,4.0
+16:Snarl,0.403225806452%,1.0
+17:Torment,0.403225806452%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,58.064516129%,144.0
+2:Eviolite,40.7258064516%,101.0
+3:Mental Herb,0.806451612903%,2.0
+4:Everstone,0.403225806452%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,248.0
+
+ ---------- 
+Natures used:
+1:Timid,41.1290322581%,102.0
+2:Careful,23.3870967742%,58.0
+3:Bold,12.0967741935%,30.0
+4:Naive,11.2903225806%,28.0
+5:Calm,5.64516129032%,14.0
+6:Jolly,4.03225806452%,10.0
+7:Impish,2.41935483871%,6.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Rayquaza
+5:Gengar
+6:Raichu
+7:Kyogre
+8:Ferrothorn
+9:Weavile
+10:Probopass
+11:Sableye
+12:Kangaskhan
+13:Landorus
+14:Gothitelle
+15:Heatran
+16:Sceptile
+17:Yveltal
+18:Talonflame
+19:Togekiss
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,72.0%,178.56
+2:Icy Wind,28.0%,69.44
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.9894179894%,44.6137566138
+2:Water Spout,10.0529100529%,24.9312169312
+3:Eruption,7.40740740741%,18.3703703704
+4:Ice Beam,5.29100529101%,13.1216931217
+5:Rock Slide,4.7619047619%,11.8095238095
+6:Brave Bird,3.7037037037%,9.18518518519
+7:Gyro Ball,3.7037037037%,9.18518518519
+8:Extreme Speed,3.1746031746%,7.87301587302
+9:Thunderbolt,3.1746031746%,7.87301587302
+10:Double-Edge,3.1746031746%,7.87301587302
+11:Fire Punch,3.1746031746%,7.87301587302
+12:Origin Pulse,2.6455026455%,6.56084656085
+13:Hyper Voice,2.6455026455%,6.56084656085
+14:Moonblast,2.1164021164%,5.24867724868
+15:Ice Punch,2.1164021164%,5.24867724868
+16:Sludge Bomb,1.5873015873%,3.93650793651
+17:Precipice Blades,1.0582010582%,2.62433862434
+18:Power-Up Punch,1.0582010582%,2.62433862434
+19:Scald,1.0582010582%,2.62433862434
+20:Iron Head,1.0582010582%,2.62433862434
+0:Other,14.8148148148%,36.7407407407
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Whimsicott
+3:Kyogre
+4:Crobat
+5:Landorus
+6:Thundurus
+7:Groudon
+8:Smeargle
+9:Xerneas
+10:Giratina
+11:Weavile
+12:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Thundurus
+8:Ferrothorn
+9:Weavile
+10:Rayquaza
+11:Mawile
+12:Cresselia
+13:Bronzong
+14:Rayquaza
+15:Greninja
+16:Dialga
+17:Togekiss
+18:Smeargle
+19:Crobat
+20:Gengar

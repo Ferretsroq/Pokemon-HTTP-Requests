@@ -1,0 +1,39 @@
+342:Delphox|1
+ ---------- 
+Moves used:
+1:Psyshock,100.0%,1.0
+2:Shadow Ball,100.0%,1.0
+3:Fire Blast,100.0%,1.0
+4:Solar Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Power Herb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Magician,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Ferrothorn
+2:Rayquaza
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile

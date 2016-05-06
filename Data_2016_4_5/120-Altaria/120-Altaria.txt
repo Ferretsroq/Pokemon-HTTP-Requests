@@ -1,0 +1,119 @@
+120:Altaria|44
+ ---------- 
+Moves used:
+1:Hyper Voice,81.8181818182%,36.0
+2:Protect,81.8181818182%,36.0
+3:Flamethrower,56.8181818182%,25.0
+4:Tailwind,50.0%,22.0
+5:Fire Blast,25.0%,11.0
+6:Return,18.1818181818%,8.0
+7:Dragon Pulse,13.6363636364%,6.0
+8:Roost,11.3636363636%,5.0
+9:Dragon Dance,9.09090909091%,4.0
+10:Dragon Claw,9.09090909091%,4.0
+11:Psych Up,9.09090909091%,4.0
+12:Hidden Power,9.09090909091%,4.0
+13:Cotton Guard,4.54545454545%,2.0
+14:Draco Meteor,4.54545454545%,2.0
+15:Uproar,4.54545454545%,2.0
+16:Moonblast,2.27272727273%,1.0
+17:Power Swap,2.27272727273%,1.0
+18:Safeguard,2.27272727273%,1.0
+19:Swagger,2.27272727273%,1.0
+20:Perish Song,2.27272727273%,1.0
+
+ ---------- 
+Items used:
+1:Altarianite,97.7272727273%,43.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,93.1818181818%,41.0
+2:Natural Cure,6.81818181818%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,68.1818181818%,30.0
+2:Timid,13.6363636364%,6.0
+3:Adamant,9.09090909091%,4.0
+4:Quiet,4.54545454545%,2.0
+5:Brave,4.54545454545%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Ho-Oh
+4:Liepard
+5:Landorus
+6:Ludicolo
+7:Talonflame
+8:Ferrothorn
+9:Groudon
+10:Crobat
+11:Thundurus
+12:Bronzong
+13:Shedinja
+14:Kangaskhan
+15:Meowstic
+16:Gothitelle
+17:Amoonguss
+18:Weavile
+19:Slowking
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,77.2727272727%,34.0
+2:Flamethrower,9.09090909091%,4.0
+3:Draco Meteor,4.54545454545%,2.0
+4:Return,4.54545454545%,2.0
+5:Fire Blast,4.54545454545%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,22.2222222222%,9.77777777778
+2:Ice Beam,22.2222222222%,9.77777777778
+3:Water Spout,7.40740740741%,3.25925925926
+4:Extreme Speed,7.40740740741%,3.25925925926
+5:Dragon Ascent,3.7037037037%,1.62962962963
+6:Precipice Blades,3.7037037037%,1.62962962963
+7:Moonblast,3.7037037037%,1.62962962963
+8:Scald,3.7037037037%,1.62962962963
+9:Flash Cannon,3.7037037037%,1.62962962963
+10:Shadow Sneak,3.7037037037%,1.62962962963
+11:Hyper Voice,3.7037037037%,1.62962962963
+12:Frustration,3.7037037037%,1.62962962963
+13:Return,3.7037037037%,1.62962962963
+14:Rock Slide,3.7037037037%,1.62962962963
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Mawile
+3:Salamence
+4:Kangaskhan
+5:Yveltal
+6:Kyurem
+7:Landorus
+8:Whimsicott
+9:Cresselia
+10:Giratina
+11:Weavile
+12:Groudon
+13:Crobat
+14:Dragonite
+15:Omastar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Rayquaza
+4:Groudon
+5:Kangaskhan
+6:Aegislash
+7:Cresselia
+8:Dialga
+9:Rayquaza
+10:Salamence

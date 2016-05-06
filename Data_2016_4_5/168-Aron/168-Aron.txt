@@ -1,0 +1,80 @@
+168:Aron|19
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,19.0
+2:Protect,100.0%,19.0
+3:Sleep Talk,42.1052631579%,8.0
+4:Swagger,42.1052631579%,8.0
+5:Toxic,42.1052631579%,8.0
+6:Sandstorm,26.3157894737%,5.0
+7:Roar,21.0526315789%,4.0
+8:Rock Tomb,10.5263157895%,2.0
+9:Rock Slide,10.5263157895%,2.0
+10:Bulldoze,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Berry Juice,89.4736842105%,17.0
+2:Shell Bell,10.5263157895%,2.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Impish,42.1052631579%,8.0
+2:Timid,26.3157894737%,5.0
+3:Naughty,10.5263157895%,2.0
+4:Brave,10.5263157895%,2.0
+5:Serious,5.26315789474%,1.0
+6:Lax,5.26315789474%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Infernape
+4:Kyogre
+5:Groudon
+6:Smeargle
+7:Landorus
+8:Meowstic
+9:Talonflame
+10:Dialga
+11:Kangaskhan
+12:Amoonguss
+13:Giratina
+14:Sharpedo
+15:Mewtwo
+16:Gengar
+17:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,3.8
+2:Power-Up Punch,10.0%,1.9
+3:Dazzling Gleam,10.0%,1.9
+4:Feint,10.0%,1.9
+5:Fake Out,10.0%,1.9
+6:Thunderbolt,10.0%,1.9
+7:Blizzard,10.0%,1.9
+8:Flamethrower,10.0%,1.9
+9:Fire Punch,10.0%,1.9
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Kyurem
+5:Thundurus
+6:Dialga
+7:Weavile
+8:Groudon

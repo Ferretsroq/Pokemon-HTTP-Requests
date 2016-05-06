@@ -1,0 +1,82 @@
+221:Registeel|14
+ ---------- 
+Moves used:
+1:Gravity,78.5714285714%,11.0
+2:Protect,78.5714285714%,11.0
+3:Thunder Wave,78.5714285714%,11.0
+4:Flash Cannon,71.4285714286%,10.0
+5:Iron Head,28.5714285714%,4.0
+6:Curse,14.2857142857%,2.0
+7:Rest,14.2857142857%,2.0
+8:Amnesia,14.2857142857%,2.0
+9:Rock Tomb,7.14285714286%,1.0
+10:Rock Slide,7.14285714286%,1.0
+11:Earthquake,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Shuca Berry,71.4285714286%,10.0
+2:Chesto Berry,14.2857142857%,2.0
+3:Weakness Policy,7.14285714286%,1.0
+4:Sitrus Berry,7.14285714286%,1.0
+
+ ---------- 
+Abilities used:
+1:Light Metal,78.5714285714%,11.0
+2:Clear Body,21.4285714286%,3.0
+
+ ---------- 
+Natures used:
+1:Bold,71.4285714286%,10.0
+2:Careful,14.2857142857%,2.0
+3:Gentle,7.14285714286%,1.0
+4:Impish,7.14285714286%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Sableye
+3:Metagross
+4:Kyogre
+5:Xerneas
+6:Landorus
+7:Ho-Oh
+8:Gyarados
+9:Palkia
+10:Gengar
+11:Machamp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flash Cannon,66.6666666667%,9.33333333333
+2:Iron Head,33.3333333333%,4.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,20.0%,2.8
+2:Precipice Blades,10.0%,1.4
+3:Moonblast,10.0%,1.4
+4:Water Spout,10.0%,1.4
+5:Overheat,10.0%,1.4
+6:Destiny Bond,10.0%,1.4
+7:Earthquake,10.0%,1.4
+8:Low Kick,10.0%,1.4
+9:Fire Punch,10.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Salamence
+3:Mawile
+4:Ludicolo
+5:Smeargle
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Whimsicott
+3:Rayquaza
+4:Kyogre
+5:Smeargle
+6:Mewtwo

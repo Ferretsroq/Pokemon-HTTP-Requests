@@ -1,0 +1,39 @@
+322:Floatzel|1
+ ---------- 
+Moves used:
+1:Soak,100.0%,1.0
+2:Aqua Jet,100.0%,1.0
+3:Taunt,100.0%,1.0
+4:Icy Wind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Naive,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Cherrim
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Icy Wind,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyurem

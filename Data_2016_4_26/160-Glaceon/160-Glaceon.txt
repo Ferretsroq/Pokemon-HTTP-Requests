@@ -1,0 +1,119 @@
+160:Glaceon|61
+ ---------- 
+Moves used:
+1:Blizzard,93.4426229508%,57.0
+2:Frost Breath,63.9344262295%,39.0
+3:Hidden Power,52.4590163934%,32.0
+4:Water Pulse,50.8196721311%,31.0
+5:Mirror Coat,36.0655737705%,22.0
+6:Icy Wind,34.4262295082%,21.0
+7:Helping Hand,29.5081967213%,18.0
+8:Ice Beam,19.6721311475%,12.0
+9:Hyper Voice,13.1147540984%,8.0
+10:Shadow Ball,4.91803278689%,3.0
+11:Protect,1.6393442623%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,93.4426229508%,57.0
+2:Assault Vest,4.91803278689%,3.0
+3:Focus Sash,1.6393442623%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Cloak,70.4918032787%,43.0
+2:Ice Body,29.5081967213%,18.0
+
+ ---------- 
+Natures used:
+1:Modest,57.3770491803%,35.0
+2:Quiet,42.6229508197%,26.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Rayquaza
+3:Groudon
+4:Yveltal
+5:Gengar
+6:Meowstic
+7:Mawile
+8:Liepard
+9:Kyurem
+10:Bronzong
+11:Sylveon
+12:Kyogre
+13:Espeon
+14:Vaporeon
+15:Kangaskhan
+16:Xerneas
+17:Landorus
+18:Dialga
+19:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,67.9245283019%,41.4339622642
+2:Ice Beam,20.7547169811%,12.6603773585
+3:Frost Breath,3.77358490566%,2.30188679245
+4:Mirror Coat,3.77358490566%,2.30188679245
+5:Water Pulse,1.88679245283%,1.15094339623
+6:Shadow Ball,1.88679245283%,1.15094339623
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,22.2222222222%,13.5555555556
+2:Dazzling Gleam,13.8888888889%,8.47222222222
+3:Origin Pulse,11.1111111111%,6.77777777778
+4:Precipice Blades,8.33333333333%,5.08333333333
+5:Hyper Voice,5.55555555556%,3.38888888889
+6:Fire Punch,5.55555555556%,3.38888888889
+7:Moonblast,2.77777777778%,1.69444444444
+8:Iron Head,2.77777777778%,1.69444444444
+9:Bullet Punch,2.77777777778%,1.69444444444
+10:Brave Bird,2.77777777778%,1.69444444444
+11:Sucker Punch,2.77777777778%,1.69444444444
+12:Overheat,2.77777777778%,1.69444444444
+13:Eruption,2.77777777778%,1.69444444444
+14:Heat Wave,2.77777777778%,1.69444444444
+15:Rock Slide,2.77777777778%,1.69444444444
+16:Earthquake,2.77777777778%,1.69444444444
+17:Double-Edge,2.77777777778%,1.69444444444
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Talonflame
+4:Yveltal
+5:Smeargle
+6:Kyogre
+7:Xerneas
+8:Cresselia
+9:Sableye
+10:Crobat
+11:Kangaskhan
+12:Meowstic
+13:Landorus
+14:Ferrothorn
+15:Amoonguss
+16:Whimsicott
+17:Liepard
+18:Giratina
+19:Dialga
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Rayquaza
+5:Salamence
+6:Yveltal
+7:Sylveon
+8:Talonflame
+9:Landorus
+10:Mawile
+11:Scizor
+12:Kangaskhan

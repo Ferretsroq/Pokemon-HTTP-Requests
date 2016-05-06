@@ -1,0 +1,83 @@
+147:Slowking|8
+ ---------- 
+Moves used:
+1:Scald,100.0%,8.0
+2:Trick Room,100.0%,8.0
+3:Skill Swap,87.5%,7.0
+4:Magic Coat,87.5%,7.0
+5:Safeguard,12.5%,1.0
+6:Flamethrower,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,87.5%,7.0
+2:Lum Berry,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Sassy,87.5%,7.0
+2:Relaxed,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Mawile
+4:Weavile
+5:Groudon
+6:Murkrow
+7:Talonflame
+8:Altaria
+9:Meowstic
+10:Skuntank
+11:Cradily
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,89.4736842105%,7.15789473684
+2:Flamethrower,10.5263157895%,0.842105263158
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,1.6
+2:Precipice Blades,16.6666666667%,1.33333333333
+3:Origin Pulse,10.0%,0.8
+4:Play Rough,6.66666666667%,0.533333333333
+5:Brave Bird,6.66666666667%,0.533333333333
+6:Dark Pulse,6.66666666667%,0.533333333333
+7:Water Spout,6.66666666667%,0.533333333333
+8:Double-Edge,6.66666666667%,0.533333333333
+9:Moonblast,3.33333333333%,0.266666666667
+10:Grass Knot,3.33333333333%,0.266666666667
+11:Sucker Punch,3.33333333333%,0.266666666667
+12:Hyper Voice,3.33333333333%,0.266666666667
+13:Earthquake,3.33333333333%,0.266666666667
+14:Thunderbolt,3.33333333333%,0.266666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Mienshao
+4:Ferrothorn
+5:Entei
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Yveltal
+5:Salamence
+6:Mawile
+7:Kangaskhan
+8:Talonflame
+9:Landorus
+10:Amoonguss
+11:Lickilicky
+12:Crobat

@@ -1,0 +1,140 @@
+92:Togetic|255
+ ---------- 
+Moves used:
+1:Follow Me,99.6078431373%,254.0
+2:Tailwind,63.9215686275%,163.0
+3:After You,55.2941176471%,141.0
+4:Dazzling Gleam,43.137254902%,110.0
+5:Protect,29.8039215686%,76.0
+6:Magic Coat,27.8431372549%,71.0
+7:Thunder Wave,18.0392156863%,46.0
+8:Heat Wave,13.3333333333%,34.0
+9:Encore,9.41176470588%,24.0
+10:Ancient Power,9.01960784314%,23.0
+11:Baton Pass,8.23529411765%,21.0
+12:Roost,5.88235294118%,15.0
+13:Charm,4.70588235294%,12.0
+14:Yawn,3.92156862745%,10.0
+15:Endeavor,3.52941176471%,9.0
+16:Water Pulse,1.56862745098%,4.0
+17:Reflect,0.78431372549%,2.0
+18:Safeguard,0.392156862745%,1.0
+19:Swagger,0.392156862745%,1.0
+20:Mirror Move,0.392156862745%,1.0
+0:Other,0.78431372549%,2.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,255.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,60.7843137255%,155.0
+2:Super Luck,33.7254901961%,86.0
+3:Hustle,5.49019607843%,14.0
+
+ ---------- 
+Natures used:
+1:Bold,47.8431372549%,122.0
+2:Relaxed,22.7450980392%,58.0
+3:Calm,17.6470588235%,45.0
+4:Sassy,10.1960784314%,26.0
+5:Impish,1.17647058824%,3.0
+6:Modest,0.392156862745%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Xerneas
+4:Kyogre
+5:Kangaskhan
+6:Raichu
+7:Salamence
+8:Gengar
+9:Palkia
+10:Ferrothorn
+11:Scizor
+12:Landorus
+13:Rhyperior
+14:Crobat
+15:Hitmontop
+16:Thundurus
+17:Weavile
+18:Talonflame
+19:Smeargle
+20:Metagross
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,68.1818181818%,173.863636364
+2:Heat Wave,13.6363636364%,34.7727272727
+3:Ancient Power,13.6363636364%,34.7727272727
+4:Water Pulse,4.54545454545%,11.5909090909
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.9565217391%,30.4891304348
+2:Water Spout,6.52173913043%,16.6304347826
+3:Rock Slide,5.4347826087%,13.8586956522
+4:Ice Beam,5.4347826087%,13.8586956522
+5:Double-Edge,5.4347826087%,13.8586956522
+6:Return,4.89130434783%,12.472826087
+7:Origin Pulse,4.34782608696%,11.0869565217
+8:Brave Bird,4.34782608696%,11.0869565217
+9:Gyro Ball,4.34782608696%,11.0869565217
+10:Precipice Blades,3.80434782609%,9.70108695652
+11:Thunderbolt,3.80434782609%,9.70108695652
+12:Iron Head,3.26086956522%,8.3152173913
+13:Eruption,3.26086956522%,8.3152173913
+14:Hyper Voice,2.71739130435%,6.92934782609
+15:Sludge Bomb,2.71739130435%,6.92934782609
+16:Flash Cannon,2.17391304348%,5.54347826087
+17:Extreme Speed,2.17391304348%,5.54347826087
+18:Thunder,2.17391304348%,5.54347826087
+19:Fire Punch,2.17391304348%,5.54347826087
+20:Moonblast,1.63043478261%,4.15760869565
+0:Other,16.847826087%,42.9619565217
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+3:Gengar
+4:Yveltal
+5:Pangoro
+6:Talonflame
+7:Kyurem
+8:Hydreigon
+9:Whimsicott
+10:Liepard
+11:Cresselia
+12:Weavile
+13:Rayquaza
+14:Smeargle
+15:Crobat
+16:Mr. Mime
+17:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Ferrothorn
+7:Salamence
+8:Thundurus
+9:Dialga
+10:Rayquaza
+11:Mawile
+12:Landorus
+13:Gengar
+14:Cresselia
+15:Ho-Oh
+16:Kyurem
+17:Weavile
+18:Bronzong
+19:Rayquaza
+20:Zapdos

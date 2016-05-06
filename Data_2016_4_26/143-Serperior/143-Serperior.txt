@@ -1,0 +1,128 @@
+143:Serperior|81
+ ---------- 
+Moves used:
+1:Leaf Storm,98.7654320988%,80.0
+2:Glare,77.7777777778%,63.0
+3:Protect,66.6666666667%,54.0
+4:Taunt,50.6172839506%,41.0
+5:Dragon Pulse,33.3333333333%,27.0
+6:Gastro Acid,27.1604938272%,22.0
+7:Giga Drain,14.8148148148%,12.0
+8:Hidden Power,6.17283950617%,5.0
+9:Safeguard,6.17283950617%,5.0
+10:Reflect,6.17283950617%,5.0
+11:Light Screen,4.93827160494%,4.0
+12:Leech Seed,2.46913580247%,2.0
+13:Hyper Beam,2.46913580247%,2.0
+14:Mirror Coat,1.23456790123%,1.0
+15:Swagger,1.23456790123%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,67.9012345679%,55.0
+2:Mental Herb,19.7530864198%,16.0
+3:Rose Incense,2.46913580247%,2.0
+4:Leftovers,2.46913580247%,2.0
+5:Yache Berry,2.46913580247%,2.0
+6:Weakness Policy,1.23456790123%,1.0
+7:Meadow Plate,1.23456790123%,1.0
+8:Occa Berry,1.23456790123%,1.0
+9:Sitrus Berry,1.23456790123%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,98.7654320988%,80.0
+2:Overgrow,1.23456790123%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,81.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Salamence
+4:Mawile
+5:Kangaskhan
+6:Xerneas
+7:Giratina
+8:Dialga
+9:Yveltal
+10:Mienshao
+11:Giratina
+12:Thundurus
+13:Landorus
+14:Rayquaza
+15:Ho-Oh
+16:Cresselia
+17:Talonflame
+18:Weavile
+19:Swampert
+20:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,85.1851851852%,69.0
+2:Dragon Pulse,14.8148148148%,12.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.4754098361%,9.29508196721
+2:Dazzling Gleam,9.83606557377%,7.96721311475
+3:Hyper Voice,8.19672131148%,6.6393442623
+4:Eruption,6.55737704918%,5.31147540984
+5:Ice Beam,6.55737704918%,5.31147540984
+6:Origin Pulse,3.27868852459%,2.65573770492
+7:Moonblast,3.27868852459%,2.65573770492
+8:Overheat,3.27868852459%,2.65573770492
+9:Extreme Speed,3.27868852459%,2.65573770492
+10:Icy Wind,3.27868852459%,2.65573770492
+11:Rock Slide,3.27868852459%,2.65573770492
+12:Thunderbolt,3.27868852459%,2.65573770492
+13:Double-Edge,3.27868852459%,2.65573770492
+14:Dragon Ascent,1.6393442623%,1.32786885246
+15:Snarl,1.6393442623%,1.32786885246
+16:Acrobatics,1.6393442623%,1.32786885246
+17:Foul Play,1.6393442623%,1.32786885246
+18:Spacial Rend,1.6393442623%,1.32786885246
+19:Brave Bird,1.6393442623%,1.32786885246
+20:Dragon Pulse,1.6393442623%,1.32786885246
+0:Other,18.0327868852%,14.606557377
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Landorus
+5:Smeargle
+6:Weavile
+7:Salamence
+8:Kangaskhan
+9:Aegislash
+10:Bronzong
+11:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Salamence
+5:Kyogre
+6:Yveltal
+7:Rayquaza
+8:Kyurem
+9:Thundurus
+10:Gengar
+11:Talonflame
+12:Greninja
+13:Landorus
+14:Cresselia
+15:Heatran
+16:Palkia
+17:Dialga
+18:Bronzong
+19:Infernape
+20:Rayquaza

@@ -1,0 +1,131 @@
+115:Jynx|172
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,172.0
+2:Skill Swap,88.3720930233%,152.0
+3:Lovely Kiss,77.3255813953%,133.0
+4:Ice Beam,72.6744186047%,125.0
+5:Icy Wind,19.7674418605%,34.0
+6:Protect,19.7674418605%,34.0
+7:Trick Room,4.06976744186%,7.0
+8:Magic Coat,4.06976744186%,7.0
+9:Sweet Kiss,4.06976744186%,7.0
+10:Blizzard,4.06976744186%,7.0
+11:Helping Hand,3.48837209302%,6.0
+12:Psychic,2.32558139535%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,99.4186046512%,171.0
+2:Custap Berry,0.581395348837%,1.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,72.0930232558%,124.0
+2:Oblivious,23.8372093023%,41.0
+3:Forewarn,4.06976744186%,7.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,172.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Mawile
+4:Dialga
+5:Salamence
+6:Giratina
+7:Metagross
+8:Bronzong
+9:Kangaskhan
+10:Xerneas
+11:Gallade
+12:Amoonguss
+13:Sableye
+14:Houndoom
+15:Yveltal
+16:Thundurus
+17:Palkia
+18:Gengar
+19:Smeargle
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,71.186440678%,122.440677966
+2:Icy Wind,15.2542372881%,26.2372881356
+3:Blizzard,10.1694915254%,17.4915254237
+4:Fake Out,1.69491525424%,2.91525423729
+5:Psychic,1.69491525424%,2.91525423729
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,15.7894736842%,27.1578947368
+2:Precipice Blades,13.1578947368%,22.6315789474
+3:Double-Edge,5.26315789474%,9.05263157895
+4:Gyro Ball,4.38596491228%,7.54385964912
+5:Hyper Voice,3.50877192982%,6.0350877193
+6:Eruption,3.50877192982%,6.0350877193
+7:Brave Bird,2.63157894737%,4.52631578947
+8:Shadow Ball,2.63157894737%,4.52631578947
+9:Extreme Speed,2.63157894737%,4.52631578947
+10:Rock Slide,2.63157894737%,4.52631578947
+11:Ice Beam,2.63157894737%,4.52631578947
+12:Dragon Ascent,1.75438596491%,3.01754385965
+13:Iron Head,1.75438596491%,3.01754385965
+14:Draco Meteor,1.75438596491%,3.01754385965
+15:Earth Power,1.75438596491%,3.01754385965
+16:Dragon Pulse,1.75438596491%,3.01754385965
+17:Sucker Punch,1.75438596491%,3.01754385965
+18:Water Spout,1.75438596491%,3.01754385965
+19:Knock Off,1.75438596491%,3.01754385965
+20:Fake Out,1.75438596491%,3.01754385965
+0:Other,17.5438596491%,30.1754385965
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Thundurus
+3:Groudon
+4:Salamence
+5:Crobat
+6:Smeargle
+7:Talonflame
+8:Amoonguss
+9:Xerneas
+10:Cresselia
+11:Rayquaza
+12:Kyogre
+13:Meowstic
+14:Ferrothorn
+15:Whimsicott
+16:Liepard
+17:Gastrodon
+18:Kangaskhan
+19:Gengar
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Dialga
+7:Yveltal
+8:Ferrothorn
+9:Rayquaza
+10:Talonflame
+11:Cresselia
+12:Bronzong
+13:Rayquaza
+14:Mawile
+15:Gengar
+16:Gengar
+17:Sylveon
+18:Kyurem
+19:Thundurus
+20:Mienshao

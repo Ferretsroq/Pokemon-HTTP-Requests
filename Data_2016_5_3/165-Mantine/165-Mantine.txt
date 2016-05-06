@@ -1,0 +1,108 @@
+165:Mantine|68
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,68.0
+2:Tailwind,83.8235294118%,57.0
+3:Helping Hand,79.4117647059%,54.0
+4:Scald,44.1176470588%,30.0
+5:Protect,44.1176470588%,30.0
+6:Haze,16.1764705882%,11.0
+7:Ice Beam,11.7647058824%,8.0
+8:Icy Wind,8.82352941176%,6.0
+9:Air Slash,5.88235294118%,4.0
+10:Mirror Coat,2.94117647059%,2.0
+11:Substitute,2.94117647059%,2.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,39.7058823529%,27.0
+2:Sitrus Berry,27.9411764706%,19.0
+3:Wacan Berry,14.7058823529%,10.0
+4:Lum Berry,13.2352941176%,9.0
+5:Charti Berry,4.41176470588%,3.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,61.7647058824%,42.0
+2:Swift Swim,33.8235294118%,23.0
+3:Water Veil,4.41176470588%,3.0
+
+ ---------- 
+Natures used:
+1:Calm,51.4705882353%,35.0
+2:Bold,44.1176470588%,30.0
+3:Timid,4.41176470588%,3.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Dialga
+3:Mr. Mime
+4:Kangaskhan
+5:Kyogre
+6:Ferrothorn
+7:Xerneas
+8:Groudon
+9:Talonflame
+10:Kyurem
+11:Giratina
+12:Meowstic
+13:Braviary
+14:Salamence
+15:Gengar
+16:Cresselia
+17:Musharna
+18:Ho-Oh
+19:Smeargle
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,64.2857142857%,43.7142857143
+2:Icy Wind,21.4285714286%,14.5714285714
+3:Air Slash,14.2857142857%,9.71428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,12.8205128205%,8.71794871795
+2:Thunder,12.8205128205%,8.71794871795
+3:Double-Edge,12.8205128205%,8.71794871795
+4:Dragon Ascent,7.69230769231%,5.23076923077
+5:Rock Slide,7.69230769231%,5.23076923077
+6:Dazzling Gleam,5.12820512821%,3.48717948718
+7:Return,5.12820512821%,3.48717948718
+8:Thunderbolt,5.12820512821%,3.48717948718
+9:Ice Beam,5.12820512821%,3.48717948718
+10:Play Rough,2.5641025641%,1.74358974359
+11:Spacial Rend,2.5641025641%,1.74358974359
+12:Power Whip,2.5641025641%,1.74358974359
+13:Shadow Sneak,2.5641025641%,1.74358974359
+14:Fake Out,2.5641025641%,1.74358974359
+15:Extreme Speed,2.5641025641%,1.74358974359
+16:Guillotine,2.5641025641%,1.74358974359
+17:Fire Punch,2.5641025641%,1.74358974359
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Smeargle
+4:Whimsicott
+5:Crobat
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Rayquaza
+6:Aegislash
+7:Thundurus
+8:Ferrothorn
+9:Palkia
+10:Gliscor
+11:Salamence
+12:Mawile
+13:Raichu

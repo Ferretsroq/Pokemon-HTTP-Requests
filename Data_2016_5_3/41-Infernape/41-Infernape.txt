@@ -1,0 +1,168 @@
+41:Infernape|1805
+ ---------- 
+Moves used:
+1:Fake Out,97.2299168975%,1755.0
+2:Close Combat,84.3213296399%,1522.0
+3:Overheat,59.3351800554%,1071.0
+4:Quick Guard,49.8614958449%,900.0
+5:Feint,30.8033240997%,556.0
+6:Taunt,13.5180055402%,244.0
+7:Heat Wave,11.9113573407%,215.0
+8:Encore,11.5789473684%,209.0
+9:Endeavor,10.4709141274%,189.0
+10:Mach Punch,10.1385041551%,183.0
+11:Flare Blitz,7.42382271468%,134.0
+12:Protect,4.37673130194%,79.0
+13:Fire Punch,2.27146814404%,41.0
+14:Thunder Punch,1.5512465374%,28.0
+15:Helping Hand,1.2188365651%,22.0
+16:Double Kick,1.05263157895%,19.0
+17:Roar,0.554016620499%,10.0
+18:Gunk Shot,0.443213296399%,8.0
+19:Fling,0.387811634349%,7.0
+20:Role Play,0.332409972299%,6.0
+0:Other,1.2188365651%,22.0
+
+ ---------- 
+Items used:
+1:Focus Sash,87.3130193906%,1576.0
+2:Life Orb,4.32132963989%,78.0
+3:Expert Belt,4.15512465374%,75.0
+4:Fist Plate,0.775623268698%,14.0
+5:Razor Claw,0.609418282548%,11.0
+6:Normal Gem,0.443213296399%,8.0
+7:Air Balloon,0.387811634349%,7.0
+8:Lansat Berry,0.387811634349%,7.0
+9:Custap Berry,0.332409972299%,6.0
+10:Lum Berry,0.277008310249%,5.0
+11:Silk Scarf,0.221606648199%,4.0
+12:Assault Vest,0.1108033241%,2.0
+13:Power Anklet,0.1108033241%,2.0
+14:Coba Berry,0.1108033241%,2.0
+15:Chesto Berry,0.1108033241%,2.0
+16:Focus Band,0.0554016620499%,1.0
+17:White Herb,0.0554016620499%,1.0
+18:Shuca Berry,0.0554016620499%,1.0
+
+ ---------- 
+Abilities used:
+1:Blaze,78.4487534626%,1416.0
+2:Iron Fist,21.5512465374%,389.0
+
+ ---------- 
+Natures used:
+1:Naive,49.8614958449%,900.0
+2:Jolly,22.7700831025%,411.0
+3:Hasty,20.9418282548%,378.0
+4:Adamant,2.43767313019%,44.0
+5:Brave,2.04986149584%,37.0
+6:Timid,0.886426592798%,16.0
+7:Modest,0.609418282548%,11.0
+8:Naughty,0.443213296399%,8.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Groudon
+5:Talonflame
+6:Kangaskhan
+7:Cresselia
+8:Salamence
+9:Kyurem
+10:Smeargle
+11:Mawile
+12:Amoonguss
+13:Yveltal
+14:Mewtwo
+15:Landorus
+16:Ferrothorn
+17:Thundurus
+18:Crobat
+19:Zekrom
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,49.3055555556%,889.965277778
+2:Overheat,19.5833333333%,353.479166667
+3:Feint,9.72222222222%,175.486111111
+4:Heat Wave,9.16666666667%,165.458333333
+5:Mach Punch,5.27777777778%,95.2638888889
+6:Flare Blitz,2.91666666667%,52.6458333333
+7:Fake Out,2.36111111111%,42.6180555556
+8:Fire Punch,1.11111111111%,20.0555555556
+9:Thunder Punch,0.277777777778%,5.01388888889
+10:Gunk Shot,0.138888888889%,2.50694444444
+11:Double Kick,0.138888888889%,2.50694444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.7424242424%,211.950757576
+2:Dazzling Gleam,10.4545454545%,188.704545455
+3:Water Spout,9.4696969697%,170.928030303
+4:Hyper Voice,7.19696969697%,129.90530303
+5:Origin Pulse,5.98484848485%,108.026515152
+6:Double-Edge,4.77272727273%,86.1477272727
+7:Eruption,4.24242424242%,76.5757575758
+8:Rock Slide,3.48484848485%,62.9015151515
+9:Thunderbolt,3.25757575758%,58.7992424242
+10:Brave Bird,2.42424242424%,43.7575757576
+11:Extreme Speed,2.34848484848%,42.3901515152
+12:Ice Beam,2.27272727273%,41.0227272727
+13:Earth Power,2.19696969697%,39.6553030303
+14:Earthquake,2.19696969697%,39.6553030303
+15:Sucker Punch,2.12121212121%,38.2878787879
+16:Sludge Bomb,1.51515151515%,27.3484848485
+17:Dragon Ascent,1.36363636364%,24.6136363636
+18:Fake Out,1.36363636364%,24.6136363636
+19:Psychic,1.21212121212%,21.8787878788
+20:Dragon Pulse,1.13636363636%,20.5113636364
+0:Other,16.2878787879%,293.996212121
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Smeargle
+4:Xerneas
+5:Ferrothorn
+6:Groudon
+7:Thundurus
+8:Dialga
+9:Kangaskhan
+10:Talonflame
+11:Weavile
+12:Liepard
+13:Bronzong
+14:Mawile
+15:Crobat
+16:Whimsicott
+17:Kyurem
+18:Yveltal
+19:Landorus
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Landorus
+7:Rayquaza
+8:Thundurus
+9:Mawile
+10:Talonflame
+11:Yveltal
+12:Dialga
+13:Cresselia
+14:Rayquaza
+15:Gengar
+16:Gengar
+17:Kyurem
+18:Kyogre
+19:Ferrothorn
+20:Bronzong

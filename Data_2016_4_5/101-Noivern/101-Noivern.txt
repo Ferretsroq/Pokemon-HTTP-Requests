@@ -1,0 +1,130 @@
+101:Noivern|71
+ ---------- 
+Moves used:
+1:Draco Meteor,90.1408450704%,64.0
+2:Super Fang,85.9154929577%,61.0
+3:Taunt,54.9295774648%,39.0
+4:Protect,53.5211267606%,38.0
+5:Tailwind,47.8873239437%,34.0
+6:Flamethrower,22.5352112676%,16.0
+7:Water Pulse,11.2676056338%,8.0
+8:Dragon Pulse,9.85915492958%,7.0
+9:Air Slash,8.45070422535%,6.0
+10:Snatch,7.04225352113%,5.0
+11:Boomburst,4.22535211268%,3.0
+12:Hurricane,4.22535211268%,3.0
+
+ ---------- 
+Items used:
+1:Focus Sash,60.5633802817%,43.0
+2:Lum Berry,22.5352112676%,16.0
+3:Life Orb,8.45070422535%,6.0
+4:Yache Berry,2.81690140845%,2.0
+5:Choice Specs,1.40845070423%,1.0
+6:Expert Belt,1.40845070423%,1.0
+7:Wide Lens,1.40845070423%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,80.2816901408%,57.0
+2:Infiltrator,14.0845070423%,10.0
+3:Telepathy,5.6338028169%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,71.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Mawile
+5:Giratina
+6:Xerneas
+7:Ferrothorn
+8:Dialga
+9:Yveltal
+10:Salamence
+11:Talonflame
+12:Landorus
+13:Whimsicott
+14:Gengar
+15:Kyurem
+16:Cresselia
+17:Zapdos
+18:Amoonguss
+19:Palkia
+20:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,58.3333333333%,41.4166666667
+2:Flamethrower,12.5%,8.875
+3:Boomburst,8.33333333333%,5.91666666667
+4:Dragon Pulse,8.33333333333%,5.91666666667
+5:Water Pulse,8.33333333333%,5.91666666667
+6:Air Slash,4.16666666667%,2.95833333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,16.393442623%,11.6393442623
+2:Dazzling Gleam,13.1147540984%,9.31147540984
+3:Origin Pulse,6.55737704918%,4.65573770492
+4:Brave Bird,6.55737704918%,4.65573770492
+5:Rock Slide,6.55737704918%,4.65573770492
+6:Water Spout,4.91803278689%,3.49180327869
+7:Extreme Speed,4.91803278689%,3.49180327869
+8:Double-Edge,4.91803278689%,3.49180327869
+9:Volt Switch,3.27868852459%,2.32786885246
+10:Sucker Punch,3.27868852459%,2.32786885246
+11:Gyro Ball,3.27868852459%,2.32786885246
+12:Precipice Blades,1.6393442623%,1.16393442623
+13:Moonblast,1.6393442623%,1.16393442623
+14:Snarl,1.6393442623%,1.16393442623
+15:Spacial Rend,1.6393442623%,1.16393442623
+16:Draco Meteor,1.6393442623%,1.16393442623
+17:Dragon Pulse,1.6393442623%,1.16393442623
+18:Dragon Claw,1.6393442623%,1.16393442623
+19:Fake Out,1.6393442623%,1.16393442623
+20:Return,1.6393442623%,1.16393442623
+0:Other,8.19672131148%,5.81967213115
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Rayquaza
+4:Yveltal
+5:Xerneas
+6:Meowstic
+7:Talonflame
+8:Landorus
+9:Whimsicott
+10:Liepard
+11:Lopunny
+12:Mawile
+13:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Kangaskhan
+4:Talonflame
+5:Landorus
+6:Groudon
+7:Thundurus
+8:Cresselia
+9:Rayquaza
+10:Yveltal
+11:Kyurem
+12:Zekrom
+13:Ferrothorn
+14:Palkia
+15:Dialga
+16:Bronzong
+17:Rayquaza
+18:Salamence
+19:Manectric
+20:Ho-Oh

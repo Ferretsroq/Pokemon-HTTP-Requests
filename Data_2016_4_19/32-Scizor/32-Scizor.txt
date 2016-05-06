@@ -1,0 +1,168 @@
+32:Scizor|2396
+ ---------- 
+Moves used:
+1:Bullet Punch,99.6661101836%,2388.0
+2:Protect,78.67278798%,1885.0
+3:Swords Dance,61.1853088481%,1466.0
+4:Bug Bite,59.4741235392%,1425.0
+5:Feint,38.9398998331%,933.0
+6:Superpower,24.5826377295%,589.0
+7:Knock Off,9.80801335559%,235.0
+8:Iron Head,5.30050083472%,127.0
+9:U-turn,4.92487479132%,118.0
+10:Tailwind,4.50751252087%,108.0
+11:Safeguard,2.1285475793%,51.0
+12:Roost,2.08681135225%,50.0
+13:Pursuit,1.6694490818%,40.0
+14:Quick Guard,1.50250417362%,36.0
+15:Thief,1.37729549249%,33.0
+16:Aerial Ace,1.00166944908%,24.0
+17:Quick Attack,0.876460767947%,21.0
+18:X-Scissor,0.751252086811%,18.0
+19:Brick Break,0.459098497496%,11.0
+20:Hidden Power,0.25041736227%,6.0
+0:Other,0.834724540902%,20.0
+
+ ---------- 
+Items used:
+1:Lum Berry,40.6510851419%,974.0
+2:Sitrus Berry,15.776293823%,378.0
+3:Life Orb,12.7712854758%,306.0
+4:Scizorite,9.55759599332%,229.0
+5:Choice Band,5.42570951586%,130.0
+6:Iron Plate,3.83973288815%,92.0
+7:Expert Belt,2.9632721202%,71.0
+8:Leftovers,2.42070116861%,58.0
+9:Assault Vest,2.00333889816%,48.0
+10:Focus Sash,0.876460767947%,21.0
+11:Safety Goggles,0.834724540902%,20.0
+12:Rocky Helmet,0.751252086811%,18.0
+13:Metal Coat,0.459098497496%,11.0
+14:Occa Berry,0.417362270451%,10.0
+15:Red Card,0.292153589316%,7.0
+16:Chesto Berry,0.292153589316%,7.0
+17:Snowball,0.16694490818%,4.0
+18:White Herb,0.16694490818%,4.0
+19:Liechi Berry,0.125208681135%,3.0
+20:Muscle Band,0.0834724540902%,2.0
+0:Other,0.125208681135%,3.0
+
+ ---------- 
+Abilities used:
+1:Technician,99.7913188648%,2391.0
+2:Swarm,0.16694490818%,4.0
+3:Light Metal,0.0417362270451%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,95.409015025%,2286.0
+2:Brave,4.13188647746%,99.0
+3:Impish,0.375626043406%,9.0
+4:Careful,0.0834724540902%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Smeargle
+5:Salamence
+6:Kangaskhan
+7:Talonflame
+8:Raichu
+9:Xerneas
+10:Gengar
+11:Thundurus
+12:Weavile
+13:Yveltal
+14:Landorus
+15:Whimsicott
+16:Kyurem
+17:Crobat
+18:Ludicolo
+19:Dialga
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Punch,66.2415603901%,1587.14778695
+2:Bug Bite,13.2033008252%,316.351087772
+3:Feint,11.6279069767%,278.604651163
+4:Superpower,5.3263315829%,127.618904726
+5:Knock Off,1.12528132033%,26.9617404351
+6:Iron Head,0.975243810953%,23.3668417104
+7:U-turn,0.975243810953%,23.3668417104
+8:Hidden Power,0.225056264066%,5.39234808702
+9:X-Scissor,0.150037509377%,3.59489872468
+10:Thief,0.0750187546887%,1.79744936234
+11:Struggle,0.0750187546887%,1.79744936234
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,11.9451697128%,286.206266319
+2:Precipice Blades,9.92167101828%,237.723237598
+3:Fire Punch,8.74673629243%,209.571801567
+4:Water Spout,7.89817232376%,189.240208877
+5:Origin Pulse,6.5274151436%,156.396866841
+6:Hyper Voice,5.28720626632%,126.681462141
+7:Flamethrower,4.8955613577%,117.297650131
+8:Dazzling Gleam,4.76501305483%,114.169712794
+9:Flare Blitz,3.59007832898%,86.0182767624
+10:Overheat,3.2637075718%,78.1984334204
+11:Dragon Ascent,2.67624020888%,64.1227154047
+12:Double-Edge,2.28459530026%,54.7389033943
+13:Sucker Punch,2.21932114883%,53.1749347258
+14:Brave Bird,2.02349869452%,48.4830287206
+15:Thunderbolt,1.69712793734%,40.6631853786
+16:Moonblast,1.56657963446%,37.5352480418
+17:Scald,1.50130548303%,35.9712793734
+18:Earth Power,1.30548302872%,31.2793733681
+19:Low Kick,1.17493472585%,28.1514360313
+20:Rock Slide,0.913838120104%,21.8955613577
+0:Other,12.0757180157%,289.334203655
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Smeargle
+4:Kyogre
+5:Cresselia
+6:Salamence
+7:Weavile
+8:Talonflame
+9:Ferrothorn
+10:Rayquaza
+11:Groudon
+12:Thundurus
+13:Kyurem
+14:Whimsicott
+15:Dialga
+16:Crobat
+17:Amoonguss
+18:Meowstic
+19:Landorus
+20:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Talonflame
+6:Kangaskhan
+7:Rayquaza
+8:Yveltal
+9:Thundurus
+10:Dialga
+11:Rayquaza
+12:Landorus
+13:Mawile
+14:Kyogre
+15:Kyurem
+16:Ho-Oh
+17:Terrakion
+18:Ferrothorn
+19:Giratina
+20:Lopunny

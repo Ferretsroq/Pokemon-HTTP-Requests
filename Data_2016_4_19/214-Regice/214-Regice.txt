@@ -1,0 +1,77 @@
+214:Regice|15
+ ---------- 
+Moves used:
+1:Thunder,100.0%,15.0
+2:Ancient Power,60.0%,9.0
+3:Ice Beam,60.0%,9.0
+4:Sleep Talk,40.0%,6.0
+5:Thunder Wave,40.0%,6.0
+6:Focus Blast,33.3333333333%,5.0
+7:Frost Breath,26.6666666667%,4.0
+8:Icy Wind,26.6666666667%,4.0
+9:Blizzard,13.3333333333%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,40.0%,6.0
+2:Assault Vest,33.3333333333%,5.0
+3:Choice Specs,26.6666666667%,4.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Bold,40.0%,6.0
+2:Modest,33.3333333333%,5.0
+3:Calm,26.6666666667%,4.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Xerneas
+3:Kangaskhan
+4:Garchomp
+5:Cresselia
+6:Mawile
+7:Marowak
+8:Thundurus
+9:Kyogre
+10:Meowstic
+11:Camerupt
+12:Smeargle
+13:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Frost Breath,50.0%,7.5
+2:Thunder,25.0%,3.75
+3:Ice Beam,25.0%,3.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,37.5%,5.625
+2:Origin Pulse,12.5%,1.875
+3:Moonblast,12.5%,1.875
+4:Hyper Voice,12.5%,1.875
+5:Sacred Fire,12.5%,1.875
+6:Low Kick,12.5%,1.875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Landorus
+3:Thundurus
+4:Cresselia
+5:Manectric
+6:Crobat
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Weavile
+4:Salamence
+5:Ho-Oh

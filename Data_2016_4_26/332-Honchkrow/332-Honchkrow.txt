@@ -1,0 +1,39 @@
+332:Honchkrow|1
+ ---------- 
+Moves used:
+1:Brave Bird,100.0%,1.0
+2:Sucker Punch,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Haze,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Moxie,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Ferrothorn
+3:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

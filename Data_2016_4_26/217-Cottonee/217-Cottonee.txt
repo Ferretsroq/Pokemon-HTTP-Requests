@@ -1,0 +1,62 @@
+217:Cottonee|19
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,19.0
+2:Encore,100.0%,19.0
+3:Safeguard,100.0%,19.0
+4:Protect,100.0%,19.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,19.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Relaxed,73.6842105263%,14.0
+2:Timid,26.3157894737%,5.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Groudon
+3:Kyogre
+4:Lapras
+5:Xerneas
+6:Zekrom
+7:Kangaskhan
+8:Ferrothorn
+9:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,15.3846153846%,2.92307692308
+2:Double-Edge,15.3846153846%,2.92307692308
+3:Power-Up Punch,7.69230769231%,1.46153846154
+4:Brave Bird,7.69230769231%,1.46153846154
+5:Feint,7.69230769231%,1.46153846154
+6:Fake Out,7.69230769231%,1.46153846154
+7:Icy Wind,7.69230769231%,1.46153846154
+8:Thunderbolt,7.69230769231%,1.46153846154
+9:Ice Beam,7.69230769231%,1.46153846154
+10:Ice Punch,7.69230769231%,1.46153846154
+11:Fire Punch,7.69230769231%,1.46153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Talonflame
+4:Greninja
+5:Thundurus
+6:Mienshao
+7:Gengar

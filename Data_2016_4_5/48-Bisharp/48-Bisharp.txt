@@ -1,0 +1,139 @@
+48:Bisharp|415
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,415.0
+2:Sucker Punch,90.3614457831%,375.0
+3:Knock Off,76.1445783133%,316.0
+4:Protect,74.4578313253%,309.0
+5:Assurance,23.8554216867%,99.0
+6:Low Kick,15.421686747%,64.0
+7:Guillotine,9.63855421687%,40.0
+8:Metal Burst,4.09638554217%,17.0
+9:Stone Edge,2.1686746988%,9.0
+10:Foul Play,1.92771084337%,8.0
+11:Swords Dance,1.92771084337%,8.0
+
+ ---------- 
+Items used:
+1:Focus Sash,45.7831325301%,190.0
+2:Life Orb,17.3493975904%,72.0
+3:Choice Scarf,12.2891566265%,51.0
+4:Black Glasses,11.0843373494%,46.0
+5:Choice Band,10.843373494%,45.0
+6:Lum Berry,1.68674698795%,7.0
+7:Dread Plate,0.722891566265%,3.0
+8:Air Balloon,0.240963855422%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,415.0
+
+ ---------- 
+Natures used:
+1:Adamant,84.578313253%,351.0
+2:Jolly,11.8072289157%,49.0
+3:Brave,3.61445783133%,15.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Talonflame
+7:Salamence
+8:Xerneas
+9:Mawile
+10:Garchomp
+11:Ditto
+12:Thundurus
+13:Giratina
+14:Klefki
+15:Ferrothorn
+16:Lopunny
+17:Crobat
+18:Meowstic
+19:Cresselia
+20:Aerodactyl
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,33.7962962963%,140.25462963
+2:Knock Off,30.5555555556%,126.805555556
+3:Iron Head,21.2962962963%,88.3796296296
+4:Assurance,10.6481481481%,44.1898148148
+5:Metal Burst,1.38888888889%,5.76388888889
+6:Low Kick,1.38888888889%,5.76388888889
+7:Foul Play,0.462962962963%,1.9212962963
+8:Guillotine,0.462962962963%,1.9212962963
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.6245847176%,52.3920265781
+2:Dazzling Gleam,8.63787375415%,35.8471760797
+3:Eruption,6.97674418605%,28.9534883721
+4:Low Kick,6.97674418605%,28.9534883721
+5:Origin Pulse,5.98006644518%,24.8172757475
+6:Water Spout,5.31561461794%,22.0598006645
+7:Fire Punch,4.98338870432%,20.6810631229
+8:Earth Power,3.32225913621%,13.7873754153
+9:Moonblast,2.99003322259%,12.4086378738
+10:Overheat,2.99003322259%,12.4086378738
+11:Play Rough,2.65780730897%,11.0299003322
+12:Power-Up Punch,2.32558139535%,9.6511627907
+13:Sucker Punch,2.32558139535%,9.6511627907
+14:Extreme Speed,2.32558139535%,9.6511627907
+15:Scald,1.99335548173%,8.27242524917
+16:Hyper Voice,1.99335548173%,8.27242524917
+17:Thunderbolt,1.99335548173%,8.27242524917
+18:Ice Beam,1.99335548173%,8.27242524917
+19:Brave Bird,1.66112956811%,6.89368770764
+20:Flamethrower,1.66112956811%,6.89368770764
+0:Other,14.6179401993%,60.6644518272
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Groudon
+3:Xerneas
+4:Crobat
+5:Talonflame
+6:Kyogre
+7:Salamence
+8:Landorus
+9:Cresselia
+10:Kangaskhan
+11:Yveltal
+12:Weavile
+13:Liepard
+14:Whimsicott
+15:Rayquaza
+16:Dialga
+17:Bronzong
+18:Smeargle
+19:Gengar
+20:Sylveon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Mawile
+7:Talonflame
+8:Yveltal
+9:Thundurus
+10:Dialga
+11:Salamence
+12:Rayquaza
+13:Ferrothorn
+14:Landorus
+15:Weavile
+16:Infernape
+17:Cresselia
+18:Palkia
+19:Kyogre
+20:Kyurem

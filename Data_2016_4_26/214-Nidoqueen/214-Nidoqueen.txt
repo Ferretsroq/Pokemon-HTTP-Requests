@@ -1,0 +1,93 @@
+214:Nidoqueen|21
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,21.0
+2:Protect,90.4761904762%,19.0
+3:Ice Beam,76.1904761905%,16.0
+4:Sludge Bomb,66.6666666667%,14.0
+5:Flamethrower,28.5714285714%,6.0
+6:Thunder,19.0476190476%,4.0
+7:Thunderbolt,9.52380952381%,2.0
+8:Sludge Wave,4.7619047619%,1.0
+9:Fire Blast,4.7619047619%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,90.4761904762%,19.0
+2:Assault Vest,9.52380952381%,2.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,21.0
+
+ ---------- 
+Natures used:
+1:Modest,71.4285714286%,15.0
+2:Quiet,28.5714285714%,6.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Crobat
+5:Ludicolo
+6:Ferrothorn
+7:Rayquaza
+8:Liepard
+9:Lugia
+10:Kangaskhan
+11:Landorus
+12:Weavile
+13:Salamence
+14:Whimsicott
+15:Infernape
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,40.0%,8.4
+2:Sludge Bomb,30.0%,6.3
+3:Ice Beam,15.0%,3.15
+4:Thunder,5.0%,1.05
+5:Thunderbolt,5.0%,1.05
+6:Flamethrower,5.0%,1.05
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,33.3333333333%,7.0
+2:Origin Pulse,8.33333333333%,1.75
+3:Dazzling Gleam,8.33333333333%,1.75
+4:Scald,8.33333333333%,1.75
+5:Sucker Punch,8.33333333333%,1.75
+6:Gyro Ball,8.33333333333%,1.75
+7:Eruption,8.33333333333%,1.75
+8:Return,8.33333333333%,1.75
+9:Blizzard,8.33333333333%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Dialga
+3:Salamence
+4:Yveltal
+5:Xerneas
+6:Sylveon
+7:Talonflame
+8:Thundurus
+9:Ferrothorn
+10:Empoleon
+11:Salamence
+12:Gardevoir
+13:Crobat
+14:Kangaskhan
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Aegislash
+5:Kyurem
+6:Groudon
+7:Kyogre

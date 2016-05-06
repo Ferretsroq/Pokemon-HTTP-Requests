@@ -1,0 +1,70 @@
+251:Pidgeot|8
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,8.0
+2:Protect,100.0%,8.0
+3:Heat Wave,75.0%,6.0
+4:Hidden Power,62.5%,5.0
+5:Hyper Beam,37.5%,3.0
+6:U-turn,12.5%,1.0
+7:Tailwind,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Pidgeotite,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Tangled Feet,75.0%,6.0
+2:Keen Eye,25.0%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,62.5%,5.0
+2:Modest,37.5%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Thundurus
+3:Raichu
+4:Landorus
+5:Togekiss
+6:Groudon
+7:Smeargle
+8:Xerneas
+9:Dialga
+10:Ho-Oh
+11:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,80.0%,6.4
+2:Hyper Beam,20.0%,1.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,28.5714285714%,2.28571428571
+2:Dragon Ascent,14.2857142857%,1.14285714286
+3:Acrobatics,14.2857142857%,1.14285714286
+4:Volt Tackle,14.2857142857%,1.14285714286
+5:Ice Beam,14.2857142857%,1.14285714286
+6:Flamethrower,14.2857142857%,1.14285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Landorus
+3:Liepard
+4:Rayquaza
+5:Banette
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Cresselia
+3:Rayquaza
+4:Groudon
+5:Kyogre
+6:Kyogre
+7:Raichu

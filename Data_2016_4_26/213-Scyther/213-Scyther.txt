@@ -1,0 +1,70 @@
+213:Scyther|7
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,7.0
+2:Tailwind,100.0%,7.0
+3:Feint,100.0%,7.0
+4:Safeguard,57.1428571429%,4.0
+5:Struggle Bug,42.8571428571%,3.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Ferrothorn
+4:Landorus
+5:Dialga
+6:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,13.3333333333%,0.933333333333
+2:Water Spout,13.3333333333%,0.933333333333
+3:Rock Slide,13.3333333333%,0.933333333333
+4:Origin Pulse,6.66666666667%,0.466666666667
+5:Dazzling Gleam,6.66666666667%,0.466666666667
+6:Snarl,6.66666666667%,0.466666666667
+7:Iron Head,6.66666666667%,0.466666666667
+8:Hyper Voice,6.66666666667%,0.466666666667
+9:Eruption,6.66666666667%,0.466666666667
+10:Assist,6.66666666667%,0.466666666667
+11:Thunderbolt,6.66666666667%,0.466666666667
+12:Double-Edge,6.66666666667%,0.466666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Meowstic
+6:Rayquaza
+7:Rayquaza
+8:Groudon
+9:Kyogre
+10:Salamence
+11:Mawile
+12:Raikou
+13:Kangaskhan

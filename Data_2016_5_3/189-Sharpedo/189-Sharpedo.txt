@@ -1,0 +1,127 @@
+189:Sharpedo|43
+ ---------- 
+Moves used:
+1:Protect,100.0%,43.0
+2:Destiny Bond,88.3720930233%,38.0
+3:Crunch,69.7674418605%,30.0
+4:Ice Fang,58.1395348837%,25.0
+5:Taunt,20.9302325581%,9.0
+6:Waterfall,18.6046511628%,8.0
+7:Dark Pulse,9.3023255814%,4.0
+8:Hydro Pump,9.3023255814%,4.0
+9:Feint,6.97674418605%,3.0
+10:Super Fang,6.97674418605%,3.0
+11:Screech,6.97674418605%,3.0
+12:Aqua Jet,4.6511627907%,2.0
+
+ ---------- 
+Items used:
+1:Sharpedonite,60.4651162791%,26.0
+2:Focus Sash,27.9069767442%,12.0
+3:Bright Powder,4.6511627907%,2.0
+4:Lum Berry,4.6511627907%,2.0
+5:Mental Herb,2.32558139535%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,43.0
+
+ ---------- 
+Natures used:
+1:Jolly,60.4651162791%,26.0
+2:Naive,13.9534883721%,6.0
+3:Adamant,11.6279069767%,5.0
+4:Modest,9.3023255814%,4.0
+5:Lonely,4.6511627907%,2.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Toxicroak
+3:Rayquaza
+4:Lugia
+5:Marowak
+6:Groudon
+7:Aegislash
+8:Zoroark
+9:Talonflame
+10:Crobat
+11:Zapdos
+12:Kangaskhan
+13:Yveltal
+14:Xerneas
+15:Sylveon
+16:Meowstic
+17:Bisharp
+18:Kyogre
+19:Mewtwo
+20:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,29.1666666667%,12.5416666667
+2:Crunch,20.8333333333%,8.95833333333
+3:Ice Fang,16.6666666667%,7.16666666667
+4:Waterfall,16.6666666667%,7.16666666667
+5:Hydro Pump,8.33333333333%,3.58333333333
+6:Dark Pulse,4.16666666667%,1.79166666667
+7:Feint,4.16666666667%,1.79166666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.3333333333%,5.73333333333
+2:Dragon Ascent,6.66666666667%,2.86666666667
+3:Precipice Blades,6.66666666667%,2.86666666667
+4:Brave Bird,6.66666666667%,2.86666666667
+5:Eruption,6.66666666667%,2.86666666667
+6:Extreme Speed,6.66666666667%,2.86666666667
+7:Earthquake,6.66666666667%,2.86666666667
+8:Origin Pulse,3.33333333333%,1.43333333333
+9:Fusion Bolt,3.33333333333%,1.43333333333
+10:Power Whip,3.33333333333%,1.43333333333
+11:Earth Power,3.33333333333%,1.43333333333
+12:Gyro Ball,3.33333333333%,1.43333333333
+13:Dragon Claw,3.33333333333%,1.43333333333
+14:Bullet Seed,3.33333333333%,1.43333333333
+15:Water Spout,3.33333333333%,1.43333333333
+16:Rock Tomb,3.33333333333%,1.43333333333
+17:Knock Off,3.33333333333%,1.43333333333
+18:Rock Slide,3.33333333333%,1.43333333333
+19:Thunder,3.33333333333%,1.43333333333
+20:Thunderbolt,3.33333333333%,1.43333333333
+0:Other,3.33333333333%,1.43333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Groudon
+3:Thundurus
+4:Xerneas
+5:Meowstic
+6:Talonflame
+7:Bronzong
+8:Rayquaza
+9:Rayquaza
+10:Salamence
+11:Breloom
+12:Ho-Oh
+13:Smeargle
+14:Espeon
+15:Mewtwo
+16:Kangaskhan
+17:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Xerneas
+4:Kyogre
+5:Talonflame
+6:Ferrothorn
+7:Yveltal
+8:Kyurem
+9:Landorus
+10:Thundurus
+11:Breloom
+12:Kangaskhan

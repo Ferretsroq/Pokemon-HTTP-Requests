@@ -1,0 +1,54 @@
+272:Leafeon|7
+ ---------- 
+Moves used:
+1:Worry Seed,85.7142857143%,6.0
+2:Leaf Blade,85.7142857143%,6.0
+3:Fake Tears,85.7142857143%,6.0
+4:Detect,85.7142857143%,6.0
+5:Natural Gift,14.2857142857%,1.0
+6:Wish,14.2857142857%,1.0
+7:Protect,14.2857142857%,1.0
+8:Toxic,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,85.7142857143%,6.0
+2:Wide Lens,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Jolly,85.7142857143%,6.0
+2:Impish,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Vaporeon
+2:Sylveon
+3:Umbreon
+4:Espeon
+5:Flareon
+6:Jolteon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Blade,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,33.3333333333%,2.33333333333
+2:Eruption,33.3333333333%,2.33333333333
+3:Ice Beam,33.3333333333%,2.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Sylveon
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon

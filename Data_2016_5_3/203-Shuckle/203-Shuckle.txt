@@ -1,0 +1,66 @@
+203:Shuckle|29
+ ---------- 
+Moves used:
+1:After You,89.6551724138%,26.0
+2:Helping Hand,89.6551724138%,26.0
+3:Infestation,68.9655172414%,20.0
+4:Protect,68.9655172414%,20.0
+5:Safeguard,20.6896551724%,6.0
+6:Swagger,20.6896551724%,6.0
+7:Power Split,10.3448275862%,3.0
+8:Power Trick,10.3448275862%,3.0
+9:Rock Slide,10.3448275862%,3.0
+10:Earthquake,10.3448275862%,3.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,68.9655172414%,20.0
+2:Mental Herb,20.6896551724%,6.0
+3:Lum Berry,10.3448275862%,3.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,89.6551724138%,26.0
+2:Contrary,10.3448275862%,3.0
+
+ ---------- 
+Natures used:
+1:Calm,68.9655172414%,20.0
+2:Relaxed,31.0344827586%,9.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Smeargle
+3:Gengar
+4:Xerneas
+5:Kangaskhan
+6:Meowstic
+7:Dialga
+8:Landorus
+9:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,29.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,5.8
+2:Eruption,20.0%,5.8
+3:Precipice Blades,10.0%,2.9
+4:Knock Off,10.0%,2.9
+5:Ice Beam,10.0%,2.9
+6:Flamethrower,10.0%,2.9
+7:Double-Edge,10.0%,2.9
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Kangaskhan

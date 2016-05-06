@@ -1,0 +1,60 @@
+245:Cryogonal|6
+ ---------- 
+Moves used:
+1:Ice Shard,66.6666666667%,4.0
+2:Magic Coat,66.6666666667%,4.0
+3:Icy Wind,66.6666666667%,4.0
+4:Light Screen,66.6666666667%,4.0
+5:Freeze-Dry,33.3333333333%,2.0
+6:Sheer Cold,33.3333333333%,2.0
+7:Blizzard,33.3333333333%,2.0
+8:Ice Beam,33.3333333333%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,3.0
+2:Choice Scarf,33.3333333333%,2.0
+3:Light Clay,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Talonflame
+3:Lucario
+4:Riolu
+5:Rayquaza
+6:Murkrow
+7:Groudon
+8:Kyogre
+9:Primeape
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sheer Cold,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,1.2
+2:Stone Edge,20.0%,1.2
+3:Brave Bird,20.0%,1.2
+4:Flare Blitz,20.0%,1.2
+5:Double Kick,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Xerneas
+3:Groudon
+4:Blaziken

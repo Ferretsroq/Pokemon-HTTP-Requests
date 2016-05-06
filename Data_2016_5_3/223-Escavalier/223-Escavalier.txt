@@ -1,0 +1,94 @@
+223:Escavalier|21
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,21.0
+2:Protect,76.1904761905%,16.0
+3:Megahorn,66.6666666667%,14.0
+4:Quick Guard,57.1428571429%,12.0
+5:Drill Run,38.0952380952%,8.0
+6:Infestation,33.3333333333%,7.0
+7:Knock Off,23.8095238095%,5.0
+8:Substitute,4.7619047619%,1.0
+
+ ---------- 
+Items used:
+1:Binding Band,33.3333333333%,7.0
+2:Sitrus Berry,28.5714285714%,6.0
+3:Life Orb,14.2857142857%,3.0
+4:Assault Vest,9.52380952381%,2.0
+5:Leftovers,4.7619047619%,1.0
+6:Choice Band,4.7619047619%,1.0
+7:Lum Berry,4.7619047619%,1.0
+
+ ---------- 
+Abilities used:
+1:Overcoat,52.380952381%,11.0
+2:Swarm,42.8571428571%,9.0
+3:Shell Armor,4.7619047619%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,42.8571428571%,9.0
+2:Sassy,33.3333333333%,7.0
+3:Adamant,23.8095238095%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Kyogre
+4:Talonflame
+5:Rayquaza
+6:Cofagrigus
+7:Ambipom
+8:Kangaskhan
+9:Xerneas
+10:Scrafty
+11:Seismitoad
+12:Smeargle
+13:Slurpuff
+14:Palkia
+15:Togekiss
+16:Lopunny
+17:Salamence
+18:Torkoal
+19:Sableye
+20:Sceptile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,81.8181818182%,17.1818181818
+2:Drill Run,9.09090909091%,1.90909090909
+3:Megahorn,9.09090909091%,1.90909090909
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,16.6666666667%,3.5
+2:Eruption,16.6666666667%,3.5
+3:Dragon Ascent,8.33333333333%,1.75
+4:Dazzling Gleam,8.33333333333%,1.75
+5:Foul Play,8.33333333333%,1.75
+6:Hyper Voice,8.33333333333%,1.75
+7:Hidden Power,8.33333333333%,1.75
+8:Ice Beam,8.33333333333%,1.75
+9:Fire Punch,8.33333333333%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Smeargle
+3:Yveltal
+4:Thundurus
+5:Cresselia
+6:Groudon
+7:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Xerneas
+5:Roserade
+6:Rayquaza
+7:Salamence

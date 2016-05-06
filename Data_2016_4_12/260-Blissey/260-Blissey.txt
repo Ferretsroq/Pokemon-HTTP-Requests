@@ -1,0 +1,61 @@
+260:Blissey|4
+ ---------- 
+Moves used:
+1:Soft-Boiled,75.0%,3.0
+2:Seismic Toss,75.0%,3.0
+3:Heal Pulse,50.0%,2.0
+4:Light Screen,50.0%,2.0
+5:Fling,25.0%,1.0
+6:Calm Mind,25.0%,1.0
+7:Rock Slide,25.0%,1.0
+8:Minimize,25.0%,1.0
+9:Thunder Wave,25.0%,1.0
+10:Ice Beam,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,50.0%,2.0
+2:Kee Berry,25.0%,1.0
+3:Choice Scarf,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,50.0%,2.0
+2:Natural Cure,50.0%,2.0
+
+ ---------- 
+Natures used:
+1:Bold,75.0%,3.0
+2:Timid,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Xerneas
+4:Talonflame
+5:Dialga
+6:Sableye
+7:Gardevoir
+8:Crobat
+9:Gengar
+10:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Bug Bite,50.0%,2.0
+2:Close Combat,50.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Terrakion
+2:Scizor

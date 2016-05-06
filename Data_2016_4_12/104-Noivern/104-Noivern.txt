@@ -1,0 +1,133 @@
+104:Noivern|102
+ ---------- 
+Moves used:
+1:Draco Meteor,89.2156862745%,91.0
+2:Super Fang,83.3333333333%,85.0
+3:Tailwind,65.6862745098%,67.0
+4:Taunt,63.7254901961%,65.0
+5:Protect,39.2156862745%,40.0
+6:Flamethrower,18.6274509804%,19.0
+7:Snatch,8.82352941176%,9.0
+8:Air Slash,7.8431372549%,8.0
+9:Dragon Pulse,5.88235294118%,6.0
+10:Hurricane,4.90196078431%,5.0
+11:Hidden Power,3.92156862745%,4.0
+12:Focus Blast,2.94117647059%,3.0
+13:Solar Beam,2.94117647059%,3.0
+14:Boomburst,1.96078431373%,2.0
+15:Dark Pulse,0.980392156863%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,46.0784313725%,47.0
+2:Lum Berry,38.2352941176%,39.0
+3:Life Orb,5.88235294118%,6.0
+4:Choice Specs,4.90196078431%,5.0
+5:Yache Berry,1.96078431373%,2.0
+6:Chesto Berry,1.96078431373%,2.0
+
+ ---------- 
+Abilities used:
+1:Frisk,89.2156862745%,91.0
+2:Telepathy,9.80392156863%,10.0
+3:Infiltrator,0.980392156863%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,102.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Mawile
+5:Xerneas
+6:Kyurem
+7:Ferrothorn
+8:Giratina
+9:Rayquaza
+10:Dialga
+11:Salamence
+12:Lugia
+13:Yveltal
+14:Landorus
+15:Talonflame
+16:Smeargle
+17:Gengar
+18:Amoonguss
+19:Whimsicott
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,64.0%,65.28
+2:Flamethrower,12.0%,12.24
+3:Boomburst,8.0%,8.16
+4:Dragon Pulse,8.0%,8.16
+5:Hurricane,4.0%,4.08
+6:Focus Blast,4.0%,4.08
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.2413793103%,17.5862068966
+2:Ice Beam,14.9425287356%,15.2413793103
+3:Rock Slide,6.89655172414%,7.03448275862
+4:Brave Bird,4.59770114943%,4.68965517241
+5:Extreme Speed,4.59770114943%,4.68965517241
+6:Double-Edge,4.59770114943%,4.68965517241
+7:Origin Pulse,3.44827586207%,3.51724137931
+8:Dragon Pulse,3.44827586207%,3.51724137931
+9:Gyro Ball,3.44827586207%,3.51724137931
+10:Water Spout,3.44827586207%,3.51724137931
+11:Hidden Power,3.44827586207%,3.51724137931
+12:Moonblast,2.29885057471%,2.34482758621
+13:Snarl,2.29885057471%,2.34482758621
+14:Volt Switch,2.29885057471%,2.34482758621
+15:Sucker Punch,2.29885057471%,2.34482758621
+16:Explosion,2.29885057471%,2.34482758621
+17:Thunderbolt,2.29885057471%,2.34482758621
+18:Dragon Ascent,1.14942528736%,1.1724137931
+19:Precipice Blades,1.14942528736%,1.1724137931
+20:Oblivion Wing,1.14942528736%,1.1724137931
+0:Other,10.3448275862%,10.5517241379
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Rayquaza
+4:Smeargle
+5:Yveltal
+6:Xerneas
+7:Talonflame
+8:Landorus
+9:Whimsicott
+10:Palkia
+11:Weavile
+12:Lopunny
+13:Mawile
+14:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Landorus
+5:Thundurus
+6:Yveltal
+7:Talonflame
+8:Cresselia
+9:Dialga
+10:Rayquaza
+11:Groudon
+12:Ferrothorn
+13:Rayquaza
+14:Terrakion
+15:Palkia
+16:Weavile
+17:Bronzong
+18:Metagross
+19:Salamence
+20:Manectric

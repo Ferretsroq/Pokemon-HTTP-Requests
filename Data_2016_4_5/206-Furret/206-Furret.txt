@@ -1,0 +1,59 @@
+206:Furret|9
+ ---------- 
+Moves used:
+1:Helping Hand,100.0%,9.0
+2:Follow Me,100.0%,9.0
+3:Protect,100.0%,9.0
+4:Super Fang,100.0%,9.0
+
+ ---------- 
+Items used:
+1:Focus Sash,88.8888888889%,8.0
+2:Sitrus Berry,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Jolly,88.8888888889%,8.0
+2:Careful,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Linoone
+4:Xerneas
+5:Kangaskhan
+6:Landorus
+7:Whimsicott
+8:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,12.5%,1.125
+2:Precipice Blades,12.5%,1.125
+3:Clear Smog,12.5%,1.125
+4:Bullet Punch,12.5%,1.125
+5:Seed Bomb,12.5%,1.125
+6:Gyro Ball,12.5%,1.125
+7:Eruption,12.5%,1.125
+8:Sludge Bomb,12.5%,1.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Gourgeist
+3:Ferrothorn
+4:Amoonguss
+5:Rayquaza
+6:Scizor
+7:Gengar

@@ -1,0 +1,42 @@
+297:Skitty|1
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,1.0
+2:Safeguard,100.0%,1.0
+3:Charm,100.0%,1.0
+4:Sing,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Normalize,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gothitelle
+2:Gengar
+3:Haunter
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,0.333333333333
+2:Moonblast,33.3333333333%,0.333333333333
+3:Rock Slide,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Terrakion

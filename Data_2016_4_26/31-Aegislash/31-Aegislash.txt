@@ -1,0 +1,173 @@
+31:Aegislash|3148
+ ---------- 
+Moves used:
+1:Shadow Ball,78.9707750953%,2486.0
+2:Wide Guard,78.1766200762%,2461.0
+3:King's Shield,68.9326556544%,2170.0
+4:Iron Head,54.2249047014%,1707.0
+5:Shadow Sneak,46.8869123253%,1476.0
+6:Gyro Ball,21.4739517154%,676.0
+7:Substitute,19.917407878%,627.0
+8:Flash Cannon,13.7547649301%,433.0
+9:Hidden Power,5.40025412961%,170.0
+10:Shadow Claw,4.35196950445%,137.0
+11:Swords Dance,2.98602287166%,94.0
+12:Sacred Sword,2.85895806861%,90.0
+13:Protect,0.540025412961%,17.0
+14:Toxic,0.444726810673%,14.0
+15:After You,0.412960609911%,13.0
+16:Head Smash,0.412960609911%,13.0
+17:Swagger,0.190597204574%,6.0
+18:Pursuit,0.0317662007624%,1.0
+19:Destiny Bond,0.0317662007624%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,20.6797966963%,651.0
+2:Focus Sash,20.4891994917%,645.0
+3:Weakness Policy,15.1842439644%,478.0
+4:Life Orb,14.5806861499%,459.0
+5:Lum Berry,9.97458703939%,314.0
+6:Occa Berry,6.19440914867%,195.0
+7:Safety Goggles,2.1918678526%,69.0
+8:Sitrus Berry,1.74714104193%,55.0
+9:Power Weight,1.33418043202%,42.0
+10:Chesto Berry,1.14358322745%,36.0
+11:Iron Ball,0.952986022872%,30.0
+12:Power Anklet,0.921219822109%,29.0
+13:Spooky Plate,0.79415501906%,25.0
+14:Spell Tag,0.66709021601%,21.0
+15:Iron Plate,0.444726810673%,14.0
+16:Shuca Berry,0.412960609911%,13.0
+17:Air Balloon,0.349428208386%,11.0
+18:Lax Incense,0.349428208386%,11.0
+19:Expert Belt,0.254129606099%,8.0
+20:Mental Herb,0.254129606099%,8.0
+0:Other,1.04828462516%,33.0
+
+ ---------- 
+Abilities used:
+1:Stance Change,100.0%,3148.0
+
+ ---------- 
+Natures used:
+1:Quiet,41.0101651842%,1291.0
+2:Brave,25.0%,787.0
+3:Modest,10.5463786531%,332.0
+4:Adamant,6.63913595934%,209.0
+5:Sassy,4.03430749682%,127.0
+6:Lonely,4.00254129606%,126.0
+7:Rash,3.11308767471%,98.0
+8:Naughty,2.85895806861%,90.0
+9:Mild,1.17534942821%,37.0
+10:Relaxed,0.444726810673%,14.0
+11:Hasty,0.317662007624%,10.0
+12:Calm,0.285895806861%,9.0
+13:Bold,0.285895806861%,9.0
+14:Impish,0.190597204574%,6.0
+15:Timid,0.0952986022872%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Kangaskhan
+5:Xerneas
+6:Salamence
+7:Talonflame
+8:Crobat
+9:Landorus
+10:Weavile
+11:Thundurus
+12:Dialga
+13:Gengar
+14:Mewtwo
+15:Whimsicott
+16:Smeargle
+17:Giratina
+18:Sableye
+19:Yveltal
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Ball,43.2%,1359.936
+2:Shadow Sneak,21.2571428571%,669.174857143
+3:Iron Head,19.2571428571%,606.214857143
+4:Gyro Ball,8.11428571429%,255.437714286
+5:Flash Cannon,4.57142857143%,143.908571429
+6:Hidden Power,1.71428571429%,53.9657142857
+7:Shadow Claw,1.31428571429%,41.3737142857
+8:Sacred Sword,0.514285714286%,16.1897142857
+9:Head Smash,0.0571428571429%,1.79885714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.3751465416%,326.60961313
+2:Fire Punch,9.20281359906%,289.704572098
+3:Earth Power,7.85463071512%,247.263774912
+4:Water Spout,6.79953106682%,214.049237984
+5:Sucker Punch,6.15474794842%,193.751465416
+6:Scald,5.39273153576%,169.763188746
+7:Flamethrower,4.39624853458%,138.393903869
+8:Origin Pulse,4.16178194607%,131.012895662
+9:Overheat,3.98593200469%,125.477139508
+10:Moonblast,3.81008206331%,119.941383353
+11:Eruption,3.57561547479%,112.560375147
+12:Knock Off,2.87221570926%,90.4173505275
+13:Ice Beam,2.46189917937%,77.5005861665
+14:Dazzling Gleam,2.28604923798%,71.9648300117
+15:Flare Blitz,1.99296600234%,62.7385697538
+16:Thunder,1.87573270809%,59.0480656506
+17:Earthquake,1.81711606096%,57.2028135991
+18:Thunderbolt,1.58264947245%,49.8218053927
+19:Shadow Ball,1.34818288394%,42.4407971864
+20:Foul Play,1.23094958968%,38.7502930832
+0:Other,12.0164126612%,378.276670574
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Cresselia
+7:Talonflame
+8:Thundurus
+9:Rayquaza
+10:Smeargle
+11:Ferrothorn
+12:Bronzong
+13:Gengar
+14:Weavile
+15:Gengar
+16:Crobat
+17:Dialga
+18:Mawile
+19:Whimsicott
+20:Amoonguss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Talonflame
+7:Salamence
+8:Landorus
+9:Yveltal
+10:Dialga
+11:Mawile
+12:Weavile
+13:Kyurem
+14:Rayquaza
+15:Thundurus
+16:Ferrothorn
+17:Kyogre
+18:Liepard
+19:Gengar
+20:Gengar

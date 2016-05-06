@@ -1,0 +1,55 @@
+269:Tyrantrum|1
+ ---------- 
+Moves used:
+1:Head Smash,100.0%,1.0
+2:Iron Head,100.0%,1.0
+3:Superpower,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Rock Head,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Giratina
+4:Mawile
+5:Sableye
+6:Misdreavus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Head Smash,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,28.5714285714%,0.285714285714
+2:Origin Pulse,14.2857142857%,0.142857142857
+3:Dazzling Gleam,14.2857142857%,0.142857142857
+4:Earth Power,14.2857142857%,0.142857142857
+5:Blizzard,14.2857142857%,0.142857142857
+6:Ice Beam,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Salamence
+4:Golduck
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kyurem

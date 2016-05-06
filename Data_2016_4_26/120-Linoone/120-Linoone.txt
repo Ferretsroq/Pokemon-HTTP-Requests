@@ -1,0 +1,125 @@
+120:Linoone|127
+ ---------- 
+Moves used:
+1:Protect,99.2125984252%,126.0
+2:Extreme Speed,98.4251968504%,125.0
+3:Belly Drum,98.4251968504%,125.0
+4:Helping Hand,56.6929133858%,72.0
+5:Shadow Claw,41.7322834646%,53.0
+6:Simple Beam,0.787401574803%,1.0
+7:Rock Smash,0.787401574803%,1.0
+8:Charm,0.787401574803%,1.0
+9:Super Fang,0.787401574803%,1.0
+10:Strength,0.787401574803%,1.0
+11:Surf,0.787401574803%,1.0
+12:Cut,0.787401574803%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,99.2125984252%,126.0
+
+ ---------- 
+Abilities used:
+1:Pickup,99.2125984252%,126.0
+2:Quick Feet,0.787401574803%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,98.4251968504%,125.0
+2:Jolly,1.57480314961%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Amoonguss
+5:Weavile
+6:Thundurus
+7:Talonflame
+8:Furret
+9:Klinklang
+10:Mewtwo
+11:Raichu
+12:Smeargle
+13:Parasect
+14:Xerneas
+15:Groudon
+16:Swablu
+17:Sableye
+18:Starmie
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Extreme Speed,97.7272727273%,124.113636364
+2:Shadow Claw,2.27272727273%,2.88636363636
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.2653061224%,16.8469387755
+2:Precipice Blades,9.18367346939%,11.6632653061
+3:Brave Bird,6.12244897959%,7.77551020408
+4:Gyro Ball,6.12244897959%,7.77551020408
+5:Iron Head,5.10204081633%,6.47959183673
+6:Extreme Speed,5.10204081633%,6.47959183673
+7:Double-Edge,5.10204081633%,6.47959183673
+8:Water Spout,4.08163265306%,5.18367346939
+9:Hyper Voice,4.08163265306%,5.18367346939
+10:Moonblast,3.0612244898%,3.88775510204
+11:Sludge Bomb,3.0612244898%,3.88775510204
+12:Low Kick,3.0612244898%,3.88775510204
+13:Origin Pulse,2.04081632653%,2.59183673469
+14:Play Rough,2.04081632653%,2.59183673469
+15:Bullet Punch,2.04081632653%,2.59183673469
+16:Dragon Pulse,2.04081632653%,2.59183673469
+17:Eruption,2.04081632653%,2.59183673469
+18:Knock Off,2.04081632653%,2.59183673469
+19:Ice Beam,2.04081632653%,2.59183673469
+20:Power-Up Punch,1.02040816327%,1.29591836735
+0:Other,16.3265306122%,20.7346938776
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Smeargle
+6:Yveltal
+7:Talonflame
+8:Thundurus
+9:Cresselia
+10:Rayquaza
+11:Salamence
+12:Meowstic
+13:Kyurem
+14:Amoonguss
+15:Raichu
+16:Landorus
+17:Whimsicott
+18:Liepard
+19:Palkia
+20:Lopunny
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Mawile
+5:Salamence
+6:Talonflame
+7:Kangaskhan
+8:Ferrothorn
+9:Rayquaza
+10:Gengar
+11:Yveltal
+12:Kyurem
+13:Dialga
+14:Scizor
+15:Aromatisse
+16:Thundurus
+17:Liepard
+18:Cresselia
+19:Giratina
+20:Palkia

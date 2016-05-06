@@ -1,0 +1,64 @@
+253:Venomoth|13
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,13.0
+2:Rage Powder,84.6153846154%,11.0
+3:Skill Swap,84.6153846154%,11.0
+4:Protect,76.9230769231%,10.0
+5:Quiver Dance,15.3846153846%,2.0
+6:Bug Buzz,15.3846153846%,2.0
+7:Tailwind,7.69230769231%,1.0
+8:Baton Pass,7.69230769231%,1.0
+9:Sludge Bomb,7.69230769231%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,92.3076923077%,12.0
+2:Life Orb,7.69230769231%,1.0
+
+ ---------- 
+Abilities used:
+1:Tinted Lens,92.3076923077%,12.0
+2:Wonder Skin,7.69230769231%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,92.3076923077%,12.0
+2:Modest,7.69230769231%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Crobat
+3:Kyogre
+4:Dialga
+5:Kangaskhan
+6:Xerneas
+7:Meowstic
+8:Kyurem
+9:Krookodile
+10:Lugia
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,2.16666666667
+2:Moonblast,16.6666666667%,2.16666666667
+3:Brave Bird,16.6666666667%,2.16666666667
+4:Gyro Ball,16.6666666667%,2.16666666667
+5:Aeroblast,16.6666666667%,2.16666666667
+6:Ice Beam,16.6666666667%,2.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Ferrothorn
+4:Groudon
+5:Kyogre
+6:Lugia

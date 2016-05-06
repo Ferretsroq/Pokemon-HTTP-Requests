@@ -1,0 +1,149 @@
+85:Scrafty|122
+ ---------- 
+Moves used:
+1:Fake Out,89.3442622951%,109.0
+2:Knock Off,60.6557377049%,74.0
+3:Drain Punch,45.0819672131%,55.0
+4:Super Fang,45.0819672131%,55.0
+5:Low Kick,35.2459016393%,43.0
+6:Protect,29.5081967213%,36.0
+7:Quick Guard,22.131147541%,27.0
+8:Foul Play,20.4918032787%,25.0
+9:Snarl,11.4754098361%,14.0
+10:Rock Slide,10.6557377049%,13.0
+11:Taunt,8.19672131148%,10.0
+12:Detect,5.73770491803%,7.0
+13:Ice Punch,5.73770491803%,7.0
+14:Dragon Tail,3.27868852459%,4.0
+15:Crunch,3.27868852459%,4.0
+16:Iron Defense,2.45901639344%,3.0
+17:High Jump Kick,1.6393442623%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,32.7868852459%,40.0
+2:Eject Button,30.3278688525%,37.0
+3:Sitrus Berry,9.01639344262%,11.0
+4:Chesto Berry,9.01639344262%,11.0
+5:Focus Sash,5.73770491803%,7.0
+6:Lum Berry,4.91803278689%,6.0
+7:Life Orb,3.27868852459%,4.0
+8:Leftovers,3.27868852459%,4.0
+9:Safety Goggles,0.819672131148%,1.0
+10:Coba Berry,0.819672131148%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,122.0
+
+ ---------- 
+Natures used:
+1:Adamant,37.7049180328%,46.0
+2:Careful,27.868852459%,34.0
+3:Impish,9.01639344262%,11.0
+4:Relaxed,9.01639344262%,11.0
+5:Brave,8.19672131148%,10.0
+6:Sassy,4.09836065574%,5.0
+7:Rash,4.09836065574%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Kangaskhan
+5:Xerneas
+6:Cresselia
+7:Gengar
+8:Gothitelle
+9:Salamence
+10:Whimsicott
+11:Landorus
+12:Mawile
+13:Ho-Oh
+14:Thundurus
+15:Ferrothorn
+16:Porygon2
+17:Sableye
+18:Gardevoir
+19:Mewtwo
+20:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,36.5853658537%,44.6341463415
+2:Drain Punch,29.2682926829%,35.7073170732
+3:Low Kick,14.6341463415%,17.8536585366
+4:Rock Slide,9.75609756098%,11.9024390244
+5:Fake Out,7.31707317073%,8.92682926829
+6:Ice Punch,2.43902439024%,2.9756097561
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.4418604651%,21.2790697674
+2:Precipice Blades,12.7906976744%,15.6046511628
+3:Water Spout,12.7906976744%,15.6046511628
+4:Hyper Voice,5.81395348837%,7.09302325581
+5:Eruption,5.81395348837%,7.09302325581
+6:Play Rough,4.6511627907%,5.67441860465
+7:Origin Pulse,3.48837209302%,4.25581395349
+8:Ice Beam,3.48837209302%,4.25581395349
+9:Flamethrower,3.48837209302%,4.25581395349
+10:Dragon Ascent,2.32558139535%,2.83720930233
+11:Brave Bird,2.32558139535%,2.83720930233
+12:Flare Blitz,2.32558139535%,2.83720930233
+13:Sludge Bomb,2.32558139535%,2.83720930233
+14:Low Kick,2.32558139535%,2.83720930233
+15:Double-Edge,2.32558139535%,2.83720930233
+16:Moonblast,1.16279069767%,1.41860465116
+17:Draco Meteor,1.16279069767%,1.41860465116
+18:Dragon Pulse,1.16279069767%,1.41860465116
+19:Aura Sphere,1.16279069767%,1.41860465116
+20:Close Combat,1.16279069767%,1.41860465116
+0:Other,8.13953488372%,9.93023255814
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Cresselia
+3:Gengar
+4:Ferrothorn
+5:Kangaskhan
+6:Yveltal
+7:Weavile
+8:Kyogre
+9:Crobat
+10:Lapras
+11:Meowstic
+12:Talonflame
+13:Kyurem
+14:Zekrom
+15:Mienshao
+16:Giratina
+17:Palkia
+18:Togekiss
+19:Bronzong
+20:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Mawile
+6:Kangaskhan
+7:Ditto
+8:Talonflame
+9:Landorus
+10:Dialga
+11:Rayquaza
+12:Ho-Oh
+13:Gengar
+14:Thundurus
+15:Togekiss
+16:Garchomp
+17:Rayquaza
+18:Kyogre
+19:Lugia
+20:Smeargle

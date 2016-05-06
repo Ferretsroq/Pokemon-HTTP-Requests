@@ -1,0 +1,41 @@
+297:Electabuzz|1
+ ---------- 
+Moves used:
+1:Focus Blast,100.0%,1.0
+2:Feint,100.0%,1.0
+3:Hidden Power,100.0%,1.0
+4:Thunderbolt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Arcanine
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Focus Blast,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

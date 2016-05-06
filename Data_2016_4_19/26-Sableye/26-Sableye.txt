@@ -1,0 +1,165 @@
+26:Sableye|4086
+ ---------- 
+Moves used:
+1:Quash,83.4312285854%,3409.0
+2:Gravity,72.9319627998%,2980.0
+3:Taunt,64.4884973079%,2635.0
+4:Fake Out,62.7753303965%,2565.0
+5:Feint,32.917278512%,1345.0
+6:Foul Play,31.1062163485%,1271.0
+7:Will-O-Wisp,20.1908957416%,825.0
+8:Swagger,6.60792951542%,270.0
+9:Role Play,6.55898188938%,268.0
+10:Confuse Ray,5.4821341165%,224.0
+11:Recover,2.74106705825%,112.0
+12:Protect,2.47185511503%,101.0
+13:Leer,2.20264317181%,90.0
+14:Knock Off,0.905531081743%,37.0
+15:Snarl,0.807635829662%,33.0
+16:Shadow Sneak,0.807635829662%,33.0
+17:Detect,0.758688203622%,31.0
+18:Metal Burst,0.660792951542%,27.0
+19:Magic Coat,0.587371512482%,24.0
+20:Sucker Punch,0.367107195301%,15.0
+0:Other,1.19921683798%,49.0
+
+ ---------- 
+Items used:
+1:Mental Herb,65.4429760157%,2674.0
+2:Sablenite,12.5795398923%,514.0
+3:Focus Sash,10.5237395986%,430.0
+4:Sitrus Berry,3.64659813999%,149.0
+5:Eject Button,3.20606950563%,131.0
+6:Roseli Berry,1.76211453744%,72.0
+7:Leftovers,0.978952520803%,40.0
+8:Lum Berry,0.881057268722%,36.0
+9:Red Card,0.367107195301%,15.0
+10:White Herb,0.17131669114%,7.0
+11:Wide Lens,0.1223690651%,5.0
+12:Rocky Helmet,0.0734214390602%,3.0
+13:Lax Incense,0.0489476260401%,2.0
+14:Safety Goggles,0.0244738130201%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,99.975526187%,4085.0
+2:Keen Eye,0.0244738130201%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,37.860988742%,1547.0
+2:Bold,17.0093000489%,695.0
+3:Calm,14.0724424865%,575.0
+4:Impish,13.3137542829%,544.0
+5:Sassy,11.3069016153%,462.0
+6:Relaxed,3.59765051395%,147.0
+7:Adamant,1.7131669114%,70.0
+8:Brave,0.611845325502%,25.0
+9:Naughty,0.244738130201%,10.0
+10:Hardy,0.14684287812%,6.0
+11:Jolly,0.0734214390602%,3.0
+12:Quiet,0.0489476260401%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyurem
+3:Gengar
+4:Whimsicott
+5:Kyogre
+6:Salamence
+7:Kangaskhan
+8:Xerneas
+9:Rayquaza
+10:Ferrothorn
+11:Landorus
+12:Giratina
+13:Talonflame
+14:Bronzong
+15:Crobat
+16:Yveltal
+17:Cresselia
+18:Mawile
+19:Mewtwo
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,65.7303370787%,2685.74157303
+2:Feint,26.6853932584%,1090.36516854
+3:Fake Out,3.93258426966%,160.685393258
+4:Metal Burst,1.40449438202%,57.3876404494
+5:Knock Off,1.12359550562%,45.9101123596
+6:Snarl,0.561797752809%,22.9550561798
+7:Sucker Punch,0.280898876404%,11.4775280899
+8:Rock Tomb,0.280898876404%,11.4775280899
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,19.3962526024%,792.530881332
+2:Precipice Blades,12.4913254684%,510.39555864
+3:Water Spout,10.4094378904%,425.3296322
+4:Origin Pulse,7.94587092297%,324.668285913
+5:Eruption,6.76613462873%,276.46426093
+6:Hyper Voice,4.47605829285%,182.891741846
+7:Moonblast,3.64330326162%,148.86537127
+8:Brave Bird,3.0881332408%,126.181124219
+9:Ice Beam,2.9146426093%,119.092297016
+10:Dragon Ascent,2.63705759889%,107.750173491
+11:Play Rough,2.42886884108%,99.2435808466
+12:Thunderbolt,1.76960444136%,72.306037474
+13:Dragon Pulse,1.52671755725%,62.3816793893
+14:Fire Punch,1.45732130465%,59.546148508
+15:Knock Off,1.24913254684%,51.039555864
+16:Earthquake,1.21443442054%,49.6217904233
+17:Blizzard,0.902151283831%,36.8619014573
+18:Rock Slide,0.867453157529%,35.4441360167
+19:Earth Power,0.832755031228%,34.026370576
+20:Flare Blitz,0.728660652325%,29.773074254
+0:Other,11.7279666898%,479.204718945
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Smeargle
+6:Rayquaza
+7:Thundurus
+8:Salamence
+9:Whimsicott
+10:Liepard
+11:Rayquaza
+12:Gengar
+13:Xerneas
+14:Dialga
+15:Crobat
+16:Landorus
+17:Amoonguss
+18:Weavile
+19:Meowstic
+20:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Talonflame
+6:Mawile
+7:Rayquaza
+8:Yveltal
+9:Thundurus
+10:Dialga
+11:Landorus
+12:Kyurem
+13:Kyogre
+14:Cresselia
+15:Weavile
+16:Ferrothorn
+17:Rayquaza
+18:Gengar
+19:Kangaskhan
+20:Togekiss

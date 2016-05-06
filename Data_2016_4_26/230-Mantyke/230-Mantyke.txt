@@ -1,0 +1,72 @@
+230:Mantyke|15
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,15.0
+2:Scald,93.3333333333%,14.0
+3:Tailwind,93.3333333333%,14.0
+4:Air Slash,80.0%,12.0
+5:Haze,13.3333333333%,2.0
+6:Helping Hand,6.66666666667%,1.0
+7:Icy Wind,6.66666666667%,1.0
+8:Confuse Ray,6.66666666667%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,15.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,15.0
+
+ ---------- 
+Natures used:
+1:Calm,73.3333333333%,11.0
+2:Bold,26.6666666667%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Thundurus
+5:Ferrothorn
+6:Kyogre
+7:Smeargle
+8:Crobat
+9:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Air Slash,66.6666666667%,10.0
+2:Scald,33.3333333333%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,15.3846153846%,2.30769230769
+2:Rock Slide,15.3846153846%,2.30769230769
+3:Thunderbolt,15.3846153846%,2.30769230769
+4:Dazzling Gleam,7.69230769231%,1.15384615385
+5:Moonblast,7.69230769231%,1.15384615385
+6:Sucker Punch,7.69230769231%,1.15384615385
+7:Knock Off,7.69230769231%,1.15384615385
+8:Thunder,7.69230769231%,1.15384615385
+9:Ice Beam,7.69230769231%,1.15384615385
+10:Double-Edge,7.69230769231%,1.15384615385
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Thundurus
+3:Kyogre
+4:Yveltal
+5:Landorus
+6:Rayquaza
+7:Rayquaza
+8:Groudon
+9:Salamence
+10:Kangaskhan

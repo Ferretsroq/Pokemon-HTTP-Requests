@@ -1,0 +1,114 @@
+131:Electivire|37
+ ---------- 
+Moves used:
+1:Protect,83.7837837838%,31.0
+2:Wild Charge,72.972972973%,27.0
+3:Feint,64.8648648649%,24.0
+4:Low Kick,62.1621621622%,23.0
+5:Ice Punch,35.1351351351%,13.0
+6:Electric Terrain,27.027027027%,10.0
+7:Thunder Punch,27.027027027%,10.0
+8:Earthquake,18.9189189189%,7.0
+9:Uproar,5.40540540541%,2.0
+10:Hidden Power,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,70.2702702703%,26.0
+2:Focus Sash,27.027027027%,10.0
+3:Expert Belt,2.7027027027%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,97.2972972973%,36.0
+2:Motor Drive,2.7027027027%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,81.0810810811%,30.0
+2:Adamant,10.8108108108%,4.0
+3:Hasty,5.40540540541%,2.0
+4:Naive,2.7027027027%,1.0
+
+ ---------- 
+Top teammates:
+1:Crobat
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Froslass
+6:Kangaskhan
+7:Ferrothorn
+8:Salamence
+9:Sceptile
+10:Gyarados
+11:Lickilicky
+12:Talonflame
+13:Landorus
+14:Thundurus
+15:Giratina
+16:Weavile
+17:Smeargle
+18:Amoonguss
+19:Ho-Oh
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wild Charge,50.0%,18.5
+2:Low Kick,18.1818181818%,6.72727272727
+3:Feint,13.6363636364%,5.04545454545
+4:Thunder Punch,9.09090909091%,3.36363636364
+5:Ice Punch,9.09090909091%,3.36363636364
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.5384615385%,4.26923076923
+2:Water Spout,11.5384615385%,4.26923076923
+3:Origin Pulse,7.69230769231%,2.84615384615
+4:Flare Blitz,7.69230769231%,2.84615384615
+5:Dragon Ascent,3.84615384615%,1.42307692308
+6:Precipice Blades,3.84615384615%,1.42307692308
+7:Foul Play,3.84615384615%,1.42307692308
+8:Power Whip,3.84615384615%,1.42307692308
+9:Hyper Voice,3.84615384615%,1.42307692308
+10:Knock Off,3.84615384615%,1.42307692308
+11:Extreme Speed,3.84615384615%,1.42307692308
+12:Hidden Power,3.84615384615%,1.42307692308
+13:Return,3.84615384615%,1.42307692308
+14:Sludge Bomb,3.84615384615%,1.42307692308
+15:Rock Slide,3.84615384615%,1.42307692308
+16:Waterfall,3.84615384615%,1.42307692308
+17:Double-Edge,3.84615384615%,1.42307692308
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Thundurus
+4:Ferrothorn
+5:Bronzong
+6:Yveltal
+7:Bisharp
+8:Cresselia
+9:Dialga
+10:Rayquaza
+11:Salamence
+12:Ho-Oh
+13:Smeargle
+14:Zapdos
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Rayquaza
+4:Yveltal
+5:Talonflame
+6:Groudon
+7:Kangaskhan
+8:Ferrothorn
+9:Kyogre
+10:Salamence
+11:Gengar

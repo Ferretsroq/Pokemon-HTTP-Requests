@@ -1,0 +1,39 @@
+284:Tornadus-T|1
+ ---------- 
+Moves used:
+1:Hurricane,100.0%,1.0
+2:Focus Blast,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Icy Wind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Aegislash
+2:Zekrom
+3:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

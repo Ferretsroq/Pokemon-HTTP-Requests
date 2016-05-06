@@ -1,0 +1,107 @@
+122:Cherrim|63
+ ---------- 
+Moves used:
+1:Heal Pulse,90.4761904762%,57.0
+2:Protect,80.9523809524%,51.0
+3:Helping Hand,65.0793650794%,41.0
+4:Grass Knot,60.3174603175%,38.0
+5:Grass Whistle,28.5714285714%,18.0
+6:Worry Seed,23.8095238095%,15.0
+7:Seed Bomb,22.2222222222%,14.0
+8:Leech Seed,15.873015873%,10.0
+9:Weather Ball,6.34920634921%,4.0
+10:Solar Beam,6.34920634921%,4.0
+
+ ---------- 
+Items used:
+1:Leftovers,26.9841269841%,17.0
+2:Focus Sash,15.873015873%,10.0
+3:Occa Berry,15.873015873%,10.0
+4:Sitrus Berry,14.2857142857%,9.0
+5:Power Lens,12.6984126984%,8.0
+6:Choice Scarf,6.34920634921%,4.0
+7:Coba Berry,6.34920634921%,4.0
+8:Bright Powder,1.5873015873%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,63.0
+
+ ---------- 
+Natures used:
+1:Sassy,46.0317460317%,29.0
+2:Jolly,14.2857142857%,9.0
+3:Quiet,12.6984126984%,8.0
+4:Timid,12.6984126984%,8.0
+5:Relaxed,12.6984126984%,8.0
+6:Impish,1.5873015873%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Dialga
+3:Mienshao
+4:Cresselia
+5:Xerneas
+6:Kangaskhan
+7:Rotom
+8:Smeargle
+9:Talonflame
+10:Chandelure
+11:Salamence
+12:Mawile
+13:Crobat
+14:Yveltal
+15:Thundurus
+16:Rayquaza
+17:Hitmontop
+18:Espeon
+19:Kyurem
+20:Gallade
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,75.0%,47.25
+2:Seed Bomb,25.0%,15.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.5882352941%,12.9705882353
+2:Eruption,17.6470588235%,11.1176470588
+3:Double-Edge,8.82352941176%,5.55882352941
+4:Origin Pulse,5.88235294118%,3.70588235294
+5:Water Spout,5.88235294118%,3.70588235294
+6:Fire Punch,5.88235294118%,3.70588235294
+7:Dragon Ascent,2.94117647059%,1.85294117647
+8:Dazzling Gleam,2.94117647059%,1.85294117647
+9:Moonblast,2.94117647059%,1.85294117647
+10:Bug Bite,2.94117647059%,1.85294117647
+11:Iron Head,2.94117647059%,1.85294117647
+12:Brave Bird,2.94117647059%,1.85294117647
+13:Close Combat,2.94117647059%,1.85294117647
+14:Hyper Voice,2.94117647059%,1.85294117647
+15:Sludge Bomb,2.94117647059%,1.85294117647
+16:Earthquake,2.94117647059%,1.85294117647
+17:Flamethrower,2.94117647059%,1.85294117647
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Terrakion
+9:Rayquaza
+10:Manectric
+11:Mawile
+12:Scizor
+13:Gengar

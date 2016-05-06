@@ -1,0 +1,90 @@
+189:Trevenant|24
+ ---------- 
+Moves used:
+1:Trick Room,87.5%,21.0
+2:Forest's Curse,70.8333333333%,17.0
+3:Magic Coat,50.0%,12.0
+4:Role Play,45.8333333333%,11.0
+5:Protect,41.6666666667%,10.0
+6:Imprison,25.0%,6.0
+7:Wood Hammer,20.8333333333%,5.0
+8:Will-O-Wisp,20.8333333333%,5.0
+9:Horn Leech,8.33333333333%,2.0
+10:Skill Swap,8.33333333333%,2.0
+11:Curse,8.33333333333%,2.0
+12:Leech Seed,8.33333333333%,2.0
+13:Confuse Ray,4.16666666667%,1.0
+
+ ---------- 
+Items used:
+1:Coba Berry,45.8333333333%,11.0
+2:Sitrus Berry,25.0%,6.0
+3:Occa Berry,16.6666666667%,4.0
+4:Focus Sash,4.16666666667%,1.0
+5:Mental Herb,4.16666666667%,1.0
+6:Lum Berry,4.16666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,50.0%,12.0
+2:Harvest,25.0%,6.0
+3:Natural Cure,25.0%,6.0
+
+ ---------- 
+Natures used:
+1:Calm,70.8333333333%,17.0
+2:Careful,8.33333333333%,2.0
+3:Adamant,8.33333333333%,2.0
+4:Sassy,4.16666666667%,1.0
+5:Impish,4.16666666667%,1.0
+6:Brave,4.16666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Xerneas
+4:Talonflame
+5:Landorus
+6:Yveltal
+7:Zekrom
+8:Medicham
+9:Cresselia
+10:Weavile
+11:Garchomp
+12:Kyogre
+13:Glalie
+14:Thundurus
+15:Ho-Oh
+16:Smeargle
+17:Houndoom
+18:Crobat
+19:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,26.6666666667%,6.4
+2:Double-Edge,13.3333333333%,3.2
+3:Dragon Ascent,6.66666666667%,1.6
+4:Overheat,6.66666666667%,1.6
+5:Eruption,6.66666666667%,1.6
+6:Knock Off,6.66666666667%,1.6
+7:Fire Blast,6.66666666667%,1.6
+8:Ice Beam,6.66666666667%,1.6
+9:Fire Punch,6.66666666667%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Groudon
+3:Bisharp
+4:Dialga
+5:Rayquaza
+6:Rayquaza
+7:Kyogre

@@ -1,0 +1,50 @@
+284:Florges|3
+ ---------- 
+Moves used:
+1:Moonblast,100.0%,3.0
+2:Helping Hand,100.0%,3.0
+3:Protect,100.0%,3.0
+4:Worry Seed,66.6666666667%,2.0
+5:Wish,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,66.6666666667%,2.0
+2:Pixie Plate,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Symbiosis,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Calm,66.6666666667%,2.0
+2:Bold,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Lugia
+3:Xerneas
+4:Landorus
+5:Sableye
+6:Murkrow
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Moonblast,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sludge Wave,50.0%,1.5
+2:Gyro Ball,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyurem
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Nidoking

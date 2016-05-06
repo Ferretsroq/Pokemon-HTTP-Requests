@@ -1,0 +1,60 @@
+224:Venomoth|13
+ ---------- 
+Moves used:
+1:Rage Powder,92.3076923077%,12.0
+2:Skill Swap,92.3076923077%,12.0
+3:Sleep Powder,92.3076923077%,12.0
+4:Protect,76.9230769231%,10.0
+5:Tailwind,23.0769230769%,3.0
+6:Quiver Dance,7.69230769231%,1.0
+7:Bug Buzz,7.69230769231%,1.0
+8:Sludge Bomb,7.69230769231%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,92.3076923077%,12.0
+2:Life Orb,7.69230769231%,1.0
+
+ ---------- 
+Abilities used:
+1:Tinted Lens,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Timid,92.3076923077%,12.0
+2:Modest,7.69230769231%,1.0
+
+ ---------- 
+Top teammates:
+1:Crobat
+2:Groudon
+3:Kyogre
+4:Dialga
+5:Xerneas
+6:Krookodile
+7:Rayquaza
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,2.16666666667
+2:Moonblast,16.6666666667%,2.16666666667
+3:Earth Power,16.6666666667%,2.16666666667
+4:Brave Bird,16.6666666667%,2.16666666667
+5:Aeroblast,16.6666666667%,2.16666666667
+6:Ice Beam,16.6666666667%,2.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Dialga
+4:Groudon
+5:Kyogre
+6:Lugia

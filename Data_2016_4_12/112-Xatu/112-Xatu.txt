@@ -1,0 +1,118 @@
+112:Xatu|80
+ ---------- 
+Moves used:
+1:Tailwind,63.75%,51.0
+2:Skill Swap,61.25%,49.0
+3:Leer,37.5%,30.0
+4:Haze,36.25%,29.0
+5:Psychic,33.75%,27.0
+6:Thunder Wave,33.75%,27.0
+7:Ally Switch,28.75%,23.0
+8:Trick Room,27.5%,22.0
+9:Protect,26.25%,21.0
+10:Feather Dance,12.5%,10.0
+11:Night Shade,12.5%,10.0
+12:Simple Beam,8.75%,7.0
+13:Me First,6.25%,5.0
+14:Confuse Ray,5.0%,4.0
+15:Wish,2.5%,2.0
+16:Heat Wave,2.5%,2.0
+17:Light Screen,1.25%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,82.5%,66.0
+2:Sitrus Berry,15.0%,12.0
+3:Red Card,2.5%,2.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,80.0
+
+ ---------- 
+Natures used:
+1:Timid,78.75%,63.0
+2:Jolly,18.75%,15.0
+3:Bold,2.5%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Salamence
+5:Xerneas
+6:Rayquaza
+7:Ferrothorn
+8:Gengar
+9:Mawile
+10:Thundurus
+11:Manectric
+12:Landorus
+13:Hitmontop
+14:Clefairy
+15:Aegislash
+16:Greninja
+17:Amoonguss
+18:Palkia
+19:Masquerain
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,80.0%,64.0
+2:Night Shade,20.0%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.3521126761%,20.2816901408
+2:Hyper Voice,7.04225352113%,5.6338028169
+3:Water Spout,5.6338028169%,4.50704225352
+4:Rock Slide,5.6338028169%,4.50704225352
+5:Eruption,4.22535211268%,3.38028169014
+6:Ice Beam,4.22535211268%,3.38028169014
+7:Double-Edge,4.22535211268%,3.38028169014
+8:Origin Pulse,2.81690140845%,2.25352112676
+9:Moonblast,2.81690140845%,2.25352112676
+10:Brave Bird,2.81690140845%,2.25352112676
+11:Extreme Speed,2.81690140845%,2.25352112676
+12:Icy Wind,2.81690140845%,2.25352112676
+13:Precipice Blades,1.40845070423%,1.12676056338
+14:Snarl,1.40845070423%,1.12676056338
+15:Final Gambit,1.40845070423%,1.12676056338
+16:Scald,1.40845070423%,1.12676056338
+17:Foul Play,1.40845070423%,1.12676056338
+18:Shadow Force,1.40845070423%,1.12676056338
+19:Grass Knot,1.40845070423%,1.12676056338
+20:Ice Shard,1.40845070423%,1.12676056338
+0:Other,15.4929577465%,12.3943661972
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Meowstic
+3:Groudon
+4:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Rayquaza
+9:Gengar
+10:Yveltal
+11:Greninja
+12:Kyurem
+13:Ferrothorn
+14:Amoonguss
+15:Gothitelle
+16:Liepard
+17:Giratina
+18:Palkia
+19:Dialga
+20:Staraptor

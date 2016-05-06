@@ -1,0 +1,91 @@
+155:Furret|47
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,47.0
+2:Super Fang,97.8723404255%,46.0
+3:Helping Hand,80.8510638298%,38.0
+4:Fling,59.5744680851%,28.0
+5:Protect,36.170212766%,17.0
+6:Charm,21.2765957447%,10.0
+7:Sucker Punch,4.25531914894%,2.0
+
+ ---------- 
+Items used:
+1:Light Ball,59.5744680851%,28.0
+2:Focus Sash,34.0425531915%,16.0
+3:Sitrus Berry,4.25531914894%,2.0
+4:Rocky Helmet,2.12765957447%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,47.0
+
+ ---------- 
+Natures used:
+1:Careful,65.9574468085%,31.0
+2:Jolly,34.0425531915%,16.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Talonflame
+4:Landorus
+5:Kangaskhan
+6:Amoonguss
+7:Kyogre
+8:Linoone
+9:Weavile
+10:Whimsicott
+11:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,6.71428571429
+2:Precipice Blades,9.52380952381%,4.47619047619
+3:Double-Edge,9.52380952381%,4.47619047619
+4:Play Rough,4.7619047619%,2.2380952381
+5:Draco Meteor,4.7619047619%,2.2380952381
+6:Water Spout,4.7619047619%,2.2380952381
+7:Eruption,4.7619047619%,2.2380952381
+8:Dragon Ascent,2.38095238095%,1.11904761905
+9:Origin Pulse,2.38095238095%,1.11904761905
+10:Moonblast,2.38095238095%,1.11904761905
+11:Clear Smog,2.38095238095%,1.11904761905
+12:Iron Head,2.38095238095%,1.11904761905
+13:Earth Power,2.38095238095%,1.11904761905
+14:Brave Bird,2.38095238095%,1.11904761905
+15:Seed Bomb,2.38095238095%,1.11904761905
+16:Gyro Ball,2.38095238095%,1.11904761905
+17:Dragon Claw,2.38095238095%,1.11904761905
+18:Overheat,2.38095238095%,1.11904761905
+19:Knock Off,2.38095238095%,1.11904761905
+20:Extreme Speed,2.38095238095%,1.11904761905
+0:Other,11.9047619048%,5.59523809524
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Mawile
+5:Kangaskhan
+6:Rayquaza
+7:Yveltal
+8:Gourgeist
+9:Talonflame
+10:Ferrothorn
+11:Amoonguss
+12:Giratina
+13:Rayquaza
+14:Salamence
+15:Ho-Oh
+16:Crobat
+17:Mewtwo
+18:Gengar

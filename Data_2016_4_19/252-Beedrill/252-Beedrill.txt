@@ -1,0 +1,58 @@
+252:Beedrill|8
+ ---------- 
+Moves used:
+1:Poison Jab,100.0%,8.0
+2:Protect,100.0%,8.0
+3:U-turn,87.5%,7.0
+4:Drill Run,50.0%,4.0
+5:Knock Off,37.5%,3.0
+6:X-Scissor,12.5%,1.0
+7:Twineedle,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Beedrillite,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Sniper,87.5%,7.0
+2:Swarm,12.5%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Crobat
+3:Froslass
+4:Groudon
+5:Talonflame
+6:Mamoswine
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Poison Jab,80.0%,6.4
+2:U-turn,20.0%,1.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,33.3333333333%,2.66666666667
+2:Sucker Punch,16.6666666667%,1.33333333333
+3:Extreme Speed,16.6666666667%,1.33333333333
+4:Earthquake,16.6666666667%,1.33333333333
+5:Fire Punch,16.6666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Landorus
+3:Rayquaza
+4:Kangaskhan

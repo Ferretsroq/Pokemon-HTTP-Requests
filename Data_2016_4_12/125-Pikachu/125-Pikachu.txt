@@ -1,0 +1,116 @@
+125:Pikachu|59
+ ---------- 
+Moves used:
+1:Fake Out,94.9152542373%,56.0
+2:Protect,79.6610169492%,47.0
+3:Volt Tackle,72.8813559322%,43.0
+4:Hidden Power,55.9322033898%,33.0
+5:Feint,40.6779661017%,24.0
+6:Endeavor,18.6440677966%,11.0
+7:Thunderbolt,15.2542372881%,9.0
+8:Nuzzle,11.8644067797%,7.0
+9:Quick Attack,6.77966101695%,4.0
+10:Knock Off,1.69491525424%,1.0
+11:Encore,1.69491525424%,1.0
+
+ ---------- 
+Items used:
+1:Light Ball,81.3559322034%,48.0
+2:Focus Sash,18.6440677966%,11.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,59.0
+
+ ---------- 
+Natures used:
+1:Naive,52.5423728814%,31.0
+2:Timid,15.2542372881%,9.0
+3:Jolly,11.8644067797%,7.0
+4:Adamant,11.8644067797%,7.0
+5:Relaxed,6.77966101695%,4.0
+6:Lonely,1.69491525424%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Talonflame
+5:Kangaskhan
+6:Gengar
+7:Greninja
+8:Groudon
+9:Salamence
+10:Thundurus
+11:Scizor
+12:Landorus
+13:Mawile
+14:Breloom
+15:Amoonguss
+16:Cresselia
+17:Blaziken
+18:Crobat
+19:Terrakion
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,33.3333333333%,19.6666666667
+2:Thunderbolt,33.3333333333%,19.6666666667
+3:Hidden Power,26.6666666667%,15.7333333333
+4:Quick Attack,6.66666666667%,3.93333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,11.8
+2:Dazzling Gleam,8.88888888889%,5.24444444444
+3:Precipice Blades,6.66666666667%,3.93333333333
+4:Earth Power,6.66666666667%,3.93333333333
+5:Sucker Punch,6.66666666667%,3.93333333333
+6:Hyper Voice,6.66666666667%,3.93333333333
+7:Extreme Speed,6.66666666667%,3.93333333333
+8:Origin Pulse,4.44444444444%,2.62222222222
+9:Power Whip,2.22222222222%,1.31111111111
+10:Draco Meteor,2.22222222222%,1.31111111111
+11:Brave Bird,2.22222222222%,1.31111111111
+12:Flare Blitz,2.22222222222%,1.31111111111
+13:Feint,2.22222222222%,1.31111111111
+14:Heat Wave,2.22222222222%,1.31111111111
+15:Hidden Power,2.22222222222%,1.31111111111
+16:Sacred Fire,2.22222222222%,1.31111111111
+17:Earthquake,2.22222222222%,1.31111111111
+18:Blizzard,2.22222222222%,1.31111111111
+19:Ice Beam,2.22222222222%,1.31111111111
+20:Double-Edge,2.22222222222%,1.31111111111
+0:Other,2.22222222222%,1.31111111111
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Xerneas
+4:Crobat
+5:Cresselia
+6:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Talonflame
+6:Salamence
+7:Mawile
+8:Kangaskhan
+9:Yveltal
+10:Greninja
+11:Landorus
+12:Ferrothorn
+13:Palkia
+14:Weavile
+15:Kyogre
+16:Salamence
+17:Gardevoir
+18:Ho-Oh

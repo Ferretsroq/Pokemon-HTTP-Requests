@@ -1,0 +1,39 @@
+315:Golurk|1
+ ---------- 
+Moves used:
+1:Phantom Force,100.0%,1.0
+2:Dynamic Punch,100.0%,1.0
+3:Earthquake,100.0%,1.0
+4:Ice Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:No Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Porygon-Z
+2:Groudon
+3:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

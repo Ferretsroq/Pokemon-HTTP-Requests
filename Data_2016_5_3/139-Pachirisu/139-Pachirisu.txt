@@ -1,0 +1,109 @@
+139:Pachirisu|98
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,98.0
+2:Super Fang,100.0%,98.0
+3:Protect,91.8367346939%,90.0
+4:Nuzzle,67.3469387755%,66.0
+5:Helping Hand,34.693877551%,34.0
+6:U-turn,6.12244897959%,6.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,46.9387755102%,46.0
+2:Mental Herb,31.6326530612%,31.0
+3:Focus Sash,7.14285714286%,7.0
+4:Shuca Berry,5.10204081633%,5.0
+5:Chesto Berry,5.10204081633%,5.0
+6:Air Balloon,4.08163265306%,4.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,63.2653061224%,62.0
+2:Pickup,36.7346938776%,36.0
+
+ ---------- 
+Natures used:
+1:Impish,61.2244897959%,60.0
+2:Careful,17.3469387755%,17.0
+3:Bold,11.2244897959%,11.0
+4:Jolly,7.14285714286%,7.0
+5:Calm,3.0612244898%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Kyogre
+4:Kangaskhan
+5:Smeargle
+6:Talonflame
+7:Groudon
+8:Ditto
+9:Liepard
+10:Salamence
+11:Thundurus
+12:Ferrothorn
+13:Crobat
+14:Yveltal
+15:Mienshao
+16:Suicune
+17:Gyarados
+18:Blastoise
+19:Noivern
+20:Sylveon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nuzzle,100.0%,98.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,16.9014084507%,16.5633802817
+2:Precipice Blades,12.676056338%,12.4225352113
+3:Double-Edge,9.85915492958%,9.66197183099
+4:Origin Pulse,7.04225352113%,6.9014084507
+5:Moonblast,5.6338028169%,5.52112676056
+6:Dazzling Gleam,4.22535211268%,4.14084507042
+7:Scald,4.22535211268%,4.14084507042
+8:Earth Power,4.22535211268%,4.14084507042
+9:Eruption,2.81690140845%,2.76056338028
+10:Knock Off,2.81690140845%,2.76056338028
+11:Sludge Bomb,2.81690140845%,2.76056338028
+12:Rock Slide,2.81690140845%,2.76056338028
+13:Earthquake,2.81690140845%,2.76056338028
+14:Dragon Ascent,1.40845070423%,1.38028169014
+15:Retaliate,1.40845070423%,1.38028169014
+16:Gunk Shot,1.40845070423%,1.38028169014
+17:Power Whip,1.40845070423%,1.38028169014
+18:Draco Meteor,1.40845070423%,1.38028169014
+19:Bullet Punch,1.40845070423%,1.38028169014
+20:Brave Bird,1.40845070423%,1.38028169014
+0:Other,8.45070422535%,8.28169014085
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Landorus
+6:Ferrothorn
+7:Cresselia
+8:Rayquaza
+9:Salamence
+10:Gengar
+11:Talonflame
+12:Greninja
+13:Kyurem
+14:Terrakion
+15:Whimsicott
+16:Dialga
+17:Weavile
+18:Mawile
+19:Scizor
+20:Ditto

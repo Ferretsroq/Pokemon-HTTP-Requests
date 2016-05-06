@@ -1,0 +1,62 @@
+242:Ursaring|1
+ ---------- 
+Moves used:
+1:Facade,100.0%,1.0
+2:Crunch,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Yveltal
+3:Clefairy
+4:Salamence
+5:Mawile
+6:Aegislash
+7:Chandelure
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Facade,62.5%,0.625
+2:Earthquake,37.5%,0.375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Play Rough,14.2857142857%,0.142857142857
+2:Brave Bird,14.2857142857%,0.142857142857
+3:Sucker Punch,14.2857142857%,0.142857142857
+4:Water Spout,14.2857142857%,0.142857142857
+5:Heat Wave,14.2857142857%,0.142857142857
+6:Double-Edge,14.2857142857%,0.142857142857
+7:Fire Punch,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Liepard
+6:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile
+2:Groudon
+3:Kyogre
+4:Crobat
+5:Typhlosion
+6:Kangaskhan

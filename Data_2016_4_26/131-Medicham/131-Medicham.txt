@@ -1,0 +1,132 @@
+131:Medicham|99
+ ---------- 
+Moves used:
+1:Feint,74.7474747475%,74.0
+2:Low Kick,70.7070707071%,70.0
+3:Detect,61.6161616162%,61.0
+4:Helping Hand,53.5353535354%,53.0
+5:Fake Out,42.4242424242%,42.0
+6:Bullet Punch,24.2424242424%,24.0
+7:Psycho Cut,14.1414141414%,14.0
+8:Ice Punch,14.1414141414%,14.0
+9:Focus Punch,11.1111111111%,11.0
+10:Protect,10.101010101%,10.0
+11:High Jump Kick,7.07070707071%,7.0
+12:Poison Jab,6.06060606061%,6.0
+13:Quick Guard,4.0404040404%,4.0
+14:Dynamic Punch,4.0404040404%,4.0
+
+ ---------- 
+Items used:
+1:Medichamite,92.9292929293%,92.0
+2:Focus Sash,7.07070707071%,7.0
+
+ ---------- 
+Abilities used:
+1:Telepathy,54.5454545455%,54.0
+2:Pure Power,45.4545454545%,45.0
+
+ ---------- 
+Natures used:
+1:Adamant,58.5858585859%,58.0
+2:Jolly,41.4141414141%,41.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Smeargle
+4:Heliolisk
+5:Gengar
+6:Kyogre
+7:Rayquaza
+8:Landorus
+9:Bisharp
+10:Talonflame
+11:Liepard
+12:Sableye
+13:Swellow
+14:Mawile
+15:Ditto
+16:Palkia
+17:Kyurem
+18:Giratina
+19:Trevenant
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,32.6086956522%,32.2826086957
+2:Feint,28.2608695652%,27.9782608696
+3:Focus Punch,21.7391304348%,21.5217391304
+4:Ice Punch,6.52173913043%,6.45652173913
+5:High Jump Kick,4.34782608696%,4.30434782609
+6:Psycho Cut,2.17391304348%,2.15217391304
+7:Poison Jab,2.17391304348%,2.15217391304
+8:Dynamic Punch,2.17391304348%,2.15217391304
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.2352941176%,13.1029411765
+2:Water Spout,11.7647058824%,11.6470588235
+3:Double-Edge,11.7647058824%,11.6470588235
+4:Origin Pulse,8.82352941176%,8.73529411765
+5:Hyper Voice,7.35294117647%,7.27941176471
+6:Brave Bird,5.88235294118%,5.82352941176
+7:Eruption,5.88235294118%,5.82352941176
+8:Dragon Ascent,4.41176470588%,4.36764705882
+9:Precipice Blades,4.41176470588%,4.36764705882
+10:Ice Beam,4.41176470588%,4.36764705882
+11:Foul Play,2.94117647059%,2.91176470588
+12:Sucker Punch,2.94117647059%,2.91176470588
+13:Oblivion Wing,1.47058823529%,1.45588235294
+14:Moonblast,1.47058823529%,1.45588235294
+15:Fusion Flare,1.47058823529%,1.45588235294
+16:Grass Knot,1.47058823529%,1.45588235294
+17:Gyro Ball,1.47058823529%,1.45588235294
+18:Fake Out,1.47058823529%,1.45588235294
+19:Shadow Ball,1.47058823529%,1.45588235294
+20:Return,1.47058823529%,1.45588235294
+0:Other,2.94117647059%,2.91176470588
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kyurem
+3:Rayquaza
+4:Dialga
+5:Yveltal
+6:Landorus
+7:Amoonguss
+8:Groudon
+9:Smeargle
+10:Kangaskhan
+11:Xerneas
+12:Meowstic
+13:Talonflame
+14:Cobalion
+15:Ferrothorn
+16:Palkia
+17:Weavile
+18:Garchomp
+19:Bronzong
+20:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Yveltal
+8:Kyurem
+9:Rayquaza
+10:Kyogre
+11:Sableye
+12:Ferrothorn
+13:Amoonguss
+14:Cresselia
+15:Rayquaza
+16:Gengar

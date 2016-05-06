@@ -1,0 +1,142 @@
+105:Noivern|127
+ ---------- 
+Moves used:
+1:Draco Meteor,89.7637795276%,114.0
+2:Super Fang,81.8897637795%,104.0
+3:Tailwind,67.7165354331%,86.0
+4:Taunt,63.7795275591%,81.0
+5:Protect,38.5826771654%,49.0
+6:Flamethrower,16.5354330709%,21.0
+7:Snatch,7.87401574803%,10.0
+8:Hurricane,7.08661417323%,9.0
+9:Air Slash,7.08661417323%,9.0
+10:Dragon Pulse,5.51181102362%,7.0
+11:Water Pulse,3.93700787402%,5.0
+12:Hidden Power,3.93700787402%,5.0
+13:Boomburst,1.57480314961%,2.0
+14:Focus Blast,1.57480314961%,2.0
+15:Dark Pulse,1.57480314961%,2.0
+16:Solar Beam,1.57480314961%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,45.6692913386%,58.0
+2:Lum Berry,39.3700787402%,50.0
+3:Life Orb,4.72440944882%,6.0
+4:Choice Specs,3.93700787402%,5.0
+5:Expert Belt,3.14960629921%,4.0
+6:Chesto Berry,1.57480314961%,2.0
+7:Yache Berry,0.787401574803%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,90.5511811024%,115.0
+2:Telepathy,8.66141732283%,11.0
+3:Infiltrator,0.787401574803%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,127.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Mawile
+5:Xerneas
+6:Rayquaza
+7:Kyurem
+8:Yveltal
+9:Ferrothorn
+10:Giratina
+11:Salamence
+12:Talonflame
+13:Landorus
+14:Dialga
+15:Scizor
+16:Lugia
+17:Smeargle
+18:Gengar
+19:Liepard
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,68.2926829268%,86.7317073171
+2:Dragon Pulse,12.1951219512%,15.487804878
+3:Flamethrower,7.31707317073%,9.29268292683
+4:Boomburst,4.87804878049%,6.19512195122
+5:Hurricane,2.43902439024%,3.09756097561
+6:Focus Blast,2.43902439024%,3.09756097561
+7:Water Pulse,2.43902439024%,3.09756097561
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,24.0384615385%,30.5288461538
+2:Ice Beam,13.4615384615%,17.0961538462
+3:Rock Slide,8.65384615385%,10.9903846154
+4:Origin Pulse,4.80769230769%,6.10576923077
+5:Extreme Speed,4.80769230769%,6.10576923077
+6:Brave Bird,3.84615384615%,4.88461538462
+7:Water Spout,3.84615384615%,4.88461538462
+8:Double-Edge,3.84615384615%,4.88461538462
+9:Fake Out,2.88461538462%,3.66346153846
+10:Moonblast,1.92307692308%,2.44230769231
+11:Snarl,1.92307692308%,2.44230769231
+12:Volt Switch,1.92307692308%,2.44230769231
+13:Sucker Punch,1.92307692308%,2.44230769231
+14:Gyro Ball,1.92307692308%,2.44230769231
+15:Hidden Power,1.92307692308%,2.44230769231
+16:Sludge Bomb,1.92307692308%,2.44230769231
+17:Explosion,1.92307692308%,2.44230769231
+18:Thunderbolt,1.92307692308%,2.44230769231
+19:Play Rough,0.961538461538%,1.22115384615
+20:Spacial Rend,0.961538461538%,1.22115384615
+0:Other,8.65384615385%,10.9903846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Rayquaza
+3:Smeargle
+4:Groudon
+5:Kangaskhan
+6:Talonflame
+7:Yveltal
+8:Xerneas
+9:Kyurem
+10:Landorus
+11:Thundurus
+12:Mienshao
+13:Whimsicott
+14:Liepard
+15:Palkia
+16:Weavile
+17:Lopunny
+18:Kyogre
+19:Salamence
+20:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Landorus
+5:Thundurus
+6:Cresselia
+7:Rayquaza
+8:Groudon
+9:Talonflame
+10:Yveltal
+11:Salamence
+12:Gengar
+13:Meowstic
+14:Terrakion
+15:Mienshao
+16:Ferrothorn
+17:Palkia
+18:Dialga
+19:Bronzong
+20:Rayquaza

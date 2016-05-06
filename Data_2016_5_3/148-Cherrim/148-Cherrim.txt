@@ -1,0 +1,114 @@
+148:Cherrim|87
+ ---------- 
+Moves used:
+1:Protect,89.6551724138%,78.0
+2:Helping Hand,73.5632183908%,64.0
+3:Heal Pulse,68.9655172414%,60.0
+4:Grass Knot,66.6666666667%,58.0
+5:Grass Whistle,40.2298850575%,35.0
+6:Healing Wish,12.6436781609%,11.0
+7:Aromatherapy,12.6436781609%,11.0
+8:Worry Seed,10.3448275862%,9.0
+9:Seed Bomb,6.89655172414%,6.0
+10:Safeguard,5.74712643678%,5.0
+11:Leech Seed,4.59770114943%,4.0
+12:Sunny Day,2.29885057471%,2.0
+13:Swagger,2.29885057471%,2.0
+14:Petal Blizzard,1.14942528736%,1.0
+15:Morning Sun,1.14942528736%,1.0
+16:Solar Beam,1.14942528736%,1.0
+
+ ---------- 
+Items used:
+1:Occa Berry,26.4367816092%,23.0
+2:Focus Sash,22.9885057471%,20.0
+3:Leftovers,21.8390804598%,19.0
+4:Power Lens,8.04597701149%,7.0
+5:Custap Berry,6.89655172414%,6.0
+6:Coba Berry,5.74712643678%,5.0
+7:Sitrus Berry,5.74712643678%,5.0
+8:Mental Herb,1.14942528736%,1.0
+9:Bright Powder,1.14942528736%,1.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,87.0
+
+ ---------- 
+Natures used:
+1:Sassy,50.5747126437%,44.0
+2:Timid,13.7931034483%,12.0
+3:Jolly,12.6436781609%,11.0
+4:Calm,8.04597701149%,7.0
+5:Quiet,8.04597701149%,7.0
+6:Relaxed,3.44827586207%,3.0
+7:Impish,2.29885057471%,2.0
+8:Modest,1.14942528736%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Dialga
+3:Mienshao
+4:Cresselia
+5:Kangaskhan
+6:Xerneas
+7:Mawile
+8:Smeargle
+9:Yveltal
+10:Meowstic
+11:Talonflame
+12:Salamence
+13:Crobat
+14:Rayquaza
+15:Palkia
+16:Vivillon
+17:Zekrom
+18:Thundurus
+19:Kyogre
+20:Alakazam
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,87.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,14.2857142857%,12.4285714286
+2:Fire Punch,14.2857142857%,12.4285714286
+3:Precipice Blades,11.9047619048%,10.3571428571
+4:Brave Bird,9.52380952381%,8.28571428571
+5:Dazzling Gleam,7.14285714286%,6.21428571429
+6:Moonblast,7.14285714286%,6.21428571429
+7:Play Rough,4.7619047619%,4.14285714286
+8:Hyper Voice,4.7619047619%,4.14285714286
+9:Double-Edge,4.7619047619%,4.14285714286
+10:Origin Pulse,2.38095238095%,2.07142857143
+11:Icicle Crash,2.38095238095%,2.07142857143
+12:Bug Bite,2.38095238095%,2.07142857143
+13:Iron Head,2.38095238095%,2.07142857143
+14:Water Spout,2.38095238095%,2.07142857143
+15:Overheat,2.38095238095%,2.07142857143
+16:Extreme Speed,2.38095238095%,2.07142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Talonflame
+4:Rayquaza
+5:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Salamence
+5:Mawile
+6:Kyogre
+7:Weavile
+8:Rayquaza
+9:Rayquaza
+10:Scizor
+11:Kangaskhan

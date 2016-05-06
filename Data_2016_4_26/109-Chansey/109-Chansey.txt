@@ -1,0 +1,126 @@
+109:Chansey|157
+ ---------- 
+Moves used:
+1:Soft-Boiled,95.5414012739%,150.0
+2:Seismic Toss,92.9936305732%,146.0
+3:Counter,42.6751592357%,67.0
+4:Thunder Wave,42.0382165605%,66.0
+5:Minimize,40.7643312102%,64.0
+6:Heal Pulse,29.2993630573%,46.0
+7:Skill Swap,16.5605095541%,26.0
+8:Protect,12.101910828%,19.0
+9:Toxic,11.4649681529%,18.0
+10:Helping Hand,9.55414012739%,15.0
+11:Icy Wind,7.00636942675%,11.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,157.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,91.7197452229%,144.0
+2:Healer,8.28025477707%,13.0
+
+ ---------- 
+Natures used:
+1:Bold,69.4267515924%,109.0
+2:Relaxed,27.3885350318%,43.0
+3:Calm,2.54777070064%,4.0
+4:Impish,0.636942675159%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Kyogre
+4:Gengar
+5:Smeargle
+6:Mewtwo
+7:Sableye
+8:Landorus
+9:Xerneas
+10:Rayquaza
+11:Dialga
+12:Crobat
+13:Yveltal
+14:Salamence
+15:Gyarados
+16:Whimsicott
+17:Sylveon
+18:Zapdos
+19:Thundurus
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,74.1379310345%,116.396551724
+2:Counter,22.4137931034%,35.1896551724
+3:Icy Wind,3.44827586207%,5.41379310345
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,15.1515151515%,23.7878787879
+2:Dragon Ascent,9.09090909091%,14.2727272727
+3:Precipice Blades,9.09090909091%,14.2727272727
+4:Double-Edge,9.09090909091%,14.2727272727
+5:Moonblast,7.57575757576%,11.8939393939
+6:Eruption,6.06060606061%,9.51515151515
+7:Brave Bird,4.54545454545%,7.13636363636
+8:Knock Off,4.54545454545%,7.13636363636
+9:Power-Up Punch,3.0303030303%,4.75757575758
+10:Snarl,3.0303030303%,4.75757575758
+11:Water Spout,3.0303030303%,4.75757575758
+12:Return,3.0303030303%,4.75757575758
+13:Play Rough,1.51515151515%,2.37878787879
+14:Scald,1.51515151515%,2.37878787879
+15:Iron Head,1.51515151515%,2.37878787879
+16:Flash Cannon,1.51515151515%,2.37878787879
+17:Earth Power,1.51515151515%,2.37878787879
+18:Flare Blitz,1.51515151515%,2.37878787879
+19:Close Combat,1.51515151515%,2.37878787879
+20:Hyper Voice,1.51515151515%,2.37878787879
+0:Other,6.06060606061%,9.51515151515
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Ferrothorn
+5:Xerneas
+6:Rayquaza
+7:Whimsicott
+8:Weavile
+9:Salamence
+10:Mawile
+11:Smeargle
+12:Crobat
+13:Greninja
+14:Landorus
+15:Thundurus
+16:Bisharp
+17:Amoonguss
+18:Cresselia
+19:Dragonite
+20:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Rayquaza
+4:Yveltal
+5:Xerneas
+6:Salamence
+7:Kyogre
+8:Talonflame
+9:Mawile
+10:Ho-Oh
+11:Dialga
+12:Rayquaza
+13:Groudon
+14:Hariyama
+15:Blaziken
+16:Smeargle
+17:Crobat

@@ -1,0 +1,43 @@
+278:Kabutops|2
+ ---------- 
+Moves used:
+1:Protect,100.0%,2.0
+2:Waterfall,100.0%,2.0
+3:Low Kick,100.0%,2.0
+4:Feint,50.0%,1.0
+5:Rock Slide,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,50.0%,1.0
+2:Adamant,50.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Talonflame
+3:Thundurus
+4:Rayquaza
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,100.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

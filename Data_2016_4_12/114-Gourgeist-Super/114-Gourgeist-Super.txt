@@ -1,0 +1,104 @@
+114:Gourgeist-Super|77
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,77.0
+2:Skill Swap,94.8051948052%,73.0
+3:Seed Bomb,81.8181818182%,63.0
+4:Destiny Bond,58.4415584416%,45.0
+5:Protect,35.0649350649%,27.0
+6:Foul Play,14.2857142857%,11.0
+7:Trick-or-Treat,7.79220779221%,6.0
+8:Worry Seed,3.8961038961%,3.0
+9:Bullet Seed,3.8961038961%,3.0
+
+ ---------- 
+Items used:
+1:Mental Herb,83.1168831169%,64.0
+2:Focus Sash,9.09090909091%,7.0
+3:Sitrus Berry,7.79220779221%,6.0
+
+ ---------- 
+Abilities used:
+1:Insomnia,100.0%,77.0
+
+ ---------- 
+Natures used:
+1:Careful,50.6493506494%,39.0
+2:Relaxed,28.5714285714%,22.0
+3:Sassy,20.7792207792%,16.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Thundurus
+4:Kangaskhan
+5:Hitmontop
+6:Xerneas
+7:Landorus
+8:Groudon
+9:Mewtwo
+10:Arcanine
+11:Dialga
+12:Umbreon
+13:Yveltal
+14:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,58.6206896552%,45.1379310345
+2:Destiny Bond,31.0344827586%,23.8965517241
+3:Foul Play,6.89655172414%,5.31034482759
+4:Bullet Seed,3.44827586207%,2.65517241379
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,21.9512195122%,16.9024390244
+2:Ice Beam,14.6341463415%,11.2682926829
+3:Moonblast,9.75609756098%,7.51219512195
+4:Dragon Ascent,7.31707317073%,5.63414634146
+5:Hyper Voice,7.31707317073%,5.63414634146
+6:Eruption,7.31707317073%,5.63414634146
+7:Dragon Pulse,4.87804878049%,3.75609756098
+8:Water Spout,4.87804878049%,3.75609756098
+9:Fire Punch,4.87804878049%,3.75609756098
+10:Precipice Blades,2.43902439024%,1.87804878049
+11:Clear Smog,2.43902439024%,1.87804878049
+12:Brave Bird,2.43902439024%,1.87804878049
+13:Knock Off,2.43902439024%,1.87804878049
+14:Rock Slide,2.43902439024%,1.87804878049
+15:Flamethrower,2.43902439024%,1.87804878049
+16:Double-Edge,2.43902439024%,1.87804878049
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Smeargle
+3:Kyogre
+4:Thundurus
+5:Groudon
+6:Kangaskhan
+7:Kyurem
+8:Landorus
+9:Liepard
+10:Dialga
+11:Bronzong
+12:Rayquaza
+13:Sableye
+14:Furret
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Dialga
+5:Salamence
+6:Rayquaza
+7:Sylveon
+8:Talonflame
+9:Landorus
+10:Amoonguss
+11:Cresselia
+12:Gastrodon
+13:Rayquaza

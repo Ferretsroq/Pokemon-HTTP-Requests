@@ -1,0 +1,119 @@
+181:Tentacruel|54
+ ---------- 
+Moves used:
+1:Scald,79.6296296296%,43.0
+2:Haze,68.5185185185%,37.0
+3:Ice Beam,50.0%,27.0
+4:Magic Coat,48.1481481481%,26.0
+5:Protect,42.5925925926%,23.0
+6:Safeguard,27.7777777778%,15.0
+7:Swagger,27.7777777778%,15.0
+8:Sludge Bomb,25.9259259259%,14.0
+9:Muddy Water,18.5185185185%,10.0
+10:Acid Spray,1.85185185185%,1.0
+11:Sludge Wave,1.85185185185%,1.0
+12:Toxic Spikes,1.85185185185%,1.0
+13:Knock Off,1.85185185185%,1.0
+14:Rapid Spin,1.85185185185%,1.0
+15:Hydro Pump,1.85185185185%,1.0
+
+ ---------- 
+Items used:
+1:Black Sludge,50.0%,27.0
+2:Sitrus Berry,27.7777777778%,15.0
+3:Chesto Berry,18.5185185185%,10.0
+4:Choice Specs,1.85185185185%,1.0
+5:Life Orb,1.85185185185%,1.0
+
+ ---------- 
+Abilities used:
+1:Rain Dish,66.6666666667%,36.0
+2:Liquid Ooze,31.4814814815%,17.0
+3:Clear Body,1.85185185185%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,96.2962962963%,52.0
+2:Calm,1.85185185185%,1.0
+3:Modest,1.85185185185%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Mewtwo
+3:Kyogre
+4:Kangaskhan
+5:Manectric
+6:Ho-Oh
+7:Zapdos
+8:Lapras
+9:Landorus
+10:Ferrothorn
+11:Cresselia
+12:Sylveon
+13:Ditto
+14:Xerneas
+15:Goodra
+16:Diggersby
+17:Groudon
+18:Absol
+19:Sableye
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,75.0%,40.5
+2:Muddy Water,12.5%,6.75
+3:Ice Beam,8.33333333333%,4.5
+4:Sludge Bomb,4.16666666667%,2.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,22.8571428571%,12.3428571429
+2:Double-Edge,14.2857142857%,7.71428571429
+3:Dazzling Gleam,5.71428571429%,3.08571428571
+4:Moonblast,5.71428571429%,3.08571428571
+5:Hyper Voice,5.71428571429%,3.08571428571
+6:Extreme Speed,5.71428571429%,3.08571428571
+7:Rock Slide,5.71428571429%,3.08571428571
+8:Dragon Ascent,2.85714285714%,1.54285714286
+9:Origin Pulse,2.85714285714%,1.54285714286
+10:Oblivion Wing,2.85714285714%,1.54285714286
+11:Freeze-Dry,2.85714285714%,1.54285714286
+12:Shadow Force,2.85714285714%,1.54285714286
+13:Earth Power,2.85714285714%,1.54285714286
+14:Brave Bird,2.85714285714%,1.54285714286
+15:Water Spout,2.85714285714%,1.54285714286
+16:Eruption,2.85714285714%,1.54285714286
+17:Thunder,2.85714285714%,1.54285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Smeargle
+4:Kangaskhan
+5:Yveltal
+6:Xerneas
+7:Landorus
+8:Togekiss
+9:Salamence
+10:Blaziken
+11:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Kangaskhan
+5:Rayquaza
+6:Kyogre
+7:Yveltal
+8:Talonflame
+9:Landorus
+10:Giratina
+11:Rayquaza
+12:Kyogre
+13:Mawile
+14:Lapras

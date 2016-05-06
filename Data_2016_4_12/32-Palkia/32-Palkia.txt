@@ -1,0 +1,167 @@
+32:Palkia|1900
+ ---------- 
+Moves used:
+1:Spacial Rend,99.9473684211%,1899.0
+2:Earth Power,67.9473684211%,1291.0
+3:Protect,57.4210526316%,1091.0
+4:Thunder,40.2631578947%,765.0
+5:Hydro Pump,39.6842105263%,754.0
+6:Trick Room,34.9473684211%,664.0
+7:Blizzard,15.8947368421%,302.0
+8:Flamethrower,13.2631578947%,252.0
+9:Aura Sphere,7.21052631579%,137.0
+10:Surf,6.15789473684%,117.0
+11:Thunderbolt,5.63157894737%,107.0
+12:Fire Blast,5.15789473684%,98.0
+13:Gravity,2.26315789474%,43.0
+14:Draco Meteor,1.0%,19.0
+15:Ice Beam,0.894736842105%,17.0
+16:Toxic,0.842105263158%,16.0
+17:Substitute,0.736842105263%,14.0
+18:Safeguard,0.315789473684%,6.0
+19:Thunder Wave,0.315789473684%,6.0
+20:Psych Up,0.105263157895%,2.0
+0:Other,5.39568389968e-14%,1.02517994094e-12
+
+ ---------- 
+Items used:
+1:Haban Berry,28.5789473684%,543.0
+2:Choice Specs,19.2631578947%,366.0
+3:Life Orb,14.5263157895%,276.0
+4:Lustrous Orb,10.6315789474%,202.0
+5:Choice Scarf,6.57894736842%,125.0
+6:Sitrus Berry,5.68421052632%,108.0
+7:Assault Vest,5.15789473684%,98.0
+8:Lum Berry,2.89473684211%,55.0
+9:Leftovers,2.0%,38.0
+10:Focus Sash,1.63157894737%,31.0
+11:Expert Belt,1.21052631579%,23.0
+12:Mental Herb,0.526315789474%,10.0
+13:Eject Button,0.210526315789%,4.0
+14:Rocky Helmet,0.210526315789%,4.0
+15:Roseli Berry,0.157894736842%,3.0
+16:Safety Goggles,0.157894736842%,3.0
+17:Adamant Orb,0.0526315789474%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,84.5789473684%,1607.0
+2:Telepathy,15.4210526316%,293.0
+
+ ---------- 
+Natures used:
+1:Timid,60.6315789474%,1152.0
+2:Modest,24.8947368421%,473.0
+3:Quiet,11.7368421053%,223.0
+4:Bold,1.05263157895%,20.0
+5:Relaxed,0.842105263158%,16.0
+6:Sassy,0.736842105263%,14.0
+7:Naive,0.105263157895%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Talonflame
+5:Kangaskhan
+6:Cresselia
+7:Salamence
+8:Thundurus
+9:Landorus
+10:Gengar
+11:Ferrothorn
+12:Smeargle
+13:Rayquaza
+14:Ho-Oh
+15:Whimsicott
+16:Weavile
+17:Crobat
+18:Togekiss
+19:Meowstic
+20:Infernape
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Spacial Rend,54.9397590361%,1043.85542169
+2:Earth Power,17.9919678715%,341.847389558
+3:Blizzard,7.38955823293%,140.401606426
+4:Hydro Pump,6.42570281124%,122.088353414
+5:Thunder,5.9437751004%,112.931726908
+6:Flamethrower,2.73092369478%,51.8875502008
+7:Surf,1.36546184739%,25.9437751004
+8:Thunderbolt,0.963855421687%,18.313253012
+9:Fire Blast,0.883534136546%,16.7871485944
+10:Aura Sphere,0.803212851406%,15.2610441767
+11:Ice Beam,0.481927710843%,9.15662650602
+12:Draco Meteor,0.0803212851406%,1.52610441767
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.0409906063%,228.77882152
+2:Precipice Blades,11.1870196413%,212.553373185
+3:Double-Edge,5.63620836892%,107.087959009
+4:Moonblast,5.29461998292%,100.597779675
+5:Dragon Pulse,4.86763450043%,92.4850555081
+6:Dragon Ascent,4.78223740393%,90.8625106746
+7:Ice Beam,4.52604611443%,85.9948761742
+8:Draco Meteor,3.75747224594%,71.3919726729
+9:Sucker Punch,3.33048676345%,63.2792485056
+10:Play Rough,2.98889837746%,56.7890691716
+11:Brave Bird,2.73270708796%,51.9214346712
+12:Extreme Speed,2.56191289496%,48.6763450043
+13:Return,1.96413321947%,37.3185311699
+14:Power Whip,1.87873612297%,35.6959863365
+15:Earth Power,1.87873612297%,35.6959863365
+16:Water Spout,1.87873612297%,35.6959863365
+17:Hyper Voice,1.87873612297%,35.6959863365
+18:Thunder,1.87873612297%,35.6959863365
+19:Rock Slide,1.45175064048%,27.5832621691
+20:Origin Pulse,1.36635354398%,25.9607173356
+0:Other,19.6413321947%,373.185311699
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Crobat
+8:Landorus
+9:Thundurus
+10:Smeargle
+11:Mawile
+12:Ferrothorn
+13:Dialga
+14:Xerneas
+15:Yveltal
+16:Cresselia
+17:Rayquaza
+18:Amoonguss
+19:Kyurem
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Dialga
+8:Mawile
+9:Ferrothorn
+10:Talonflame
+11:Landorus
+12:Yveltal
+13:Rayquaza
+14:Thundurus
+15:Kyurem
+16:Palkia
+17:Weavile
+18:Giratina
+19:Gengar
+20:Amoonguss

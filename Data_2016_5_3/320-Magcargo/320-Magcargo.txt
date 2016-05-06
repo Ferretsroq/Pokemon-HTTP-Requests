@@ -1,0 +1,36 @@
+320:Magcargo|1
+ ---------- 
+Moves used:
+1:Flame Burst,100.0%,1.0
+2:Lava Plume,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Body Slam,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Flame Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bashful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Latios
+2:Golduck
+3:Pikachu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

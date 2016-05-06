@@ -1,0 +1,42 @@
+309:Poliwag|1
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,1.0
+2:Encore,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Hypnosis,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Gengar
+3:Yveltal
+4:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,0.5
+2:Knock Off,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Weavile
+2:Groudon

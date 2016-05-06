@@ -1,0 +1,59 @@
+289:Flareon|7
+ ---------- 
+Moves used:
+1:Flare Blitz,100.0%,7.0
+2:Superpower,57.1428571429%,4.0
+3:Protect,57.1428571429%,4.0
+4:Quick Attack,57.1428571429%,4.0
+5:Overheat,42.8571428571%,3.0
+6:Detect,42.8571428571%,3.0
+7:Substitute,42.8571428571%,3.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,57.1428571429%,4.0
+2:Air Balloon,42.8571428571%,3.0
+
+ ---------- 
+Abilities used:
+1:Guts,57.1428571429%,4.0
+2:Flash Fire,42.8571428571%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,57.1428571429%,4.0
+2:Quiet,42.8571428571%,3.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Rhyperior
+3:Sableye
+4:Leafeon
+5:Umbreon
+6:Espeon
+7:Vaporeon
+8:Sylveon
+9:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,28.5714285714%,2.0
+2:Origin Pulse,14.2857142857%,1.0
+3:Close Combat,14.2857142857%,1.0
+4:Aeroblast,14.2857142857%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Infernape
+3:Kyogre
+4:Lugia

@@ -1,0 +1,71 @@
+247:Pinsir|11
+ ---------- 
+Moves used:
+1:Feint,90.9090909091%,10.0
+2:Protect,81.8181818182%,9.0
+3:Focus Punch,72.7272727273%,8.0
+4:Thief,72.7272727273%,8.0
+5:Close Combat,18.1818181818%,2.0
+6:Return,18.1818181818%,2.0
+7:Swords Dance,18.1818181818%,2.0
+8:Knock Off,9.09090909091%,1.0
+9:Frustration,9.09090909091%,1.0
+10:Quick Attack,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Pinsirite,100.0%,11.0
+
+ ---------- 
+Abilities used:
+1:Hyper Cutter,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Adamant,72.7272727273%,8.0
+2:Jolly,27.2727272727%,3.0
+
+ ---------- 
+Top teammates:
+1:Aurorus
+2:Liepard
+3:Smeargle
+4:Mienshao
+5:Rhyperior
+6:Chatot
+7:Rayquaza
+8:Groudon
+9:Kyogre
+10:Kecleon
+11:Manectric
+12:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,85.7142857143%,9.42857142857
+2:Focus Punch,14.2857142857%,1.57142857143
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,33.3333333333%,3.66666666667
+2:Origin Pulse,16.6666666667%,1.83333333333
+3:Brave Bird,16.6666666667%,1.83333333333
+4:Overheat,16.6666666667%,1.83333333333
+5:Ice Beam,16.6666666667%,1.83333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Weavile
+3:Rayquaza
+4:Kyogre
+5:Hitmontop
+6:Crobat
+7:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Rayquaza

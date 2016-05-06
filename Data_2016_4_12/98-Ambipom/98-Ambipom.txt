@@ -1,0 +1,133 @@
+98:Ambipom|113
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,113.0
+2:Quick Guard,73.4513274336%,83.0
+3:Double Hit,53.982300885%,61.0
+4:Fling,37.1681415929%,42.0
+5:Thunder Wave,24.7787610619%,28.0
+6:Role Play,23.8938053097%,27.0
+7:Beat Up,20.3539823009%,23.0
+8:Protect,20.3539823009%,23.0
+9:U-turn,9.73451327434%,11.0
+10:Knock Off,9.73451327434%,11.0
+11:Low Kick,9.73451327434%,11.0
+12:Fire Punch,5.30973451327%,6.0
+13:Last Resort,2.65486725664%,3.0
+14:Covet,2.65486725664%,3.0
+15:Return,1.76991150442%,2.0
+16:Taunt,0.884955752212%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,36.2831858407%,41.0
+2:Silk Scarf,21.2389380531%,24.0
+3:King's Rock,20.3539823009%,23.0
+4:Lansat Berry,16.814159292%,19.0
+5:Muscle Band,3.53982300885%,4.0
+6:Normal Gem,1.76991150442%,2.0
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,113.0
+
+ ---------- 
+Natures used:
+1:Jolly,97.3451327434%,110.0
+2:Adamant,2.65486725664%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Xerneas
+4:Thundurus
+5:Lugia
+6:Kyogre
+7:Salamence
+8:Aerodactyl
+9:Greninja
+10:Sableye
+11:Cobalion
+12:Heliolisk
+13:Crobat
+14:Marowak
+15:Talonflame
+16:Landorus
+17:Dialga
+18:Kangaskhan
+19:Rotom
+20:Raikou
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Double Hit,70.0%,79.1
+2:Fake Out,15.0%,16.95
+3:Fling,5.0%,5.65
+4:Covet,5.0%,5.65
+5:Beat Up,5.0%,5.65
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.4651162791%,11.8255813953
+2:Water Spout,9.3023255814%,10.511627907
+3:Hyper Voice,8.13953488372%,9.1976744186
+4:Dazzling Gleam,6.97674418605%,7.88372093023
+5:Eruption,6.97674418605%,7.88372093023
+6:Gyro Ball,5.81395348837%,6.56976744186
+7:Ice Beam,5.81395348837%,6.56976744186
+8:Brave Bird,4.6511627907%,5.25581395349
+9:Double-Edge,4.6511627907%,5.25581395349
+10:Thunderbolt,3.48837209302%,3.94186046512
+11:Origin Pulse,2.32558139535%,2.62790697674
+12:Power-Up Punch,2.32558139535%,2.62790697674
+13:Foul Play,2.32558139535%,2.62790697674
+14:Sucker Punch,2.32558139535%,2.62790697674
+15:Rock Slide,2.32558139535%,2.62790697674
+16:Psychic,2.32558139535%,2.62790697674
+17:Dragon Ascent,1.16279069767%,1.31395348837
+18:Moonblast,1.16279069767%,1.31395348837
+19:Play Rough,1.16279069767%,1.31395348837
+20:Psystrike,1.16279069767%,1.31395348837
+0:Other,9.3023255814%,10.511627907
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Thundurus
+4:Kyogre
+5:Raichu
+6:Mienshao
+7:Amoonguss
+8:Whimsicott
+9:Weavile
+10:Rayquaza
+11:Metagross
+12:Smeargle
+13:Crobat
+14:Kangaskhan
+15:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Kangaskhan
+6:Talonflame
+7:Ferrothorn
+8:Cresselia
+9:Kyurem
+10:Thundurus
+11:Bronzong
+12:Rayquaza
+13:Mawile
+14:Mewtwo
+15:Yveltal
+16:Heliolisk
+17:Braviary
+18:Liepard
+19:Dialga
+20:Weavile

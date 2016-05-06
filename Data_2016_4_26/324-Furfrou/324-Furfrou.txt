@@ -1,0 +1,39 @@
+324:Furfrou|1
+ ---------- 
+Moves used:
+1:Baby-Doll Eyes,100.0%,1.0
+2:Helping Hand,100.0%,1.0
+3:Return,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lucky Egg,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Fur Coat,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

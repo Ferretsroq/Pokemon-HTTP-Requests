@@ -1,0 +1,68 @@
+259:Jigglypuff|12
+ ---------- 
+Moves used:
+1:Perish Song,100.0%,12.0
+2:Protect,100.0%,12.0
+3:Endeavor,41.6666666667%,5.0
+4:Snatch,33.3333333333%,4.0
+5:Magic Coat,33.3333333333%,4.0
+6:Helping Hand,33.3333333333%,4.0
+7:Heal Pulse,25.0%,3.0
+8:Wish,25.0%,3.0
+9:Bounce,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,58.3333333333%,7.0
+2:Focus Sash,41.6666666667%,5.0
+
+ ---------- 
+Abilities used:
+1:Friend Guard,100.0%,12.0
+
+ ---------- 
+Natures used:
+1:Relaxed,41.6666666667%,5.0
+2:Bold,33.3333333333%,4.0
+3:Careful,25.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mr. Mime
+3:Gengar
+4:Rayquaza
+5:Dusclops
+6:Camerupt
+7:Thundurus
+8:Cresselia
+9:Dialga
+10:Hariyama
+11:Mantine
+12:Kangaskhan
+13:Meowstic
+14:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,28.5714285714%,3.42857142857
+2:Origin Pulse,14.2857142857%,1.71428571429
+3:Earth Power,14.2857142857%,1.71428571429
+4:Fake Out,14.2857142857%,1.71428571429
+5:Extreme Speed,14.2857142857%,1.71428571429
+6:Double-Edge,14.2857142857%,1.71428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Liepard
+3:Palkia
+4:Rayquaza
+5:Kyogre
+6:Kangaskhan

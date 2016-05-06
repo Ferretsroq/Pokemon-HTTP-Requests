@@ -1,0 +1,60 @@
+252:Braviary|5
+ ---------- 
+Moves used:
+1:Brave Bird,100.0%,5.0
+2:Superpower,100.0%,5.0
+3:Rock Slide,100.0%,5.0
+4:Return,80.0%,4.0
+5:Tailwind,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,80.0%,4.0
+2:Life Orb,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,80.0%,4.0
+2:Defiant,20.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,80.0%,4.0
+2:Jolly,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Amoonguss
+2:Rayquaza
+3:Garchomp
+4:Groudon
+5:Kyogre
+6:Kecleon
+7:Blaziken
+8:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,83.3333333333%,4.16666666667
+2:Brave Bird,16.6666666667%,0.833333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,25.0%,1.25
+2:Extreme Speed,25.0%,1.25
+3:Rock Slide,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Thundurus
+3:Ambipom
+4:Salamence
+5:Lugia
+6:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre

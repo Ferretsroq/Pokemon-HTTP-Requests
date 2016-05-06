@@ -1,0 +1,147 @@
+84:Latias|123
+ ---------- 
+Moves used:
+1:Draco Meteor,63.4146341463%,78.0
+2:Tailwind,57.7235772358%,71.0
+3:Ice Beam,47.1544715447%,58.0
+4:Light Screen,36.5853658537%,45.0
+5:Psychic,20.325203252%,25.0
+6:Safeguard,17.8861788618%,22.0
+7:Grass Knot,17.0731707317%,21.0
+8:Thunder Wave,15.4471544715%,19.0
+9:Reflect,13.8211382114%,17.0
+10:Role Play,13.0081300813%,16.0
+11:Recover,11.3821138211%,14.0
+12:Psyshock,10.5691056911%,13.0
+13:Heal Pulse,9.75609756098%,12.0
+14:Helping Hand,8.94308943089%,11.0
+15:Protect,8.13008130081%,10.0
+16:Dragon Pulse,6.50406504065%,8.0
+17:Psycho Shift,6.50406504065%,8.0
+18:Swagger,6.50406504065%,8.0
+19:Magic Coat,4.87804878049%,6.0
+20:Roost,4.06504065041%,5.0
+0:Other,20.325203252%,25.0
+
+ ---------- 
+Items used:
+1:Latiasite,32.5203252033%,40.0
+2:Lum Berry,21.9512195122%,27.0
+3:Life Orb,16.2601626016%,20.0
+4:Sitrus Berry,8.94308943089%,11.0
+5:Rocky Helmet,8.13008130081%,10.0
+6:Leftovers,4.06504065041%,5.0
+7:Weakness Policy,3.25203252033%,4.0
+8:Mental Herb,2.43902439024%,3.0
+9:Haban Berry,1.62601626016%,2.0
+10:Roseli Berry,0.813008130081%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,123.0
+
+ ---------- 
+Natures used:
+1:Timid,95.9349593496%,118.0
+2:Calm,4.06504065041%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Liepard
+5:Mawile
+6:Yveltal
+7:Ditto
+8:Dialga
+9:Landorus
+10:Kyogre
+11:Ferrothorn
+12:Talonflame
+13:Thundurus
+14:Rotom
+15:Garchomp
+16:Hitmontop
+17:Aegislash
+18:Sableye
+19:Scizor
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,47.5%,58.425
+2:Ice Beam,32.5%,39.975
+3:Psychic,12.5%,15.375
+4:Grass Knot,5.0%,6.15
+5:Dragon Pulse,2.5%,3.075
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,19.0476190476%,23.4285714286
+2:Double-Edge,11.9047619048%,14.6428571429
+3:Ice Beam,10.7142857143%,13.1785714286
+4:Moonblast,5.95238095238%,7.32142857143
+5:Dragon Ascent,4.7619047619%,5.85714285714
+6:Gyro Ball,4.7619047619%,5.85714285714
+7:Extreme Speed,3.57142857143%,4.39285714286
+8:Return,3.57142857143%,4.39285714286
+9:Precipice Blades,2.38095238095%,2.92857142857
+10:Origin Pulse,2.38095238095%,2.92857142857
+11:Draco Meteor,2.38095238095%,2.92857142857
+12:Bullet Punch,2.38095238095%,2.92857142857
+13:Brave Bird,2.38095238095%,2.92857142857
+14:Dragon Pulse,2.38095238095%,2.92857142857
+15:Eruption,2.38095238095%,2.92857142857
+16:Rock Slide,2.38095238095%,2.92857142857
+17:Roar of Time,1.19047619048%,1.46428571429
+18:Iron Head,1.19047619048%,1.46428571429
+19:Shadow Sneak,1.19047619048%,1.46428571429
+20:Dark Pulse,1.19047619048%,1.46428571429
+0:Other,9.52380952381%,11.7142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Talonflame
+3:Groudon
+4:Rayquaza
+5:Crobat
+6:Xerneas
+7:Whimsicott
+8:Landorus
+9:Thundurus
+10:Amoonguss
+11:Liepard
+12:Weavile
+13:Rayquaza
+14:Kyogre
+15:Metagross
+16:Salamence
+17:Jynx
+18:Kangaskhan
+19:Gengar
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Rayquaza
+6:Salamence
+7:Aegislash
+8:Talonflame
+9:Greninja
+10:Ferrothorn
+11:Dialga
+12:Bronzong
+13:Mawile
+14:Scizor
+15:Landorus
+16:Mienshao
+17:Weavile
+18:Rayquaza
+19:Crobat
+20:Gyarados

@@ -1,0 +1,101 @@
+204:Flygon|18
+ ---------- 
+Moves used:
+1:Earth Power,94.4444444444%,17.0
+2:Draco Meteor,77.7777777778%,14.0
+3:Tailwind,77.7777777778%,14.0
+4:Protect,50.0%,9.0
+5:Feint,38.8888888889%,7.0
+6:Dragon Pulse,16.6666666667%,3.0
+7:Fissure,16.6666666667%,3.0
+8:Bulldoze,5.55555555556%,1.0
+9:U-turn,5.55555555556%,1.0
+10:Superpower,5.55555555556%,1.0
+11:Rock Slide,5.55555555556%,1.0
+12:Earthquake,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,38.8888888889%,7.0
+2:Life Orb,38.8888888889%,7.0
+3:Earth Plate,11.1111111111%,2.0
+4:Haban Berry,5.55555555556%,1.0
+5:Yache Berry,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Timid,44.4444444444%,8.0
+2:Modest,22.2222222222%,4.0
+3:Naive,22.2222222222%,4.0
+4:Jolly,11.1111111111%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Yveltal
+4:Liepard
+5:Thundurus
+6:Mawile
+7:Mewtwo
+8:Meowstic
+9:Zekrom
+10:Kyogre
+11:Kangaskhan
+12:Gengar
+13:Aegislash
+14:Talonflame
+15:Kyurem
+16:Mienshao
+17:Excadrill
+18:Dialga
+19:Latios
+20:Glalie
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,60.0%,10.8
+2:Earth Power,40.0%,7.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,13.3333333333%,2.4
+2:Ice Beam,13.3333333333%,2.4
+3:Dazzling Gleam,6.66666666667%,1.2
+4:Moonblast,6.66666666667%,1.2
+5:Play Rough,6.66666666667%,1.2
+6:Hex,6.66666666667%,1.2
+7:Shadow Sneak,6.66666666667%,1.2
+8:Brave Bird,6.66666666667%,1.2
+9:Sucker Punch,6.66666666667%,1.2
+10:Water Spout,6.66666666667%,1.2
+11:Eruption,6.66666666667%,1.2
+12:Extreme Speed,6.66666666667%,1.2
+13:Blizzard,6.66666666667%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Heatran
+3:Salamence
+4:Salamence
+5:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Cresselia
+3:Kyogre
+4:Yveltal
+5:Talonflame
+6:Giratina
+7:Palkia
+8:Rayquaza
+9:Groudon
+10:Kyogre
+11:Mawile
+12:Gengar

@@ -1,0 +1,169 @@
+18:Weavile|10038
+ ---------- 
+Moves used:
+1:Fake Out,98.3861326958%,9876.0
+2:Knock Off,80.8826459454%,8119.0
+3:Icicle Crash,77.4556684599%,7775.0
+4:Feint,49.1731420602%,4936.0
+5:Low Kick,44.1422594142%,4431.0
+6:Ice Punch,16.3877266388%,1645.0
+7:Ice Shard,11.6058975892%,1165.0
+8:Protect,5.60868698944%,563.0
+9:Taunt,3.33731819087%,335.0
+10:Foul Play,2.70970312811%,272.0
+11:Fling,2.31121737398%,232.0
+12:Beat Up,1.89280733214%,190.0
+13:Snatch,1.55409444112%,156.0
+14:Icy Wind,1.39470013947%,140.0
+15:Reflect,0.946403666069%,95.0
+16:Assurance,0.816895795975%,82.0
+17:Poison Jab,0.697350069735%,70.0
+18:Leer,0.338712891014%,34.0
+19:Night Slash,0.1494321578%,15.0
+20:Assist,0.0498107192668%,5.0
+0:Other,0.159394301654%,16.0
+
+ ---------- 
+Items used:
+1:Focus Sash,46.5032875075%,4668.0
+2:Life Orb,44.3016537159%,4447.0
+3:Lum Berry,2.18170950389%,219.0
+4:Chesto Berry,1.80314803746%,181.0
+5:King's Rock,1.63379159195%,164.0
+6:Expert Belt,1.42458657103%,143.0
+7:Razor Fang,0.717274357442%,72.0
+8:Choice Band,0.458258617254%,46.0
+9:Never-Melt Ice,0.328750747161%,33.0
+10:Eject Button,0.169356445507%,17.0
+11:Muscle Band,0.129507870094%,13.0
+12:Icicle Plate,0.109583582387%,11.0
+13:Black Glasses,0.0697350069735%,7.0
+14:Wide Lens,0.0398485754134%,4.0
+15:Red Card,0.0199242877067%,2.0
+16:Kee Berry,0.00996214385336%,1.0
+17:Snowball,0.00996214385336%,1.0
+18:Assault Vest,0.00996214385336%,1.0
+19:White Herb,0.00996214385336%,1.0
+20:Bright Powder,0.00996214385336%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,92.1498306436%,9250.0
+2:Pickpocket,7.85016935645%,788.0
+
+ ---------- 
+Natures used:
+1:Jolly,99.0934449093%,9947.0
+2:Adamant,0.886630802949%,89.0
+3:Timid,0.0199242877067%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Crobat
+5:Ferrothorn
+6:Xerneas
+7:Salamence
+8:Talonflame
+9:Landorus
+10:Kangaskhan
+11:Thundurus
+12:Cresselia
+13:Gengar
+14:Mawile
+15:Smeargle
+16:Togekiss
+17:Yveltal
+18:Amoonguss
+19:Dialga
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Crash,36.5384615385%,3667.73076923
+2:Knock Off,26.3917004049%,2649.19888664
+3:Low Kick,11.3107287449%,1135.37095142
+4:Feint,9.56477732794%,960.112348178
+5:Ice Punch,7.69230769231%,772.153846154
+6:Ice Shard,4.85829959514%,487.67611336
+7:Fake Out,2.07489878543%,208.278340081
+8:Assurance,0.581983805668%,58.419534413
+9:Foul Play,0.531376518219%,53.3395748988
+10:Beat Up,0.151821862348%,15.2398785425
+11:Icy Wind,0.126518218623%,12.6998987854
+12:Struggle,0.0759109311741%,7.61993927126
+13:Poison Jab,0.0506072874494%,5.07995951417
+14:Night Slash,0.0253036437247%,2.53997975709
+15:Fling,0.0253036437247%,2.53997975709
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.0669281687%,1311.65824957
+2:Water Spout,9.15665604315%,919.145133611
+3:Precipice Blades,7.4650649669%,749.343221378
+4:Low Kick,6.90120127482%,692.742583967
+5:Origin Pulse,5.74895807796%,577.080411866
+6:Rock Slide,4.33929884776%,435.578818338
+7:Gyro Ball,3.91027212552%,392.51311596
+8:Eruption,3.88575631282%,390.052218681
+9:Extreme Speed,3.1135082128%,312.533954401
+10:Brave Bird,2.95415543025%,296.538122089
+11:Power-Up Punch,2.92963961755%,294.07722481
+12:Double-Edge,2.85609217946%,286.694532974
+13:Hyper Voice,2.77028683501%,278.081392498
+14:Iron Head,2.43932336357%,244.859279235
+15:Sucker Punch,1.6548173572%,166.110566315
+16:Ice Beam,1.32385388576%,132.888453052
+17:Scald,1.31159597941%,131.658004413
+18:Fire Punch,1.09095366511%,109.509928904
+19:Thunderbolt,1.07869575876%,108.279480265
+20:Dragon Pulse,0.90708506987%,91.0531993136
+0:Other,16.584947291%,1664.79700907
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Salamence
+3:Crobat
+4:Kangaskhan
+5:Talonflame
+6:Landorus
+7:Smeargle
+8:Rayquaza
+9:Xerneas
+10:Cresselia
+11:Kyogre
+12:Bronzong
+13:Yveltal
+14:Gengar
+15:Weavile
+16:Amoonguss
+17:Meowstic
+18:Ferrothorn
+19:Whimsicott
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Ferrothorn
+6:Talonflame
+7:Rayquaza
+8:Salamence
+9:Mawile
+10:Landorus
+11:Dialga
+12:Weavile
+13:Rayquaza
+14:Kyogre
+15:Thundurus
+16:Yveltal
+17:Kyurem
+18:Gengar
+19:Kangaskhan
+20:Cresselia

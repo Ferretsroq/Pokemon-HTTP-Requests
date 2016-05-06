@@ -1,0 +1,75 @@
+200:Starmie|16
+ ---------- 
+Moves used:
+1:Scald,93.75%,15.0
+2:Protect,87.5%,14.0
+3:Psychic,62.5%,10.0
+4:Trick Room,56.25%,9.0
+5:Magic Coat,31.25%,5.0
+6:Icy Wind,25.0%,4.0
+7:Minimize,12.5%,2.0
+8:Cosmic Power,6.25%,1.0
+9:Skill Swap,6.25%,1.0
+10:Thunderbolt,6.25%,1.0
+11:Blizzard,6.25%,1.0
+12:Ice Beam,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Iron Ball,56.25%,9.0
+2:Focus Sash,37.5%,6.0
+3:Life Orb,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Analytic,56.25%,9.0
+2:Natural Cure,37.5%,6.0
+3:Illuminate,6.25%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,56.25%,9.0
+2:Timid,43.75%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Ho-Oh
+4:Salamence
+5:Manectric
+6:Groudon
+7:Mawile
+8:Sableye
+9:Linoone
+10:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,80.0%,12.8
+2:Icy Wind,20.0%,3.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,36.3636363636%,5.81818181818
+2:Precipice Blades,18.1818181818%,2.90909090909
+3:Brave Bird,9.09090909091%,1.45454545455
+4:Dragon Pulse,9.09090909091%,1.45454545455
+5:Sucker Punch,9.09090909091%,1.45454545455
+6:Hyper Voice,9.09090909091%,1.45454545455
+7:Thunderbolt,9.09090909091%,1.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Talonflame
+4:Thundurus
+5:Dialga
+6:Salamence
+7:Kangaskhan

@@ -1,0 +1,87 @@
+161:Froslass|21
+ ---------- 
+Moves used:
+1:Destiny Bond,95.2380952381%,20.0
+2:Ice Beam,95.2380952381%,20.0
+3:Weather Ball,85.7142857143%,18.0
+4:Taunt,85.7142857143%,18.0
+5:Protect,14.2857142857%,3.0
+6:Thunder Wave,9.52380952381%,2.0
+7:Fake Tears,4.7619047619%,1.0
+8:Icy Wind,4.7619047619%,1.0
+9:Disable,4.7619047619%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,95.2380952381%,20.0
+2:Icicle Plate,4.7619047619%,1.0
+
+ ---------- 
+Abilities used:
+1:Cursed Body,100.0%,21.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,21.0
+
+ ---------- 
+Top teammates:
+1:Crobat
+2:Kyogre
+3:Groudon
+4:Metagross
+5:Electivire
+6:Xerneas
+7:Rayquaza
+8:Meowstic
+9:Ferrothorn
+10:Garchomp
+11:Gengar
+12:Clefable
+13:Beedrill
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,50.0%,10.5
+2:Destiny Bond,28.5714285714%,6.0
+3:Weather Ball,21.4285714286%,4.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Shadow Ball,14.2857142857%,3.0
+2:Precipice Blades,7.14285714286%,1.5
+3:Origin Pulse,7.14285714286%,1.5
+4:Dazzling Gleam,7.14285714286%,1.5
+5:Snarl,7.14285714286%,1.5
+6:Flare Blitz,7.14285714286%,1.5
+7:Sucker Punch,7.14285714286%,1.5
+8:Eruption,7.14285714286%,1.5
+9:Crunch,7.14285714286%,1.5
+10:Sludge Bomb,7.14285714286%,1.5
+11:Ice Beam,7.14285714286%,1.5
+12:Fire Punch,7.14285714286%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Groudon
+3:Gengar
+4:Raichu
+5:Infernape
+6:Kyogre
+7:Salamence
+8:Ho-Oh
+9:Xatu
+10:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Gengar
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Mawile
+8:Kangaskhan
+9:Gengar

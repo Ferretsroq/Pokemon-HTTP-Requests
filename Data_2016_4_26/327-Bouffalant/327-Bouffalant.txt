@@ -1,0 +1,39 @@
+327:Bouffalant|1
+ ---------- 
+Moves used:
+1:Head Charge,100.0%,1.0
+2:Stone Edge,100.0%,1.0
+3:Iron Head,100.0%,1.0
+4:Megahorn,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sap Sipper,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Conkeldurr
+2:Raichu
+3:Blastoise
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame

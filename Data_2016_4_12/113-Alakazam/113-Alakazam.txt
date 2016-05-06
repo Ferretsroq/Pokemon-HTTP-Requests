@@ -1,0 +1,133 @@
+113:Alakazam|79
+ ---------- 
+Moves used:
+1:Psychic,79.746835443%,63.0
+2:Gravity,60.7594936709%,48.0
+3:Encore,53.164556962%,42.0
+4:Magic Room,44.3037974684%,35.0
+5:Taunt,31.6455696203%,25.0
+6:Hidden Power,17.7215189873%,14.0
+7:Protect,16.4556962025%,13.0
+8:Psyshock,12.6582278481%,10.0
+9:Magic Coat,12.6582278481%,10.0
+10:Swagger,11.3924050633%,9.0
+11:Skill Swap,8.86075949367%,7.0
+12:Focus Blast,7.59493670886%,6.0
+13:Knock Off,7.59493670886%,6.0
+14:Ally Switch,5.06329113924%,4.0
+15:Dazzling Gleam,3.79746835443%,3.0
+16:Guard Split,3.79746835443%,3.0
+17:Grass Knot,3.79746835443%,3.0
+18:Trick Room,3.79746835443%,3.0
+19:Role Play,3.79746835443%,3.0
+20:Trick,3.79746835443%,3.0
+0:Other,7.59493670886%,6.0
+
+ ---------- 
+Items used:
+1:Focus Sash,69.6202531646%,55.0
+2:Mental Herb,13.9240506329%,11.0
+3:Alakazite,8.86075949367%,7.0
+4:Choice Scarf,3.79746835443%,3.0
+5:Lum Berry,3.79746835443%,3.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,96.2025316456%,76.0
+2:Magic Guard,2.53164556962%,2.0
+3:Synchronize,1.26582278481%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,88.6075949367%,70.0
+2:Modest,11.3924050633%,9.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Gengar
+3:Smeargle
+4:Xerneas
+5:Whimsicott
+6:Yveltal
+7:Salamence
+8:Crobat
+9:Rayquaza
+10:Kangaskhan
+11:Kyogre
+12:Mawile
+13:Mienshao
+14:Landorus
+15:Bisharp
+16:Ferrothorn
+17:Amoonguss
+18:Scizor
+19:Thundurus
+20:Jellicent
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,64.0%,50.56
+2:Hidden Power,16.0%,12.64
+3:Psyshock,12.0%,9.48
+4:Focus Blast,8.0%,6.32
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.0625%,11.109375
+2:Double-Edge,10.9375%,8.640625
+3:Hyper Voice,9.375%,7.40625
+4:Eruption,9.375%,7.40625
+5:Precipice Blades,6.25%,4.9375
+6:Brave Bird,6.25%,4.9375
+7:Return,6.25%,4.9375
+8:Water Spout,4.6875%,3.703125
+9:Origin Pulse,3.125%,2.46875
+10:Moonblast,3.125%,2.46875
+11:Iron Head,3.125%,2.46875
+12:Thunderbolt,3.125%,2.46875
+13:Power-Up Punch,1.5625%,1.234375
+14:Volt Switch,1.5625%,1.234375
+15:Hex,1.5625%,1.234375
+16:Aqua Jet,1.5625%,1.234375
+17:Earth Power,1.5625%,1.234375
+18:Knock Off,1.5625%,1.234375
+19:Fake Out,1.5625%,1.234375
+20:Shadow Ball,1.5625%,1.234375
+0:Other,7.8125%,6.171875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+3:Crobat
+4:Talonflame
+5:Groudon
+6:Kangaskhan
+7:Kyurem
+8:Terrakion
+9:Whimsicott
+10:Rayquaza
+11:Latios
+12:Smeargle
+13:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Salamence
+5:Kyogre
+6:Talonflame
+7:Cresselia
+8:Yveltal
+9:Aegislash
+10:Rayquaza
+11:Metagross
+12:Manectric
+13:Mawile
+14:Smeargle
+15:Azumarill
+16:Zapdos
+17:Gengar

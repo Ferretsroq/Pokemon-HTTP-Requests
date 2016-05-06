@@ -1,0 +1,91 @@
+136:Furret|50
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,50.0
+2:Super Fang,98.0%,49.0
+3:Helping Hand,78.0%,39.0
+4:Fling,56.0%,28.0
+5:Protect,38.0%,19.0
+6:Charm,24.0%,12.0
+7:Sucker Punch,6.0%,3.0
+
+ ---------- 
+Items used:
+1:Light Ball,56.0%,28.0
+2:Focus Sash,36.0%,18.0
+3:Sitrus Berry,6.0%,3.0
+4:Rocky Helmet,2.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,50.0
+
+ ---------- 
+Natures used:
+1:Careful,64.0%,32.0
+2:Jolly,36.0%,18.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Talonflame
+4:Landorus
+5:Kangaskhan
+6:Amoonguss
+7:Kyogre
+8:Linoone
+9:Weavile
+10:Whimsicott
+11:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.9534883721%,6.97674418605
+2:Precipice Blades,9.3023255814%,4.6511627907
+3:Double-Edge,9.3023255814%,4.6511627907
+4:Eruption,6.97674418605%,3.48837209302
+5:Play Rough,4.6511627907%,2.32558139535
+6:Draco Meteor,4.6511627907%,2.32558139535
+7:Dragon Claw,4.6511627907%,2.32558139535
+8:Water Spout,4.6511627907%,2.32558139535
+9:Sludge Bomb,4.6511627907%,2.32558139535
+10:Dragon Ascent,2.32558139535%,1.16279069767
+11:Origin Pulse,2.32558139535%,1.16279069767
+12:Moonblast,2.32558139535%,1.16279069767
+13:Clear Smog,2.32558139535%,1.16279069767
+14:Iron Head,2.32558139535%,1.16279069767
+15:Bullet Punch,2.32558139535%,1.16279069767
+16:Earth Power,2.32558139535%,1.16279069767
+17:Brave Bird,2.32558139535%,1.16279069767
+18:Seed Bomb,2.32558139535%,1.16279069767
+19:Overheat,2.32558139535%,1.16279069767
+20:Knock Off,2.32558139535%,1.16279069767
+0:Other,9.3023255814%,4.6511627907
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Mawile
+5:Kangaskhan
+6:Giratina
+7:Rayquaza
+8:Gengar
+9:Yveltal
+10:Gourgeist
+11:Talonflame
+12:Amoonguss
+13:Rayquaza
+14:Salamence
+15:Camerupt
+16:Scizor
+17:Crobat
+18:Mewtwo

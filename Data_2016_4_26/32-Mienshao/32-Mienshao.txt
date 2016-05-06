@@ -1,0 +1,169 @@
+32:Mienshao|3120
+ ---------- 
+Moves used:
+1:Fake Out,89.9358974359%,2806.0
+2:Wide Guard,56.4743589744%,1762.0
+3:Feint,54.1025641026%,1688.0
+4:Low Kick,53.0128205128%,1654.0
+5:High Jump Kick,44.1987179487%,1379.0
+6:Knock Off,38.9423076923%,1215.0
+7:Quick Guard,29.391025641%,917.0
+8:Rock Slide,10.7692307692%,336.0
+9:Ally Switch,3.84615384615%,120.0
+10:Rock Tomb,3.71794871795%,116.0
+11:Taunt,3.30128205128%,103.0
+12:Fling,2.11538461538%,66.0
+13:Drain Punch,1.60256410256%,50.0
+14:Protect,1.60256410256%,50.0
+15:U-turn,1.57051282051%,49.0
+16:Helping Hand,1.37820512821%,43.0
+17:Poison Jab,0.929487179487%,29.0
+18:Detect,0.929487179487%,29.0
+19:Stone Edge,0.544871794872%,17.0
+20:Force Palm,0.512820512821%,16.0
+0:Other,1.12179487179%,35.0
+
+ ---------- 
+Items used:
+1:Focus Sash,57.0833333333%,1781.0
+2:Lum Berry,20.0%,624.0
+3:Life Orb,8.94230769231%,279.0
+4:Fist Plate,5.28846153846%,165.0
+5:Black Belt,2.91666666667%,91.0
+6:Salac Berry,1.85897435897%,58.0
+7:Chesto Berry,1.08974358974%,34.0
+8:Wide Lens,0.673076923077%,21.0
+9:Bright Powder,0.641025641026%,20.0
+10:Eject Button,0.384615384615%,12.0
+11:Coba Berry,0.320512820513%,10.0
+12:Lansat Berry,0.25641025641%,8.0
+13:Expert Belt,0.192307692308%,6.0
+14:Roseli Berry,0.0641025641026%,2.0
+15:Safety Goggles,0.0320512820513%,1.0
+16:Power Weight,0.0320512820513%,1.0
+17:Lucky Egg,0.0320512820513%,1.0
+18:Focus Band,0.0320512820513%,1.0
+19:Liechi Berry,0.0320512820513%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,89.1346153846%,2781.0
+2:Reckless,6.12179487179%,191.0
+3:Regenerator,4.74358974359%,148.0
+
+ ---------- 
+Natures used:
+1:Jolly,96.4102564103%,3008.0
+2:Adamant,2.59615384615%,81.0
+3:Brave,0.608974358974%,19.0
+4:Naive,0.320512820513%,10.0
+5:Hasty,0.0320512820513%,1.0
+6:Timid,0.0320512820513%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Crobat
+5:Xerneas
+6:Talonflame
+7:Salamence
+8:Mawile
+9:Gengar
+10:Mewtwo
+11:Yveltal
+12:Dialga
+13:Kangaskhan
+14:Cresselia
+15:Ho-Oh
+16:Espeon
+17:Landorus
+18:Smeargle
+19:Ferrothorn
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,32.2635135135%,1006.62162162
+2:High Jump Kick,30.9121621622%,964.459459459
+3:Feint,16.9763513514%,529.662162162
+4:Knock Off,9.03716216216%,281.959459459
+5:Rock Slide,7.01013513514%,218.716216216
+6:Fake Out,1.43581081081%,44.7972972973
+7:Rock Tomb,1.18243243243%,36.8918918919
+8:Drain Punch,0.760135135135%,23.7162162162
+9:Stone Edge,0.168918918919%,5.27027027027
+10:Poison Jab,0.0844594594595%,2.63513513514
+11:Force Palm,0.0844594594595%,2.63513513514
+12:U-turn,0.0844594594595%,2.63513513514
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.51993490643%,297.021969081
+2:Hyper Voice,7.40439381611%,231.017087063
+3:Double-Edge,5.85842148088%,182.782750203
+4:Brave Bird,4.80065093572%,149.780309194
+5:Water Spout,4.59723352319%,143.433685924
+6:Precipice Blades,4.47518307567%,139.625711961
+7:Moonblast,3.86493083808%,120.585842148
+8:Origin Pulse,3.70219690806%,115.508543531
+9:Ice Beam,3.62082994304%,112.969894223
+10:Thunderbolt,3.45809601302%,107.892595606
+11:Fire Punch,2.80716029292%,87.5834011391
+12:Eruption,2.76647681041%,86.3140764849
+13:Extreme Speed,2.60374288039%,81.2367778682
+14:Dragon Ascent,2.35964198535%,73.620829943
+15:Sludge Bomb,2.19690805533%,68.5435313263
+16:Scald,1.95280716029%,60.9275834011
+17:Gyro Ball,1.87144019528%,58.3889340928
+18:Earth Power,1.46460537022%,45.6956875509
+19:Sucker Punch,1.46460537022%,45.6956875509
+20:Iron Head,1.26118795769%,39.3490642799
+0:Other,23.7591537836%,741.285598047
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Kyogre
+4:Talonflame
+5:Groudon
+6:Weavile
+7:Kangaskhan
+8:Xerneas
+9:Ferrothorn
+10:Liepard
+11:Thundurus
+12:Dialga
+13:Rayquaza
+14:Crobat
+15:Cresselia
+16:Kyurem
+17:Yveltal
+18:Bronzong
+19:Gengar
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Rayquaza
+8:Thundurus
+9:Mawile
+10:Landorus
+11:Yveltal
+12:Gengar
+13:Rayquaza
+14:Ferrothorn
+15:Cresselia
+16:Dialga
+17:Gengar
+18:Kyurem
+19:Kyogre
+20:Togekiss

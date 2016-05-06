@@ -1,0 +1,115 @@
+73:Jumpluff|304
+ ---------- 
+Moves used:
+1:Sleep Powder,99.3421052632%,302.0
+2:Rage Powder,95.3947368421%,290.0
+3:Protect,75.3289473684%,229.0
+4:Encore,74.0131578947%,225.0
+5:Helping Hand,25.0%,76.0
+6:Worry Seed,17.4342105263%,53.0
+7:Grass Knot,6.57894736842%,20.0
+8:Cotton Spore,3.94736842105%,12.0
+9:Seed Bomb,2.30263157895%,7.0
+10:Reflect,0.657894736842%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,63.4868421053%,193.0
+2:Mental Herb,17.4342105263%,53.0
+3:Wide Lens,10.5263157895%,32.0
+4:Rocky Helmet,8.22368421053%,25.0
+5:Coba Berry,0.328947368421%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,97.0394736842%,295.0
+2:Infiltrator,1.97368421053%,6.0
+3:Leaf Guard,0.986842105263%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,84.8684210526%,258.0
+2:Bold,8.22368421053%,25.0
+3:Jolly,6.25%,19.0
+4:Calm,0.657894736842%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyurem
+5:Salamence
+6:Talonflame
+7:Kyogre
+8:Cresselia
+9:Palkia
+10:Rayquaza
+11:Mawile
+12:Mienshao
+13:Ferrothorn
+14:Dialga
+15:Sableye
+16:Gengar
+17:Togekiss
+18:Crobat
+19:Yveltal
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Struggle,66.6666666667%,202.666666667
+2:Grass Knot,33.3333333333%,101.333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.6504854369%,35.4174757282
+2:Double-Edge,10.1941747573%,30.9902912621
+3:Hyper Voice,9.70873786408%,29.5145631068
+4:Ice Beam,8.25242718447%,25.0873786408
+5:Eruption,5.82524271845%,17.7087378641
+6:Brave Bird,5.33980582524%,16.2330097087
+7:Rock Slide,3.88349514563%,11.8058252427
+8:Dragon Ascent,3.39805825243%,10.3300970874
+9:Extreme Speed,2.91262135922%,8.85436893204
+10:Hidden Power,2.42718446602%,7.3786407767
+11:Return,2.42718446602%,7.3786407767
+12:Sludge Bomb,2.42718446602%,7.3786407767
+13:Precipice Blades,1.94174757282%,5.90291262136
+14:Moonblast,1.94174757282%,5.90291262136
+15:Water Spout,1.94174757282%,5.90291262136
+16:Aeroblast,1.45631067961%,4.42718446602
+17:Blizzard,1.45631067961%,4.42718446602
+18:Oblivion Wing,0.970873786408%,2.95145631068
+19:Iron Head,0.970873786408%,2.95145631068
+20:Dark Pulse,0.970873786408%,2.95145631068
+0:Other,16.5048543689%,50.1747572816
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Liepard
+3:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Salamence
+5:Kyogre
+6:Talonflame
+7:Rayquaza
+8:Yveltal
+9:Cresselia
+10:Kyurem
+11:Landorus
+12:Zapdos
+13:Gengar
+14:Dialga
+15:Weavile
+16:Rayquaza
+17:Mawile
+18:Lugia
+19:Thundurus
+20:Ferrothorn

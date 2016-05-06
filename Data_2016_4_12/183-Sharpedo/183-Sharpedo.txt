@@ -1,0 +1,83 @@
+183:Sharpedo|24
+ ---------- 
+Moves used:
+1:Protect,100.0%,24.0
+2:Crunch,87.5%,21.0
+3:Destiny Bond,87.5%,21.0
+4:Ice Fang,79.1666666667%,19.0
+5:Feint,12.5%,3.0
+6:Taunt,12.5%,3.0
+7:Super Fang,12.5%,3.0
+8:Screech,8.33333333333%,2.0
+
+ ---------- 
+Items used:
+1:Sharpedonite,79.1666666667%,19.0
+2:Focus Sash,12.5%,3.0
+3:Mental Herb,4.16666666667%,1.0
+4:Lum Berry,4.16666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,24.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,24.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Toxicroak
+3:Lugia
+4:Marowak
+5:Zoroark
+6:Rayquaza
+7:Kangaskhan
+8:Groudon
+9:Mewtwo
+10:Meowstic
+11:Scizor
+12:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Crunch,44.4444444444%,10.6666666667
+2:Ice Fang,33.3333333333%,8.0
+3:Feint,11.1111111111%,2.66666666667
+4:Destiny Bond,11.1111111111%,2.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,13.3333333333%,3.2
+2:Precipice Blades,13.3333333333%,3.2
+3:Water Spout,13.3333333333%,3.2
+4:Earthquake,13.3333333333%,3.2
+5:Dazzling Gleam,6.66666666667%,1.6
+6:Earth Power,6.66666666667%,1.6
+7:Eruption,6.66666666667%,1.6
+8:Extreme Speed,6.66666666667%,1.6
+9:Rock Slide,6.66666666667%,1.6
+10:Thunder,6.66666666667%,1.6
+11:Thunderbolt,6.66666666667%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Landorus
+3:Thundurus
+4:Cresselia
+5:Rayquaza
+6:Groudon
+7:Salamence
+8:Mewtwo
+9:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Kyogre
+4:Xerneas
+5:Landorus
+6:Thundurus

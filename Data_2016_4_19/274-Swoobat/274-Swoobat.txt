@@ -1,0 +1,61 @@
+274:Swoobat|5
+ ---------- 
+Moves used:
+1:Stored Power,60.0%,3.0
+2:Protect,60.0%,3.0
+3:Calm Mind,40.0%,2.0
+4:Skill Swap,40.0%,2.0
+5:Magic Coat,40.0%,2.0
+6:Helping Hand,40.0%,2.0
+7:Super Fang,40.0%,2.0
+8:Double Team,40.0%,2.0
+9:Air Cutter,20.0%,1.0
+10:Psychic,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,80.0%,4.0
+2:Weakness Policy,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Simple,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,60.0%,3.0
+2:Jolly,40.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Smeargle
+4:Kangaskhan
+5:Hawlucha
+6:Amoonguss
+7:Weavile
+8:Rayquaza
+9:Aron
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stored Power,100.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,1.66666666667
+2:Moonblast,33.3333333333%,1.66666666667
+3:Foul Play,33.3333333333%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Gengar
+2:Arcanine
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Liepard
+3:Clefairy

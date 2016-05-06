@@ -1,0 +1,45 @@
+306:Steelix|3
+ ---------- 
+Moves used:
+1:Protect,100.0%,3.0
+2:Earthquake,100.0%,3.0
+3:Heavy Slam,66.6666666667%,2.0
+4:Rock Slide,66.6666666667%,2.0
+5:Gyro Ball,33.3333333333%,1.0
+6:Explosion,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Steelixite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Groudon
+3:Audino
+4:Cresselia
+5:Breloom
+6:Azumarill
+7:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earthquake,100.0%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus

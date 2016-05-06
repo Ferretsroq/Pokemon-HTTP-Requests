@@ -1,0 +1,58 @@
+218:Scyther|1
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Feint,100.0%,1.0
+4:Safeguard,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Technician,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Kyogre
+3:Landorus
+4:Kangaskhan
+5:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,12.5%,0.125
+2:Dazzling Gleam,12.5%,0.125
+3:Snarl,12.5%,0.125
+4:Water Spout,12.5%,0.125
+5:Assist,12.5%,0.125
+6:Rock Slide,12.5%,0.125
+7:Thunderbolt,12.5%,0.125
+8:Double-Edge,12.5%,0.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Meowstic
+4:Landorus
+5:Kyogre
+6:Kyogre
+7:Raikou
+8:Kangaskhan

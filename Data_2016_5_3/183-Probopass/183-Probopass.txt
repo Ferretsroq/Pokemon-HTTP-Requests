@@ -1,0 +1,74 @@
+183:Probopass|53
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,53.0
+2:Volt Switch,98.1132075472%,52.0
+3:Protect,98.1132075472%,52.0
+4:Magnet Bomb,56.6037735849%,30.0
+5:Gravity,41.5094339623%,22.0
+6:Magic Coat,1.88679245283%,1.0
+7:Pain Split,1.88679245283%,1.0
+8:Toxic,1.88679245283%,1.0
+
+ ---------- 
+Items used:
+1:Eject Button,98.1132075472%,52.0
+2:Berry Juice,1.88679245283%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,53.0
+
+ ---------- 
+Natures used:
+1:Calm,94.3396226415%,50.0
+2:Sassy,3.77358490566%,2.0
+3:Impish,1.88679245283%,1.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Sableye
+3:Murkrow
+4:Kyogre
+5:Groudon
+6:Yveltal
+7:Landorus
+8:Shedinja
+9:Smeargle
+10:Mewtwo
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,13.0434782609%,6.91304347826
+2:Precipice Blades,8.69565217391%,4.60869565217
+3:Earth Power,8.69565217391%,4.60869565217
+4:Fire Punch,8.69565217391%,4.60869565217
+5:Dragon Ascent,4.34782608696%,2.30434782609
+6:Origin Pulse,4.34782608696%,2.30434782609
+7:Dazzling Gleam,4.34782608696%,2.30434782609
+8:Moonblast,4.34782608696%,2.30434782609
+9:Feint,4.34782608696%,2.30434782609
+10:Water Spout,4.34782608696%,2.30434782609
+11:Overheat,4.34782608696%,2.30434782609
+12:Hidden Power,4.34782608696%,2.30434782609
+13:Struggle,4.34782608696%,2.30434782609
+14:Thunderbolt,4.34782608696%,2.30434782609
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Rayquaza
+5:Kyogre
+6:Thundurus
+7:Smeargle
+8:Scizor

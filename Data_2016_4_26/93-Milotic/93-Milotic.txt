@@ -1,0 +1,156 @@
+93:Milotic|228
+ ---------- 
+Moves used:
+1:Scald,82.0175438596%,187.0
+2:Ice Beam,60.9649122807%,139.0
+3:Icy Wind,48.2456140351%,110.0
+4:Recover,47.8070175439%,109.0
+5:Protect,43.8596491228%,100.0
+6:Mirror Coat,25.8771929825%,59.0
+7:Hydro Pump,19.298245614%,44.0
+8:Hypnosis,15.7894736842%,36.0
+9:Coil,15.350877193%,35.0
+10:Swagger,14.4736842105%,33.0
+11:Dragon Pulse,11.4035087719%,26.0
+12:Magic Coat,5.26315789474%,12.0
+13:Surf,2.63157894737%,6.0
+14:Safeguard,1.75438596491%,4.0
+15:Psych Up,1.31578947368%,3.0
+16:Dragon Tail,0.877192982456%,2.0
+17:Haze,0.877192982456%,2.0
+18:Toxic,0.877192982456%,2.0
+19:Hidden Power,0.438596491228%,1.0
+20:Light Screen,0.438596491228%,1.0
+0:Other,0.438596491228%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,43.8596491228%,100.0
+2:Choice Scarf,17.1052631579%,39.0
+3:Flame Orb,14.4736842105%,33.0
+4:Leftovers,9.21052631579%,21.0
+5:Assault Vest,6.14035087719%,14.0
+6:Rocky Helmet,3.0701754386%,7.0
+7:Life Orb,1.31578947368%,3.0
+8:Rindo Berry,1.31578947368%,3.0
+9:Wacan Berry,1.31578947368%,3.0
+10:Maranga Berry,0.877192982456%,2.0
+11:Kee Berry,0.877192982456%,2.0
+12:Lum Berry,0.438596491228%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,84.649122807%,193.0
+2:Marvel Scale,15.350877193%,35.0
+
+ ---------- 
+Natures used:
+1:Modest,34.649122807%,79.0
+2:Bold,26.7543859649%,61.0
+3:Calm,18.4210526316%,42.0
+4:Relaxed,13.1578947368%,30.0
+5:Timid,6.14035087719%,14.0
+6:Quiet,0.877192982456%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Raichu
+6:Mawile
+7:Gengar
+8:Politoed
+9:Talonflame
+10:Terrakion
+11:Ferrothorn
+12:Gardevoir
+13:Yveltal
+14:Landorus
+15:Xerneas
+16:Banette
+17:Thundurus
+18:Ditto
+19:Salamence
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,40.1785714286%,91.6071428571
+2:Ice Beam,27.6785714286%,63.1071428571
+3:Icy Wind,22.3214285714%,50.8928571429
+4:Mirror Coat,6.25%,14.25
+5:Dragon Pulse,1.78571428571%,4.07142857143
+6:Hidden Power,0.892857142857%,2.03571428571
+7:Surf,0.892857142857%,2.03571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.8760330579%,33.9173553719
+2:Precipice Blades,12.3966942149%,28.2644628099
+3:Dragon Ascent,6.61157024793%,15.0743801653
+4:Thunder,6.61157024793%,15.0743801653
+5:Double-Edge,6.61157024793%,15.0743801653
+6:Moonblast,5.78512396694%,13.1900826446
+7:Thunderbolt,5.78512396694%,13.1900826446
+8:Water Spout,4.95867768595%,11.305785124
+9:Power Whip,3.30578512397%,7.53719008264
+10:Eruption,2.47933884298%,5.65289256198
+11:Extreme Speed,2.47933884298%,5.65289256198
+12:Play Rough,1.65289256198%,3.76859504132
+13:Grass Knot,1.65289256198%,3.76859504132
+14:Brave Bird,1.65289256198%,3.76859504132
+15:Volt Tackle,1.65289256198%,3.76859504132
+16:Hyper Voice,1.65289256198%,3.76859504132
+17:Knock Off,1.65289256198%,3.76859504132
+18:Return,1.65289256198%,3.76859504132
+19:Origin Pulse,0.826446280992%,1.88429752066
+20:Oblivion Wing,0.826446280992%,1.88429752066
+0:Other,11.5702479339%,26.3801652893
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Talonflame
+4:Kangaskhan
+5:Landorus
+6:Rayquaza
+7:Smeargle
+8:Thundurus
+9:Crobat
+10:Whimsicott
+11:Kyogre
+12:Bronzong
+13:Yveltal
+14:Xerneas
+15:Meowstic
+16:Mawile
+17:Aegislash
+18:Ferrothorn
+19:Amoonguss
+20:Gothitelle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Thundurus
+7:Ferrothorn
+8:Salamence
+9:Yveltal
+10:Talonflame
+11:Kyurem
+12:Amoonguss
+13:Dialga
+14:Rotom
+15:Weavile
+16:Rayquaza
+17:Mawile
+18:Raichu
+19:Landorus
+20:Cresselia

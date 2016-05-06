@@ -1,0 +1,134 @@
+134:Houndoom|97
+ ---------- 
+Moves used:
+1:Protect,97.9381443299%,95.0
+2:Dark Pulse,93.8144329897%,91.0
+3:Heat Wave,86.5979381443%,84.0
+4:Overheat,39.175257732%,38.0
+5:Destiny Bond,25.7731958763%,25.0
+6:Role Play,15.4639175258%,15.0
+7:Fire Blast,8.24742268041%,8.0
+8:Solar Beam,8.24742268041%,8.0
+9:Snarl,7.21649484536%,7.0
+10:Flamethrower,4.12371134021%,4.0
+11:Hidden Power,3.09278350515%,3.0
+12:Foul Play,2.0618556701%,2.0
+13:Snatch,2.0618556701%,2.0
+14:Thief,2.0618556701%,2.0
+15:Super Fang,2.0618556701%,2.0
+16:Nasty Plot,1.03092783505%,1.0
+17:Sludge Bomb,1.03092783505%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,95.8762886598%,93.0
+2:Focus Sash,4.12371134021%,4.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,93.8144329897%,91.0
+2:Unnerve,6.18556701031%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,97.9381443299%,95.0
+2:Jolly,2.0618556701%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Mewtwo
+4:Zekrom
+5:Ferrothorn
+6:Purugly
+7:Landorus
+8:Crobat
+9:Golduck
+10:Whimsicott
+11:Jynx
+12:Weavile
+13:Liepard
+14:Xerneas
+15:Smeargle
+16:Hydreigon
+17:Darmanitan
+18:Giratina
+19:Lucario
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,44.2307692308%,42.9038461538
+2:Dark Pulse,32.6923076923%,31.7115384615
+3:Overheat,15.3846153846%,14.9230769231
+4:Destiny Bond,5.76923076923%,5.59615384615
+5:Flamethrower,1.92307692308%,1.86538461538
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.7142857143%,15.2428571429
+2:Dazzling Gleam,10.0%,9.7
+3:Earth Power,7.14285714286%,6.92857142857
+4:Brave Bird,7.14285714286%,6.92857142857
+5:Water Spout,7.14285714286%,6.92857142857
+6:Origin Pulse,5.71428571429%,5.54285714286
+7:Oblivion Wing,5.71428571429%,5.54285714286
+8:Dragon Ascent,4.28571428571%,4.15714285714
+9:Hyper Voice,4.28571428571%,4.15714285714
+10:Sucker Punch,2.85714285714%,2.77142857143
+11:Earthquake,2.85714285714%,2.77142857143
+12:Double-Edge,2.85714285714%,2.77142857143
+13:Moonblast,1.42857142857%,1.38571428571
+14:Play Rough,1.42857142857%,1.38571428571
+15:Wild Charge,1.42857142857%,1.38571428571
+16:Scald,1.42857142857%,1.38571428571
+17:Dragon Pulse,1.42857142857%,1.38571428571
+18:Superpower,1.42857142857%,1.38571428571
+19:Extreme Speed,1.42857142857%,1.38571428571
+20:Thunderbolt,1.42857142857%,1.38571428571
+0:Other,1.42857142857%,1.38571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Cresselia
+5:Kangaskhan
+6:Thundurus
+7:Dialga
+8:Meowstic
+9:Talonflame
+10:Landorus
+11:Mienshao
+12:Ferrothorn
+13:Amoonguss
+14:Liepard
+15:Kyogre
+16:Kyogre
+17:Salamence
+18:Salamence
+19:Absol
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Yveltal
+5:Kangaskhan
+6:Rayquaza
+7:Salamence
+8:Ho-Oh
+9:Talonflame
+10:Landorus
+11:Thundurus
+12:Kyurem
+13:Landorus
+14:Dialga
+15:Rayquaza
+16:Kyogre
+17:Mawile
+18:Blaziken

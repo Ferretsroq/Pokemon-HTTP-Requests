@@ -1,0 +1,76 @@
+145:Cherrim|26
+ ---------- 
+Moves used:
+1:Helping Hand,84.6153846154%,22.0
+2:Protect,84.6153846154%,22.0
+3:Heal Pulse,73.0769230769%,19.0
+4:Grass Knot,65.3846153846%,17.0
+5:Worry Seed,42.3076923077%,11.0
+6:Seed Bomb,15.3846153846%,4.0
+7:Weather Ball,15.3846153846%,4.0
+8:Solar Beam,15.3846153846%,4.0
+9:Leech Seed,3.84615384615%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,57.6923076923%,15.0
+2:Choice Scarf,15.3846153846%,4.0
+3:Coba Berry,15.3846153846%,4.0
+4:Focus Sash,11.5384615385%,3.0
+
+ ---------- 
+Abilities used:
+1:Flower Gift,100.0%,26.0
+
+ ---------- 
+Natures used:
+1:Sassy,69.2307692308%,18.0
+2:Timid,30.7692307692%,8.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mienshao
+3:Cresselia
+4:Xerneas
+5:Yveltal
+6:Salamence
+7:Talonflame
+8:Thundurus
+9:Mawile
+10:Kangaskhan
+11:Dialga
+12:Rayquaza
+13:Crobat
+14:Kyurem
+15:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,100.0%,26.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,18.75%,4.875
+2:Eruption,18.75%,4.875
+3:Origin Pulse,12.5%,3.25
+4:Moonblast,12.5%,3.25
+5:Fire Punch,12.5%,3.25
+6:Iron Head,6.25%,1.625
+7:Water Spout,6.25%,1.625
+8:Flamethrower,6.25%,1.625
+9:Double-Edge,6.25%,1.625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Manectric
+5:Mawile
+6:Kangaskhan

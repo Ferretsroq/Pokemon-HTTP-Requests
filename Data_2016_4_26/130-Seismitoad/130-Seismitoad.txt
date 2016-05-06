@@ -1,0 +1,137 @@
+130:Seismitoad|99
+ ---------- 
+Moves used:
+1:Earth Power,70.7070707071%,70.0
+2:Icy Wind,67.6767676768%,67.0
+3:Scald,64.6464646465%,64.0
+4:Grass Knot,64.6464646465%,64.0
+5:Earthquake,29.2929292929%,29.0
+6:Poison Jab,28.2828282828%,28.0
+7:Low Kick,28.2828282828%,28.0
+8:Ice Punch,28.2828282828%,28.0
+9:After You,6.06060606061%,6.0
+10:Protect,4.0404040404%,4.0
+11:Hydro Pump,4.0404040404%,4.0
+12:Infestation,1.0101010101%,1.0
+13:Endeavor,1.0101010101%,1.0
+14:Knock Off,1.0101010101%,1.0
+15:Toxic,1.0101010101%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,92.9292929293%,92.0
+2:Focus Sash,3.0303030303%,3.0
+3:Life Orb,3.0303030303%,3.0
+4:Leftovers,1.0101010101%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,93.9393939394%,93.0
+2:Swift Swim,6.06060606061%,6.0
+
+ ---------- 
+Natures used:
+1:Quiet,64.6464646465%,64.0
+2:Adamant,29.2929292929%,29.0
+3:Modest,5.05050505051%,5.0
+4:Bold,1.0101010101%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Mienshao
+4:Porygon-Z
+5:Groudon
+6:Cresselia
+7:Talonflame
+8:Mantine
+9:Xerneas
+10:Raichu
+11:Kyogre
+12:Dialga
+13:Cofagrigus
+14:Lopunny
+15:Jolteon
+16:Kangaskhan
+17:Escavalier
+18:Toxicroak
+19:Magnezone
+20:Skarmory
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,32.0%,31.68
+2:Icy Wind,32.0%,31.68
+3:Earth Power,12.0%,11.88
+4:Earthquake,8.0%,7.92
+5:Grass Knot,4.0%,3.96
+6:Poison Jab,4.0%,3.96
+7:Low Kick,4.0%,3.96
+8:Ice Punch,4.0%,3.96
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,11.5384615385%,11.4230769231
+2:Double-Edge,11.5384615385%,11.4230769231
+3:Dazzling Gleam,10.2564102564%,10.1538461538
+4:Precipice Blades,6.41025641026%,6.34615384615
+5:Moonblast,6.41025641026%,6.34615384615
+6:Hyper Voice,6.41025641026%,6.34615384615
+7:Dragon Ascent,3.84615384615%,3.80769230769
+8:Sucker Punch,3.84615384615%,3.80769230769
+9:Fire Punch,3.84615384615%,3.80769230769
+10:Play Rough,2.5641025641%,2.53846153846
+11:Foul Play,2.5641025641%,2.53846153846
+12:Power Whip,2.5641025641%,2.53846153846
+13:Earth Power,2.5641025641%,2.53846153846
+14:Dragon Pulse,2.5641025641%,2.53846153846
+15:Extreme Speed,2.5641025641%,2.53846153846
+16:Origin Pulse,1.28205128205%,1.26923076923
+17:Oblivion Wing,1.28205128205%,1.26923076923
+18:Psystrike,1.28205128205%,1.26923076923
+19:Grass Knot,1.28205128205%,1.26923076923
+20:Draco Meteor,1.28205128205%,1.26923076923
+0:Other,10.2564102564%,10.1538461538
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Salamence
+3:Thundurus
+4:Kyogre
+5:Groudon
+6:Gengar
+7:Crobat
+8:Kangaskhan
+9:Mawile
+10:Yveltal
+11:Heliolisk
+12:Greninja
+13:Landorus
+14:Ferrothorn
+15:Heatran
+16:Infernape
+17:Rayquaza
+18:Arcanine
+19:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Yveltal
+8:Ferrothorn
+9:Dialga
+10:Mawile
+11:Talonflame
+12:Togekiss
+13:Rayquaza
+14:Sableye
+15:Azumarill
+16:Mewtwo
+17:Gengar

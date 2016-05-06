@@ -1,0 +1,56 @@
+272:Bastiodon|3
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,3.0
+2:Fissure,100.0%,3.0
+3:Magic Coat,66.6666666667%,2.0
+4:Roar,66.6666666667%,2.0
+5:Iron Head,33.3333333333%,1.0
+6:Counter,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,66.6666666667%,2.0
+2:Shuca Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Relaxed,66.6666666667%,2.0
+2:Impish,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Togekiss
+5:Kangaskhan
+6:Landorus
+7:Groudon
+8:Whimsicott
+9:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Fissure,60.0%,1.8
+2:Iron Head,40.0%,1.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,1.5
+2:Earth Power,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Ferrothorn
+3:Whimsicott
+4:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

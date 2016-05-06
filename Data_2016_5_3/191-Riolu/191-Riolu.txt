@@ -1,0 +1,95 @@
+191:Riolu|39
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,39.0
+2:Feint,51.2820512821%,20.0
+3:Swagger,51.2820512821%,20.0
+4:Screech,48.7179487179%,19.0
+5:Force Palm,46.1538461538%,18.0
+6:Final Gambit,43.5897435897%,17.0
+7:Low Kick,43.5897435897%,17.0
+8:Role Play,10.2564102564%,4.0
+9:Protect,5.12820512821%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,89.7435897436%,35.0
+2:Focus Sash,10.2564102564%,4.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,39.0
+
+ ---------- 
+Natures used:
+1:Jolly,97.4358974359%,38.0
+2:Impish,2.5641025641%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Smeargle
+4:Kyogre
+5:Bisharp
+6:Groudon
+7:Talonflame
+8:Salamence
+9:Lugia
+10:Dugtrio
+11:Heliolisk
+12:Cryogonal
+13:Amoonguss
+14:Aerodactyl
+15:Yveltal
+16:Terrakion
+17:Giratina
+18:Manectric
+19:Medicham
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,14.7058823529%,5.73529411765
+2:Precipice Blades,8.82352941176%,3.44117647059
+3:Moonblast,8.82352941176%,3.44117647059
+4:Eruption,8.82352941176%,3.44117647059
+5:Extreme Speed,8.82352941176%,3.44117647059
+6:Origin Pulse,5.88235294118%,2.29411764706
+7:Dazzling Gleam,5.88235294118%,2.29411764706
+8:Brave Bird,5.88235294118%,2.29411764706
+9:Power-Up Punch,2.94117647059%,1.14705882353
+10:Psystrike,2.94117647059%,1.14705882353
+11:Gunk Shot,2.94117647059%,1.14705882353
+12:Dragon Pulse,2.94117647059%,1.14705882353
+13:Dark Pulse,2.94117647059%,1.14705882353
+14:Water Spout,2.94117647059%,1.14705882353
+15:Frustration,2.94117647059%,1.14705882353
+16:Icy Wind,2.94117647059%,1.14705882353
+17:Thunderbolt,2.94117647059%,1.14705882353
+18:Ice Beam,2.94117647059%,1.14705882353
+19:Double-Edge,2.94117647059%,1.14705882353
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Kyogre
+5:Kangaskhan
+6:Talonflame
+7:Greninja
+8:Rayquaza
+9:Yveltal
+10:Thundurus
+11:Whimsicott
+12:Dialga
+13:Rayquaza
+14:Mewtwo
+15:Gengar

@@ -1,0 +1,127 @@
+126:Blastoise|59
+ ---------- 
+Moves used:
+1:Aura Sphere,94.9152542373%,56.0
+2:Water Spout,67.7966101695%,40.0
+3:Protect,55.9322033898%,33.0
+4:Fake Out,47.4576271186%,28.0
+5:Dragon Pulse,42.3728813559%,25.0
+6:Ice Beam,33.8983050847%,20.0
+7:Water Pulse,27.1186440678%,16.0
+8:Dark Pulse,23.7288135593%,14.0
+9:Water Pledge,5.08474576271%,3.0
+10:Aqua Jet,1.69491525424%,1.0
+
+ ---------- 
+Items used:
+1:Blastoisinite,94.9152542373%,56.0
+2:Sitrus Berry,3.38983050847%,2.0
+3:Lax Incense,1.69491525424%,1.0
+
+ ---------- 
+Abilities used:
+1:Torrent,74.5762711864%,44.0
+2:Rain Dish,25.4237288136%,15.0
+
+ ---------- 
+Natures used:
+1:Modest,59.3220338983%,35.0
+2:Quiet,40.6779661017%,24.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Cresselia
+4:Kecleon
+5:Crobat
+6:Ditto
+7:Conkeldurr
+8:Gothitelle
+9:Talonflame
+10:Rayquaza
+11:Smeargle
+12:Meowstic
+13:Xerneas
+14:Whimsicott
+15:Togekiss
+16:Pachirisu
+17:Yveltal
+18:Terrakion
+19:Liepard
+20:Lopunny
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aura Sphere,35.2941176471%,20.8235294118
+2:Water Spout,32.3529411765%,19.0882352941
+3:Ice Beam,14.7058823529%,8.67647058824
+4:Dark Pulse,8.82352941176%,5.20588235294
+5:Dragon Pulse,5.88235294118%,3.47058823529
+6:Water Pulse,2.94117647059%,1.73529411765
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,11.1111111111%,6.55555555556
+2:Dragon Ascent,8.33333333333%,4.91666666667
+3:Origin Pulse,8.33333333333%,4.91666666667
+4:Water Spout,8.33333333333%,4.91666666667
+5:Precipice Blades,5.55555555556%,3.27777777778
+6:Dazzling Gleam,5.55555555556%,3.27777777778
+7:Rock Slide,5.55555555556%,3.27777777778
+8:Double-Edge,5.55555555556%,3.27777777778
+9:Oblivion Wing,2.77777777778%,1.63888888889
+10:Moonblast,2.77777777778%,1.63888888889
+11:Scald,2.77777777778%,1.63888888889
+12:Grass Knot,2.77777777778%,1.63888888889
+13:Shadow Sneak,2.77777777778%,1.63888888889
+14:Brave Bird,2.77777777778%,1.63888888889
+15:Dragon Pulse,2.77777777778%,1.63888888889
+16:Gyro Ball,2.77777777778%,1.63888888889
+17:Focus Punch,2.77777777778%,1.63888888889
+18:Return,2.77777777778%,1.63888888889
+19:Earthquake,2.77777777778%,1.63888888889
+20:Thunder,2.77777777778%,1.63888888889
+0:Other,8.33333333333%,4.91666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Groudon
+3:Mawile
+4:Kangaskhan
+5:Landorus
+6:Ferrothorn
+7:Cresselia
+8:Dialga
+9:Salamence
+10:Smeargle
+11:Talonflame
+12:Mienshao
+13:Amoonguss
+14:Whimsicott
+15:Seismitoad
+16:Weavile
+17:Lucario
+18:Empoleon
+19:Kyogre
+20:Ludicolo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Ferrothorn
+4:Xerneas
+5:Rayquaza
+6:Kangaskhan
+7:Yveltal
+8:Talonflame
+9:Landorus
+10:Amoonguss
+11:Cresselia
+12:Giratina
+13:Dialga
+14:Salamence
+15:Manectric
+16:Medicham

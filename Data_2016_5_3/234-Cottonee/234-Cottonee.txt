@@ -1,0 +1,61 @@
+234:Cottonee|17
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,17.0
+2:Encore,100.0%,17.0
+3:Safeguard,100.0%,17.0
+4:Protect,100.0%,17.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,17.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Relaxed,76.4705882353%,13.0
+2:Timid,23.5294117647%,4.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Groudon
+3:Lapras
+4:Kyogre
+5:Xerneas
+6:Zekrom
+7:Kangaskhan
+8:Talonflame
+9:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,16.6666666667%,2.83333333333
+2:Double-Edge,16.6666666667%,2.83333333333
+3:Brave Bird,8.33333333333%,1.41666666667
+4:Feint,8.33333333333%,1.41666666667
+5:Fake Out,8.33333333333%,1.41666666667
+6:Icy Wind,8.33333333333%,1.41666666667
+7:Thunderbolt,8.33333333333%,1.41666666667
+8:Ice Beam,8.33333333333%,1.41666666667
+9:Ice Punch,8.33333333333%,1.41666666667
+10:Fire Punch,8.33333333333%,1.41666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Talonflame
+4:Greninja
+5:Thundurus
+6:Mienshao
+7:Gengar

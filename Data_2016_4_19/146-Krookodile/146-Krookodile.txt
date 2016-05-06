@@ -1,0 +1,120 @@
+146:Krookodile|52
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,52.0
+2:Knock Off,88.4615384615%,46.0
+3:Protect,78.8461538462%,41.0
+4:Rock Slide,59.6153846154%,31.0
+5:Assurance,36.5384615385%,19.0
+6:Superpower,13.4615384615%,7.0
+7:Crunch,11.5384615385%,6.0
+8:Outrage,9.61538461538%,5.0
+9:Stone Edge,1.92307692308%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,48.0769230769%,25.0
+2:Life Orb,28.8461538462%,15.0
+3:Choice Scarf,13.4615384615%,7.0
+4:Choice Band,7.69230769231%,4.0
+5:Lum Berry,1.92307692308%,1.0
+
+ ---------- 
+Abilities used:
+1:Anger Point,50.0%,26.0
+2:Intimidate,38.4615384615%,20.0
+3:Moxie,11.5384615385%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,98.0769230769%,51.0
+2:Adamant,1.92307692308%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Xerneas
+3:Yveltal
+4:Rayquaza
+5:Thundurus
+6:Kangaskhan
+7:Talonflame
+8:Lopunny
+9:Ho-Oh
+10:Mawile
+11:Clefairy
+12:Togekiss
+13:Aegislash
+14:Whimsicott
+15:Lapras
+16:Ferrothorn
+17:Groudon
+18:Mienshao
+19:Kyogre
+20:Hitmonlee
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,42.8571428571%,22.2857142857
+2:Rock Slide,20.0%,10.4
+3:Assurance,17.1428571429%,8.91428571429
+4:Knock Off,11.4285714286%,5.94285714286
+5:Stone Edge,2.85714285714%,1.48571428571
+6:Superpower,2.85714285714%,1.48571428571
+7:Crunch,2.85714285714%,1.48571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.0%,8.32
+2:Water Spout,16.0%,8.32
+3:Precipice Blades,12.0%,6.24
+4:Double-Edge,12.0%,6.24
+5:Moonblast,4.0%,2.08
+6:Play Rough,4.0%,2.08
+7:Icicle Crash,4.0%,2.08
+8:Foul Play,4.0%,2.08
+9:Spacial Rend,4.0%,2.08
+10:Grass Knot,4.0%,2.08
+11:Brave Bird,4.0%,2.08
+12:Dark Pulse,4.0%,2.08
+13:Hyper Voice,4.0%,2.08
+14:Eruption,4.0%,2.08
+15:Earthquake,4.0%,2.08
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Thundurus
+3:Groudon
+4:Talonflame
+5:Landorus
+6:Dialga
+7:Kyogre
+8:Mawile
+9:Yveltal
+10:Xerneas
+11:Terrakion
+12:Whimsicott
+13:Togekiss
+14:Garchomp
+15:Lopunny
+16:Gastrodon
+17:Infernape
+18:Salamence
+19:Manectric
+20:Sableye
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Yveltal
+5:Salamence
+6:Kangaskhan
+7:Talonflame
+8:Whimsicott
+9:Palkia
+10:Weavile
+11:Mawile
+12:Smeargle

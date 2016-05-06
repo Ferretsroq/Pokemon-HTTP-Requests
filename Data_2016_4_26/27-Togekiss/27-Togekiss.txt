@@ -1,0 +1,170 @@
+27:Togekiss|4249
+ ---------- 
+Moves used:
+1:Air Slash,87.1734525771%,3704.0
+2:Follow Me,87.1263826783%,3702.0
+3:Thunder Wave,48.7644151565%,2072.0
+4:Protect,43.0689574017%,1830.0
+5:Dazzling Gleam,33.4431630972%,1421.0
+6:Tailwind,31.960461285%,1358.0
+7:Fire Blast,16.4273946811%,698.0
+8:Trick,11.6968698517%,497.0
+9:Magic Coat,10.1906330901%,433.0
+10:Encore,7.03694987056%,299.0
+11:Safeguard,5.71899270417%,243.0
+12:Flamethrower,5.43657331137%,231.0
+13:After You,4.16568604378%,177.0
+14:Heat Wave,2.02400564839%,86.0
+15:Aura Sphere,1.81219110379%,77.0
+16:Psych Up,1.20028241939%,51.0
+17:Roost,1.12967757119%,48.0
+18:Grass Knot,1.03553777359%,44.0
+19:Reflect,0.0941397975994%,4.0
+20:Light Screen,0.0941397975994%,4.0
+0:Other,0.400094139798%,17.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,39.5622499412%,1681.0
+2:Choice Scarf,17.7688867969%,755.0
+3:Lum Berry,16.5450694281%,703.0
+4:Rocky Helmet,14.9446928689%,635.0
+5:Mental Herb,5.81313250177%,247.0
+6:Babiri Berry,1.81219110379%,77.0
+7:Leftovers,0.870793127795%,37.0
+8:Lax Incense,0.564838785597%,24.0
+9:Expert Belt,0.353024240998%,15.0
+10:Macho Brace,0.329489291598%,14.0
+11:Chesto Berry,0.282419392798%,12.0
+12:Scope Lens,0.258884443398%,11.0
+13:Quick Claw,0.164744645799%,7.0
+14:King's Rock,0.141209696399%,6.0
+15:Choice Specs,0.117674746999%,5.0
+16:Safety Goggles,0.0941397975994%,4.0
+17:Eject Button,0.0941397975994%,4.0
+18:Bright Powder,0.0706048481996%,3.0
+19:Weakness Policy,0.0470698987997%,2.0
+20:Red Card,0.0470698987997%,2.0
+0:Other,0.0470698987997%,2.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,95.9049188044%,4075.0
+2:Super Luck,3.67145210638%,156.0
+3:Hustle,0.423629089197%,18.0
+
+ ---------- 
+Natures used:
+1:Bold,41.139091551%,1748.0
+2:Calm,22.7818310191%,968.0
+3:Timid,20.7578253707%,882.0
+4:Sassy,9.08449046835%,386.0
+5:Modest,3.69498705578%,157.0
+6:Relaxed,2.14168039539%,91.0
+7:Quiet,0.141209696399%,6.0
+8:Careful,0.0941397975994%,4.0
+9:Bashful,0.0941397975994%,4.0
+10:Impish,0.0706048481996%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Xerneas
+5:Kangaskhan
+6:Salamence
+7:Ferrothorn
+8:Weavile
+9:Smeargle
+10:Talonflame
+11:Crobat
+12:Landorus
+13:Dialga
+14:Ludicolo
+15:Liepard
+16:Cresselia
+17:Yveltal
+18:Mawile
+19:Thundurus
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Air Slash,53.6889897843%,2281.24517594
+2:Dazzling Gleam,39.8410896708%,1692.84790011
+3:Fire Blast,2.72417707151%,115.750283768
+4:Heat Wave,1.70261066969%,72.3439273553
+5:Flamethrower,1.36208853575%,57.8751418842
+6:Aura Sphere,0.454029511918%,19.2917139614
+7:Grass Knot,0.227014755959%,9.6458569807
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.64847089773%,367.473528445
+2:Water Spout,8.54981913844%,363.281815192
+3:Double-Edge,7.3331141072%,311.584018415
+4:Rock Slide,5.7218020388%,243.119368629
+5:Ice Beam,4.89970404472%,208.18842486
+6:Iron Head,4.8339362052%,205.393949359
+7:Gyro Ball,4.60374876685%,195.613285104
+8:Origin Pulse,4.43932916804%,188.62709635
+9:Eruption,4.17625780993%,177.449194344
+10:Dragon Ascent,3.8474186123%,163.476816837
+11:Sludge Bomb,3.4856954949%,148.107201578
+12:Thunderbolt,3.41992765538%,145.312726077
+13:Brave Bird,3.28839197632%,139.723775074
+14:Moonblast,3.25550805656%,138.326537323
+15:Hyper Voice,2.79513317988%,118.765208813
+16:Precipice Blades,2.66359750082%,113.17625781
+17:Thunder,1.90726734627%,81.0397895429
+18:Fire Punch,1.74284774745%,74.0536007892
+19:Flash Cannon,1.64419598816%,69.861887537
+20:Extreme Speed,1.64419598816%,69.861887537
+0:Other,15.8171654061%,672.071358106
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Salamence
+3:Groudon
+4:Xerneas
+5:Ferrothorn
+6:Weavile
+7:Talonflame
+8:Whimsicott
+9:Kyogre
+10:Kangaskhan
+11:Liepard
+12:Thundurus
+13:Crobat
+14:Yveltal
+15:Amoonguss
+16:Rayquaza
+17:Mienshao
+18:Cresselia
+19:Mawile
+20:Sableye
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Mawile
+6:Rayquaza
+7:Salamence
+8:Ferrothorn
+9:Talonflame
+10:Thundurus
+11:Dialga
+12:Gengar
+13:Kyurem
+14:Landorus
+15:Gengar
+16:Rayquaza
+17:Weavile
+18:Yveltal
+19:Bronzong
+20:Raichu

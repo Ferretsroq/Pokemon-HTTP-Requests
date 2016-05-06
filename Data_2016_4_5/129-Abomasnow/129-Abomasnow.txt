@@ -1,0 +1,105 @@
+129:Abomasnow|40
+ ---------- 
+Moves used:
+1:Protect,100.0%,40.0
+2:Grass Knot,92.5%,37.0
+3:Ice Shard,87.5%,35.0
+4:Blizzard,87.5%,35.0
+5:Role Play,12.5%,5.0
+6:Ice Beam,12.5%,5.0
+7:Giga Drain,5.0%,2.0
+8:Energy Ball,2.5%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,20.0
+2:Abomasite,37.5%,15.0
+3:Life Orb,10.0%,4.0
+4:Expert Belt,2.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Warning,87.5%,35.0
+2:Soundproof,12.5%,5.0
+
+ ---------- 
+Natures used:
+1:Quiet,75.0%,30.0
+2:Mild,22.5%,9.0
+3:Timid,2.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Hitmontop
+4:Talonflame
+5:Dialga
+6:Groudon
+7:Salamence
+8:Smeargle
+9:Kangaskhan
+10:Bronzong
+11:Meowstic
+12:Landorus
+13:Mawile
+14:Crobat
+15:Yveltal
+16:Bisharp
+17:Conkeldurr
+18:Cresselia
+19:Palkia
+20:Infernape
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,37.5%,15.0
+2:Ice Shard,29.1666666667%,11.6666666667
+3:Grass Knot,25.0%,10.0
+4:Ice Beam,8.33333333333%,3.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,22.2222222222%,8.88888888889
+2:Eruption,16.6666666667%,6.66666666667
+3:Dragon Ascent,11.1111111111%,4.44444444444
+4:Dazzling Gleam,5.55555555556%,2.22222222222
+5:Flash Cannon,5.55555555556%,2.22222222222
+6:Brave Bird,5.55555555556%,2.22222222222
+7:Flare Blitz,5.55555555556%,2.22222222222
+8:Sucker Punch,5.55555555556%,2.22222222222
+9:Gyro Ball,5.55555555556%,2.22222222222
+10:Ice Beam,5.55555555556%,2.22222222222
+11:Flamethrower,5.55555555556%,2.22222222222
+12:Fire Punch,5.55555555556%,2.22222222222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Crobat
+4:Landorus
+5:Salamence
+6:Yveltal
+7:Thundurus
+8:Whimsicott
+9:Musharna
+10:Giratina
+11:Bronzong
+12:Salamence
+13:Sableye
+14:Smeargle
+15:Kangaskhan
+16:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Dialga
+5:Rayquaza
+6:Xerneas
+7:Ferrothorn
+8:Kyogre
+9:Mawile

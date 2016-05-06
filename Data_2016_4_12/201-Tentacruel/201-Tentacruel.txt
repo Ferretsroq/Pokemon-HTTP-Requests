@@ -1,0 +1,70 @@
+201:Tentacruel|16
+ ---------- 
+Moves used:
+1:Scald,100.0%,16.0
+2:Haze,100.0%,16.0
+3:Magic Coat,81.25%,13.0
+4:Ice Beam,81.25%,13.0
+5:Sludge Bomb,18.75%,3.0
+6:Protect,18.75%,3.0
+
+ ---------- 
+Items used:
+1:Black Sludge,81.25%,13.0
+2:Life Orb,18.75%,3.0
+
+ ---------- 
+Abilities used:
+1:Rain Dish,81.25%,13.0
+2:Clear Body,18.75%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,16.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Rayquaza
+4:Mewtwo
+5:Landorus
+6:Cresselia
+7:Mienshao
+8:Sableye
+9:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,50.0%,8.0
+2:Ice Beam,37.5%,6.0
+3:Sludge Bomb,12.5%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,3.2
+2:Origin Pulse,10.0%,1.6
+3:Hurricane,10.0%,1.6
+4:Brave Bird,10.0%,1.6
+5:Water Spout,10.0%,1.6
+6:Extreme Speed,10.0%,1.6
+7:Rock Slide,10.0%,1.6
+8:Double-Edge,10.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Landorus
+3:Groudon
+4:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Vivillon
+3:Talonflame
+4:Landorus
+5:Rayquaza
+6:Kyogre
+7:Kyogre
+8:Kangaskhan

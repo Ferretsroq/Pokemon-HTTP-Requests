@@ -1,0 +1,96 @@
+226:Braviary|19
+ ---------- 
+Moves used:
+1:Rock Slide,94.7368421053%,18.0
+2:Tailwind,68.4210526316%,13.0
+3:Superpower,57.8947368421%,11.0
+4:Protect,52.6315789474%,10.0
+5:Sky Drop,42.1052631579%,8.0
+6:Brave Bird,36.8421052632%,7.0
+7:Return,31.5789473684%,6.0
+8:Giga Impact,5.26315789474%,1.0
+9:U-turn,5.26315789474%,1.0
+10:Facade,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,42.1052631579%,8.0
+2:Choice Scarf,36.8421052632%,7.0
+3:Lum Berry,15.7894736842%,3.0
+4:Normal Gem,5.26315789474%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,68.4210526316%,13.0
+2:Sheer Force,31.5789473684%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,73.6842105263%,14.0
+2:Adamant,26.3157894737%,5.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Dialga
+3:Amoonguss
+4:Xerneas
+5:Groudon
+6:Mantine
+7:Mr. Mime
+8:Glalie
+9:Garchomp
+10:Kyogre
+11:Mewtwo
+12:Greninja
+13:Blaziken
+14:Crobat
+15:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,66.6666666667%,12.6666666667
+2:Brave Bird,16.6666666667%,3.16666666667
+3:Sky Drop,8.33333333333%,1.58333333333
+4:Superpower,8.33333333333%,1.58333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,18.75%,3.5625
+2:Water Spout,12.5%,2.375
+3:Precipice Blades,6.25%,1.1875
+4:Origin Pulse,6.25%,1.1875
+5:Dazzling Gleam,6.25%,1.1875
+6:Iron Head,6.25%,1.1875
+7:Brave Bird,6.25%,1.1875
+8:Sucker Punch,6.25%,1.1875
+9:Extreme Speed,6.25%,1.1875
+10:Rock Slide,6.25%,1.1875
+11:Thunderbolt,6.25%,1.1875
+12:Ice Beam,6.25%,1.1875
+13:Fire Punch,6.25%,1.1875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Yveltal
+3:Amoonguss
+4:Whimsicott
+5:Weavile
+6:Ambipom
+7:Groudon
+8:Lugia
+9:Crobat
+10:Kangaskhan
+11:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Yveltal
+4:Talonflame
+5:Thundurus
+6:Togekiss
+7:Rayquaza
+8:Mawile

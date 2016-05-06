@@ -1,0 +1,64 @@
+248:Vaporeon|6
+ ---------- 
+Moves used:
+1:Protect,66.6666666667%,4.0
+2:Scald,50.0%,3.0
+3:Icy Wind,50.0%,3.0
+4:Muddy Water,33.3333333333%,2.0
+5:Wish,33.3333333333%,2.0
+6:Helping Hand,33.3333333333%,2.0
+7:Baton Pass,33.3333333333%,2.0
+8:Acid Armor,33.3333333333%,2.0
+9:Toxic,33.3333333333%,2.0
+10:Detect,16.6666666667%,1.0
+11:Double Team,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,50.0%,3.0
+2:Sitrus Berry,50.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Calm,33.3333333333%,2.0
+2:Modest,33.3333333333%,2.0
+3:Bold,33.3333333333%,2.0
+
+ ---------- 
+Top teammates:
+1:Goodra
+2:Meowstic
+3:Landorus
+4:Rayquaza
+5:Groudon
+6:Azumarill
+7:Yveltal
+8:Whimsicott
+9:Leafeon
+10:Flareon
+11:Jolteon
+12:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,33.3333333333%,2.0
+2:Muddy Water,33.3333333333%,2.0
+3:Icy Wind,33.3333333333%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,6.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Rayquaza
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

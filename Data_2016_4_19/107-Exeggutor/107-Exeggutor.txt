@@ -1,0 +1,127 @@
+107:Exeggutor|119
+ ---------- 
+Moves used:
+1:Trick Room,70.5882352941%,84.0
+2:Sleep Powder,61.3445378151%,73.0
+3:Gravity,57.1428571429%,68.0
+4:Leaf Storm,53.781512605%,64.0
+5:Protect,41.1764705882%,49.0
+6:Psyshock,38.6554621849%,46.0
+7:Solar Beam,38.6554621849%,46.0
+8:Skill Swap,17.6470588235%,21.0
+9:Psychic,10.9243697479%,13.0
+10:Giga Drain,9.24369747899%,11.0
+11:Rest,0.840336134454%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,43.6974789916%,52.0
+2:Sitrus Berry,39.4957983193%,47.0
+3:Life Orb,16.8067226891%,20.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,60.5042016807%,72.0
+2:Harvest,39.4957983193%,47.0
+
+ ---------- 
+Natures used:
+1:Calm,38.6554621849%,46.0
+2:Modest,36.1344537815%,43.0
+3:Timid,25.2100840336%,30.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Landorus
+3:Kangaskhan
+4:Kyogre
+5:Dialga
+6:Salamence
+7:Aegislash
+8:Xerneas
+9:Thundurus
+10:Talonflame
+11:Kyurem
+12:Ferrothorn
+13:Crobat
+14:Rayquaza
+15:Hydreigon
+16:Scizor
+17:Manectric
+18:Togetic
+19:Zapdos
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psyshock,42.3076923077%,50.3461538462
+2:Leaf Storm,26.9230769231%,32.0384615385
+3:Solar Beam,19.2307692308%,22.8846153846
+4:Psychic,11.5384615385%,13.7307692308
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,15.9574468085%,18.9893617021
+2:Dragon Ascent,9.57446808511%,11.3936170213
+3:Dazzling Gleam,9.57446808511%,11.3936170213
+4:Hyper Voice,7.44680851064%,8.86170212766
+5:Brave Bird,5.31914893617%,6.32978723404
+6:Eruption,4.25531914894%,5.06382978723
+7:Flamethrower,4.25531914894%,5.06382978723
+8:Moonblast,3.1914893617%,3.79787234043
+9:U-turn,3.1914893617%,3.79787234043
+10:Dragon Claw,3.1914893617%,3.79787234043
+11:Water Spout,3.1914893617%,3.79787234043
+12:Knock Off,3.1914893617%,3.79787234043
+13:Double-Edge,3.1914893617%,3.79787234043
+14:Precipice Blades,2.12765957447%,2.53191489362
+15:Snarl,2.12765957447%,2.53191489362
+16:Power-Up Punch,1.06382978723%,1.26595744681
+17:Play Rough,1.06382978723%,1.26595744681
+18:Fusion Flare,1.06382978723%,1.26595744681
+19:Iron Head,1.06382978723%,1.26595744681
+20:Shadow Claw,1.06382978723%,1.26595744681
+0:Other,12.7659574468%,15.1914893617
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Crobat
+4:Landorus
+5:Thundurus
+6:Kangaskhan
+7:Yveltal
+8:Klefki
+9:Terrakion
+10:Amoonguss
+11:Whimsicott
+12:Rotom
+13:Salamence
+14:Milotic
+15:Ludicolo
+16:Machamp
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Cresselia
+7:Rayquaza
+8:Talonflame
+9:Rayquaza
+10:Yveltal
+11:Landorus
+12:Dialga
+13:Mawile
+14:Aegislash
+15:Greninja
+16:Kyurem
+17:Giratina
+18:Weavile
+19:Smeargle
+20:Scizor

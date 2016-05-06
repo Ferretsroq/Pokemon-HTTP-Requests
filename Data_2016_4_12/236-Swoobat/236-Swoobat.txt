@@ -1,0 +1,66 @@
+236:Swoobat|8
+ ---------- 
+Moves used:
+1:Stored Power,50.0%,4.0
+2:Skill Swap,50.0%,4.0
+3:Magic Coat,50.0%,4.0
+4:Helping Hand,50.0%,4.0
+5:Protect,50.0%,4.0
+6:Super Fang,50.0%,4.0
+7:Calm Mind,37.5%,3.0
+8:Double Team,37.5%,3.0
+9:Air Cutter,12.5%,1.0
+10:Psychic,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,87.5%,7.0
+2:Weakness Policy,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Simple,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Jolly,50.0%,4.0
+2:Timid,50.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Smeargle
+5:Weavile
+6:Hawlucha
+7:Amoonguss
+8:Rayquaza
+9:Aron
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stored Power,100.0%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,16.6666666667%,1.33333333333
+2:Dazzling Gleam,16.6666666667%,1.33333333333
+3:Moonblast,16.6666666667%,1.33333333333
+4:Foul Play,16.6666666667%,1.33333333333
+5:Brave Bird,16.6666666667%,1.33333333333
+6:Water Spout,16.6666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Gengar
+2:Arcanine
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Talonflame
+4:Liepard
+5:Clefairy

@@ -1,0 +1,150 @@
+69:Arcanine|380
+ ---------- 
+Moves used:
+1:Extreme Speed,95.0%,361.0
+2:Flare Blitz,93.1578947368%,354.0
+3:Wild Charge,84.4736842105%,321.0
+4:Close Combat,66.5789473684%,253.0
+5:Protect,33.4210526316%,127.0
+6:Will-O-Wisp,6.05263157895%,23.0
+7:Snarl,5.26315789474%,20.0
+8:Flamethrower,5.0%,19.0
+9:Safeguard,3.68421052632%,14.0
+10:Helping Hand,3.42105263158%,13.0
+11:Overheat,1.57894736842%,6.0
+12:Thunder Fang,1.05263157895%,4.0
+13:Morning Sun,0.789473684211%,3.0
+14:Hidden Power,0.526315789474%,2.0
+
+ ---------- 
+Items used:
+1:Choice Band,41.0526315789%,156.0
+2:Life Orb,34.7368421053%,132.0
+3:Assault Vest,7.36842105263%,28.0
+4:Rocky Helmet,5.78947368421%,22.0
+5:Sitrus Berry,2.63157894737%,10.0
+6:Lum Berry,2.63157894737%,10.0
+7:Silk Scarf,1.84210526316%,7.0
+8:Muscle Band,1.57894736842%,6.0
+9:Leftovers,1.31578947368%,5.0
+10:Expert Belt,0.526315789474%,2.0
+11:Black Belt,0.263157894737%,1.0
+12:Chesto Berry,0.263157894737%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,99.7368421053%,379.0
+2:Flash Fire,0.263157894737%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,67.1052631579%,255.0
+2:Adamant,24.7368421053%,94.0
+3:Bold,3.42105263158%,13.0
+4:Timid,2.63157894737%,10.0
+5:Impish,1.05263157895%,4.0
+6:Quiet,0.526315789474%,2.0
+7:Brave,0.526315789474%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Rayquaza
+5:Gyarados
+6:Thundurus
+7:Groudon
+8:Salamence
+9:Yveltal
+10:Talonflame
+11:Giratina
+12:Mienshao
+13:Cresselia
+14:Weavile
+15:Raichu
+16:Magnezone
+17:Golduck
+18:Palkia
+19:Mawile
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Extreme Speed,38.6363636364%,146.818181818
+2:Flare Blitz,29.5454545455%,112.272727273
+3:Wild Charge,17.6136363636%,66.9318181818
+4:Close Combat,7.95454545455%,30.2272727273
+5:Snarl,2.27272727273%,8.63636363636
+6:Overheat,2.27272727273%,8.63636363636
+7:Flamethrower,1.70454545455%,6.47727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.331010453%,58.2578397213
+2:Water Spout,10.4529616725%,39.7212543554
+3:Origin Pulse,9.40766550523%,35.7491289199
+4:Double-Edge,6.96864111498%,26.4808362369
+5:Earth Power,6.27177700348%,23.8327526132
+6:Hyper Voice,4.87804878049%,18.5365853659
+7:Dazzling Gleam,4.52961672474%,17.212543554
+8:Rock Slide,4.18118466899%,15.8885017422
+9:Earthquake,2.09059233449%,7.94425087108
+10:Snarl,1.74216027875%,6.62020905923
+11:Dragon Pulse,1.74216027875%,6.62020905923
+12:Eruption,1.74216027875%,6.62020905923
+13:Extreme Speed,1.74216027875%,6.62020905923
+14:Dragon Ascent,1.393728223%,5.29616724739
+15:Brave Bird,1.393728223%,5.29616724739
+16:Moonblast,1.04529616725%,3.97212543554
+17:Scald,1.04529616725%,3.97212543554
+18:Foul Play,1.04529616725%,3.97212543554
+19:Sucker Punch,1.04529616725%,3.97212543554
+20:Thunderbolt,1.04529616725%,3.97212543554
+0:Other,10.8013937282%,41.0452961672
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Talonflame
+4:Smeargle
+5:Xerneas
+6:Thundurus
+7:Ferrothorn
+8:Liepard
+9:Cresselia
+10:Crobat
+11:Gengar
+12:Yveltal
+13:Whimsicott
+14:Weavile
+15:Bronzong
+16:Salamence
+17:Sableye
+18:Dialga
+19:Mawile
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Yveltal
+7:Landorus
+8:Rayquaza
+9:Dialga
+10:Talonflame
+11:Thundurus
+12:Kyogre
+13:Gengar
+14:Ferrothorn
+15:Palkia
+16:Rayquaza
+17:Mawile
+18:Aegislash
+19:Kyurem
+20:Terrakion

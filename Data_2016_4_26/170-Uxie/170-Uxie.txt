@@ -1,0 +1,116 @@
+170:Uxie|49
+ ---------- 
+Moves used:
+1:Skill Swap,77.5510204082%,38.0
+2:Foul Play,75.5102040816%,37.0
+3:Trick Room,63.2653061224%,31.0
+4:Thunder Wave,36.7346938776%,18.0
+5:Swagger,34.693877551%,17.0
+6:Helping Hand,28.5714285714%,14.0
+7:Magic Coat,22.4489795918%,11.0
+8:Yawn,14.2857142857%,7.0
+9:Grass Knot,12.2448979592%,6.0
+10:Protect,12.2448979592%,6.0
+11:Imprison,8.16326530612%,4.0
+12:Psychic,6.12244897959%,3.0
+13:Toxic,4.08163265306%,2.0
+14:Trick,2.04081632653%,1.0
+15:Memento,2.04081632653%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,75.5102040816%,37.0
+2:Leftovers,12.2448979592%,6.0
+3:Mental Herb,10.2040816327%,5.0
+4:Choice Scarf,2.04081632653%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,49.0
+
+ ---------- 
+Natures used:
+1:Timid,42.8571428571%,21.0
+2:Jolly,28.5714285714%,14.0
+3:Calm,14.2857142857%,7.0
+4:Careful,8.16326530612%,4.0
+5:Bold,6.12244897959%,3.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Liepard
+4:Mawile
+5:Kyogre
+6:Xerneas
+7:Hydreigon
+8:Salamence
+9:Durant
+10:Rayquaza
+11:Landorus
+12:Gallade
+13:Weavile
+14:Heliolisk
+15:Zekrom
+16:Crobat
+17:Vivillon
+18:Greninja
+19:Clefable
+20:Blastoise
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,66.6666666667%,32.6666666667
+2:Grass Knot,20.0%,9.8
+3:Psychic,13.3333333333%,6.53333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,18.75%,9.1875
+2:Eruption,12.5%,6.125
+3:Dazzling Gleam,9.375%,4.59375
+4:Hyper Voice,9.375%,4.59375
+5:Brave Bird,6.25%,3.0625
+6:Water Spout,6.25%,3.0625
+7:Moonblast,3.125%,1.53125
+8:Flash Cannon,3.125%,1.53125
+9:Volt Tackle,3.125%,1.53125
+10:Knock Off,3.125%,1.53125
+11:Heat Wave,3.125%,1.53125
+12:Shadow Ball,3.125%,1.53125
+13:Return,3.125%,1.53125
+14:Sludge Bomb,3.125%,1.53125
+15:Thunderbolt,3.125%,1.53125
+16:Double-Edge,3.125%,1.53125
+17:Fire Punch,3.125%,1.53125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Thundurus
+3:Ferrothorn
+4:Rayquaza
+5:Talonflame
+6:Landorus
+7:Liepard
+8:Dialga
+9:Mawile
+10:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Talonflame
+6:Sylveon
+7:Thundurus
+8:Heatran
+9:Dialga
+10:Weavile
+11:Kangaskhan
+12:Gengar
+13:Raichu
+14:Venusaur

@@ -1,0 +1,136 @@
+102:Thundurus-T|105
+ ---------- 
+Moves used:
+1:Hidden Power,87.619047619%,92.0
+2:Thunderbolt,76.1904761905%,80.0
+3:Grass Knot,53.3333333333%,56.0
+4:Protect,41.9047619048%,44.0
+5:Volt Switch,39.0476190476%,41.0
+6:Sludge Bomb,35.2380952381%,37.0
+7:Thunder,28.5714285714%,30.0
+8:Discharge,14.2857142857%,15.0
+9:Focus Blast,6.66666666667%,7.0
+10:Dark Pulse,5.71428571429%,6.0
+11:Psychic,4.7619047619%,5.0
+12:Taunt,2.85714285714%,3.0
+13:Thunder Wave,2.85714285714%,3.0
+14:Flash Cannon,0.952380952381%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,33.3333333333%,35.0
+2:Choice Specs,27.619047619%,29.0
+3:Choice Scarf,16.1904761905%,17.0
+4:Expert Belt,12.380952381%,13.0
+5:Focus Sash,8.57142857143%,9.0
+6:Lum Berry,1.90476190476%,2.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,100.0%,105.0
+
+ ---------- 
+Natures used:
+1:Timid,86.6666666667%,91.0
+2:Modest,13.3333333333%,14.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyurem
+4:Kyogre
+5:Rayquaza
+6:Talonflame
+7:Gyarados
+8:Golduck
+9:Raichu
+10:Yveltal
+11:Landorus
+12:Mewtwo
+13:Ferrothorn
+14:Gengar
+15:Salamence
+16:Xerneas
+17:Gothitelle
+18:Crobat
+19:Meowstic
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,43.75%,45.9375
+2:Discharge,16.6666666667%,17.5
+3:Hidden Power,16.6666666667%,17.5
+4:Thunder,14.5833333333%,15.3125
+5:Sludge Bomb,8.33333333333%,8.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,13.3333333333%,14.0
+2:Extreme Speed,9.33333333333%,9.8
+3:Rock Slide,9.33333333333%,9.8
+4:Sucker Punch,8.0%,8.4
+5:Dazzling Gleam,6.66666666667%,7.0
+6:Eruption,6.66666666667%,7.0
+7:Precipice Blades,4.0%,4.2
+8:Draco Meteor,4.0%,4.2
+9:Water Spout,4.0%,4.2
+10:Fire Punch,4.0%,4.2
+11:Moonblast,2.66666666667%,2.8
+12:Hyper Voice,2.66666666667%,2.8
+13:Icy Wind,2.66666666667%,2.8
+14:Dragon Ascent,1.33333333333%,1.4
+15:Origin Pulse,1.33333333333%,1.4
+16:Icicle Crash,1.33333333333%,1.4
+17:Foul Play,1.33333333333%,1.4
+18:Shadow Force,1.33333333333%,1.4
+19:Spacial Rend,1.33333333333%,1.4
+20:Flare Blitz,1.33333333333%,1.4
+0:Other,9.33333333333%,9.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Crobat
+4:Kangaskhan
+5:Xerneas
+6:Landorus
+7:Rayquaza
+8:Yveltal
+9:Cresselia
+10:Togekiss
+11:Smeargle
+12:Thundurus
+13:Lilligant
+14:Palkia
+15:Dialga
+16:Bronzong
+17:Groudon
+18:Salamence
+19:Mawile
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Rayquaza
+4:Xerneas
+5:Kyogre
+6:Salamence
+7:Terrakion
+8:Weavile
+9:Rayquaza
+10:Yveltal
+11:Talonflame
+12:Kyurem
+13:Thundurus
+14:Ferrothorn
+15:Excadrill
+16:Liepard
+17:Giratina
+18:Palkia
+19:Dialga
+20:Garchomp

@@ -1,0 +1,79 @@
+194:Tangrowth|38
+ ---------- 
+Moves used:
+1:Hidden Power,100.0%,38.0
+2:Protect,100.0%,38.0
+3:Grass Knot,86.8421052632%,33.0
+4:Sleep Powder,86.8421052632%,33.0
+5:Rage Powder,13.1578947368%,5.0
+6:Power Whip,13.1578947368%,5.0
+
+ ---------- 
+Items used:
+1:Wide Lens,86.8421052632%,33.0
+2:Life Orb,13.1578947368%,5.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,38.0
+
+ ---------- 
+Natures used:
+1:Calm,86.8421052632%,33.0
+2:Naughty,13.1578947368%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Kangaskhan
+4:Salamence
+5:Bronzong
+6:Liepard
+7:Xerneas
+8:Toxicroak
+9:Mawile
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hidden Power,50.0%,19.0
+2:Grass Knot,41.6666666667%,15.8333333333
+3:Power Whip,8.33333333333%,3.16666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,25.0%,9.5
+2:Eruption,10.0%,3.8
+3:Fire Punch,10.0%,3.8
+4:Origin Pulse,5.0%,1.9
+5:Oblivion Wing,5.0%,1.9
+6:Dazzling Gleam,5.0%,1.9
+7:Moonblast,5.0%,1.9
+8:Brave Bird,5.0%,1.9
+9:Flare Blitz,5.0%,1.9
+10:Gyro Ball,5.0%,1.9
+11:Water Spout,5.0%,1.9
+12:Superpower,5.0%,1.9
+13:Return,5.0%,1.9
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Kyogre
+4:Terrakion
+5:Amoonguss
+6:Cresselia
+7:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Yveltal
+6:Landorus
+7:Ferrothorn
+8:Kangaskhan

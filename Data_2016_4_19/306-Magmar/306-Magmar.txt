@@ -1,0 +1,43 @@
+306:Magmar|1
+ ---------- 
+Moves used:
+1:Clear Smog,100.0%,1.0
+2:Flame Burst,100.0%,1.0
+3:Will-O-Wisp,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Yveltal
+3:Aegislash
+4:Landorus
+5:Mamoswine
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,50.0%,0.5
+2:Brave Bird,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Kyogre

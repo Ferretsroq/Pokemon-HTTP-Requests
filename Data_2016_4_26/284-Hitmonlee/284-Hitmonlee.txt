@@ -1,0 +1,55 @@
+284:Hitmonlee|3
+ ---------- 
+Moves used:
+1:Close Combat,100.0%,3.0
+2:Fake Out,100.0%,3.0
+3:Stone Edge,66.6666666667%,2.0
+4:Knock Off,66.6666666667%,2.0
+5:Wide Guard,33.3333333333%,1.0
+6:Feint,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Normal Gem,66.6666666667%,2.0
+2:Focus Sash,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Amoonguss
+2:Lopunny
+3:Xerneas
+4:Slurpuff
+5:Groudon
+6:Klefki
+7:Talonflame
+8:Krookodile
+9:Cresselia
+10:Ditto
+11:Starmie
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,1.0
+2:Dazzling Gleam,33.3333333333%,1.0
+3:Moonblast,16.6666666667%,0.5
+4:Water Spout,16.6666666667%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Togekiss
+3:Xerneas

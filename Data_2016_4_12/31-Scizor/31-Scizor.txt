@@ -1,0 +1,169 @@
+31:Scizor|1921
+ ---------- 
+Moves used:
+1:Bullet Punch,99.4794377928%,1911.0
+2:Protect,78.2404997397%,1503.0
+3:Bug Bite,66.3196251952%,1274.0
+4:Swords Dance,59.5002602811%,1143.0
+5:Feint,37.2722540344%,716.0
+6:Superpower,19.5210827694%,375.0
+7:Knock Off,10.1509630401%,195.0
+8:Iron Head,5.62207183758%,108.0
+9:U-turn,5.30973451327%,102.0
+10:Tailwind,4.42477876106%,85.0
+11:Quick Guard,3.07131702238%,59.0
+12:Roost,2.08224882874%,40.0
+13:Thief,2.08224882874%,40.0
+14:Safeguard,2.03019260802%,39.0
+15:Pursuit,1.24934929724%,24.0
+16:Quick Attack,0.989068193649%,19.0
+17:X-Scissor,0.728787090057%,14.0
+18:Aerial Ace,0.676730869339%,13.0
+19:Brick Break,0.572618427902%,11.0
+20:Hidden Power,0.31233732431%,6.0
+0:Other,0.364393545029%,7.0
+
+ ---------- 
+Items used:
+1:Lum Berry,48.3081728267%,928.0
+2:Life Orb,11.452368558%,220.0
+3:Sitrus Berry,8.95366996356%,172.0
+4:Scizorite,8.90161374284%,171.0
+5:Choice Band,6.40291514836%,123.0
+6:Iron Plate,4.47683498178%,86.0
+7:Expert Belt,3.17542946382%,61.0
+8:Leftovers,2.91514836023%,56.0
+9:Assault Vest,1.76991150442%,34.0
+10:Safety Goggles,0.780843310776%,15.0
+11:Metal Coat,0.520562207184%,10.0
+12:Occa Berry,0.520562207184%,10.0
+13:Rocky Helmet,0.416449765747%,8.0
+14:Chesto Berry,0.364393545029%,7.0
+15:Red Card,0.31233732431%,6.0
+16:Snowball,0.208224882874%,4.0
+17:Focus Sash,0.104112441437%,2.0
+18:Mental Herb,0.104112441437%,2.0
+19:Liechi Berry,0.104112441437%,2.0
+20:Muscle Band,0.0520562207184%,1.0
+0:Other,0.0520562207184%,1.0
+
+ ---------- 
+Abilities used:
+1:Technician,99.6876626757%,1915.0
+2:Swarm,0.208224882874%,4.0
+3:Light Metal,0.104112441437%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,95.2108276939%,1829.0
+2:Brave,4.16449765747%,80.0
+3:Impish,0.468505986465%,9.0
+4:Careful,0.156168662155%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Raichu
+8:Smeargle
+9:Gengar
+10:Xerneas
+11:Thundurus
+12:Weavile
+13:Yveltal
+14:Crobat
+15:Landorus
+16:Whimsicott
+17:Ludicolo
+18:Dialga
+19:Mewtwo
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bullet Punch,66.573816156%,1278.88300836
+2:Bug Bite,14.113277623%,271.116063138
+3:Feint,11.234911792%,215.822655525
+4:Superpower,4.54967502321%,87.3992571959
+5:Iron Head,1.29990714949%,24.9712163417
+6:Knock Off,1.11420612813%,21.4038997214
+7:U-turn,0.464252553389%,8.9182915506
+8:Hidden Power,0.278551532033%,5.35097493036
+9:X-Scissor,0.0928505106778%,1.78365831012
+10:Pursuit,0.0928505106778%,1.78365831012
+11:Thief,0.0928505106778%,1.78365831012
+12:Struggle,0.0928505106778%,1.78365831012
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,12.5902165196%,241.858059342
+2:Precipice Blades,9.3023255814%,178.697674419
+3:Water Spout,8.98155573376%,172.535685646
+4:Fire Punch,7.13712910986%,137.1042502
+5:Origin Pulse,6.41539695269%,123.239775461
+6:Hyper Voice,5.29270248597%,101.672814755
+7:Flamethrower,5.13231756215%,98.5918203689
+8:Dazzling Gleam,4.33039294306%,83.1868484362
+9:Flare Blitz,4.08981555734%,78.5653568565
+10:Overheat,3.28789093825%,63.1603849238
+11:Sucker Punch,2.72654370489%,52.376904571
+12:Dragon Ascent,2.24538893344%,43.1339214114
+13:Double-Edge,2.24538893344%,43.1339214114
+14:Brave Bird,1.8444266239%,35.4314354451
+15:Moonblast,1.76423416199%,33.8909382518
+16:Thunderbolt,1.76423416199%,33.8909382518
+17:Earth Power,1.60384923817%,30.8099438653
+18:Rock Slide,1.60384923817%,30.8099438653
+19:Scald,1.12269446672%,21.5669607057
+20:Low Kick,1.04250200481%,20.0264635124
+0:Other,12.3496391339%,237.236567763
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Smeargle
+4:Kyogre
+5:Salamence
+6:Cresselia
+7:Ferrothorn
+8:Weavile
+9:Talonflame
+10:Whimsicott
+11:Thundurus
+12:Rayquaza
+13:Groudon
+14:Kyurem
+15:Amoonguss
+16:Mawile
+17:Meowstic
+18:Crobat
+19:Liepard
+20:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Talonflame
+6:Kangaskhan
+7:Rayquaza
+8:Yveltal
+9:Thundurus
+10:Dialga
+11:Mawile
+12:Rayquaza
+13:Landorus
+14:Kyogre
+15:Kyurem
+16:Terrakion
+17:Smeargle
+18:Ferrothorn
+19:Giratina
+20:Lucario

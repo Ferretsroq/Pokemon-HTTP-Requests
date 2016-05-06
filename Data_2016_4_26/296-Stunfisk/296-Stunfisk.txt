@@ -1,0 +1,52 @@
+296:Stunfisk|4
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,4.0
+2:Rock Slide,100.0%,4.0
+3:Thunder,100.0%,4.0
+4:Sludge Bomb,75.0%,3.0
+5:Protect,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,75.0%,3.0
+2:Choice Specs,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Static,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Crobat
+4:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,75.0%,3.0
+2:Thunder,25.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,1.33333333333
+2:Origin Pulse,33.3333333333%,1.33333333333
+3:Hyper Voice,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Dialga
+2:Kyogre
+3:Mawile
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Smeargle

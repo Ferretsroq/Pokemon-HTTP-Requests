@@ -1,0 +1,126 @@
+168:Froslass|63
+ ---------- 
+Moves used:
+1:Destiny Bond,98.4126984127%,62.0
+2:Taunt,60.3174603175%,38.0
+3:Ice Beam,60.3174603175%,38.0
+4:Weather Ball,50.7936507937%,32.0
+5:Protect,25.3968253968%,16.0
+6:Frost Breath,23.8095238095%,15.0
+7:Disable,15.873015873%,10.0
+8:Hex,14.2857142857%,9.0
+9:Thunderbolt,14.2857142857%,9.0
+10:Blizzard,14.2857142857%,9.0
+11:Icy Wind,11.1111111111%,7.0
+12:Thunder Wave,9.52380952381%,6.0
+13:Fake Tears,1.5873015873%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,80.9523809524%,51.0
+2:Colbur Berry,14.2857142857%,9.0
+3:Lum Berry,3.1746031746%,2.0
+4:Icicle Plate,1.5873015873%,1.0
+
+ ---------- 
+Abilities used:
+1:Cursed Body,100.0%,63.0
+
+ ---------- 
+Natures used:
+1:Timid,85.7142857143%,54.0
+2:Jolly,14.2857142857%,9.0
+
+ ---------- 
+Top teammates:
+1:Crobat
+2:Kyogre
+3:Groudon
+4:Rayquaza
+5:Tauros
+6:Electivire
+7:Metagross
+8:Gengar
+9:Xerneas
+10:Whimsicott
+11:Dialga
+12:Talonflame
+13:Kangaskhan
+14:Greninja
+15:Salamence
+16:Meowstic
+17:Ferrothorn
+18:Garchomp
+19:Beedrill
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,44.4444444444%,28.0
+2:Ice Beam,22.2222222222%,14.0
+3:Weather Ball,16.6666666667%,10.5
+4:Frost Breath,5.55555555556%,3.5
+5:Blizzard,5.55555555556%,3.5
+6:Hex,2.77777777778%,1.75
+7:Thunderbolt,2.77777777778%,1.75
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,15.3846153846%,9.69230769231
+2:Sucker Punch,7.69230769231%,4.84615384615
+3:Precipice Blades,5.76923076923%,3.63461538462
+4:Eruption,5.76923076923%,3.63461538462
+5:Shadow Ball,5.76923076923%,3.63461538462
+6:Ice Beam,5.76923076923%,3.63461538462
+7:Origin Pulse,3.84615384615%,2.42307692308
+8:Snarl,3.84615384615%,2.42307692308
+9:Flare Blitz,3.84615384615%,2.42307692308
+10:Sludge Bomb,3.84615384615%,2.42307692308
+11:Fire Punch,3.84615384615%,2.42307692308
+12:Dazzling Gleam,1.92307692308%,1.21153846154
+13:Moonblast,1.92307692308%,1.21153846154
+14:Play Rough,1.92307692308%,1.21153846154
+15:Psystrike,1.92307692308%,1.21153846154
+16:Grass Knot,1.92307692308%,1.21153846154
+17:Flash Cannon,1.92307692308%,1.21153846154
+18:Dragon Pulse,1.92307692308%,1.21153846154
+19:Gyro Ball,1.92307692308%,1.21153846154
+20:Crunch,1.92307692308%,1.21153846154
+0:Other,5.76923076923%,3.63461538462
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Ferrothorn
+4:Dialga
+5:Raichu
+6:Xerneas
+7:Cresselia
+8:Rayquaza
+9:Salamence
+10:Crobat
+11:Gengar
+12:Talonflame
+13:Mienshao
+14:Mawile
+15:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Kyogre
+6:Gengar
+7:Yveltal
+8:Talonflame
+9:Dialga
+10:Gengar
+11:Landorus
+12:Ferrothorn
+13:Cresselia
+14:Mawile
+15:Mewtwo
+16:Kangaskhan

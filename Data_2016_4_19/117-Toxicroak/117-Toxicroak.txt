@@ -1,0 +1,132 @@
+117:Toxicroak|99
+ ---------- 
+Moves used:
+1:Gunk Shot,90.9090909091%,90.0
+2:Fake Out,90.9090909091%,90.0
+3:Low Kick,83.8383838384%,83.0
+4:Feint,68.6868686869%,68.0
+5:Protect,22.2222222222%,22.0
+6:Drain Punch,13.1313131313%,13.0
+7:Sucker Punch,13.1313131313%,13.0
+8:Poison Jab,9.09090909091%,9.0
+9:Quick Guard,5.05050505051%,5.0
+10:Low Sweep,3.0303030303%,3.0
+
+ ---------- 
+Items used:
+1:Assault Vest,45.4545454545%,45.0
+2:Focus Sash,28.2828282828%,28.0
+3:Expert Belt,20.202020202%,20.0
+4:Life Orb,6.06060606061%,6.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,100.0%,99.0
+
+ ---------- 
+Natures used:
+1:Adamant,60.6060606061%,60.0
+2:Jolly,22.2222222222%,22.0
+3:Careful,17.1717171717%,17.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Lugia
+3:Zekrom
+4:Zoroark
+5:Yveltal
+6:Talonflame
+7:Kangaskhan
+8:Sharpedo
+9:Whimsicott
+10:Marowak
+11:Rayquaza
+12:Mawile
+13:Landorus
+14:Salamence
+15:Kyurem
+16:Manectric
+17:Seismitoad
+18:Palkia
+19:Thundurus
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,44.0%,43.56
+2:Feint,26.0%,25.74
+3:Gunk Shot,20.0%,19.8
+4:Drain Punch,6.0%,5.94
+5:Poison Jab,2.0%,1.98
+6:Fake Out,2.0%,1.98
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,9.83606557377%,9.73770491803
+2:Dragon Ascent,8.19672131148%,8.11475409836
+3:Brave Bird,6.55737704918%,6.49180327869
+4:Gyro Ball,6.55737704918%,6.49180327869
+5:Ice Beam,6.55737704918%,6.49180327869
+6:Precipice Blades,4.91803278689%,4.86885245902
+7:Dazzling Gleam,4.91803278689%,4.86885245902
+8:Sucker Punch,4.91803278689%,4.86885245902
+9:Hyper Voice,4.91803278689%,4.86885245902
+10:Earthquake,4.91803278689%,4.86885245902
+11:Double-Edge,4.91803278689%,4.86885245902
+12:Rock Slide,3.27868852459%,3.24590163934
+13:Psychic,3.27868852459%,3.24590163934
+14:Thunder,3.27868852459%,3.24590163934
+15:Thunderbolt,3.27868852459%,3.24590163934
+16:Fire Punch,3.27868852459%,3.24590163934
+17:Oblivion Wing,1.6393442623%,1.62295081967
+18:Play Rough,1.6393442623%,1.62295081967
+19:Wild Charge,1.6393442623%,1.62295081967
+20:Air Slash,1.6393442623%,1.62295081967
+0:Other,3.27868852459%,3.24590163934
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Weavile
+6:Smeargle
+7:Ferrothorn
+8:Rayquaza
+9:Dialga
+10:Groudon
+11:Zapdos
+12:Greninja
+13:Amoonguss
+14:Whimsicott
+15:Bronzong
+16:Kyogre
+17:Salamence
+18:Mawile
+19:Clefairy
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Landorus
+5:Talonflame
+6:Ferrothorn
+7:Salamence
+8:Kangaskhan
+9:Xerneas
+10:Thundurus
+11:Mawile
+12:Yveltal
+13:Landorus
+14:Cresselia
+15:Palkia
+16:Dialga
+17:Togekiss
+18:Rayquaza
+19:Latios
+20:Manectric

@@ -1,0 +1,65 @@
+278:Omastar|5
+ ---------- 
+Moves used:
+1:Protect,100.0%,5.0
+2:Ice Beam,100.0%,5.0
+3:Muddy Water,80.0%,4.0
+4:Reflect Type,60.0%,3.0
+5:Scald,20.0%,1.0
+6:Earth Power,20.0%,1.0
+7:Hidden Power,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Wise Glasses,60.0%,3.0
+2:Scope Lens,20.0%,1.0
+3:Sitrus Berry,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,60.0%,3.0
+2:Modest,40.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Thundurus
+4:Rayquaza
+5:Smeargle
+6:Dialga
+7:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,40.0%,2.0
+2:Scald,20.0%,1.0
+3:Muddy Water,20.0%,1.0
+4:Hidden Power,20.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Scald,20.0%,1.0
+2:Earth Power,20.0%,1.0
+3:Dark Pulse,20.0%,1.0
+4:Water Spout,20.0%,1.0
+5:Hyper Voice,20.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Tornadus
+2:Rayquaza
+3:Kyogre
+4:Crobat
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Yveltal
+3:Dialga
+4:Altaria

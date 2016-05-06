@@ -1,0 +1,94 @@
+132:Pachirisu|51
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,51.0
+2:Super Fang,100.0%,51.0
+3:Protect,86.2745098039%,44.0
+4:Helping Hand,56.862745098%,29.0
+5:Nuzzle,43.137254902%,22.0
+6:U-turn,13.7254901961%,7.0
+
+ ---------- 
+Items used:
+1:Mental Herb,56.862745098%,29.0
+2:Focus Sash,13.7254901961%,7.0
+3:Air Balloon,9.80392156863%,5.0
+4:Shuca Berry,9.80392156863%,5.0
+5:Sitrus Berry,9.80392156863%,5.0
+
+ ---------- 
+Abilities used:
+1:Pickup,66.6666666667%,34.0
+2:Volt Absorb,33.3333333333%,17.0
+
+ ---------- 
+Natures used:
+1:Impish,74.5098039216%,38.0
+2:Jolly,13.7254901961%,7.0
+3:Careful,9.80392156863%,5.0
+4:Calm,1.96078431373%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Smeargle
+4:Kyogre
+5:Kangaskhan
+6:Talonflame
+7:Groudon
+8:Ditto
+9:Liepard
+10:Thundurus
+11:Crobat
+12:Blastoise
+13:Yveltal
+14:Salamence
+15:Gengar
+16:Landorus
+17:Ferrothorn
+18:Porygon-Z
+19:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,26.4705882353%,13.5
+2:Sludge Bomb,8.82352941176%,4.5
+3:Double-Edge,8.82352941176%,4.5
+4:Precipice Blades,5.88235294118%,3.0
+5:Earth Power,5.88235294118%,3.0
+6:Knock Off,5.88235294118%,3.0
+7:Dragon Ascent,2.94117647059%,1.5
+8:Origin Pulse,2.94117647059%,1.5
+9:Moonblast,2.94117647059%,1.5
+10:Play Rough,2.94117647059%,1.5
+11:Scald,2.94117647059%,1.5
+12:Seed Bomb,2.94117647059%,1.5
+13:Gyro Ball,2.94117647059%,1.5
+14:Volt Tackle,2.94117647059%,1.5
+15:Eruption,2.94117647059%,1.5
+16:Extreme Speed,2.94117647059%,1.5
+17:Return,2.94117647059%,1.5
+18:Earthquake,2.94117647059%,1.5
+19:Ice Beam,2.94117647059%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Gengar
+5:Ferrothorn
+6:Rayquaza
+7:Mawile
+8:Xerneas
+9:Landorus
+10:Cresselia
+11:Weavile
+12:Raichu

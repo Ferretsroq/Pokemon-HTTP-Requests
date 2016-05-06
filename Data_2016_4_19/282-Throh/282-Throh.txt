@@ -1,0 +1,49 @@
+282:Throh|4
+ ---------- 
+Moves used:
+1:Storm Throw,100.0%,4.0
+2:Wide Guard,100.0%,4.0
+3:Circle Throw,75.0%,3.0
+4:Knock Off,75.0%,3.0
+5:Protect,25.0%,1.0
+6:Ice Punch,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Coba Berry,75.0%,3.0
+2:Expert Belt,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Rayquaza
+3:Smeargle
+4:Landorus
+5:Tornadus
+6:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,2.0
+2:Sucker Punch,50.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan

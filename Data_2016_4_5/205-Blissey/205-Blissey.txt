@@ -1,0 +1,73 @@
+205:Blissey|9
+ ---------- 
+Moves used:
+1:Soft-Boiled,88.8888888889%,8.0
+2:Calm Mind,66.6666666667%,6.0
+3:Minimize,66.6666666667%,6.0
+4:Heal Pulse,55.5555555556%,5.0
+5:Ice Beam,44.4444444444%,4.0
+6:Light Screen,22.2222222222%,2.0
+7:Seismic Toss,22.2222222222%,2.0
+8:Fling,11.1111111111%,1.0
+9:Rock Slide,11.1111111111%,1.0
+10:Thunder Wave,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Kee Berry,66.6666666667%,6.0
+2:Leftovers,22.2222222222%,2.0
+3:Choice Scarf,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,55.5555555556%,5.0
+2:Serene Grace,44.4444444444%,4.0
+
+ ---------- 
+Natures used:
+1:Bold,88.8888888889%,8.0
+2:Timid,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Smeargle
+3:Carbink
+4:Sableye
+5:Gengar
+6:Groudon
+7:Latias
+8:Salamence
+9:Xerneas
+10:Talonflame
+11:Dialga
+12:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,50.0%,4.5
+2:Ice Beam,50.0%,4.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,16.6666666667%,1.5
+2:Dazzling Gleam,16.6666666667%,1.5
+3:Moonblast,16.6666666667%,1.5
+4:Earth Power,16.6666666667%,1.5
+5:Close Combat,16.6666666667%,1.5
+6:High Jump Kick,16.6666666667%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Whimsicott
+3:Mawile
+4:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Terrakion
+3:Mienshao
+4:Rayquaza
+5:Groudon

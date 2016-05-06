@@ -1,0 +1,114 @@
+122:Aron|120
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,120.0
+2:Protect,100.0%,120.0
+3:Swagger,53.3333333333%,64.0
+4:Toxic,36.6666666667%,44.0
+5:Stealth Rock,35.8333333333%,43.0
+6:Roar,29.1666666667%,35.0
+7:Sleep Talk,23.3333333333%,28.0
+8:Sandstorm,17.5%,21.0
+9:Aerial Ace,1.66666666667%,2.0
+10:Rock Slide,1.66666666667%,2.0
+11:Rock Tomb,0.833333333333%,1.0
+
+ ---------- 
+Items used:
+1:Berry Juice,76.6666666667%,92.0
+2:Shell Bell,23.3333333333%,28.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,120.0
+
+ ---------- 
+Natures used:
+1:Adamant,35.8333333333%,43.0
+2:Quirky,21.6666666667%,26.0
+3:Modest,10.8333333333%,13.0
+4:Timid,8.33333333333%,10.0
+5:Impish,7.5%,9.0
+6:Jolly,5.0%,6.0
+7:Gentle,4.16666666667%,5.0
+8:Naughty,2.5%,3.0
+9:Hasty,1.66666666667%,2.0
+10:Quiet,0.833333333333%,1.0
+11:Lax,0.833333333333%,1.0
+12:Brave,0.833333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Groudon
+4:Liepard
+5:Raichu
+6:Xerneas
+7:Kangaskhan
+8:Infernape
+9:Porygon2
+10:Mienshao
+11:Scrafty
+12:Talonflame
+13:Sylveon
+14:Sableye
+15:Dialga
+16:Smeargle
+17:Whimsicott
+18:Cresselia
+19:Palkia
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,11.8279569892%,14.1935483871
+2:Hyper Voice,8.60215053763%,10.3225806452
+3:Ice Beam,5.37634408602%,6.45161290323
+4:Power-Up Punch,4.30107526882%,5.16129032258
+5:Dazzling Gleam,4.30107526882%,5.16129032258
+6:Sucker Punch,4.30107526882%,5.16129032258
+7:Fake Out,4.30107526882%,5.16129032258
+8:Fire Punch,4.30107526882%,5.16129032258
+9:Precipice Blades,3.22580645161%,3.87096774194
+10:Super Fang,3.22580645161%,3.87096774194
+11:Thunderbolt,3.22580645161%,3.87096774194
+12:Origin Pulse,2.15053763441%,2.58064516129
+13:Snarl,2.15053763441%,2.58064516129
+14:Scald,2.15053763441%,2.58064516129
+15:Foul Play,2.15053763441%,2.58064516129
+16:Feint,2.15053763441%,2.58064516129
+17:Extreme Speed,2.15053763441%,2.58064516129
+18:Double-Edge,2.15053763441%,2.58064516129
+19:Water Shuriken,1.0752688172%,1.29032258065
+20:Play Rough,1.0752688172%,1.29032258065
+0:Other,18.2795698925%,21.935483871
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Salamence
+5:Cresselia
+6:Yveltal
+7:Xerneas
+8:Rayquaza
+9:Crobat
+10:Kyurem
+11:Thundurus
+12:Weavile
+13:Mawile
+14:Scizor
+15:Greninja
+16:Landorus
+17:Ferrothorn
+18:Purrloin
+19:Giratina
+20:Dialga

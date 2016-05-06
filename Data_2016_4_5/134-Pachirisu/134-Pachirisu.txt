@@ -1,0 +1,74 @@
+134:Pachirisu|32
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,32.0
+2:Super Fang,100.0%,32.0
+3:Protect,75.0%,24.0
+4:Helping Hand,56.25%,18.0
+5:Nuzzle,43.75%,14.0
+6:U-turn,25.0%,8.0
+
+ ---------- 
+Items used:
+1:Mental Herb,56.25%,18.0
+2:Focus Sash,25.0%,8.0
+3:Air Balloon,15.625%,5.0
+4:Sitrus Berry,3.125%,1.0
+
+ ---------- 
+Abilities used:
+1:Pickup,71.875%,23.0
+2:Volt Absorb,28.125%,9.0
+
+ ---------- 
+Natures used:
+1:Impish,56.25%,18.0
+2:Jolly,25.0%,8.0
+3:Careful,15.625%,5.0
+4:Calm,3.125%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Kyogre
+4:Smeargle
+5:Ditto
+6:Kangaskhan
+7:Talonflame
+8:Crobat
+9:Blastoise
+10:Thundurus
+11:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,33.3333333333%,10.6666666667
+2:Earth Power,14.2857142857%,4.57142857143
+3:Double-Edge,9.52380952381%,3.04761904762
+4:Dragon Ascent,4.7619047619%,1.52380952381
+5:Origin Pulse,4.7619047619%,1.52380952381
+6:Scald,4.7619047619%,1.52380952381
+7:Seed Bomb,4.7619047619%,1.52380952381
+8:Volt Tackle,4.7619047619%,1.52380952381
+9:Eruption,4.7619047619%,1.52380952381
+10:Knock Off,4.7619047619%,1.52380952381
+11:Sludge Bomb,4.7619047619%,1.52380952381
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Ferrothorn
+5:Palkia
+6:Rayquaza
+7:Mawile
+8:Gengar
+9:Raichu

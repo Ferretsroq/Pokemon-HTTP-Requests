@@ -1,0 +1,132 @@
+115:Pikachu|136
+ ---------- 
+Moves used:
+1:Fake Out,97.0588235294%,132.0
+2:Volt Tackle,68.3823529412%,93.0
+3:Feint,46.3235294118%,63.0
+4:Protect,42.6470588235%,58.0
+5:Hidden Power,30.1470588235%,41.0
+6:Endeavor,25.7352941176%,35.0
+7:Nuzzle,25.0%,34.0
+8:Knock Off,22.0588235294%,30.0
+9:Brick Break,16.1764705882%,22.0
+10:Encore,11.0294117647%,15.0
+11:Helping Hand,8.08823529412%,11.0
+12:Thunderbolt,7.35294117647%,10.0
+
+ ---------- 
+Items used:
+1:Light Ball,75.0%,102.0
+2:Focus Sash,24.2647058824%,33.0
+3:Magnet,0.735294117647%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,99.2647058824%,135.0
+2:Static,0.735294117647%,1.0
+
+ ---------- 
+Natures used:
+1:Naive,56.6176470588%,77.0
+2:Jolly,25.0%,34.0
+3:Timid,12.5%,17.0
+4:Adamant,5.88235294118%,8.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Greninja
+4:Groudon
+5:Xerneas
+6:Talonflame
+7:Salamence
+8:Kangaskhan
+9:Blastoise
+10:Ferrothorn
+11:Yveltal
+12:Scizor
+13:Crobat
+14:Landorus
+15:Lugia
+16:Smeargle
+17:Gengar
+18:Thundurus
+19:Charizard
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,58.8235294118%,80.0
+2:Feint,11.7647058824%,16.0
+3:Hidden Power,11.7647058824%,16.0
+4:Thunderbolt,8.82352941176%,12.0
+5:Nuzzle,2.94117647059%,4.0
+6:Knock Off,2.94117647059%,4.0
+7:Brick Break,2.94117647059%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,10.7142857143%,14.5714285714
+2:Dazzling Gleam,9.82142857143%,13.3571428571
+3:Sucker Punch,5.35714285714%,7.28571428571
+4:Double-Edge,5.35714285714%,7.28571428571
+5:Hyper Voice,4.46428571429%,6.07142857143
+6:Fake Out,4.46428571429%,6.07142857143
+7:Return,4.46428571429%,6.07142857143
+8:Precipice Blades,3.57142857143%,4.85714285714
+9:Origin Pulse,3.57142857143%,4.85714285714
+10:Extreme Speed,3.57142857143%,4.85714285714
+11:Sludge Bomb,3.57142857143%,4.85714285714
+12:Rock Slide,2.67857142857%,3.64285714286
+13:Play Rough,1.78571428571%,2.42857142857
+14:Foul Play,1.78571428571%,2.42857142857
+15:Power Whip,1.78571428571%,2.42857142857
+16:Draco Meteor,1.78571428571%,2.42857142857
+17:Earth Power,1.78571428571%,2.42857142857
+18:Dragon Pulse,1.78571428571%,2.42857142857
+19:Feint,1.78571428571%,2.42857142857
+20:Knock Off,1.78571428571%,2.42857142857
+0:Other,20.5357142857%,27.9285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Talonflame
+3:Groudon
+4:Xerneas
+5:Cresselia
+6:Yveltal
+7:Thundurus
+8:Kyogre
+9:Tornadus
+10:Liepard
+11:Bronzong
+12:Salamence
+13:Lugia
+14:Azumarill
+15:Lapras
+16:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Groudon
+5:Salamence
+6:Yveltal
+7:Ferrothorn
+8:Weavile
+9:Mawile
+10:Thundurus
+11:Cresselia
+12:Rayquaza
+13:Dialga
+14:Rayquaza
+15:Salamence
+16:Gengar
+17:Aegislash
+18:Talonflame
+19:Greninja
+20:Landorus

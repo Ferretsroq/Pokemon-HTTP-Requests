@@ -1,0 +1,102 @@
+130:Dusclops|75
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,75.0
+2:Pain Split,90.6666666667%,68.0
+3:Skill Swap,85.3333333333%,64.0
+4:Night Shade,85.3333333333%,64.0
+5:Imprison,10.6666666667%,8.0
+6:Gravity,8.0%,6.0
+7:Protect,6.66666666667%,5.0
+8:Will-O-Wisp,5.33333333333%,4.0
+9:Destiny Bond,4.0%,3.0
+10:Infestation,1.33333333333%,1.0
+11:Snatch,1.33333333333%,1.0
+12:Memento,1.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,75.0
+
+ ---------- 
+Abilities used:
+1:Frisk,93.3333333333%,70.0
+2:Pressure,6.66666666667%,5.0
+
+ ---------- 
+Natures used:
+1:Relaxed,81.3333333333%,61.0
+2:Calm,9.33333333333%,7.0
+3:Sassy,8.0%,6.0
+4:Impish,1.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Sableye
+3:Snorlax
+4:Zekrom
+5:Kyogre
+6:Mawile
+7:Kangaskhan
+8:Xerneas
+9:Whimsicott
+10:Yveltal
+11:Smeargle
+12:Thundurus
+13:Dialga
+14:Togekiss
+15:Camerupt
+16:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Night Shade,100.0%,75.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,15.1515151515%,11.3636363636
+2:Moonblast,12.1212121212%,9.09090909091
+3:Dazzling Gleam,9.09090909091%,6.81818181818
+4:Dragon Ascent,6.06060606061%,4.54545454545
+5:Precipice Blades,6.06060606061%,4.54545454545
+6:Hyper Voice,6.06060606061%,4.54545454545
+7:Double-Edge,6.06060606061%,4.54545454545
+8:Origin Pulse,3.0303030303%,2.27272727273
+9:Hex,3.0303030303%,2.27272727273
+10:Earth Power,3.0303030303%,2.27272727273
+11:Brave Bird,3.0303030303%,2.27272727273
+12:Dark Pulse,3.0303030303%,2.27272727273
+13:Flare Blitz,3.0303030303%,2.27272727273
+14:Eruption,3.0303030303%,2.27272727273
+15:Sludge Bomb,3.0303030303%,2.27272727273
+16:Rock Slide,3.0303030303%,2.27272727273
+17:Thunder,3.0303030303%,2.27272727273
+18:Fire Punch,3.0303030303%,2.27272727273
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Mienshao
+5:Amoonguss
+6:Cresselia
+7:Dialga
+8:Rayquaza
+9:Kyogre
+10:Salamence
+11:Hitmontop
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Talonflame
+6:Rayquaza
+7:Gengar
+8:Yveltal
+9:Landorus
+10:Kangaskhan

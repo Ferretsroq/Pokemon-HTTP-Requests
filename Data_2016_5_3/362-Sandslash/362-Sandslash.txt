@@ -1,0 +1,37 @@
+362:Sandslash|1
+ ---------- 
+Moves used:
+1:Stone Edge,100.0%,1.0
+2:Gyro Ball,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sand Veil,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Rayquaza
+3:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

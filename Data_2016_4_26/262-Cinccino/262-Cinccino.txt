@@ -1,0 +1,71 @@
+262:Cinccino|8
+ ---------- 
+Moves used:
+1:Bullet Seed,100.0%,8.0
+2:Protect,100.0%,8.0
+3:Rock Blast,87.5%,7.0
+4:Tail Slap,62.5%,5.0
+5:Sing,37.5%,3.0
+6:Helping Hand,12.5%,1.0
+
+ ---------- 
+Items used:
+1:King's Rock,50.0%,4.0
+2:Lum Berry,37.5%,3.0
+3:Razor Fang,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Jolly,87.5%,7.0
+2:Adamant,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Lucario
+3:Mewtwo
+4:Talonflame
+5:Dialga
+6:Zapdos
+7:Nidoking
+8:Yveltal
+9:Groudon
+10:Kyogre
+11:Salamence
+12:Ho-Oh
+13:Smeargle
+14:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Tail Slap,33.3333333333%,2.66666666667
+2:Rock Blast,33.3333333333%,2.66666666667
+3:Bullet Seed,33.3333333333%,2.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,1.33333333333
+2:Snarl,16.6666666667%,1.33333333333
+3:Gyro Ball,16.6666666667%,1.33333333333
+4:Water Spout,16.6666666667%,1.33333333333
+5:Eruption,16.6666666667%,1.33333333333
+6:Explosion,16.6666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Greninja
+2:Thundurus
+3:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Ferrothorn
+4:Groudon
+5:Kyogre
+6:Metagross

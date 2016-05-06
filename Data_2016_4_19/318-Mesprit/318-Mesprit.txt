@@ -1,0 +1,37 @@
+318:Mesprit|1
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Psychic,100.0%,1.0
+4:Fire Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Ho-Oh
+3:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

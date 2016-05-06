@@ -1,0 +1,86 @@
+185:Aron|23
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,23.0
+2:Protect,100.0%,23.0
+3:Swagger,52.1739130435%,12.0
+4:Toxic,43.4782608696%,10.0
+5:Sleep Talk,34.7826086957%,8.0
+6:Sandstorm,34.7826086957%,8.0
+7:Roar,17.3913043478%,4.0
+8:Stealth Rock,8.69565217391%,2.0
+9:Rock Tomb,4.34782608696%,1.0
+10:Rock Slide,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Berry Juice,78.2608695652%,18.0
+2:Shell Bell,21.7391304348%,5.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Impish,34.7826086957%,8.0
+2:Timid,30.4347826087%,7.0
+3:Naughty,13.0434782609%,3.0
+4:Gentle,4.34782608696%,1.0
+5:Jolly,4.34782608696%,1.0
+6:Hasty,4.34782608696%,1.0
+7:Lax,4.34782608696%,1.0
+8:Brave,4.34782608696%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Infernape
+4:Kyogre
+5:Groudon
+6:Smeargle
+7:Dialga
+8:Landorus
+9:Kangaskhan
+10:Talonflame
+11:Hawlucha
+12:Meowstic
+13:Ferrothorn
+14:Amoonguss
+15:Swoobat
+16:Liepard
+17:Giratina
+18:Mawile
+19:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,21.4285714286%,4.92857142857
+2:Dazzling Gleam,14.2857142857%,3.28571428571
+3:Hyper Voice,14.2857142857%,3.28571428571
+4:Power-Up Punch,7.14285714286%,1.64285714286
+5:Fake Out,7.14285714286%,1.64285714286
+6:Thief,7.14285714286%,1.64285714286
+7:Psychic,7.14285714286%,1.64285714286
+8:Blizzard,7.14285714286%,1.64285714286
+9:Flamethrower,7.14285714286%,1.64285714286
+10:Fire Punch,7.14285714286%,1.64285714286
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Salamence
+4:Kangaskhan
+5:Kyurem
+6:Purrloin
+7:Dialga
+8:Groudon
+9:Espeon

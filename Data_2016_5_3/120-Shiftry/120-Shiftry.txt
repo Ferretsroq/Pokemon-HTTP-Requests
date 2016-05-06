@@ -1,0 +1,124 @@
+120:Shiftry|149
+ ---------- 
+Moves used:
+1:Fake Out,98.6577181208%,147.0
+2:Leaf Blade,94.6308724832%,141.0
+3:Knock Off,85.9060402685%,128.0
+4:Tailwind,61.0738255034%,91.0
+5:Protect,28.8590604027%,43.0
+6:Foul Play,14.0939597315%,21.0
+7:Low Kick,6.04026845638%,9.0
+8:Quick Attack,4.02684563758%,6.0
+9:Leaf Storm,2.01342281879%,3.0
+10:Explosion,2.01342281879%,3.0
+11:Worry Seed,1.34228187919%,2.0
+12:Grass Knot,0.671140939597%,1.0
+13:Icy Wind,0.671140939597%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,64.4295302013%,96.0
+2:Life Orb,33.5570469799%,50.0
+3:Choice Scarf,1.34228187919%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,149.0
+
+ ---------- 
+Natures used:
+1:Adamant,85.9060402685%,128.0
+2:Jolly,11.4093959732%,17.0
+3:Naughty,1.34228187919%,2.0
+4:Modest,0.671140939597%,1.0
+5:Timid,0.671140939597%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Yveltal
+4:Mawile
+5:Kyogre
+6:Smeargle
+7:Bronzong
+8:Talonflame
+9:Kangaskhan
+10:Xerneas
+11:Landorus
+12:Giratina
+13:Tyranitar
+14:Ferrothorn
+15:Jellicent
+16:Palkia
+17:Togekiss
+18:Rayquaza
+19:Gengar
+20:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,70.5882352941%,105.176470588
+2:Leaf Blade,29.4117647059%,43.8235294118
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,16.0305343511%,23.8854961832
+2:Dazzling Gleam,13.7404580153%,20.4732824427
+3:Precipice Blades,6.10687022901%,9.09923664122
+4:Eruption,4.58015267176%,6.82442748092
+5:Extreme Speed,4.58015267176%,6.82442748092
+6:Ice Beam,4.58015267176%,6.82442748092
+7:Blizzard,3.81679389313%,5.68702290076
+8:Double-Edge,3.81679389313%,5.68702290076
+9:Dragon Ascent,3.0534351145%,4.54961832061
+10:Moonblast,3.0534351145%,4.54961832061
+11:Water Spout,3.0534351145%,4.54961832061
+12:Sludge Bomb,3.0534351145%,4.54961832061
+13:Fire Punch,3.0534351145%,4.54961832061
+14:Icicle Crash,2.29007633588%,3.41221374046
+15:Brave Bird,2.29007633588%,3.41221374046
+16:U-turn,2.29007633588%,3.41221374046
+17:Oblivion Wing,1.52671755725%,2.27480916031
+18:Play Rough,1.52671755725%,2.27480916031
+19:Sucker Punch,1.52671755725%,2.27480916031
+20:Fake Out,1.52671755725%,2.27480916031
+0:Other,12.213740458%,18.1984732824
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Cresselia
+2:Kyogre
+3:Slowking
+4:Crobat
+5:Mewtwo
+6:Xerneas
+7:Talonflame
+8:Whimsicott
+9:Rayquaza
+10:Smeargle
+11:Gengar
+12:Golduck
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Xerneas
+3:Groudon
+4:Kyogre
+5:Kangaskhan
+6:Kyurem
+7:Rayquaza
+8:Rayquaza
+9:Yveltal
+10:Talonflame
+11:Weavile
+12:Landorus
+13:Whimsicott
+14:Mawile
+15:Mewtwo
+16:Gengar
+17:Hydreigon
+18:Mienshao
+19:Ferrothorn
+20:Zoroark

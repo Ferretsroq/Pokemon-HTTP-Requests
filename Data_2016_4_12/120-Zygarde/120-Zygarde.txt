@@ -1,0 +1,123 @@
+120:Zygarde|65
+ ---------- 
+Moves used:
+1:Glare,90.7692307692%,59.0
+2:Protect,56.9230769231%,37.0
+3:Land's Wrath,53.8461538462%,35.0
+4:Rock Slide,44.6153846154%,29.0
+5:Haze,40.0%,26.0
+6:Draco Meteor,29.2307692308%,19.0
+7:Safeguard,21.5384615385%,14.0
+8:Earth Power,15.3846153846%,10.0
+9:Extreme Speed,15.3846153846%,10.0
+10:Dragon Tail,13.8461538462%,9.0
+11:Dragon Dance,7.69230769231%,5.0
+12:Swagger,7.69230769231%,5.0
+13:Outrage,3.07692307692%,2.0
+
+ ---------- 
+Items used:
+1:Yache Berry,50.7692307692%,33.0
+2:Haban Berry,40.0%,26.0
+3:Life Orb,3.07692307692%,2.0
+4:Sitrus Berry,3.07692307692%,2.0
+5:Focus Sash,1.53846153846%,1.0
+6:Lum Berry,1.53846153846%,1.0
+
+ ---------- 
+Abilities used:
+1:Aura Break,100.0%,65.0
+
+ ---------- 
+Natures used:
+1:Impish,41.5384615385%,27.0
+2:Timid,36.9230769231%,24.0
+3:Jolly,10.7692307692%,7.0
+4:Adamant,7.69230769231%,5.0
+5:Careful,3.07692307692%,2.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Giratina
+4:Mawile
+5:Breloom
+6:Ludicolo
+7:Gengar
+8:Groudon
+9:Thundurus
+10:Salamence
+11:Talonflame
+12:Landorus
+13:Whimsicott
+14:Smeargle
+15:Bronzong
+16:Swampert
+17:Dunsparce
+18:Mewtwo
+19:Raichu
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Land's Wrath,33.3333333333%,21.6666666667
+2:Rock Slide,29.1666666667%,18.9583333333
+3:Draco Meteor,20.8333333333%,13.5416666667
+4:Extreme Speed,16.6666666667%,10.8333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.4615384615%,8.75
+2:Water Spout,11.5384615385%,7.5
+3:Hyper Voice,9.61538461538%,6.25
+4:Ice Beam,9.61538461538%,6.25
+5:Origin Pulse,7.69230769231%,5.0
+6:Dazzling Gleam,7.69230769231%,5.0
+7:Moonblast,5.76923076923%,3.75
+8:Play Rough,3.84615384615%,2.5
+9:Return,3.84615384615%,2.5
+10:Double-Edge,3.84615384615%,2.5
+11:Dragon Ascent,1.92307692308%,1.25
+12:Scald,1.92307692308%,1.25
+13:Grass Knot,1.92307692308%,1.25
+14:Earth Power,1.92307692308%,1.25
+15:Dragon Pulse,1.92307692308%,1.25
+16:Eruption,1.92307692308%,1.25
+17:Frustration,1.92307692308%,1.25
+18:Quick Attack,1.92307692308%,1.25
+19:Blizzard,1.92307692308%,1.25
+20:Ice Punch,1.92307692308%,1.25
+0:Other,3.99680288865e-15%,2.59792187762e-15
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Crobat
+4:Xerneas
+5:Talonflame
+6:Thundurus
+7:Liepard
+8:Bronzong
+9:Kyogre
+10:Smeargle
+11:Mewtwo
+12:Gengar
+13:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Salamence
+6:Sylveon
+7:Mawile
+8:Kyurem
+9:Amoonguss
+10:Cresselia
+11:Dialga
+12:Rayquaza
+13:Metagross

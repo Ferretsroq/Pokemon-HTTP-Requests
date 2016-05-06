@@ -1,0 +1,110 @@
+148:Moltres|52
+ ---------- 
+Moves used:
+1:Hurricane,98.0769230769%,51.0
+2:Tailwind,92.3076923077%,48.0
+3:Flamethrower,65.3846153846%,34.0
+4:Safeguard,59.6153846154%,31.0
+5:Heat Wave,34.6153846154%,18.0
+6:Roost,32.6923076923%,17.0
+7:Hidden Power,7.69230769231%,4.0
+8:Protect,7.69230769231%,4.0
+9:Roar,1.92307692308%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,40.3846153846%,21.0
+2:Rocky Helmet,23.0769230769%,12.0
+3:Focus Sash,19.2307692308%,10.0
+4:Charti Berry,9.61538461538%,5.0
+5:Passho Berry,5.76923076923%,3.0
+6:Sitrus Berry,1.92307692308%,1.0
+
+ ---------- 
+Abilities used:
+1:Flame Body,65.3846153846%,34.0
+2:Pressure,34.6153846154%,18.0
+
+ ---------- 
+Natures used:
+1:Calm,55.7692307692%,29.0
+2:Timid,42.3076923077%,22.0
+3:Bold,1.92307692308%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Dialga
+3:Rayquaza
+4:Thundurus
+5:Salamence
+6:Kangaskhan
+7:Aegislash
+8:Metagross
+9:Ferrothorn
+10:Espeon
+11:Landorus
+12:Mawile
+13:Sunflora
+14:Yveltal
+15:Zekrom
+16:Rotom
+17:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flamethrower,44.4444444444%,23.1111111111
+2:Hurricane,33.3333333333%,17.3333333333
+3:Heat Wave,11.1111111111%,5.77777777778
+4:Hidden Power,11.1111111111%,5.77777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,19.512195122%,10.1463414634
+2:Water Spout,12.1951219512%,6.34146341463
+3:Rock Slide,9.75609756098%,5.07317073171
+4:Precipice Blades,7.31707317073%,3.80487804878
+5:Dazzling Gleam,7.31707317073%,3.80487804878
+6:Hyper Voice,7.31707317073%,3.80487804878
+7:Scald,4.87804878049%,2.53658536585
+8:Sucker Punch,4.87804878049%,2.53658536585
+9:Double-Edge,4.87804878049%,2.53658536585
+10:Dragon Ascent,2.43902439024%,1.26829268293
+11:Brave Bird,2.43902439024%,1.26829268293
+12:Feint,2.43902439024%,1.26829268293
+13:Rock Tomb,2.43902439024%,1.26829268293
+14:Eruption,2.43902439024%,1.26829268293
+15:Extreme Speed,2.43902439024%,1.26829268293
+16:Frustration,2.43902439024%,1.26829268293
+17:Return,2.43902439024%,1.26829268293
+18:Icy Wind,2.43902439024%,1.26829268293
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Kyurem
+3:Ferrothorn
+4:Cresselia
+5:Weavile
+6:Groudon
+7:Mawile
+8:Smeargle
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Salamence
+4:Xerneas
+5:Kangaskhan
+6:Yveltal
+7:Talonflame
+8:Landorus
+9:Cresselia
+10:Garchomp
+11:Empoleon
+12:Rayquaza
+13:Rayquaza
+14:Hitmontop
+15:Kangaskhan

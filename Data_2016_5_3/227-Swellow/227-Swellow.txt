@@ -1,0 +1,81 @@
+227:Swellow|19
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,19.0
+2:Facade,94.7368421053%,18.0
+3:Protect,94.7368421053%,18.0
+4:Tailwind,89.4736842105%,17.0
+5:Brave Bird,10.5263157895%,2.0
+6:Endeavor,5.26315789474%,1.0
+7:Quick Attack,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,84.2105263158%,16.0
+2:Toxic Orb,10.5263157895%,2.0
+3:Focus Sash,5.26315789474%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,94.7368421053%,18.0
+2:Scrappy,5.26315789474%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,94.7368421053%,18.0
+2:Adamant,5.26315789474%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Medicham
+4:Gengar
+5:Meowstic
+6:Talonflame
+7:Hydreigon
+8:Druddigon
+9:Weavile
+10:Rayquaza
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Facade,100.0%,19.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,11.7647058824%,2.23529411765
+2:Eruption,11.7647058824%,2.23529411765
+3:Double-Edge,11.7647058824%,2.23529411765
+4:Precipice Blades,5.88235294118%,1.11764705882
+5:Origin Pulse,5.88235294118%,1.11764705882
+6:Dazzling Gleam,5.88235294118%,1.11764705882
+7:Iron Head,5.88235294118%,1.11764705882
+8:Dark Pulse,5.88235294118%,1.11764705882
+9:Water Spout,5.88235294118%,1.11764705882
+10:Rock Slide,5.88235294118%,1.11764705882
+11:Thunderbolt,5.88235294118%,1.11764705882
+12:Blizzard,5.88235294118%,1.11764705882
+13:Ice Beam,5.88235294118%,1.11764705882
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Groudon
+3:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Kangaskhan
+4:Xerneas
+5:Greninja
+6:Kyurem
+7:Thundurus
+8:Hydreigon
+9:Cresselia
+10:Kyogre
+11:Kyogre
+12:Mawile

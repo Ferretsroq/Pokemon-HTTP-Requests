@@ -1,0 +1,37 @@
+295:Arbok|1
+ ---------- 
+Moves used:
+1:Gunk Shot,100.0%,1.0
+2:Switcheroo,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Glare,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Careful,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mienshao
+2:Rayquaza
+3:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

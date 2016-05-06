@@ -1,0 +1,81 @@
+175:Illumise|46
+ ---------- 
+Moves used:
+1:Sweet Scent,100.0%,46.0
+2:Encore,100.0%,46.0
+3:Protect,52.1739130435%,24.0
+4:Tailwind,50.0%,23.0
+5:Fake Tears,50.0%,23.0
+6:Thunder Wave,47.8260869565%,22.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,23.0
+2:Sitrus Berry,41.3043478261%,19.0
+3:Power Band,6.52173913043%,3.0
+4:Mental Herb,2.17391304348%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,46.0
+
+ ---------- 
+Natures used:
+1:Jolly,50.0%,23.0
+2:Bold,47.8260869565%,22.0
+3:Calm,2.17391304348%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mewtwo
+3:Kyurem
+4:Sableye
+5:Groudon
+6:Rhyperior
+7:Gengar
+8:Weavile
+9:Raichu
+10:Palkia
+11:Terrakion
+12:Togekiss
+13:Yveltal
+14:Liepard
+15:Metagross
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,9.2
+2:Origin Pulse,16.0%,7.36
+3:Precipice Blades,8.0%,3.68
+4:Extreme Speed,8.0%,3.68
+5:Dazzling Gleam,4.0%,1.84
+6:Moonblast,4.0%,1.84
+7:Draco Meteor,4.0%,1.84
+8:Feint,4.0%,1.84
+9:Eruption,4.0%,1.84
+10:Fake Out,4.0%,1.84
+11:Sludge Bomb,4.0%,1.84
+12:Thunderbolt,4.0%,1.84
+13:Ice Beam,4.0%,1.84
+14:Double-Edge,4.0%,1.84
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Kangaskhan
+6:Mienshao
+7:Magnezone
+8:Rayquaza
+9:Rayquaza
+10:Salamence
+11:Gengar

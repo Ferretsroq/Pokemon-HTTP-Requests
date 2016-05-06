@@ -1,0 +1,112 @@
+67:Jumpluff|207
+ ---------- 
+Moves used:
+1:Sleep Powder,98.5507246377%,204.0
+2:Rage Powder,93.7198067633%,194.0
+3:Protect,79.2270531401%,164.0
+4:Encore,73.9130434783%,153.0
+5:Helping Hand,28.0193236715%,58.0
+6:Worry Seed,16.4251207729%,34.0
+7:Grass Knot,3.86473429952%,8.0
+8:Seed Bomb,3.86473429952%,8.0
+9:Cotton Spore,2.4154589372%,5.0
+
+ ---------- 
+Items used:
+1:Focus Sash,65.2173913043%,135.0
+2:Mental Herb,15.4589371981%,32.0
+3:Rocky Helmet,12.5603864734%,26.0
+4:Wide Lens,6.76328502415%,14.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,98.5507246377%,204.0
+2:Leaf Guard,1.44927536232%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,78.7439613527%,163.0
+2:Bold,12.5603864734%,26.0
+3:Jolly,8.21256038647%,17.0
+4:Calm,0.48309178744%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyurem
+4:Xerneas
+5:Talonflame
+6:Kyogre
+7:Salamence
+8:Cresselia
+9:Rayquaza
+10:Ferrothorn
+11:Mienshao
+12:Yveltal
+13:Palkia
+14:Crobat
+15:Mawile
+16:Scizor
+17:Mewtwo
+18:Gengar
+19:Landorus
+20:Bisharp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seed Bomb,66.6666666667%,138.0
+2:Struggle,33.3333333333%,69.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.0344827586%,22.8413793103
+2:Hyper Voice,8.96551724138%,18.5586206897
+3:Double-Edge,8.27586206897%,17.1310344828
+4:Ice Beam,7.58620689655%,15.7034482759
+5:Eruption,6.20689655172%,12.8482758621
+6:Brave Bird,5.51724137931%,11.4206896552
+7:Dragon Ascent,4.13793103448%,8.56551724138
+8:Extreme Speed,3.44827586207%,7.13793103448
+9:Moonblast,2.75862068966%,5.71034482759
+10:Rock Slide,2.75862068966%,5.71034482759
+11:Precipice Blades,2.06896551724%,4.28275862069
+12:Hidden Power,2.06896551724%,4.28275862069
+13:Origin Pulse,1.37931034483%,2.85517241379
+14:Spacial Rend,1.37931034483%,2.85517241379
+15:Iron Head,1.37931034483%,2.85517241379
+16:Feint,1.37931034483%,2.85517241379
+17:Water Spout,1.37931034483%,2.85517241379
+18:Knock Off,1.37931034483%,2.85517241379
+19:Fake Out,1.37931034483%,2.85517241379
+20:Return,1.37931034483%,2.85517241379
+0:Other,20.0%,41.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Crobat
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Weavile
+9:Kyurem
+10:Mawile
+11:Yveltal
+12:Thundurus
+13:Ferrothorn
+14:Cresselia
+15:Palkia
+16:Dialga
+17:Rayquaza
+18:Zapdos
+19:Gengar
+20:Klefki

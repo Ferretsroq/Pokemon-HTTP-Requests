@@ -1,0 +1,165 @@
+102:Blaziken|223
+ ---------- 
+Moves used:
+1:Protect,95.067264574%,212.0
+2:Flare Blitz,48.8789237668%,109.0
+3:Hidden Power,46.1883408072%,103.0
+4:Superpower,44.3946188341%,99.0
+5:Low Kick,33.6322869955%,75.0
+6:Overheat,26.0089686099%,58.0
+7:Rock Slide,21.5246636771%,48.0
+8:High Jump Kick,15.2466367713%,34.0
+9:Swords Dance,11.2107623318%,25.0
+10:Feint,6.27802690583%,14.0
+11:Baton Pass,6.27802690583%,14.0
+12:Double Kick,6.27802690583%,14.0
+13:Fire Blast,5.82959641256%,13.0
+14:Knock Off,4.93273542601%,11.0
+15:Fire Punch,4.48430493274%,10.0
+16:Flamethrower,3.58744394619%,8.0
+17:Focus Blast,3.13901345291%,7.0
+18:Blaze Kick,3.13901345291%,7.0
+19:Poison Jab,2.24215246637%,5.0
+20:Rock Tomb,2.24215246637%,5.0
+0:Other,9.41704035874%,21.0
+
+ ---------- 
+Items used:
+1:Life Orb,36.3228699552%,81.0
+2:Blazikenite,34.5291479821%,77.0
+3:Focus Sash,16.5919282511%,37.0
+4:Expert Belt,5.38116591928%,12.0
+5:Wide Lens,3.13901345291%,7.0
+6:Charcoal,1.79372197309%,4.0
+7:Coba Berry,1.34529147982%,3.0
+8:Scope Lens,0.448430493274%,1.0
+9:Lum Berry,0.448430493274%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,96.8609865471%,216.0
+2:Blaze,3.13901345291%,7.0
+
+ ---------- 
+Natures used:
+1:Naive,37.668161435%,84.0
+2:Adamant,37.668161435%,84.0
+3:Hasty,6.7264573991%,15.0
+4:Jolly,5.82959641256%,13.0
+5:Rash,3.58744394619%,8.0
+6:Naughty,3.58744394619%,8.0
+7:Mild,2.24215246637%,5.0
+8:Impish,1.34529147982%,3.0
+9:Modest,0.896860986547%,2.0
+10:Lonely,0.448430493274%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Yveltal
+6:Salamence
+7:Landorus
+8:Thundurus
+9:Kangaskhan
+10:Weavile
+11:Crobat
+12:Gengar
+13:Amoonguss
+14:Talonflame
+15:Kyurem
+16:Dialga
+17:Hydreigon
+18:Mewtwo
+19:Raichu
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,18.691588785%,41.6822429907
+2:Low Kick,17.7570093458%,39.5981308411
+3:Hidden Power,14.0186915888%,31.261682243
+4:Superpower,13.0841121495%,29.1775700935
+5:Rock Slide,9.34579439252%,20.8411214953
+6:Overheat,6.54205607477%,14.5887850467
+7:High Jump Kick,4.67289719626%,10.4205607477
+8:Double Kick,3.73831775701%,8.33644859813
+9:Fire Blast,2.80373831776%,6.2523364486
+10:Fire Punch,2.80373831776%,6.2523364486
+11:Stone Edge,1.8691588785%,4.16822429907
+12:Feint,1.8691588785%,4.16822429907
+13:Rock Tomb,0.934579439252%,2.08411214953
+14:Blaze Kick,0.934579439252%,2.08411214953
+15:Heat Wave,0.934579439252%,2.08411214953
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.465408805%,32.2578616352
+2:Dazzling Gleam,10.0628930818%,22.4402515723
+3:Water Spout,7.54716981132%,16.8301886792
+4:Origin Pulse,6.91823899371%,15.427672956
+5:Brave Bird,6.2893081761%,14.0251572327
+6:Hyper Voice,3.77358490566%,8.41509433962
+7:Moonblast,3.14465408805%,7.01257861635
+8:Psystrike,3.14465408805%,7.01257861635
+9:Scald,3.14465408805%,7.01257861635
+10:Earth Power,3.14465408805%,7.01257861635
+11:Double-Edge,3.14465408805%,7.01257861635
+12:Extreme Speed,2.51572327044%,5.61006289308
+13:Rock Slide,2.51572327044%,5.61006289308
+14:Earthquake,2.51572327044%,5.61006289308
+15:Dragon Ascent,1.88679245283%,4.20754716981
+16:Play Rough,1.88679245283%,4.20754716981
+17:Eruption,1.88679245283%,4.20754716981
+18:Thunderbolt,1.88679245283%,4.20754716981
+19:Dragon Pulse,1.25786163522%,2.80503144654
+20:Gyro Ball,1.25786163522%,2.80503144654
+0:Other,11.320754717%,25.2452830189
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Salamence
+4:Crobat
+5:Thundurus
+6:Ferrothorn
+7:Dialga
+8:Xerneas
+9:Landorus
+10:Liepard
+11:Smeargle
+12:Whimsicott
+13:Groudon
+14:Talonflame
+15:Kyurem
+16:Amoonguss
+17:Weavile
+18:Bronzong
+19:Rayquaza
+20:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Kangaskhan
+6:Landorus
+7:Rayquaza
+8:Salamence
+9:Mawile
+10:Yveltal
+11:Thundurus
+12:Ferrothorn
+13:Mewtwo
+14:Kyurem
+15:Terrakion
+16:Dialga
+17:Rayquaza
+18:Mewtwo
+19:Ditto
+20:Sylveon

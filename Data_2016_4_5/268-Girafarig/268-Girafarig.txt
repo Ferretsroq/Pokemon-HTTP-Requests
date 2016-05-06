@@ -1,0 +1,42 @@
+268:Girafarig|2
+ ---------- 
+Moves used:
+1:Bulldoze,100.0%,2.0
+2:Gravity,100.0%,2.0
+3:Skill Swap,100.0%,2.0
+4:Thunder Wave,100.0%,2.0
+
+ ---------- 
+Items used:
+1:Mental Herb,50.0%,1.0
+2:Sitrus Berry,50.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Zekrom
+4:Mawile
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

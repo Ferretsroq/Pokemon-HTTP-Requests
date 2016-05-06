@@ -1,0 +1,163 @@
+21:Liepard|7771
+ ---------- 
+Moves used:
+1:Fake Out,92.5363531077%,7191.0
+2:Foul Play,87.8265345515%,6825.0
+3:Encore,68.3695792047%,5313.0
+4:Taunt,40.9599794106%,3183.0
+5:Thunder Wave,37.3568395316%,2903.0
+6:Fake Tears,22.7512546648%,1768.0
+7:Swagger,19.4312186334%,1510.0
+8:Protect,11.259812122%,875.0
+9:Role Play,6.79449234333%,528.0
+10:Assist,6.2926264316%,489.0
+11:Knock Off,1.63428130228%,127.0
+12:Charm,0.91365332647%,71.0
+13:Snatch,0.772101402651%,60.0
+14:Snarl,0.488997555012%,38.0
+15:Gunk Shot,0.424655771458%,33.0
+16:Night Slash,0.373182344615%,29.0
+17:Yawn,0.373182344615%,29.0
+18:U-turn,0.347445631193%,27.0
+19:Sucker Punch,0.270235490928%,21.0
+20:Thief,0.193025350663%,15.0
+0:Other,0.386050701325%,30.0
+
+ ---------- 
+Items used:
+1:Focus Sash,88.5214258139%,6879.0
+2:Wide Lens,5.91944408699%,460.0
+3:Mental Herb,2.43211941835%,189.0
+4:Eject Button,0.952258396603%,74.0
+5:Black Glasses,0.694891262386%,54.0
+6:Leftovers,0.60481276541%,47.0
+7:Lum Berry,0.347445631193%,27.0
+8:Sitrus Berry,0.128683567108%,10.0
+9:Safety Goggles,0.0514734268434%,4.0
+10:Quick Claw,0.0514734268434%,4.0
+11:Chilan Berry,0.0514734268434%,4.0
+12:Rocky Helmet,0.0386050701325%,3.0
+13:Power Bracer,0.0128683567108%,1.0
+14:Choice Scarf,0.0128683567108%,1.0
+15:Muscle Band,0.0128683567108%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,7771.0
+
+ ---------- 
+Natures used:
+1:Jolly,69.6564148758%,5413.0
+2:Timid,25.6981083516%,1997.0
+3:Bold,3.34577274482%,260.0
+4:Impish,0.887916613049%,69.0
+5:Naive,0.270235490928%,21.0
+6:Hasty,0.0643417835542%,5.0
+7:Relaxed,0.0386050701325%,3.0
+8:Careful,0.0128683567108%,1.0
+9:Adamant,0.0128683567108%,1.0
+10:Brave,0.0128683567108%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Yveltal
+5:Salamence
+6:Mawile
+7:Rayquaza
+8:Talonflame
+9:Kangaskhan
+10:Gengar
+11:Smeargle
+12:Ditto
+13:Cresselia
+14:Ferrothorn
+15:Lucario
+16:Thundurus
+17:Landorus
+18:Amoonguss
+19:Mewtwo
+20:Kyurem
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,93.1963146704%,7242.28561304
+2:Fake Out,4.46491849752%,346.968816442
+3:Knock Off,1.13394755493%,88.1190644933
+4:Assist,0.49610205528%,38.5520907158
+5:Snarl,0.212615166549%,16.5223245925
+6:Gunk Shot,0.212615166549%,16.5223245925
+7:Night Slash,0.212615166549%,16.5223245925
+8:Sucker Punch,0.0708717221828%,5.50744153083
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.8414737198%,1075.62092276
+2:Precipice Blades,7.70660807842%,598.880513774
+3:Water Spout,6.91228663174%,537.153794152
+4:Hyper Voice,6.54047659287%,508.260436032
+5:Double-Edge,5.40814601994%,420.26702721
+6:Eruption,5.34054419469%,415.01368937
+7:Origin Pulse,4.90113233057%,380.866993409
+8:Brave Bird,4.19131316546%,325.706946088
+9:Extreme Speed,4.02230860233%,312.573601487
+10:Ice Beam,3.32938989353%,258.726888626
+11:Thunderbolt,2.92377894203%,227.206861585
+12:Rock Slide,2.83927666047%,220.640189285
+13:Low Kick,2.31536251479%,179.926821024
+14:Gyro Ball,2.12945749535%,165.480141964
+15:Fake Out,1.87595065067%,145.780125063
+16:Dragon Pulse,1.18303194186%,91.9334122021
+17:Return,1.16613148555%,90.6200777421
+18:Sludge Bomb,1.14923102924%,89.3067432821
+19:Iron Head,1.13233057293%,87.993408822
+20:Sucker Punch,1.13233057293%,87.993408822
+0:Other,17.5933750211%,1367.18117289
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Thundurus
+6:Rayquaza
+7:Smeargle
+8:Landorus
+9:Salamence
+10:Crobat
+11:Xerneas
+12:Bronzong
+13:Rayquaza
+14:Gengar
+15:Yveltal
+16:Liepard
+17:Whimsicott
+18:Dialga
+19:Ferrothorn
+20:Cresselia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Thundurus
+9:Landorus
+10:Mawile
+11:Ferrothorn
+12:Rayquaza
+13:Dialga
+14:Yveltal
+15:Cresselia
+16:Kyurem
+17:Gengar
+18:Kyogre
+19:Weavile
+20:Smeargle

@@ -1,0 +1,132 @@
+95:Milotic|88
+ ---------- 
+Moves used:
+1:Scald,62.5%,55.0
+2:Ice Beam,62.5%,55.0
+3:Recover,61.3636363636%,54.0
+4:Icy Wind,38.6363636364%,34.0
+5:Protect,37.5%,33.0
+6:Swagger,35.2272727273%,31.0
+7:Hydro Pump,35.2272727273%,31.0
+8:Dragon Pulse,27.2727272727%,24.0
+9:Mirror Coat,26.1363636364%,23.0
+10:Psych Up,5.68181818182%,5.0
+11:Haze,2.27272727273%,2.0
+12:Toxic,2.27272727273%,2.0
+13:Surf,2.27272727273%,2.0
+14:Magic Coat,1.13636363636%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,35.2272727273%,31.0
+2:Choice Scarf,27.2727272727%,24.0
+3:Rocky Helmet,15.9090909091%,14.0
+4:Leftovers,11.3636363636%,10.0
+5:Assault Vest,3.40909090909%,3.0
+6:Mystic Water,3.40909090909%,3.0
+7:Sitrus Berry,2.27272727273%,2.0
+8:Maranga Berry,1.13636363636%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,62.5%,55.0
+2:Marvel Scale,37.5%,33.0
+
+ ---------- 
+Natures used:
+1:Modest,40.9090909091%,36.0
+2:Calm,36.3636363636%,32.0
+3:Bold,22.7272727273%,20.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Raichu
+3:Gengar
+4:Politoed
+5:Rayquaza
+6:Kangaskhan
+7:Talonflame
+8:Clefable
+9:Landorus
+10:Banette
+11:Kyurem
+12:Yveltal
+13:Bisharp
+14:Ho-Oh
+15:Mewtwo
+16:Aegislash
+17:Meowstic
+18:Amoonguss
+19:Liepard
+20:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,33.3333333333%,29.3333333333
+2:Ice Beam,30.5555555556%,26.8888888889
+3:Icy Wind,19.4444444444%,17.1111111111
+4:Mirror Coat,8.33333333333%,7.33333333333
+5:Dragon Pulse,5.55555555556%,4.88888888889
+6:Surf,2.77777777778%,2.44444444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.9189189189%,16.6486486486
+2:Precipice Blades,8.10810810811%,7.13513513514
+3:Moonblast,8.10810810811%,7.13513513514
+4:Dragon Ascent,5.40540540541%,4.75675675676
+5:Play Rough,5.40540540541%,4.75675675676
+6:Return,5.40540540541%,4.75675675676
+7:Earthquake,5.40540540541%,4.75675675676
+8:Thunder,5.40540540541%,4.75675675676
+9:Thunderbolt,5.40540540541%,4.75675675676
+10:Double-Edge,5.40540540541%,4.75675675676
+11:Oblivion Wing,2.7027027027%,2.37837837838
+12:Snarl,2.7027027027%,2.37837837838
+13:Psyshock,2.7027027027%,2.37837837838
+14:Brave Bird,2.7027027027%,2.37837837838
+15:Sucker Punch,2.7027027027%,2.37837837838
+16:Eruption,2.7027027027%,2.37837837838
+17:Knock Off,2.7027027027%,2.37837837838
+18:Extreme Speed,2.7027027027%,2.37837837838
+19:Rock Slide,2.7027027027%,2.37837837838
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Smeargle
+4:Rayquaza
+5:Talonflame
+6:Liepard
+7:Ho-Oh
+8:Kangaskhan
+9:Yveltal
+10:Xerneas
+11:Landorus
+12:Thundurus
+13:Cresselia
+14:Dialga
+15:Kyogre
+16:Kyogre
+17:Mawile
+18:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Yveltal
+4:Mawile
+5:Landorus
+6:Rayquaza
+7:Kyogre
+8:Kangaskhan
+9:Talonflame
+10:Thundurus
+11:Rotom
+12:Lopunny
+13:Rayquaza
+14:Salamence
+15:Lugia

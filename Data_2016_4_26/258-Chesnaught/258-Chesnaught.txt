@@ -1,0 +1,60 @@
+258:Chesnaught|8
+ ---------- 
+Moves used:
+1:Spiky Shield,100.0%,8.0
+2:Wood Hammer,100.0%,8.0
+3:Quick Guard,87.5%,7.0
+4:Low Kick,87.5%,7.0
+5:Superpower,12.5%,1.0
+6:Leech Seed,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,87.5%,7.0
+2:Leftovers,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Bulletproof,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Swampert
+3:Latias
+4:Rayquaza
+5:Metagross
+6:Xerneas
+7:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,66.6666666667%,5.33333333333
+2:Wood Hammer,16.6666666667%,1.33333333333
+3:Superpower,16.6666666667%,1.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Play Rough,20.0%,1.6
+2:Spacial Rend,20.0%,1.6
+3:Water Spout,20.0%,1.6
+4:Ice Beam,20.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Yveltal
+3:Groudon
+4:Kyogre
+5:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Palkia
+2:Gastrodon
+3:Kyogre
+4:Mawile

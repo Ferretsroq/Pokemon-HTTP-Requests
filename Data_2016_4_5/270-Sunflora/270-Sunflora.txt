@@ -1,0 +1,43 @@
+270:Sunflora|1
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,1.0
+2:Earth Power,100.0%,1.0
+3:Hidden Power,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Solar Power,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Togekiss
+3:Groudon
+4:Kyogre
+5:Espeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,0.5
+2:Ice Beam,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Cresselia

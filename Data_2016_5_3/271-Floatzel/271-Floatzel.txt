@@ -1,0 +1,70 @@
+271:Floatzel|9
+ ---------- 
+Moves used:
+1:Soak,100.0%,9.0
+2:Protect,88.8888888889%,8.0
+3:Waterfall,55.5555555556%,5.0
+4:Ice Punch,55.5555555556%,5.0
+5:Taunt,44.4444444444%,4.0
+6:Icy Wind,44.4444444444%,4.0
+7:Aqua Jet,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:White Herb,55.5555555556%,5.0
+2:Lum Berry,22.2222222222%,2.0
+3:Focus Sash,11.1111111111%,1.0
+4:Chilan Berry,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Jolly,55.5555555556%,5.0
+2:Timid,33.3333333333%,3.0
+3:Naive,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Shedinja
+2:Giratina
+3:Groudon
+4:Amoonguss
+5:Smeargle
+6:Rayquaza
+7:Zekrom
+8:Cherrim
+9:Sceptile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Punch,100.0%,9.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,22.2222222222%,2.0
+2:Precipice Blades,11.1111111111%,1.0
+3:U-turn,11.1111111111%,1.0
+4:Hyper Voice,11.1111111111%,1.0
+5:Icy Wind,11.1111111111%,1.0
+6:Rock Slide,11.1111111111%,1.0
+7:High Jump Kick,11.1111111111%,1.0
+8:Thunderbolt,11.1111111111%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyurem
+3:Landorus
+4:Thundurus
+5:Mienshao
+6:Groudon
+7:Salamence
+8:Mawile

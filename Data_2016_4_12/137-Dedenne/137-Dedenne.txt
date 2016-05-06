@@ -1,0 +1,94 @@
+137:Dedenne|49
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,49.0
+2:Super Fang,77.5510204082%,38.0
+3:Parabolic Charge,75.5102040816%,37.0
+4:Protect,51.0204081633%,25.0
+5:Helping Hand,34.693877551%,17.0
+6:Charm,22.4489795918%,11.0
+7:Eerie Impulse,14.2857142857%,7.0
+8:Swagger,14.2857142857%,7.0
+9:Discharge,10.2040816327%,5.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,49.0
+
+ ---------- 
+Abilities used:
+1:Cheek Pouch,100.0%,49.0
+
+ ---------- 
+Natures used:
+1:Timid,57.1428571429%,28.0
+2:Jolly,42.8571428571%,21.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Ferrothorn
+6:Landorus
+7:Sceptile
+8:Mawile
+9:Gyarados
+10:Metagross
+11:Xerneas
+12:Mienshao
+13:Liepard
+14:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Parabolic Charge,71.4285714286%,35.0
+2:Nuzzle,28.5714285714%,14.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.7894736842%,7.73684210526
+2:Origin Pulse,10.5263157895%,5.15789473684
+3:Water Spout,10.5263157895%,5.15789473684
+4:Dazzling Gleam,7.89473684211%,3.86842105263
+5:Moonblast,7.89473684211%,3.86842105263
+6:Double-Edge,7.89473684211%,3.86842105263
+7:Flare Blitz,5.26315789474%,2.57894736842
+8:Sucker Punch,5.26315789474%,2.57894736842
+9:Earthquake,5.26315789474%,2.57894736842
+10:Icicle Crash,2.63157894737%,1.28947368421
+11:Scald,2.63157894737%,1.28947368421
+12:Shadow Force,2.63157894737%,1.28947368421
+13:Eruption,2.63157894737%,1.28947368421
+14:Extreme Speed,2.63157894737%,1.28947368421
+15:Sacred Fire,2.63157894737%,1.28947368421
+16:Frustration,2.63157894737%,1.28947368421
+17:Sludge Bomb,2.63157894737%,1.28947368421
+18:Flamethrower,2.63157894737%,1.28947368421
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Klefki
+4:Talonflame
+5:Amoonguss
+6:Sableye
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Yveltal
+6:Talonflame
+7:Landorus
+8:Terrakion
+9:Giratina
+10:Dialga
+11:Weavile
+12:Rayquaza
+13:Ho-Oh
+14:Gengar

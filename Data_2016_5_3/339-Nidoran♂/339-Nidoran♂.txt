@@ -1,0 +1,42 @@
+339:Nidoran♂|1
+ ---------- 
+Moves used:
+1:Sucker Punch,100.0%,1.0
+2:Helping Hand,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Counter,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Poison Point,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Landorus
+2:Groudon
+3:Kyogre
+4:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Freeze-Dry,50.0%,0.5
+2:Ice Beam,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Lapras

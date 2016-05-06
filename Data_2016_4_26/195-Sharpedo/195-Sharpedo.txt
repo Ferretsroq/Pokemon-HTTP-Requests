@@ -1,0 +1,101 @@
+195:Sharpedo|31
+ ---------- 
+Moves used:
+1:Protect,100.0%,31.0
+2:Crunch,90.3225806452%,28.0
+3:Destiny Bond,80.6451612903%,25.0
+4:Ice Fang,70.9677419355%,22.0
+5:Aqua Jet,9.67741935484%,3.0
+6:Feint,9.67741935484%,3.0
+7:Taunt,9.67741935484%,3.0
+8:Super Fang,9.67741935484%,3.0
+9:Waterfall,9.67741935484%,3.0
+10:Screech,9.67741935484%,3.0
+
+ ---------- 
+Items used:
+1:Sharpedonite,77.4193548387%,24.0
+2:Focus Sash,12.9032258065%,4.0
+3:Lum Berry,6.45161290323%,2.0
+4:Mental Herb,3.22580645161%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,31.0
+
+ ---------- 
+Natures used:
+1:Jolly,77.4193548387%,24.0
+2:Adamant,22.5806451613%,7.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Toxicroak
+3:Marowak
+4:Lugia
+5:Rayquaza
+6:Groudon
+7:Yveltal
+8:Zoroark
+9:Kyogre
+10:Kangaskhan
+11:Meowstic
+12:Darmanitan
+13:Mewtwo
+14:Sylveon
+15:Greninja
+16:Landorus
+17:Abomasnow
+18:Garchomp
+19:Salamence
+20:Camerupt
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Crunch,46.6666666667%,14.4666666667
+2:Ice Fang,26.6666666667%,8.26666666667
+3:Destiny Bond,20.0%,6.2
+4:Feint,6.66666666667%,2.06666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,9.52380952381%,2.95238095238
+2:Precipice Blades,9.52380952381%,2.95238095238
+3:Brave Bird,9.52380952381%,2.95238095238
+4:Water Spout,9.52380952381%,2.95238095238
+5:Eruption,9.52380952381%,2.95238095238
+6:Extreme Speed,9.52380952381%,2.95238095238
+7:Rock Slide,9.52380952381%,2.95238095238
+8:Earthquake,9.52380952381%,2.95238095238
+9:Dazzling Gleam,4.7619047619%,1.47619047619
+10:Power Whip,4.7619047619%,1.47619047619
+11:Earth Power,4.7619047619%,1.47619047619
+12:Thunder,4.7619047619%,1.47619047619
+13:Thunderbolt,4.7619047619%,1.47619047619
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Landorus
+3:Cresselia
+4:Talonflame
+5:Thundurus
+6:Amoonguss
+7:Rayquaza
+8:Salamence
+9:Smeargle
+10:Mewtwo
+11:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Kyogre
+4:Xerneas
+5:Talonflame
+6:Landorus
+7:Thundurus
+8:Ferrothorn
+9:Ho-Oh

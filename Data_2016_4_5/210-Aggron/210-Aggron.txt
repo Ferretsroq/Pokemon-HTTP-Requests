@@ -1,0 +1,66 @@
+210:Aggron|8
+ ---------- 
+Moves used:
+1:Iron Head,87.5%,7.0
+2:Protect,75.0%,6.0
+3:Head Smash,62.5%,5.0
+4:Double-Edge,62.5%,5.0
+5:Stealth Rock,25.0%,2.0
+6:Thunder Wave,25.0%,2.0
+7:Heavy Slam,12.5%,1.0
+8:Metal Burst,12.5%,1.0
+9:Rock Slide,12.5%,1.0
+10:Roar,12.5%,1.0
+11:Fire Punch,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,62.5%,5.0
+2:Aggronite,37.5%,3.0
+
+ ---------- 
+Abilities used:
+1:Rock Head,87.5%,7.0
+2:Sturdy,12.5%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,62.5%,5.0
+2:Adamant,25.0%,2.0
+3:Sassy,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Cresselia
+4:Whimsicott
+5:Kyurem
+6:Rayquaza
+7:Crobat
+8:Gyarados
+9:Vileplume
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Head Smash,50.0%,4.0
+2:Rock Slide,50.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,2.0
+2:Flash Cannon,25.0%,2.0
+3:Sucker Punch,25.0%,2.0
+4:Water Spout,25.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Aegislash
+2:Groudon
+3:Kyogre
+4:Kangaskhan

@@ -1,0 +1,79 @@
+221:Swellow|18
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,18.0
+2:Facade,94.4444444444%,17.0
+3:Protect,94.4444444444%,17.0
+4:Tailwind,88.8888888889%,16.0
+5:Brave Bird,11.1111111111%,2.0
+6:Endeavor,5.55555555556%,1.0
+7:Quick Attack,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Flame Orb,83.3333333333%,15.0
+2:Toxic Orb,11.1111111111%,2.0
+3:Focus Sash,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Guts,94.4444444444%,17.0
+2:Scrappy,5.55555555556%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,94.4444444444%,17.0
+2:Adamant,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Medicham
+4:Gengar
+5:Meowstic
+6:Talonflame
+7:Hydreigon
+8:Druddigon
+9:Weavile
+10:Rayquaza
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Facade,100.0%,18.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,12.5%,2.25
+2:Eruption,12.5%,2.25
+3:Double-Edge,12.5%,2.25
+4:Precipice Blades,6.25%,1.125
+5:Dazzling Gleam,6.25%,1.125
+6:Iron Head,6.25%,1.125
+7:Brave Bird,6.25%,1.125
+8:Dark Pulse,6.25%,1.125
+9:Water Spout,6.25%,1.125
+10:Rock Slide,6.25%,1.125
+11:Thunderbolt,6.25%,1.125
+12:Blizzard,6.25%,1.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Groudon
+3:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Talonflame
+6:Greninja
+7:Kyurem
+8:Thundurus
+9:Hydreigon
+10:Kyogre
+11:Mawile

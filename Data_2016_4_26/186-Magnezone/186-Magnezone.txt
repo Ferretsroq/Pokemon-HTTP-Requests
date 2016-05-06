@@ -1,0 +1,105 @@
+186:Magnezone|37
+ ---------- 
+Moves used:
+1:Flash Cannon,100.0%,37.0
+2:Thunderbolt,100.0%,37.0
+3:Volt Switch,75.6756756757%,28.0
+4:Hidden Power,72.972972973%,27.0
+5:Protect,18.9189189189%,7.0
+6:Magic Coat,10.8108108108%,4.0
+7:Thunder,10.8108108108%,4.0
+8:Psych Up,5.40540540541%,2.0
+9:Charge Beam,2.7027027027%,1.0
+10:Gravity,2.7027027027%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,62.1621621622%,23.0
+2:Custap Berry,16.2162162162%,6.0
+3:Assault Vest,13.5135135135%,5.0
+4:Choice Specs,8.10810810811%,3.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,97.2972972973%,36.0
+2:Analytic,2.7027027027%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,81.0810810811%,30.0
+2:Quiet,10.8108108108%,4.0
+3:Timid,8.10810810811%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Arcanine
+4:Amoonguss
+5:Rayquaza
+6:Xerneas
+7:Palkia
+8:Dusknoir
+9:Ho-Oh
+10:Togekiss
+11:Groudon
+12:Mienshao
+13:Seismitoad
+14:Cresselia
+15:Breloom
+16:Kangaskhan
+17:Yveltal
+18:Musharna
+19:Dialga
+20:Hariyama
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,47.8260869565%,17.6956521739
+2:Flash Cannon,26.0869565217%,9.65217391304
+3:Volt Switch,13.0434782609%,4.82608695652
+4:Hidden Power,13.0434782609%,4.82608695652
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.6363636364%,5.04545454545
+2:Low Kick,13.6363636364%,5.04545454545
+3:Origin Pulse,9.09090909091%,3.36363636364
+4:Earth Power,9.09090909091%,3.36363636364
+5:Water Spout,9.09090909091%,3.36363636364
+6:Fake Out,9.09090909091%,3.36363636364
+7:Dazzling Gleam,4.54545454545%,1.68181818182
+8:Moonblast,4.54545454545%,1.68181818182
+9:Aura Sphere,4.54545454545%,1.68181818182
+10:Sucker Punch,4.54545454545%,1.68181818182
+11:Hyper Voice,4.54545454545%,1.68181818182
+12:Superpower,4.54545454545%,1.68181818182
+13:Flamethrower,4.54545454545%,1.68181818182
+14:Fire Punch,4.54545454545%,1.68181818182
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Crobat
+3:Talonflame
+4:Salamence
+5:Xerneas
+6:Thundurus
+7:Amoonguss
+8:Rayquaza
+9:Illumise
+10:Gardevoir
+11:Smeargle
+12:Scizor
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Xerneas
+5:Kyurem
+6:Landorus
+7:Dialga
+8:Salamence
+9:Mawile

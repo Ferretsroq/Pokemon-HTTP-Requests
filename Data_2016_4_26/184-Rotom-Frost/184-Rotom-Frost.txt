@@ -1,0 +1,94 @@
+184:Rotom-Frost|38
+ ---------- 
+Moves used:
+1:Thunder,100.0%,38.0
+2:Blizzard,100.0%,38.0
+3:Dark Pulse,81.5789473684%,31.0
+4:Volt Switch,73.6842105263%,28.0
+5:Discharge,23.6842105263%,9.0
+6:Swagger,13.1578947368%,5.0
+7:Trick,5.26315789474%,2.0
+8:Will-O-Wisp,2.63157894737%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,92.1052631579%,35.0
+2:Choice Specs,7.89473684211%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,38.0
+
+ ---------- 
+Natures used:
+1:Modest,89.4736842105%,34.0
+2:Quiet,5.26315789474%,2.0
+3:Timid,5.26315789474%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Mewtwo
+4:Gengar
+5:Garchomp
+6:Xerneas
+7:Meowstic
+8:Rayquaza
+9:Kangaskhan
+10:Amoonguss
+11:Ambipom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,84.2105263158%,32.0
+2:Volt Switch,5.26315789474%,2.0
+3:Discharge,5.26315789474%,2.0
+4:Thunder,5.26315789474%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.2857142857%,5.42857142857
+2:Water Spout,10.7142857143%,4.07142857143
+3:Eruption,10.7142857143%,4.07142857143
+4:Origin Pulse,7.14285714286%,2.71428571429
+5:Scald,7.14285714286%,2.71428571429
+6:Sucker Punch,7.14285714286%,2.71428571429
+7:Extreme Speed,7.14285714286%,2.71428571429
+8:Flamethrower,7.14285714286%,2.71428571429
+9:Power-Up Punch,3.57142857143%,1.35714285714
+10:Dazzling Gleam,3.57142857143%,1.35714285714
+11:Iron Head,3.57142857143%,1.35714285714
+12:Dragon Pulse,3.57142857143%,1.35714285714
+13:Overheat,3.57142857143%,1.35714285714
+14:Return,3.57142857143%,1.35714285714
+15:Double-Edge,3.57142857143%,1.35714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Landorus
+3:Yveltal
+4:Talonflame
+5:Zekrom
+6:Whimsicott
+7:Liepard
+8:Weavile
+9:Rayquaza
+10:Groudon
+11:Kyogre
+12:Crobat
+13:Zapdos
+14:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Yveltal
+6:Xerneas
+7:Heatran
+8:Mawile
+9:Sceptile

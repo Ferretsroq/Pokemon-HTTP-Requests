@@ -1,0 +1,39 @@
+253:Lunatone|1
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Earth Power,100.0%,1.0
+4:Skill Swap,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Chesto Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Groudon
+3:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Flash Cannon,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Dialga

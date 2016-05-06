@@ -1,0 +1,126 @@
+145:Darmanitan|89
+ ---------- 
+Moves used:
+1:Flare Blitz,100.0%,89.0
+2:Rock Slide,76.404494382%,68.0
+3:Earthquake,57.3033707865%,51.0
+4:Superpower,49.4382022472%,44.0
+5:Protect,49.4382022472%,44.0
+6:U-turn,22.4719101124%,20.0
+7:Sleep Talk,17.9775280899%,16.0
+8:Fire Punch,17.9775280899%,16.0
+9:Taunt,4.49438202247%,4.0
+10:Encore,4.49438202247%,4.0
+
+ ---------- 
+Items used:
+1:Life Orb,53.9325842697%,48.0
+2:Choice Band,23.595505618%,21.0
+3:Choice Scarf,22.4719101124%,20.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,89.0
+
+ ---------- 
+Natures used:
+1:Jolly,66.2921348315%,59.0
+2:Adamant,23.595505618%,21.0
+3:Brave,10.1123595506%,9.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Crobat
+4:Groudon
+5:Kangaskhan
+6:Raichu
+7:Cresselia
+8:Liepard
+9:Weavile
+10:Kyogre
+11:Landorus
+12:Murkrow
+13:Palkia
+14:Mienshao
+15:Hariyama
+16:Slowbro
+17:Zygarde
+18:Talonflame
+19:Musharna
+20:Breloom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,54.0983606557%,48.1475409836
+2:Rock Slide,22.9508196721%,20.4262295082
+3:Earthquake,14.7540983607%,13.131147541
+4:Superpower,3.27868852459%,2.91803278689
+5:Fire Punch,3.27868852459%,2.91803278689
+6:U-turn,1.6393442623%,1.45901639344
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,13.8461538462%,12.3230769231
+2:Origin Pulse,10.7692307692%,9.58461538462
+3:Precipice Blades,9.23076923077%,8.21538461538
+4:Earth Power,9.23076923077%,8.21538461538
+5:Dazzling Gleam,7.69230769231%,6.84615384615
+6:Dragon Ascent,6.15384615385%,5.47692307692
+7:Hyper Voice,6.15384615385%,5.47692307692
+8:Brave Bird,4.61538461538%,4.10769230769
+9:Double-Edge,4.61538461538%,4.10769230769
+10:Moonblast,3.07692307692%,2.73846153846
+11:Hidden Power,3.07692307692%,2.73846153846
+12:Wild Charge,1.53846153846%,1.36923076923
+13:Scald,1.53846153846%,1.36923076923
+14:Gyro Ball,1.53846153846%,1.36923076923
+15:Knock Off,1.53846153846%,1.36923076923
+16:Extreme Speed,1.53846153846%,1.36923076923
+17:Rock Slide,1.53846153846%,1.36923076923
+18:Explosion,1.53846153846%,1.36923076923
+19:High Jump Kick,1.53846153846%,1.36923076923
+20:Earthquake,1.53846153846%,1.36923076923
+0:Other,1.53846153846%,1.36923076923
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Crobat
+4:Ferrothorn
+5:Meowstic
+6:Talonflame
+7:Smeargle
+8:Amoonguss
+9:Rayquaza
+10:Mawile
+11:Yveltal
+12:Landorus
+13:Thundurus
+14:Weavile
+15:Bronzong
+16:Groudon
+17:Kyogre
+18:Kyogre
+19:Salamence
+20:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Rayquaza
+5:Salamence
+6:Talonflame
+7:Kyurem
+8:Landorus
+9:Thundurus
+10:Mienshao
+11:Ferrothorn
+12:Weavile
+13:Manectric
+14:Smeargle
+15:Kangaskhan

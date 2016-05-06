@@ -1,0 +1,42 @@
+326:Haxorus|1
+ ---------- 
+Moves used:
+1:Dual Chop,100.0%,1.0
+2:Poison Jab,100.0%,1.0
+3:Dragon Dance,100.0%,1.0
+4:Superpower,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Smeargle
+3:Gyarados
+4:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,0.5
+2:Ice Beam,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre

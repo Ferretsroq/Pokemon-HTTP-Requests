@@ -1,0 +1,39 @@
+275:Reuniclus|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Focus Blast,100.0%,1.0
+3:Shadow Ball,100.0%,1.0
+4:Psychic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Cresselia
+2:Togekiss
+3:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas

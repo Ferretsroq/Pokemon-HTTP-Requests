@@ -1,0 +1,72 @@
+171:Blastoise|19
+ ---------- 
+Moves used:
+1:Dragon Pulse,100.0%,19.0
+2:Aura Sphere,100.0%,19.0
+3:Water Spout,84.2105263158%,16.0
+4:Protect,84.2105263158%,16.0
+5:Water Pulse,15.7894736842%,3.0
+6:Fake Out,15.7894736842%,3.0
+
+ ---------- 
+Items used:
+1:Blastoisinite,100.0%,19.0
+
+ ---------- 
+Abilities used:
+1:Torrent,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Modest,84.2105263158%,16.0
+2:Quiet,15.7894736842%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Crobat
+3:Ditto
+4:Togekiss
+5:Pachirisu
+6:Rayquaza
+7:Groudon
+8:Yveltal
+9:Liepard
+10:Porygon2
+11:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aura Sphere,55.5555555556%,10.5555555556
+2:Dragon Pulse,22.2222222222%,4.22222222222
+3:Water Spout,22.2222222222%,4.22222222222
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,3.8
+2:Origin Pulse,10.0%,1.9
+3:Dazzling Gleam,10.0%,1.9
+4:Scald,10.0%,1.9
+5:Power Whip,10.0%,1.9
+6:Dragon Pulse,10.0%,1.9
+7:Gyro Ball,10.0%,1.9
+8:Focus Punch,10.0%,1.9
+9:Thunder,10.0%,1.9
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Dialga
+3:Mawile
+4:Weavile
+5:Rayquaza
+6:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Ferrothorn
+3:Xerneas
+4:Dialga
+5:Manectric
+6:Medicham

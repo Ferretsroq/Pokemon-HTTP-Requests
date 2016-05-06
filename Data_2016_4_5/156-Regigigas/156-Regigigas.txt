@@ -1,0 +1,72 @@
+156:Regigigas|23
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,23.0
+2:Icy Wind,100.0%,23.0
+3:Giga Impact,91.3043478261%,21.0
+4:Gravity,91.3043478261%,21.0
+5:Earth Power,8.69565217391%,2.0
+6:Dizzy Punch,8.69565217391%,2.0
+
+ ---------- 
+Items used:
+1:Lum Berry,82.6086956522%,19.0
+2:Mental Herb,8.69565217391%,2.0
+3:Sitrus Berry,8.69565217391%,2.0
+
+ ---------- 
+Abilities used:
+1:Slow Start,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Relaxed,91.3043478261%,21.0
+2:Sassy,8.69565217391%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyurem
+3:Crobat
+4:Kangaskhan
+5:Lilligant
+6:Kyogre
+7:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Giga Impact,71.4285714286%,16.4285714286
+2:Icy Wind,14.2857142857%,3.28571428571
+3:Dizzy Punch,14.2857142857%,3.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.0%,2.3
+2:Origin Pulse,10.0%,2.3
+3:Foul Play,10.0%,2.3
+4:Grass Knot,10.0%,2.3
+5:Dragon Pulse,10.0%,2.3
+6:Fake Out,10.0%,2.3
+7:Sludge Bomb,10.0%,2.3
+8:Thunderbolt,10.0%,2.3
+9:Low Kick,10.0%,2.3
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Thundurus
+3:Tornadus
+4:Groudon
+5:Kyogre
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Yveltal
+3:Xerneas
+4:Thundurus
+5:Dialga
+6:Groudon
+7:Kyogre
+8:Gengar

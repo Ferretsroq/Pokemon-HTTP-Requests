@@ -1,0 +1,62 @@
+226:Regice|3
+ ---------- 
+Moves used:
+1:Ancient Power,100.0%,3.0
+2:Thunder,100.0%,3.0
+3:Focus Blast,66.6666666667%,2.0
+4:Frost Breath,33.3333333333%,1.0
+5:Icy Wind,33.3333333333%,1.0
+6:Blizzard,33.3333333333%,1.0
+7:Ice Beam,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,66.6666666667%,2.0
+2:Choice Specs,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Modest,66.6666666667%,2.0
+2:Calm,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Cresselia
+3:Yveltal
+4:Mawile
+5:Marowak
+6:Meowstic
+7:Thundurus
+8:Kyogre
+9:Camerupt
+10:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Frost Breath,66.6666666667%,2.0
+2:Thunder,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,25.0%,0.75
+2:Hyper Voice,25.0%,0.75
+3:Sacred Fire,25.0%,0.75
+4:Low Kick,25.0%,0.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Manectric
+3:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Weavile
+2:Kyogre
+3:Salamence
+4:Ho-Oh

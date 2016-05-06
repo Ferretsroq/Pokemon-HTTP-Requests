@@ -1,0 +1,39 @@
+290:Spinda|1
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,1.0
+2:Skill Swap,100.0%,1.0
+3:Fake Out,100.0%,1.0
+4:Dizzy Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Suicune
+3:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame

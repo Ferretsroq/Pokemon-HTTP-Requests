@@ -1,0 +1,135 @@
+127:Excadrill|113
+ ---------- 
+Moves used:
+1:Iron Head,99.1150442478%,112.0
+2:Rock Slide,90.2654867257%,102.0
+3:Drill Run,83.185840708%,94.0
+4:Earthquake,55.7522123894%,63.0
+5:Protect,41.592920354%,47.0
+6:Horn Drill,11.5044247788%,13.0
+7:Rock Tomb,6.19469026549%,7.0
+8:Brick Break,4.42477876106%,5.0
+9:Giga Impact,1.76991150442%,2.0
+10:Fissure,1.76991150442%,2.0
+11:Swords Dance,1.76991150442%,2.0
+12:X-Scissor,0.884955752212%,1.0
+13:Rapid Spin,0.884955752212%,1.0
+14:Return,0.884955752212%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,54.8672566372%,62.0
+2:Life Orb,37.1681415929%,42.0
+3:Assault Vest,3.53982300885%,4.0
+4:Focus Sash,3.53982300885%,4.0
+5:Choice Band,0.884955752212%,1.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,64.6017699115%,73.0
+2:Sand Force,31.8584070796%,36.0
+3:Sand Rush,3.53982300885%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,72.5663716814%,82.0
+2:Jolly,27.4336283186%,31.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Whimsicott
+6:Kyogre
+7:Lugia
+8:Kangaskhan
+9:Salamence
+10:Kyurem
+11:Crobat
+12:Electrode
+13:Gengar
+14:Yveltal
+15:Amoonguss
+16:Smeargle
+17:Meowstic
+18:Mienshao
+19:Sableye
+20:Rotom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,38.5964912281%,43.6140350877
+2:Earthquake,24.5614035088%,27.7543859649
+3:Drill Run,19.298245614%,21.8070175439
+4:Iron Head,14.0350877193%,15.8596491228
+5:X-Scissor,1.75438596491%,1.98245614035
+6:Rock Tomb,1.75438596491%,1.98245614035
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,9.09090909091%,10.2727272727
+2:Dazzling Gleam,9.09090909091%,10.2727272727
+3:Sucker Punch,6.49350649351%,7.33766233766
+4:Water Spout,6.49350649351%,7.33766233766
+5:Eruption,6.49350649351%,7.33766233766
+6:Low Kick,6.49350649351%,7.33766233766
+7:Moonblast,3.8961038961%,4.4025974026
+8:Scald,3.8961038961%,4.4025974026
+9:Brave Bird,3.8961038961%,4.4025974026
+10:Flare Blitz,3.8961038961%,4.4025974026
+11:Fire Punch,3.8961038961%,4.4025974026
+12:Origin Pulse,2.5974025974%,2.93506493506
+13:Overheat,2.5974025974%,2.93506493506
+14:Hyper Voice,2.5974025974%,2.93506493506
+15:Focus Punch,2.5974025974%,2.93506493506
+16:Waterfall,2.5974025974%,2.93506493506
+17:Earthquake,2.5974025974%,2.93506493506
+18:Power-Up Punch,1.2987012987%,1.46753246753
+19:Fusion Flare,1.2987012987%,1.46753246753
+20:Snarl,1.2987012987%,1.46753246753
+0:Other,12.987012987%,14.6753246753
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Groudon
+4:Kangaskhan
+5:Kyogre
+6:Smeargle
+7:Noivern
+8:Thundurus
+9:Salamence
+10:Yveltal
+11:Meowstic
+12:Kyurem
+13:Kyurem
+14:Ferrothorn
+15:Amoonguss
+16:Azelf
+17:Weavile
+18:Lucario
+19:Rayquaza
+20:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Yveltal
+8:Landorus
+9:Kyurem
+10:Lucario
+11:Salamence
+12:Mawile
+13:Mienshao
+14:Cresselia
+15:Dialga
+16:Groudon
+17:Typhlosion

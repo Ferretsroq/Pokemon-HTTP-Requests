@@ -1,0 +1,120 @@
+119:Dedenne|93
+ ---------- 
+Moves used:
+1:Nuzzle,98.9247311828%,92.0
+2:Super Fang,91.3978494624%,85.0
+3:Parabolic Charge,77.4193548387%,72.0
+4:Helping Hand,44.0860215054%,41.0
+5:Protect,39.7849462366%,37.0
+6:Charm,15.0537634409%,14.0
+7:Eerie Impulse,8.60215053763%,8.0
+8:Discharge,8.60215053763%,8.0
+9:Swagger,7.52688172043%,7.0
+10:Entrainment,5.37634408602%,5.0
+11:Recycle,3.22580645161%,3.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,63.4408602151%,59.0
+2:Focus Sash,22.5806451613%,21.0
+3:Air Balloon,10.752688172%,10.0
+4:Shuca Berry,2.15053763441%,2.0
+5:Rocky Helmet,1.0752688172%,1.0
+
+ ---------- 
+Abilities used:
+1:Cheek Pouch,98.9247311828%,92.0
+2:Plus,1.0752688172%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,52.688172043%,49.0
+2:Timid,44.0860215054%,41.0
+3:Bold,3.22580645161%,3.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kangaskhan
+3:Kyogre
+4:Groudon
+5:Ferrothorn
+6:Landorus
+7:Mawile
+8:Sceptile
+9:Metagross
+10:Liepard
+11:Hitmontop
+12:Xerneas
+13:Talonflame
+14:Mienshao
+15:Dialga
+16:Rayquaza
+17:Salamence
+18:Sableye
+19:Cryogonal
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Parabolic Charge,60.0%,55.8
+2:Nuzzle,30.0%,27.9
+3:Discharge,10.0%,9.3
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,11.5384615385%,10.7307692308
+2:Precipice Blades,10.2564102564%,9.53846153846
+3:Origin Pulse,8.97435897436%,8.34615384615
+4:Dazzling Gleam,8.97435897436%,8.34615384615
+5:Double-Edge,6.41025641026%,5.96153846154
+6:Eruption,5.12820512821%,4.76923076923
+7:Sludge Bomb,5.12820512821%,4.76923076923
+8:Moonblast,3.84615384615%,3.57692307692
+9:Earth Power,3.84615384615%,3.57692307692
+10:Earthquake,3.84615384615%,3.57692307692
+11:Play Rough,2.5641025641%,2.38461538462
+12:Iron Head,2.5641025641%,2.38461538462
+13:Power Whip,2.5641025641%,2.38461538462
+14:Sucker Punch,2.5641025641%,2.38461538462
+15:Return,2.5641025641%,2.38461538462
+16:Flamethrower,2.5641025641%,2.38461538462
+17:Icicle Crash,1.28205128205%,1.19230769231
+18:Psystrike,1.28205128205%,1.19230769231
+19:Scald,1.28205128205%,1.19230769231
+20:Shadow Force,1.28205128205%,1.19230769231
+0:Other,10.2564102564%,9.53846153846
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Xerneas
+4:Klefki
+5:Amoonguss
+6:Cresselia
+7:Kyogre
+8:Sableye
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Mawile
+6:Ferrothorn
+7:Gengar
+8:Yveltal
+9:Landorus
+10:Palkia
+11:Dragalge
+12:Talonflame
+13:Virizion
+14:Terrakion
+15:Cresselia
+16:Giratina
+17:Dialga
+18:Weavile
+19:Ambipom
+20:Rayquaza

@@ -1,0 +1,165 @@
+51:Hitmontop|1155
+ ---------- 
+Moves used:
+1:Fake Out,96.3636363636%,1113.0
+2:Close Combat,83.0303030303%,959.0
+3:Wide Guard,81.2987012987%,939.0
+4:Feint,72.380952381%,836.0
+5:Quick Guard,39.3073593074%,454.0
+6:Helping Hand,14.632034632%,169.0
+7:High Jump Kick,3.0303030303%,35.0
+8:Low Kick,2.77056277056%,32.0
+9:Endeavor,2.42424242424%,28.0
+10:Mach Punch,2.33766233766%,27.0
+11:Protect,1.38528138528%,16.0
+12:Rock Slide,0.25974025974%,3.0
+13:Stone Edge,0.17316017316%,2.0
+14:Bullet Punch,0.17316017316%,2.0
+15:Brick Break,0.0865800865801%,1.0
+16:Revenge,0.0865800865801%,1.0
+17:Detect,0.0865800865801%,1.0
+18:Earthquake,0.0865800865801%,1.0
+19:Counter,0.0865800865801%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,23.8961038961%,276.0
+2:Eject Button,22.9437229437%,265.0
+3:Focus Sash,15.5844155844%,180.0
+4:Sitrus Berry,14.7186147186%,170.0
+5:Rocky Helmet,7.09956709957%,82.0
+6:Fist Plate,6.75324675325%,78.0
+7:Black Belt,2.94372294372%,34.0
+8:Coba Berry,2.77056277056%,32.0
+9:Choice Scarf,0.692640692641%,8.0
+10:Expert Belt,0.606060606061%,7.0
+11:Life Orb,0.34632034632%,4.0
+12:Safety Goggles,0.25974025974%,3.0
+13:Leftovers,0.25974025974%,3.0
+14:Assault Vest,0.17316017316%,2.0
+15:Red Card,0.17316017316%,2.0
+16:Muscle Band,0.17316017316%,2.0
+17:King's Rock,0.17316017316%,2.0
+18:Chesto Berry,0.17316017316%,2.0
+19:White Herb,0.0865800865801%,1.0
+20:Enigma Berry,0.0865800865801%,1.0
+0:Other,6.05071548421e-15%,6.98857638426e-14
+
+ ---------- 
+Abilities used:
+1:Intimidate,99.6536796537%,1151.0
+2:Technician,0.34632034632%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,59.6536796537%,689.0
+2:Impish,15.1515151515%,175.0
+3:Careful,12.380952381%,143.0
+4:Sassy,5.10822510823%,59.0
+5:Relaxed,2.85714285714%,33.0
+6:Brave,2.77056277056%,32.0
+7:Jolly,1.99134199134%,23.0
+8:Bold,0.0865800865801%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Xerneas
+5:Kangaskhan
+6:Mawile
+7:Talonflame
+8:Salamence
+9:Smeargle
+10:Thundurus
+11:Ferrothorn
+12:Yveltal
+13:Gengar
+14:Scizor
+15:Dialga
+16:Whimsicott
+17:Mewtwo
+18:Liepard
+19:Cresselia
+20:Abomasnow
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,62.1538461538%,717.876923077
+2:Feint,28.0%,323.4
+3:Fake Out,4.61538461538%,53.3076923077
+4:High Jump Kick,3.38461538462%,39.0923076923
+5:Low Kick,0.923076923077%,10.6615384615
+6:Mach Punch,0.615384615385%,7.10769230769
+7:Stone Edge,0.307692307692%,3.55384615385
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,8.78378378378%,101.452702703
+2:Precipice Blades,7.7027027027%,88.9662162162
+3:Dazzling Gleam,7.2972972973%,84.2837837838
+4:Double-Edge,7.16216216216%,82.722972973
+5:Origin Pulse,6.08108108108%,70.2364864865
+6:Water Spout,5.27027027027%,60.8716216216
+7:Fire Punch,4.59459459459%,53.0675675676
+8:Brave Bird,4.45945945946%,51.5067567568
+9:Ice Beam,4.18918918919%,48.3851351351
+10:Eruption,3.78378378378%,43.7027027027
+11:Hyper Voice,3.64864864865%,42.1418918919
+12:Dragon Ascent,3.37837837838%,39.0202702703
+13:Play Rough,3.24324324324%,37.4594594595
+14:Scald,3.10810810811%,35.8986486486
+15:Gyro Ball,1.89189189189%,21.8513513514
+16:Earth Power,1.75675675676%,20.2905405405
+17:Extreme Speed,1.48648648649%,17.1689189189
+18:Sludge Bomb,1.48648648649%,17.1689189189
+19:Thunderbolt,1.48648648649%,17.1689189189
+20:Iron Head,1.08108108108%,12.4864864865
+0:Other,16.3513513514%,188.858108108
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Ferrothorn
+4:Smeargle
+5:Dialga
+6:Liepard
+7:Groudon
+8:Thundurus
+9:Weavile
+10:Xerneas
+11:Talonflame
+12:Mawile
+13:Whimsicott
+14:Rayquaza
+15:Raichu
+16:Yveltal
+17:Bronzong
+18:Kangaskhan
+19:Crobat
+20:Greninja
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Talonflame
+6:Kangaskhan
+7:Mawile
+8:Rayquaza
+9:Ferrothorn
+10:Thundurus
+11:Yveltal
+12:Landorus
+13:Rayquaza
+14:Cresselia
+15:Gengar
+16:Whimsicott
+17:Dialga
+18:Kyogre
+19:Gengar
+20:Lugia

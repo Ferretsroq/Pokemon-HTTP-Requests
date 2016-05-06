@@ -1,0 +1,46 @@
+310:Tangela|1
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,1.0
+2:Leaf Storm,100.0%,1.0
+3:Synthesis,100.0%,1.0
+4:Bind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Leaf Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Dialga
+3:Mawile
+4:Cresselia
+5:Aron
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Spacial Rend,25.0%,0.25
+2:Eruption,25.0%,0.25
+3:Earthquake,25.0%,0.25
+4:Fire Punch,25.0%,0.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Landorus
+3:Palkia

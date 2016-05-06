@@ -1,0 +1,51 @@
+308:Regirock|4
+ ---------- 
+Moves used:
+1:Rock Slide,100.0%,4.0
+2:Drain Punch,75.0%,3.0
+3:Protect,75.0%,3.0
+4:Explosion,75.0%,3.0
+5:Hammer Arm,25.0%,1.0
+6:Earthquake,25.0%,1.0
+7:Ice Punch,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,75.0%,3.0
+2:Brave,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Sableye
+4:Gengar
+5:Thundurus
+6:Ferrothorn
+7:Espeon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Palkia
+2:Togekiss
+3:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

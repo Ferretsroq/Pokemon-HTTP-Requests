@@ -1,0 +1,98 @@
+186:Jolteon|23
+ ---------- 
+Moves used:
+1:Thunderbolt,95.652173913%,22.0
+2:Protect,86.9565217391%,20.0
+3:Discharge,60.8695652174%,14.0
+4:Swagger,60.8695652174%,14.0
+5:Hidden Power,26.0869565217%,6.0
+6:Thunder Wave,21.7391304348%,5.0
+7:Volt Switch,13.0434782609%,3.0
+8:Heal Bell,13.0434782609%,3.0
+9:Charm,13.0434782609%,3.0
+10:Shadow Ball,8.69565217391%,2.0
+
+ ---------- 
+Items used:
+1:Air Balloon,60.8695652174%,14.0
+2:Icicle Plate,13.0434782609%,3.0
+3:Life Orb,13.0434782609%,3.0
+4:Choice Specs,8.69565217391%,2.0
+
+ ---------- 
+Abilities used:
+1:Volt Absorb,86.9565217391%,20.0
+2:Quick Feet,13.0434782609%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,23.0
+
+ ---------- 
+Top teammates:
+1:Sceptile
+2:Groudon
+3:Golduck
+4:Xerneas
+5:Lucario
+6:Mienshao
+7:Seismitoad
+8:Rotom
+9:Rayquaza
+10:Ho-Oh
+11:Kangaskhan
+12:Yveltal
+13:Landorus
+14:Amoonguss
+15:Palkia
+16:Leafeon
+17:Weavile
+18:Salamence
+19:Mawile
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Discharge,50.0%,11.5
+2:Thunderbolt,30.0%,6.9
+3:Volt Switch,10.0%,2.3
+4:Hidden Power,10.0%,2.3
+
+ ---------- 
+Moves that KO this pokemon:
+1:Extreme Speed,17.6470588235%,4.05882352941
+2:Precipice Blades,11.7647058824%,2.70588235294
+3:Eruption,11.7647058824%,2.70588235294
+4:Dazzling Gleam,5.88235294118%,1.35294117647
+5:Foul Play,5.88235294118%,1.35294117647
+6:Spacial Rend,5.88235294118%,1.35294117647
+7:Earth Power,5.88235294118%,1.35294117647
+8:Sucker Punch,5.88235294118%,1.35294117647
+9:Heat Wave,5.88235294118%,1.35294117647
+10:Return,5.88235294118%,1.35294117647
+11:Flamethrower,5.88235294118%,1.35294117647
+12:Double-Edge,5.88235294118%,1.35294117647
+13:Ice Punch,5.88235294118%,1.35294117647
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Smeargle
+3:Crobat
+4:Liepard
+5:Dialga
+6:Salamence
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Heatran
+3:Rayquaza
+4:Kangaskhan
+5:Xerneas
+6:Amoonguss
+7:Palkia
+8:Weavile
+9:Rayquaza
+10:Mawile

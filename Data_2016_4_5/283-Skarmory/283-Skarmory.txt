@@ -1,0 +1,38 @@
+283:Skarmory|1
+ ---------- 
+Moves used:
+1:Air Slash,100.0%,1.0
+2:Steel Wing,100.0%,1.0
+3:Fly,100.0%,1.0
+4:Cut,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Lax,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Ferrothorn
+2:Weavile
+3:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

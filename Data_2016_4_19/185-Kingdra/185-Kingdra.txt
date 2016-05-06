@@ -1,0 +1,103 @@
+185:Kingdra|26
+ ---------- 
+Moves used:
+1:Draco Meteor,76.9230769231%,20.0
+2:Protect,73.0769230769%,19.0
+3:Hidden Power,57.6923076923%,15.0
+4:Focus Energy,57.6923076923%,15.0
+5:Ice Beam,34.6153846154%,9.0
+6:Dragon Pulse,26.9230769231%,7.0
+7:Scald,23.0769230769%,6.0
+8:Hydro Pump,15.3846153846%,4.0
+9:Flash Cannon,11.5384615385%,3.0
+10:Surf,11.5384615385%,3.0
+11:Muddy Water,7.69230769231%,2.0
+12:Sleep Talk,3.84615384615%,1.0
+
+ ---------- 
+Items used:
+1:Scope Lens,57.6923076923%,15.0
+2:Choice Specs,19.2307692308%,5.0
+3:Life Orb,19.2307692308%,5.0
+4:Lum Berry,3.84615384615%,1.0
+
+ ---------- 
+Abilities used:
+1:Sniper,57.6923076923%,15.0
+2:Swift Swim,42.3076923077%,11.0
+
+ ---------- 
+Natures used:
+1:Quiet,57.6923076923%,15.0
+2:Modest,42.3076923077%,11.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Infernape
+3:Landorus
+4:Zekrom
+5:Kyogre
+6:Whimsicott
+7:Ferrothorn
+8:Liepard
+9:Groudon
+10:Talonflame
+11:Lucario
+12:Rayquaza
+13:Kangaskhan
+14:Xerneas
+15:Meowstic
+16:Volcarona
+17:Amoonguss
+18:Metagross
+19:Cradily
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,55.5555555556%,14.4444444444
+2:Muddy Water,16.6666666667%,4.33333333333
+3:Dragon Pulse,11.1111111111%,2.88888888889
+4:Hidden Power,11.1111111111%,2.88888888889
+5:Scald,5.55555555556%,1.44444444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.6470588235%,4.58823529412
+2:Dragon Pulse,11.7647058824%,3.05882352941
+3:Thunderbolt,11.7647058824%,3.05882352941
+4:Ice Beam,11.7647058824%,3.05882352941
+5:Dragon Ascent,5.88235294118%,1.52941176471
+6:Play Rough,5.88235294118%,1.52941176471
+7:Iron Head,5.88235294118%,1.52941176471
+8:Power Whip,5.88235294118%,1.52941176471
+9:Thunder,5.88235294118%,1.52941176471
+10:Double-Edge,5.88235294118%,1.52941176471
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Cresselia
+5:Kangaskhan
+6:Ferrothorn
+7:Weavile
+8:Bronzong
+9:Rayquaza
+10:Smeargle
+11:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Dialga
+3:Kyogre
+4:Mawile
+5:Thundurus
+6:Ferrothorn
+7:Cresselia
+8:Rayquaza
+9:Zapdos
+10:Kangaskhan

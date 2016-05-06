@@ -1,0 +1,130 @@
+132:Staraptor|97
+ ---------- 
+Moves used:
+1:Final Gambit,90.7216494845%,88.0
+2:Brave Bird,90.7216494845%,88.0
+3:Close Combat,54.6391752577%,53.0
+4:Tailwind,48.4536082474%,47.0
+5:U-turn,32.9896907216%,32.0
+6:Protect,29.8969072165%,29.0
+7:Double-Edge,22.6804123711%,22.0
+8:Endeavor,9.27835051546%,9.0
+9:Whirlwind,9.27835051546%,9.0
+10:Uproar,6.18556701031%,6.0
+11:Quick Attack,5.15463917526%,5.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,46.3917525773%,45.0
+2:Lum Berry,27.8350515464%,27.0
+3:Rocky Helmet,9.27835051546%,9.0
+4:Yache Berry,6.18556701031%,6.0
+5:Focus Sash,5.15463917526%,5.0
+6:Choice Band,5.15463917526%,5.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,94.8453608247%,92.0
+2:Reckless,5.15463917526%,5.0
+
+ ---------- 
+Natures used:
+1:Jolly,77.3195876289%,75.0
+2:Adamant,22.6804123711%,22.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Talonflame
+7:Smeargle
+8:Cresselia
+9:Weavile
+10:Thundurus
+11:Ferrothorn
+12:Manectric
+13:Mawile
+14:Dialga
+15:Drifblim
+16:Yveltal
+17:Hydreigon
+18:Bronzong
+19:Lopunny
+20:Breloom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Final Gambit,52.0%,50.44
+2:Brave Bird,36.0%,34.92
+3:U-turn,6.0%,5.82
+4:Quick Attack,4.0%,3.88
+5:Close Combat,2.0%,1.94
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,6.97674418605%,6.76744186047
+2:Water Spout,5.81395348837%,5.63953488372
+3:Thunderbolt,4.6511627907%,4.51162790698
+4:Eruption,3.48837209302%,3.38372093023
+5:Origin Pulse,2.32558139535%,2.25581395349
+6:Dragon Pulse,2.32558139535%,2.25581395349
+7:Sludge Bomb,2.32558139535%,2.25581395349
+8:Dragon Ascent,1.16279069767%,1.12790697674
+9:Precipice Blades,1.16279069767%,1.12790697674
+10:Power-Up Punch,1.16279069767%,1.12790697674
+11:Moonblast,1.16279069767%,1.12790697674
+12:Icicle Crash,1.16279069767%,1.12790697674
+13:Brave Bird,1.16279069767%,1.12790697674
+14:Vacuum Wave,1.16279069767%,1.12790697674
+15:Gyro Ball,1.16279069767%,1.12790697674
+16:Rock Tomb,1.16279069767%,1.12790697674
+17:Hyper Voice,1.16279069767%,1.12790697674
+18:Ice Beam,1.16279069767%,1.12790697674
+19:Ice Punch,1.16279069767%,1.12790697674
+20:Fire Punch,1.16279069767%,1.12790697674
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Talonflame
+4:Lugia
+5:Crobat
+6:Landorus
+7:Thundurus
+8:Ferrothorn
+9:Cresselia
+10:Groudon
+11:Salamence
+12:Mawile
+13:Xerneas
+14:Meowstic
+15:Zekrom
+16:Whimsicott
+17:Liepard
+18:Porygon-Z
+19:Togekiss
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Thundurus
+5:Kangaskhan
+6:Talonflame
+7:Kyurem
+8:Landorus
+9:Ferrothorn
+10:Dialga
+11:Rotom
+12:Weavile
+13:Lucario
+14:Rayquaza
+15:Salamence
+16:Zapdos
+17:Gengar

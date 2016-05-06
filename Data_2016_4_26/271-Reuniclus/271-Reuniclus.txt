@@ -1,0 +1,47 @@
+271:Reuniclus|1
+ ---------- 
+Moves used:
+1:Psyshock,100.0%,1.0
+2:Skill Swap,100.0%,1.0
+3:Pain Split,100.0%,1.0
+4:Recover,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Guard,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Rayquaza
+4:Crobat
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,40.0%,0.4
+2:Dazzling Gleam,20.0%,0.2
+3:Power Whip,20.0%,0.2
+4:Double-Edge,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Ferrothorn
+4:Kangaskhan

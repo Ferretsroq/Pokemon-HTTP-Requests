@@ -1,0 +1,124 @@
+128:Rhyperior|40
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,40.0
+2:Rock Slide,85.0%,34.0
+3:Protect,57.5%,23.0
+4:Ice Punch,37.5%,15.0
+5:Hammer Arm,27.5%,11.0
+6:Thunder Punch,27.5%,11.0
+7:Drill Run,25.0%,10.0
+8:Superpower,17.5%,7.0
+9:Stone Edge,15.0%,6.0
+10:Brick Break,5.0%,2.0
+11:Rock Wrecker,2.5%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,42.5%,17.0
+2:Iron Ball,22.5%,9.0
+3:Expert Belt,15.0%,6.0
+4:Life Orb,10.0%,4.0
+5:Weakness Policy,5.0%,2.0
+6:Babiri Berry,5.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,85.0%,34.0
+2:Lightning Rod,15.0%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,95.0%,38.0
+2:Brave,5.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kangaskhan
+3:Dialga
+4:Salamence
+5:Whimsicott
+6:Lugia
+7:Ferrothorn
+8:Groudon
+9:Giratina
+10:Kyogre
+11:Crobat
+12:Cresselia
+13:Weavile
+14:Yveltal
+15:Palkia
+16:Gallade
+17:Excadrill
+18:Rotom
+19:Mawile
+20:Ho-Oh
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,34.4827586207%,13.7931034483
+2:Earthquake,34.4827586207%,13.7931034483
+3:Ice Punch,13.7931034483%,5.51724137931
+4:Stone Edge,10.3448275862%,4.13793103448
+5:Drill Run,3.44827586207%,1.37931034483
+6:Thunder Punch,3.44827586207%,1.37931034483
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,14.2857142857%,5.71428571429
+2:Precipice Blades,7.14285714286%,2.85714285714
+3:Origin Pulse,7.14285714286%,2.85714285714
+4:Scald,7.14285714286%,2.85714285714
+5:Brave Bird,7.14285714286%,2.85714285714
+6:Water Spout,7.14285714286%,2.85714285714
+7:Hyper Voice,7.14285714286%,2.85714285714
+8:Ice Beam,7.14285714286%,2.85714285714
+9:Dazzling Gleam,3.57142857143%,1.42857142857
+10:Foul Play,3.57142857143%,1.42857142857
+11:Shadow Force,3.57142857143%,1.42857142857
+12:Iron Head,3.57142857143%,1.42857142857
+13:Power Whip,3.57142857143%,1.42857142857
+14:Flash Cannon,3.57142857143%,1.42857142857
+15:Dragon Pulse,3.57142857143%,1.42857142857
+16:Sucker Punch,3.57142857143%,1.42857142857
+17:Waterfall,3.57142857143%,1.42857142857
+18:Low Kick,3.57142857143%,1.42857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Dialga
+4:Rayquaza
+5:Groudon
+6:Salamence
+7:Yveltal
+8:Aegislash
+9:Talonflame
+10:Amoonguss
+11:Liepard
+12:Cresselia
+13:Togekiss
+14:Lucario
+15:Manectric
+16:Smeargle
+17:Crobat
+18:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Cresselia
+5:Dialga
+6:Mawile
+7:Yveltal
+8:Xerneas
+9:Sylveon
+10:Ferrothorn
+11:Giratina
+12:Rayquaza
+13:Salamence
+14:Kangaskhan

@@ -1,0 +1,140 @@
+118:Alakazam|131
+ ---------- 
+Moves used:
+1:Psychic,87.0229007634%,114.0
+2:Encore,48.0916030534%,63.0
+3:Protect,42.7480916031%,56.0
+4:Taunt,41.9847328244%,55.0
+5:Hidden Power,36.641221374%,48.0
+6:Gravity,35.1145038168%,46.0
+7:Magic Room,26.7175572519%,35.0
+8:Disable,19.0839694656%,25.0
+9:Skill Swap,15.2671755725%,20.0
+10:Swagger,9.16030534351%,12.0
+11:Psyshock,7.63358778626%,10.0
+12:Magic Coat,6.10687022901%,8.0
+13:Trick Room,4.58015267176%,6.0
+14:Knock Off,3.81679389313%,5.0
+15:Ally Switch,3.0534351145%,4.0
+16:Guard Split,2.29007633588%,3.0
+17:Grass Knot,2.29007633588%,3.0
+18:Trick,2.29007633588%,3.0
+19:Light Screen,2.29007633588%,3.0
+20:Telekinesis,1.52671755725%,2.0
+0:Other,2.29007633588%,3.0
+
+ ---------- 
+Items used:
+1:Alakazite,47.3282442748%,62.0
+2:Focus Sash,35.8778625954%,47.0
+3:Mental Herb,12.213740458%,16.0
+4:Choice Scarf,2.29007633588%,3.0
+5:Lum Berry,2.29007633588%,3.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,80.9160305344%,106.0
+2:Magic Guard,16.7938931298%,22.0
+3:Synchronize,2.29007633588%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,92.3664122137%,121.0
+2:Modest,7.63358778626%,10.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Mienshao
+4:Yveltal
+5:Gengar
+6:Salamence
+7:Rayquaza
+8:Smeargle
+9:Xerneas
+10:Whimsicott
+11:Liepard
+12:Thundurus
+13:Scizor
+14:Kangaskhan
+15:Mawile
+16:Crobat
+17:Amoonguss
+18:Bisharp
+19:Ferrothorn
+20:Cherrim
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,79.4871794872%,104.128205128
+2:Hidden Power,17.9487179487%,23.5128205128
+3:Psyshock,2.5641025641%,3.35897435897
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.1509433962%,18.5377358491
+2:Moonblast,6.60377358491%,8.65094339623
+3:Eruption,6.60377358491%,8.65094339623
+4:Double-Edge,6.60377358491%,8.65094339623
+5:Precipice Blades,5.66037735849%,7.41509433962
+6:Hyper Voice,5.66037735849%,7.41509433962
+7:Brave Bird,4.71698113208%,6.17924528302
+8:Water Spout,4.71698113208%,6.17924528302
+9:Fire Punch,4.71698113208%,6.17924528302
+10:Return,3.77358490566%,4.94339622642
+11:Origin Pulse,2.83018867925%,3.70754716981
+12:Scald,2.83018867925%,3.70754716981
+13:Iron Head,2.83018867925%,3.70754716981
+14:Ice Beam,2.83018867925%,3.70754716981
+15:Dragon Ascent,1.88679245283%,2.47169811321
+16:Hex,1.88679245283%,2.47169811321
+17:Shadow Sneak,1.88679245283%,2.47169811321
+18:Sucker Punch,1.88679245283%,2.47169811321
+19:Gyro Ball,1.88679245283%,2.47169811321
+20:Extreme Speed,1.88679245283%,2.47169811321
+0:Other,14.1509433962%,18.5377358491
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Salamence
+3:Talonflame
+4:Smeargle
+5:Xerneas
+6:Thundurus
+7:Whimsicott
+8:Groudon
+9:Kyurem
+10:Landorus
+11:Amoonguss
+12:Palkia
+13:Rayquaza
+14:Kyogre
+15:Latios
+16:Zapdos
+17:Kangaskhan
+18:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Mawile
+9:Gengar
+10:Ferrothorn
+11:Giratina
+12:Yveltal
+13:Landorus
+14:Thundurus
+15:Cresselia
+16:Heatran
+17:Palkia
+18:Dialga
+19:Bronzong
+20:Metagross

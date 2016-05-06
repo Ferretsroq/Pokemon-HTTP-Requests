@@ -1,0 +1,54 @@
+235:Chesnaught|1
+ ---------- 
+Moves used:
+1:Spiky Shield,100.0%,1.0
+2:Quick Guard,100.0%,1.0
+3:Wood Hammer,100.0%,1.0
+4:Low Kick,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Bulletproof,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Swampert
+3:Rayquaza
+4:Latias
+5:Metagross
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,66.6666666667%,0.666666666667
+2:Wood Hammer,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Play Rough,20.0%,0.2
+2:Spacial Rend,20.0%,0.2
+3:Hyper Voice,20.0%,0.2
+4:Ice Beam,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Yveltal
+3:Ferrothorn
+4:Groudon
+5:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Palkia
+2:Gastrodon
+3:Salamence
+4:Mawile

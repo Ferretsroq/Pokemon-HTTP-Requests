@@ -1,0 +1,68 @@
+292:Aggron|5
+ ---------- 
+Moves used:
+1:Iron Head,60.0%,3.0
+2:Rock Slide,60.0%,3.0
+3:Heavy Slam,40.0%,2.0
+4:Earthquake,40.0%,2.0
+5:Thunder Wave,40.0%,2.0
+6:Fire Punch,40.0%,2.0
+7:Head Smash,20.0%,1.0
+8:Stealth Rock,20.0%,1.0
+9:Metal Burst,20.0%,1.0
+10:Superpower,20.0%,1.0
+11:Protect,20.0%,1.0
+12:Curse,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Aggronite,80.0%,4.0
+2:Assault Vest,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Rock Head,60.0%,3.0
+2:Sturdy,40.0%,2.0
+
+ ---------- 
+Natures used:
+1:Adamant,60.0%,3.0
+2:Careful,20.0%,1.0
+3:Sassy,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Kyurem
+3:Xerneas
+4:Kyurem
+5:Cresselia
+6:Togekiss
+7:Infernape
+8:Rayquaza
+9:Groudon
+10:Kyogre
+11:Crobat
+12:Gyarados
+13:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,100.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Flare Blitz,33.3333333333%,1.66666666667
+2:Water Spout,33.3333333333%,1.66666666667
+3:Eruption,33.3333333333%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Groudon
+3:Kyogre

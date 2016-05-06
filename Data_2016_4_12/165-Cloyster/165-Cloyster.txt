@@ -1,0 +1,100 @@
+165:Cloyster|30
+ ---------- 
+Moves used:
+1:Icicle Spear,100.0%,30.0
+2:Rock Blast,96.6666666667%,29.0
+3:Shell Smash,80.0%,24.0
+4:Hydro Pump,80.0%,24.0
+5:Ice Shard,13.3333333333%,4.0
+6:Icy Wind,13.3333333333%,4.0
+7:Razor Shell,10.0%,3.0
+8:Swagger,3.33333333333%,1.0
+9:Protect,3.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,90.0%,27.0
+2:White Herb,6.66666666667%,2.0
+3:Focus Sash,3.33333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,30.0
+
+ ---------- 
+Natures used:
+1:Jolly,86.6666666667%,26.0
+2:Naughty,10.0%,3.0
+3:Adamant,3.33333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Lugia
+3:Ferrothorn
+4:Kangaskhan
+5:Groudon
+6:Xerneas
+7:Whimsicott
+8:Misdreavus
+9:Terrakion
+10:Lopunny
+11:Yveltal
+12:Meowstic
+13:Smeargle
+14:Crobat
+15:Mewtwo
+16:Dragonite
+17:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Spear,76.4705882353%,22.9411764706
+2:Rock Blast,23.5294117647%,7.05882352941
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.5384615385%,3.46153846154
+2:Origin Pulse,11.5384615385%,3.46153846154
+3:Dazzling Gleam,11.5384615385%,3.46153846154
+4:Water Spout,7.69230769231%,2.30769230769
+5:Double-Edge,7.69230769231%,2.30769230769
+6:Shadow Force,3.84615384615%,1.15384615385
+7:Earth Power,3.84615384615%,1.15384615385
+8:Air Slash,3.84615384615%,1.15384615385
+9:Sucker Punch,3.84615384615%,1.15384615385
+10:Close Combat,3.84615384615%,1.15384615385
+11:Overheat,3.84615384615%,1.15384615385
+12:Hyper Voice,3.84615384615%,1.15384615385
+13:Eruption,3.84615384615%,1.15384615385
+14:Heat Wave,3.84615384615%,1.15384615385
+15:Shadow Ball,3.84615384615%,1.15384615385
+16:Extreme Speed,3.84615384615%,1.15384615385
+17:Rock Slide,3.84615384615%,1.15384615385
+18:Low Kick,3.84615384615%,1.15384615385
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Salamence
+4:Whimsicott
+5:Crobat
+6:Togekiss
+7:Rayquaza
+8:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Salamence
+6:Kangaskhan
+7:Yveltal
+8:Aegislash
+9:Giratina
+10:Togekiss
+11:Infernape
+12:Zapdos

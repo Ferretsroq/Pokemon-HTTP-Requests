@@ -1,0 +1,97 @@
+204:Carracosta|28
+ ---------- 
+Moves used:
+1:Aqua Jet,92.8571428571%,26.0
+2:Rock Slide,89.2857142857%,25.0
+3:Protect,78.5714285714%,22.0
+4:Low Kick,78.5714285714%,22.0
+5:Wide Guard,17.8571428571%,5.0
+6:Shell Smash,10.7142857143%,3.0
+7:Superpower,10.7142857143%,3.0
+8:Stone Edge,7.14285714286%,2.0
+9:Waterfall,7.14285714286%,2.0
+10:Hyper Beam,3.57142857143%,1.0
+11:Ice Beam,3.57142857143%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,78.5714285714%,22.0
+2:Weakness Policy,21.4285714286%,6.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,28.0
+
+ ---------- 
+Natures used:
+1:Adamant,89.2857142857%,25.0
+2:Jolly,7.14285714286%,2.0
+3:Modest,3.57142857143%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Gengar
+4:Thundurus
+5:Ludicolo
+6:Kangaskhan
+7:Dialga
+8:Talonflame
+9:Liepard
+10:Manectric
+11:Blaziken
+12:Smeargle
+13:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,57.8947368421%,16.2105263158
+2:Aqua Jet,26.3157894737%,7.36842105263
+3:Low Kick,10.5263157895%,2.94736842105
+4:Superpower,5.26315789474%,1.47368421053
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.0%,4.2
+2:Water Spout,15.0%,4.2
+3:Dazzling Gleam,10.0%,2.8
+4:Power Whip,10.0%,2.8
+5:Power-Up Punch,5.0%,1.4
+6:Brave Bird,5.0%,1.4
+7:Energy Ball,5.0%,1.4
+8:Dragon Claw,5.0%,1.4
+9:Hyper Voice,5.0%,1.4
+10:Eruption,5.0%,1.4
+11:Thunderbolt,5.0%,1.4
+12:Low Kick,5.0%,1.4
+13:Ice Beam,5.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Talonflame
+4:Xerneas
+5:Thundurus
+6:Ferrothorn
+7:Liepard
+8:Cresselia
+9:Weavile
+10:Smeargle
+11:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Ferrothorn
+4:Kyogre
+5:Talonflame
+6:Mienshao
+7:Amoonguss
+8:Cresselia
+9:Gardevoir
+10:Ditto
+11:Kangaskhan
+12:Raichu

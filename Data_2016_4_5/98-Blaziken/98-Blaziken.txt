@@ -1,0 +1,147 @@
+98:Blaziken|74
+ ---------- 
+Moves used:
+1:Protect,100.0%,74.0
+2:Flare Blitz,68.9189189189%,51.0
+3:Low Kick,55.4054054054%,41.0
+4:Rock Slide,44.5945945946%,33.0
+5:Superpower,29.7297297297%,22.0
+6:Hidden Power,24.3243243243%,18.0
+7:Double Kick,17.5675675676%,13.0
+8:Overheat,16.2162162162%,12.0
+9:Knock Off,8.10810810811%,6.0
+10:Flamethrower,6.75675675676%,5.0
+11:Feint,5.40540540541%,4.0
+12:Poison Jab,4.05405405405%,3.0
+13:Rock Tomb,4.05405405405%,3.0
+14:Baton Pass,4.05405405405%,3.0
+15:Bulk Up,2.7027027027%,2.0
+16:High Jump Kick,2.7027027027%,2.0
+17:Fire Blast,2.7027027027%,2.0
+18:Blaze Kick,1.35135135135%,1.0
+19:Swords Dance,1.35135135135%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,29.7297297297%,22.0
+2:Blazikenite,27.027027027%,20.0
+3:Focus Sash,24.3243243243%,18.0
+4:Lum Berry,12.1621621622%,9.0
+5:Expert Belt,2.7027027027%,2.0
+6:Coba Berry,2.7027027027%,2.0
+7:Wide Lens,1.35135135135%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,74.0
+
+ ---------- 
+Natures used:
+1:Adamant,56.7567567568%,42.0
+2:Naive,14.8648648649%,11.0
+3:Jolly,6.75675675676%,5.0
+4:Hasty,6.75675675676%,5.0
+5:Naughty,6.75675675676%,5.0
+6:Mild,5.40540540541%,4.0
+7:Impish,2.7027027027%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kyurem
+5:Weavile
+6:Rayquaza
+7:Salamence
+8:Kangaskhan
+9:Aegislash
+10:Thundurus
+11:Crobat
+12:Gengar
+13:Yveltal
+14:Landorus
+15:Dialga
+16:Meowstic
+17:Landorus
+18:Amoonguss
+19:Metagross
+20:Shuckle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flare Blitz,27.9069767442%,20.6511627907
+2:Low Kick,23.2558139535%,17.2093023256
+3:Rock Slide,20.9302325581%,15.488372093
+4:Hidden Power,11.6279069767%,8.60465116279
+5:Double Kick,9.3023255814%,6.88372093023
+6:Feint,2.32558139535%,1.72093023256
+7:Knock Off,2.32558139535%,1.72093023256
+8:Superpower,2.32558139535%,1.72093023256
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.2075471698%,9.77358490566
+2:Origin Pulse,11.320754717%,8.37735849057
+3:Dazzling Gleam,9.43396226415%,6.98113207547
+4:Hyper Voice,9.43396226415%,6.98113207547
+5:Scald,5.66037735849%,4.18867924528
+6:Brave Bird,5.66037735849%,4.18867924528
+7:Earthquake,5.66037735849%,4.18867924528
+8:Dragon Ascent,3.77358490566%,2.79245283019
+9:Moonblast,3.77358490566%,2.79245283019
+10:Earth Power,3.77358490566%,2.79245283019
+11:Thunderbolt,3.77358490566%,2.79245283019
+12:Psystrike,1.88679245283%,1.39622641509
+13:Power Whip,1.88679245283%,1.39622641509
+14:Shadow Sneak,1.88679245283%,1.39622641509
+15:Ice Shard,1.88679245283%,1.39622641509
+16:Dark Pulse,1.88679245283%,1.39622641509
+17:Sucker Punch,1.88679245283%,1.39622641509
+18:Water Spout,1.88679245283%,1.39622641509
+19:Double-Edge,1.88679245283%,1.39622641509
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Landorus
+4:Thundurus
+5:Talonflame
+6:Ferrothorn
+7:Cresselia
+8:Groudon
+9:Kyogre
+10:Salamence
+11:Yveltal
+12:Kyurem
+13:Landorus
+14:Terrakion
+15:Cryogonal
+16:Whimsicott
+17:Dialga
+18:Mawile
+19:Mawile
+20:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Landorus
+6:Thundurus
+7:Ho-Oh
+8:Yveltal
+9:Aegislash
+10:Talonflame
+11:Ferrothorn
+12:Weavile
+13:Rayquaza
+14:Rayquaza
+15:Mawile
+16:Suicune
+17:Mewtwo
+18:Ditto
+19:Kangaskhan

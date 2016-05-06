@@ -1,0 +1,153 @@
+46:Lugia|482
+ ---------- 
+Moves used:
+1:Aeroblast,93.77593361%,452.0
+2:Roost,46.4730290456%,224.0
+3:Protect,41.4937759336%,200.0
+4:Skill Swap,30.7053941909%,148.0
+5:Tailwind,25.7261410788%,124.0
+6:Thunder Wave,25.5186721992%,123.0
+7:Calm Mind,20.3319502075%,98.0
+8:Icy Wind,19.9170124481%,96.0
+9:Earth Power,19.7095435685%,95.0
+10:Recover,15.7676348548%,76.0
+11:Psyshock,14.5228215768%,70.0
+12:Hydro Pump,11.4107883817%,55.0
+13:Reflect,10.7883817427%,52.0
+14:Ice Beam,6.01659751037%,29.0
+15:Roar,4.77178423237%,23.0
+16:Whirlwind,3.73443983402%,18.0
+17:Sky Drop,2.48962655602%,12.0
+18:Psychic,2.07468879668%,10.0
+19:Thunder,1.45228215768%,7.0
+20:Psych Up,0.829875518672%,4.0
+0:Other,2.48962655602%,12.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,37.7593360996%,182.0
+2:Leftovers,14.5228215768%,70.0
+3:Sitrus Berry,12.8630705394%,62.0
+4:Rocky Helmet,9.33609958506%,45.0
+5:Lum Berry,8.09128630705%,39.0
+6:Choice Specs,6.01659751037%,29.0
+7:Assault Vest,3.73443983402%,18.0
+8:Scope Lens,3.73443983402%,18.0
+9:Mental Herb,3.11203319502%,15.0
+10:Razor Claw,0.829875518672%,4.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,482.0
+
+ ---------- 
+Natures used:
+1:Timid,80.2904564315%,387.0
+2:Bold,14.3153526971%,69.0
+3:Modest,5.39419087137%,26.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Groudon
+4:Raichu
+5:Rayquaza
+6:Salamence
+7:Gengar
+8:Ferrothorn
+9:Whimsicott
+10:Zoroark
+11:Toxicroak
+12:Thundurus
+13:Landorus
+14:Zekrom
+15:Smeargle
+16:Xerneas
+17:Talonflame
+18:Excadrill
+19:Sableye
+20:Venusaur
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aeroblast,81.3114754098%,391.921311475
+2:Icy Wind,5.24590163934%,25.2852459016
+3:Psyshock,4.91803278689%,23.7049180328
+4:Earth Power,2.95081967213%,14.2229508197
+5:Ice Beam,2.29508196721%,11.062295082
+6:Hydro Pump,1.6393442623%,7.90163934426
+7:Blizzard,0.655737704918%,3.1606557377
+8:Hidden Power,0.327868852459%,1.58032786885
+9:Psychic,0.327868852459%,1.58032786885
+10:Thunder,0.327868852459%,1.58032786885
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.38628158845%,45.2418772563
+2:Double-Edge,7.94223826715%,38.2815884477
+3:Water Spout,7.2202166065%,34.8014440433
+4:Eruption,6.49819494585%,31.321299639
+5:Ice Beam,5.41516245487%,26.1010830325
+6:Rock Slide,5.05415162455%,24.3610108303
+7:Origin Pulse,4.69314079422%,22.6209386282
+8:Dragon Ascent,4.3321299639%,20.880866426
+9:Precipice Blades,4.3321299639%,20.880866426
+10:Moonblast,3.97111913357%,19.1407942238
+11:Brave Bird,2.8880866426%,13.9205776173
+12:Thunderbolt,2.8880866426%,13.9205776173
+13:Fire Punch,2.8880866426%,13.9205776173
+14:Sucker Punch,2.52707581227%,12.1805054152
+15:Knock Off,2.16606498195%,10.440433213
+16:Thunder,2.16606498195%,10.440433213
+17:Snarl,1.4440433213%,6.96028880866
+18:Foul Play,1.4440433213%,6.96028880866
+19:Flare Blitz,1.4440433213%,6.96028880866
+20:Hyper Voice,1.4440433213%,6.96028880866
+0:Other,18.0505415162%,87.0036101083
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Salamence
+5:Talonflame
+6:Landorus
+7:Crobat
+8:Ferrothorn
+9:Kyogre
+10:Thundurus
+11:Cresselia
+12:Rayquaza
+13:Gengar
+14:Smeargle
+15:Amoonguss
+16:Whimsicott
+17:Gengar
+18:Yveltal
+19:Dialga
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Yveltal
+6:Salamence
+7:Talonflame
+8:Rayquaza
+9:Thundurus
+10:Gengar
+11:Rayquaza
+12:Landorus
+13:Dialga
+14:Cresselia
+15:Weavile
+16:Kyogre
+17:Gengar
+18:Kyurem
+19:Liepard
+20:Giratina

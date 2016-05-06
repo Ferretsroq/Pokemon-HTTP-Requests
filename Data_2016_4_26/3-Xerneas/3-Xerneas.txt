@@ -1,0 +1,183 @@
+3:Xerneas|77697
+ ---------- 
+Moves used:
+1:Dazzling Gleam,98.9767944708%,76902.0
+2:Geomancy,93.4952443466%,72643.0
+3:Moonblast,93.0949714918%,72332.0
+4:Protect,92.9186455075%,72195.0
+5:Grass Knot,7.14184588852%,5549.0
+6:Psychic,3.26782243845%,2539.0
+7:Hidden Power,2.77102076013%,2153.0
+8:Focus Blast,2.07730028186%,1614.0
+9:Sleep Talk,1.96017864268%,1523.0
+10:Thunderbolt,1.33982007027%,1041.0
+11:Psyshock,0.909945042923%,707.0
+12:Thunder,0.646099592005%,502.0
+13:Substitute,0.203354054854%,158.0
+14:Flash Cannon,0.136427403889%,106.0
+15:Psych Up,0.135140352909%,105.0
+16:Horn Leech,0.0952417725266%,74.0
+17:Aurora Beam,0.0707878039049%,55.0
+18:Heal Pulse,0.0540561411638%,42.0
+19:Megahorn,0.0514820392036%,40.0
+20:Close Combat,0.0489079372434%,38.0
+0:Other,0.176325984272%,137.0
+
+ ---------- 
+Items used:
+1:Power Herb,93.2339729977%,72440.0
+2:Choice Scarf,3.16614541102%,2460.0
+3:Choice Specs,3.11337632084%,2419.0
+4:Life Orb,0.248400839157%,193.0
+5:Pixie Plate,0.14414970977%,112.0
+6:Leftovers,0.0167316627412%,13.0
+7:Assault Vest,0.0128705098009%,10.0
+8:Lum Berry,0.0115834588208%,9.0
+9:Power Anklet,0.00900935686063%,7.0
+10:Mental Herb,0.00900935686063%,7.0
+11:Power Weight,0.00257410196018%,2.0
+12:Power Lens,0.00257410196018%,2.0
+13:Power Belt,0.00128705098009%,1.0
+14:Choice Band,0.00128705098009%,1.0
+15:White Herb,0.00128705098009%,1.0
+16:Sitrus Berry,0.00128705098009%,1.0
+
+ ---------- 
+Abilities used:
+1:Fairy Aura,100.0%,77697.0
+
+ ---------- 
+Natures used:
+1:Timid,72.6334350104%,56434.0
+2:Modest,22.9674247397%,17845.0
+3:Bold,2.80577113659%,2180.0
+4:Calm,0.526403850857%,409.0
+5:Quiet,0.248400839157%,193.0
+6:Lonely,0.155733168591%,121.0
+7:Rash,0.14028855683%,109.0
+8:Naive,0.123556894089%,96.0
+9:Lax,0.108112282328%,84.0
+10:Hasty,0.0900935686063%,70.0
+11:Quirky,0.0514820392036%,40.0
+12:Jolly,0.0489079372434%,38.0
+13:Mild,0.0360374274425%,28.0
+14:Serious,0.0180187137213%,14.0
+15:Brave,0.0154446117611%,12.0
+16:Careful,0.00772230588054%,6.0
+17:Sassy,0.00643525490045%,5.0
+18:Hardy,0.00643525490045%,5.0
+19:Gentle,0.00514820392036%,4.0
+20:Relaxed,0.00386115294027%,3.0
+0:Other,0.00128705098009%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Smeargle
+5:Salamence
+6:Kyogre
+7:Cresselia
+8:Rayquaza
+9:Amoonguss
+10:Thundurus
+11:Crobat
+12:Gengar
+13:Landorus
+14:Liepard
+15:Ferrothorn
+16:Whimsicott
+17:Yveltal
+18:Weavile
+19:Mawile
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,70.0735572673%,54445.05179
+2:Moonblast,28.6036747064%,22224.1971366
+3:Grass Knot,0.561939638843%,436.610241192
+4:Hidden Power,0.299911605001%,233.022319737
+5:Psychic,0.153112766763%,118.964026392
+6:Thunderbolt,0.0789241065791%,61.3216630888
+7:Focus Blast,0.0773456244475%,60.095229827
+8:Thunder,0.0441974996843%,34.3401313297
+9:Psyshock,0.0394620532896%,30.6608315444
+10:Sleep Talk,0.0347266068948%,26.9815317591
+11:Flash Cannon,0.00789241065791%,6.13216630888
+12:Close Combat,0.00631392852633%,4.9057330471
+13:Struggle,0.00631392852633%,4.9057330471
+14:Rock Slide,0.00473544639475%,3.67929978533
+15:Aurora Beam,0.00473544639475%,3.67929978533
+16:Horn Leech,0.00315696426316%,2.45286652355
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.1197739012%,8639.730728
+2:Dazzling Gleam,7.27268297437%,5650.6564906
+3:Double-Edge,7.17766299581%,5576.82881785
+4:Gyro Ball,6.94376766397%,5395.09916188
+5:Moonblast,6.11538836371%,4751.47329695
+6:Water Spout,5.90585712893%,4588.67381347
+7:Iron Head,4.76074456681%,3698.95570607
+8:Origin Pulse,4.46837540201%,3471.7936361
+9:Fire Punch,4.31731800019%,3354.42656661
+10:Eruption,4.15895136926%,3231.38044538
+11:Brave Bird,3.84709092681%,2989.0742374
+12:Dragon Ascent,3.5157392067%,2731.62389143
+13:Extreme Speed,3.16002338953%,2455.24337297
+14:Sludge Bomb,2.79943475295%,2175.07682
+15:Sucker Punch,1.70305038495%,1323.2190576
+16:Ice Beam,1.66163141994%,1291.03776435
+17:Hyper Voice,1.55199298314%,1205.85198811
+18:Rock Slide,1.51788324725%,1179.34974661
+19:Return,1.34733456778%,1046.83853913
+20:Flash Cannon,1.11100282624%,863.2158659
+0:Other,13.3978169769%,10409.7018565
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Groudon
+6:Smeargle
+7:Thundurus
+8:Rayquaza
+9:Talonflame
+10:Landorus
+11:Yveltal
+12:Cresselia
+13:Crobat
+14:Weavile
+15:Rayquaza
+16:Liepard
+17:Whimsicott
+18:Dialga
+19:Sableye
+20:Kyurem
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Ferrothorn
+6:Rayquaza
+7:Mawile
+8:Talonflame
+9:Salamence
+10:Gengar
+11:Bronzong
+12:Rayquaza
+13:Landorus
+14:Dialga
+15:Scizor
+16:Gengar
+17:Aegislash
+18:Thundurus
+19:Yveltal
+20:Ditto

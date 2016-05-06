@@ -1,0 +1,39 @@
+286:Umbreon|1
+ ---------- 
+Moves used:
+1:Foul Play,100.0%,1.0
+2:Wish,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Toxic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Heatran
+3:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

@@ -1,0 +1,113 @@
+197:Entei|36
+ ---------- 
+Moves used:
+1:Sacred Fire,100.0%,36.0
+2:Stone Edge,72.2222222222%,26.0
+3:Protect,69.4444444444%,25.0
+4:Snarl,44.4444444444%,16.0
+5:Giga Impact,33.3333333333%,12.0
+6:Bulldoze,27.7777777778%,10.0
+7:Iron Head,16.6666666667%,6.0
+8:Substitute,16.6666666667%,6.0
+9:Will-O-Wisp,5.55555555556%,2.0
+10:Hidden Power,5.55555555556%,2.0
+11:Rest,5.55555555556%,2.0
+12:Toxic,2.77777777778%,1.0
+
+ ---------- 
+Items used:
+1:Shuca Berry,33.3333333333%,12.0
+2:Assault Vest,25.0%,9.0
+3:Leftovers,19.4444444444%,7.0
+4:Life Orb,11.1111111111%,4.0
+5:Chesto Berry,8.33333333333%,3.0
+6:Air Balloon,2.77777777778%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,36.0
+
+ ---------- 
+Natures used:
+1:Jolly,47.2222222222%,17.0
+2:Adamant,47.2222222222%,17.0
+3:Naive,2.77777777778%,1.0
+4:Impish,2.77777777778%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Crobat
+5:Bisharp
+6:Ferrothorn
+7:Yveltal
+8:Thundurus
+9:Raichu
+10:Amoonguss
+11:Weavile
+12:Mawile
+13:Kangaskhan
+14:Salamence
+15:Scizor
+16:Gengar
+17:Noivern
+18:Landorus
+19:Mienshao
+20:Seismitoad
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sacred Fire,41.1764705882%,14.8235294118
+2:Stone Edge,17.6470588235%,6.35294117647
+3:Iron Head,17.6470588235%,6.35294117647
+4:Snarl,11.7647058824%,4.23529411765
+5:Giga Impact,11.7647058824%,4.23529411765
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.8148148148%,5.33333333333
+2:Origin Pulse,14.8148148148%,5.33333333333
+3:Rock Slide,14.8148148148%,5.33333333333
+4:Water Spout,11.1111111111%,4.0
+5:Snarl,7.40740740741%,2.66666666667
+6:Scald,7.40740740741%,2.66666666667
+7:Dragon Ascent,3.7037037037%,1.33333333333
+8:Foul Play,3.7037037037%,1.33333333333
+9:Earth Power,3.7037037037%,1.33333333333
+10:Sucker Punch,3.7037037037%,1.33333333333
+11:Tri Attack,3.7037037037%,1.33333333333
+12:Low Kick,3.7037037037%,1.33333333333
+13:Double-Edge,3.7037037037%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Talonflame
+4:Greninja
+5:Kyurem
+6:Landorus
+7:Bisharp
+8:Mienshao
+9:Cresselia
+10:Togekiss
+11:Weavile
+12:Crobat
+13:Gengar
+14:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Yveltal
+4:Landorus
+5:Dialga
+6:Rayquaza
+7:Kyogre
+8:Porygon2
+9:Slowking
+10:Mewtwo
+11:Kangaskhan

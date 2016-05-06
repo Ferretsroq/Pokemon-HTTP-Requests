@@ -1,0 +1,134 @@
+121:Gallade|89
+ ---------- 
+Moves used:
+1:Wide Guard,85.393258427%,76.0
+2:Close Combat,77.5280898876%,69.0
+3:Protect,37.0786516854%,33.0
+4:Quick Guard,26.9662921348%,24.0
+5:Feint,15.7303370787%,14.0
+6:Helping Hand,15.7303370787%,14.0
+7:Thunder Wave,15.7303370787%,14.0
+8:Poison Jab,14.606741573%,13.0
+9:Rock Slide,14.606741573%,13.0
+10:Ice Punch,13.4831460674%,12.0
+11:Drain Punch,11.2359550562%,10.0
+12:Low Kick,11.2359550562%,10.0
+13:Trick Room,10.1123595506%,9.0
+14:Zen Headbutt,10.1123595506%,9.0
+15:Encore,7.86516853933%,7.0
+16:Ally Switch,6.74157303371%,6.0
+17:Knock Off,5.61797752809%,5.0
+18:Skill Swap,4.49438202247%,4.0
+19:Magic Coat,4.49438202247%,4.0
+20:Destiny Bond,4.49438202247%,4.0
+0:Other,6.74157303371%,6.0
+
+ ---------- 
+Items used:
+1:Galladite,85.393258427%,76.0
+2:Focus Sash,14.606741573%,13.0
+
+ ---------- 
+Abilities used:
+1:Justified,59.5505617978%,53.0
+2:Steadfast,40.4494382022%,36.0
+
+ ---------- 
+Natures used:
+1:Jolly,46.0674157303%,41.0
+2:Adamant,26.9662921348%,24.0
+3:Impish,14.606741573%,13.0
+4:Sassy,10.1123595506%,9.0
+5:Careful,2.24719101124%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kyurem
+4:Rayquaza
+5:Cresselia
+6:Xerneas
+7:Ferrothorn
+8:Zekrom
+9:Meowstic
+10:Smeargle
+11:Yveltal
+12:Porygon2
+13:Tornadus
+14:Giratina
+15:Altaria
+16:Sableye
+17:Heliolisk
+18:Gastrodon
+19:Crobat
+20:Ditto
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,70.0%,62.3
+2:Rock Slide,20.0%,17.8
+3:Psycho Cut,5.0%,4.45
+4:Drain Punch,5.0%,4.45
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,10.2941176471%,9.16176470588
+2:Dragon Ascent,8.82352941176%,7.85294117647
+3:Moonblast,7.35294117647%,6.54411764706
+4:Water Spout,7.35294117647%,6.54411764706
+5:Fire Punch,7.35294117647%,6.54411764706
+6:Precipice Blades,4.41176470588%,3.92647058824
+7:Dazzling Gleam,4.41176470588%,3.92647058824
+8:Play Rough,4.41176470588%,3.92647058824
+9:Brave Bird,4.41176470588%,3.92647058824
+10:Gyro Ball,4.41176470588%,3.92647058824
+11:Eruption,4.41176470588%,3.92647058824
+12:Sludge Bomb,4.41176470588%,3.92647058824
+13:Origin Pulse,2.94117647059%,2.61764705882
+14:Sucker Punch,2.94117647059%,2.61764705882
+15:Shadow Ball,2.94117647059%,2.61764705882
+16:Extreme Speed,2.94117647059%,2.61764705882
+17:Oblivion Wing,1.47058823529%,1.30882352941
+18:Snarl,1.47058823529%,1.30882352941
+19:Volt Switch,1.47058823529%,1.30882352941
+20:Scald,1.47058823529%,1.30882352941
+0:Other,8.82352941176%,7.85294117647
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Dialga
+4:Weavile
+5:Crobat
+6:Kyurem
+7:Thundurus
+8:Terrakion
+9:Mienshao
+10:Ferrothorn
+11:Groudon
+12:Kyogre
+13:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Ferrothorn
+7:Gengar
+8:Yveltal
+9:Talonflame
+10:Mawile
+11:Rayquaza
+12:Whimsicott
+13:Weavile
+14:Salamence
+15:Manectric
+16:Smeargle
+17:Gengar
+18:Raichu
+19:Charizard

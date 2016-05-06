@@ -1,0 +1,94 @@
+164:Riolu|37
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,37.0
+2:Feint,54.0540540541%,20.0
+3:Screech,51.3513513514%,19.0
+4:Force Palm,48.6486486486%,18.0
+5:Swagger,48.6486486486%,18.0
+6:Final Gambit,40.5405405405%,15.0
+7:Low Kick,40.5405405405%,15.0
+8:Role Play,10.8108108108%,4.0
+9:Protect,5.40540540541%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,89.1891891892%,33.0
+2:Focus Sash,10.8108108108%,4.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Jolly,97.2972972973%,36.0
+2:Impish,2.7027027027%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Smeargle
+4:Kyogre
+5:Bisharp
+6:Groudon
+7:Talonflame
+8:Aerodactyl
+9:Salamence
+10:Lugia
+11:Yveltal
+12:Heliolisk
+13:Cryogonal
+14:Amoonguss
+15:Medicham
+16:Dugtrio
+17:Terrakion
+18:Giratina
+19:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,12.9032258065%,4.77419354839
+2:Precipice Blades,9.67741935484%,3.58064516129
+3:Eruption,9.67741935484%,3.58064516129
+4:Dazzling Gleam,6.45161290323%,2.38709677419
+5:Moonblast,6.45161290323%,2.38709677419
+6:Brave Bird,6.45161290323%,2.38709677419
+7:Water Spout,6.45161290323%,2.38709677419
+8:Extreme Speed,6.45161290323%,2.38709677419
+9:Blizzard,6.45161290323%,2.38709677419
+10:Origin Pulse,3.22580645161%,1.1935483871
+11:Power-Up Punch,3.22580645161%,1.1935483871
+12:Psystrike,3.22580645161%,1.1935483871
+13:Dark Pulse,3.22580645161%,1.1935483871
+14:Frustration,3.22580645161%,1.1935483871
+15:Icy Wind,3.22580645161%,1.1935483871
+16:Thunderbolt,3.22580645161%,1.1935483871
+17:Ice Beam,3.22580645161%,1.1935483871
+18:Double-Edge,3.22580645161%,1.1935483871
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Kyurem
+7:Kyogre
+8:Yveltal
+9:Greninja
+10:Thundurus
+11:Whimsicott
+12:Rayquaza
+13:Rayquaza
+14:Kyogre
+15:Mewtwo
+16:Gengar

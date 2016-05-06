@@ -1,0 +1,105 @@
+150:Zoroark|50
+ ---------- 
+Moves used:
+1:Protect,86.0%,43.0
+2:Taunt,82.0%,41.0
+3:Fling,74.0%,37.0
+4:Night Daze,64.0%,32.0
+5:Dark Pulse,22.0%,11.0
+6:Flamethrower,18.0%,9.0
+7:Foul Play,14.0%,7.0
+8:U-turn,10.0%,5.0
+9:Sludge Bomb,10.0%,5.0
+10:Focus Blast,8.0%,4.0
+11:Nasty Plot,4.0%,2.0
+12:Trick,4.0%,2.0
+13:Hidden Power,4.0%,2.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,74.0%,37.0
+2:Choice Specs,14.0%,7.0
+3:Life Orb,8.0%,4.0
+4:Focus Sash,4.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Illusion,100.0%,50.0
+
+ ---------- 
+Natures used:
+1:Timid,90.0%,45.0
+2:Hasty,10.0%,5.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Toxicroak
+3:Zekrom
+4:Marowak
+5:Rayquaza
+6:Yveltal
+7:Sharpedo
+8:Raichu
+9:Kyurem
+10:Gothorita
+11:Manectric
+12:Smeargle
+13:Groudon
+14:Mawile
+15:Xerneas
+16:Giratina
+17:Kyogre
+18:Talonflame
+19:Landorus
+20:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dark Pulse,36.3636363636%,18.1818181818
+2:Night Daze,27.2727272727%,13.6363636364
+3:Flamethrower,18.1818181818%,9.09090909091
+4:Focus Blast,9.09090909091%,4.54545454545
+5:Fling,9.09090909091%,4.54545454545
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,40.5405405405%,20.2702702703
+2:Precipice Blades,8.10810810811%,4.05405405405
+3:Hyper Voice,8.10810810811%,4.05405405405
+4:Double-Edge,8.10810810811%,4.05405405405
+5:Play Rough,5.40540540541%,2.7027027027
+6:Grass Knot,5.40540540541%,2.7027027027
+7:Water Spout,5.40540540541%,2.7027027027
+8:Origin Pulse,2.7027027027%,1.35135135135
+9:Power-Up Punch,2.7027027027%,1.35135135135
+10:Moonblast,2.7027027027%,1.35135135135
+11:Scald,2.7027027027%,1.35135135135
+12:Dragon Pulse,2.7027027027%,1.35135135135
+13:Frustration,2.7027027027%,1.35135135135
+14:High Jump Kick,2.7027027027%,1.35135135135
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Smeargle
+3:Talonflame
+4:Ferrothorn
+5:Cresselia
+6:Kyogre
+7:Mawile
+8:Crobat
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Groudon
+5:Salamence
+6:Amoonguss
+7:Mawile
+8:Mienshao
+9:Whimsicott
+10:Dialga

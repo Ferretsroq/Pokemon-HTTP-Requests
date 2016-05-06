@@ -1,0 +1,145 @@
+112:Pikachu|182
+ ---------- 
+Moves used:
+1:Fake Out,92.3076923077%,168.0
+2:Volt Tackle,61.5384615385%,112.0
+3:Protect,42.8571428571%,78.0
+4:Feint,41.7582417582%,76.0
+5:Endeavor,31.3186813187%,57.0
+6:Hidden Power,29.1208791209%,53.0
+7:Nuzzle,23.6263736264%,43.0
+8:Knock Off,16.4835164835%,30.0
+9:Encore,12.0879120879%,22.0
+10:Brick Break,11.5384615385%,21.0
+11:Quick Attack,9.34065934066%,17.0
+12:Thunderbolt,8.24175824176%,15.0
+13:Helping Hand,7.69230769231%,14.0
+14:Flash,7.14285714286%,13.0
+15:Discharge,1.64835164835%,3.0
+16:Spark,1.64835164835%,3.0
+17:Slam,1.64835164835%,3.0
+
+ ---------- 
+Items used:
+1:Light Ball,67.5824175824%,123.0
+2:Focus Sash,30.2197802198%,55.0
+3:Magnet,0.549450549451%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,93.956043956%,171.0
+2:Static,6.04395604396%,11.0
+
+ ---------- 
+Natures used:
+1:Naive,45.6043956044%,83.0
+2:Jolly,24.7252747253%,45.0
+3:Relaxed,9.34065934066%,17.0
+4:Timid,8.24175824176%,15.0
+5:Adamant,6.04395604396%,11.0
+6:Naughty,3.84615384615%,7.0
+7:Careful,1.64835164835%,3.0
+8:Modest,0.549450549451%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Groudon
+4:Greninja
+5:Xerneas
+6:Salamence
+7:Talonflame
+8:Kangaskhan
+9:Ferrothorn
+10:Crobat
+11:Blastoise
+12:Landorus
+13:Mawile
+14:Gengar
+15:Lugia
+16:Lapras
+17:Cresselia
+18:Scizor
+19:Charizard
+20:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,48.7804878049%,88.7804878049
+2:Feint,17.0731707317%,31.0731707317
+3:Thunderbolt,12.1951219512%,22.1951219512
+4:Hidden Power,9.75609756098%,17.756097561
+5:Quick Attack,4.87804878049%,8.87804878049
+6:Nuzzle,2.43902439024%,4.43902439024
+7:Knock Off,2.43902439024%,4.43902439024
+8:Brick Break,2.43902439024%,4.43902439024
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,13.3802816901%,24.3521126761
+2:Dazzling Gleam,10.5633802817%,19.2253521127
+3:Double-Edge,6.33802816901%,11.5352112676
+4:Fake Out,4.92957746479%,8.97183098592
+5:Origin Pulse,4.22535211268%,7.69014084507
+6:Sucker Punch,4.22535211268%,7.69014084507
+7:Return,4.22535211268%,7.69014084507
+8:Hyper Voice,3.52112676056%,6.40845070423
+9:Extreme Speed,3.52112676056%,6.40845070423
+10:Sludge Bomb,3.52112676056%,6.40845070423
+11:Ice Beam,3.52112676056%,6.40845070423
+12:Earth Power,2.81690140845%,5.12676056338
+13:Precipice Blades,2.11267605634%,3.84507042254
+14:Power Whip,2.11267605634%,3.84507042254
+15:Play Rough,1.40845070423%,2.56338028169
+16:Foul Play,1.40845070423%,2.56338028169
+17:Draco Meteor,1.40845070423%,2.56338028169
+18:Dragon Pulse,1.40845070423%,2.56338028169
+19:Feint,1.40845070423%,2.56338028169
+20:Gyro Ball,1.40845070423%,2.56338028169
+0:Other,19.7183098592%,35.8873239437
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Crobat
+4:Talonflame
+5:Yveltal
+6:Xerneas
+7:Cresselia
+8:Salamence
+9:Landorus
+10:Thundurus
+11:Liepard
+12:Bronzong
+13:Ho-Oh
+14:Lugia
+15:Smeargle
+16:Azumarill
+17:Lapras
+18:Gyarados
+19:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Xerneas
+4:Groudon
+5:Salamence
+6:Ferrothorn
+7:Yveltal
+8:Mawile
+9:Thundurus
+10:Cresselia
+11:Weavile
+12:Rayquaza
+13:Rayquaza
+14:Gengar
+15:Dialga
+16:Salamence
+17:Ditto
+18:Raichu
+19:Aegislash
+20:Talonflame

@@ -1,0 +1,45 @@
+312:Emboar|1
+ ---------- 
+Moves used:
+1:Head Smash,100.0%,1.0
+2:Flare Blitz,100.0%,1.0
+3:Sucker Punch,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Reckless,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Porygon2
+4:Gyarados
+5:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Head Smash,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,50.0%,0.5
+2:Dazzling Gleam,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre

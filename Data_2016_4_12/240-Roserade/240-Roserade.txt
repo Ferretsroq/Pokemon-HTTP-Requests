@@ -1,0 +1,60 @@
+240:Roserade|7
+ ---------- 
+Moves used:
+1:Sludge Bomb,100.0%,7.0
+2:Magical Leaf,85.7142857143%,6.0
+3:Hidden Power,85.7142857143%,6.0
+4:Protect,85.7142857143%,6.0
+5:Giga Drain,14.2857142857%,1.0
+6:Flash,14.2857142857%,1.0
+7:Double Team,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,85.7142857143%,6.0
+2:Lax Incense,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Technician,85.7142857143%,6.0
+2:Poison Point,14.2857142857%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,85.7142857143%,6.0
+2:Calm,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Weavile
+3:Mewtwo
+4:Landorus
+5:Cobalion
+6:Porygon-Z
+7:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Magical Leaf,66.6666666667%,4.66666666667
+2:Hidden Power,33.3333333333%,2.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Iron Head,25.0%,1.75
+2:Eruption,25.0%,1.75
+3:Psychic,25.0%,1.75
+4:Double-Edge,25.0%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Groudon
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Cresselia
+2:Groudon
+3:Mawile
+4:Kangaskhan

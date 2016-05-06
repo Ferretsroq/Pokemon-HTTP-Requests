@@ -1,0 +1,141 @@
+126:Rhyperior|108
+ ---------- 
+Moves used:
+1:Rock Slide,86.1111111111%,93.0
+2:Earthquake,65.7407407407%,71.0
+3:Drill Run,44.4444444444%,48.0
+4:Protect,39.8148148148%,43.0
+5:Hammer Arm,33.3333333333%,36.0
+6:Ice Punch,33.3333333333%,36.0
+7:Thunder Punch,25.0%,27.0
+8:Superpower,17.5925925926%,19.0
+9:Stone Edge,13.8888888889%,15.0
+10:Megahorn,13.8888888889%,15.0
+11:Substitute,13.8888888889%,15.0
+12:Poison Jab,12.037037037%,13.0
+13:Rock Wrecker,0.925925925926%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,35.1851851852%,38.0
+2:Expert Belt,19.4444444444%,21.0
+3:Life Orb,17.5925925926%,19.0
+4:Weakness Policy,15.7407407407%,17.0
+5:Iron Ball,8.33333333333%,9.0
+6:Wide Lens,1.85185185185%,2.0
+7:Babiri Berry,1.85185185185%,2.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,57.4074074074%,62.0
+2:Lightning Rod,42.5925925926%,46.0
+
+ ---------- 
+Natures used:
+1:Adamant,50.9259259259%,55.0
+2:Brave,37.962962963%,41.0
+3:Jolly,11.1111111111%,12.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Mewtwo
+4:Crobat
+5:Cresselia
+6:Kangaskhan
+7:Dialga
+8:Salamence
+9:Whimsicott
+10:Mawile
+11:Jellicent
+12:Weavile
+13:Illumise
+14:Ludicolo
+15:Ferrothorn
+16:Amoonguss
+17:Giratina
+18:Sableye
+19:Lugia
+20:Xerneas
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,50.0%,54.0
+2:Earthquake,16.6666666667%,18.0
+3:Drill Run,8.33333333333%,9.0
+4:Stone Edge,8.33333333333%,9.0
+5:Superpower,6.66666666667%,7.2
+6:Ice Punch,6.66666666667%,7.2
+7:Hammer Arm,1.66666666667%,1.8
+8:Thunder Punch,1.66666666667%,1.8
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.75%,14.85
+2:Earth Power,12.5%,13.5
+3:Origin Pulse,8.75%,9.45
+4:Water Spout,8.75%,9.45
+5:Dazzling Gleam,5.0%,5.4
+6:Power Whip,3.75%,4.05
+7:Sucker Punch,3.75%,4.05
+8:Low Kick,3.75%,4.05
+9:Ice Beam,3.75%,4.05
+10:Moonblast,2.5%,2.7
+11:Scald,2.5%,2.7
+12:Grass Knot,2.5%,2.7
+13:Draco Meteor,2.5%,2.7
+14:Brave Bird,2.5%,2.7
+15:Hyper Voice,2.5%,2.7
+16:Foul Play,1.25%,1.35
+17:Shadow Force,1.25%,1.35
+18:Iron Head,1.25%,1.35
+19:Flash Cannon,1.25%,1.35
+20:Bullet Punch,1.25%,1.35
+0:Other,11.25%,12.15
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Thundurus
+6:Ferrothorn
+7:Weavile
+8:Rayquaza
+9:Salamence
+10:Crobat
+11:Dialga
+12:Yveltal
+13:Xerneas
+14:Aegislash
+15:Landorus
+16:Amoonguss
+17:Liepard
+18:Cresselia
+19:Togekiss
+20:Lucario
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Yveltal
+5:Ferrothorn
+6:Cresselia
+7:Rayquaza
+8:Kangaskhan
+9:Talonflame
+10:Amoonguss
+11:Dialga
+12:Salamence
+13:Mawile
+14:Smeargle
+15:Sylveon
+16:Aegislash
+17:Thundurus
+18:Giratina
+19:Lugia
+20:Hitmontop

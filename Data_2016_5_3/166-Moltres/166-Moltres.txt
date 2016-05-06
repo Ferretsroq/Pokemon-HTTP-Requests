@@ -1,0 +1,114 @@
+166:Moltres|67
+ ---------- 
+Moves used:
+1:Hurricane,98.5074626866%,66.0
+2:Tailwind,94.0298507463%,63.0
+3:Flamethrower,67.1641791045%,45.0
+4:Safeguard,49.2537313433%,33.0
+5:Heat Wave,32.8358208955%,22.0
+6:Protect,23.8805970149%,16.0
+7:Roost,22.3880597015%,15.0
+8:Hidden Power,5.97014925373%,4.0
+9:Roar,5.97014925373%,4.0
+
+ ---------- 
+Items used:
+1:Lum Berry,37.3134328358%,25.0
+2:Rocky Helmet,16.4179104478%,11.0
+3:Focus Sash,14.9253731343%,10.0
+4:Life Orb,14.9253731343%,10.0
+5:Charti Berry,7.46268656716%,5.0
+6:Passho Berry,4.4776119403%,3.0
+7:Chesto Berry,2.98507462687%,2.0
+8:Sitrus Berry,1.49253731343%,1.0
+
+ ---------- 
+Abilities used:
+1:Flame Body,56.7164179104%,38.0
+2:Pressure,43.2835820896%,29.0
+
+ ---------- 
+Natures used:
+1:Timid,56.7164179104%,38.0
+2:Calm,41.7910447761%,28.0
+3:Bold,1.49253731343%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Dialga
+3:Rayquaza
+4:Thundurus
+5:Mawile
+6:Kangaskhan
+7:Salamence
+8:Yveltal
+9:Amoonguss
+10:Metagross
+11:Raichu
+12:Aegislash
+13:Ferrothorn
+14:Espeon
+15:Mewtwo
+16:Landorus
+17:Sunflora
+18:Zekrom
+19:Rotom
+20:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,46.6666666667%,31.2666666667
+2:Flamethrower,33.3333333333%,22.3333333333
+3:Heat Wave,13.3333333333%,8.93333333333
+4:Hidden Power,6.66666666667%,4.46666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,16.9811320755%,11.3773584906
+2:Water Spout,13.2075471698%,8.84905660377
+3:Rock Slide,11.320754717%,7.58490566038
+4:Dazzling Gleam,7.54716981132%,5.05660377358
+5:Sucker Punch,7.54716981132%,5.05660377358
+6:Hyper Voice,7.54716981132%,5.05660377358
+7:Double-Edge,7.54716981132%,5.05660377358
+8:Precipice Blades,5.66037735849%,3.79245283019
+9:Scald,3.77358490566%,2.52830188679
+10:Eruption,3.77358490566%,2.52830188679
+11:Icy Wind,3.77358490566%,2.52830188679
+12:Brave Bird,1.88679245283%,1.2641509434
+13:Dragon Pulse,1.88679245283%,1.2641509434
+14:Frustration,1.88679245283%,1.2641509434
+15:Return,1.88679245283%,1.2641509434
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+2:Groudon
+3:Kangaskhan
+4:Meowstic
+5:Talonflame
+6:Kyurem
+7:Landorus
+8:Ferrothorn
+9:Cresselia
+10:Mawile
+11:Smeargle
+12:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Salamence
+4:Kangaskhan
+5:Xerneas
+6:Yveltal
+7:Talonflame
+8:Landorus
+9:Cresselia
+10:Dialga
+11:Garchomp
+12:Empoleon
+13:Latias
+14:Kangaskhan

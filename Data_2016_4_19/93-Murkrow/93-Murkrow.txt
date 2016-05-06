@@ -1,0 +1,128 @@
+93:Murkrow|182
+ ---------- 
+Moves used:
+1:Taunt,84.0659340659%,153.0
+2:Quash,68.6813186813%,125.0
+3:Haze,51.0989010989%,93.0
+4:Tailwind,41.7582417582%,76.0
+5:Thunder Wave,28.021978022%,51.0
+6:Icy Wind,26.3736263736%,48.0
+7:Protect,26.3736263736%,48.0
+8:Perish Song,25.8241758242%,47.0
+9:Foul Play,16.4835164835%,30.0
+10:Roost,9.34065934066%,17.0
+11:Confuse Ray,8.24175824176%,15.0
+12:Swagger,4.94505494505%,9.0
+13:Brave Bird,4.3956043956%,8.0
+14:Night Shade,2.1978021978%,4.0
+15:Feather Dance,1.64835164835%,3.0
+16:Torment,0.549450549451%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,91.0
+2:Eviolite,48.3516483516%,88.0
+3:Mental Herb,1.0989010989%,2.0
+4:Everstone,0.549450549451%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,182.0
+
+ ---------- 
+Natures used:
+1:Careful,51.0989010989%,93.0
+2:Timid,26.9230769231%,49.0
+3:Naive,7.14285714286%,13.0
+4:Jolly,7.14285714286%,13.0
+5:Impish,3.84615384615%,7.0
+6:Calm,2.74725274725%,5.0
+7:Bold,1.0989010989%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Gengar
+5:Rayquaza
+6:Salamence
+7:Probopass
+8:Sableye
+9:Weavile
+10:Cresselia
+11:Ferrothorn
+12:Raichu
+13:Kangaskhan
+14:Gothitelle
+15:Yveltal
+16:Manectric
+17:Klefki
+18:Landorus
+19:Palkia
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,62.5%,113.75
+2:Icy Wind,37.5%,68.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.5714285714%,33.8
+2:Water Spout,7.14285714286%,13.0
+3:Rock Slide,5.71428571429%,10.4
+4:Brave Bird,5.0%,9.1
+5:Hyper Voice,5.0%,9.1
+6:Eruption,5.0%,9.1
+7:Double-Edge,4.28571428571%,7.8
+8:Origin Pulse,3.57142857143%,6.5
+9:Extreme Speed,3.57142857143%,6.5
+10:Thunderbolt,3.57142857143%,6.5
+11:Gyro Ball,2.85714285714%,5.2
+12:Ice Beam,2.85714285714%,5.2
+13:Moonblast,2.14285714286%,3.9
+14:Sludge Bomb,2.14285714286%,3.9
+15:Fire Punch,2.14285714286%,3.9
+16:Dragon Ascent,1.42857142857%,2.6
+17:Iron Head,1.42857142857%,2.6
+18:Dragon Pulse,1.42857142857%,2.6
+19:Icy Wind,1.42857142857%,2.6
+20:Flamethrower,1.42857142857%,2.6
+0:Other,15.0%,27.3
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Whimsicott
+2:Kangaskhan
+3:Groudon
+4:Crobat
+5:Xerneas
+6:Thundurus
+7:Mienshao
+8:Weavile
+9:Salamence
+10:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Talonflame
+5:Rayquaza
+6:Salamence
+7:Kangaskhan
+8:Thundurus
+9:Mawile
+10:Ferrothorn
+11:Dialga
+12:Smeargle
+13:Landorus
+14:Weavile
+15:Lugia
+16:Scizor
+17:Gengar
+18:Gengar
+19:Kyurem
+20:Cresselia

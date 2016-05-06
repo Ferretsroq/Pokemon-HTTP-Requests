@@ -1,0 +1,149 @@
+69:Latios|186
+ ---------- 
+Moves used:
+1:Draco Meteor,87.0967741935%,162.0
+2:Trick,52.688172043%,98.0
+3:Psychic,49.4623655914%,92.0
+4:Psyshock,36.5591397849%,68.0
+5:Thunder,25.8064516129%,48.0
+6:Energy Ball,21.5053763441%,40.0
+7:Magic Coat,21.5053763441%,40.0
+8:Ice Beam,20.9677419355%,39.0
+9:Psych Up,15.5913978495%,29.0
+10:Protect,15.5913978495%,29.0
+11:Memento,11.2903225806%,21.0
+12:Helping Hand,8.06451612903%,15.0
+13:Heal Pulse,7.52688172043%,14.0
+14:Grass Knot,6.98924731183%,13.0
+15:Shadow Ball,5.37634408602%,10.0
+16:Tailwind,4.30107526882%,8.0
+17:Dragon Pulse,2.15053763441%,4.0
+18:Recover,2.15053763441%,4.0
+19:Surf,1.0752688172%,2.0
+20:Roost,0.537634408602%,1.0
+0:Other,3.76344086022%,7.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,38.7096774194%,72.0
+2:Choice Specs,29.0322580645%,54.0
+3:Life Orb,15.5913978495%,29.0
+4:Focus Sash,8.60215053763%,16.0
+5:Latiosite,3.22580645161%,6.0
+6:Assault Vest,3.22580645161%,6.0
+7:Lum Berry,1.61290322581%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,186.0
+
+ ---------- 
+Natures used:
+1:Timid,65.5913978495%,122.0
+2:Modest,33.8709677419%,63.0
+3:Naive,0.537634408602%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Rayquaza
+5:Kyogre
+6:Dialga
+7:Liepard
+8:Talonflame
+9:Whimsicott
+10:Togekiss
+11:Mawile
+12:Mienshao
+13:Ferrothorn
+14:Weavile
+15:Hitmontop
+16:Landorus
+17:Amoonguss
+18:Salamence
+19:Gengar
+20:Goodra
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,41.0%,76.26
+2:Psychic,30.0%,55.8
+3:Psyshock,15.0%,27.9
+4:Ice Beam,8.0%,14.88
+5:Thunder,2.0%,3.72
+6:Energy Ball,1.0%,1.86
+7:Dragon Pulse,1.0%,1.86
+8:Shadow Ball,1.0%,1.86
+9:Earthquake,1.0%,1.86
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.6870229008%,19.8778625954
+2:Ice Beam,9.92366412214%,18.4580152672
+3:Water Spout,6.87022900763%,12.7786259542
+4:Sucker Punch,6.10687022901%,11.358778626
+5:Knock Off,5.34351145038%,9.93893129771
+6:Extreme Speed,4.58015267176%,8.51908396947
+7:Rock Slide,4.58015267176%,8.51908396947
+8:Origin Pulse,3.81679389313%,7.09923664122
+9:Brave Bird,3.81679389313%,7.09923664122
+10:Double-Edge,3.81679389313%,7.09923664122
+11:Moonblast,3.0534351145%,5.67938931298
+12:Gyro Ball,3.0534351145%,5.67938931298
+13:Explosion,3.0534351145%,5.67938931298
+14:Dragon Ascent,2.29007633588%,4.25954198473
+15:Fire Punch,2.29007633588%,4.25954198473
+16:Precipice Blades,1.52671755725%,2.83969465649
+17:Draco Meteor,1.52671755725%,2.83969465649
+18:Dragon Pulse,1.52671755725%,2.83969465649
+19:Hyper Voice,1.52671755725%,2.83969465649
+20:Eruption,1.52671755725%,2.83969465649
+0:Other,12.213740458%,22.7175572519
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Groudon
+3:Salamence
+4:Kyogre
+5:Landorus
+6:Thundurus
+7:Kangaskhan
+8:Talonflame
+9:Gengar
+10:Kyurem
+11:Amoonguss
+12:Xerneas
+13:Whimsicott
+14:Cresselia
+15:Weavile
+16:Salamence
+17:Heliolisk
+18:Greninja
+19:Zekrom
+20:Terrakion
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Kangaskhan
+4:Groudon
+5:Landorus
+6:Weavile
+7:Rayquaza
+8:Rayquaza
+9:Yveltal
+10:Ferrothorn
+11:Salamence
+12:Talonflame
+13:Kyurem
+14:Dialga
+15:Mawile
+16:Ho-Oh
+17:Aurorus
+18:Aegislash
+19:Cresselia
+20:Togekiss

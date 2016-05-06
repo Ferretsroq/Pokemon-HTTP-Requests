@@ -1,0 +1,84 @@
+232:Kyurem|17
+ ---------- 
+Moves used:
+1:Earth Power,94.1176470588%,16.0
+2:Glaciate,88.2352941176%,15.0
+3:Flash Cannon,88.2352941176%,15.0
+4:Dragon Pulse,88.2352941176%,15.0
+5:Draco Meteor,11.7647058824%,2.0
+6:Ice Beam,11.7647058824%,2.0
+7:Sleep Talk,5.88235294118%,1.0
+8:Protect,5.88235294118%,1.0
+9:Blizzard,5.88235294118%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,88.2352941176%,15.0
+2:Choice Scarf,5.88235294118%,1.0
+3:Life Orb,5.88235294118%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Modest,94.1176470588%,16.0
+2:Timid,5.88235294118%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Raichu
+3:Charizard
+4:Thundurus
+5:Typhlosion
+6:Talonflame
+7:Rayquaza
+8:Kyogre
+9:Salamence
+10:Sableye
+11:Blaziken
+12:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Glaciate,90.0%,15.3
+2:Ice Beam,10.0%,1.7
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,13.3333333333%,2.26666666667
+2:Sucker Punch,13.3333333333%,2.26666666667
+3:Rock Slide,13.3333333333%,2.26666666667
+4:Ice Beam,13.3333333333%,2.26666666667
+5:Precipice Blades,6.66666666667%,1.13333333333
+6:Dazzling Gleam,6.66666666667%,1.13333333333
+7:Dragon Pulse,6.66666666667%,1.13333333333
+8:Dark Pulse,6.66666666667%,1.13333333333
+9:Hyper Voice,6.66666666667%,1.13333333333
+10:Knock Off,6.66666666667%,1.13333333333
+11:Low Kick,6.66666666667%,1.13333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Salamence
+3:Landorus
+4:Mienshao
+5:Rayquaza
+6:Ho-Oh
+7:Crobat
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Kyogre
+5:Kangaskhan
+6:Whimsicott
+7:Dialga
+8:Mawile
+9:Gardevoir

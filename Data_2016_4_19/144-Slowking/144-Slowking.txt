@@ -1,0 +1,114 @@
+144:Slowking|54
+ ---------- 
+Moves used:
+1:Trick Room,98.1481481481%,53.0
+2:Skill Swap,90.7407407407%,49.0
+3:Scald,72.2222222222%,39.0
+4:Magic Coat,70.3703703704%,38.0
+5:Heal Pulse,20.3703703704%,11.0
+6:Blizzard,18.5185185185%,10.0
+7:Safeguard,7.40740740741%,4.0
+8:Flamethrower,7.40740740741%,4.0
+9:Foul Play,5.55555555556%,3.0
+10:Psychic,3.7037037037%,2.0
+11:Yawn,1.85185185185%,1.0
+12:Protect,1.85185185185%,1.0
+13:Ice Beam,1.85185185185%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,85.1851851852%,46.0
+2:Lum Berry,7.40740740741%,4.0
+3:Chesto Berry,5.55555555556%,3.0
+4:Leftovers,1.85185185185%,1.0
+
+ ---------- 
+Abilities used:
+1:Oblivious,98.1481481481%,53.0
+2:Regenerator,1.85185185185%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,88.8888888889%,48.0
+2:Relaxed,9.25925925926%,5.0
+3:Calm,1.85185185185%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Yveltal
+4:Weavile
+5:Crobat
+6:Landorus
+7:Groudon
+8:Talonflame
+9:Metagross
+10:Murkrow
+11:Xerneas
+12:Meowstic
+13:Terrakion
+14:Palkia
+15:Skuntank
+16:Rayquaza
+17:Salamence
+18:Cradily
+19:Altaria
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,68.1818181818%,36.8181818182
+2:Blizzard,18.1818181818%,9.81818181818
+3:Flamethrower,9.09090909091%,4.90909090909
+4:Ice Beam,4.54545454545%,2.45454545455
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,22.5%,12.15
+2:Precipice Blades,17.5%,9.45
+3:Water Spout,10.0%,5.4
+4:Origin Pulse,7.5%,4.05
+5:Brave Bird,5.0%,2.7
+6:Thunder,5.0%,2.7
+7:Double-Edge,5.0%,2.7
+8:Moonblast,2.5%,1.35
+9:Play Rough,2.5%,1.35
+10:Hex,2.5%,1.35
+11:Grass Knot,2.5%,1.35
+12:Dark Pulse,2.5%,1.35
+13:Sucker Punch,2.5%,1.35
+14:Hyper Voice,2.5%,1.35
+15:Knock Off,2.5%,1.35
+16:Explosion,2.5%,1.35
+17:Earthquake,2.5%,1.35
+18:Thunderbolt,2.5%,1.35
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Landorus
+4:Talonflame
+5:Thundurus
+6:Ferrothorn
+7:Rayquaza
+8:Kangaskhan
+9:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Landorus
+5:Salamence
+6:Kangaskhan
+7:Yveltal
+8:Talonflame
+9:Thundurus
+10:Amoonguss
+11:Dialga
+12:Mawile
+13:Shiftry
+14:Crobat
+15:Gengar

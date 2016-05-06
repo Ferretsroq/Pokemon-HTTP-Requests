@@ -1,0 +1,160 @@
+61:Golduck|467
+ ---------- 
+Moves used:
+1:Scald,96.1456102784%,449.0
+2:Ice Beam,94.6466809422%,442.0
+3:Soak,38.1156316916%,178.0
+4:Protect,25.6959314775%,120.0
+5:Encore,21.4132762313%,100.0
+6:Hypnosis,18.2012847966%,85.0
+7:Surf,15.4175588865%,72.0
+8:Confuse Ray,11.3490364026%,53.0
+9:Focus Blast,10.4925053533%,49.0
+10:Role Play,10.278372591%,48.0
+11:Hydro Pump,10.278372591%,48.0
+12:Icy Wind,6.852248394%,32.0
+13:Psyshock,6.20985010707%,29.0
+14:Simple Beam,5.56745182013%,26.0
+15:Clear Smog,4.49678800857%,21.0
+16:Disable,4.06852248394%,19.0
+17:Screech,3.426124197%,16.0
+18:Aqua Jet,2.99785867238%,14.0
+19:Psych Up,2.78372591006%,13.0
+20:Water Sport,2.14132762313%,10.0
+0:Other,9.42184154176%,44.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,53.7473233405%,251.0
+2:Focus Sash,21.199143469%,99.0
+3:Sitrus Berry,12.6338329764%,59.0
+4:Rindo Berry,4.92505353319%,23.0
+5:Assault Vest,4.06852248394%,19.0
+6:Life Orb,0.856531049251%,4.0
+7:Rocky Helmet,0.642398286938%,3.0
+8:Lum Berry,0.642398286938%,3.0
+9:Mystic Water,0.428265524625%,2.0
+10:Choice Specs,0.214132762313%,1.0
+11:Leftovers,0.214132762313%,1.0
+12:Shuca Berry,0.214132762313%,1.0
+
+ ---------- 
+Abilities used:
+1:Cloud Nine,98.9293361884%,462.0
+2:Swift Swim,1.07066381156%,5.0
+
+ ---------- 
+Natures used:
+1:Modest,44.9678800857%,210.0
+2:Timid,37.0449678801%,173.0
+3:Sassy,10.9207708779%,51.0
+4:Quiet,4.92505353319%,23.0
+5:Hasty,1.07066381156%,5.0
+6:Adamant,0.642398286938%,3.0
+7:Jolly,0.214132762313%,1.0
+8:Bold,0.214132762313%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Mewtwo
+6:Crobat
+7:Rayquaza
+8:Shedinja
+9:Talonflame
+10:Purugly
+11:Raichu
+12:Ho-Oh
+13:Salamence
+14:Ferrothorn
+15:Liepard
+16:Smeargle
+17:Sceptile
+18:Zekrom
+19:Lucario
+20:Hypno
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,59.9118942731%,279.788546256
+2:Ice Beam,30.3964757709%,141.95154185
+3:Surf,5.7268722467%,26.7444933921
+4:Focus Blast,1.32158590308%,6.1718061674
+5:Icy Wind,0.881057268722%,4.11453744493
+6:Aqua Jet,0.440528634361%,2.05726872247
+7:Struggle,0.440528634361%,2.05726872247
+8:Blizzard,0.440528634361%,2.05726872247
+9:Hydro Pump,0.440528634361%,2.05726872247
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.4567474048%,58.1730103806
+2:Dazzling Gleam,11.7647058824%,54.9411764706
+3:Double-Edge,7.26643598616%,33.9342560554
+4:Brave Bird,5.53633217993%,25.8546712803
+5:Moonblast,5.19031141869%,24.2387543253
+6:Thunderbolt,4.49826989619%,21.0069204152
+7:Hyper Voice,4.15224913495%,19.3910034602
+8:Sucker Punch,3.8062283737%,17.7750865052
+9:Water Spout,3.8062283737%,17.7750865052
+10:Thunder,3.8062283737%,17.7750865052
+11:Dragon Ascent,3.11418685121%,14.5432525952
+12:Origin Pulse,3.11418685121%,14.5432525952
+13:Power Whip,2.76816608997%,12.9273356401
+14:Eruption,2.42214532872%,11.3114186851
+15:Play Rough,2.07612456747%,9.6955017301
+16:Rock Slide,2.07612456747%,9.6955017301
+17:Return,1.73010380623%,8.07958477509
+18:Earth Power,1.38408304498%,6.46366782007
+19:Ice Beam,1.38408304498%,6.46366782007
+20:Dragon Pulse,1.03806228374%,4.84775086505
+0:Other,16.2629757785%,75.9480968858
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Talonflame
+4:Rayquaza
+5:Landorus
+6:Thundurus
+7:Kangaskhan
+8:Smeargle
+9:Crobat
+10:Cresselia
+11:Mawile
+12:Palkia
+13:Weavile
+14:Xerneas
+15:Whimsicott
+16:Kyogre
+17:Sableye
+18:Meowstic
+19:Mienshao
+20:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Salamence
+8:Ferrothorn
+9:Mawile
+10:Thundurus
+11:Dialga
+12:Landorus
+13:Yveltal
+14:Whimsicott
+15:Weavile
+16:Gengar
+17:Aegislash
+18:Lucario
+19:Ho-Oh
+20:Smeargle

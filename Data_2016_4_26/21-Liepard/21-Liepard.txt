@@ -1,0 +1,169 @@
+21:Liepard|10371
+ ---------- 
+Moves used:
+1:Fake Out,91.9197762993%,9533.0
+2:Foul Play,88.2267862308%,9150.0
+3:Encore,68.8843891621%,7144.0
+4:Taunt,40.3529071449%,4185.0
+5:Thunder Wave,38.7330054961%,4017.0
+6:Swagger,21.6083309228%,2241.0
+7:Fake Tears,21.1069327934%,2189.0
+8:Protect,9.84475942532%,1021.0
+9:Assist,6.63388294282%,688.0
+10:Role Play,6.3735416064%,661.0
+11:Knock Off,1.81274708321%,188.0
+12:Charm,0.993153987079%,103.0
+13:Snatch,0.655674476907%,68.0
+14:Snarl,0.462829042522%,48.0
+15:Yawn,0.347121781892%,36.0
+16:Gunk Shot,0.298910423296%,31.0
+17:U-turn,0.269983608138%,28.0
+18:Night Slash,0.260341336419%,27.0
+19:Substitute,0.212129977823%,22.0
+20:Sucker Punch,0.202487706104%,21.0
+0:Other,0.472471314242%,49.0
+
+ ---------- 
+Items used:
+1:Focus Sash,87.8796644489%,9114.0
+2:Wide Lens,6.25783434577%,649.0
+3:Mental Herb,2.35271429949%,244.0
+4:Eject Button,0.906373541606%,94.0
+5:Lum Berry,0.684601292064%,71.0
+6:Black Glasses,0.646032205188%,67.0
+7:Leftovers,0.549609487995%,57.0
+8:Bright Powder,0.192845434384%,20.0
+9:Rocky Helmet,0.12534953235%,13.0
+10:Safety Goggles,0.0674959020345%,7.0
+11:Jaboca Berry,0.0385690868769%,4.0
+12:Chilan Berry,0.0385690868769%,4.0
+13:Power Bracer,0.0192845434384%,2.0
+14:Focus Band,0.0192845434384%,2.0
+15:Quick Claw,0.0192845434384%,2.0
+16:Kee Berry,0.00964227171922%,1.0
+17:Choice Scarf,0.00964227171922%,1.0
+18:Life Orb,0.00964227171922%,1.0
+19:Muscle Band,0.00964227171922%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,99.9132195545%,10362.0
+2:Limber,0.086780445473%,9.0
+
+ ---------- 
+Natures used:
+1:Jolly,70.8899816797%,7352.0
+2:Timid,24.4238742648%,2533.0
+3:Bold,3.82798187253%,397.0
+4:Impish,0.790666280976%,82.0
+5:Naive,0.0192845434384%,2.0
+6:Relaxed,0.0192845434384%,2.0
+7:Careful,0.00964227171922%,1.0
+8:Adamant,0.00964227171922%,1.0
+9:Brave,0.00964227171922%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Yveltal
+5:Salamence
+6:Mawile
+7:Rayquaza
+8:Talonflame
+9:Kangaskhan
+10:Gengar
+11:Smeargle
+12:Ditto
+13:Ferrothorn
+14:Cresselia
+15:Lucario
+16:Thundurus
+17:Landorus
+18:Mewtwo
+19:Amoonguss
+20:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,93.0317212689%,9648.31981279
+2:Fake Out,4.21216848674%,436.84399376
+3:Knock Off,1.30005200208%,134.828393136
+4:Assist,0.728029121165%,75.503900156
+5:Night Slash,0.208008320333%,21.5725429017
+6:Play Rough,0.15600624025%,16.1794071763
+7:Snarl,0.15600624025%,16.1794071763
+8:Gunk Shot,0.104004160166%,10.7862714509
+9:Sucker Punch,0.0520020800832%,5.39313572543
+10:Struggle,0.0520020800832%,5.39313572543
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.993432685%,1451.25890376
+2:Precipice Blades,7.67870674413%,796.358676433
+3:Water Spout,6.92093963122%,717.770649154
+4:Hyper Voice,6.60520333418%,685.025637787
+5:Double-Edge,5.17807527153%,537.018186411
+6:Origin Pulse,5.05178075272%,523.920181864
+7:Eruption,4.97600404142%,516.061379136
+8:Brave Bird,4.30664309169%,446.641955039
+9:Extreme Speed,3.80146501642%,394.249936853
+10:Ice Beam,3.32154584491%,344.477519576
+11:Thunderbolt,2.80373831776%,290.775700935
+12:Low Kick,2.71533215458%,281.607097752
+13:Rock Slide,2.62692599141%,272.438494569
+14:Gyro Ball,2.22278353119%,230.52488002
+15:Fake Out,1.75549381157%,182.062263198
+16:Iron Head,1.23768628442%,128.360444557
+17:Earthquake,1.23768628442%,128.360444557
+18:Sludge Bomb,1.22505683253%,127.050644102
+19:Return,1.19979792877%,124.431043193
+20:Dragon Pulse,1.18716847689%,123.121242738
+0:Other,17.6559737307%,1831.10103562
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Thundurus
+6:Smeargle
+7:Rayquaza
+8:Landorus
+9:Salamence
+10:Xerneas
+11:Crobat
+12:Bronzong
+13:Yveltal
+14:Rayquaza
+15:Gengar
+16:Gengar
+17:Cresselia
+18:Whimsicott
+19:Liepard
+20:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Thundurus
+9:Landorus
+10:Mawile
+11:Ferrothorn
+12:Dialga
+13:Yveltal
+14:Rayquaza
+15:Cresselia
+16:Kyurem
+17:Gengar
+18:Kyogre
+19:Weavile
+20:Bronzong

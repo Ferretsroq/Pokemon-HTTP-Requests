@@ -1,0 +1,50 @@
+222:Palpitoad|1
+ ---------- 
+Moves used:
+1:After You,100.0%,1.0
+2:Endeavor,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Landorus
+4:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,20.0%,0.2
+2:Dazzling Gleam,20.0%,0.2
+3:Power Whip,20.0%,0.2
+4:Water Spout,20.0%,0.2
+5:Ice Beam,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Ferrothorn
+4:Cresselia

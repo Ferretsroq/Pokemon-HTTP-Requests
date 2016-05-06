@@ -1,0 +1,60 @@
+233:Accelgor|17
+ ---------- 
+Moves used:
+1:Final Gambit,100.0%,17.0
+2:Encore,100.0%,17.0
+3:Acid Spray,76.4705882353%,13.0
+4:U-turn,76.4705882353%,13.0
+5:Guard Split,23.5294117647%,4.0
+6:Yawn,23.5294117647%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,76.4705882353%,13.0
+2:Eject Button,23.5294117647%,4.0
+
+ ---------- 
+Abilities used:
+1:Hydration,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Jolly,52.9411764706%,9.0
+2:Hasty,23.5294117647%,4.0
+3:Timid,23.5294117647%,4.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Ferrothorn
+4:Talonflame
+5:Krookodile
+6:Smeargle
+7:Crobat
+8:Ho-Oh
+9:Aegislash
+10:Xerneas
+11:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Final Gambit,100.0%,17.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.2857142857%,2.42857142857
+2:Rock Slide,14.2857142857%,2.42857142857
+3:Hyper Voice,7.14285714286%,1.21428571429
+4:Eruption,7.14285714286%,1.21428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence

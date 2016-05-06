@@ -1,0 +1,160 @@
+32:Ho-Oh|1263
+ ---------- 
+Moves used:
+1:Sacred Fire,100.0%,1263.0
+2:Brave Bird,97.9414093428%,1237.0
+3:Recover,54.6318289786%,690.0
+4:Protect,45.0514647664%,569.0
+5:Tailwind,36.1045130641%,456.0
+6:Substitute,29.2953285827%,370.0
+7:Roost,23.1195566112%,292.0
+8:Sleep Talk,4.19635787807%,53.0
+9:Earthquake,2.7711797308%,35.0
+10:Psych Up,2.29612034838%,29.0
+11:Thunder Wave,1.26682501979%,16.0
+12:Iron Head,0.870942201108%,11.0
+13:Solar Beam,0.475059382423%,6.0
+14:Roar,0.475059382423%,6.0
+15:Flame Charge,0.395882818686%,5.0
+16:Earth Power,0.316706254949%,4.0
+17:Safeguard,0.316706254949%,4.0
+18:Fire Blast,0.316706254949%,4.0
+19:Celebrate,0.0791765637371%,1.0
+20:Sky Drop,0.0791765637371%,1.0
+0:Other,9.60342916301e-15%,1.21291310329e-13
+
+ ---------- 
+Items used:
+1:Leftovers,42.3594615994%,535.0
+2:Lum Berry,28.3452098179%,358.0
+3:Sitrus Berry,15.360253365%,194.0
+4:Charti Berry,3.87965162312%,49.0
+5:Red Card,1.97941409343%,25.0
+6:Maranga Berry,1.82106096595%,23.0
+7:Weakness Policy,1.58353127474%,20.0
+8:Life Orb,1.18764845606%,15.0
+9:Kee Berry,0.791765637371%,10.0
+10:Choice Scarf,0.712589073634%,9.0
+11:Chesto Berry,0.475059382423%,6.0
+12:Choice Band,0.395882818686%,5.0
+13:Bright Powder,0.316706254949%,4.0
+14:Assault Vest,0.237529691211%,3.0
+15:Lax Incense,0.158353127474%,2.0
+16:Charcoal,0.0791765637371%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,1263.0
+
+ ---------- 
+Natures used:
+1:Adamant,45.7640538401%,578.0
+2:Careful,39.9841646873%,505.0
+3:Impish,7.20506730008%,91.0
+4:Jolly,5.77988915281%,73.0
+5:Relaxed,0.395882818686%,5.0
+6:Brave,0.395882818686%,5.0
+7:Quiet,0.316706254949%,4.0
+8:Quirky,0.0791765637371%,1.0
+9:Sassy,0.0791765637371%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Salamence
+4:Rayquaza
+5:Ferrothorn
+6:Groudon
+7:Thundurus
+8:Raichu
+9:Landorus
+10:Gengar
+11:Amoonguss
+12:Crobat
+13:Mawile
+14:Cresselia
+15:Togekiss
+16:Meowstic
+17:Kyurem
+18:Whimsicott
+19:Lapras
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,63.6496350365%,803.894890511
+2:Sacred Fire,35.3284671533%,446.198540146
+3:Earthquake,0.729927007299%,9.21897810219
+4:Flame Charge,0.14598540146%,1.84379562044
+5:Sleep Talk,0.14598540146%,1.84379562044
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,14.745308311%,186.233243968
+2:Double-Edge,11.6621983914%,147.293565684
+3:Precipice Blades,8.17694369973%,103.274798928
+4:Water Spout,7.23860589812%,91.4235924933
+5:Origin Pulse,6.43431635389%,81.2654155496
+6:Dragon Ascent,3.48525469169%,44.018766756
+7:Hyper Voice,3.35120643432%,42.3257372654
+8:Thunderbolt,3.21715817694%,40.6327077748
+9:Brave Bird,2.9490616622%,37.2466487936
+10:Dazzling Gleam,2.68096514745%,33.8605898123
+11:Eruption,2.68096514745%,33.8605898123
+12:Scald,2.54691689008%,32.1675603217
+13:Foul Play,2.27882037534%,28.7815013405
+14:Knock Off,1.74262734584%,22.009383378
+15:Thunder,1.74262734584%,22.009383378
+16:Sucker Punch,1.60857908847%,20.3163538874
+17:Rock Tomb,1.4745308311%,18.6233243968
+18:Moonblast,1.34048257373%,16.9302949062
+19:Return,1.34048257373%,16.9302949062
+20:Stone Edge,1.20643431635%,15.2372654155
+0:Other,10.5898123324%,133.749329759
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Groudon
+6:Smeargle
+7:Ferrothorn
+8:Rayquaza
+9:Salamence
+10:Thundurus
+11:Cresselia
+12:Amoonguss
+13:Liepard
+14:Dialga
+15:Gengar
+16:Yveltal
+17:Mawile
+18:Whimsicott
+19:Weavile
+20:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Xerneas
+6:Rayquaza
+7:Yveltal
+8:Landorus
+9:Thundurus
+10:Talonflame
+11:Liepard
+12:Mawile
+13:Rayquaza
+14:Terrakion
+15:Zapdos
+16:Dialga
+17:Raichu
+18:Kyurem
+19:Ferrothorn
+20:Cresselia

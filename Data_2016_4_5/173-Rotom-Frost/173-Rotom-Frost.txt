@@ -1,0 +1,80 @@
+173:Rotom-Frost|18
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,18.0
+2:Thunder,100.0%,18.0
+3:Blizzard,100.0%,18.0
+4:Volt Switch,55.5555555556%,10.0
+5:Discharge,38.8888888889%,7.0
+6:Will-O-Wisp,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,83.3333333333%,15.0
+2:Choice Specs,16.6666666667%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Modest,88.8888888889%,16.0
+2:Quiet,11.1111111111%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Mewtwo
+4:Gengar
+5:Meowstic
+6:Xerneas
+7:Garchomp
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,84.6153846154%,15.2307692308
+2:Volt Switch,7.69230769231%,1.38461538462
+3:Discharge,7.69230769231%,1.38461538462
+
+ ---------- 
+Moves that KO this pokemon:
+1:Iron Head,15.3846153846%,2.76923076923
+2:Precipice Blades,7.69230769231%,1.38461538462
+3:Origin Pulse,7.69230769231%,1.38461538462
+4:Dragon Pulse,7.69230769231%,1.38461538462
+5:Sucker Punch,7.69230769231%,1.38461538462
+6:Water Spout,7.69230769231%,1.38461538462
+7:Overheat,7.69230769231%,1.38461538462
+8:Eruption,7.69230769231%,1.38461538462
+9:Extreme Speed,7.69230769231%,1.38461538462
+10:Flamethrower,7.69230769231%,1.38461538462
+11:Double-Edge,7.69230769231%,1.38461538462
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Yveltal
+3:Talonflame
+4:Landorus
+5:Zekrom
+6:Thundurus
+7:Whimsicott
+8:Weavile
+9:Rayquaza
+10:Kyogre
+11:Zapdos
+12:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Mawile
+5:Yveltal
+6:Heatran
+7:Sceptile
+8:Kangaskhan

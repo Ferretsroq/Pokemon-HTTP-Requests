@@ -1,0 +1,51 @@
+232:Lunatone|1
+ ---------- 
+Moves used:
+1:Smack Down,100.0%,1.0
+2:Trick Room,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Xerneas
+5:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,28.5714285714%,0.285714285714
+2:Dazzling Gleam,14.2857142857%,0.142857142857
+3:Grass Knot,14.2857142857%,0.142857142857
+4:Gyro Ball,14.2857142857%,0.142857142857
+5:Dragon Claw,14.2857142857%,0.142857142857
+6:Ice Beam,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Ferrothorn
+4:Whimsicott
+5:Rayquaza
+6:Kyogre

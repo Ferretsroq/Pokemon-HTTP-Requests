@@ -1,0 +1,184 @@
+11:Landorus-T|14317
+ ---------- 
+Moves used:
+1:Earthquake,92.9803729832%,13312.0
+2:Rock Slide,86.9805126772%,12453.0
+3:U-turn,59.5934902563%,8532.0
+4:Explosion,51.9941328491%,7444.0
+5:Superpower,51.2188307606%,7333.0
+6:Protect,17.4896975623%,2504.0
+7:Knock Off,14.3884892086%,2060.0
+8:Earth Power,7.3479080813%,1052.0
+9:Hidden Power,5.315359363%,761.0
+10:Rock Tomb,3.63204581965%,520.0
+11:Grass Knot,2.56338618426%,367.0
+12:Sludge Bomb,1.53663476985%,220.0
+13:Hammer Arm,1.30613955438%,187.0
+14:Stone Edge,1.22930781588%,176.0
+15:Gravity,0.495913948453%,71.0
+16:Role Play,0.363204581965%,52.0
+17:Sleep Talk,0.342250471467%,49.0
+18:Focus Blast,0.279388139973%,40.0
+19:Iron Tail,0.265418732975%,38.0
+20:Brick Break,0.132709366487%,19.0
+0:Other,0.495913948453%,71.0
+
+ ---------- 
+Items used:
+1:Choice Band,44.7579800237%,6408.0
+2:Assault Vest,17.6293916323%,2524.0
+3:Choice Scarf,16.3442061884%,2340.0
+4:Life Orb,12.0416288329%,1724.0
+5:Focus Sash,2.75895788224%,395.0
+6:Expert Belt,1.79506879933%,257.0
+7:Normal Gem,1.1035831529%,158.0
+8:Lum Berry,0.914996158413%,131.0
+9:Yache Berry,0.551791576448%,79.0
+10:Choice Specs,0.53083746595%,76.0
+11:Sitrus Berry,0.460990430956%,66.0
+12:Eject Button,0.286372843473%,41.0
+13:Muscle Band,0.153663476985%,22.0
+14:Rocky Helmet,0.0908011454914%,13.0
+15:Earth Plate,0.062862331494%,9.0
+16:Soft Sand,0.0558776279947%,8.0
+17:King's Rock,0.0558776279947%,8.0
+18:Focus Band,0.0488929244954%,7.0
+19:Lax Incense,0.041908220996%,6.0
+20:Chesto Berry,0.041908220996%,6.0
+0:Other,0.202556401481%,29.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,14317.0
+
+ ---------- 
+Natures used:
+1:Jolly,58.3222742195%,8350.0
+2:Adamant,32.9747852204%,4721.0
+3:Timid,4.00921980862%,574.0
+4:Modest,1.35503247887%,194.0
+5:Naive,1.20835370539%,173.0
+6:Brave,0.963889082908%,138.0
+7:Careful,0.516868058951%,74.0
+8:Hasty,0.349235174967%,50.0
+9:Rash,0.153663476985%,22.0
+10:Sassy,0.0558776279947%,8.0
+11:Quiet,0.0279388139973%,4.0
+12:Impish,0.0279388139973%,4.0
+13:Lonely,0.020954110498%,3.0
+14:Calm,0.0139694069987%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Kangaskhan
+5:Thundurus
+6:Xerneas
+7:Dialga
+8:Gengar
+9:Ferrothorn
+10:Salamence
+11:Talonflame
+12:Crobat
+13:Yveltal
+14:Smeargle
+15:Mawile
+16:Weavile
+17:Cresselia
+18:Raichu
+19:Whimsicott
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,32.8660436137%,4705.43146417
+2:Earthquake,31.1101670915%,4454.04262249
+3:Explosion,16.7374681393%,2396.30331351
+4:Superpower,6.68365902011%,956.899461909
+5:Earth Power,3.69583687341%,529.132965166
+6:U-turn,3.58255451713%,512.914330218
+7:Hidden Power,1.77003681677%,253.416171056
+8:Knock Off,1.71339563863%,245.306853583
+9:Rock Tomb,0.778816199377%,111.503115265
+10:Stone Edge,0.254885301614%,36.4919286321
+11:Sludge Bomb,0.24072500708%,34.4645992637
+12:Grass Knot,0.226564712546%,32.4372698952
+13:Hammer Arm,0.155763239875%,22.300623053
+14:Struggle,0.0708014726706%,10.1366468423
+15:Smack Down,0.0283205890683%,4.0546587369
+16:Iron Tail,0.0283205890683%,4.0546587369
+17:Fissure,0.0283205890683%,4.0546587369
+18:Focus Blast,0.0141602945341%,2.02732936845
+19:Brick Break,0.0141602945341%,2.02732936845
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.45003872967%,1352.96204493
+2:Ice Beam,8.01704105345%,1147.79976762
+3:Water Spout,7.92021688613%,1133.93745159
+4:Origin Pulse,5.43183578621%,777.675929512
+5:Eruption,5.0251742835%,719.454202169
+6:Hyper Voice,4.250580945%,608.555673896
+7:Hidden Power,3.45662277304%,494.884682417
+8:Double-Edge,3.41789310612%,489.339756003
+9:Moonblast,3.28233927188%,469.932513555
+10:Sucker Punch,3.0402788536%,435.27672347
+11:Precipice Blades,2.24632068164%,321.605731991
+12:Foul Play,2.12044926414%,303.584721146
+13:Fire Punch,1.78156467854%,255.066615027
+14:Dragon Ascent,1.75251742835%,250.907920217
+15:Rock Slide,1.66537567777%,238.431835786
+16:Brave Bird,1.38458559256%,198.231119287
+17:Ice Punch,1.14252517428%,163.575329202
+18:Dragon Pulse,1.06506584043%,152.485476375
+19:Scald,1.0553834237%,151.099244771
+20:Gyro Ball,1.01665375678%,145.554318358
+0:Other,13.7877614253%,1973.99380325
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Groudon
+4:Kyogre
+5:Thundurus
+6:Xerneas
+7:Smeargle
+8:Salamence
+9:Crobat
+10:Dialga
+11:Ferrothorn
+12:Mawile
+13:Rayquaza
+14:Landorus
+15:Cresselia
+16:Weavile
+17:Liepard
+18:Yveltal
+19:Gengar
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Salamence
+6:Yveltal
+7:Rayquaza
+8:Cresselia
+9:Mawile
+10:Talonflame
+11:Weavile
+12:Thundurus
+13:Dialga
+14:Landorus
+15:Ferrothorn
+16:Kyurem
+17:Kyogre
+18:Gengar
+19:Gengar
+20:Rayquaza

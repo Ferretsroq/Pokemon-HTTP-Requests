@@ -1,0 +1,79 @@
+230:Registeel|18
+ ---------- 
+Moves used:
+1:Protect,72.2222222222%,13.0
+2:Thunder Wave,72.2222222222%,13.0
+3:Flash Cannon,66.6666666667%,12.0
+4:Gravity,66.6666666667%,12.0
+5:Iron Head,33.3333333333%,6.0
+6:Curse,27.7777777778%,5.0
+7:Rest,27.7777777778%,5.0
+8:Amnesia,27.7777777778%,5.0
+9:Swagger,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Shuca Berry,72.2222222222%,13.0
+2:Chesto Berry,27.7777777778%,5.0
+
+ ---------- 
+Abilities used:
+1:Light Metal,66.6666666667%,12.0
+2:Clear Body,33.3333333333%,6.0
+
+ ---------- 
+Natures used:
+1:Bold,66.6666666667%,12.0
+2:Careful,33.3333333333%,6.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Kyogre
+3:Metagross
+4:Sableye
+5:Ho-Oh
+6:Landorus
+7:Conkeldurr
+8:Gyarados
+9:Serperior
+10:Rayquaza
+11:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flash Cannon,66.6666666667%,12.0
+2:Iron Head,33.3333333333%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,3.0
+2:Fusion Flare,8.33333333333%,1.5
+3:Water Spout,8.33333333333%,1.5
+4:Overheat,8.33333333333%,1.5
+5:Eruption,8.33333333333%,1.5
+6:Destiny Bond,8.33333333333%,1.5
+7:Earthquake,8.33333333333%,1.5
+8:Low Kick,8.33333333333%,1.5
+9:Flamethrower,8.33333333333%,1.5
+10:Double-Edge,8.33333333333%,1.5
+11:Fire Punch,8.33333333333%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Kyurem
+3:Landorus
+4:Salamence
+5:Ludicolo
+6:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyurem
+3:Rayquaza
+4:Kyogre
+5:Salamence
+6:Smeargle
+7:Mewtwo

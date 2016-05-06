@@ -1,0 +1,40 @@
+323:Golbat|1
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Super Fang,100.0%,1.0
+4:Haze,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Salamence
+3:Kyurem
+4:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame

@@ -1,0 +1,39 @@
+346:Drapion|1
+ ---------- 
+Moves used:
+1:Fire Fang,100.0%,1.0
+2:Poison Jab,100.0%,1.0
+3:Acupressure,100.0%,1.0
+4:Knock Off,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Keen Eye,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Groudon
+3:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

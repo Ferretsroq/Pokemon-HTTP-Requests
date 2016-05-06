@@ -1,0 +1,97 @@
+194:Kecleon|32
+ ---------- 
+Moves used:
+1:Shadow Sneak,90.625%,29.0
+2:Fake Out,87.5%,28.0
+3:Sucker Punch,84.375%,27.0
+4:Low Kick,78.125%,25.0
+5:Trick Room,9.375%,3.0
+6:Feint,9.375%,3.0
+7:Power-Up Punch,6.25%,2.0
+8:Drain Punch,6.25%,2.0
+9:Knock Off,6.25%,2.0
+10:Magic Coat,6.25%,2.0
+11:Disable,6.25%,2.0
+12:Ice Punch,6.25%,2.0
+13:Skill Swap,3.125%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,78.125%,25.0
+2:Assault Vest,6.25%,2.0
+3:Sitrus Berry,6.25%,2.0
+4:Life Orb,3.125%,1.0
+5:Mental Herb,3.125%,1.0
+
+ ---------- 
+Abilities used:
+1:Protean,100.0%,32.0
+
+ ---------- 
+Natures used:
+1:Adamant,90.625%,29.0
+2:Relaxed,6.25%,2.0
+3:Sassy,3.125%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Meowstic
+3:Xerneas
+4:Salamence
+5:Ferrothorn
+6:Crobat
+7:Kangaskhan
+8:Giratina
+9:Chatot
+10:Kyogre
+11:Manectric
+12:Ludicolo
+13:Pinsir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,36.3636363636%,11.6363636364
+2:Low Kick,27.2727272727%,8.72727272727
+3:Sucker Punch,18.1818181818%,5.81818181818
+4:Fake Out,9.09090909091%,2.90909090909
+5:Ice Punch,9.09090909091%,2.90909090909
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,26.3157894737%,8.42105263158
+2:Moonblast,15.7894736842%,5.05263157895
+3:Origin Pulse,10.5263157895%,3.36842105263
+4:Hyper Voice,10.5263157895%,3.36842105263
+5:Dragon Ascent,5.26315789474%,1.68421052632
+6:Power-Up Punch,5.26315789474%,1.68421052632
+7:Brave Bird,5.26315789474%,1.68421052632
+8:Dragon Claw,5.26315789474%,1.68421052632
+9:Water Spout,5.26315789474%,1.68421052632
+10:Eruption,5.26315789474%,1.68421052632
+11:Superpower,5.26315789474%,1.68421052632
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Cresselia
+4:Heatran
+5:Dialga
+6:Rayquaza
+7:Gardevoir
+8:Jumpluff
+9:Kangaskhan
+10:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Rayquaza
+5:Salamence
+6:Talonflame
+7:Thundurus
+8:Whimsicott
+9:Kangaskhan

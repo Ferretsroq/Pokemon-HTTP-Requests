@@ -1,0 +1,58 @@
+259:Dragalge|6
+ ---------- 
+Moves used:
+1:Draco Meteor,100.0%,6.0
+2:Sludge Bomb,100.0%,6.0
+3:Sludge Wave,83.3333333333%,5.0
+4:Focus Blast,66.6666666667%,4.0
+5:Scald,16.6666666667%,1.0
+6:Dragon Pulse,16.6666666667%,1.0
+7:Protect,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,83.3333333333%,5.0
+2:Focus Sash,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Quiet,83.3333333333%,5.0
+2:Modest,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Heatran
+3:Weavile
+4:Yveltal
+5:Kyogre
+6:Talonflame
+7:Dialga
+8:Salamence
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,1.5
+2:Iron Head,25.0%,1.5
+3:Ice Beam,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Dedenne
+2:Kyogre
+3:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Groudon
+3:Kyogre

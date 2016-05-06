@@ -1,0 +1,144 @@
+71:Arcanine|178
+ ---------- 
+Moves used:
+1:Flare Blitz,94.9438202247%,169.0
+2:Extreme Speed,92.6966292135%,165.0
+3:Close Combat,92.1348314607%,164.0
+4:Wild Charge,91.0112359551%,162.0
+5:Protect,6.74157303371%,12.0
+6:Will-O-Wisp,5.61797752809%,10.0
+7:Snarl,3.37078651685%,6.0
+8:Helping Hand,3.37078651685%,6.0
+9:Flamethrower,2.80898876404%,5.0
+10:Safeguard,2.24719101124%,4.0
+11:Overheat,1.68539325843%,3.0
+12:Morning Sun,1.68539325843%,3.0
+13:Hidden Power,1.12359550562%,2.0
+14:Roar,0.561797752809%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,52.2471910112%,93.0
+2:Assault Vest,12.9213483146%,23.0
+3:Rocky Helmet,11.2359550562%,20.0
+4:Life Orb,10.6741573034%,19.0
+5:Muscle Band,3.93258426966%,7.0
+6:Lum Berry,3.93258426966%,7.0
+7:Sitrus Berry,2.24719101124%,4.0
+8:Expert Belt,1.12359550562%,2.0
+9:Leftovers,1.12359550562%,2.0
+10:Silk Scarf,0.561797752809%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,178.0
+
+ ---------- 
+Natures used:
+1:Jolly,65.7303370787%,117.0
+2:Adamant,27.5280898876%,49.0
+3:Timid,2.80898876404%,5.0
+4:Impish,2.24719101124%,4.0
+5:Bold,1.68539325843%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Thundurus
+6:Yveltal
+7:Groudon
+8:Talonflame
+9:Giratina
+10:Cresselia
+11:Liepard
+12:Salamence
+13:Gengar
+14:Mienshao
+15:Mawile
+16:Ferrothorn
+17:Dialga
+18:Weavile
+19:Gourgeist
+20:Suicune
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Extreme Speed,37.8378378378%,67.3513513514
+2:Flare Blitz,36.4864864865%,64.9459459459
+3:Wild Charge,14.8648648649%,26.4594594595
+4:Close Combat,6.75675675676%,12.027027027
+5:Overheat,2.7027027027%,4.81081081081
+6:Snarl,1.35135135135%,2.40540540541
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.4179104478%,29.223880597
+2:Water Spout,11.9402985075%,21.2537313433
+3:Earth Power,8.20895522388%,14.6119402985
+4:Double-Edge,8.20895522388%,14.6119402985
+5:Origin Pulse,6.71641791045%,11.9552238806
+6:Hyper Voice,5.22388059701%,9.29850746269
+7:Rock Slide,5.22388059701%,9.29850746269
+8:Dazzling Gleam,4.4776119403%,7.97014925373
+9:Eruption,2.98507462687%,5.31343283582
+10:Moonblast,2.23880597015%,3.98507462687
+11:Dragon Pulse,2.23880597015%,3.98507462687
+12:Earthquake,2.23880597015%,3.98507462687
+13:Dragon Ascent,1.49253731343%,2.65671641791
+14:Foul Play,1.49253731343%,2.65671641791
+15:Knock Off,1.49253731343%,2.65671641791
+16:Waterfall,1.49253731343%,2.65671641791
+17:Oblivion Wing,0.746268656716%,1.32835820896
+18:Snarl,0.746268656716%,1.32835820896
+19:Scald,0.746268656716%,1.32835820896
+20:Stored Power,0.746268656716%,1.32835820896
+0:Other,10.447761194%,18.5970149254
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Smeargle
+4:Crobat
+5:Talonflame
+6:Ferrothorn
+7:Kangaskhan
+8:Thundurus
+9:Liepard
+10:Cresselia
+11:Sableye
+12:Whimsicott
+13:Weavile
+14:Gengar
+15:Yveltal
+16:Kyurem
+17:Scrafty
+18:Dialga
+19:Bronzong
+20:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Yveltal
+7:Landorus
+8:Dialga
+9:Rayquaza
+10:Talonflame
+11:Kyurem
+12:Terrakion
+13:Ferrothorn
+14:Excadrill
+15:Swoobat
+16:Cresselia
+17:Palkia
+18:Rayquaza
+19:Mawile
+20:Azumarill

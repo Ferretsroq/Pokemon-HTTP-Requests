@@ -1,0 +1,168 @@
+25:Raichu|2648
+ ---------- 
+Moves used:
+1:Fake Out,98.1495468278%,2599.0
+2:Volt Tackle,69.9395770393%,1852.0
+3:Feint,66.163141994%,1752.0
+4:Nuzzle,61.7069486405%,1634.0
+5:Encore,35.083081571%,929.0
+6:Protect,15.0302114804%,398.0
+7:Thunderbolt,11.9712990937%,317.0
+8:Volt Switch,7.43957703927%,197.0
+9:Helping Hand,5.77794561934%,153.0
+10:Hidden Power,4.98489425982%,132.0
+11:Fling,4.30513595166%,114.0
+12:Endeavor,4.30513595166%,114.0
+13:Thunder,3.13444108761%,83.0
+14:Thunder Wave,3.13444108761%,83.0
+15:Knock Off,1.92598187311%,51.0
+16:Teeter Dance,1.54833836858%,41.0
+17:Swagger,1.35951661631%,36.0
+18:Charm,0.906344410876%,24.0
+19:Thunder Punch,0.83081570997%,22.0
+20:Electroweb,0.528700906344%,14.0
+0:Other,1.7749244713%,47.0
+
+ ---------- 
+Items used:
+1:Focus Sash,31.7598187311%,841.0
+2:Zap Plate,28.0966767372%,744.0
+3:Air Balloon,8.53474320242%,226.0
+4:Assault Vest,8.08157099698%,214.0
+5:Magnet,4.68277945619%,124.0
+6:Life Orb,4.53172205438%,120.0
+7:Lum Berry,4.1918429003%,111.0
+8:Lansat Berry,2.68126888218%,71.0
+9:King's Rock,1.62386706949%,43.0
+10:Expert Belt,1.32175226586%,35.0
+11:Lax Incense,1.32175226586%,35.0
+12:Chesto Berry,1.01963746224%,27.0
+13:Sitrus Berry,0.641993957704%,17.0
+14:Light Ball,0.604229607251%,16.0
+15:Quick Claw,0.377643504532%,10.0
+16:Safety Goggles,0.188821752266%,5.0
+17:Sky Plate,0.11329305136%,3.0
+18:Lucky Egg,0.11329305136%,3.0
+19:Mental Herb,0.0755287009063%,2.0
+20:Bright Powder,0.0377643504532%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,92.5981873112%,2452.0
+2:Static,7.40181268882%,196.0
+
+ ---------- 
+Natures used:
+1:Jolly,69.9018126888%,1851.0
+2:Timid,21.8655589124%,579.0
+3:Hasty,3.66314199396%,97.0
+4:Naive,3.5498489426%,94.0
+5:Adamant,1.01963746224%,27.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Salamence
+5:Groudon
+6:Gengar
+7:Talonflame
+8:Landorus
+9:Kangaskhan
+10:Ferrothorn
+11:Mawile
+12:Yveltal
+13:Smeargle
+14:Crobat
+15:Amoonguss
+16:Ho-Oh
+17:Scizor
+18:Dialga
+19:Lugia
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,62.7659574468%,1662.04255319
+2:Feint,13.6968085106%,362.691489362
+3:Thunderbolt,9.4414893617%,250.010638298
+4:Nuzzle,3.85638297872%,102.117021277
+5:Volt Switch,3.45744680851%,91.5531914894
+6:Fake Out,2.92553191489%,77.4680851064
+7:Hidden Power,1.46276595745%,38.7340425532
+8:Thunder,1.32978723404%,35.2127659574
+9:Knock Off,0.398936170213%,10.5638297872
+10:Thunder Punch,0.398936170213%,10.5638297872
+11:Discharge,0.132978723404%,3.52127659574
+12:Focus Blast,0.132978723404%,3.52127659574
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.9990393852%,291.25456292
+2:Precipice Blades,10.8069164265%,286.167146974
+3:Double-Edge,7.54082612872%,199.681075889
+4:Water Spout,7.3967339097%,195.865513929
+5:Eruption,4.41882804995%,117.010566763
+6:Origin Pulse,3.98655139289%,105.563880884
+7:Sucker Punch,3.02593659942%,80.1268011527
+8:Rock Slide,2.97790585975%,78.8549471662
+9:Extreme Speed,2.73775216138%,72.4956772334
+10:Return,2.353506244%,62.320845341
+11:Hyper Voice,2.30547550432%,61.0489913545
+12:Earth Power,2.20941402498%,58.5052833814
+13:Ice Beam,1.72910662824%,45.7867435159
+14:Earthquake,1.68107588857%,44.5148895293
+15:Brave Bird,1.53698366955%,40.6993275696
+16:Dragon Pulse,1.53698366955%,40.6993275696
+17:Sludge Bomb,1.53698366955%,40.6993275696
+18:Knock Off,1.48895292988%,39.4274735831
+19:Moonblast,1.24879923151%,33.0682036503
+20:Gyro Ball,1.24879923151%,33.0682036503
+0:Other,17.8674351585%,473.129682997
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Crobat
+4:Smeargle
+5:Kangaskhan
+6:Xerneas
+7:Yveltal
+8:Thundurus
+9:Liepard
+10:Weavile
+11:Groudon
+12:Gengar
+13:Rayquaza
+14:Salamence
+15:Cresselia
+16:Gengar
+17:Mawile
+18:Whimsicott
+19:Togekiss
+20:Meowstic
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Landorus
+7:Rayquaza
+8:Talonflame
+9:Ferrothorn
+10:Dialga
+11:Yveltal
+12:Mawile
+13:Kyogre
+14:Weavile
+15:Rayquaza
+16:Gengar
+17:Kyurem
+18:Gengar
+19:Thundurus
+20:Cresselia

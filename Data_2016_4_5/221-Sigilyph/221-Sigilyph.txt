@@ -1,0 +1,48 @@
+221:Sigilyph|6
+ ---------- 
+Moves used:
+1:Air Slash,100.0%,6.0
+2:Tailwind,100.0%,6.0
+3:Gravity,100.0%,6.0
+4:Hypnosis,100.0%,6.0
+
+ ---------- 
+Items used:
+1:Focus Sash,83.3333333333%,5.0
+2:Lum Berry,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Wonder Skin,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Zekrom
+3:Metagross
+4:Talonflame
+5:Weavile
+6:Groudon
+7:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,40.0%,2.4
+2:Origin Pulse,20.0%,1.2
+3:Overheat,20.0%,1.2
+4:Eruption,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon

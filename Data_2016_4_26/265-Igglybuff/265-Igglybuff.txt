@@ -1,0 +1,48 @@
+265:Igglybuff|8
+ ---------- 
+Moves used:
+1:Endeavor,100.0%,8.0
+2:Magic Coat,100.0%,8.0
+3:Perish Song,100.0%,8.0
+4:Protect,100.0%,8.0
+
+ ---------- 
+Items used:
+1:Focus Sash,87.5%,7.0
+
+ ---------- 
+Abilities used:
+1:Friend Guard,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Audino
+2:Groudon
+3:Hitmontop
+4:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,1.6
+2:Hyper Voice,20.0%,1.6
+3:Extreme Speed,20.0%,1.6
+4:Ice Beam,20.0%,1.6
+5:Double-Edge,20.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Cresselia
+2:Rayquaza
+3:Kyogre
+4:Salamence
+5:Kangaskhan

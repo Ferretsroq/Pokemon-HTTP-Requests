@@ -1,0 +1,108 @@
+126:Empoleon|41
+ ---------- 
+Moves used:
+1:Ice Beam,100.0%,41.0
+2:Scald,97.5609756098%,40.0
+3:Flash Cannon,97.5609756098%,40.0
+4:Grass Knot,92.6829268293%,38.0
+5:Aqua Jet,7.31707317073%,3.0
+6:Knock Off,2.43902439024%,1.0
+7:Waterfall,2.43902439024%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,41.0
+
+ ---------- 
+Abilities used:
+1:Torrent,97.5609756098%,40.0
+2:Defiant,2.43902439024%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,78.0487804878%,32.0
+2:Modest,19.512195122%,8.0
+3:Brave,2.43902439024%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Kangaskhan
+4:Rayquaza
+5:Kyogre
+6:Salamence
+7:Ho-Oh
+8:Weavile
+9:Crobat
+10:Xerneas
+11:Mienshao
+12:Bronzong
+13:Absol
+14:Lugia
+15:Hitmontop
+16:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,41.1764705882%,16.8823529412
+2:Scald,20.5882352941%,8.44117647059
+3:Grass Knot,17.6470588235%,7.23529411765
+4:Flash Cannon,17.6470588235%,7.23529411765
+5:Aqua Jet,2.94117647059%,1.20588235294
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,17.2413793103%,7.06896551724
+2:Earthquake,10.3448275862%,4.24137931034
+3:Precipice Blades,6.89655172414%,2.8275862069
+4:Origin Pulse,6.89655172414%,2.8275862069
+5:Power-Up Punch,6.89655172414%,2.8275862069
+6:Snarl,6.89655172414%,2.8275862069
+7:Extreme Speed,6.89655172414%,2.8275862069
+8:Thunder,6.89655172414%,2.8275862069
+9:Wild Charge,3.44827586207%,1.41379310345
+10:Sucker Punch,3.44827586207%,1.41379310345
+11:Water Spout,3.44827586207%,1.41379310345
+12:Eruption,3.44827586207%,1.41379310345
+13:Superpower,3.44827586207%,1.41379310345
+14:Return,3.44827586207%,1.41379310345
+15:High Jump Kick,3.44827586207%,1.41379310345
+16:Thunderbolt,3.44827586207%,1.41379310345
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Weavile
+3:Salamence
+4:Yveltal
+5:Landorus
+6:Liepard
+7:Togekiss
+8:Gengar
+9:Meowstic
+10:Talonflame
+11:Thundurus
+12:Heatran
+13:Rayquaza
+14:Groudon
+15:Ho-Oh
+16:Smeargle
+17:Crobat
+18:Moltres
+19:Lapras
+20:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Thundurus
+4:Groudon
+5:Yveltal
+6:Landorus
+7:Rayquaza
+8:Mienshao
+9:Weavile
+10:Garchomp
+11:Rayquaza

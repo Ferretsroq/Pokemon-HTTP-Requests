@@ -1,0 +1,127 @@
+137:Glaceon|101
+ ---------- 
+Moves used:
+1:Blizzard,96.0396039604%,97.0
+2:Frost Breath,55.4455445545%,56.0
+3:Mirror Coat,43.5643564356%,44.0
+4:Icy Wind,42.5742574257%,43.0
+5:Hidden Power,41.5841584158%,42.0
+6:Helping Hand,39.603960396%,40.0
+7:Water Pulse,38.6138613861%,39.0
+8:Ice Beam,20.7920792079%,21.0
+9:Hyper Voice,14.8514851485%,15.0
+10:Shadow Ball,3.9603960396%,4.0
+11:Sleep Talk,1.9801980198%,2.0
+12:Protect,0.990099009901%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,96.0396039604%,97.0
+2:Assault Vest,2.9702970297%,3.0
+3:Focus Sash,0.990099009901%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Cloak,60.396039604%,61.0
+2:Ice Body,39.603960396%,40.0
+
+ ---------- 
+Natures used:
+1:Quiet,55.4455445545%,56.0
+2:Modest,44.5544554455%,45.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Groudon
+3:Meowstic
+4:Gengar
+5:Rayquaza
+6:Yveltal
+7:Mawile
+8:Kangaskhan
+9:Kyurem
+10:Liepard
+11:Xerneas
+12:Kyogre
+13:Bronzong
+14:Talonflame
+15:Sylveon
+16:Smeargle
+17:Espeon
+18:Vaporeon
+19:Landorus
+20:Weavile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,62.5%,63.125
+2:Ice Beam,20.8333333333%,21.0416666667
+3:Frost Breath,5.55555555556%,5.61111111111
+4:Mirror Coat,4.16666666667%,4.20833333333
+5:Water Pulse,2.77777777778%,2.80555555556
+6:Icy Wind,2.77777777778%,2.80555555556
+7:Shadow Ball,1.38888888889%,1.40277777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,18.9655172414%,19.1551724138
+2:Dazzling Gleam,17.2413793103%,17.4137931034
+3:Origin Pulse,12.0689655172%,12.1896551724
+4:Hyper Voice,6.89655172414%,6.96551724138
+5:Precipice Blades,5.1724137931%,5.22413793103
+6:Eruption,5.1724137931%,5.22413793103
+7:Dragon Ascent,3.44827586207%,3.48275862069
+8:Moonblast,3.44827586207%,3.48275862069
+9:Iron Head,3.44827586207%,3.48275862069
+10:Sucker Punch,3.44827586207%,3.48275862069
+11:Rock Slide,3.44827586207%,3.48275862069
+12:Flamethrower,3.44827586207%,3.48275862069
+13:Bullet Punch,1.72413793103%,1.74137931034
+14:Brave Bird,1.72413793103%,1.74137931034
+15:Overheat,1.72413793103%,1.74137931034
+16:Heat Wave,1.72413793103%,1.74137931034
+17:Earthquake,1.72413793103%,1.74137931034
+18:Low Kick,1.72413793103%,1.74137931034
+19:Double-Edge,1.72413793103%,1.74137931034
+20:Fire Punch,1.72413793103%,1.74137931034
+0:Other,1.99840144433e-14%,2.01838545877e-14
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Salamence
+4:Yveltal
+5:Smeargle
+6:Kyogre
+7:Kangaskhan
+8:Cresselia
+9:Crobat
+10:Xerneas
+11:Dialga
+12:Sableye
+13:Landorus
+14:Ferrothorn
+15:Amoonguss
+16:Whimsicott
+17:Liepard
+18:Giratina
+19:Togekiss
+20:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Rayquaza
+6:Mawile
+7:Kangaskhan
+8:Yveltal
+9:Sylveon
+10:Talonflame
+11:Landorus
+12:Rayquaza
+13:Scizor

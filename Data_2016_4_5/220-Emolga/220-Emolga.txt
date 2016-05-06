@@ -1,0 +1,47 @@
+220:Emolga|3
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,3.0
+2:Tailwind,100.0%,3.0
+3:Helping Hand,100.0%,3.0
+4:Ion Deluge,66.6666666667%,2.0
+5:Encore,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Motor Drive,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Jolly,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Bronzong
+4:Lopunny
+5:Scrafty
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,1.0
+2:Snarl,33.3333333333%,1.0
+3:Gyro Ball,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Ferrothorn

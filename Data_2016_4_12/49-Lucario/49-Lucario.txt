@@ -1,0 +1,167 @@
+49:Lucario|633
+ ---------- 
+Moves used:
+1:Follow Me,80.4107424961%,509.0
+2:Protect,79.1469194313%,501.0
+3:Feint,61.2954186414%,388.0
+4:Focus Punch,52.6066350711%,333.0
+5:Bullet Punch,28.5939968404%,181.0
+6:Close Combat,21.8009478673%,138.0
+7:Low Kick,13.7440758294%,87.0
+8:Detect,9.00473933649%,57.0
+9:Aura Sphere,8.5308056872%,54.0
+10:Flash Cannon,6.63507109005%,42.0
+11:Quick Guard,6.00315955766%,38.0
+12:Vacuum Wave,6.00315955766%,38.0
+13:Ice Punch,4.73933649289%,30.0
+14:Iron Tail,3.94944707741%,25.0
+15:Extreme Speed,2.84360189573%,18.0
+16:Swords Dance,2.36966824645%,15.0
+17:Me First,2.21169036335%,14.0
+18:Roar,2.21169036335%,14.0
+19:Hidden Power,1.89573459716%,12.0
+20:Heal Pulse,1.57977883096%,10.0
+0:Other,4.4233807267%,28.0
+
+ ---------- 
+Items used:
+1:Lucarionite,78.5150078989%,497.0
+2:Focus Sash,12.3222748815%,78.0
+3:Lum Berry,2.21169036335%,14.0
+4:Mental Herb,1.57977883096%,10.0
+5:Choice Scarf,1.42180094787%,9.0
+6:Expert Belt,1.10584518167%,7.0
+7:Chople Berry,0.947867298578%,6.0
+8:Sitrus Berry,0.947867298578%,6.0
+9:Iron Plate,0.631911532385%,4.0
+10:Life Orb,0.157977883096%,1.0
+11:Shuca Berry,0.157977883096%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,69.0363349131%,437.0
+2:Steadfast,21.4849921011%,136.0
+3:Justified,9.47867298578%,60.0
+
+ ---------- 
+Natures used:
+1:Adamant,51.3428120063%,325.0
+2:Jolly,34.7551342812%,220.0
+3:Timid,6.31911532385%,40.0
+4:Naive,3.15955766193%,20.0
+5:Impish,1.57977883096%,10.0
+6:Hasty,0.947867298578%,6.0
+7:Careful,0.789889415482%,5.0
+8:Modest,0.631911532385%,4.0
+9:Docile,0.315955766193%,2.0
+10:Bold,0.157977883096%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Liepard
+3:Ditto
+4:Kyogre
+5:Xerneas
+6:Rayquaza
+7:Groudon
+8:Talonflame
+9:Giratina
+10:Ferrothorn
+11:Weavile
+12:Raichu
+13:Kangaskhan
+14:Yveltal
+15:Kyurem
+16:Thundurus
+17:Meowstic
+18:Empoleon
+19:Whimsicott
+20:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Focus Punch,61.2590799031%,387.769975787
+2:Feint,15.0121065375%,95.0266343826
+3:Bullet Punch,6.29539951574%,39.8498789346
+4:Close Combat,5.56900726392%,35.2518159806
+5:Low Kick,3.63196125908%,22.99031477
+6:Flash Cannon,1.93704600484%,12.2615012107
+7:Vacuum Wave,1.69491525424%,10.7288135593
+8:Aura Sphere,1.69491525424%,10.7288135593
+9:Ice Punch,0.968523002421%,6.13075060533
+10:Final Gambit,0.484261501211%,3.06537530266
+11:Stone Edge,0.484261501211%,3.06537530266
+12:Extreme Speed,0.484261501211%,3.06537530266
+13:Water Pulse,0.242130750605%,1.53268765133
+14:Iron Tail,0.242130750605%,1.53268765133
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.1627906977%,70.6604651163
+2:Dazzling Gleam,10.6976744186%,67.7162790698
+3:Water Spout,7.90697674419%,50.0511627907
+4:Origin Pulse,5.81395348837%,36.8023255814
+5:Low Kick,5.58139534884%,35.3302325581
+6:Hyper Voice,5.3488372093%,33.8581395349
+7:Eruption,4.6511627907%,29.4418604651
+8:Brave Bird,4.41860465116%,27.9697674419
+9:Flare Blitz,3.48837209302%,22.0813953488
+10:Dragon Ascent,3.25581395349%,20.6093023256
+11:Earthquake,3.25581395349%,20.6093023256
+12:Earth Power,2.79069767442%,17.6651162791
+13:Extreme Speed,2.09302325581%,13.2488372093
+14:Thunderbolt,2.09302325581%,13.2488372093
+15:Double-Edge,2.09302325581%,13.2488372093
+16:Fire Punch,2.09302325581%,13.2488372093
+17:Moonblast,1.86046511628%,11.776744186
+18:Play Rough,1.86046511628%,11.776744186
+19:Overheat,1.39534883721%,8.83255813953
+20:Iron Head,1.16279069767%,7.36046511628
+0:Other,14.1860465116%,89.7976744186
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Kyogre
+4:Xerneas
+5:Smeargle
+6:Weavile
+7:Groudon
+8:Thundurus
+9:Ferrothorn
+10:Rayquaza
+11:Salamence
+12:Landorus
+13:Whimsicott
+14:Mawile
+15:Yveltal
+16:Liepard
+17:Dialga
+18:Scizor
+19:Crobat
+20:Kyurem
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Salamence
+6:Kangaskhan
+7:Rayquaza
+8:Landorus
+9:Mawile
+10:Thundurus
+11:Rayquaza
+12:Ferrothorn
+13:Kyogre
+14:Mienshao
+15:Dialga
+16:Kyurem
+17:Aegislash
+18:Lopunny
+19:Ludicolo
+20:Smeargle

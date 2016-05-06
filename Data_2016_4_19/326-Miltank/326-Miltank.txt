@@ -1,0 +1,39 @@
+326:Miltank|1
+ ---------- 
+Moves used:
+1:Helping Hand,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Body Slam,100.0%,1.0
+4:Ice Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Scrappy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Liepard
+2:Palkia
+3:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Pulse,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Dialga

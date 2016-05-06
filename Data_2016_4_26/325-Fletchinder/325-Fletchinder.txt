@@ -1,0 +1,36 @@
+325:Fletchinder|1
+ ---------- 
+Moves used:
+1:Tailwind,100.0%,1.0
+2:Quick Attack,100.0%,1.0
+3:Growl,100.0%,1.0
+4:Tackle,100.0%,1.0
+
+ ---------- 
+Items used:
+
+ ---------- 
+Abilities used:
+1:Flame Body,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Rash,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Thundurus
+2:Ferrothorn
+3:Crawdaunt
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

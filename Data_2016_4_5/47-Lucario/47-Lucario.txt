@@ -1,0 +1,159 @@
+47:Lucario|446
+ ---------- 
+Moves used:
+1:Follow Me,79.8206278027%,356.0
+2:Protect,77.802690583%,347.0
+3:Feint,65.4708520179%,292.0
+4:Focus Punch,59.1928251121%,264.0
+5:Close Combat,26.0089686099%,116.0
+6:Bullet Punch,21.0762331839%,94.0
+7:Detect,11.4349775785%,51.0
+8:Aura Sphere,7.62331838565%,34.0
+9:Iron Tail,6.05381165919%,27.0
+10:Flash Cannon,5.60538116592%,25.0
+11:Vacuum Wave,5.38116591928%,24.0
+12:Low Kick,5.15695067265%,23.0
+13:Quick Guard,4.48430493274%,20.0
+14:Extreme Speed,4.48430493274%,20.0
+15:Ice Punch,4.2600896861%,19.0
+16:Swords Dance,2.91479820628%,13.0
+17:Substitute,2.69058295964%,12.0
+18:Roar,2.69058295964%,12.0
+19:Heal Pulse,2.01793721973%,9.0
+20:Hidden Power,2.01793721973%,9.0
+0:Other,3.81165919283%,17.0
+
+ ---------- 
+Items used:
+1:Lucarionite,84.5291479821%,377.0
+2:Focus Sash,8.5201793722%,38.0
+3:Mental Herb,2.01793721973%,9.0
+4:Chople Berry,1.34529147982%,6.0
+5:Lum Berry,1.12107623318%,5.0
+6:Choice Scarf,0.896860986547%,4.0
+7:Expert Belt,0.896860986547%,4.0
+8:Sitrus Berry,0.67264573991%,3.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,66.5919282511%,297.0
+2:Steadfast,27.802690583%,124.0
+3:Justified,5.60538116592%,25.0
+
+ ---------- 
+Natures used:
+1:Adamant,54.932735426%,245.0
+2:Jolly,33.4080717489%,149.0
+3:Timid,5.38116591928%,24.0
+4:Naive,2.69058295964%,12.0
+5:Impish,2.01793721973%,9.0
+6:Modest,0.896860986547%,4.0
+7:Hasty,0.67264573991%,3.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Liepard
+3:Ditto
+4:Xerneas
+5:Kyogre
+6:Groudon
+7:Giratina
+8:Weavile
+9:Yveltal
+10:Talonflame
+11:Rayquaza
+12:Kangaskhan
+13:Mewtwo
+14:Gengar
+15:Thundurus
+16:Whimsicott
+17:Azelf
+18:Landorus
+19:Salamence
+20:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Focus Punch,64.6864686469%,288.501650165
+2:Feint,16.501650165%,73.597359736
+3:Close Combat,6.27062706271%,27.9669966997
+4:Bullet Punch,3.6303630363%,16.1914191419
+5:Low Kick,2.3102310231%,10.303630363
+6:Flash Cannon,1.6501650165%,7.3597359736
+7:Vacuum Wave,1.3201320132%,5.88778877888
+8:Aura Sphere,1.3201320132%,5.88778877888
+9:Stone Edge,0.660066006601%,2.94389438944
+10:Iron Tail,0.660066006601%,2.94389438944
+11:Ice Punch,0.660066006601%,2.94389438944
+12:Extreme Speed,0.3300330033%,1.47194719472
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.058419244%,58.2405498282
+2:Precipice Blades,9.62199312715%,42.9140893471
+3:Water Spout,8.93470790378%,39.8487972509
+4:Eruption,6.52920962199%,29.1202749141
+5:Origin Pulse,6.18556701031%,27.587628866
+6:Brave Bird,4.81099656357%,21.4570446735
+7:Hyper Voice,4.81099656357%,21.4570446735
+8:Low Kick,4.12371134021%,18.3917525773
+9:Flare Blitz,3.43642611684%,15.3264604811
+10:Dragon Ascent,3.09278350515%,13.793814433
+11:Earthquake,2.74914089347%,12.2611683849
+12:Play Rough,2.40549828179%,10.7285223368
+13:Earth Power,2.40549828179%,10.7285223368
+14:Extreme Speed,2.40549828179%,10.7285223368
+15:Thunderbolt,2.40549828179%,10.7285223368
+16:Moonblast,1.71821305842%,7.66323024055
+17:Iron Head,1.71821305842%,7.66323024055
+18:Overheat,1.71821305842%,7.66323024055
+19:Double-Edge,1.71821305842%,7.66323024055
+20:Scald,1.37457044674%,6.13058419244
+0:Other,13.058419244%,58.2405498282
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Xerneas
+4:Kyogre
+5:Smeargle
+6:Weavile
+7:Groudon
+8:Thundurus
+9:Rayquaza
+10:Ferrothorn
+11:Salamence
+12:Crobat
+13:Yveltal
+14:Whimsicott
+15:Mawile
+16:Kyurem
+17:Landorus
+18:Amoonguss
+19:Liepard
+20:Mienshao
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Salamence
+6:Kangaskhan
+7:Rayquaza
+8:Mawile
+9:Landorus
+10:Thundurus
+11:Rayquaza
+12:Kyogre
+13:Ferrothorn
+14:Yveltal
+15:Aegislash
+16:Kyurem
+17:Mienshao
+18:Lopunny
+19:Gengar
+20:Tornadus

@@ -1,0 +1,46 @@
+307:Girafarig|1
+ ---------- 
+Moves used:
+1:Bulldoze,100.0%,1.0
+2:Gravity,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Yveltal
+4:Thundurus
+5:Medicham
+6:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,0.333333333333
+2:Fusion Flare,33.3333333333%,0.333333333333
+3:Hyper Voice,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyurem
+3:Salamence

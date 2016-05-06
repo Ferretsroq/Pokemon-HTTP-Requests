@@ -1,0 +1,58 @@
+255:Vileplume|1
+ ---------- 
+Moves used:
+1:Moonblast,100.0%,1.0
+2:Grass Knot,100.0%,1.0
+3:Hidden Power,100.0%,1.0
+4:Sludge Bomb,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Talonflame
+5:Cresselia
+6:Kangaskhan
+7:Xerneas
+8:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,66.6666666667%,0.666666666667
+2:Grass Knot,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,16.6666666667%,0.166666666667
+2:Dazzling Gleam,16.6666666667%,0.166666666667
+3:Moonblast,16.6666666667%,0.166666666667
+4:Bug Bite,16.6666666667%,0.166666666667
+5:Earthquake,16.6666666667%,0.166666666667
+6:Fire Punch,16.6666666667%,0.166666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Salamence
+5:Scizor

@@ -1,0 +1,54 @@
+223:Zebstrika|3
+ ---------- 
+Moves used:
+1:Wild Charge,100.0%,3.0
+2:Me First,100.0%,3.0
+3:Overheat,100.0%,3.0
+4:Protect,100.0%,3.0
+
+ ---------- 
+Items used:
+1:Expert Belt,66.6666666667%,2.0
+2:Life Orb,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Naive,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Talonflame
+3:Sableye
+4:Ho-Oh
+5:Mewtwo
+6:Landorus
+7:Palkia
+8:Salamence
+9:Mawile
+10:Scizor
+11:Parasect
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Me First,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,60.0%,1.8
+2:Dazzling Gleam,20.0%,0.6
+3:Earth Power,20.0%,0.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Dialga
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon

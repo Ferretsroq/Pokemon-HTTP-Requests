@@ -1,0 +1,118 @@
+118:Houndoom|68
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,68.0
+2:Protect,100.0%,68.0
+3:Heat Wave,89.7058823529%,61.0
+4:Overheat,30.8823529412%,21.0
+5:Destiny Bond,25.0%,17.0
+6:Role Play,19.1176470588%,13.0
+7:Solar Beam,17.6470588235%,12.0
+8:Fire Blast,7.35294117647%,5.0
+9:Hidden Power,4.41176470588%,3.0
+10:Flamethrower,2.94117647059%,2.0
+11:Snarl,1.47058823529%,1.0
+12:Nasty Plot,1.47058823529%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,100.0%,68.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,97.0588235294%,66.0
+2:Unnerve,2.94117647059%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,68.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mewtwo
+3:Yveltal
+4:Purugly
+5:Zekrom
+6:Ferrothorn
+7:Landorus
+8:Whimsicott
+9:Golduck
+10:Crobat
+11:Xerneas
+12:Smeargle
+13:Hydreigon
+14:Weavile
+15:Trevenant
+16:Greninja
+17:Bisharp
+18:Excadrill
+19:Liepard
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,56.0975609756%,38.1463414634
+2:Dark Pulse,24.3902439024%,16.5853658537
+3:Overheat,9.75609756098%,6.63414634146
+4:Flamethrower,4.87804878049%,3.31707317073
+5:Destiny Bond,2.43902439024%,1.65853658537
+6:Solar Beam,2.43902439024%,1.65853658537
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.5833333333%,9.91666666667
+2:Dazzling Gleam,10.4166666667%,7.08333333333
+3:Earth Power,10.4166666667%,7.08333333333
+4:Oblivion Wing,8.33333333333%,5.66666666667
+5:Dragon Ascent,6.25%,4.25
+6:Origin Pulse,6.25%,4.25
+7:Hyper Voice,6.25%,4.25
+8:Brave Bird,4.16666666667%,2.83333333333
+9:Sucker Punch,4.16666666667%,2.83333333333
+10:Water Spout,4.16666666667%,2.83333333333
+11:Earthquake,4.16666666667%,2.83333333333
+12:Moonblast,2.08333333333%,1.41666666667
+13:Wild Charge,2.08333333333%,1.41666666667
+14:Superpower,2.08333333333%,1.41666666667
+15:Double-Edge,2.08333333333%,1.41666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Xerneas
+3:Thundurus
+4:Groudon
+5:Cresselia
+6:Dialga
+7:Kangaskhan
+8:Meowstic
+9:Talonflame
+10:Landorus
+11:Mienshao
+12:Ferrothorn
+13:Gastrodon
+14:Salamence
+15:Mawile
+16:Ho-Oh
+17:Smeargle
+18:Porygon2
+19:Gengar
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Yveltal
+4:Kyogre
+5:Rayquaza
+6:Salamence
+7:Landorus
+8:Kangaskhan
+9:Talonflame
+10:Landorus
+11:Thundurus
+12:Rayquaza
+13:Blaziken
+14:Ho-Oh

@@ -1,0 +1,128 @@
+100:Chansey|139
+ ---------- 
+Moves used:
+1:Soft-Boiled,94.964028777%,132.0
+2:Seismic Toss,84.8920863309%,118.0
+3:Counter,46.7625899281%,65.0
+4:Thunder Wave,42.4460431655%,59.0
+5:Minimize,38.8489208633%,54.0
+6:Heal Pulse,34.5323741007%,48.0
+7:Toxic,20.1438848921%,28.0
+8:Skill Swap,17.9856115108%,25.0
+9:Helping Hand,10.071942446%,14.0
+10:Icy Wind,5.03597122302%,7.0
+11:Protect,3.59712230216%,5.0
+12:Swagger,0.719424460432%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,139.0
+
+ ---------- 
+Abilities used:
+1:Natural Cure,87.0503597122%,121.0
+2:Healer,12.2302158273%,17.0
+3:Serene Grace,0.719424460432%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,71.2230215827%,99.0
+2:Relaxed,24.4604316547%,34.0
+3:Calm,3.59712230216%,5.0
+4:Impish,0.719424460432%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Smeargle
+5:Gengar
+6:Mewtwo
+7:Landorus
+8:Sableye
+9:Rayquaza
+10:Dialga
+11:Crobat
+12:Gyarados
+13:Xerneas
+14:Whimsicott
+15:Manectric
+16:Sylveon
+17:Yveltal
+18:Ferrothorn
+19:Giratina
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Seismic Toss,76.7857142857%,106.732142857
+2:Counter,21.4285714286%,29.7857142857
+3:Icy Wind,1.78571428571%,2.48214285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,11.6666666667%,16.2166666667
+2:Precipice Blades,10.0%,13.9
+3:Double-Edge,10.0%,13.9
+4:Dragon Ascent,8.33333333333%,11.5833333333
+5:Moonblast,6.66666666667%,9.26666666667
+6:Brave Bird,6.66666666667%,9.26666666667
+7:Eruption,5.0%,6.95
+8:Power-Up Punch,3.33333333333%,4.63333333333
+9:Dazzling Gleam,3.33333333333%,4.63333333333
+10:Snarl,3.33333333333%,4.63333333333
+11:Iron Head,3.33333333333%,4.63333333333
+12:Water Spout,3.33333333333%,4.63333333333
+13:Return,3.33333333333%,4.63333333333
+14:Origin Pulse,1.66666666667%,2.31666666667
+15:Flash Cannon,1.66666666667%,2.31666666667
+16:Earth Power,1.66666666667%,2.31666666667
+17:Flare Blitz,1.66666666667%,2.31666666667
+18:Knock Off,1.66666666667%,2.31666666667
+19:Superpower,1.66666666667%,2.31666666667
+20:Extreme Speed,1.66666666667%,2.31666666667
+0:Other,5.0%,6.95
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Kyogre
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Landorus
+8:Whimsicott
+9:Weavile
+10:Mawile
+11:Crobat
+12:Greninja
+13:Thundurus
+14:Bisharp
+15:Ferrothorn
+16:Amoonguss
+17:Cresselia
+18:Metagross
+19:Smeargle
+20:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Rayquaza
+5:Salamence
+6:Yveltal
+7:Talonflame
+8:Kyogre
+9:Mawile
+10:Ho-Oh
+11:Landorus
+12:Dialga
+13:Rayquaza
+14:Groudon
+15:Swampert
+16:Smeargle
+17:Crobat

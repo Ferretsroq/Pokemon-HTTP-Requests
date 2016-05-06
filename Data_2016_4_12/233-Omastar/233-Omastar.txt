@@ -1,0 +1,72 @@
+233:Omastar|9
+ ---------- 
+Moves used:
+1:Protect,100.0%,9.0
+2:Ice Beam,100.0%,9.0
+3:Earth Power,66.6666666667%,6.0
+4:Hydro Pump,55.5555555556%,5.0
+5:Muddy Water,33.3333333333%,3.0
+6:Reflect Type,22.2222222222%,2.0
+7:Scald,11.1111111111%,1.0
+8:Hidden Power,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,55.5555555556%,5.0
+2:Wise Glasses,22.2222222222%,2.0
+3:Scope Lens,11.1111111111%,1.0
+4:Sitrus Berry,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Modest,77.7777777778%,7.0
+2:Timid,22.2222222222%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Dialga
+3:Liepard
+4:Rayquaza
+5:Mawile
+6:Smeargle
+7:Thundurus
+8:Ferrothorn
+9:Gardevoir
+10:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,28.5714285714%,2.57142857143
+2:Scald,14.2857142857%,1.28571428571
+3:Earth Power,14.2857142857%,1.28571428571
+4:Muddy Water,14.2857142857%,1.28571428571
+5:Hidden Power,14.2857142857%,1.28571428571
+6:Hydro Pump,14.2857142857%,1.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Scald,50.0%,4.5
+2:Earth Power,16.6666666667%,1.5
+3:Dark Pulse,16.6666666667%,1.5
+4:Water Spout,16.6666666667%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Tornadus
+2:Bronzong
+3:Rayquaza
+4:Kyogre
+5:Mawile
+6:Crobat
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Yveltal
+3:Dialga

@@ -1,0 +1,44 @@
+265:Crawdaunt|1
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,1.0
+2:Knock Off,100.0%,1.0
+3:Superpower,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Raichu
+3:Talonflame
+4:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,50.0%,0.5
+2:Power Whip,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Ferrothorn

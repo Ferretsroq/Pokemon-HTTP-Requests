@@ -1,0 +1,80 @@
+215:Mantyke|23
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,23.0
+2:Scald,65.2173913043%,15.0
+3:Tailwind,65.2173913043%,15.0
+4:Air Slash,52.1739130435%,12.0
+5:Haze,43.4782608696%,10.0
+6:Icy Wind,34.7826086957%,8.0
+7:Mirror Coat,30.4347826087%,7.0
+8:Helping Hand,4.34782608696%,1.0
+9:Confuse Ray,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,23.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,23.0
+
+ ---------- 
+Natures used:
+1:Calm,78.2608695652%,18.0
+2:Bold,21.7391304348%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Thundurus
+5:Kangaskhan
+6:Kyogre
+7:Talonflame
+8:Ferrothorn
+9:Mawile
+10:Smeargle
+11:Crobat
+12:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,50.0%,11.5
+2:Air Slash,33.3333333333%,7.66666666667
+3:Scald,16.6666666667%,3.83333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,13.3333333333%,3.06666666667
+2:Rock Slide,13.3333333333%,3.06666666667
+3:Thunder,13.3333333333%,3.06666666667
+4:Thunderbolt,13.3333333333%,3.06666666667
+5:Dazzling Gleam,6.66666666667%,1.53333333333
+6:Moonblast,6.66666666667%,1.53333333333
+7:Sucker Punch,6.66666666667%,1.53333333333
+8:Knock Off,6.66666666667%,1.53333333333
+9:Ice Beam,6.66666666667%,1.53333333333
+10:Double-Edge,6.66666666667%,1.53333333333
+11:Fire Punch,6.66666666667%,1.53333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Whimsicott
+3:Groudon
+4:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Thundurus
+4:Groudon
+5:Yveltal
+6:Landorus
+7:Rayquaza
+8:Rayquaza
+9:Salamence
+10:Kangaskhan

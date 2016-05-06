@@ -1,0 +1,114 @@
+161:Virizion|42
+ ---------- 
+Moves used:
+1:Leaf Blade,85.7142857143%,36.0
+2:Protect,83.3333333333%,35.0
+3:Close Combat,69.0476190476%,29.0
+4:Quick Guard,66.6666666667%,28.0
+5:Taunt,19.0476190476%,8.0
+6:Sacred Sword,16.6666666667%,7.0
+7:Grass Knot,14.2857142857%,6.0
+8:Focus Blast,14.2857142857%,6.0
+9:Worry Seed,14.2857142857%,6.0
+10:Stone Edge,9.52380952381%,4.0
+11:Hidden Power,4.7619047619%,2.0
+12:Swords Dance,2.38095238095%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,57.1428571429%,24.0
+2:Lum Berry,21.4285714286%,9.0
+3:Focus Sash,14.2857142857%,6.0
+4:Weakness Policy,4.7619047619%,2.0
+5:Leftovers,2.38095238095%,1.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,42.0
+
+ ---------- 
+Natures used:
+1:Jolly,71.4285714286%,30.0
+2:Timid,14.2857142857%,6.0
+3:Adamant,7.14285714286%,3.0
+4:Lonely,4.7619047619%,2.0
+5:Hasty,2.38095238095%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Mewtwo
+4:Crobat
+5:Landorus
+6:Xerneas
+7:Thundurus
+8:Kangaskhan
+9:Aegislash
+10:Lickilicky
+11:Raichu
+12:Gengar
+13:Togetic
+14:Golduck
+15:Yveltal
+16:Kyurem
+17:Whimsicott
+18:Giratina
+19:Dialga
+20:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Blade,50.0%,21.0
+2:Grass Knot,16.6666666667%,7.0
+3:Focus Blast,11.1111111111%,4.66666666667
+4:Close Combat,11.1111111111%,4.66666666667
+5:Sacred Sword,5.55555555556%,2.33333333333
+6:Stone Edge,5.55555555556%,2.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Play Rough,9.09090909091%,3.81818181818
+2:Water Spout,9.09090909091%,3.81818181818
+3:Hyper Voice,9.09090909091%,3.81818181818
+4:Return,9.09090909091%,3.81818181818
+5:Ice Beam,9.09090909091%,3.81818181818
+6:Dazzling Gleam,4.54545454545%,1.90909090909
+7:Icicle Crash,4.54545454545%,1.90909090909
+8:Bullet Punch,4.54545454545%,1.90909090909
+9:Brave Bird,4.54545454545%,1.90909090909
+10:Dragon Pulse,4.54545454545%,1.90909090909
+11:Flare Blitz,4.54545454545%,1.90909090909
+12:Sucker Punch,4.54545454545%,1.90909090909
+13:Gyro Ball,4.54545454545%,1.90909090909
+14:Eruption,4.54545454545%,1.90909090909
+15:Double-Edge,4.54545454545%,1.90909090909
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Dedenne
+4:Landorus
+5:Thundurus
+6:Ferrothorn
+7:Cresselia
+8:Dialga
+9:Groudon
+10:Crobat
+11:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Mawile
+3:Kangaskhan
+4:Talonflame
+5:Salamence
+6:Xerneas
+7:Kyurem
+8:Ferrothorn
+9:Weavile
+10:Groudon
+11:Kyogre
+12:Scizor

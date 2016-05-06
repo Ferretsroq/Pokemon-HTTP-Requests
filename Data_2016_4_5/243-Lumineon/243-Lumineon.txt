@@ -1,0 +1,52 @@
+243:Lumineon|4
+ ---------- 
+Moves used:
+1:Icy Wind,100.0%,4.0
+2:Protect,100.0%,4.0
+3:Soak,75.0%,3.0
+4:Tailwind,75.0%,3.0
+5:Scald,25.0%,1.0
+6:Safeguard,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,75.0%,3.0
+2:Mental Herb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,75.0%,3.0
+2:Swift Swim,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,75.0%,3.0
+2:Timid,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Crobat
+7:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,33.3333333333%,1.33333333333
+2:Sucker Punch,33.3333333333%,1.33333333333
+3:Thunderbolt,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Dialga
+3:Smeargle

@@ -1,0 +1,129 @@
+127:Xatu|107
+ ---------- 
+Moves used:
+1:Tailwind,54.2056074766%,58.0
+2:Skill Swap,51.4018691589%,55.0
+3:Ally Switch,43.9252336449%,47.0
+4:Thunder Wave,40.1869158879%,43.0
+5:Haze,28.9719626168%,31.0
+6:Psychic,27.1028037383%,29.0
+7:Simple Beam,25.2336448598%,27.0
+8:Trick Room,20.5607476636%,22.0
+9:Protect,19.6261682243%,21.0
+10:Air Slash,14.953271028%,16.0
+11:Foul Play,13.0841121495%,14.0
+12:Leer,13.0841121495%,14.0
+13:Wish,12.1495327103%,13.0
+14:Feather Dance,8.41121495327%,9.0
+15:Confuse Ray,8.41121495327%,9.0
+16:Night Shade,6.54205607477%,7.0
+17:Me First,4.67289719626%,5.0
+18:Light Screen,2.80373831776%,3.0
+19:Heat Wave,1.8691588785%,2.0
+20:Reflect,1.8691588785%,2.0
+0:Other,0.934579439252%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,70.0934579439%,75.0
+2:Wacan Berry,13.0841121495%,14.0
+3:Sitrus Berry,13.0841121495%,14.0
+4:Mental Herb,1.8691588785%,2.0
+5:Red Card,0.934579439252%,1.0
+6:King's Rock,0.934579439252%,1.0
+
+ ---------- 
+Abilities used:
+1:Magic Bounce,100.0%,107.0
+
+ ---------- 
+Natures used:
+1:Timid,82.2429906542%,88.0
+2:Bold,17.7570093458%,19.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Mawile
+7:Rayquaza
+8:Ferrothorn
+9:Gengar
+10:Golem
+11:Yveltal
+12:Gallade
+13:Manectric
+14:Ho-Oh
+15:Thundurus
+16:Landorus
+17:Smeargle
+18:Golduck
+19:Clefairy
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,50.0%,53.5
+2:Foul Play,25.0%,26.75
+3:Air Slash,12.5%,13.375
+4:Night Shade,12.5%,13.375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,18.9473684211%,20.2736842105
+2:Rock Slide,7.36842105263%,7.88421052632
+3:Double-Edge,7.36842105263%,7.88421052632
+4:Water Spout,6.31578947368%,6.75789473684
+5:Eruption,5.26315789474%,5.63157894737
+6:Ice Beam,5.26315789474%,5.63157894737
+7:Precipice Blades,4.21052631579%,4.50526315789
+8:Moonblast,3.15789473684%,3.37894736842
+9:Gyro Ball,3.15789473684%,3.37894736842
+10:Hyper Voice,3.15789473684%,3.37894736842
+11:Blizzard,3.15789473684%,3.37894736842
+12:Dragon Ascent,2.10526315789%,2.25263157895
+13:Origin Pulse,2.10526315789%,2.25263157895
+14:Brave Bird,2.10526315789%,2.25263157895
+15:Knock Off,2.10526315789%,2.25263157895
+16:Sludge Bomb,2.10526315789%,2.25263157895
+17:Freeze-Dry,1.05263157895%,1.12631578947
+18:Snarl,1.05263157895%,1.12631578947
+19:Final Gambit,1.05263157895%,1.12631578947
+20:Scald,1.05263157895%,1.12631578947
+0:Other,16.8421052632%,18.0210526316
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Meowstic
+4:Ferrothorn
+5:Rayquaza
+6:Groudon
+7:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Kyurem
+7:Rayquaza
+8:Talonflame
+9:Landorus
+10:Ferrothorn
+11:Weavile
+12:Lapras
+13:Gengar
+14:Yveltal
+15:Thundurus
+16:Amoonguss
+17:Gothitelle
+18:Whimsicott
+19:Giratina
+20:Dialga

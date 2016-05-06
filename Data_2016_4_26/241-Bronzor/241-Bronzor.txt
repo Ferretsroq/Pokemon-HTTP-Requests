@@ -1,0 +1,49 @@
+241:Bronzor|12
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,12.0
+2:Safeguard,100.0%,12.0
+3:Gravity,91.6666666667%,11.0
+4:Hypnosis,91.6666666667%,11.0
+5:Skill Swap,8.33333333333%,1.0
+6:Swagger,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,12.0
+
+ ---------- 
+Abilities used:
+1:Heatproof,91.6666666667%,11.0
+2:Levitate,8.33333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,12.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,50.0%,6.0
+2:Eruption,12.5%,1.5
+3:Knock Off,12.5%,1.5
+4:Blizzard,12.5%,1.5
+5:Flamethrower,12.5%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyurem
+3:Ferrothorn

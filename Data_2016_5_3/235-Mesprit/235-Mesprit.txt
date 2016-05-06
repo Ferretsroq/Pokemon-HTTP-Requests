@@ -1,0 +1,77 @@
+235:Mesprit|17
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,17.0
+2:Dazzling Gleam,58.8235294118%,10.0
+3:Psychic,52.9411764706%,9.0
+4:Stealth Rock,35.2941176471%,6.0
+5:Healing Wish,35.2941176471%,6.0
+6:Ice Beam,35.2941176471%,6.0
+7:Grass Knot,29.4117647059%,5.0
+8:Helping Hand,29.4117647059%,5.0
+9:Psyshock,11.7647058824%,2.0
+10:Skill Swap,5.88235294118%,1.0
+11:Blizzard,5.88235294118%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,64.7058823529%,11.0
+2:Red Card,35.2941176471%,6.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Quiet,64.7058823529%,11.0
+2:Sassy,35.2941176471%,6.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Mienshao
+4:Groudon
+5:Sceptile
+6:Magnezone
+7:Dialga
+8:Furret
+9:Rayquaza
+10:Sudowoodo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,50.0%,8.5
+2:Dazzling Gleam,25.0%,4.25
+3:Psyshock,25.0%,4.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,15.3846153846%,2.61538461538
+2:Sucker Punch,15.3846153846%,2.61538461538
+3:Water Spout,15.3846153846%,2.61538461538
+4:Power Whip,7.69230769231%,1.30769230769
+5:Seed Bomb,7.69230769231%,1.30769230769
+6:Dragon Claw,7.69230769231%,1.30769230769
+7:Eruption,7.69230769231%,1.30769230769
+8:Knock Off,7.69230769231%,1.30769230769
+9:Shadow Ball,7.69230769231%,1.30769230769
+10:Return,7.69230769231%,1.30769230769
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Greninja
+3:Ho-Oh
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Ferrothorn
+3:Groudon
+4:Kyogre
+5:Kangaskhan
+6:Weavile
+7:Mawile
+8:Gengar

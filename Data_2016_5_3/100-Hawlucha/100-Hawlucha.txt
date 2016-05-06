@@ -1,0 +1,119 @@
+100:Hawlucha|225
+ ---------- 
+Moves used:
+1:Quick Guard,97.3333333333%,219.0
+2:Encore,93.3333333333%,210.0
+3:Tailwind,85.3333333333%,192.0
+4:Fling,64.0%,144.0
+5:Entrainment,25.3333333333%,57.0
+6:Endeavor,10.2222222222%,23.0
+7:Rock Slide,9.77777777778%,22.0
+8:Acrobatics,4.0%,9.0
+9:Helping Hand,2.66666666667%,6.0
+10:Ally Switch,2.22222222222%,5.0
+11:High Jump Kick,2.22222222222%,5.0
+12:Iron Head,1.33333333333%,3.0
+13:Sky Drop,0.888888888889%,2.0
+14:Low Kick,0.888888888889%,2.0
+15:Protect,0.444444444444%,1.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,62.2222222222%,140.0
+2:Focus Sash,26.2222222222%,59.0
+3:Coba Berry,9.77777777778%,22.0
+4:Razor Fang,1.33333333333%,3.0
+5:King's Rock,0.444444444444%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,70.6666666667%,159.0
+2:Limber,29.3333333333%,66.0
+
+ ---------- 
+Natures used:
+1:Timid,54.2222222222%,122.0
+2:Jolly,44.0%,99.0
+3:Adamant,1.77777777778%,4.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Kyogre
+3:Kangaskhan
+4:Groudon
+5:Blastoise
+6:Scizor
+7:Zekrom
+8:Rayquaza
+9:Manectric
+10:Yveltal
+11:Togekiss
+12:Cresselia
+13:Gengar
+14:Landorus
+15:Crobat
+16:Dragonite
+17:Xerneas
+18:Weavile
+19:Aegislash
+20:Vivillon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,75.0%,168.75
+2:High Jump Kick,25.0%,56.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,12.5%,28.125
+2:Dazzling Gleam,11.8421052632%,26.6447368421
+3:Eruption,7.23684210526%,16.2828947368
+4:Double-Edge,7.23684210526%,16.2828947368
+5:Oblivion Wing,3.94736842105%,8.88157894737
+6:Water Spout,3.94736842105%,8.88157894737
+7:Rock Slide,3.94736842105%,8.88157894737
+8:Ice Beam,3.94736842105%,8.88157894737
+9:Precipice Blades,3.28947368421%,7.40131578947
+10:Extreme Speed,3.28947368421%,7.40131578947
+11:Thunderbolt,2.63157894737%,5.92105263158
+12:Origin Pulse,1.97368421053%,4.44078947368
+13:Icicle Crash,1.97368421053%,4.44078947368
+14:Brave Bird,1.97368421053%,4.44078947368
+15:Dragon Pulse,1.97368421053%,4.44078947368
+16:Icy Wind,1.97368421053%,4.44078947368
+17:Thunder,1.97368421053%,4.44078947368
+18:Fire Punch,1.97368421053%,4.44078947368
+19:Dragon Ascent,1.31578947368%,2.96052631579
+20:Moonblast,1.31578947368%,2.96052631579
+0:Other,18.4210526316%,41.4473684211
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Landorus
+4:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Salamence
+4:Kyogre
+5:Kangaskhan
+6:Yveltal
+7:Rayquaza
+8:Thundurus
+9:Cresselia
+10:Talonflame
+11:Liepard
+12:Dialga
+13:Weavile
+14:Kyurem
+15:Landorus
+16:Smeargle
+17:Zapdos
+18:Gengar
+19:Heliolisk
+20:Meowstic

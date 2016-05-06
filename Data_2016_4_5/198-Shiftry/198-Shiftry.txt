@@ -1,0 +1,57 @@
+198:Shiftry|10
+ ---------- 
+Moves used:
+1:Leaf Blade,100.0%,10.0
+2:Knock Off,100.0%,10.0
+3:Fake Out,100.0%,10.0
+4:Low Kick,70.0%,7.0
+5:Tailwind,30.0%,3.0
+
+ ---------- 
+Items used:
+1:Focus Sash,50.0%,5.0
+2:Life Orb,50.0%,5.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,10.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,10.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Yveltal
+4:Xerneas
+5:Dialga
+6:Gastrodon
+7:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,40.0%,4.0
+2:Dragon Ascent,10.0%,1.0
+3:Sky Drop,10.0%,1.0
+4:Sucker Punch,10.0%,1.0
+5:Hyper Voice,10.0%,1.0
+6:Mach Punch,10.0%,1.0
+7:Ice Beam,10.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal
+3:Rayquaza
+4:Kyogre
+5:Salamence
+6:Breloom
+7:Kangaskhan

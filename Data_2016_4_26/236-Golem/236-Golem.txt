@@ -1,0 +1,77 @@
+236:Golem|14
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,14.0
+2:Rock Slide,78.5714285714%,11.0
+3:Protect,64.2857142857%,9.0
+4:Wide Guard,57.1428571429%,8.0
+5:Explosion,42.8571428571%,6.0
+6:Stealth Rock,21.4285714286%,3.0
+7:Stone Edge,21.4285714286%,3.0
+8:Bulldoze,14.2857142857%,2.0
+
+ ---------- 
+Items used:
+1:Custap Berry,57.1428571429%,8.0
+2:Passho Berry,21.4285714286%,3.0
+3:Choice Band,14.2857142857%,2.0
+4:Weakness Policy,7.14285714286%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,14.0
+
+ ---------- 
+Natures used:
+1:Adamant,78.5714285714%,11.0
+2:Brave,21.4285714286%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Xatu
+4:Ferrothorn
+5:Kyogre
+6:Mewtwo
+7:Sylveon
+8:Milotic
+9:Greninja
+10:Kyurem
+11:Mienshao
+12:Gallade
+13:Jumpluff
+14:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,45.4545454545%,6.36363636364
+2:Rock Slide,27.2727272727%,3.81818181818
+3:Explosion,27.2727272727%,3.81818181818
+
+ ---------- 
+Moves that KO this pokemon:
+1:Snarl,14.2857142857%,2.0
+2:Bullet Punch,14.2857142857%,2.0
+3:Gyro Ball,14.2857142857%,2.0
+4:Icy Wind,14.2857142857%,2.0
+5:Low Kick,14.2857142857%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Thundurus
+3:Meowstic
+4:Talonflame
+5:Dialga
+6:Kyogre
+7:Kyogre
+8:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Tornadus
+3:Ferrothorn
+4:Metagross
+5:Kangaskhan

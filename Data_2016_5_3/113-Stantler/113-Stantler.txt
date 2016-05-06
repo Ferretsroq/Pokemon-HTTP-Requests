@@ -1,0 +1,100 @@
+113:Stantler|173
+ ---------- 
+Moves used:
+1:Trick Room,98.2658959538%,170.0
+2:Gravity,98.2658959538%,170.0
+3:Skill Swap,97.6878612717%,169.0
+4:Hypnosis,97.1098265896%,168.0
+5:Imprison,2.8901734104%,5.0
+6:Magic Room,1.73410404624%,3.0
+7:Role Play,1.73410404624%,3.0
+8:Thunder Wave,1.73410404624%,3.0
+9:Protect,0.578034682081%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,80.9248554913%,140.0
+2:Lum Berry,17.3410404624%,30.0
+3:Choice Scarf,1.73410404624%,3.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,173.0
+
+ ---------- 
+Natures used:
+1:Relaxed,83.8150289017%,145.0
+2:Sassy,13.2947976879%,23.0
+3:Timid,1.73410404624%,3.0
+4:Calm,1.15606936416%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Thundurus
+5:Talonflame
+6:Aegislash
+7:Ferrothorn
+8:Xerneas
+9:Salamence
+10:Smeargle
+11:Kyurem
+12:Amoonguss
+13:Porygon2
+14:Rayquaza
+15:Clefairy
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.4471544715%,26.7235772358
+2:Dazzling Gleam,8.13008130081%,14.0650406504
+3:Hyper Voice,8.13008130081%,14.0650406504
+4:Brave Bird,5.69105691057%,9.84552845528
+5:Water Spout,5.69105691057%,9.84552845528
+6:Eruption,4.87804878049%,8.43902439024
+7:Double-Edge,4.87804878049%,8.43902439024
+8:Origin Pulse,4.06504065041%,7.0325203252
+9:Moonblast,4.06504065041%,7.0325203252
+10:Extreme Speed,4.06504065041%,7.0325203252
+11:Sludge Bomb,4.06504065041%,7.0325203252
+12:Ice Beam,4.06504065041%,7.0325203252
+13:Earthquake,3.25203252033%,5.62601626016
+14:Draco Meteor,2.43902439024%,4.21951219512
+15:Fake Out,2.43902439024%,4.21951219512
+16:Play Rough,1.62601626016%,2.81300813008
+17:Snarl,1.62601626016%,2.81300813008
+18:Iron Head,1.62601626016%,2.81300813008
+19:Thunderbolt,1.62601626016%,2.81300813008
+20:Fire Punch,1.62601626016%,2.81300813008
+0:Other,8.94308943089%,15.4715447154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Yveltal
+8:Landorus
+9:Rayquaza
+10:Mawile
+11:Cresselia
+12:Rayquaza
+13:Kyogre
+14:Gengar
+15:Gengar
+16:Kyurem
+17:Thundurus
+18:Mienshao
+19:Ferrothorn
+20:Amoonguss

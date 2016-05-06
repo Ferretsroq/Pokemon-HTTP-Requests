@@ -1,0 +1,39 @@
+300:Rhydon|1
+ ---------- 
+Moves used:
+1:Bulldoze,100.0%,1.0
+2:Protect,100.0%,1.0
+3:Rock Slide,100.0%,1.0
+4:Toxic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Scrafty
+2:Salamence
+3:Gyarados
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence

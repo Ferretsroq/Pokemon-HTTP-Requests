@@ -1,0 +1,170 @@
+25:Meowstic|6346
+ ---------- 
+Moves used:
+1:Safeguard,85.6445004727%,5435.0
+2:Swagger,69.3034982666%,4398.0
+3:Gravity,68.1689253073%,4326.0
+4:Trick Room,49.5587771825%,3145.0
+5:Quick Guard,29.6092026473%,1879.0
+6:Thunder Wave,26.2212417271%,1664.0
+7:Fake Out,24.8187834857%,1575.0
+8:Charm,9.36022691459%,594.0
+9:Helping Hand,9.26567916798%,588.0
+10:Psychic,5.68862275449%,361.0
+11:Protect,4.16010085093%,264.0
+12:Role Play,3.05704380712%,194.0
+13:Light Screen,2.8679483139%,182.0
+14:Reflect,2.3636936653%,150.0
+15:Snatch,1.37094232587%,87.0
+16:Magic Coat,1.16608887488%,74.0
+17:Psyshock,1.11881500158%,71.0
+18:Magic Room,1.10305704381%,70.0
+19:Yawn,0.929719508352%,59.0
+20:Imprison,0.630318310747%,40.0
+0:Other,2.45824141191%,156.0
+
+ ---------- 
+Items used:
+1:Mental Herb,78.5691774346%,4986.0
+2:Sitrus Berry,8.25716987078%,524.0
+3:Focus Sash,5.38922155689%,342.0
+4:Red Card,1.51276394579%,96.0
+5:Eject Button,1.24487866373%,79.0
+6:Lum Berry,1.22912070596%,78.0
+7:Light Clay,1.10305704381%,70.0
+8:Leftovers,0.740624015128%,47.0
+9:Colbur Berry,0.378190986448%,24.0
+10:Rocky Helmet,0.283643239836%,18.0
+11:White Herb,0.267885282067%,17.0
+12:Choice Scarf,0.23636936653%,15.0
+13:Bright Powder,0.157579577687%,10.0
+14:Odd Incense,0.126063662149%,8.0
+15:Expert Belt,0.126063662149%,8.0
+16:Adamant Orb,0.094547746612%,6.0
+17:Air Balloon,0.0787897888434%,5.0
+18:Chesto Berry,0.047273873306%,3.0
+19:Rowap Berry,0.0315159155373%,2.0
+20:Focus Band,0.0157579577687%,1.0
+0:Other,0.0157579577687%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,99.8109045068%,6334.0
+2:Keen Eye,0.157579577687%,10.0
+3:Infiltrator,0.0315159155373%,2.0
+
+ ---------- 
+Natures used:
+1:Calm,40.056728648%,2542.0
+2:Bold,34.399621809%,2183.0
+3:Timid,15.9155373464%,1010.0
+4:Jolly,2.69461077844%,171.0
+5:Relaxed,2.39520958084%,152.0
+6:Sassy,1.90671289001%,121.0
+7:Careful,0.850929719508%,54.0
+8:Naive,0.756381972896%,48.0
+9:Impish,0.614560352978%,39.0
+10:Modest,0.409706901986%,26.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyurem
+4:Xerneas
+5:Kyogre
+6:Whimsicott
+7:Salamence
+8:Smeargle
+9:Rayquaza
+10:Ferrothorn
+11:Gengar
+12:Crobat
+13:Mawile
+14:Talonflame
+15:Landorus
+16:Yveltal
+17:Dialga
+18:Ho-Oh
+19:Greninja
+20:Thundurus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,56.7010309278%,3598.24742268
+2:Fake Out,15.4639175258%,981.340206186
+3:Psyshock,13.4020618557%,850.494845361
+4:Assist,7.21649484536%,457.958762887
+5:Struggle,5.15463917526%,327.113402062
+6:Shadow Ball,1.03092783505%,65.4226804124
+7:Hidden Power,1.03092783505%,65.4226804124
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,12.6692047377%,803.987732657
+2:Dazzling Gleam,10.2157360406%,648.290609137
+3:Water Spout,9.32741116751%,591.91751269
+4:Eruption,7.06429780034%,448.300338409
+5:Double-Edge,6.68358714044%,424.140439932
+6:Origin Pulse,5.2241962775%,331.52749577
+7:Hyper Voice,5.01269035533%,318.105329949
+8:Knock Off,4.06091370558%,257.705583756
+9:Brave Bird,3.23604060914%,205.359137056
+10:Moonblast,2.89763113367%,183.883671743
+11:Extreme Speed,2.19966159052%,139.590524535
+12:Ice Beam,1.96700507614%,124.826142132
+13:Return,1.62859560068%,103.350676819
+14:Earthquake,1.60744500846%,102.008460237
+15:Gyro Ball,1.58629441624%,100.666243655
+16:Dragon Ascent,1.45939086294%,92.6129441624
+17:Rock Slide,1.37478849408%,87.2440778342
+18:Thunderbolt,1.33248730964%,84.5596446701
+19:Shadow Ball,1.29018612521%,81.8752115059
+20:Fire Punch,1.22673434856%,77.8485617597
+0:Other,16.2225042301%,1029.48011844
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kangaskhan
+3:Xerneas
+4:Smeargle
+5:Talonflame
+6:Thundurus
+7:Groudon
+8:Dialga
+9:Kyogre
+10:Gengar
+11:Amoonguss
+12:Liepard
+13:Rayquaza
+14:Raichu
+15:Noivern
+16:Hawlucha
+17:Kyurem
+18:Landorus
+19:Gothitelle
+20:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Landorus
+8:Yveltal
+9:Rayquaza
+10:Weavile
+11:Ferrothorn
+12:Mawile
+13:Thundurus
+14:Rayquaza
+15:Gengar
+16:Dialga
+17:Kyogre
+18:Gengar
+19:Kyurem
+20:Cresselia

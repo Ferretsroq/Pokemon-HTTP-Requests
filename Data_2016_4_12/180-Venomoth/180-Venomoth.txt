@@ -1,0 +1,80 @@
+180:Venomoth|25
+ ---------- 
+Moves used:
+1:Rage Powder,96.0%,24.0
+2:Skill Swap,96.0%,24.0
+3:Protect,88.0%,22.0
+4:Tailwind,60.0%,15.0
+5:Sleep Powder,48.0%,12.0
+6:Quiver Dance,4.0%,1.0
+7:Bug Buzz,4.0%,1.0
+8:Sludge Bomb,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,96.0%,24.0
+2:Life Orb,4.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Tinted Lens,84.0%,21.0
+2:Shield Dust,16.0%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,96.0%,24.0
+2:Modest,4.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Crobat
+4:Rayquaza
+5:Kangaskhan
+6:Talonflame
+7:Ferrothorn
+8:Excadrill
+9:Giratina
+10:Dialga
+11:Xerneas
+12:Krookodile
+13:Ditto
+14:Gengar
+15:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Struggle,100.0%,25.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.7647058824%,2.94117647059
+2:Water Spout,11.7647058824%,2.94117647059
+3:Ice Beam,11.7647058824%,2.94117647059
+4:Double-Edge,11.7647058824%,2.94117647059
+5:Dragon Ascent,5.88235294118%,1.47058823529
+6:Origin Pulse,5.88235294118%,1.47058823529
+7:Dazzling Gleam,5.88235294118%,1.47058823529
+8:Moonblast,5.88235294118%,1.47058823529
+9:Earth Power,5.88235294118%,1.47058823529
+10:Brave Bird,5.88235294118%,1.47058823529
+11:Aeroblast,5.88235294118%,1.47058823529
+12:Thunder,5.88235294118%,1.47058823529
+13:Thunderbolt,5.88235294118%,1.47058823529
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Talonflame
+6:Thundurus
+7:Dialga
+8:Rayquaza
+9:Lugia

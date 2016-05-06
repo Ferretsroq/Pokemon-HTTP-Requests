@@ -1,0 +1,54 @@
+211:Dewgong|8
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,8.0
+2:Perish Song,100.0%,8.0
+3:Protect,100.0%,8.0
+4:Disable,75.0%,6.0
+5:Ice Beam,25.0%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Sassy,75.0%,6.0
+2:Careful,12.5%,1.0
+3:Relaxed,12.5%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Raichu
+3:Gengar
+4:Amoonguss
+5:Dialga
+6:Gothitelle
+7:Scrafty
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,100.0%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,2.0
+2:Brave Bird,25.0%,2.0
+3:Water Spout,25.0%,2.0
+4:Rock Slide,25.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Landorus
+3:Groudon
+4:Kyogre

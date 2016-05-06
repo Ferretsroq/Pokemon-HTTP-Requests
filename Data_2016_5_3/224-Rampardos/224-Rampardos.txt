@@ -1,0 +1,77 @@
+224:Rampardos|21
+ ---------- 
+Moves used:
+1:Rock Slide,100.0%,21.0
+2:Iron Head,95.2380952381%,20.0
+3:Thunder Punch,90.4761904762%,19.0
+4:Protect,85.7142857143%,18.0
+5:Crunch,19.0476190476%,4.0
+6:Head Smash,9.52380952381%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,21.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,21.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,21.0
+
+ ---------- 
+Top teammates:
+1:Palkia
+2:Hariyama
+3:Slowbro
+4:Musharna
+5:Dusknoir
+6:Cresselia
+7:Rayquaza
+8:Kyogre
+9:Darmanitan
+10:Groudon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,64.7058823529%,13.5882352941
+2:Thunder Punch,23.5294117647%,4.94117647059
+3:Head Smash,5.88235294118%,1.23529411765
+4:Crunch,5.88235294118%,1.23529411765
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,20.0%,4.2
+2:Water Spout,20.0%,4.2
+3:Precipice Blades,10.0%,2.1
+4:Origin Pulse,10.0%,2.1
+5:Moonblast,10.0%,2.1
+6:Return,10.0%,2.1
+7:Earthquake,10.0%,2.1
+8:Low Kick,10.0%,2.1
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Rayquaza
+3:Xerneas
+4:Aegislash
+5:Aegislash
+6:Meowstic
+7:Talonflame
+8:Togekiss
+9:Groudon
+10:Kyogre
+11:Mawile
+12:Lugia
+13:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Ferrothorn
+3:Kangaskhan
+4:Xerneas
+5:Landorus
+6:Groudon

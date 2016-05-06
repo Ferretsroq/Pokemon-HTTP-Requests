@@ -1,0 +1,169 @@
+24:Kyurem-W|4018
+ ---------- 
+Moves used:
+1:Fusion Flare,76.7297162768%,3083.0
+2:Ice Beam,76.6301642608%,3079.0
+3:Draco Meteor,76.2070681931%,3062.0
+4:Blizzard,73.4444997511%,2951.0
+5:Earth Power,38.7008461921%,1555.0
+6:Dragon Pulse,17.6455948233%,709.0
+7:Protect,17.5211548034%,704.0
+8:Icy Wind,8.83524141364%,355.0
+9:Focus Blast,6.52065704331%,262.0
+10:Flash Cannon,4.25584868094%,171.0
+11:Sleep Talk,1.07018417123%,43.0
+12:Ice Burn,0.846192135391%,34.0
+13:Dragon Breath,0.572424091588%,23.0
+14:Slash,0.248880039821%,10.0
+15:Hidden Power,0.223992035839%,9.0
+16:Substitute,0.199104031857%,8.0
+17:Roost,0.149328023892%,6.0
+18:Psychic,0.0746640119462%,3.0
+19:Rock Slide,0.0497760079642%,2.0
+20:Hyper Beam,0.0497760079642%,2.0
+0:Other,0.024888003982%,0.999999999998
+
+ ---------- 
+Items used:
+1:Choice Scarf,72.8720756595%,2928.0
+2:Life Orb,13.7132901941%,551.0
+3:Choice Specs,7.9143852663%,318.0
+4:Haban Berry,1.2444001991%,50.0
+5:Lum Berry,1.02040816327%,41.0
+6:Assault Vest,0.647088103534%,26.0
+7:Power Herb,0.572424091588%,23.0
+8:Focus Sash,0.199104031857%,8.0
+9:Expert Belt,0.199104031857%,8.0
+10:Lucky Egg,0.199104031857%,8.0
+11:Weakness Policy,0.174216027875%,7.0
+12:Roseli Berry,0.149328023892%,6.0
+13:Air Balloon,0.149328023892%,6.0
+14:Sitrus Berry,0.149328023892%,6.0
+15:Earth Plate,0.12444001991%,5.0
+16:Never-Melt Ice,0.12444001991%,5.0
+17:Leftovers,0.12444001991%,5.0
+18:Draco Plate,0.0497760079642%,2.0
+19:Power Lens,0.0497760079642%,2.0
+20:Iron Ball,0.0248880039821%,1.0
+0:Other,0.0248880039821%,1.0
+
+ ---------- 
+Abilities used:
+1:Turboblaze,100.0%,4018.0
+
+ ---------- 
+Natures used:
+1:Modest,68.9397710304%,2770.0
+2:Timid,28.9447486312%,1163.0
+3:Quiet,1.71727227476%,69.0
+4:Calm,0.174216027875%,7.0
+5:Naive,0.174216027875%,7.0
+6:Serious,0.0497760079642%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Sableye
+4:Meowstic
+5:Whimsicott
+6:Gengar
+7:Talonflame
+8:Kyogre
+9:Salamence
+10:Ferrothorn
+11:Crobat
+12:Smeargle
+13:Thundurus
+14:Cresselia
+15:Mawile
+16:Liepard
+17:Landorus
+18:Zekrom
+19:Xerneas
+20:Amoonguss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,52.3856531754%,2104.85554459
+2:Ice Beam,24.3830207305%,979.709772952
+3:Draco Meteor,7.86442908852%,315.992760777
+4:Earth Power,4.80421191181%,193.033234617
+5:Fusion Flare,3.91576176374%,157.335307667
+6:Icy Wind,2.76406712734%,111.060217177
+7:Dragon Pulse,2.59953932215%,104.449489964
+8:Focus Blast,0.559394537677%,22.4764725239
+9:Dragon Breath,0.263244488319%,10.5771635406
+10:Ice Burn,0.230338927279%,9.25501809806
+11:Struggle,0.164527805199%,6.6107272129
+12:Flash Cannon,0.0658111220796%,2.64429088516
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.1239935588%,527.322061192
+2:Precipice Blades,8.97745571659%,360.714170692
+3:Low Kick,8.29307568438%,333.215780998
+4:Gyro Ball,5.27375201288%,211.899355878
+5:Moonblast,5.19323671498%,208.664251208
+6:Sucker Punch,4.14653784219%,166.607890499
+7:Ice Beam,4.02576489533%,161.755233494
+8:Water Spout,3.38164251208%,135.874396135
+9:Eruption,3.38164251208%,135.874396135
+10:Draco Meteor,3.34138486312%,134.2568438
+11:Extreme Speed,2.97906602254%,119.698872786
+12:Origin Pulse,2.65700483092%,106.758454106
+13:Dragon Ascent,2.61674718196%,105.140901771
+14:Brave Bird,2.53623188406%,101.905797101
+15:Iron Head,2.4959742351%,100.288244767
+16:Dragon Pulse,2.21417069243%,88.9653784219
+17:Double-Edge,2.21417069243%,88.9653784219
+18:Fire Punch,1.52979066023%,61.4669887279
+19:Hyper Voice,1.48953301127%,59.8494363929
+20:Rock Slide,1.32850241546%,53.3792270531
+0:Other,16.2238325282%,651.873590982
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Crobat
+4:Kangaskhan
+5:Talonflame
+6:Thundurus
+7:Rayquaza
+8:Kyogre
+9:Smeargle
+10:Landorus
+11:Xerneas
+12:Yveltal
+13:Cresselia
+14:Whimsicott
+15:Rayquaza
+16:Ferrothorn
+17:Mawile
+18:Liepard
+19:Weavile
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Kyogre
+5:Rayquaza
+6:Ferrothorn
+7:Mawile
+8:Salamence
+9:Talonflame
+10:Dialga
+11:Yveltal
+12:Rayquaza
+13:Bronzong
+14:Landorus
+15:Kyurem
+16:Weavile
+17:Palkia
+18:Scizor
+19:Kyogre
+20:Aegislash

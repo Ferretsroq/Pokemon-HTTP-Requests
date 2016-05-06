@@ -1,0 +1,82 @@
+188:Chandelure|13
+ ---------- 
+Moves used:
+1:Shadow Ball,100.0%,13.0
+2:Heat Wave,92.3076923077%,12.0
+3:Trick Room,61.5384615385%,8.0
+4:Protect,53.8461538462%,7.0
+5:Overheat,30.7692307692%,4.0
+6:Hidden Power,30.7692307692%,4.0
+7:Will-O-Wisp,23.0769230769%,3.0
+8:Flamethrower,7.69230769231%,1.0
+
+ ---------- 
+Items used:
+1:Shuca Berry,38.4615384615%,5.0
+2:Choice Scarf,30.7692307692%,4.0
+3:Focus Sash,30.7692307692%,4.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,69.2307692308%,9.0
+2:Flame Body,30.7692307692%,4.0
+
+ ---------- 
+Natures used:
+1:Modest,76.9230769231%,10.0
+2:Timid,15.3846153846%,2.0
+3:Quiet,7.69230769231%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mewtwo
+3:Crobat
+4:Rayquaza
+5:Mawile
+6:Talonflame
+7:Ferrothorn
+8:Walrein
+9:Yveltal
+10:Palkia
+11:Dialga
+12:Mamoswine
+13:Kyogre
+14:Breloom
+15:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,41.6666666667%,5.41666666667
+2:Shadow Ball,33.3333333333%,4.33333333333
+3:Hidden Power,16.6666666667%,2.16666666667
+4:Flamethrower,8.33333333333%,1.08333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Brave Bird,42.8571428571%,5.57142857143
+2:Origin Pulse,14.2857142857%,1.85714285714
+3:Dazzling Gleam,14.2857142857%,1.85714285714
+4:Dragon Pulse,14.2857142857%,1.85714285714
+5:Feint,14.2857142857%,1.85714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Smeargle
+3:Landorus
+4:Thundurus
+5:Ferrothorn
+6:Whimsicott
+7:Rayquaza
+8:Groudon
+9:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Xerneas
+3:Dialga
+4:Kyogre
+5:Ho-Oh
+6:Pinsir

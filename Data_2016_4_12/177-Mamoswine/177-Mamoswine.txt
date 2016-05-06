@@ -1,0 +1,103 @@
+177:Mamoswine|25
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,25.0
+2:Ice Shard,80.0%,20.0
+3:Protect,64.0%,16.0
+4:Rock Slide,64.0%,16.0
+5:Icicle Spear,48.0%,12.0
+6:Icicle Crash,16.0%,4.0
+7:Superpower,12.0%,3.0
+8:Mist,8.0%,2.0
+9:Stealth Rock,4.0%,1.0
+10:Toxic,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,68.0%,17.0
+2:Choice Scarf,24.0%,6.0
+3:Assault Vest,4.0%,1.0
+4:Rocky Helmet,4.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,92.0%,23.0
+2:Snow Cloak,8.0%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,56.0%,14.0
+2:Adamant,40.0%,10.0
+3:Impish,4.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Talonflame
+4:Salamence
+5:Meowstic
+6:Xerneas
+7:Thundurus
+8:Groudon
+9:Whimsicott
+10:Crobat
+11:Gengar
+12:Charizard
+13:Zekrom
+14:Mienshao
+15:Chandelure
+16:Ferrothorn
+17:Heatran
+18:Palkia
+19:Lucario
+20:Garchomp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,33.3333333333%,8.33333333333
+2:Ice Shard,20.0%,5.0
+3:Icicle Spear,20.0%,5.0
+4:Earthquake,20.0%,5.0
+5:Icicle Crash,6.66666666667%,1.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Iron Head,11.1111111111%,2.77777777778
+2:Eruption,11.1111111111%,2.77777777778
+3:Low Kick,11.1111111111%,2.77777777778
+4:Precipice Blades,5.55555555556%,1.38888888889
+5:Origin Pulse,5.55555555556%,1.38888888889
+6:Dazzling Gleam,5.55555555556%,1.38888888889
+7:Power Whip,5.55555555556%,1.38888888889
+8:Flash Cannon,5.55555555556%,1.38888888889
+9:Feint,5.55555555556%,1.38888888889
+10:Hyper Voice,5.55555555556%,1.38888888889
+11:Knock Off,5.55555555556%,1.38888888889
+12:Double-Edge,5.55555555556%,1.38888888889
+13:Fire Punch,5.55555555556%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Thundurus
+3:Groudon
+4:Talonflame
+5:Greninja
+6:Weavile
+7:Mawile
+8:Kangaskhan
+9:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Mawile
+4:Kangaskhan
+5:Yveltal
+6:Xerneas
+7:Ferrothorn
+8:Dialga
+9:Lucario
+10:Kyogre

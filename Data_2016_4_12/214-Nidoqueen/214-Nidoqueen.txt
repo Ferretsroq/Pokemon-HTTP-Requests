@@ -1,0 +1,75 @@
+214:Nidoqueen|13
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,13.0
+2:Protect,84.6153846154%,11.0
+3:Flamethrower,76.9230769231%,10.0
+4:Ice Beam,53.8461538462%,7.0
+5:Sludge Bomb,46.1538461538%,6.0
+6:Thunder,15.3846153846%,2.0
+7:Sludge Wave,7.69230769231%,1.0
+8:Superpower,7.69230769231%,1.0
+9:Blizzard,7.69230769231%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,84.6153846154%,11.0
+2:Expert Belt,15.3846153846%,2.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Quiet,92.3076923077%,12.0
+2:Modest,7.69230769231%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Cresselia
+3:Ludicolo
+4:Kangaskhan
+5:Rayquaza
+6:Ferrothorn
+7:Shedinja
+8:Groudon
+9:Noivern
+10:Liepard
+11:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,66.6666666667%,8.66666666667
+2:Sludge Bomb,16.6666666667%,2.16666666667
+3:Flamethrower,16.6666666667%,2.16666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,22.2222222222%,2.88888888889
+2:Precipice Blades,11.1111111111%,1.44444444444
+3:Moonblast,11.1111111111%,1.44444444444
+4:Roar of Time,11.1111111111%,1.44444444444
+5:Earth Power,11.1111111111%,1.44444444444
+6:Water Spout,11.1111111111%,1.44444444444
+7:Hyper Voice,11.1111111111%,1.44444444444
+8:Blizzard,11.1111111111%,1.44444444444
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Dialga
+3:Empoleon
+4:Groudon
+5:Metagross
+6:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kyurem
+5:Dialga
+6:Salamence

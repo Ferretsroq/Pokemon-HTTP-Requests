@@ -1,0 +1,70 @@
+282:Ninetales|8
+ ---------- 
+Moves used:
+1:Safeguard,75.0%,6.0
+2:Dark Pulse,62.5%,5.0
+3:Overheat,62.5%,5.0
+4:Baby-Doll Eyes,50.0%,4.0
+5:Will-O-Wisp,50.0%,4.0
+6:Heat Wave,37.5%,3.0
+7:Pain Split,37.5%,3.0
+8:Psych Up,12.5%,1.0
+9:Solar Beam,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,50.0%,4.0
+2:Wide Lens,37.5%,3.0
+3:Air Balloon,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Drought,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Ho-Oh
+3:Garchomp
+4:Gengar
+5:Charizard
+6:Xerneas
+7:Kyurem
+8:Zekrom
+9:Cherrim
+10:Rayquaza
+11:Kyogre
+12:Regice
+13:Mawile
+14:Gardevoir
+15:Sceptile
+16:Azumarill
+17:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Overheat,50.0%,4.0
+2:Heat Wave,50.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,40.0%,3.2
+2:Precipice Blades,20.0%,1.6
+3:Water Spout,20.0%,1.6
+4:Double-Edge,20.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyurem
+3:Kyogre
+4:Salamence

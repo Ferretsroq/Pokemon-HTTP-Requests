@@ -1,0 +1,127 @@
+89:Purugly|258
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,258.0
+2:Hypnosis,98.8372093023%,255.0
+3:Super Fang,57.3643410853%,148.0
+4:Return,41.0852713178%,106.0
+5:Snatch,39.9224806202%,103.0
+6:Knock Off,26.3565891473%,68.0
+7:U-turn,24.4186046512%,63.0
+8:Taunt,6.97674418605%,18.0
+9:Last Resort,1.5503875969%,4.0
+10:Play Rough,0.77519379845%,2.0
+11:Sucker Punch,0.77519379845%,2.0
+12:Charm,0.387596899225%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,99.6124031008%,257.0
+2:Silk Scarf,0.387596899225%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,99.2248062016%,256.0
+2:Own Tempo,0.77519379845%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,258.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Groudon
+3:Crobat
+4:Golduck
+5:Sceptile
+6:Houndoom
+7:Musharna
+8:Salamence
+9:Yveltal
+10:Xerneas
+11:Kyogre
+12:Zekrom
+13:Cresselia
+14:Regigigas
+15:Rayquaza
+16:Swampert
+17:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Return,54.9019607843%,141.647058824
+2:Knock Off,21.568627451%,55.6470588235
+3:U-turn,13.7254901961%,35.4117647059
+4:Fake Out,5.88235294118%,15.1764705882
+5:Last Resort,3.92156862745%,10.1176470588
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.1304347826%,36.4565217391
+2:Dazzling Gleam,12.5%,32.25
+3:Water Spout,8.15217391304%,21.0326086957
+4:Hyper Voice,6.52173913043%,16.8260869565
+5:Brave Bird,5.4347826087%,14.0217391304
+6:Ice Beam,4.89130434783%,12.6195652174
+7:Double-Edge,4.89130434783%,12.6195652174
+8:Eruption,4.34782608696%,11.2173913043
+9:Low Kick,4.34782608696%,11.2173913043
+10:Origin Pulse,2.71739130435%,7.01086956522
+11:Fake Out,2.71739130435%,7.01086956522
+12:Extreme Speed,2.71739130435%,7.01086956522
+13:Sludge Bomb,2.17391304348%,5.60869565217
+14:Rock Slide,2.17391304348%,5.60869565217
+15:Power-Up Punch,1.63043478261%,4.20652173913
+16:Sucker Punch,1.63043478261%,4.20652173913
+17:Thunderbolt,1.63043478261%,4.20652173913
+18:Moonblast,1.08695652174%,2.80434782609
+19:Foul Play,1.08695652174%,2.80434782609
+20:Flare Blitz,1.08695652174%,2.80434782609
+0:Other,13.0434782609%,33.652173913
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Talonflame
+3:Groudon
+4:Kangaskhan
+5:Thundurus
+6:Yveltal
+7:Xerneas
+8:Whimsicott
+9:Raichu
+10:Meowstic
+11:Greninja
+12:Landorus
+13:Amoonguss
+14:Gothitelle
+15:Cresselia
+16:Rayquaza
+17:Rayquaza
+18:Kyogre
+19:Salamence
+20:Lugia
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Cresselia
+8:Yveltal
+9:Landorus
+10:Rayquaza
+11:Rayquaza
+12:Gengar
+13:Thundurus
+14:Mienshao
+15:Weavile
+16:Mawile
+17:Crobat
+18:Gengar
+19:Kyurem
+20:Terrakion

@@ -1,0 +1,58 @@
+252:Cradily|3
+ ---------- 
+Moves used:
+1:Ancient Power,100.0%,3.0
+2:Giga Drain,66.6666666667%,2.0
+3:Recover,66.6666666667%,2.0
+4:Grass Knot,33.3333333333%,1.0
+5:Earth Power,33.3333333333%,1.0
+6:Gastro Acid,33.3333333333%,1.0
+7:Stockpile,33.3333333333%,1.0
+8:Sludge Bomb,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,33.3333333333%,1.0
+2:Weakness Policy,33.3333333333%,1.0
+3:Leftovers,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Quiet,33.3333333333%,1.0
+2:Modest,33.3333333333%,1.0
+3:Relaxed,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Yveltal
+3:Kyurem
+4:Rayquaza
+5:Groudon
+6:Kyogre
+7:Kingdra
+8:Slowking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,50.0%,1.5
+2:Ancient Power,50.0%,1.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earthquake,50.0%,1.5
+2:Low Kick,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Dialga
+2:Gyarados
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Kangaskhan

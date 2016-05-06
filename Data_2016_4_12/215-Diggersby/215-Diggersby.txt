@@ -1,0 +1,76 @@
+215:Diggersby|12
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,12.0
+2:Gunk Shot,75.0%,9.0
+3:Return,58.3333333333%,7.0
+4:Foul Play,50.0%,6.0
+5:Iron Head,25.0%,3.0
+6:U-turn,25.0%,3.0
+7:Quick Attack,25.0%,3.0
+8:Wild Charge,16.6666666667%,2.0
+9:Protect,16.6666666667%,2.0
+10:Low Kick,8.33333333333%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,75.0%,9.0
+2:Focus Sash,25.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,12.0
+
+ ---------- 
+Natures used:
+1:Jolly,75.0%,9.0
+2:Adamant,25.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Yveltal
+3:Sableye
+4:Mawile
+5:Rayquaza
+6:Kyogre
+7:Salamence
+8:Giratina
+9:Ferrothorn
+10:Whimsicott
+11:Toxicroak
+12:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,30.0%,3.6
+2:Quick Attack,30.0%,3.6
+3:Earthquake,30.0%,3.6
+4:Return,10.0%,1.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,28.5714285714%,3.42857142857
+2:Fire Punch,28.5714285714%,3.42857142857
+3:Dazzling Gleam,14.2857142857%,1.71428571429
+4:Power Whip,14.2857142857%,1.71428571429
+5:Ice Beam,14.2857142857%,1.71428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Landorus
+4:Gothitelle
+5:Palkia
+6:Salamence
+7:Crobat
+8:Mewtwo
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Ferrothorn

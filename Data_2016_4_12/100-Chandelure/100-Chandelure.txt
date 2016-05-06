@@ -1,0 +1,133 @@
+100:Chandelure|109
+ ---------- 
+Moves used:
+1:Heat Wave,99.0825688073%,108.0
+2:Shadow Ball,99.0825688073%,108.0
+3:Trick Room,94.495412844%,103.0
+4:Protect,76.1467889908%,83.0
+5:Will-O-Wisp,14.6788990826%,16.0
+6:Clear Smog,7.33944954128%,8.0
+7:Overheat,3.66972477064%,4.0
+8:Hidden Power,3.66972477064%,4.0
+9:Imprison,0.917431192661%,1.0
+10:Fire Blast,0.917431192661%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,54.128440367%,59.0
+2:Focus Sash,34.8623853211%,38.0
+3:Shuca Berry,5.50458715596%,6.0
+4:Choice Scarf,3.66972477064%,4.0
+5:Colbur Berry,1.83486238532%,2.0
+
+ ---------- 
+Abilities used:
+1:Infiltrator,54.128440367%,59.0
+2:Flash Fire,42.2018348624%,46.0
+3:Flame Body,3.66972477064%,4.0
+
+ ---------- 
+Natures used:
+1:Quiet,54.128440367%,59.0
+2:Timid,33.9449541284%,37.0
+3:Modest,11.0091743119%,12.0
+4:Calm,0.917431192661%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Giratina
+3:Sableye
+4:Rayquaza
+5:Togekiss
+6:Kangaskhan
+7:Gengar
+8:Aegislash
+9:Hitmontop
+10:Mienshao
+11:Gastrodon
+12:Cherrim
+13:Mewtwo
+14:Walrein
+15:Crobat
+16:Mawile
+17:Smeargle
+18:Sylveon
+19:Palkia
+20:Mamoswine
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,65.3846153846%,71.2692307692
+2:Shadow Ball,32.0512820513%,34.9358974359
+3:Hidden Power,2.5641025641%,2.79487179487
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.8539325843%,18.3707865169
+2:Earth Power,12.3595505618%,13.4719101124
+3:Dazzling Gleam,11.2359550562%,12.2471910112
+4:Brave Bird,8.98876404494%,9.79775280899
+5:Rock Slide,6.74157303371%,7.34831460674
+6:Hyper Voice,5.61797752809%,6.12359550562
+7:Origin Pulse,4.49438202247%,4.89887640449
+8:Water Spout,4.49438202247%,4.89887640449
+9:Dragon Ascent,3.37078651685%,3.67415730337
+10:Earthquake,3.37078651685%,3.67415730337
+11:Moonblast,2.24719101124%,2.44943820225
+12:Dragon Pulse,2.24719101124%,2.44943820225
+13:Sucker Punch,2.24719101124%,2.44943820225
+14:Knock Off,2.24719101124%,2.44943820225
+15:Shadow Ball,2.24719101124%,2.44943820225
+16:Double-Edge,2.24719101124%,2.44943820225
+17:Snarl,1.12359550562%,1.22471910112
+18:Shadow Force,1.12359550562%,1.22471910112
+19:Grass Knot,1.12359550562%,1.22471910112
+20:Dark Pulse,1.12359550562%,1.22471910112
+0:Other,3.37078651685%,3.67415730337
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Smeargle
+3:Meowstic
+4:Talonflame
+5:Liepard
+6:Groudon
+7:Crobat
+8:Gengar
+9:Thundurus
+10:Kangaskhan
+11:Gengar
+12:Xerneas
+13:Bisharp
+14:Amoonguss
+15:Whimsicott
+16:Zapdos
+17:Kyurem
+18:Landorus
+19:Mienshao
+20:Chandelure
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Salamence
+6:Landorus
+7:Rayquaza
+8:Yveltal
+9:Dialga
+10:Kangaskhan
+11:Thundurus
+12:Hydreigon
+13:Chandelure
+14:Amoonguss
+15:Giratina
+16:Palkia
+17:Weavile
+18:Ho-Oh
+19:Aerodactyl
+20:Pinsir

@@ -1,0 +1,59 @@
+279:Gliscor|6
+ ---------- 
+Moves used:
+1:Protect,100.0%,6.0
+2:Facade,83.3333333333%,5.0
+3:Substitute,66.6666666667%,4.0
+4:Toxic,66.6666666667%,4.0
+5:Earthquake,33.3333333333%,2.0
+6:Ice Fang,16.6666666667%,1.0
+7:Knock Off,16.6666666667%,1.0
+8:Swords Dance,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Poison Heal,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,83.3333333333%,5.0
+2:Impish,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Mewtwo
+3:Dragonite
+4:Kangaskhan
+5:Xerneas
+6:Cresselia
+7:Rayquaza
+8:Kyogre
+9:Breloom
+10:Blaziken
+11:Politoed
+12:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,40.0%,2.4
+2:Dark Pulse,20.0%,1.2
+3:Water Spout,20.0%,1.2
+4:Double-Edge,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal
+3:Kyogre
+4:Kangaskhan

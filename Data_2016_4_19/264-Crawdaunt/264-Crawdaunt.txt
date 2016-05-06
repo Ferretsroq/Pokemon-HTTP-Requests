@@ -1,0 +1,64 @@
+264:Crawdaunt|3
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,3.0
+2:Knock Off,100.0%,3.0
+3:Protect,100.0%,3.0
+4:Crabhammer,66.6666666667%,2.0
+5:Superpower,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Xerneas
+4:Landorus
+5:Gengar
+6:Raichu
+7:Talonflame
+8:Mewtwo
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,66.6666666667%,2.0
+2:Aqua Jet,33.3333333333%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power-Up Punch,16.6666666667%,0.5
+2:Dazzling Gleam,16.6666666667%,0.5
+3:Play Rough,16.6666666667%,0.5
+4:Fusion Bolt,16.6666666667%,0.5
+5:Power Whip,16.6666666667%,0.5
+6:Rock Slide,16.6666666667%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Cresselia
+2:Palkia
+3:Groudon
+4:Salamence
+5:Stantler
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyurem
+3:Ferrothorn
+4:Groudon
+5:Mawile
+6:Kangaskhan

@@ -1,0 +1,137 @@
+121:Chandelure|123
+ ---------- 
+Moves used:
+1:Heat Wave,95.9349593496%,118.0
+2:Shadow Ball,93.4959349593%,115.0
+3:Trick Room,92.6829268293%,114.0
+4:Protect,77.2357723577%,95.0
+5:Will-O-Wisp,13.0081300813%,16.0
+6:Clear Smog,6.50406504065%,8.0
+7:Overheat,6.50406504065%,8.0
+8:Imprison,3.25203252033%,4.0
+9:Hidden Power,3.25203252033%,4.0
+10:Haze,3.25203252033%,4.0
+11:Confuse Ray,3.25203252033%,4.0
+12:Hex,0.813008130081%,1.0
+13:Fire Blast,0.813008130081%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,46.3414634146%,57.0
+2:Mental Herb,43.9024390244%,54.0
+3:Air Balloon,3.25203252033%,4.0
+4:Choice Scarf,3.25203252033%,4.0
+5:Colbur Berry,1.62601626016%,2.0
+6:Shuca Berry,1.62601626016%,2.0
+
+ ---------- 
+Abilities used:
+1:Infiltrator,48.7804878049%,60.0
+2:Flash Fire,47.9674796748%,59.0
+3:Flame Body,3.25203252033%,4.0
+
+ ---------- 
+Natures used:
+1:Quiet,52.8455284553%,65.0
+2:Timid,33.3333333333%,41.0
+3:Modest,10.5691056911%,13.0
+4:Bold,3.25203252033%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Giratina
+3:Sableye
+4:Rayquaza
+5:Togekiss
+6:Kangaskhan
+7:Gengar
+8:Aegislash
+9:Hitmontop
+10:Mienshao
+11:Gastrodon
+12:Mawile
+13:Kyogre
+14:Smeargle
+15:Crobat
+16:Amoonguss
+17:Cofagrigus
+18:Palkia
+19:Cherrim
+20:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,68.0%,83.64
+2:Shadow Ball,29.3333333333%,36.08
+3:Hidden Power,2.66666666667%,3.28
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,17.0%,20.91
+2:Earth Power,14.0%,17.22
+3:Dazzling Gleam,13.0%,15.99
+4:Brave Bird,8.0%,9.84
+5:Rock Slide,7.0%,8.61
+6:Hyper Voice,5.0%,6.15
+7:Origin Pulse,4.0%,4.92
+8:Dragon Pulse,4.0%,4.92
+9:Dragon Ascent,3.0%,3.69
+10:Water Spout,3.0%,3.69
+11:Moonblast,2.0%,2.46
+12:Sucker Punch,2.0%,2.46
+13:Knock Off,2.0%,2.46
+14:Shadow Ball,2.0%,2.46
+15:Earthquake,2.0%,2.46
+16:Double-Edge,2.0%,2.46
+17:Snarl,1.0%,1.23
+18:Scald,1.0%,1.23
+19:Shadow Force,1.0%,1.23
+20:Grass Knot,1.0%,1.23
+0:Other,5.0%,6.15
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Meowstic
+3:Talonflame
+4:Thundurus
+5:Smeargle
+6:Crobat
+7:Liepard
+8:Kangaskhan
+9:Gengar
+10:Xerneas
+11:Bisharp
+12:Amoonguss
+13:Whimsicott
+14:Weavile
+15:Groudon
+16:Zapdos
+17:Gengar
+18:Kyurem
+19:Landorus
+20:Tornadus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Salamence
+6:Landorus
+7:Dialga
+8:Rayquaza
+9:Yveltal
+10:Kangaskhan
+11:Aegislash
+12:Kyurem
+13:Thundurus
+14:Hydreigon
+15:Amoonguss
+16:Giratina
+17:Palkia
+18:Togekiss
+19:Weavile
+20:Ho-Oh

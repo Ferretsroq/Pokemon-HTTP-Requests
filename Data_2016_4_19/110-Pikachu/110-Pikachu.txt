@@ -1,0 +1,131 @@
+110:Pikachu|113
+ ---------- 
+Moves used:
+1:Fake Out,91.1504424779%,103.0
+2:Volt Tackle,83.185840708%,94.0
+3:Protect,51.3274336283%,58.0
+4:Feint,46.9026548673%,53.0
+5:Hidden Power,40.7079646018%,46.0
+6:Knock Off,26.5486725664%,30.0
+7:Brick Break,19.4690265487%,22.0
+8:Nuzzle,18.5840707965%,21.0
+9:Endeavor,8.84955752212%,10.0
+10:Thunderbolt,7.96460176991%,9.0
+11:Encore,5.30973451327%,6.0
+
+ ---------- 
+Items used:
+1:Light Ball,90.2654867257%,102.0
+2:Focus Sash,8.84955752212%,10.0
+3:Air Balloon,0.884955752212%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,92.9203539823%,105.0
+2:Static,7.0796460177%,8.0
+
+ ---------- 
+Natures used:
+1:Naive,67.2566371681%,76.0
+2:Jolly,17.6991150442%,20.0
+3:Timid,7.96460176991%,9.0
+4:Adamant,6.19469026549%,7.0
+5:Lonely,0.884955752212%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Greninja
+4:Groudon
+5:Xerneas
+6:Talonflame
+7:Kangaskhan
+8:Crobat
+9:Salamence
+10:Blastoise
+11:Ferrothorn
+12:Landorus
+13:Gengar
+14:Thundurus
+15:Scizor
+16:Blaziken
+17:Terrakion
+18:Amoonguss
+19:Whimsicott
+20:Cresselia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,50.0%,56.5
+2:Hidden Power,14.2857142857%,16.1428571429
+3:Thunderbolt,14.2857142857%,16.1428571429
+4:Feint,10.7142857143%,12.1071428571
+5:Nuzzle,3.57142857143%,4.03571428571
+6:Knock Off,3.57142857143%,4.03571428571
+7:Brick Break,3.57142857143%,4.03571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.78260869565%,11.0543478261
+2:Water Spout,8.69565217391%,9.82608695652
+3:Double-Edge,5.4347826087%,6.14130434783
+4:Precipice Blades,4.34782608696%,4.91304347826
+5:Fake Out,4.34782608696%,4.91304347826
+6:Return,4.34782608696%,4.91304347826
+7:Earth Power,3.26086956522%,3.6847826087
+8:Sucker Punch,3.26086956522%,3.6847826087
+9:Hyper Voice,3.26086956522%,3.6847826087
+10:Eruption,3.26086956522%,3.6847826087
+11:Extreme Speed,3.26086956522%,3.6847826087
+12:Rock Slide,3.26086956522%,3.6847826087
+13:Ice Beam,3.26086956522%,3.6847826087
+14:Origin Pulse,2.17391304348%,2.45652173913
+15:Play Rough,2.17391304348%,2.45652173913
+16:Foul Play,2.17391304348%,2.45652173913
+17:Power Whip,2.17391304348%,2.45652173913
+18:Draco Meteor,2.17391304348%,2.45652173913
+19:Feint,2.17391304348%,2.45652173913
+20:Knock Off,2.17391304348%,2.45652173913
+0:Other,21.7391304348%,24.5652173913
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Crobat
+3:Xerneas
+4:Talonflame
+5:Yveltal
+6:Cresselia
+7:Kyogre
+8:Thundurus
+9:Liepard
+10:Bronzong
+11:Salamence
+12:Smeargle
+13:Lapras
+14:Gyarados
+15:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Salamence
+6:Mawile
+7:Yveltal
+8:Landorus
+9:Ferrothorn
+10:Weavile
+11:Rayquaza
+12:Talonflame
+13:Thundurus
+14:Cresselia
+15:Rayquaza
+16:Salamence
+17:Greninja
+18:Liepard
+19:Palkia
+20:Dialga

@@ -1,0 +1,102 @@
+113:Exeggutor|48
+ ---------- 
+Moves used:
+1:Sleep Powder,97.9166666667%,47.0
+2:Gravity,93.75%,45.0
+3:Leaf Storm,77.0833333333%,37.0
+4:Trick Room,77.0833333333%,37.0
+5:Protect,25.0%,12.0
+6:Psychic,20.8333333333%,10.0
+7:Giga Drain,4.16666666667%,2.0
+8:Psyshock,2.08333333333%,1.0
+9:Rest,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,97.9166666667%,47.0
+2:Sitrus Berry,2.08333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,97.9166666667%,47.0
+2:Harvest,2.08333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,77.0833333333%,37.0
+2:Timid,20.8333333333%,10.0
+3:Bold,2.08333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Dialga
+3:Salamence
+4:Aegislash
+5:Landorus
+6:Kyurem
+7:Kangaskhan
+8:Ferrothorn
+9:Lopunny
+10:Rayquaza
+11:Mawile
+12:Ho-Oh
+13:Lugia
+14:Tyranitar
+15:Mewtwo
+16:Lapras
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,66.6666666667%,32.0
+2:Psychic,33.3333333333%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,25.7142857143%,12.3428571429
+2:Precipice Blades,5.71428571429%,2.74285714286
+3:Power-Up Punch,5.71428571429%,2.74285714286
+4:Dazzling Gleam,5.71428571429%,2.74285714286
+5:Snarl,5.71428571429%,2.74285714286
+6:Brave Bird,5.71428571429%,2.74285714286
+7:Eruption,5.71428571429%,2.74285714286
+8:Shadow Sneak,2.85714285714%,1.37142857143
+9:Dragon Pulse,2.85714285714%,1.37142857143
+10:Hyper Voice,2.85714285714%,1.37142857143
+11:Knock Off,2.85714285714%,1.37142857143
+12:Fake Out,2.85714285714%,1.37142857143
+13:Return,2.85714285714%,1.37142857143
+14:Waterfall,2.85714285714%,1.37142857143
+15:Fire Blast,2.85714285714%,1.37142857143
+16:Low Kick,2.85714285714%,1.37142857143
+17:Flamethrower,2.85714285714%,1.37142857143
+18:Double-Edge,2.85714285714%,1.37142857143
+19:Ice Punch,2.85714285714%,1.37142857143
+20:Fire Punch,2.85714285714%,1.37142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Terrakion
+3:Whimsicott
+4:Kyogre
+5:Crobat
+6:Mewtwo
+7:Machamp
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Cresselia
+4:Kyogre
+5:Yveltal
+6:Xerneas
+7:Talonflame
+8:Landorus
+9:Giratina
+10:Dialga
+11:Weavile
+12:Rayquaza
+13:Salamence
+14:Dragonite

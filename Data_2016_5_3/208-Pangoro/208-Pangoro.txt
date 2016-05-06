@@ -1,0 +1,81 @@
+208:Pangoro|13
+ ---------- 
+Moves used:
+1:Drain Punch,100.0%,13.0
+2:Knock Off,100.0%,13.0
+3:Earthquake,100.0%,13.0
+4:Thunder Punch,100.0%,13.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,13.0
+
+ ---------- 
+Abilities used:
+1:Scrappy,92.3076923077%,12.0
+2:Mold Breaker,7.69230769231%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,13.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Mr. Mime
+3:Groudon
+4:Crobat
+5:Kyogre
+6:Gyarados
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Knock Off,50.0%,6.5
+2:Thunder Punch,37.5%,4.875
+3:Drain Punch,12.5%,1.625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,13.6363636364%,1.77272727273
+2:Dazzling Gleam,13.6363636364%,1.77272727273
+3:Double-Edge,9.09090909091%,1.18181818182
+4:Precipice Blades,4.54545454545%,0.590909090909
+5:Moonblast,4.54545454545%,0.590909090909
+6:Acrobatics,4.54545454545%,0.590909090909
+7:Scald,4.54545454545%,0.590909090909
+8:Brave Bird,4.54545454545%,0.590909090909
+9:Seed Bomb,4.54545454545%,0.590909090909
+10:Volt Tackle,4.54545454545%,0.590909090909
+11:Fake Out,4.54545454545%,0.590909090909
+12:High Jump Kick,4.54545454545%,0.590909090909
+13:Earthquake,4.54545454545%,0.590909090909
+14:Low Kick,4.54545454545%,0.590909090909
+15:Ice Beam,4.54545454545%,0.590909090909
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Landorus
+3:Thundurus
+4:Kyogre
+5:Lugia
+6:Gyarados
+7:Kangaskhan
+8:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Mienshao
+7:Ferrothorn
+8:Weavile
+9:Rayquaza
+10:Groudon
+11:Salamence
+12:Ho-Oh
+13:Togetic
+14:Raichu

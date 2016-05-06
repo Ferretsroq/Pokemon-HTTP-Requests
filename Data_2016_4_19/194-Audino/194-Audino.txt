@@ -1,0 +1,88 @@
+194:Audino|23
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,23.0
+2:Encore,82.6086956522%,19.0
+3:Magic Coat,52.1739130435%,12.0
+4:Helping Hand,34.7826086957%,8.0
+5:Dazzling Gleam,26.0869565217%,6.0
+6:Draining Kiss,26.0869565217%,6.0
+7:Heal Pulse,17.3913043478%,4.0
+8:Skill Swap,17.3913043478%,4.0
+9:Safeguard,17.3913043478%,4.0
+10:After You,13.0434782609%,3.0
+11:Gravity,13.0434782609%,3.0
+
+ ---------- 
+Items used:
+1:Audinite,52.1739130435%,12.0
+2:Mental Herb,34.7826086957%,8.0
+3:Sitrus Berry,13.0434782609%,3.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,86.9565217391%,20.0
+2:Healer,13.0434782609%,3.0
+
+ ---------- 
+Natures used:
+1:Relaxed,60.8695652174%,14.0
+2:Sassy,39.1304347826%,9.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Igglybuff
+3:Thundurus
+4:Salamence
+5:Kyogre
+6:Mawile
+7:Hitmontop
+8:Azumarill
+9:Kyurem
+10:Ferrothorn
+11:Talonflame
+12:Amoonguss
+13:Rayquaza
+14:Steelix
+15:Crobat
+16:Aerodactyl
+17:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,85.7142857143%,19.7142857143
+2:Draining Kiss,14.2857142857%,3.28571428571
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,15.3846153846%,3.53846153846
+2:Eruption,15.3846153846%,3.53846153846
+3:Dragon Ascent,7.69230769231%,1.76923076923
+4:Dazzling Gleam,7.69230769231%,1.76923076923
+5:Scald,7.69230769231%,1.76923076923
+6:Dragon Pulse,7.69230769231%,1.76923076923
+7:Gyro Ball,7.69230769231%,1.76923076923
+8:Water Spout,7.69230769231%,1.76923076923
+9:Earthquake,7.69230769231%,1.76923076923
+10:Ice Beam,7.69230769231%,1.76923076923
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Landorus
+3:Thundurus
+4:Rayquaza
+5:Groudon
+6:Mawile
+7:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Landorus
+5:Ferrothorn
+6:Giratina
+7:Rayquaza

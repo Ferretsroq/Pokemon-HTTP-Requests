@@ -1,0 +1,64 @@
+238:Ampharos|8
+ ---------- 
+Moves used:
+1:Dragon Pulse,100.0%,8.0
+2:Protect,100.0%,8.0
+3:Thunder,50.0%,4.0
+4:Thunderbolt,50.0%,4.0
+5:Electric Terrain,37.5%,3.0
+6:Hidden Power,37.5%,3.0
+7:Focus Blast,25.0%,2.0
+
+ ---------- 
+Items used:
+1:Ampharosite,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Static,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Quiet,62.5%,5.0
+2:Modest,37.5%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Rayquaza
+4:Aegislash
+5:Thundurus
+6:Dialga
+7:Amoonguss
+8:Cresselia
+9:Breloom
+10:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunder,40.0%,3.2
+2:Thunderbolt,40.0%,3.2
+3:Dragon Pulse,20.0%,1.6
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,20.0%,1.6
+2:Moonblast,20.0%,1.6
+3:Play Rough,20.0%,1.6
+4:Draco Meteor,20.0%,1.6
+5:Eruption,20.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Liepard
+3:Garchomp
+4:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Rayquaza
+4:Mawile

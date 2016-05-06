@@ -1,0 +1,59 @@
+254:Feraligatr|7
+ ---------- 
+Moves used:
+1:Dragon Dance,100.0%,7.0
+2:Crunch,100.0%,7.0
+3:Waterfall,100.0%,7.0
+4:Ice Punch,100.0%,7.0
+
+ ---------- 
+Items used:
+1:Life Orb,85.7142857143%,6.0
+2:Lum Berry,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Smeargle
+3:Rayquaza
+4:Xerneas
+5:Bisharp
+6:Hippowdon
+7:Breloom
+8:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Punch,57.1428571429%,4.0
+2:Waterfall,28.5714285714%,2.0
+3:Crunch,14.2857142857%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,25.0%,1.75
+2:Precipice Blades,25.0%,1.75
+3:Foul Play,25.0%,1.75
+4:Extreme Speed,25.0%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Yveltal
+3:Landorus
+4:Smeargle
+5:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Rayquaza
+3:Rayquaza
+4:Groudon

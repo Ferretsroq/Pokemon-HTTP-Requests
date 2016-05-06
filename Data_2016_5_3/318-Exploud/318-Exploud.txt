@@ -1,0 +1,51 @@
+318:Exploud|3
+ ---------- 
+Moves used:
+1:Boomburst,100.0%,3.0
+2:Ice Beam,100.0%,3.0
+3:Surf,66.6666666667%,2.0
+4:Flamethrower,66.6666666667%,2.0
+5:Focus Blast,33.3333333333%,1.0
+6:Fire Blast,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Soundproof,66.6666666667%,2.0
+2:Scrappy,33.3333333333%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Sylveon
+2:Rayquaza
+3:Ho-Oh
+4:Mime Jr.
+5:Bronzong
+6:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Boomburst,100.0%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,33.3333333333%,1.0
+2:Iron Head,33.3333333333%,1.0
+3:Eruption,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rayquaza
+2:Groudon
+3:Mawile

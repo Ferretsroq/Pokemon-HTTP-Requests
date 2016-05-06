@@ -1,0 +1,136 @@
+133:Houndoom|104
+ ---------- 
+Moves used:
+1:Protect,97.1153846154%,101.0
+2:Dark Pulse,92.3076923077%,96.0
+3:Heat Wave,81.7307692308%,85.0
+4:Overheat,34.6153846154%,36.0
+5:Destiny Bond,25.0%,26.0
+6:Role Play,15.3846153846%,16.0
+7:Solar Beam,10.5769230769%,11.0
+8:Flamethrower,10.5769230769%,11.0
+9:Fire Blast,8.65384615385%,9.0
+10:Snarl,6.73076923077%,7.0
+11:Hidden Power,4.80769230769%,5.0
+12:Foul Play,2.88461538462%,3.0
+13:Nasty Plot,2.88461538462%,3.0
+14:Snatch,1.92307692308%,2.0
+15:Thief,1.92307692308%,2.0
+16:Super Fang,1.92307692308%,2.0
+17:Sludge Bomb,0.961538461538%,1.0
+
+ ---------- 
+Items used:
+1:Houndoominite,96.1538461538%,100.0
+2:Focus Sash,3.84615384615%,4.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,93.2692307692%,97.0
+2:Unnerve,5.76923076923%,6.0
+3:Early Bird,0.961538461538%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,97.1153846154%,101.0
+2:Jolly,1.92307692308%,2.0
+3:Naive,0.961538461538%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Ferrothorn
+4:Mewtwo
+5:Zekrom
+6:Purugly
+7:Landorus
+8:Crobat
+9:Golduck
+10:Whimsicott
+11:Liepard
+12:Jynx
+13:Xerneas
+14:Smeargle
+15:Weavile
+16:Darmanitan
+17:Ho-Oh
+18:Lapras
+19:Talonflame
+20:Hydreigon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,38.5964912281%,40.1403508772
+2:Dark Pulse,36.8421052632%,38.3157894737
+3:Overheat,14.0350877193%,14.5964912281
+4:Destiny Bond,5.26315789474%,5.47368421053
+5:Flamethrower,3.50877192982%,3.64912280702
+6:Solar Beam,1.75438596491%,1.82456140351
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.6666666667%,17.3333333333
+2:Dazzling Gleam,9.72222222222%,10.1111111111
+3:Earth Power,8.33333333333%,8.66666666667
+4:Water Spout,8.33333333333%,8.66666666667
+5:Brave Bird,6.94444444444%,7.22222222222
+6:Origin Pulse,5.55555555556%,5.77777777778
+7:Hyper Voice,5.55555555556%,5.77777777778
+8:Oblivion Wing,4.16666666667%,4.33333333333
+9:Earthquake,4.16666666667%,4.33333333333
+10:Double-Edge,2.77777777778%,2.88888888889
+11:Dragon Ascent,1.38888888889%,1.44444444444
+12:Moonblast,1.38888888889%,1.44444444444
+13:Play Rough,1.38888888889%,1.44444444444
+14:Wild Charge,1.38888888889%,1.44444444444
+15:Scald,1.38888888889%,1.44444444444
+16:Dragon Pulse,1.38888888889%,1.44444444444
+17:Sucker Punch,1.38888888889%,1.44444444444
+18:Superpower,1.38888888889%,1.44444444444
+19:Extreme Speed,1.38888888889%,1.44444444444
+20:Sky Attack,1.38888888889%,1.44444444444
+0:Other,2.77777777778%,2.88888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Cresselia
+3:Yveltal
+4:Xerneas
+5:Thundurus
+6:Dialga
+7:Kangaskhan
+8:Meowstic
+9:Smeargle
+10:Landorus
+11:Mienshao
+12:Ferrothorn
+13:Amoonguss
+14:Liepard
+15:Gastrodon
+16:Kyogre
+17:Kyogre
+18:Salamence
+19:Salamence
+20:Absol
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Yveltal
+5:Salamence
+6:Kangaskhan
+7:Landorus
+8:Rayquaza
+9:Ho-Oh
+10:Talonflame
+11:Thundurus
+12:Kyurem
+13:Landorus
+14:Dialga
+15:Kyogre
+16:Mawile
+17:Blaziken

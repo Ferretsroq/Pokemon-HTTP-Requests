@@ -1,0 +1,64 @@
+170:Persian|19
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,19.0
+2:Foul Play,94.7368421053%,18.0
+3:Feint,94.7368421053%,18.0
+4:Taunt,94.7368421053%,18.0
+5:Knock Off,5.26315789474%,1.0
+6:Screech,5.26315789474%,1.0
+7:Hypnosis,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,73.6842105263%,14.0
+2:Mental Herb,26.3157894737%,5.0
+
+ ---------- 
+Abilities used:
+1:Technician,68.4210526316%,13.0
+2:Unnerve,31.5789473684%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,19.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Xerneas
+3:Aerodactyl
+4:Tornadus
+5:Rayquaza
+6:Landorus
+7:Talonflame
+8:Groudon
+9:Mewtwo
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,18.75%,3.5625
+2:Water Spout,18.75%,3.5625
+3:Dazzling Gleam,12.5%,2.375
+4:Hyper Voice,12.5%,2.375
+5:Dragon Pulse,6.25%,1.1875
+6:Superpower,6.25%,1.1875
+7:Thunderbolt,6.25%,1.1875
+8:Double-Edge,6.25%,1.1875
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Thundurus
+5:Salamence
+6:Dialga
+7:Kangaskhan

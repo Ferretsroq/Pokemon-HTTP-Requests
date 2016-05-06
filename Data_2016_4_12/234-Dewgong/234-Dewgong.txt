@@ -1,0 +1,57 @@
+234:Dewgong|9
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,9.0
+2:Perish Song,66.6666666667%,6.0
+3:Protect,66.6666666667%,6.0
+4:Ice Beam,55.5555555556%,5.0
+5:Disable,44.4444444444%,4.0
+6:Encore,33.3333333333%,3.0
+7:Safeguard,33.3333333333%,3.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,9.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Sassy,66.6666666667%,6.0
+2:Calm,33.3333333333%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Raichu
+3:Amoonguss
+4:Palkia
+5:Dialga
+6:Groudon
+7:Mawile
+8:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,100.0%,9.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,40.0%,3.6
+2:Brave Bird,20.0%,1.8
+3:Hyper Voice,20.0%,1.8
+4:Rock Slide,20.0%,1.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Landorus
+4:Salamence

@@ -1,0 +1,66 @@
+229:Lumineon|9
+ ---------- 
+Moves used:
+1:Icy Wind,100.0%,9.0
+2:Soak,77.7777777778%,7.0
+3:Scald,66.6666666667%,6.0
+4:Tailwind,66.6666666667%,6.0
+5:Protect,55.5555555556%,5.0
+6:Safeguard,33.3333333333%,3.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,77.7777777778%,7.0
+2:Mental Herb,22.2222222222%,2.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,77.7777777778%,7.0
+2:Swift Swim,22.2222222222%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,6.0
+2:Bold,33.3333333333%,3.0
+
+ ---------- 
+Top teammates:
+1:Zekrom
+2:Lucario
+3:Groudon
+4:Mawile
+5:Xerneas
+6:Talonflame
+7:Kyurem
+8:Kyogre
+9:Kangaskhan
+10:Ferrothorn
+11:Whimsicott
+12:Salamence
+13:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,100.0%,9.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,3.0
+2:Origin Pulse,16.6666666667%,1.5
+3:Dazzling Gleam,16.6666666667%,1.5
+4:Sucker Punch,16.6666666667%,1.5
+5:Thunderbolt,16.6666666667%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Smeargle
+3:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Dialga
+4:Kyogre
+5:Smeargle

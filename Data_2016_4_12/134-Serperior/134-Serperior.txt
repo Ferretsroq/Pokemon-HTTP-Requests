@@ -1,0 +1,124 @@
+134:Serperior|50
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,50.0
+2:Glare,90.0%,45.0
+3:Taunt,72.0%,36.0
+4:Protect,56.0%,28.0
+5:Dragon Pulse,46.0%,23.0
+6:Gastro Acid,6.0%,3.0
+7:Hidden Power,6.0%,3.0
+8:Giga Drain,6.0%,3.0
+9:Reflect,6.0%,3.0
+10:Light Screen,6.0%,3.0
+11:Worry Seed,2.0%,1.0
+12:Mirror Coat,2.0%,1.0
+13:Leech Seed,2.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,36.0%,18.0
+2:Mental Herb,26.0%,13.0
+3:Focus Sash,20.0%,10.0
+4:Life Orb,8.0%,4.0
+5:Weakness Policy,2.0%,1.0
+6:Rose Incense,2.0%,1.0
+7:Meadow Plate,2.0%,1.0
+8:Leftovers,2.0%,1.0
+9:Sitrus Berry,2.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,50.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,50.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Mawile
+3:Xerneas
+4:Thundurus
+5:Giratina
+6:Groudon
+7:Kangaskhan
+8:Weavile
+9:Meowstic
+10:Garchomp
+11:Yveltal
+12:Talonflame
+13:Rayquaza
+14:Tornadus
+15:Floatzel
+16:Crobat
+17:Raichu
+18:Sylveon
+19:Aromatisse
+20:Kyurem
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,82.3529411765%,41.1764705882
+2:Dragon Pulse,17.6470588235%,8.82352941176
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,10.8108108108%,5.40540540541
+2:Precipice Blades,8.10810810811%,4.05405405405
+3:Dazzling Gleam,8.10810810811%,4.05405405405
+4:Spacial Rend,5.40540540541%,2.7027027027
+5:Brave Bird,5.40540540541%,2.7027027027
+6:Sucker Punch,5.40540540541%,2.7027027027
+7:U-turn,5.40540540541%,2.7027027027
+8:Hyper Voice,5.40540540541%,2.7027027027
+9:Dragon Ascent,2.7027027027%,1.35135135135
+10:Origin Pulse,2.7027027027%,1.35135135135
+11:Oblivion Wing,2.7027027027%,1.35135135135
+12:Acrobatics,2.7027027027%,1.35135135135
+13:Gunk Shot,2.7027027027%,1.35135135135
+14:Air Slash,2.7027027027%,1.35135135135
+15:Flare Blitz,2.7027027027%,1.35135135135
+16:Gyro Ball,2.7027027027%,1.35135135135
+17:Dragon Claw,2.7027027027%,1.35135135135
+18:Water Spout,2.7027027027%,1.35135135135
+19:Overheat,2.7027027027%,1.35135135135
+20:Extreme Speed,2.7027027027%,1.35135135135
+0:Other,13.5135135135%,6.75675675676
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Landorus
+3:Groudon
+4:Thundurus
+5:Weavile
+6:Lopunny
+7:Salamence
+8:Sableye
+9:Smeargle
+10:Crobat
+11:Kangaskhan
+12:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Kangaskhan
+5:Yveltal
+6:Greninja
+7:Landorus
+8:Palkia
+9:Kyogre
+10:Salamence
+11:Kyurem
+12:Zekrom
+13:Togekiss
+14:Bronzong
+15:Infernape
+16:Rayquaza
+17:Rayquaza
+18:Gengar

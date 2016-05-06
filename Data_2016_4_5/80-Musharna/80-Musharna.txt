@@ -1,0 +1,115 @@
+80:Musharna|132
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,132.0
+2:Gravity,100.0%,132.0
+3:Hypnosis,99.2424242424%,131.0
+4:Psychic,74.2424242424%,98.0
+5:Magic Coat,9.84848484848%,13.0
+6:Helping Hand,8.33333333333%,11.0
+7:Hidden Power,7.57575757576%,10.0
+8:Protect,0.757575757576%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,55.303030303%,73.0
+2:Mental Herb,44.696969697%,59.0
+
+ ---------- 
+Abilities used:
+1:Telepathy,94.696969697%,125.0
+2:Forewarn,5.30303030303%,7.0
+
+ ---------- 
+Natures used:
+1:Sassy,69.696969697%,92.0
+2:Relaxed,18.1818181818%,24.0
+3:Bold,12.1212121212%,16.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Landorus
+4:Kyogre
+5:Smeargle
+6:Mawile
+7:Xerneas
+8:Cresselia
+9:Talonflame
+10:Yveltal
+11:Sylveon
+12:Thundurus
+13:Mienshao
+14:Metagross
+15:Salamence
+16:Crobat
+17:Ferrothorn
+18:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Psychic,100.0%,132.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.1111111111%,14.6666666667
+2:Precipice Blades,9.87654320988%,13.037037037
+3:Origin Pulse,7.40740740741%,9.77777777778
+4:Water Spout,6.17283950617%,8.14814814815
+5:Iron Head,4.93827160494%,6.51851851852
+6:Hyper Voice,4.93827160494%,6.51851851852
+7:Ice Beam,4.93827160494%,6.51851851852
+8:Double-Edge,4.93827160494%,6.51851851852
+9:Dragon Ascent,3.7037037037%,4.88888888889
+10:Knock Off,3.7037037037%,4.88888888889
+11:Moonblast,2.46913580247%,3.25925925926
+12:Power Whip,2.46913580247%,3.25925925926
+13:Brave Bird,2.46913580247%,3.25925925926
+14:Eruption,2.46913580247%,3.25925925926
+15:Sacred Fire,2.46913580247%,3.25925925926
+16:Explosion,2.46913580247%,3.25925925926
+17:Play Rough,1.23456790123%,1.62962962963
+18:Freeze-Dry,1.23456790123%,1.62962962963
+19:Scald,1.23456790123%,1.62962962963
+20:Foul Play,1.23456790123%,1.62962962963
+0:Other,14.8148148148%,19.5555555556
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Groudon
+6:Salamence
+7:Crobat
+8:Kangaskhan
+9:Gengar
+10:Amoonguss
+11:Dialga
+12:Rayquaza
+13:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Salamence
+6:Ferrothorn
+7:Mawile
+8:Talonflame
+9:Landorus
+10:Dialga
+11:Rayquaza
+12:Rayquaza
+13:Ho-Oh
+14:Yveltal
+15:Thundurus
+16:Amoonguss
+17:Liepard
+18:Lickilicky
+19:Weavile
+20:Abomasnow

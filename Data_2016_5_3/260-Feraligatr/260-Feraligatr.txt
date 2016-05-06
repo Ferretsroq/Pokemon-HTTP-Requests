@@ -1,0 +1,67 @@
+260:Feraligatr|11
+ ---------- 
+Moves used:
+1:Dragon Dance,100.0%,11.0
+2:Waterfall,100.0%,11.0
+3:Ice Punch,100.0%,11.0
+4:Crunch,90.9090909091%,10.0
+5:Aqua Jet,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,90.9090909091%,10.0
+2:Lum Berry,9.09090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,11.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,11.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Smeargle
+3:Rayquaza
+4:Xerneas
+5:Landorus
+6:Bisharp
+7:Rotom
+8:Hippowdon
+9:Breloom
+10:Gardevoir
+11:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Punch,55.5555555556%,6.11111111111
+2:Waterfall,33.3333333333%,3.66666666667
+3:Crunch,11.1111111111%,1.22222222222
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,28.5714285714%,3.14285714286
+2:Dragon Ascent,14.2857142857%,1.57142857143
+3:Precipice Blades,14.2857142857%,1.57142857143
+4:Foul Play,14.2857142857%,1.57142857143
+5:Extreme Speed,14.2857142857%,1.57142857143
+6:Double-Edge,14.2857142857%,1.57142857143
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Yveltal
+4:Landorus
+5:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Yveltal
+3:Rayquaza
+4:Rayquaza
+5:Groudon
+6:Salamence

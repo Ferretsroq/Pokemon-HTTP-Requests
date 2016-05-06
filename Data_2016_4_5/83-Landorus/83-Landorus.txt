@@ -1,0 +1,135 @@
+83:Landorus|125
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,125.0
+2:Protect,95.2%,119.0
+3:Hidden Power,68.0%,85.0
+4:Grass Knot,60.0%,75.0
+5:Sludge Bomb,24.0%,30.0
+6:Rock Slide,23.2%,29.0
+7:Knock Off,10.4%,13.0
+8:Gravity,8.8%,11.0
+9:Stone Edge,4.8%,6.0
+10:Sludge Wave,1.6%,2.0
+11:Role Play,1.6%,2.0
+12:Stealth Rock,0.8%,1.0
+13:Superpower,0.8%,1.0
+14:Psychic,0.8%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,92.8%,116.0
+2:Assault Vest,2.4%,3.0
+3:Expert Belt,2.4%,3.0
+4:Focus Sash,1.6%,2.0
+5:Sitrus Berry,0.8%,1.0
+
+ ---------- 
+Abilities used:
+1:Sand Force,100.0%,125.0
+
+ ---------- 
+Natures used:
+1:Timid,99.2%,124.0
+2:Naive,0.8%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Talonflame
+4:Mawile
+5:Rayquaza
+6:Groudon
+7:Manectric
+8:Liepard
+9:Kangaskhan
+10:Xerneas
+11:Gothitelle
+12:Dialga
+13:Salamence
+14:Scizor
+15:Weavile
+16:Smeargle
+17:Greninja
+18:Zapdos
+19:Kyurem
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,64.9350649351%,81.1688311688
+2:Hidden Power,14.2857142857%,17.8571428571
+3:Grass Knot,12.987012987%,16.2337662338
+4:Rock Slide,6.49350649351%,8.11688311688
+5:Knock Off,1.2987012987%,1.62337662338
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.75%,10.9375
+2:Origin Pulse,7.5%,9.375
+3:Water Spout,7.5%,9.375
+4:Sucker Punch,6.25%,7.8125
+5:Hidden Power,5.0%,6.25
+6:Ice Beam,5.0%,6.25
+7:Snarl,3.75%,4.6875
+8:Brave Bird,3.75%,4.6875
+9:Gyro Ball,3.75%,4.6875
+10:Double-Edge,3.75%,4.6875
+11:Dragon Ascent,2.5%,3.125
+12:Precipice Blades,2.5%,3.125
+13:Icicle Crash,2.5%,3.125
+14:Psystrike,2.5%,3.125
+15:Scald,2.5%,3.125
+16:Dragon Pulse,2.5%,3.125
+17:Eruption,2.5%,3.125
+18:Moonblast,1.25%,1.5625
+19:Iron Head,1.25%,1.5625
+20:Draco Meteor,1.25%,1.5625
+0:Other,12.5%,15.625
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Dialga
+5:Landorus
+6:Kangaskhan
+7:Xerneas
+8:Bronzong
+9:Rayquaza
+10:Smeargle
+11:Aegislash
+12:Meowstic
+13:Talonflame
+14:Greninja
+15:Thundurus
+16:Bisharp
+17:Ferrothorn
+18:Amoonguss
+19:Cresselia
+20:Mantyke
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Yveltal
+6:Talonflame
+7:Ferrothorn
+8:Dialga
+9:Salamence
+10:Mawile
+11:Cresselia
+12:Weavile
+13:Rayquaza
+14:Landorus
+15:Zekrom
+16:Porygon-Z
+17:Kyogre
+18:Manectric
+19:Blaziken
+20:Mewtwo

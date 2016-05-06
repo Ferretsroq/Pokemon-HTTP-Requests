@@ -1,0 +1,134 @@
+156:Banette|65
+ ---------- 
+Moves used:
+1:Phantom Force,69.2307692308%,45.0
+2:Destiny Bond,63.0769230769%,41.0
+3:Protect,58.4615384615%,38.0
+4:Gunk Shot,44.6153846154%,29.0
+5:Skill Swap,36.9230769231%,24.0
+6:Will-O-Wisp,35.3846153846%,23.0
+7:Trick Room,26.1538461538%,17.0
+8:Magic Coat,24.6153846154%,16.0
+9:Taunt,15.3846153846%,10.0
+10:Disable,9.23076923077%,6.0
+11:Shadow Sneak,6.15384615385%,4.0
+12:Curse,6.15384615385%,4.0
+13:Dazzling Gleam,1.53846153846%,1.0
+14:Snatch,1.53846153846%,1.0
+15:Pain Split,1.53846153846%,1.0
+
+ ---------- 
+Items used:
+1:Banettite,92.3076923077%,60.0
+2:Lum Berry,6.15384615385%,4.0
+3:Focus Sash,1.53846153846%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,58.4615384615%,38.0
+2:Insomnia,41.5384615385%,27.0
+
+ ---------- 
+Natures used:
+1:Adamant,47.6923076923%,31.0
+2:Sassy,33.8461538462%,22.0
+3:Careful,15.3846153846%,10.0
+4:Calm,1.53846153846%,1.0
+5:Quiet,1.53846153846%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Yveltal
+5:Mawile
+6:Milotic
+7:Whimsicott
+8:Landorus
+9:Cresselia
+10:Rayquaza
+11:Smeargle
+12:Misdreavus
+13:Ferrothorn
+14:Gastrodon
+15:Sylveon
+16:Talonflame
+17:Kyurem
+18:Zekrom
+19:Gardevoir
+20:Porygon-Z
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,48.5714285714%,31.5714285714
+2:Phantom Force,34.2857142857%,22.2857142857
+3:Gunk Shot,14.2857142857%,9.28571428571
+4:Shadow Sneak,2.85714285714%,1.85714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,14.2857142857%,9.28571428571
+2:Dazzling Gleam,12.2448979592%,7.95918367347
+3:Precipice Blades,8.16326530612%,5.30612244898
+4:Brave Bird,8.16326530612%,5.30612244898
+5:Origin Pulse,6.12244897959%,3.97959183673
+6:Foul Play,4.08163265306%,2.65306122449
+7:Dragon Pulse,4.08163265306%,2.65306122449
+8:Water Spout,4.08163265306%,2.65306122449
+9:Hyper Voice,4.08163265306%,2.65306122449
+10:Thunderbolt,4.08163265306%,2.65306122449
+11:Ice Beam,4.08163265306%,2.65306122449
+12:Double-Edge,4.08163265306%,2.65306122449
+13:Dragon Ascent,2.04081632653%,1.32653061224
+14:Snarl,2.04081632653%,1.32653061224
+15:Volt Switch,2.04081632653%,1.32653061224
+16:Iron Head,2.04081632653%,1.32653061224
+17:Power Whip,2.04081632653%,1.32653061224
+18:Shadow Sneak,2.04081632653%,1.32653061224
+19:Sucker Punch,2.04081632653%,1.32653061224
+20:Shadow Ball,2.04081632653%,1.32653061224
+0:Other,4.08163265306%,2.65306122449
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Dialga
+5:Bronzong
+6:Kangaskhan
+7:Thundurus
+8:Ferrothorn
+9:Liepard
+10:Rayquaza
+11:Salamence
+12:Altaria
+13:Mawile
+14:Ho-Oh
+15:Lugia
+16:Smeargle
+17:Zapdos
+18:Gengar
+19:Gengar
+20:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Talonflame
+5:Salamence
+6:Thundurus
+7:Liepard
+8:Dialga
+9:Rayquaza
+10:Yveltal
+11:Heliolisk
+12:Aegislash
+13:Ferrothorn
+14:Altaria
+15:Mawile
+16:Kangaskhan
+17:Gengar

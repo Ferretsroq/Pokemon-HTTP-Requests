@@ -1,0 +1,53 @@
+255:Gastly|7
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,7.0
+2:Destiny Bond,100.0%,7.0
+3:Pain Split,85.7142857143%,6.0
+4:Skill Swap,57.1428571429%,4.0
+5:Taunt,42.8571428571%,3.0
+6:Foul Play,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Lax,100.0%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Landorus
+3:Ho-Oh
+4:Kangaskhan
+5:Bronzong
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Scald,20.0%,1.4
+2:Meteor Mash,20.0%,1.4
+3:Eruption,20.0%,1.4
+4:Knock Off,20.0%,1.4
+5:Ice Punch,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn
+2:Groudon
+3:Kyogre
+4:Metagross
+5:Kangaskhan

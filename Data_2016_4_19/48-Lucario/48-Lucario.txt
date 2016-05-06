@@ -1,0 +1,170 @@
+48:Lucario|791
+ ---------- 
+Moves used:
+1:Follow Me,79.0139064475%,625.0
+2:Protect,74.0834386852%,586.0
+3:Feint,59.5448798989%,471.0
+4:Focus Punch,50.3160556258%,398.0
+5:Bullet Punch,25.7901390645%,204.0
+6:Close Combat,24.1466498104%,191.0
+7:Low Kick,12.01011378%,95.0
+8:Quick Guard,11.3780025284%,90.0
+9:Aura Sphere,9.60809102402%,76.0
+10:Detect,9.60809102402%,76.0
+11:Flash Cannon,8.59671302149%,68.0
+12:Vacuum Wave,4.80404551201%,38.0
+13:Iron Tail,4.42477876106%,35.0
+14:Final Gambit,3.66624525917%,29.0
+15:Ice Punch,3.66624525917%,29.0
+16:Extreme Speed,3.28697850822%,26.0
+17:Swords Dance,2.78128950695%,22.0
+18:Roar,2.02275600506%,16.0
+19:Water Pulse,1.76991150442%,14.0
+20:Me First,1.51706700379%,12.0
+0:Other,7.96460176991%,63.0
+
+ ---------- 
+Items used:
+1:Lucarionite,75.7269279393%,599.0
+2:Focus Sash,11.5044247788%,91.0
+3:Choice Scarf,5.18331226296%,41.0
+4:Lum Berry,2.40202275601%,19.0
+5:Mental Herb,1.39064475348%,11.0
+6:Expert Belt,1.13780025284%,9.0
+7:Chople Berry,0.758533501896%,6.0
+8:Sitrus Berry,0.758533501896%,6.0
+9:Eject Button,0.379266750948%,3.0
+10:Life Orb,0.379266750948%,3.0
+11:Leftovers,0.126422250316%,1.0
+12:Shuca Berry,0.126422250316%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,80.2781289507%,635.0
+2:Steadfast,13.7800252845%,109.0
+3:Justified,5.94184576485%,47.0
+
+ ---------- 
+Natures used:
+1:Adamant,50.1896333755%,397.0
+2:Jolly,35.5246523388%,281.0
+3:Timid,7.8381795196%,62.0
+4:Naive,1.76991150442%,14.0
+5:Impish,1.39064475348%,11.0
+6:Hasty,1.13780025284%,9.0
+7:Rash,0.63211125158%,5.0
+8:Modest,0.63211125158%,5.0
+9:Careful,0.505689001264%,4.0
+10:Docile,0.252844500632%,2.0
+11:Bold,0.126422250316%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Liepard
+3:Ditto
+4:Kyogre
+5:Xerneas
+6:Groudon
+7:Rayquaza
+8:Talonflame
+9:Giratina
+10:Yveltal
+11:Ferrothorn
+12:Salamence
+13:Weavile
+14:Raichu
+15:Thundurus
+16:Amoonguss
+17:Kangaskhan
+18:Mewtwo
+19:Landorus
+20:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Focus Punch,60.4961832061%,478.52480916
+2:Feint,14.3129770992%,113.215648855
+3:Close Combat,7.25190839695%,57.3625954198
+4:Bullet Punch,4.3893129771%,34.7194656489
+5:Low Kick,3.43511450382%,27.1717557252
+6:Aura Sphere,2.67175572519%,21.1335877863
+7:Flash Cannon,2.29007633588%,18.1145038168
+8:Final Gambit,1.71755725191%,13.5858778626
+9:Vacuum Wave,0.954198473282%,7.54770992366
+10:Ice Punch,0.763358778626%,6.03816793893
+11:Extreme Speed,0.572519083969%,4.5286259542
+12:Water Pulse,0.381679389313%,3.01908396947
+13:Iron Tail,0.381679389313%,3.01908396947
+14:Stone Edge,0.190839694656%,1.50954198473
+15:Poison Jab,0.190839694656%,1.50954198473
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.0294117647%,87.2426470588
+2:Precipice Blades,9.375%,74.15625
+3:Water Spout,7.72058823529%,61.0698529412
+4:Hyper Voice,6.98529411765%,55.2536764706
+5:Eruption,5.88235294118%,46.5294117647
+6:Origin Pulse,5.14705882353%,40.7132352941
+7:Low Kick,4.59558823529%,36.3511029412
+8:Earthquake,3.86029411765%,30.5349264706
+9:Brave Bird,3.67647058824%,29.0808823529
+10:Flare Blitz,2.94117647059%,23.2647058824
+11:Earth Power,2.57352941176%,20.3566176471
+12:Extreme Speed,2.38970588235%,18.9025735294
+13:Dragon Ascent,2.20588235294%,17.4485294118
+14:Fire Punch,2.20588235294%,17.4485294118
+15:Thunderbolt,2.02205882353%,15.9944852941
+16:Double-Edge,2.02205882353%,15.9944852941
+17:Overheat,1.65441176471%,13.0863970588
+18:Moonblast,1.47058823529%,11.6323529412
+19:Play Rough,1.47058823529%,11.6323529412
+20:Scald,1.28676470588%,10.1783088235
+0:Other,15.2573529412%,120.685661765
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Kyogre
+4:Xerneas
+5:Weavile
+6:Smeargle
+7:Groudon
+8:Ferrothorn
+9:Thundurus
+10:Mawile
+11:Salamence
+12:Dialga
+13:Rayquaza
+14:Landorus
+15:Yveltal
+16:Crobat
+17:Kyurem
+18:Whimsicott
+19:Liepard
+20:Mienshao
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Talonflame
+6:Kangaskhan
+7:Rayquaza
+8:Landorus
+9:Mawile
+10:Thundurus
+11:Rayquaza
+12:Kyogre
+13:Ferrothorn
+14:Yveltal
+15:Kyurem
+16:Mienshao
+17:Dialga
+18:Infernape
+19:Mewtwo
+20:Gengar

@@ -1,0 +1,51 @@
+308:Magmar|3
+ ---------- 
+Moves used:
+1:Clear Smog,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Flame Burst,66.6666666667%,2.0
+4:Will-O-Wisp,66.6666666667%,2.0
+5:Flare Blitz,33.3333333333%,1.0
+6:Low Kick,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,66.6666666667%,2.0
+2:Jolly,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Yveltal
+3:Aegislash
+4:Landorus
+5:Amoonguss
+6:Mamoswine
+7:Kyogre
+8:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,33.3333333333%,1.0
+2:Brave Bird,33.3333333333%,1.0
+3:Double-Edge,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Kyogre
+3:Kangaskhan

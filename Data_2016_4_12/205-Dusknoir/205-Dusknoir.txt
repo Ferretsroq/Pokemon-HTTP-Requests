@@ -1,0 +1,66 @@
+205:Dusknoir|14
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,14.0
+2:Gravity,100.0%,14.0
+3:Night Shade,64.2857142857%,9.0
+4:Pain Split,42.8571428571%,6.0
+5:Confuse Ray,35.7142857143%,5.0
+6:Skill Swap,21.4285714286%,3.0
+7:Curse,21.4285714286%,3.0
+8:Shadow Sneak,14.2857142857%,2.0
+
+ ---------- 
+Items used:
+1:Lum Berry,64.2857142857%,9.0
+2:Mental Herb,35.7142857143%,5.0
+
+ ---------- 
+Abilities used:
+1:Frisk,85.7142857143%,12.0
+2:Pressure,14.2857142857%,2.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,14.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Mawile
+5:Talonflame
+6:Landorus
+7:Amoonguss
+8:Dialga
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,8.33333333333%,1.16666666667
+2:Scald,8.33333333333%,1.16666666667
+3:Shadow Force,8.33333333333%,1.16666666667
+4:Earth Power,8.33333333333%,1.16666666667
+5:Brave Bird,8.33333333333%,1.16666666667
+6:Water Spout,8.33333333333%,1.16666666667
+7:Overheat,8.33333333333%,1.16666666667
+8:Shadow Ball,8.33333333333%,1.16666666667
+9:Thunderbolt,8.33333333333%,1.16666666667
+10:Fire Punch,8.33333333333%,1.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Thundurus
+6:Giratina
+7:Mewtwo
+8:Charizard

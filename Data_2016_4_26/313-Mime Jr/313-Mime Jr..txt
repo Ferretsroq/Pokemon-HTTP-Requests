@@ -1,0 +1,38 @@
+313:Mime Jr.|1
+ ---------- 
+Moves used:
+1:Tickle,100.0%,1.0
+2:Skill Swap,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Fake Out,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Soundproof,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Sassy,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Bronzong
+2:Kyogre
+3:Exploud
+4:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:

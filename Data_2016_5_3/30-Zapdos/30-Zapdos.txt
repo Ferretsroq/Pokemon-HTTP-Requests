@@ -1,0 +1,169 @@
+30:Zapdos|3966
+ ---------- 
+Moves used:
+1:Thunderbolt,87.8466969239%,3484.0
+2:Tailwind,66.0110943016%,2618.0
+3:Hidden Power,56.6817952597%,2248.0
+4:Heat Wave,52.4205748865%,2079.0
+5:Thunder Wave,45.0075642965%,1785.0
+6:Roar,29.0216843167%,1151.0
+7:Protect,17.4483106404%,692.0
+8:Roost,13.8678769541%,550.0
+9:Thunder,10.9178013111%,433.0
+10:Detect,6.55572365103%,260.0
+11:Discharge,4.46293494705%,177.0
+12:Volt Switch,3.88300554715%,154.0
+13:Light Screen,2.72314674735%,108.0
+14:Sky Drop,1.96671709531%,78.0
+15:Ancient Power,0.504286434695%,20.0
+16:Toxic,0.277357539082%,11.0
+17:Swagger,0.176500252143%,7.0
+18:Substitute,0.0756429652042%,3.0
+19:Wild Charge,0.0504286434695%,2.0
+20:Thunder Shock,0.0504286434695%,2.0
+0:Other,0.0504286434695%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,49.2687846697%,1954.0
+2:Lum Berry,16.4145234493%,651.0
+3:Life Orb,12.9097327282%,512.0
+4:Rocky Helmet,6.07665153807%,241.0
+5:Choice Scarf,2.67271810388%,106.0
+6:Expert Belt,2.49621785174%,99.0
+7:Mental Herb,2.01714573878%,80.0
+8:Choice Specs,1.41200201715%,56.0
+9:Assault Vest,1.36157337368%,54.0
+10:Leftovers,1.03378719112%,41.0
+11:Chesto Berry,0.95814422592%,38.0
+12:Weakness Policy,0.781643973777%,31.0
+13:Zap Plate,0.731215330308%,29.0
+14:Safety Goggles,0.453857791225%,18.0
+15:Wise Glasses,0.403429147756%,16.0
+16:Focus Sash,0.327786182552%,13.0
+17:Yache Berry,0.201714573878%,8.0
+18:Red Card,0.126071608674%,5.0
+19:Quick Claw,0.126071608674%,5.0
+20:Kee Berry,0.0252143217347%,1.0
+0:Other,0.0504286434695%,2.0
+
+ ---------- 
+Abilities used:
+1:Static,57.5895108422%,2284.0
+2:Pressure,42.4104891578%,1682.0
+
+ ---------- 
+Natures used:
+1:Timid,40.0907715582%,1590.0
+2:Modest,25.1386787695%,997.0
+3:Calm,17.6500252143%,700.0
+4:Bold,16.3136661624%,647.0
+5:Bashful,0.731215330308%,29.0
+6:Mild,0.0252143217347%,1.0
+7:Jolly,0.0252143217347%,1.0
+8:Adamant,0.0252143217347%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Kangaskhan
+5:Mawile
+6:Landorus
+7:Xerneas
+8:Amoonguss
+9:Yveltal
+10:Crobat
+11:Salamence
+12:Weavile
+13:Ferrothorn
+14:Gengar
+15:Talonflame
+16:Bronzong
+17:Gothitelle
+18:Liepard
+19:Dialga
+20:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Thunderbolt,59.8255515649%,2372.68137506
+2:Hidden Power,16.7778347871%,665.408927655
+3:Heat Wave,14.5202668035%,575.873781426
+4:Thunder,5.69522832222%,225.872755259
+5:Discharge,2.36018471011%,93.6049256029
+6:Volt Switch,0.615700359159%,24.4186762442
+7:Zap Cannon,0.102616726526%,4.06977937404
+8:Wild Charge,0.0513083632632%,2.03488968702
+9:Ancient Power,0.0513083632632%,2.03488968702
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,9.78615440377%,388.118883653
+2:Ice Beam,8.01014860457%,317.682493657
+3:Dazzling Gleam,7.24900326205%,287.495469373
+4:Rock Slide,6.88655309895%,273.120695904
+5:Eruption,6.77781805002%,268.808263864
+6:Origin Pulse,6.37912287061%,252.996013048
+7:Double-Edge,4.92932221819%,195.496919174
+8:Moonblast,4.49438202247%,178.247191011
+9:Precipice Blades,3.8782167452%,153.810076115
+10:Extreme Speed,3.15331641899%,125.060529177
+11:Sucker Punch,2.50090612541%,99.1859369337
+12:Fire Punch,2.50090612541%,99.1859369337
+13:Thunderbolt,2.13845596231%,84.811163465
+14:Play Rough,2.06596592968%,81.9362087713
+15:Icicle Crash,2.06596592968%,81.9362087713
+16:Return,1.52229068503%,60.3740485683
+17:Draco Meteor,1.48604566872%,58.9365712215
+18:Dragon Pulse,1.44980065241%,57.4990938746
+19:Hyper Voice,1.34106560348%,53.186661834
+20:Knock Off,1.12359550562%,44.5617977528
+0:Other,17.0351576658%,675.614353026
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Talonflame
+3:Crobat
+4:Salamence
+5:Groudon
+6:Kangaskhan
+7:Smeargle
+8:Thundurus
+9:Ferrothorn
+10:Yveltal
+11:Landorus
+12:Xerneas
+13:Rayquaza
+14:Mawile
+15:Liepard
+16:Gengar
+17:Weavile
+18:Cresselia
+19:Togekiss
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Mawile
+7:Landorus
+8:Salamence
+9:Weavile
+10:Yveltal
+11:Thundurus
+12:Dialga
+13:Kyogre
+14:Talonflame
+15:Kyurem
+16:Ferrothorn
+17:Gengar
+18:Cresselia
+19:Rayquaza
+20:Gengar

@@ -1,0 +1,115 @@
+153:Volcarona|48
+ ---------- 
+Moves used:
+1:Protect,70.8333333333%,34.0
+2:Rage Powder,64.5833333333%,31.0
+3:Heat Wave,58.3333333333%,28.0
+4:Tailwind,39.5833333333%,19.0
+5:Bug Buzz,35.4166666667%,17.0
+6:Overheat,29.1666666667%,14.0
+7:Giga Drain,25.0%,12.0
+8:Hidden Power,20.8333333333%,10.0
+9:Quiver Dance,16.6666666667%,8.0
+10:Fiery Dance,8.33333333333%,4.0
+11:Roost,8.33333333333%,4.0
+12:Struggle Bug,6.25%,3.0
+13:Safeguard,6.25%,3.0
+14:Flamethrower,4.16666666667%,2.0
+15:Whirlwind,4.16666666667%,2.0
+16:Hurricane,2.08333333333%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,31.25%,15.0
+2:Lum Berry,16.6666666667%,8.0
+3:Leftovers,14.5833333333%,7.0
+4:Life Orb,12.5%,6.0
+5:Focus Sash,6.25%,3.0
+6:Sitrus Berry,6.25%,3.0
+7:Choice Specs,4.16666666667%,2.0
+8:Expert Belt,4.16666666667%,2.0
+
+ ---------- 
+Abilities used:
+1:Flame Body,100.0%,48.0
+
+ ---------- 
+Natures used:
+1:Modest,75.0%,36.0
+2:Bold,14.5833333333%,7.0
+3:Timid,10.4166666667%,5.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Salamence
+4:Thundurus
+5:Groudon
+6:Lopunny
+7:Mawile
+8:Rayquaza
+9:Aegislash
+10:Kyurem
+11:Landorus
+12:Smeargle
+13:Talonflame
+14:Mienshao
+15:Ferrothorn
+16:Liepard
+17:Giratina
+18:Palkia
+19:Latias
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,61.5384615385%,29.5384615385
+2:Overheat,23.0769230769%,11.0769230769
+3:Fiery Dance,7.69230769231%,3.69230769231
+4:Bug Buzz,7.69230769231%,3.69230769231
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.1515151515%,7.27272727273
+2:Rock Slide,15.1515151515%,7.27272727273
+3:Brave Bird,12.1212121212%,5.81818181818
+4:Water Spout,12.1212121212%,5.81818181818
+5:Origin Pulse,9.09090909091%,4.36363636364
+6:Dragon Ascent,6.06060606061%,2.90909090909
+7:Double-Edge,6.06060606061%,2.90909090909
+8:Scald,3.0303030303%,1.45454545455
+9:Flare Blitz,3.0303030303%,1.45454545455
+10:Sucker Punch,3.0303030303%,1.45454545455
+11:Feint,3.0303030303%,1.45454545455
+12:Hyper Voice,3.0303030303%,1.45454545455
+13:Frustration,3.0303030303%,1.45454545455
+14:Icy Wind,3.0303030303%,1.45454545455
+15:Blizzard,3.0303030303%,1.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Cresselia
+2:Dialga
+3:Meowstic
+4:Kyurem
+5:Landorus
+6:Groudon
+7:Salamence
+8:Mawile
+9:Sableye
+10:Gardevoir
+11:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Talonflame
+4:Landorus
+5:Kangaskhan
+6:Kyurem
+7:Rayquaza
+8:Weavile
+9:Salamence
+10:Kangaskhan

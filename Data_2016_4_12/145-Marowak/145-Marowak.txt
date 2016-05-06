@@ -1,0 +1,109 @@
+145:Marowak|42
+ ---------- 
+Moves used:
+1:Bonemerang,88.0952380952%,37.0
+2:Protect,85.7142857143%,36.0
+3:Fire Punch,69.0476190476%,29.0
+4:Stone Edge,45.2380952381%,19.0
+5:Rock Slide,35.7142857143%,15.0
+6:Low Kick,21.4285714286%,9.0
+7:Detect,14.2857142857%,6.0
+8:Perish Song,14.2857142857%,6.0
+9:Earthquake,11.9047619048%,5.0
+10:Knock Off,7.14285714286%,3.0
+11:Double-Edge,7.14285714286%,3.0
+
+ ---------- 
+Items used:
+1:Thick Club,100.0%,42.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,92.8571428571%,39.0
+2:Rock Head,7.14285714286%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,73.8095238095%,31.0
+2:Brave,26.1904761905%,11.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Zekrom
+3:Toxicroak
+4:Sharpedo
+5:Zoroark
+6:Kyogre
+7:Kangaskhan
+8:Groudon
+9:Thundurus
+10:Dialga
+11:Ambipom
+12:Cresselia
+13:Rayquaza
+14:Regice
+15:Meowstic
+16:Talonflame
+17:Palkia
+18:Landorus
+19:Liepard
+20:Bronzong
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bonemerang,31.25%,13.125
+2:Rock Slide,18.75%,7.875
+3:Earthquake,18.75%,7.875
+4:Stone Edge,12.5%,5.25
+5:Low Kick,12.5%,5.25
+6:Fire Punch,6.25%,2.625
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,7.0
+2:Scald,16.6666666667%,7.0
+3:Precipice Blades,8.33333333333%,3.5
+4:Origin Pulse,8.33333333333%,3.5
+5:Draco Meteor,8.33333333333%,3.5
+6:Water Spout,8.33333333333%,3.5
+7:Dragon Ascent,4.16666666667%,1.75
+8:Power Whip,4.16666666667%,1.75
+9:Dragon Pulse,4.16666666667%,1.75
+10:Sucker Punch,4.16666666667%,1.75
+11:Shadow Ball,4.16666666667%,1.75
+12:Ice Beam,4.16666666667%,1.75
+13:Double-Edge,4.16666666667%,1.75
+14:Ice Punch,4.16666666667%,1.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Kangaskhan
+4:Yveltal
+5:Xerneas
+6:Talonflame
+7:Kyurem
+8:Thundurus
+9:Cresselia
+10:Weavile
+11:Kyogre
+12:Mawile
+13:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Rayquaza
+4:Groudon
+5:Greninja
+6:Ferrothorn
+7:Cresselia
+8:Dialga
+9:Weavile
+10:Kyogre
+11:Salamence
+12:Mawile
+13:Gengar

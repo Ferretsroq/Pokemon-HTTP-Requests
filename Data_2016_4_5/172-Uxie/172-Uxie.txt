@@ -1,0 +1,82 @@
+172:Uxie|18
+ ---------- 
+Moves used:
+1:Skill Swap,88.8888888889%,16.0
+2:Foul Play,83.3333333333%,15.0
+3:Trick Room,61.1111111111%,11.0
+4:Swagger,38.8888888889%,7.0
+5:Thunder Wave,38.8888888889%,7.0
+6:Helping Hand,33.3333333333%,6.0
+7:Grass Knot,16.6666666667%,3.0
+8:Magic Coat,16.6666666667%,3.0
+9:Imprison,11.1111111111%,2.0
+10:Memento,11.1111111111%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,66.6666666667%,12.0
+2:Mental Herb,33.3333333333%,6.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Calm,27.7777777778%,5.0
+2:Jolly,27.7777777778%,5.0
+3:Careful,22.2222222222%,4.0
+4:Timid,22.2222222222%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Liepard
+4:Groudon
+5:Rayquaza
+6:Landorus
+7:Weavile
+8:Salamence
+9:Mawile
+10:Xerneas
+11:Vivillon
+12:Greninja
+13:Durant
+14:Ferrothorn
+15:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,18.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,35.7142857143%,6.42857142857
+2:Dazzling Gleam,7.14285714286%,1.28571428571
+3:Flash Cannon,7.14285714286%,1.28571428571
+4:Water Spout,7.14285714286%,1.28571428571
+5:Hyper Voice,7.14285714286%,1.28571428571
+6:Eruption,7.14285714286%,1.28571428571
+7:Sludge Bomb,7.14285714286%,1.28571428571
+8:Thunderbolt,7.14285714286%,1.28571428571
+9:Double-Edge,7.14285714286%,1.28571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Ferrothorn
+2:Thundurus
+3:Dialga
+4:Kyogre
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Sylveon
+4:Thundurus
+5:Dialga
+6:Groudon
+7:Salamence
+8:Venusaur

@@ -1,0 +1,131 @@
+112:Jynx|109
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,109.0
+2:Skill Swap,84.4036697248%,92.0
+3:Lovely Kiss,76.1467889908%,83.0
+4:Ice Beam,72.4770642202%,79.0
+5:Icy Wind,18.3486238532%,20.0
+6:Protect,18.3486238532%,20.0
+7:Sweet Kiss,7.33944954128%,8.0
+8:Blizzard,7.33944954128%,8.0
+9:Trick Room,6.42201834862%,7.0
+10:Psychic,3.66972477064%,4.0
+11:Wish,1.83486238532%,2.0
+12:Role Play,1.83486238532%,2.0
+13:Taunt,1.83486238532%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,99.0825688073%,108.0
+2:Custap Berry,0.917431192661%,1.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,72.4770642202%,79.0
+2:Oblivious,20.1834862385%,22.0
+3:Forewarn,7.33944954128%,8.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,109.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Dialga
+3:Mawile
+4:Groudon
+5:Giratina
+6:Metagross
+7:Salamence
+8:Sableye
+9:Xerneas
+10:Amoonguss
+11:Palkia
+12:Yveltal
+13:Houndoom
+14:Gengar
+15:Gallade
+16:Smeargle
+17:Landorus
+18:Ferrothorn
+19:Cresselia
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,65.9090909091%,71.8409090909
+2:Blizzard,15.9090909091%,17.3409090909
+3:Icy Wind,13.6363636364%,14.8636363636
+4:Fake Out,2.27272727273%,2.47727272727
+5:Psychic,2.27272727273%,2.47727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,14.4736842105%,15.7763157895
+2:Precipice Blades,11.8421052632%,12.9078947368
+3:Gyro Ball,5.26315789474%,5.73684210526
+4:Hyper Voice,5.26315789474%,5.73684210526
+5:Double-Edge,5.26315789474%,5.73684210526
+6:Brave Bird,3.94736842105%,4.30263157895
+7:Fake Out,3.94736842105%,4.30263157895
+8:Extreme Speed,3.94736842105%,4.30263157895
+9:Dragon Ascent,2.63157894737%,2.86842105263
+10:Iron Head,2.63157894737%,2.86842105263
+11:Eruption,2.63157894737%,2.86842105263
+12:Shadow Ball,2.63157894737%,2.86842105263
+13:Rock Slide,2.63157894737%,2.86842105263
+14:Ice Beam,2.63157894737%,2.86842105263
+15:Origin Pulse,1.31578947368%,1.43421052632
+16:Moonblast,1.31578947368%,1.43421052632
+17:Psystrike,1.31578947368%,1.43421052632
+18:Scald,1.31578947368%,1.43421052632
+19:Draco Meteor,1.31578947368%,1.43421052632
+20:Bullet Punch,1.31578947368%,1.43421052632
+0:Other,14.4736842105%,15.7763157895
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Crobat
+3:Groudon
+4:Smeargle
+5:Thundurus
+6:Xerneas
+7:Talonflame
+8:Kyogre
+9:Salamence
+10:Meowstic
+11:Ferrothorn
+12:Amoonguss
+13:Whimsicott
+14:Cresselia
+15:Gastrodon
+16:Rayquaza
+17:Rayquaza
+18:Kangaskhan
+19:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Kyogre
+5:Salamence
+6:Ferrothorn
+7:Rayquaza
+8:Talonflame
+9:Cresselia
+10:Rayquaza
+11:Gengar
+12:Sylveon
+13:Landorus
+14:Amoonguss
+15:Dialga
+16:Weavile
+17:Bronzong
+18:Latias
+19:Mawile
+20:Ho-Oh

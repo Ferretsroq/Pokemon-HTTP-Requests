@@ -1,0 +1,70 @@
+214:Emolga|23
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,23.0
+2:Tailwind,100.0%,23.0
+3:Helping Hand,100.0%,23.0
+4:Encore,82.6086956522%,19.0
+5:Ion Deluge,17.3913043478%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,23.0
+
+ ---------- 
+Abilities used:
+1:Motor Drive,95.652173913%,22.0
+2:Static,4.34782608696%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,78.2608695652%,18.0
+2:Jolly,21.7391304348%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Bronzong
+5:Scrafty
+6:Lopunny
+7:Salamence
+8:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,18.75%,4.3125
+2:Gyro Ball,12.5%,2.875
+3:Origin Pulse,6.25%,1.4375
+4:Dazzling Gleam,6.25%,1.4375
+5:Snarl,6.25%,1.4375
+6:Close Combat,6.25%,1.4375
+7:Water Spout,6.25%,1.4375
+8:Hyper Voice,6.25%,1.4375
+9:Eruption,6.25%,1.4375
+10:Extreme Speed,6.25%,1.4375
+11:Icy Wind,6.25%,1.4375
+12:Sludge Bomb,6.25%,1.4375
+13:Rock Slide,6.25%,1.4375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Kangaskhan
+5:Yveltal
+6:Xerneas
+7:Ferrothorn
+8:Bronzong
+9:Infernape
+10:Rayquaza
+11:Gyarados
+12:Gengar

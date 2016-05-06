@@ -1,0 +1,51 @@
+256:Volbeat|5
+ ---------- 
+Moves used:
+1:Encore,100.0%,5.0
+2:Thunder Wave,100.0%,5.0
+3:Protect,80.0%,4.0
+4:Light Screen,80.0%,4.0
+5:Tail Glow,20.0%,1.0
+6:Baton Pass,20.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,80.0%,4.0
+2:Leftovers,20.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Timid,80.0%,4.0
+2:Calm,20.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Rhyperior
+4:Gengar
+5:Palkia
+6:Groudon
+7:Houndoom
+8:Scizor
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Scald,66.6666666667%,3.33333333333
+2:Precipice Blades,33.3333333333%,1.66666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Gastrodon
+2:Groudon
+3:Kyogre

@@ -1,0 +1,100 @@
+160:Audino|31
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,31.0
+2:Encore,90.3225806452%,28.0
+3:Magic Coat,38.7096774194%,12.0
+4:Skill Swap,35.4838709677%,11.0
+5:Protect,29.0322580645%,9.0
+6:Dazzling Gleam,22.5806451613%,7.0
+7:Helping Hand,22.5806451613%,7.0
+8:Draining Kiss,16.1290322581%,5.0
+9:Safeguard,16.1290322581%,5.0
+10:After You,9.67741935484%,3.0
+11:Gravity,9.67741935484%,3.0
+12:Heal Pulse,6.45161290323%,2.0
+13:Icy Wind,3.22580645161%,1.0
+
+ ---------- 
+Items used:
+1:Audinite,67.7419354839%,21.0
+2:Mental Herb,19.3548387097%,6.0
+3:Sitrus Berry,9.67741935484%,3.0
+4:Lum Berry,3.22580645161%,1.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,90.3225806452%,28.0
+2:Healer,9.67741935484%,3.0
+
+ ---------- 
+Natures used:
+1:Sassy,61.2903225806%,19.0
+2:Relaxed,35.4838709677%,11.0
+3:Calm,3.22580645161%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Azumarill
+4:Igglybuff
+5:Ferrothorn
+6:Thundurus
+7:Hitmontop
+8:Salamence
+9:Mawile
+10:Kyurem
+11:Amoonguss
+12:Yveltal
+13:Talonflame
+14:Landorus
+15:Liepard
+16:Giratina
+17:Dialga
+18:Rayquaza
+19:Crobat
+20:Aerodactyl
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,100.0%,31.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,13.3333333333%,4.13333333333
+2:Eruption,13.3333333333%,4.13333333333
+3:Dragon Ascent,6.66666666667%,2.06666666667
+4:Precipice Blades,6.66666666667%,2.06666666667
+5:Dazzling Gleam,6.66666666667%,2.06666666667
+6:Iron Head,6.66666666667%,2.06666666667
+7:Bullet Punch,6.66666666667%,2.06666666667
+8:Dragon Pulse,6.66666666667%,2.06666666667
+9:Gyro Ball,6.66666666667%,2.06666666667
+10:Water Spout,6.66666666667%,2.06666666667
+11:Sludge Bomb,6.66666666667%,2.06666666667
+12:Earthquake,6.66666666667%,2.06666666667
+13:Ice Beam,6.66666666667%,2.06666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Talonflame
+3:Landorus
+4:Thundurus
+5:Rayquaza
+6:Groudon
+7:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Landorus
+5:Ferrothorn
+6:Giratina
+7:Rayquaza
+8:Mawile
+9:Scizor
+10:Gengar

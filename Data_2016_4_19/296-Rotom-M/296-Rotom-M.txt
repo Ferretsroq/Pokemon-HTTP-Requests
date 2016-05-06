@@ -1,0 +1,46 @@
+296:Rotom-M|2
+ ---------- 
+Moves used:
+1:Volt Switch,100.0%,2.0
+2:Leaf Storm,100.0%,2.0
+3:Thunder,100.0%,2.0
+4:Hex,50.0%,1.0
+5:Will-O-Wisp,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,50.0%,1.0
+2:Quick Claw,50.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,2.0
+
+ ---------- 
+Natures used:
+1:Modest,50.0%,1.0
+2:Timid,50.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Aegislash
+3:Groudon
+4:Kyogre
+5:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,50.0%,1.0
+2:Icy Wind,50.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Gengar

@@ -1,0 +1,65 @@
+162:Probopass|31
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,31.0
+2:Volt Switch,96.7741935484%,30.0
+3:Protect,96.7741935484%,30.0
+4:Magnet Bomb,90.3225806452%,28.0
+5:Gravity,6.45161290323%,2.0
+6:Magic Coat,3.22580645161%,1.0
+7:Pain Split,3.22580645161%,1.0
+8:Toxic,3.22580645161%,1.0
+
+ ---------- 
+Items used:
+1:Eject Button,96.7741935484%,30.0
+2:Berry Juice,3.22580645161%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,31.0
+
+ ---------- 
+Natures used:
+1:Calm,96.7741935484%,30.0
+2:Impish,3.22580645161%,1.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Sableye
+3:Murkrow
+4:Yveltal
+5:Groudon
+6:Kyogre
+7:Shedinja
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,16.6666666667%,5.16666666667
+2:Dragon Ascent,8.33333333333%,2.58333333333
+3:Dazzling Gleam,8.33333333333%,2.58333333333
+4:Moonblast,8.33333333333%,2.58333333333
+5:Feint,8.33333333333%,2.58333333333
+6:Overheat,8.33333333333%,2.58333333333
+7:Hidden Power,8.33333333333%,2.58333333333
+8:Thunderbolt,8.33333333333%,2.58333333333
+9:Low Kick,8.33333333333%,2.58333333333
+10:Fire Punch,8.33333333333%,2.58333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Thundurus
+5:Dialga
+6:Scizor
+7:Kangaskhan

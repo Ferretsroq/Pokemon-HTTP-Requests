@@ -1,0 +1,130 @@
+107:Excadrill|94
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,94.0
+2:Rock Slide,96.8085106383%,91.0
+3:Drill Run,85.1063829787%,80.0
+4:Earthquake,55.3191489362%,52.0
+5:Protect,32.9787234043%,31.0
+6:Horn Drill,15.9574468085%,15.0
+7:Brick Break,6.3829787234%,6.0
+8:Rock Tomb,4.25531914894%,4.0
+9:X-Scissor,2.12765957447%,2.0
+10:Facade,1.06382978723%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,63.829787234%,60.0
+2:Life Orb,31.914893617%,30.0
+3:Assault Vest,2.12765957447%,2.0
+4:Focus Sash,1.06382978723%,1.0
+5:Choice Band,1.06382978723%,1.0
+
+ ---------- 
+Abilities used:
+1:Mold Breaker,60.6382978723%,57.0
+2:Sand Force,27.6595744681%,26.0
+3:Sand Rush,11.7021276596%,11.0
+
+ ---------- 
+Natures used:
+1:Adamant,77.6595744681%,73.0
+2:Jolly,22.3404255319%,21.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Talonflame
+4:Xerneas
+5:Whimsicott
+6:Kyogre
+7:Kangaskhan
+8:Lugia
+9:Kyurem
+10:Salamence
+11:Electrode
+12:Crobat
+13:Amoonguss
+14:Yveltal
+15:Meowstic
+16:Ferrothorn
+17:Gengar
+18:Venomoth
+19:Klefki
+20:Rotom
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,33.3333333333%,31.3333333333
+2:Earthquake,25.4901960784%,23.9607843137
+3:Drill Run,19.6078431373%,18.431372549
+4:Iron Head,19.6078431373%,18.431372549
+5:X-Scissor,1.96078431373%,1.8431372549
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.9552238806%,8.41791044776
+2:Dazzling Gleam,8.9552238806%,8.41791044776
+3:Sucker Punch,8.9552238806%,8.41791044776
+4:Low Kick,8.9552238806%,8.41791044776
+5:Water Spout,7.46268656716%,7.01492537313
+6:Eruption,7.46268656716%,7.01492537313
+7:Moonblast,5.97014925373%,5.61194029851
+8:Origin Pulse,4.4776119403%,4.20895522388
+9:Dragon Ascent,2.98507462687%,2.80597014925
+10:Scald,2.98507462687%,2.80597014925
+11:Flare Blitz,2.98507462687%,2.80597014925
+12:Hyper Voice,2.98507462687%,2.80597014925
+13:Focus Punch,2.98507462687%,2.80597014925
+14:Earthquake,2.98507462687%,2.80597014925
+15:Power-Up Punch,1.49253731343%,1.40298507463
+16:Snarl,1.49253731343%,1.40298507463
+17:Power Whip,1.49253731343%,1.40298507463
+18:Earth Power,1.49253731343%,1.40298507463
+19:Brave Bird,1.49253731343%,1.40298507463
+20:Dragon Pulse,1.49253731343%,1.40298507463
+0:Other,10.447761194%,9.82089552239
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Talonflame
+4:Groudon
+5:Kyogre
+6:Thundurus
+7:Salamence
+8:Smeargle
+9:Yveltal
+10:Kyurem
+11:Kyurem
+12:Thundurus
+13:Terrakion
+14:Ferrothorn
+15:Cresselia
+16:Giratina
+17:Dialga
+18:Azelf
+19:Togekiss
+20:Lucario
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Rayquaza
+6:Talonflame
+7:Yveltal
+8:Landorus
+9:Mienshao
+10:Lucario
+11:Salamence
+12:Mawile
+13:Kyurem
+14:Ferrothorn
+15:Dialga
+16:Lopunny
+17:Groudon

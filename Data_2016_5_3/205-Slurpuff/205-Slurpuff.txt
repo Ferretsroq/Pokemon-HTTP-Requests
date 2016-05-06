@@ -1,0 +1,100 @@
+205:Slurpuff|27
+ ---------- 
+Moves used:
+1:Protect,77.7777777778%,21.0
+2:Play Rough,51.8518518519%,14.0
+3:Belly Drum,51.8518518519%,14.0
+4:Drain Punch,44.4444444444%,12.0
+5:Helping Hand,44.4444444444%,12.0
+6:Flamethrower,25.9259259259%,7.0
+7:Yawn,22.2222222222%,6.0
+8:Light Screen,22.2222222222%,6.0
+9:Dazzling Gleam,18.5185185185%,5.0
+10:Cotton Spore,14.8148148148%,4.0
+11:Safeguard,7.40740740741%,2.0
+12:Return,7.40740740741%,2.0
+13:Substitute,7.40740740741%,2.0
+14:Magic Coat,3.7037037037%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,59.2592592593%,16.0
+2:Bright Powder,22.2222222222%,6.0
+3:Rocky Helmet,14.8148148148%,4.0
+4:Kee Berry,3.7037037037%,1.0
+
+ ---------- 
+Abilities used:
+1:Sweet Veil,77.7777777778%,21.0
+2:Unburden,22.2222222222%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,44.4444444444%,12.0
+2:Calm,37.037037037%,10.0
+3:Jolly,7.40740740741%,2.0
+4:Bold,7.40740740741%,2.0
+5:Quiet,3.7037037037%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Kyogre
+4:Rayquaza
+5:Lugia
+6:Scizor
+7:Yveltal
+8:Cresselia
+9:Meowstic
+10:Amoonguss
+11:Giratina
+12:Dialga
+13:Lopunny
+14:Hitmonlee
+15:Xerneas
+16:Klefki
+17:Landorus
+18:Escavalier
+19:Gothitelle
+20:Scrafty
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Play Rough,50.0%,13.5
+2:Flamethrower,33.3333333333%,9.0
+3:Dazzling Gleam,16.6666666667%,4.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,21.0526315789%,5.68421052632
+2:Precipice Blades,10.5263157895%,2.84210526316
+3:Origin Pulse,10.5263157895%,2.84210526316
+4:Moonblast,10.5263157895%,2.84210526316
+5:Iron Head,10.5263157895%,2.84210526316
+6:Fire Punch,10.5263157895%,2.84210526316
+7:Brave Bird,5.26315789474%,1.42105263158
+8:Water Spout,5.26315789474%,1.42105263158
+9:Hyper Voice,5.26315789474%,1.42105263158
+10:Eruption,5.26315789474%,1.42105263158
+11:Thunderbolt,5.26315789474%,1.42105263158
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Noivern
+3:Talonflame
+4:Kyogre
+5:Mawile
+6:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Sylveon
+5:Talonflame
+6:Thundurus
+7:Dialga
+8:Togekiss

@@ -1,0 +1,66 @@
+189:Gigalith|3
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,3.0
+2:Explosion,100.0%,3.0
+3:Rock Slide,66.6666666667%,2.0
+4:Earthquake,66.6666666667%,2.0
+5:Rock Blast,33.3333333333%,1.0
+6:Protect,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Chesto Berry,66.6666666667%,2.0
+2:Custap Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,66.6666666667%,2.0
+2:Adamant,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Scizor
+2:Kyurem
+3:Weavile
+4:Kyurem
+5:Salamence
+6:Lucario
+7:Groudon
+8:Liepard
+9:Mewtwo
+10:Whimsicott
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,60.0%,1.8
+2:Explosion,40.0%,1.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,21.0526315789%,0.631578947368
+2:Moonblast,10.5263157895%,0.315789473684
+3:Precipice Blades,5.26315789474%,0.157894736842
+4:Dazzling Gleam,5.26315789474%,0.157894736842
+5:Hyper Voice,5.26315789474%,0.157894736842
+6:Rock Slide,5.26315789474%,0.157894736842
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Weavile
+4:Ho-Oh
+5:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Aerodactyl

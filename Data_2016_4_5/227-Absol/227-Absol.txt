@@ -1,0 +1,68 @@
+227:Absol|6
+ ---------- 
+Moves used:
+1:Sucker Punch,100.0%,6.0
+2:Knock Off,66.6666666667%,4.0
+3:Superpower,66.6666666667%,4.0
+4:Play Rough,50.0%,3.0
+5:Psycho Cut,33.3333333333%,2.0
+6:Night Slash,33.3333333333%,2.0
+7:Detect,33.3333333333%,2.0
+8:Ice Beam,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,50.0%,3.0
+2:Scope Lens,33.3333333333%,2.0
+3:Absolite,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Super Luck,83.3333333333%,5.0
+2:Justified,16.6666666667%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,83.3333333333%,5.0
+2:Naive,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Hitmontop
+4:Crobat
+5:Xerneas
+6:Excadrill
+7:Liepard
+8:Rhyperior
+9:Empoleon
+10:Groudon
+11:Articuno
+12:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,16.6666666667%,1.0
+2:Play Rough,16.6666666667%,1.0
+3:Brave Bird,16.6666666667%,1.0
+4:Gyro Ball,16.6666666667%,1.0
+5:Earthquake,16.6666666667%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Palkia
+3:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Talonflame
+2:Landorus
+3:Ferrothorn
+4:Kyogre
+5:Mawile

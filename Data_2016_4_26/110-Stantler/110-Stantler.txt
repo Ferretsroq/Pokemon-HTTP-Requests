@@ -1,0 +1,96 @@
+110:Stantler|143
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,143.0
+2:Gravity,100.0%,143.0
+3:Hypnosis,98.6013986014%,141.0
+4:Skill Swap,97.2027972028%,139.0
+5:Role Play,2.0979020979%,3.0
+6:Imprison,1.3986013986%,2.0
+7:Protect,0.699300699301%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,81.1188811189%,116.0
+2:Lum Berry,18.8811188811%,27.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,143.0
+
+ ---------- 
+Natures used:
+1:Relaxed,81.1188811189%,116.0
+2:Sassy,17.4825174825%,25.0
+3:Calm,1.3986013986%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Talonflame
+5:Aegislash
+6:Thundurus
+7:Ferrothorn
+8:Xerneas
+9:Kyurem
+10:Salamence
+11:Smeargle
+12:Amoonguss
+13:Clefairy
+14:Rayquaza
+15:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.5631067961%,20.8252427184
+2:Hyper Voice,8.73786407767%,12.4951456311
+3:Dazzling Gleam,6.79611650485%,9.71844660194
+4:Brave Bird,6.79611650485%,9.71844660194
+5:Origin Pulse,5.82524271845%,8.33009708738
+6:Eruption,5.82524271845%,8.33009708738
+7:Water Spout,4.85436893204%,6.94174757282
+8:Sludge Bomb,4.85436893204%,6.94174757282
+9:Ice Beam,4.85436893204%,6.94174757282
+10:Extreme Speed,3.88349514563%,5.55339805825
+11:Earthquake,3.88349514563%,5.55339805825
+12:Double-Edge,3.88349514563%,5.55339805825
+13:Moonblast,2.91262135922%,4.16504854369
+14:Thunderbolt,2.91262135922%,4.16504854369
+15:Snarl,1.94174757282%,2.77669902913
+16:Iron Head,1.94174757282%,2.77669902913
+17:Draco Meteor,1.94174757282%,2.77669902913
+18:Fake Out,1.94174757282%,2.77669902913
+19:Fire Punch,1.94174757282%,2.77669902913
+20:Dragon Ascent,0.970873786408%,1.38834951456
+0:Other,6.79611650485%,9.71844660194
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Rayquaza
+9:Mawile
+10:Yveltal
+11:Thundurus
+12:Cresselia
+13:Rayquaza
+14:Kyogre
+15:Gengar
+16:Gengar
+17:Kyurem
+18:Ferrothorn
+19:Amoonguss
+20:Crawdaunt

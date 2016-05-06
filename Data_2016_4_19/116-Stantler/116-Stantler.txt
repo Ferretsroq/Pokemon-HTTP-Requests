@@ -1,0 +1,88 @@
+116:Stantler|104
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,104.0
+2:Gravity,100.0%,104.0
+3:Hypnosis,100.0%,104.0
+4:Skill Swap,98.0769230769%,102.0
+5:Role Play,1.92307692308%,2.0
+
+ ---------- 
+Items used:
+1:Mental Herb,74.0384615385%,77.0
+2:Lum Berry,25.9615384615%,27.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,104.0
+
+ ---------- 
+Natures used:
+1:Relaxed,84.6153846154%,88.0
+2:Sassy,15.3846153846%,16.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Aegislash
+5:Thundurus
+6:Talonflame
+7:Ferrothorn
+8:Kyurem
+9:Amoonguss
+10:Salamence
+11:Rayquaza
+12:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.1578947368%,13.6842105263
+2:Dazzling Gleam,11.8421052632%,12.3157894737
+3:Sludge Bomb,7.89473684211%,8.21052631579
+4:Origin Pulse,6.57894736842%,6.84210526316
+5:Hyper Voice,6.57894736842%,6.84210526316
+6:Double-Edge,6.57894736842%,6.84210526316
+7:Eruption,5.26315789474%,5.47368421053
+8:Ice Beam,5.26315789474%,5.47368421053
+9:Moonblast,3.94736842105%,4.10526315789
+10:Brave Bird,3.94736842105%,4.10526315789
+11:Water Spout,3.94736842105%,4.10526315789
+12:Earthquake,3.94736842105%,4.10526315789
+13:Iron Head,2.63157894737%,2.73684210526
+14:Fake Out,2.63157894737%,2.73684210526
+15:Extreme Speed,2.63157894737%,2.73684210526
+16:Thunderbolt,2.63157894737%,2.73684210526
+17:Dragon Ascent,1.31578947368%,1.36842105263
+18:Play Rough,1.31578947368%,1.36842105263
+19:Aqua Jet,1.31578947368%,1.36842105263
+20:Gyro Ball,1.31578947368%,1.36842105263
+0:Other,3.94736842105%,4.10526315789
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Landorus
+8:Mawile
+9:Gengar
+10:Thundurus
+11:Cresselia
+12:Rayquaza
+13:Gengar
+14:Ferrothorn
+15:Amoonguss
+16:Rayquaza
+17:Kyogre
+18:Crawdaunt

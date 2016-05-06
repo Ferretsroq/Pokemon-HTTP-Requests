@@ -1,0 +1,65 @@
+238:Skuntank|8
+ ---------- 
+Moves used:
+1:Snarl,100.0%,8.0
+2:Acid Spray,100.0%,8.0
+3:Feint,100.0%,8.0
+4:Flamethrower,87.5%,7.0
+5:Incinerate,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,8.0
+
+ ---------- 
+Abilities used:
+1:Aftermath,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Yveltal
+3:Mawile
+4:Liepard
+5:Slowking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Snarl,50.0%,4.0
+2:Flamethrower,50.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Gyro Ball,14.2857142857%,1.14285714286
+2:Water Spout,14.2857142857%,1.14285714286
+3:Dragon Ascent,7.14285714286%,0.571428571429
+4:Precipice Blades,7.14285714286%,0.571428571429
+5:Origin Pulse,7.14285714286%,0.571428571429
+6:Draco Meteor,7.14285714286%,0.571428571429
+7:Bullet Punch,7.14285714286%,0.571428571429
+8:Sucker Punch,7.14285714286%,0.571428571429
+9:Hyper Voice,7.14285714286%,0.571428571429
+10:Extreme Speed,7.14285714286%,0.571428571429
+11:Explosion,7.14285714286%,0.571428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Weavile
+2:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Ferrothorn
+3:Landorus
+4:Hydreigon
+5:Rayquaza
+6:Rayquaza
+7:Groudon
+8:Salamence
+9:Mawile
+10:Scizor

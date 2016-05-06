@@ -1,0 +1,132 @@
+89:Empoleon|153
+ ---------- 
+Moves used:
+1:Scald,50.9803921569%,78.0
+2:Aqua Jet,50.9803921569%,78.0
+3:Flash Cannon,50.9803921569%,78.0
+4:Ice Beam,50.9803921569%,78.0
+5:Grass Knot,49.0196078431%,75.0
+6:Steel Wing,49.0196078431%,75.0
+7:Protect,49.0196078431%,75.0
+8:Swords Dance,40.522875817%,62.0
+9:Iron Defense,8.49673202614%,13.0
+
+ ---------- 
+Items used:
+1:Assault Vest,48.3660130719%,74.0
+2:Lum Berry,25.4901960784%,39.0
+3:Life Orb,23.5294117647%,36.0
+4:Shuca Berry,2.61437908497%,4.0
+
+ ---------- 
+Abilities used:
+1:Torrent,50.9803921569%,78.0
+2:Defiant,49.0196078431%,75.0
+
+ ---------- 
+Natures used:
+1:Adamant,49.0196078431%,75.0
+2:Modest,31.3725490196%,48.0
+3:Quiet,19.6078431373%,30.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Groudon
+4:Meowstic
+5:Kangaskhan
+6:Cresselia
+7:Raichu
+8:Lucario
+9:Ho-Oh
+10:Salamence
+11:Crobat
+12:Weavile
+13:Xerneas
+14:Thundurus
+15:Greninja
+16:Amoonguss
+17:Hitmontop
+18:Smeargle
+19:Landorus
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,35.5769230769%,54.4326923077
+2:Ice Beam,23.0769230769%,35.3076923077
+3:Steel Wing,13.4615384615%,20.5961538462
+4:Scald,11.5384615385%,17.6538461538
+5:Flash Cannon,10.5769230769%,16.1826923077
+6:Grass Knot,5.76923076923%,8.82692307692
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.1904761905%,24.7714285714
+2:Thunder,9.52380952381%,14.5714285714
+3:Low Kick,9.52380952381%,14.5714285714
+4:Earthquake,7.61904761905%,11.6571428571
+5:Origin Pulse,5.71428571429%,8.74285714286
+6:Water Spout,4.7619047619%,7.28571428571
+7:Earth Power,3.80952380952%,5.82857142857
+8:Power-Up Punch,2.85714285714%,4.37142857143
+9:Superpower,2.85714285714%,4.37142857143
+10:Thunderbolt,2.85714285714%,4.37142857143
+11:Dazzling Gleam,1.90476190476%,2.91428571429
+12:Snarl,1.90476190476%,2.91428571429
+13:Power Whip,1.90476190476%,2.91428571429
+14:Sucker Punch,1.90476190476%,2.91428571429
+15:Volt Tackle,1.90476190476%,2.91428571429
+16:Hyper Voice,1.90476190476%,2.91428571429
+17:Extreme Speed,1.90476190476%,2.91428571429
+18:Moonblast,0.952380952381%,1.45714285714
+19:Fusion Bolt,0.952380952381%,1.45714285714
+20:Wild Charge,0.952380952381%,1.45714285714
+0:Other,12.380952381%,18.9428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Salamence
+4:Kyogre
+5:Weavile
+6:Landorus
+7:Rayquaza
+8:Smeargle
+9:Talonflame
+10:Thundurus
+11:Kangaskhan
+12:Yveltal
+13:Terrakion
+14:Liepard
+15:Cresselia
+16:Gengar
+17:Whimsicott
+18:Togekiss
+19:Crobat
+20:Meowstic
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Landorus
+5:Yveltal
+6:Thundurus
+7:Rayquaza
+8:Xerneas
+9:Talonflame
+10:Ferrothorn
+11:Weavile
+12:Salamence
+13:Scizor
+14:Raichu
+15:Zekrom
+16:Palkia
+17:Dialga
+18:Electivire
+19:Garchomp
+20:Bronzong

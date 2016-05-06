@@ -1,0 +1,68 @@
+193:Probopass|33
+ ---------- 
+Moves used:
+1:Wide Guard,100.0%,33.0
+2:Volt Switch,96.9696969697%,32.0
+3:Protect,96.9696969697%,32.0
+4:Magnet Bomb,84.8484848485%,28.0
+5:Gravity,12.1212121212%,4.0
+6:Magic Coat,3.0303030303%,1.0
+7:Pain Split,3.0303030303%,1.0
+8:Toxic,3.0303030303%,1.0
+
+ ---------- 
+Items used:
+1:Eject Button,96.9696969697%,32.0
+2:Berry Juice,3.0303030303%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,33.0
+
+ ---------- 
+Natures used:
+1:Calm,87.8787878788%,29.0
+2:Sassy,9.09090909091%,3.0
+3:Impish,3.0303030303%,1.0
+
+ ---------- 
+Top teammates:
+1:Gengar
+2:Sableye
+3:Murkrow
+4:Kyogre
+5:Groudon
+6:Smeargle
+7:Yveltal
+8:Landorus
+9:Shedinja
+10:Mewtwo
+11:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earth Power,15.3846153846%,5.07692307692
+2:Low Kick,15.3846153846%,5.07692307692
+3:Dragon Ascent,7.69230769231%,2.53846153846
+4:Precipice Blades,7.69230769231%,2.53846153846
+5:Dazzling Gleam,7.69230769231%,2.53846153846
+6:Moonblast,7.69230769231%,2.53846153846
+7:Feint,7.69230769231%,2.53846153846
+8:Overheat,7.69230769231%,2.53846153846
+9:Thunderbolt,7.69230769231%,2.53846153846
+10:Fire Punch,7.69230769231%,2.53846153846
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Rayquaza
+4:Kangaskhan
+5:Thundurus
+6:Scizor

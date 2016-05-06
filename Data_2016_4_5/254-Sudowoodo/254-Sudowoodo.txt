@@ -1,0 +1,45 @@
+254:Sudowoodo|1
+ ---------- 
+Moves used:
+1:Wood Hammer,100.0%,1.0
+2:Sucker Punch,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Rock Slide,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Palkia
+3:Hypno
+4:Machamp
+5:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wood Hammer,50.0%,0.5
+2:Sucker Punch,50.0%,0.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power Whip,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Ferrothorn

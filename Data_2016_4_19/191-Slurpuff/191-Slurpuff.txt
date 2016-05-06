@@ -1,0 +1,96 @@
+191:Slurpuff|23
+ ---------- 
+Moves used:
+1:Protect,73.9130434783%,17.0
+2:Helping Hand,52.1739130435%,12.0
+3:Play Rough,39.1304347826%,9.0
+4:Belly Drum,39.1304347826%,9.0
+5:Drain Punch,34.7826086957%,8.0
+6:Yawn,30.4347826087%,7.0
+7:Flamethrower,30.4347826087%,7.0
+8:Light Screen,26.0869565217%,6.0
+9:Safeguard,21.7391304348%,5.0
+10:Cotton Spore,21.7391304348%,5.0
+11:Dazzling Gleam,13.0434782609%,3.0
+12:Aromatherapy,4.34782608696%,1.0
+13:Magic Coat,4.34782608696%,1.0
+14:Return,4.34782608696%,1.0
+15:Substitute,4.34782608696%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,47.8260869565%,11.0
+2:Bright Powder,26.0869565217%,6.0
+3:Rocky Helmet,21.7391304348%,5.0
+4:Kee Berry,4.34782608696%,1.0
+
+ ---------- 
+Abilities used:
+1:Sweet Veil,91.3043478261%,21.0
+2:Unburden,8.69565217391%,2.0
+
+ ---------- 
+Natures used:
+1:Calm,47.8260869565%,11.0
+2:Adamant,34.7826086957%,8.0
+3:Bold,8.69565217391%,2.0
+4:Quiet,4.34782608696%,1.0
+5:Jolly,4.34782608696%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Rayquaza
+4:Kyogre
+5:Lugia
+6:Scizor
+7:Yveltal
+8:Cresselia
+9:Lopunny
+10:Meowstic
+11:Giratina
+12:Dialga
+13:Aegislash
+14:Landorus
+15:Amoonguss
+16:Gothitelle
+17:Metagross
+18:Jolteon
+19:Hitmonlee
+20:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Flamethrower,66.6666666667%,15.3333333333
+2:Play Rough,33.3333333333%,7.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.6470588235%,4.05882352941
+2:Moonblast,17.6470588235%,4.05882352941
+3:Precipice Blades,11.7647058824%,2.70588235294
+4:Origin Pulse,11.7647058824%,2.70588235294
+5:Iron Head,11.7647058824%,2.70588235294
+6:Brave Bird,5.88235294118%,1.35294117647
+7:Water Spout,5.88235294118%,1.35294117647
+8:Hyper Voice,5.88235294118%,1.35294117647
+9:Thunderbolt,5.88235294118%,1.35294117647
+10:Fire Punch,5.88235294118%,1.35294117647
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Mawile
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Sylveon
+5:Talonflame
+6:Thundurus
+7:Cresselia
+8:Dialga

@@ -1,0 +1,70 @@
+241:Flygon|7
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,7.0
+2:Draco Meteor,85.7142857143%,6.0
+3:Tailwind,85.7142857143%,6.0
+4:Protect,57.1428571429%,4.0
+5:Fissure,28.5714285714%,2.0
+6:Feint,14.2857142857%,1.0
+7:Superpower,14.2857142857%,1.0
+8:Earthquake,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,42.8571428571%,3.0
+2:Earth Plate,28.5714285714%,2.0
+3:Yache Berry,14.2857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Modest,57.1428571429%,4.0
+2:Timid,28.5714285714%,2.0
+3:Jolly,14.2857142857%,1.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Liepard
+3:Groudon
+4:Xerneas
+5:Meowstic
+6:Kyurem
+7:Mienshao
+8:Excadrill
+9:Dialga
+10:Glalie
+11:Lapras
+12:Gengar
+13:Rapidash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,16.6666666667%,1.16666666667
+2:Moonblast,16.6666666667%,1.16666666667
+3:Brave Bird,16.6666666667%,1.16666666667
+4:Sucker Punch,16.6666666667%,1.16666666667
+5:Hyper Voice,16.6666666667%,1.16666666667
+6:Extreme Speed,16.6666666667%,1.16666666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Xerneas
+3:Sylveon
+4:Talonflame
+5:Rayquaza
+6:Kyogre

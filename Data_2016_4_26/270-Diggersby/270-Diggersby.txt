@@ -1,0 +1,67 @@
+270:Diggersby|7
+ ---------- 
+Moves used:
+1:Earthquake,100.0%,7.0
+2:U-turn,57.1428571429%,4.0
+3:Iron Head,42.8571428571%,3.0
+4:Knock Off,42.8571428571%,3.0
+5:Rock Slide,42.8571428571%,3.0
+6:Quick Attack,42.8571428571%,3.0
+7:Low Kick,28.5714285714%,2.0
+8:Wild Charge,14.2857142857%,1.0
+9:Stone Edge,14.2857142857%,1.0
+10:Return,14.2857142857%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,100.0%,7.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,7.0
+
+ ---------- 
+Natures used:
+1:Adamant,57.1428571429%,4.0
+2:Jolly,42.8571428571%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Talonflame
+3:Cresselia
+4:Yveltal
+5:Goodra
+6:Ferrothorn
+7:Toxicroak
+8:Rayquaza
+9:Salamence
+10:Absol
+11:Ludicolo
+12:Kangaskhan
+13:Tentacruel
+14:Machamp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,100.0%,7.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.0%,1.4
+2:Sacred Sword,20.0%,1.4
+3:Ice Shard,20.0%,1.4
+4:Water Spout,20.0%,1.4
+5:Double-Edge,20.0%,1.4
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Aegislash
+3:Weavile
+4:Kyogre
+5:Kangaskhan

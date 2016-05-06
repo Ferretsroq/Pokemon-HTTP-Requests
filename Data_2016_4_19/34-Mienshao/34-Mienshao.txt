@@ -1,0 +1,161 @@
+34:Mienshao|2193
+ ---------- 
+Moves used:
+1:Fake Out,89.5576835385%,1964.0
+2:Feint,59.097127223%,1296.0
+3:Wide Guard,54.1723666211%,1188.0
+4:Low Kick,50.5243958048%,1108.0
+5:High Jump Kick,45.3716370269%,995.0
+6:Knock Off,43.5020519836%,954.0
+7:Quick Guard,24.2134062927%,531.0
+8:Rock Slide,12.1751025992%,267.0
+9:Ally Switch,4.78796169631%,105.0
+10:Rock Tomb,4.60556315549%,101.0
+11:Fling,2.41678066575%,53.0
+12:Protect,1.82398540812%,40.0
+13:Drain Punch,1.5503875969%,34.0
+14:U-turn,1.5503875969%,34.0
+15:Taunt,1.27678978568%,28.0
+16:Helping Hand,0.957592339261%,21.0
+17:Stone Edge,0.866393068855%,19.0
+18:Force Palm,0.77519379845%,17.0
+19:Role Play,0.273597811218%,6.0
+20:Swagger,0.273597811218%,6.0
+0:Other,0.227998176015%,5.0
+
+ ---------- 
+Items used:
+1:Focus Sash,53.6251709986%,1176.0
+2:Lum Berry,25.0341997264%,549.0
+3:Life Orb,9.11992704058%,200.0
+4:Fist Plate,5.65435476516%,124.0
+5:Black Belt,2.09758321933%,46.0
+6:Salac Berry,2.00638394893%,44.0
+7:Chesto Berry,1.5047879617%,33.0
+8:Lansat Berry,0.364797081623%,8.0
+9:Expert Belt,0.273597811218%,6.0
+10:Eject Button,0.0911992704058%,2.0
+11:Lucky Egg,0.0455996352029%,1.0
+12:White Herb,0.0455996352029%,1.0
+13:Liechi Berry,0.0455996352029%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,91.5640674875%,2008.0
+2:Regenerator,5.28955768354%,116.0
+3:Reckless,3.146374829%,69.0
+
+ ---------- 
+Natures used:
+1:Jolly,96.8992248062%,2125.0
+2:Adamant,2.96397628819%,65.0
+3:Naive,0.0455996352029%,1.0
+4:Hasty,0.0455996352029%,1.0
+5:Timid,0.0455996352029%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Crobat
+5:Xerneas
+6:Talonflame
+7:Salamence
+8:Ho-Oh
+9:Mewtwo
+10:Gengar
+11:Mawile
+12:Kangaskhan
+13:Dialga
+14:Cresselia
+15:Ferrothorn
+16:Yveltal
+17:Metagross
+18:Espeon
+19:Scizor
+20:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:High Jump Kick,32.0512820513%,702.884615385
+2:Low Kick,31.7016317016%,695.216783217
+3:Feint,15.5011655012%,339.940559441
+4:Knock Off,9.09090909091%,199.363636364
+5:Rock Slide,7.92540792541%,173.804195804
+6:Rock Tomb,1.3986013986%,30.6713286713
+7:Fake Out,1.1655011655%,25.5594405594
+8:Drain Punch,0.699300699301%,15.3356643357
+9:Stone Edge,0.2331002331%,5.11188811189
+10:Force Palm,0.11655011655%,2.55594405594
+11:U-turn,0.11655011655%,2.55594405594
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,9.63855421687%,211.373493976
+2:Hyper Voice,8.26161790017%,181.177280551
+3:Double-Edge,5.90935169248%,129.592082616
+4:Brave Bird,5.10613884108%,111.977624785
+5:Precipice Blades,4.7619047619%,104.428571429
+6:Water Spout,4.41767068273%,96.8795180723
+7:Moonblast,4.07343660356%,89.330464716
+8:Origin Pulse,3.9586919105%,86.8141135972
+9:Thunderbolt,3.67183017785%,80.5232358003
+10:Ice Beam,3.61445783133%,79.265060241
+11:Dragon Ascent,2.92598967298%,64.1669535284
+12:Eruption,2.92598967298%,64.1669535284
+13:Fire Punch,2.92598967298%,64.1669535284
+14:Extreme Speed,2.52438324727%,55.3597246127
+15:Scald,2.1801491681%,47.8106712565
+16:Sludge Bomb,1.7785427424%,39.0034423408
+17:Earth Power,1.60642570281%,35.2289156627
+18:Gyro Ball,1.43430866322%,31.4543889845
+19:Play Rough,1.09007458405%,23.9053356282
+20:Iron Head,1.09007458405%,23.9053356282
+0:Other,22.3752151463%,490.688468158
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Smeargle
+3:Kyogre
+4:Talonflame
+5:Kangaskhan
+6:Groudon
+7:Ferrothorn
+8:Weavile
+9:Xerneas
+10:Liepard
+11:Kyurem
+12:Thundurus
+13:Dialga
+14:Rayquaza
+15:Gengar
+16:Cresselia
+17:Yveltal
+18:Raichu
+19:Bronzong
+20:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Talonflame
+6:Kangaskhan
+7:Rayquaza
+8:Thundurus
+9:Mawile
+10:Landorus
+11:Yveltal
+12:Cresselia
+13:Rayquaza
+14:Ferrothorn
+15:Gengar
+16:Kyurem
+17:Gengar
+18:Dialga
+19:Togekiss
+20:Weavile

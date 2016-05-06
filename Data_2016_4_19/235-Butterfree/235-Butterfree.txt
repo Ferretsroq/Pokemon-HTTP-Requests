@@ -1,0 +1,53 @@
+235:Butterfree|1
+ ---------- 
+Moves used:
+1:Rage Powder,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Skill Swap,100.0%,1.0
+4:Sleep Powder,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Compound Eyes,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Arcanine
+4:Porygon2
+5:Rayquaza
+6:Landorus
+7:Dialga
+8:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,25.0%,0.25
+2:Grass Knot,12.5%,0.125
+3:Rock Slide,12.5%,0.125
+4:Ice Beam,12.5%,0.125
+5:Double-Edge,12.5%,0.125
+6:Ice Punch,12.5%,0.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan
+3:Landorus
+4:Whimsicott
+5:Cresselia

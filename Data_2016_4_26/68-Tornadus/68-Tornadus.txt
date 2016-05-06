@@ -1,0 +1,145 @@
+68:Tornadus|500
+ ---------- 
+Moves used:
+1:Tailwind,91.4%,457.0
+2:Taunt,91.0%,455.0
+3:Hurricane,77.6%,388.0
+4:Role Play,73.6%,368.0
+5:Swagger,15.8%,79.0
+6:Protect,15.8%,79.0
+7:Icy Wind,10.6%,53.0
+8:Air Slash,8.8%,44.0
+9:Hidden Power,8.0%,40.0
+10:Heat Wave,3.4%,17.0
+11:Sky Drop,2.8%,14.0
+12:Fling,0.6%,3.0
+13:Incinerate,0.4%,2.0
+14:Foul Play,0.2%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,60.0%,300.0
+2:Sitrus Berry,20.4%,102.0
+3:Life Orb,7.4%,37.0
+4:Mental Herb,5.0%,25.0
+5:Lum Berry,3.2%,16.0
+6:Sky Plate,1.4%,7.0
+7:Leftovers,0.8%,4.0
+8:Lansat Berry,0.6%,3.0
+9:Eject Button,0.4%,2.0
+10:Expert Belt,0.4%,2.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,500.0
+
+ ---------- 
+Natures used:
+1:Timid,84.8%,424.0
+2:Calm,6.4%,32.0
+3:Modest,3.8%,19.0
+4:Jolly,2.8%,14.0
+5:Naive,1.4%,7.0
+6:Rash,0.4%,2.0
+7:Hasty,0.4%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Rayquaza
+5:Mawile
+6:Xerneas
+7:Salamence
+8:Palkia
+9:Dialga
+10:Cresselia
+11:Smeargle
+12:Ditto
+13:Zekrom
+14:Manectric
+15:Ferrothorn
+16:Yveltal
+17:Raichu
+18:Landorus
+19:Talonflame
+20:Cofagrigus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hurricane,68.2926829268%,341.463414634
+2:Hidden Power,13.4146341463%,67.0731707317
+3:Icy Wind,13.4146341463%,67.0731707317
+4:Air Slash,3.65853658537%,18.2926829268
+5:Sky Drop,1.21951219512%,6.09756097561
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.6389548694%,58.1947743468
+2:Double-Edge,8.78859857482%,43.9429928741
+3:Ice Beam,6.65083135392%,33.2541567696
+4:Hyper Voice,6.41330166271%,32.0665083135
+5:Water Spout,5.46318289786%,27.3159144893
+6:Origin Pulse,4.75059382423%,23.7529691211
+7:Eruption,4.75059382423%,23.7529691211
+8:Rock Slide,4.27553444181%,21.377672209
+9:Brave Bird,4.03800475059%,20.190023753
+10:Gyro Ball,3.56294536817%,17.8147268409
+11:Thunderbolt,3.56294536817%,17.8147268409
+12:Extreme Speed,3.32541567696%,16.6270783848
+13:Precipice Blades,2.85035629454%,14.2517814727
+14:Moonblast,2.61282660333%,13.0641330166
+15:Dragon Ascent,1.90023752969%,9.50118764846
+16:Sucker Punch,1.90023752969%,9.50118764846
+17:Fire Punch,1.90023752969%,9.50118764846
+18:Snarl,1.66270783848%,8.3135391924
+19:Dragon Pulse,1.66270783848%,8.3135391924
+20:Fake Out,1.42517814727%,7.12589073634
+0:Other,15.9144893112%,79.5724465558
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Landorus
+3:Talonflame
+4:Thundurus
+5:Salamence
+6:Smeargle
+7:Crobat
+8:Kangaskhan
+9:Ferrothorn
+10:Kyogre
+11:Yveltal
+12:Xerneas
+13:Meowstic
+14:Mienshao
+15:Amoonguss
+16:Whimsicott
+17:Rayquaza
+18:Gengar
+19:Trevenant
+20:Greninja
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Yveltal
+9:Thundurus
+10:Ferrothorn
+11:Cresselia
+12:Weavile
+13:Kyurem
+14:Mawile
+15:Dialga
+16:Landorus
+17:Rayquaza
+18:Bronzong
+19:Smeargle
+20:Gengar

@@ -1,0 +1,130 @@
+111:Aromatisse|112
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,112.0
+2:Skill Swap,73.2142857143%,82.0
+3:Moonblast,68.75%,77.0
+4:Protect,38.3928571429%,43.0
+5:Heal Pulse,30.3571428571%,34.0
+6:Helping Hand,27.6785714286%,31.0
+7:After You,22.3214285714%,25.0
+8:Magic Coat,17.8571428571%,20.0
+9:Disable,10.7142857143%,12.0
+10:Dazzling Gleam,5.35714285714%,6.0
+11:Calm Mind,3.57142857143%,4.0
+12:Sweet Scent,1.78571428571%,2.0
+
+ ---------- 
+Items used:
+1:Lum Berry,59.8214285714%,67.0
+2:Sitrus Berry,29.4642857143%,33.0
+3:Babiri Berry,2.67857142857%,3.0
+4:Rocky Helmet,1.78571428571%,2.0
+5:Focus Sash,1.78571428571%,2.0
+6:Leftovers,1.78571428571%,2.0
+7:Chesto Berry,1.78571428571%,2.0
+
+ ---------- 
+Abilities used:
+1:Aroma Veil,100.0%,112.0
+
+ ---------- 
+Natures used:
+1:Sassy,55.3571428571%,62.0
+2:Relaxed,33.9285714286%,38.0
+3:Bold,10.7142857143%,12.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Ferrothorn
+6:Mawile
+7:Smeargle
+8:Xerneas
+9:Rayquaza
+10:Yveltal
+11:Gyarados
+12:Talonflame
+13:Landorus
+14:Terrakion
+15:Dialga
+16:Meowstic
+17:Lopunny
+18:Thundurus
+19:Palkia
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Moonblast,85.7142857143%,96.0
+2:Dazzling Gleam,14.2857142857%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,13.6363636364%,15.2727272727
+2:Precipice Blades,12.5%,14.0
+3:Dazzling Gleam,6.81818181818%,7.63636363636
+4:Iron Head,6.81818181818%,7.63636363636
+5:Double-Edge,6.81818181818%,7.63636363636
+6:Origin Pulse,5.68181818182%,6.36363636364
+7:Brave Bird,5.68181818182%,6.36363636364
+8:Eruption,4.54545454545%,5.09090909091
+9:Sludge Bomb,3.40909090909%,3.81818181818
+10:Fire Punch,3.40909090909%,3.81818181818
+11:Dragon Ascent,2.27272727273%,2.54545454545
+12:Moonblast,2.27272727273%,2.54545454545
+13:Flash Cannon,2.27272727273%,2.54545454545
+14:Earth Power,2.27272727273%,2.54545454545
+15:Hyper Voice,2.27272727273%,2.54545454545
+16:Sacred Fire,2.27272727273%,2.54545454545
+17:Return,2.27272727273%,2.54545454545
+18:Scald,1.13636363636%,1.27272727273
+19:Gunk Shot,1.13636363636%,1.27272727273
+20:Aqua Tail,1.13636363636%,1.27272727273
+0:Other,7.95454545455%,8.90909090909
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Thundurus
+3:Salamence
+4:Mienshao
+5:Cresselia
+6:Weavile
+7:Bronzong
+8:Rayquaza
+9:Rayquaza
+10:Kyogre
+11:Salamence
+12:Sableye
+13:Linoone
+14:Smeargle
+15:Gyarados
+16:Kangaskhan
+17:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Talonflame
+6:Mawile
+7:Rayquaza
+8:Ho-Oh
+9:Aegislash
+10:Kyogre
+11:Salamence
+12:Gengar
+13:Greninja
+14:Thundurus
+15:Bisharp
+16:Ferrothorn
+17:Whimsicott
+18:Cresselia
+19:Dialga
+20:Rayquaza

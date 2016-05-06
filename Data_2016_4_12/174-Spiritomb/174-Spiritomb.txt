@@ -1,0 +1,71 @@
+174:Spiritomb|13
+ ---------- 
+Moves used:
+1:Sucker Punch,100.0%,13.0
+2:Protect,100.0%,13.0
+3:Snatch,53.8461538462%,7.0
+4:Swagger,53.8461538462%,7.0
+5:Taunt,46.1538461538%,6.0
+6:Pursuit,46.1538461538%,6.0
+
+ ---------- 
+Items used:
+1:Black Glasses,100.0%,13.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,13.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,13.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kyogre
+3:Gengar
+4:Sylveon
+5:Xerneas
+6:Cresselia
+7:Ditto
+8:Metagross
+9:Scizor
+10:Kangaskhan
+11:Ferrothorn
+12:Palkia
+13:Gardevoir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,73.3333333333%,9.53333333333
+2:Pursuit,26.6666666667%,3.46666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,23.0769230769%,3.0
+2:Dazzling Gleam,23.0769230769%,3.0
+3:Water Spout,15.3846153846%,2.0
+4:Precipice Blades,7.69230769231%,1.0
+5:Power Whip,7.69230769231%,1.0
+6:Flash Cannon,7.69230769231%,1.0
+7:Eruption,7.69230769231%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Yveltal
+5:Gothitelle
+6:Bronzong
+7:Rayquaza
+8:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Ferrothorn
+5:Dialga

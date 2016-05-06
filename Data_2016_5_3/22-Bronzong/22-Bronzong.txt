@@ -1,0 +1,170 @@
+22:Bronzong|11550
+ ---------- 
+Moves used:
+1:Trick Room,99.7662337662%,11523.0
+2:Gyro Ball,96.7012987013%,11169.0
+3:Skill Swap,69.1774891775%,7990.0
+4:Gravity,49.4372294372%,5710.0
+5:Hypnosis,30.4329004329%,3515.0
+6:Safeguard,23.4285714286%,2706.0
+7:Protect,22.0086580087%,2542.0
+8:Imprison,2.13852813853%,247.0
+9:Grass Knot,1.65367965368%,191.0
+10:Rock Slide,1.2380952381%,143.0
+11:Confuse Ray,0.805194805195%,93.0
+12:Swagger,0.588744588745%,68.0
+13:Light Screen,0.415584415584%,48.0
+14:Psywave,0.38961038961%,45.0
+15:Zen Headbutt,0.34632034632%,40.0
+16:Explosion,0.320346320346%,37.0
+17:Flash Cannon,0.285714285714%,33.0
+18:Psychic,0.21645021645%,25.0
+19:Hidden Power,0.12987012987%,15.0
+20:Reflect,0.121212121212%,14.0
+0:Other,0.398268398268%,46.0
+
+ ---------- 
+Items used:
+1:Lum Berry,60.0432900433%,6935.0
+2:Mental Herb,30.8225108225%,3560.0
+3:Sitrus Berry,2.98701298701%,345.0
+4:Occa Berry,2.01731601732%,233.0
+5:Chesto Berry,1.65367965368%,191.0
+6:Shuca Berry,0.640692640693%,74.0
+7:Power Bracer,0.493506493506%,57.0
+8:Leftovers,0.251082251082%,29.0
+9:Macho Brace,0.147186147186%,17.0
+10:Focus Sash,0.138528138528%,16.0
+11:Normal Gem,0.103896103896%,12.0
+12:Expert Belt,0.0865800865801%,10.0
+13:Choice Band,0.0865800865801%,10.0
+14:Power Belt,0.0692640692641%,8.0
+15:Colbur Berry,0.0692640692641%,8.0
+16:Bright Powder,0.0519480519481%,6.0
+17:Safety Goggles,0.04329004329%,5.0
+18:Power Lens,0.04329004329%,5.0
+19:Iron Ball,0.04329004329%,5.0
+20:Zoom Lens,0.034632034632%,4.0
+0:Other,0.0952380952381%,11.0
+
+ ---------- 
+Abilities used:
+1:Levitate,84.5800865801%,9769.0
+2:Heatproof,15.3852813853%,1777.0
+3:Heavy Metal,0.034632034632%,4.0
+
+ ---------- 
+Natures used:
+1:Sassy,48.7272727273%,5628.0
+2:Brave,42.5627705628%,4916.0
+3:Relaxed,8.17316017316%,944.0
+4:Naughty,0.181818181818%,21.0
+5:Adamant,0.12987012987%,15.0
+6:Careful,0.103896103896%,12.0
+7:Impish,0.0865800865801%,10.0
+8:Quiet,0.034632034632%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Smeargle
+6:Thundurus
+7:Mawile
+8:Yveltal
+9:Xerneas
+10:Landorus
+11:Dialga
+12:Talonflame
+13:Rayquaza
+14:Gengar
+15:Crobat
+16:Weavile
+17:Sableye
+18:Amoonguss
+19:Liepard
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gyro Ball,97.5783918038%,11270.3042533
+2:Rock Slide,0.838248990997%,96.8177584601
+3:Grass Knot,0.434647624961%,50.201800683
+4:Psywave,0.279416330332%,32.2725861534
+5:Flash Cannon,0.217323812481%,25.1009003415
+6:Zen Headbutt,0.217323812481%,25.1009003415
+7:Psychic,0.217323812481%,25.1009003415
+8:Explosion,0.186277553555%,21.5150574356
+9:Struggle,0.0310462589258%,3.58584290593
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.7600362209%,1704.78418352
+2:Eruption,10.8210081497%,1249.82644129
+3:Water Spout,9.65891940839%,1115.60519167
+4:Fire Punch,7.47057047993%,862.850890432
+5:Origin Pulse,5.64443102928%,651.931783882
+6:Knock Off,4.2106851796%,486.334138243
+7:Dazzling Gleam,3.27497736191%,378.2598853
+8:Overheat,3.24479323876%,374.773619076
+9:Flare Blitz,3.19951705403%,369.54421974
+10:Sucker Punch,2.85239963779%,329.452158165
+11:Flamethrower,2.09779655901%,242.295502566
+12:Moonblast,1.99215212798%,230.093570782
+13:Shadow Ball,1.7355870812%,200.460307878
+14:Low Kick,1.69031089647%,195.230908542
+15:Foul Play,1.55448234229%,179.542710534
+16:Scald,1.47902203441%,170.827044974
+17:Extreme Speed,1.37337760338%,158.62511319
+18:Dark Pulse,1.35828554181%,156.881980078
+19:Hyper Voice,1.32810141865%,153.395713855
+20:Earth Power,1.31300935708%,151.652580743
+0:Other,17.0540295804%,1969.74041654
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Smeargle
+3:Kangaskhan
+4:Salamence
+5:Whimsicott
+6:Rayquaza
+7:Crobat
+8:Kyogre
+9:Kyurem
+10:Thundurus
+11:Talonflame
+12:Gengar
+13:Groudon
+14:Weavile
+15:Liepard
+16:Rayquaza
+17:Cresselia
+18:Gengar
+19:Landorus
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Talonflame
+6:Yveltal
+7:Rayquaza
+8:Salamence
+9:Weavile
+10:Landorus
+11:Rayquaza
+12:Thundurus
+13:Gengar
+14:Dialga
+15:Mawile
+16:Kyurem
+17:Ferrothorn
+18:Aegislash
+19:Liepard
+20:Kyogre

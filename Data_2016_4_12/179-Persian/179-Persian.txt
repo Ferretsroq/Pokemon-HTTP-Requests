@@ -1,0 +1,74 @@
+179:Persian|25
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,25.0
+2:Feint,96.0%,24.0
+3:Hypnosis,80.0%,20.0
+4:Foul Play,72.0%,18.0
+5:Taunt,36.0%,9.0
+6:Icy Wind,8.0%,2.0
+7:Knock Off,4.0%,1.0
+8:Screech,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,76.0%,19.0
+2:Mental Herb,20.0%,5.0
+3:Sitrus Berry,4.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Technician,76.0%,19.0
+2:Unnerve,24.0%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,25.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Mewtwo
+3:Ferrothorn
+4:Kyogre
+5:Heliolisk
+6:Landorus
+7:Togekiss
+8:Talonflame
+9:Groudon
+10:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,66.6666666667%,16.6666666667
+2:Foul Play,33.3333333333%,8.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.1111111111%,2.77777777778
+2:Water Spout,11.1111111111%,2.77777777778
+3:Hyper Voice,11.1111111111%,2.77777777778
+4:Rock Slide,11.1111111111%,2.77777777778
+5:Dragon Ascent,5.55555555556%,1.38888888889
+6:Ice Shard,5.55555555556%,1.38888888889
+7:Eruption,5.55555555556%,1.38888888889
+8:Fake Out,5.55555555556%,1.38888888889
+9:Extreme Speed,5.55555555556%,1.38888888889
+10:Hidden Power,5.55555555556%,1.38888888889
+11:Double-Edge,5.55555555556%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Mawile
+3:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Rayquaza
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+6:Thundurus
+7:Weavile

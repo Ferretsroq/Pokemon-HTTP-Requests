@@ -1,0 +1,129 @@
+84:Togetic|179
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,179.0
+2:Tailwind,63.687150838%,114.0
+3:After You,54.748603352%,98.0
+4:Dazzling Gleam,42.4581005587%,76.0
+5:Protect,29.6089385475%,53.0
+6:Magic Coat,20.1117318436%,36.0
+7:Encore,17.8770949721%,32.0
+8:Heat Wave,16.2011173184%,29.0
+9:Thunder Wave,14.5251396648%,26.0
+10:Ancient Power,10.0558659218%,18.0
+11:Baton Pass,9.49720670391%,17.0
+12:Roost,7.82122905028%,14.0
+13:Charm,6.14525139665%,11.0
+14:Yawn,5.58659217877%,10.0
+15:Swagger,0.558659217877%,1.0
+16:Mirror Move,0.558659217877%,1.0
+17:Flamethrower,0.558659217877%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,179.0
+
+ ---------- 
+Abilities used:
+1:Serene Grace,61.4525139665%,110.0
+2:Super Luck,37.4301675978%,67.0
+3:Hustle,1.11731843575%,2.0
+
+ ---------- 
+Natures used:
+1:Bold,54.748603352%,98.0
+2:Relaxed,20.1117318436%,36.0
+3:Calm,14.5251396648%,26.0
+4:Sassy,9.49720670391%,17.0
+5:Impish,1.11731843575%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Kyogre
+4:Groudon
+5:Kangaskhan
+6:Raichu
+7:Weavile
+8:Palkia
+9:Scizor
+10:Gengar
+11:Salamence
+12:Crobat
+13:Rhyperior
+14:Talonflame
+15:Landorus
+16:Ferrothorn
+17:Infernape
+18:Smeargle
+19:Liepard
+20:Raikou
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,68.4210526316%,122.473684211
+2:Heat Wave,21.0526315789%,37.6842105263
+3:Ancient Power,10.5263157895%,18.8421052632
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,10.3703703704%,18.562962963
+2:Rock Slide,8.88888888889%,15.9111111111
+3:Water Spout,6.66666666667%,11.9333333333
+4:Iron Head,5.92592592593%,10.6074074074
+5:Ice Beam,5.92592592593%,10.6074074074
+6:Double-Edge,5.18518518519%,9.28148148148
+7:Origin Pulse,4.44444444444%,7.95555555556
+8:Brave Bird,4.44444444444%,7.95555555556
+9:Gyro Ball,4.44444444444%,7.95555555556
+10:Return,4.44444444444%,7.95555555556
+11:Eruption,3.7037037037%,6.62962962963
+12:Thunderbolt,3.7037037037%,6.62962962963
+13:Sludge Bomb,2.96296296296%,5.3037037037
+14:Flash Cannon,2.22222222222%,3.97777777778
+15:Thunder Punch,2.22222222222%,3.97777777778
+16:Dragon Ascent,1.48148148148%,2.65185185185
+17:Moonblast,1.48148148148%,2.65185185185
+18:Icicle Crash,1.48148148148%,2.65185185185
+19:Scald,1.48148148148%,2.65185185185
+20:Hyper Voice,1.48148148148%,2.65185185185
+0:Other,16.2962962963%,29.1703703704
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Xerneas
+3:Talonflame
+4:Smeargle
+5:Kyurem
+6:Hydreigon
+7:Whimsicott
+8:Liepard
+9:Cresselia
+10:Sableye
+11:Kangaskhan
+12:Slowbro
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Mawile
+6:Talonflame
+7:Ferrothorn
+8:Dialga
+9:Rayquaza
+10:Salamence
+11:Landorus
+12:Thundurus
+13:Weavile
+14:Gengar
+15:Aegislash
+16:Cresselia
+17:Ho-Oh
+18:Gengar
+19:Raichu
+20:Yveltal

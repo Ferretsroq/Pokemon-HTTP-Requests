@@ -1,0 +1,89 @@
+155:Riolu|34
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,34.0
+2:Feint,52.9411764706%,18.0
+3:Screech,52.9411764706%,18.0
+4:Force Palm,50.0%,17.0
+5:Final Gambit,47.0588235294%,16.0
+6:Swagger,47.0588235294%,16.0
+7:Low Kick,47.0588235294%,16.0
+8:Role Play,2.94117647059%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,97.0588235294%,33.0
+2:Focus Sash,2.94117647059%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Jolly,97.0588235294%,33.0
+2:Impish,2.94117647059%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Xerneas
+3:Smeargle
+4:Kyogre
+5:Bisharp
+6:Lugia
+7:Dugtrio
+8:Yveltal
+9:Talonflame
+10:Cryogonal
+11:Amoonguss
+12:Groudon
+13:Aerodactyl
+14:Heliolisk
+15:Terrakion
+16:Medicham
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,14.2857142857%,4.85714285714
+2:Precipice Blades,10.7142857143%,3.64285714286
+3:Eruption,10.7142857143%,3.64285714286
+4:Dazzling Gleam,7.14285714286%,2.42857142857
+5:Moonblast,7.14285714286%,2.42857142857
+6:Extreme Speed,7.14285714286%,2.42857142857
+7:Origin Pulse,3.57142857143%,1.21428571429
+8:Power-Up Punch,3.57142857143%,1.21428571429
+9:Psystrike,3.57142857143%,1.21428571429
+10:Gunk Shot,3.57142857143%,1.21428571429
+11:Brave Bird,3.57142857143%,1.21428571429
+12:Dark Pulse,3.57142857143%,1.21428571429
+13:Water Spout,3.57142857143%,1.21428571429
+14:Frustration,3.57142857143%,1.21428571429
+15:Icy Wind,3.57142857143%,1.21428571429
+16:Thunderbolt,3.57142857143%,1.21428571429
+17:Ice Beam,3.57142857143%,1.21428571429
+18:Double-Edge,3.57142857143%,1.21428571429
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Kangaskhan
+5:Greninja
+6:Yveltal
+7:Talonflame
+8:Thundurus
+9:Whimsicott
+10:Rayquaza
+11:Rayquaza
+12:Kyogre
+13:Kyogre
+14:Mewtwo
+15:Gengar

@@ -1,0 +1,62 @@
+266:Articuno|8
+ ---------- 
+Moves used:
+1:Freeze-Dry,100.0%,8.0
+2:Hurricane,87.5%,7.0
+3:Ice Shard,87.5%,7.0
+4:Sheer Cold,75.0%,6.0
+5:Water Pulse,25.0%,2.0
+6:Protect,25.0%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,75.0%,6.0
+2:Icicle Plate,12.5%,1.0
+3:Expert Belt,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,75.0%,6.0
+2:Snow Cloak,25.0%,2.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,8.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Liepard
+3:Aegislash
+4:Absol
+5:Whimsicott
+6:Kyogre
+7:Cresselia
+8:Latios
+9:Latias
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sheer Cold,66.6666666667%,5.33333333333
+2:Ice Shard,33.3333333333%,2.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,50.0%,4.0
+2:Brave Bird,16.6666666667%,1.33333333333
+3:Gyro Ball,16.6666666667%,1.33333333333
+4:Sacred Fire,16.6666666667%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Landorus
+4:Bronzong
+5:Ho-Oh

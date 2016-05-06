@@ -1,0 +1,44 @@
+251:Drifblim|3
+ ---------- 
+Moves used:
+1:Swagger,100.0%,3.0
+2:Minimize,100.0%,3.0
+3:Magic Coat,66.6666666667%,2.0
+4:Shadow Ball,66.6666666667%,2.0
+5:Stockpile,33.3333333333%,1.0
+6:Substitute,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,3.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Liepard
+4:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Knock Off,50.0%,1.5
+2:Thunderbolt,50.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Rotom
+2:Weavile

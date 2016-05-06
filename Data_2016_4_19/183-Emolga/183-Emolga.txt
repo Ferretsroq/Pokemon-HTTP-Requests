@@ -1,0 +1,73 @@
+183:Emolga|26
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,26.0
+2:Tailwind,100.0%,26.0
+3:Helping Hand,100.0%,26.0
+4:Encore,84.6153846154%,22.0
+5:Ion Deluge,15.3846153846%,4.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,26.0
+
+ ---------- 
+Abilities used:
+1:Motor Drive,92.3076923077%,24.0
+2:Static,7.69230769231%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,73.0769230769%,19.0
+2:Jolly,26.9230769231%,7.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Bronzong
+5:Scrafty
+6:Lopunny
+7:Salamence
+8:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,15.7894736842%,4.10526315789
+2:Dazzling Gleam,10.5263157895%,2.73684210526
+3:Gyro Ball,10.5263157895%,2.73684210526
+4:Origin Pulse,5.26315789474%,1.36842105263
+5:Snarl,5.26315789474%,1.36842105263
+6:Brave Bird,5.26315789474%,1.36842105263
+7:Close Combat,5.26315789474%,1.36842105263
+8:Water Spout,5.26315789474%,1.36842105263
+9:Hyper Voice,5.26315789474%,1.36842105263
+10:Eruption,5.26315789474%,1.36842105263
+11:Extreme Speed,5.26315789474%,1.36842105263
+12:Icy Wind,5.26315789474%,1.36842105263
+13:Sludge Bomb,5.26315789474%,1.36842105263
+14:Rock Slide,5.26315789474%,1.36842105263
+15:Ice Beam,5.26315789474%,1.36842105263
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Kangaskhan
+6:Yveltal
+7:Talonflame
+8:Ferrothorn
+9:Bronzong
+10:Infernape
+11:Rayquaza
+12:Gyarados
+13:Gengar

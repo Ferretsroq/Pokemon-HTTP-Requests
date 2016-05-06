@@ -1,0 +1,157 @@
+37:Greninja|967
+ ---------- 
+Moves used:
+1:Ice Beam,85.2119958635%,824.0
+2:Gunk Shot,69.0796277146%,668.0
+3:Protect,61.3236814891%,593.0
+4:Low Kick,54.8086866598%,530.0
+5:Grass Knot,34.8500517063%,337.0
+6:Water Shuriken,20.7859358842%,201.0
+7:Rock Slide,16.0289555326%,155.0
+8:Dark Pulse,15.7187176836%,152.0
+9:Scald,12.4095139607%,120.0
+10:Mat Block,7.44570837642%,72.0
+11:Blizzard,3.92967942089%,38.0
+12:Surf,3.82626680455%,37.0
+13:Hidden Power,3.30920372285%,32.0
+14:Shadow Sneak,2.8955532575%,28.0
+15:Snatch,2.8955532575%,28.0
+16:Ice Punch,1.75801447777%,17.0
+17:Smack Down,1.13753877973%,11.0
+18:Rock Tomb,0.827300930714%,8.0
+19:Taunt,0.517063081696%,5.0
+20:Hydro Pump,0.517063081696%,5.0
+0:Other,0.723888314374%,7.0
+
+ ---------- 
+Items used:
+1:Life Orb,74.0434332989%,716.0
+2:Focus Sash,14.8914167528%,144.0
+3:Expert Belt,8.89348500517%,86.0
+4:Lum Berry,1.24095139607%,12.0
+5:King's Rock,0.413650465357%,4.0
+6:Choice Scarf,0.206825232678%,2.0
+7:Choice Specs,0.103412616339%,1.0
+
+ ---------- 
+Abilities used:
+1:Protean,100.0%,967.0
+
+ ---------- 
+Natures used:
+1:Naive,44.9844881075%,435.0
+2:Timid,24.3019648397%,235.0
+3:Jolly,15.0982419855%,146.0
+4:Hasty,8.27300930714%,80.0
+5:Adamant,7.23888314374%,70.0
+6:Modest,0.103412616339%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Crobat
+6:Talonflame
+7:Yveltal
+8:Xerneas
+9:Mawile
+10:Ferrothorn
+11:Salamence
+12:Whimsicott
+13:Liepard
+14:Thundurus
+15:Sableye
+16:Mewtwo
+17:Cresselia
+18:Togekiss
+19:Smeargle
+20:Mienshao
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,36.9718309859%,357.517605634
+2:Low Kick,21.1267605634%,204.295774648
+3:Gunk Shot,12.8521126761%,124.279929577
+4:Water Shuriken,7.04225352113%,68.0985915493
+5:Grass Knot,7.04225352113%,68.0985915493
+6:Rock Slide,6.8661971831%,66.3961267606
+7:Blizzard,2.28873239437%,22.1320422535
+8:Dark Pulse,2.11267605634%,20.4295774648
+9:Scald,1.76056338028%,17.0246478873
+10:Surf,1.05633802817%,10.2147887324
+11:Hidden Power,0.352112676056%,3.40492957746
+12:Shadow Sneak,0.176056338028%,1.70246478873
+13:Hydro Pump,0.176056338028%,1.70246478873
+14:Ice Punch,0.176056338028%,1.70246478873
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.976945245%,135.157060519
+2:Water Spout,7.20461095101%,69.6685878963
+3:Precipice Blades,7.06051873199%,68.2752161383
+4:Brave Bird,5.76368876081%,55.734870317
+5:Origin Pulse,5.61959654179%,54.3414985591
+6:Double-Edge,5.04322766571%,48.7680115274
+7:Extreme Speed,3.6023054755%,34.8342939481
+8:Sucker Punch,3.45821325648%,33.4409221902
+9:Eruption,3.17002881844%,30.6541786744
+10:Hyper Voice,2.44956772334%,23.6873198847
+11:Return,2.44956772334%,23.6873198847
+12:Moonblast,2.30547550432%,22.2939481268
+13:Dragon Ascent,2.1613832853%,20.9005763689
+14:Gyro Ball,2.1613832853%,20.9005763689
+15:Ice Beam,2.01729106628%,19.507204611
+16:Rock Slide,1.58501440922%,15.3270893372
+17:Earth Power,1.4409221902%,13.9337175793
+18:Fire Punch,1.4409221902%,13.9337175793
+19:Play Rough,1.15273775216%,11.1469740634
+20:Dragon Pulse,1.00864553314%,9.75360230548
+0:Other,18.5878962536%,179.744956772
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Xerneas
+3:Salamence
+4:Groudon
+5:Kyogre
+6:Thundurus
+7:Smeargle
+8:Crobat
+9:Talonflame
+10:Rayquaza
+11:Landorus
+12:Amoonguss
+13:Yveltal
+14:Ferrothorn
+15:Liepard
+16:Weavile
+17:Rayquaza
+18:Dialga
+19:Kyurem
+20:Togekiss
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Rayquaza
+7:Salamence
+8:Mawile
+9:Ferrothorn
+10:Yveltal
+11:Landorus
+12:Dialga
+13:Thundurus
+14:Rayquaza
+15:Gengar
+16:Kyogre
+17:Kyurem
+18:Aegislash
+19:Greninja
+20:Liepard

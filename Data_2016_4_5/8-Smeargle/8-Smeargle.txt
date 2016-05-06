@@ -1,0 +1,184 @@
+8:Smeargle|17920
+ ---------- 
+Moves used:
+1:Dark Void,96.4341517857%,17281.0
+2:Follow Me,64.8549107143%,11622.0
+3:Spiky Shield,62.1986607143%,11146.0
+4:Fake Out,45.2064732143%,8101.0
+5:Wide Guard,44.5591517857%,7985.0
+6:Crafty Shield,24.6037946429%,4409.0
+7:Transform,24.2299107143%,4342.0
+8:King's Shield,8.08035714286%,1448.0
+9:Sheer Cold,3.42075892857%,613.0
+10:Quick Guard,2.58370535714%,463.0
+11:Feint,2.39397321429%,429.0
+12:Helping Hand,2.3046875%,413.0
+13:Trick,2.09263392857%,375.0
+14:Destiny Bond,1.88058035714%,337.0
+15:Trick Room,1.71875%,308.0
+16:Endeavor,1.51227678571%,271.0
+17:Magic Coat,1.45647321429%,261.0
+18:Tailwind,1.41183035714%,253.0
+19:Parting Shot,1.25558035714%,225.0
+20:Skill Swap,1.22767857143%,220.0
+0:Other,6.49553571429%,1164.0
+
+ ---------- 
+Items used:
+1:Focus Sash,72.1707589286%,12933.0
+2:Choice Scarf,16.4564732143%,2949.0
+3:Mental Herb,8.05803571429%,1444.0
+4:Chesto Berry,1.62388392857%,291.0
+5:Lum Berry,0.920758928571%,165.0
+6:Wide Lens,0.267857142857%,48.0
+7:Eject Button,0.228794642857%,41.0
+8:Quick Claw,0.0558035714286%,10.0
+9:Power Band,0.0279017857143%,5.0
+10:Red Card,0.0223214285714%,4.0
+11:Power Herb,0.0223214285714%,4.0
+12:Lax Incense,0.0223214285714%,4.0
+13:Leftovers,0.0111607142857%,2.0
+14:Sitrus Berry,0.0111607142857%,2.0
+15:Rocky Helmet,0.00558035714286%,1.0
+16:Salac Berry,0.00558035714286%,1.0
+
+ ---------- 
+Abilities used:
+1:Moody,62.7845982143%,11251.0
+2:Own Tempo,35.7979910714%,6415.0
+3:Technician,1.41741071429%,254.0
+
+ ---------- 
+Natures used:
+1:Jolly,41.9977678571%,7526.0
+2:Timid,32.6227678571%,5846.0
+3:Relaxed,15.0725446429%,2701.0
+4:Bold,3.59375%,644.0
+5:Sassy,2.17075892857%,389.0
+6:Calm,1.70200892857%,305.0
+7:Impish,1.09933035714%,197.0
+8:Lax,0.680803571429%,122.0
+9:Brave,0.396205357143%,71.0
+10:Naive,0.200892857143%,36.0
+11:Quiet,0.178571428571%,32.0
+12:Careful,0.172991071429%,31.0
+13:Adamant,0.0837053571429%,15.0
+14:Hardy,0.0223214285714%,4.0
+15:Hasty,0.00558035714286%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Talonflame
+5:Salamence
+6:Kyogre
+7:Rayquaza
+8:Dialga
+9:Cresselia
+10:Ferrothorn
+11:Mawile
+12:Landorus
+13:Bronzong
+14:Thundurus
+15:Liepard
+16:Gengar
+17:Lopunny
+18:Ditto
+19:Yveltal
+20:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,18.2864450128%,3276.93094629
+2:Sheer Cold,13.1713554987%,2360.30690537
+3:Fake Out,9.71867007673%,1741.58567775
+4:Moonblast,6.01023017903%,1077.03324808
+5:Precipice Blades,5.49872122762%,985.37084399
+6:Hyper Voice,3.9641943734%,710.383631714
+7:Water Spout,2.94117647059%,527.058823529
+8:Struggle,2.68542199488%,481.227621483
+9:Origin Pulse,2.55754475703%,458.31202046
+10:Eruption,2.55754475703%,458.31202046
+11:Dragon Ascent,2.42966751918%,435.396419437
+12:Earth Power,2.30179028133%,412.480818414
+13:Double-Edge,2.17391304348%,389.565217391
+14:Ice Beam,1.79028132992%,320.818414322
+15:Feint,1.66240409207%,297.902813299
+16:Thunder,1.53452685422%,274.987212276
+17:Draco Meteor,1.40664961637%,252.071611253
+18:Extreme Speed,1.40664961637%,252.071611253
+19:Destiny Bond,1.40664961637%,252.071611253
+20:Low Kick,1.40664961637%,252.071611253
+0:Other,15.0895140665%,2704.04092072
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,9.32042192634%,1670.2196092
+2:Dazzling Gleam,8.92270447864%,1598.94864257
+3:Precipice Blades,6.50181566661%,1165.12536746
+4:Brave Bird,5.10980459969%,915.676984264
+5:Water Spout,4.98876015909%,893.985820508
+6:Ice Beam,4.69479508905%,841.307279958
+7:Hyper Voice,4.50458239668%,807.221165485
+8:Low Kick,4.47864430227%,802.573058966
+9:Eruption,3.7091475013%,664.679232232
+10:Gyro Ball,2.74079197648%,491.149922186
+11:Origin Pulse,2.7062078506%,484.952446827
+12:Moonblast,2.69756181913%,483.403077987
+13:Return,2.61110150441%,467.90938959
+14:Sludge Bomb,2.35172056026%,421.428324399
+15:Extreme Speed,2.31713643438%,415.23084904
+16:Thunderbolt,2.29119833996%,410.582742521
+17:Fire Punch,1.89348089227%,339.311775895
+18:Iron Head,1.66868407401%,299.028186063
+19:Earth Power,1.48711741311%,266.491440429
+20:Power-Up Punch,1.33148884662%,238.602801314
+0:Other,20.517032682%,3676.65225661
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Salamence
+5:Smeargle
+6:Kangaskhan
+7:Talonflame
+8:Thundurus
+9:Rayquaza
+10:Crobat
+11:Liepard
+12:Gengar
+13:Cresselia
+14:Whimsicott
+15:Landorus
+16:Ferrothorn
+17:Mawile
+18:Gengar
+19:Bronzong
+20:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Thundurus
+9:Landorus
+10:Gengar
+11:Ferrothorn
+12:Dialga
+13:Mawile
+14:Cresselia
+15:Bronzong
+16:Yveltal
+17:Rayquaza
+18:Gengar
+19:Weavile
+20:Kyurem

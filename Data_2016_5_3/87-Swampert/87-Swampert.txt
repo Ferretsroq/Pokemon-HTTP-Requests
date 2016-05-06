@@ -1,0 +1,163 @@
+87:Swampert|322
+ ---------- 
+Moves used:
+1:Wide Guard,58.0745341615%,187.0
+2:Earthquake,50.6211180124%,163.0
+3:Protect,45.9627329193%,148.0
+4:Waterfall,45.3416149068%,146.0
+5:Earth Power,42.2360248447%,136.0
+6:Ice Punch,37.5776397516%,121.0
+7:Ice Beam,33.5403726708%,108.0
+8:Scald,23.9130434783%,77.0
+9:Rock Tomb,9.62732919255%,31.0
+10:Icy Wind,8.07453416149%,26.0
+11:Focus Blast,5.27950310559%,17.0
+12:Low Kick,5.27950310559%,17.0
+13:Rock Slide,4.65838509317%,15.0
+14:Superpower,4.34782608696%,14.0
+15:Mirror Coat,4.34782608696%,14.0
+16:Yawn,4.03726708075%,13.0
+17:Hammer Arm,3.41614906832%,11.0
+18:Rain Dance,3.41614906832%,11.0
+19:Curse,3.10559006211%,10.0
+20:Stealth Rock,2.7950310559%,9.0
+0:Other,4.34782608696%,14.0
+
+ ---------- 
+Items used:
+1:Swampertite,58.3850931677%,188.0
+2:Sitrus Berry,16.4596273292%,53.0
+3:Expert Belt,9.00621118012%,29.0
+4:Life Orb,4.96894409938%,16.0
+5:Lum Berry,3.72670807453%,12.0
+6:Leftovers,2.7950310559%,9.0
+7:Rocky Helmet,1.55279503106%,5.0
+8:Assault Vest,1.24223602484%,4.0
+9:Focus Sash,0.621118012422%,2.0
+10:Choice Specs,0.310559006211%,1.0
+
+ ---------- 
+Abilities used:
+1:Torrent,90.9937888199%,293.0
+2:Damp,9.00621118012%,29.0
+
+ ---------- 
+Natures used:
+1:Adamant,51.2422360248%,165.0
+2:Modest,20.1863354037%,65.0
+3:Quiet,8.69565217391%,28.0
+4:Bold,7.14285714286%,23.0
+5:Jolly,4.65838509317%,15.0
+6:Calm,3.41614906832%,11.0
+7:Sassy,2.48447204969%,8.0
+8:Relaxed,1.24223602484%,4.0
+9:Hardy,0.931677018634%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Talonflame
+5:Weavile
+6:Yveltal
+7:Xerneas
+8:Ferrothorn
+9:Dialga
+10:Salamence
+11:Thundurus
+12:Ditto
+13:Ho-Oh
+14:Giratina
+15:Crobat
+16:Kangaskhan
+17:Meowstic
+18:Scizor
+19:Whimsicott
+20:Cradily
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,27.4285714286%,88.32
+2:Earth Power,20.0%,64.4
+3:Waterfall,15.4285714286%,49.68
+4:Ice Beam,10.8571428571%,34.96
+5:Ice Punch,10.2857142857%,33.12
+6:Scald,6.85714285714%,22.08
+7:Low Kick,3.42857142857%,11.04
+8:Rock Tomb,1.71428571429%,5.52
+9:Icy Wind,1.71428571429%,5.52
+10:Focus Blast,0.571428571429%,1.84
+11:Hammer Arm,0.571428571429%,1.84
+12:Superpower,0.571428571429%,1.84
+13:Mirror Coat,0.571428571429%,1.84
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,9.09090909091%,29.2727272727
+2:Power Whip,7.65550239234%,24.6507177033
+3:Moonblast,6.6985645933%,21.5693779904
+4:Water Spout,6.6985645933%,21.5693779904
+5:Ice Beam,5.74162679426%,18.4880382775
+6:Dragon Ascent,4.78468899522%,15.4066985646
+7:Grass Knot,4.78468899522%,15.4066985646
+8:Double-Edge,4.30622009569%,13.8660287081
+9:Origin Pulse,3.34928229665%,10.7846889952
+10:Foul Play,3.34928229665%,10.7846889952
+11:Brave Bird,3.34928229665%,10.7846889952
+12:Sucker Punch,3.34928229665%,10.7846889952
+13:Scald,2.39234449761%,7.7033492823
+14:Earth Power,2.39234449761%,7.7033492823
+15:Eruption,2.39234449761%,7.7033492823
+16:Fire Punch,2.39234449761%,7.7033492823
+17:Dazzling Gleam,1.91387559809%,6.16267942584
+18:Hyper Voice,1.91387559809%,6.16267942584
+19:Extreme Speed,1.91387559809%,6.16267942584
+20:Dragon Pulse,1.43540669856%,4.62200956938
+0:Other,17.7033492823%,57.004784689
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Salamence
+5:Kyogre
+6:Mawile
+7:Xerneas
+8:Thundurus
+9:Smeargle
+10:Gengar
+11:Crobat
+12:Landorus
+13:Ferrothorn
+14:Liepard
+15:Dialga
+16:Bronzong
+17:Rayquaza
+18:Togekiss
+19:Raichu
+20:Yveltal
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Ferrothorn
+5:Kangaskhan
+6:Rayquaza
+7:Yveltal
+8:Salamence
+9:Mawile
+10:Talonflame
+11:Kyurem
+12:Amoonguss
+13:Rayquaza
+14:Palkia
+15:Dialga
+16:Cresselia
+17:Bronzong
+18:Smeargle
+19:Gengar
+20:Gengar

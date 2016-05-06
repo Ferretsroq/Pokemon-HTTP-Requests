@@ -1,0 +1,129 @@
+76:Porygon-Z|141
+ ---------- 
+Moves used:
+1:Hyper Beam,100.0%,141.0
+2:Uproar,75.1773049645%,106.0
+3:Tri Attack,73.0496453901%,103.0
+4:Trick,71.6312056738%,101.0
+5:Protect,24.8226950355%,35.0
+6:Dark Pulse,14.1843971631%,20.0
+7:Ice Beam,14.1843971631%,20.0
+8:Trick Room,12.7659574468%,18.0
+9:Thunderbolt,8.51063829787%,12.0
+10:Thunder,3.54609929078%,5.0
+11:Magic Coat,2.12765957447%,3.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,75.1773049645%,106.0
+2:Focus Sash,24.8226950355%,35.0
+
+ ---------- 
+Abilities used:
+1:Adaptability,100.0%,141.0
+
+ ---------- 
+Natures used:
+1:Modest,87.2340425532%,123.0
+2:Timid,12.7659574468%,18.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Salamence
+3:Dialga
+4:Talonflame
+5:Xerneas
+6:Kyogre
+7:Mawile
+8:Kangaskhan
+9:Crobat
+10:Whimsicott
+11:Thundurus
+12:Cresselia
+13:Kyurem
+14:Landorus
+15:Ferrothorn
+16:Mewtwo
+17:Ditto
+18:Cobalion
+19:Lugia
+20:Nidoking
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Beam,73.9583333333%,104.28125
+2:Tri Attack,13.5416666667%,19.09375
+3:Ice Beam,7.29166666667%,10.28125
+4:Uproar,4.16666666667%,5.875
+5:Dark Pulse,1.04166666667%,1.46875
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,12.0689655172%,17.0172413793
+2:Dazzling Gleam,10.3448275862%,14.5862068966
+3:Precipice Blades,9.48275862069%,13.3706896552
+4:Fire Punch,7.75862068966%,10.9396551724
+5:Ice Beam,6.89655172414%,9.72413793103
+6:Sucker Punch,5.1724137931%,7.29310344828
+7:Origin Pulse,4.31034482759%,6.0775862069
+8:Eruption,3.44827586207%,4.86206896552
+9:Double-Edge,3.44827586207%,4.86206896552
+10:Iron Head,2.58620689655%,3.64655172414
+11:Hyper Voice,2.58620689655%,3.64655172414
+12:Knock Off,2.58620689655%,3.64655172414
+13:Dragon Ascent,1.72413793103%,2.43103448276
+14:Earth Power,1.72413793103%,2.43103448276
+15:Brave Bird,1.72413793103%,2.43103448276
+16:Dragon Pulse,1.72413793103%,2.43103448276
+17:Flare Blitz,1.72413793103%,2.43103448276
+18:Gyro Ball,1.72413793103%,2.43103448276
+19:Hidden Power,1.72413793103%,2.43103448276
+20:Rock Slide,1.72413793103%,2.43103448276
+0:Other,13.7931034483%,19.4482758621
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Kangaskhan
+4:Thundurus
+5:Landorus
+6:Crobat
+7:Xerneas
+8:Kyogre
+9:Kyurem
+10:Dialga
+11:Weavile
+12:Rayquaza
+13:Smeargle
+14:Talonflame
+15:Cresselia
+16:Yveltal
+17:Landorus
+18:Terrakion
+19:Amoonguss
+20:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Landorus
+8:Weavile
+9:Mawile
+10:Thundurus
+11:Bisharp
+12:Ferrothorn
+13:Dialga
+14:Rayquaza
+15:Yveltal
+16:Aegislash
+17:Whimsicott
+18:Lickilicky
+19:Bronzong
+20:Rayquaza

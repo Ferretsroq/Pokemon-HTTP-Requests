@@ -1,0 +1,97 @@
+174:Vaporeon|18
+ ---------- 
+Moves used:
+1:Protect,72.2222222222%,13.0
+2:Toxic,61.1111111111%,11.0
+3:Hydro Pump,50.0%,9.0
+4:Ice Beam,38.8888888889%,7.0
+5:Scald,27.7777777778%,5.0
+6:Haze,27.7777777778%,5.0
+7:Muddy Water,16.6666666667%,3.0
+8:Yawn,16.6666666667%,3.0
+9:Wish,16.6666666667%,3.0
+10:Detect,16.6666666667%,3.0
+11:Icy Wind,16.6666666667%,3.0
+12:Hyper Voice,11.1111111111%,2.0
+13:Baton Pass,11.1111111111%,2.0
+14:Acid Armor,11.1111111111%,2.0
+15:Double Team,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,61.1111111111%,11.0
+2:Sitrus Berry,33.3333333333%,6.0
+3:Life Orb,5.55555555556%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Bold,72.2222222222%,13.0
+2:Calm,11.1111111111%,2.0
+3:Modest,11.1111111111%,2.0
+4:Timid,5.55555555556%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Whimsicott
+3:Groudon
+4:Crobat
+5:Yveltal
+6:Giratina
+7:Goodra
+8:Meowstic
+9:Heatran
+10:Togekiss
+11:Rayquaza
+12:Kyogre
+13:Lugia
+14:Azumarill
+15:Xerneas
+16:Dialga
+17:Leafeon
+18:Salamence
+19:Mawile
+20:Flareon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hydro Pump,50.0%,9.0
+2:Ice Beam,25.0%,4.5
+3:Scald,12.5%,2.25
+4:Muddy Water,12.5%,2.25
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,4.5
+2:Dragon Pulse,16.6666666667%,3.0
+3:Iron Head,8.33333333333%,1.5
+4:Brave Bird,8.33333333333%,1.5
+5:Water Spout,8.33333333333%,1.5
+6:Thunder,8.33333333333%,1.5
+7:Low Kick,8.33333333333%,1.5
+8:Ice Beam,8.33333333333%,1.5
+9:Double-Edge,8.33333333333%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Thundurus
+3:Weavile
+4:Rayquaza
+5:Kyogre
+6:Mawile
+7:Crobat
+8:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Dialga
+4:Kangaskhan
+5:Talonflame
+6:Mawile

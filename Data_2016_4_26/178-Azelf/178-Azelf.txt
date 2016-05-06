@@ -1,0 +1,106 @@
+178:Azelf|44
+ ---------- 
+Moves used:
+1:Skill Swap,81.8181818182%,36.0
+2:Helping Hand,50.0%,22.0
+3:Magic Coat,43.1818181818%,19.0
+4:Ice Punch,43.1818181818%,19.0
+5:Explosion,40.9090909091%,18.0
+6:Imprison,31.8181818182%,14.0
+7:Protect,25.0%,11.0
+8:Taunt,20.4545454545%,9.0
+9:Psyshock,9.09090909091%,4.0
+10:Thunder Wave,9.09090909091%,4.0
+11:Trick Room,6.81818181818%,3.0
+12:Water Pulse,6.81818181818%,3.0
+13:Knock Off,6.81818181818%,3.0
+14:Reflect,6.81818181818%,3.0
+15:Light Screen,6.81818181818%,3.0
+16:Psychic,6.81818181818%,3.0
+17:Power-Up Punch,2.27272727273%,1.0
+18:Zen Headbutt,2.27272727273%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,86.3636363636%,38.0
+2:Normal Gem,6.81818181818%,3.0
+3:Light Clay,6.81818181818%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,44.0
+
+ ---------- 
+Natures used:
+1:Jolly,84.0909090909%,37.0
+2:Timid,15.9090909091%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Whimsicott
+3:Lucario
+4:Rayquaza
+5:Groudon
+6:Mawile
+7:Infernape
+8:Crobat
+9:Kangaskhan
+10:Yveltal
+11:Landorus
+12:Salamence
+13:Gyarados
+14:Gengar
+15:Ferrothorn
+16:Garchomp
+17:Blaziken
+18:Lugia
+19:Scizor
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,66.6666666667%,29.3333333333
+2:Ice Punch,22.2222222222%,9.77777777778
+3:Psyshock,11.1111111111%,4.88888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,16.6666666667%,7.33333333333
+2:Precipice Blades,11.1111111111%,4.88888888889
+3:Hyper Voice,11.1111111111%,4.88888888889
+4:Rock Slide,11.1111111111%,4.88888888889
+5:Dazzling Gleam,5.55555555556%,2.44444444444
+6:Dragon Ascent,2.77777777778%,1.22222222222
+7:Spacial Rend,2.77777777778%,1.22222222222
+8:Iron Head,2.77777777778%,1.22222222222
+9:Sucker Punch,2.77777777778%,1.22222222222
+10:Extreme Speed,2.77777777778%,1.22222222222
+11:Return,2.77777777778%,1.22222222222
+12:Sludge Bomb,2.77777777778%,1.22222222222
+13:Double-Edge,2.77777777778%,1.22222222222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Salamence
+3:Talonflame
+4:Ferrothorn
+5:Liepard
+6:Kangaskhan
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Rayquaza
+6:Kangaskhan
+7:Yveltal
+8:Landorus
+9:Excadrill
+10:Palkia
+11:Mawile
+12:Gengar

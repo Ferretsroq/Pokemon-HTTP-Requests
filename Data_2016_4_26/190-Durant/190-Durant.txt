@@ -1,0 +1,101 @@
+190:Durant|34
+ ---------- 
+Moves used:
+1:Iron Head,100.0%,34.0
+2:Protect,100.0%,34.0
+3:X-Scissor,91.1764705882%,31.0
+4:Rock Slide,76.4705882353%,26.0
+5:Substitute,14.7058823529%,5.0
+6:Thunder Fang,8.82352941176%,3.0
+7:Superpower,8.82352941176%,3.0
+
+ ---------- 
+Items used:
+1:Life Orb,76.4705882353%,26.0
+2:Scope Lens,14.7058823529%,5.0
+3:Wide Lens,8.82352941176%,3.0
+
+ ---------- 
+Abilities used:
+1:Hustle,100.0%,34.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,34.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Rayquaza
+5:Talonflame
+6:Greninja
+7:Terrakion
+8:Mienshao
+9:Uxie
+10:Yveltal
+11:Ho-Oh
+12:Suicune
+13:Mantine
+14:Seismitoad
+15:Smeargle
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,36.3636363636%,12.3636363636
+2:X-Scissor,36.3636363636%,12.3636363636
+3:Rock Slide,27.2727272727%,9.27272727273
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,8.69565217391%,2.95652173913
+2:Brave Bird,8.69565217391%,2.95652173913
+3:Water Spout,8.69565217391%,2.95652173913
+4:Shadow Ball,8.69565217391%,2.95652173913
+5:Dazzling Gleam,4.34782608696%,1.47826086957
+6:Moonblast,4.34782608696%,1.47826086957
+7:Fusion Flare,4.34782608696%,1.47826086957
+8:Snarl,4.34782608696%,1.47826086957
+9:Flare Blitz,4.34782608696%,1.47826086957
+10:Overheat,4.34782608696%,1.47826086957
+11:Focus Punch,4.34782608696%,1.47826086957
+12:Heat Wave,4.34782608696%,1.47826086957
+13:Rock Slide,4.34782608696%,1.47826086957
+14:Waterfall,4.34782608696%,1.47826086957
+15:Thunder,4.34782608696%,1.47826086957
+16:Thunderbolt,4.34782608696%,1.47826086957
+17:Blizzard,4.34782608696%,1.47826086957
+18:Fire Punch,4.34782608696%,1.47826086957
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Meowstic
+6:Landorus
+7:Thundurus
+8:Hydreigon
+9:Weavile
+10:Sableye
+11:Smeargle
+12:Crobat
+13:Jolteon
+14:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Kyogre
+4:Xerneas
+5:Aegislash
+6:Kyurem
+7:Yveltal
+8:Thundurus
+9:Heatran
+10:Rayquaza
+11:Manectric
+12:Mewtwo

@@ -1,0 +1,143 @@
+95:Shedinja|168
+ ---------- 
+Moves used:
+1:Protect,88.0952380952%,148.0
+2:Will-O-Wisp,70.8333333333%,119.0
+3:Toxic,43.4523809524%,73.0
+4:Phantom Force,41.0714285714%,69.0
+5:Shadow Sneak,41.0714285714%,69.0
+6:Shadow Claw,22.619047619%,38.0
+7:X-Scissor,19.6428571429%,33.0
+8:Shadow Ball,18.4523809524%,31.0
+9:Swagger,16.6666666667%,28.0
+10:Hone Claws,13.6904761905%,23.0
+11:Confuse Ray,12.5%,21.0
+12:Secret Power,4.16666666667%,7.0
+13:Struggle Bug,2.38095238095%,4.0
+14:Heal Block,2.38095238095%,4.0
+15:Spite,1.78571428571%,3.0
+16:Dig,1.19047619048%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,90.4761904762%,152.0
+2:Lum Berry,8.33333333333%,14.0
+3:Liechi Berry,1.19047619048%,2.0
+
+ ---------- 
+Abilities used:
+1:Wonder Guard,100.0%,168.0
+
+ ---------- 
+Natures used:
+1:Adamant,32.7380952381%,55.0
+2:Lonely,17.2619047619%,29.0
+3:Timid,14.880952381%,25.0
+4:Jolly,13.0952380952%,22.0
+5:Brave,11.3095238095%,19.0
+6:Hasty,5.95238095238%,10.0
+7:Naive,1.78571428571%,3.0
+8:Mild,1.19047619048%,2.0
+9:Naughty,1.19047619048%,2.0
+10:Modest,0.595238095238%,1.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Kyogre
+3:Xerneas
+4:Golduck
+5:Groudon
+6:Salamence
+7:Raichu
+8:Smeargle
+9:Yveltal
+10:Mewtwo
+11:Gothitelle
+12:Crobat
+13:Meowstic
+14:Landorus
+15:Rayquaza
+16:Talonflame
+17:Liepard
+18:Ho-Oh
+19:Cresselia
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Shadow Sneak,27.9069767442%,46.8837209302
+2:Phantom Force,25.5813953488%,42.976744186
+3:Shadow Claw,23.2558139535%,39.0697674419
+4:X-Scissor,13.9534883721%,23.4418604651
+5:Shadow Ball,9.3023255814%,15.6279069767
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,10.9589041096%,18.4109589041
+2:Fire Punch,9.58904109589%,16.1095890411
+3:Thunder,8.21917808219%,13.8082191781
+4:Brave Bird,6.84931506849%,11.5068493151
+5:Knock Off,6.84931506849%,11.5068493151
+6:Flamethrower,5.47945205479%,9.20547945205
+7:Dragon Ascent,4.1095890411%,6.90410958904
+8:Foul Play,4.1095890411%,6.90410958904
+9:Hyper Voice,4.1095890411%,6.90410958904
+10:Sucker Punch,2.7397260274%,4.60273972603
+11:Crunch,2.7397260274%,4.60273972603
+12:Oblivion Wing,1.3698630137%,2.30136986301
+13:Snarl,1.3698630137%,2.30136986301
+14:Shadow Claw,1.3698630137%,2.30136986301
+15:Beat Up,1.3698630137%,2.30136986301
+16:Aeroblast,1.3698630137%,2.30136986301
+17:Rock Slide,1.3698630137%,2.30136986301
+18:Fire Blast,1.3698630137%,2.30136986301
+19:Thunderbolt,1.3698630137%,2.30136986301
+20:Ice Beam,1.3698630137%,2.30136986301
+0:Other,4.4408920985e-16%,7.46069872548e-16
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Gengar
+3:Talonflame
+4:Groudon
+5:Crobat
+6:Thundurus
+7:Liepard
+8:Dialga
+9:Bronzong
+10:Kyogre
+11:Mawile
+12:Yveltal
+13:Aegislash
+14:Terrakion
+15:Whimsicott
+16:Cresselia
+17:Rayquaza
+18:Sableye
+19:Smeargle
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Talonflame
+3:Dialga
+4:Kyogre
+5:Kangaskhan
+6:Weavile
+7:Salamence
+8:Yveltal
+9:Liepard
+10:Rayquaza
+11:Kyurem
+12:Landorus
+13:Thundurus
+14:Ferrothorn
+15:Palkia
+16:Rayquaza
+17:Kyogre
+18:Mawile
+19:Lugia
+20:Smeargle

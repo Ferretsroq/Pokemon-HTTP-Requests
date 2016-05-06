@@ -1,0 +1,132 @@
+138:Misdreavus|88
+ ---------- 
+Moves used:
+1:Trick Room,78.4090909091%,69.0
+2:Pain Split,77.2727272727%,68.0
+3:Magic Coat,60.2272727273%,53.0
+4:Destiny Bond,52.2727272727%,46.0
+5:Icy Wind,38.6363636364%,34.0
+6:Will-O-Wisp,21.5909090909%,19.0
+7:Skill Swap,20.4545454545%,18.0
+8:Foul Play,17.0454545455%,15.0
+9:Hex,9.09090909091%,8.0
+10:Shadow Ball,6.81818181818%,6.0
+11:Power Gem,5.68181818182%,5.0
+12:Protect,5.68181818182%,5.0
+13:Curse,5.68181818182%,5.0
+14:Taunt,1.13636363636%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,52.2727272727%,46.0
+2:Eviolite,47.7272727273%,42.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,88.0
+
+ ---------- 
+Natures used:
+1:Quiet,52.2727272727%,46.0
+2:Calm,26.1363636364%,23.0
+3:Relaxed,9.09090909091%,8.0
+4:Bold,6.81818181818%,6.0
+5:Timid,5.68181818182%,5.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ho-Oh
+3:Kangaskhan
+4:Groudon
+5:Mawile
+6:Landorus
+7:Xerneas
+8:Giratina
+9:Sylveon
+10:Kyurem
+11:Ferrothorn
+12:Banette
+13:Weavile
+14:Salamence
+15:Tyrantrum
+16:Lugia
+17:Cloyster
+18:Whimsicott
+19:Cradily
+20:Sableye
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Destiny Bond,57.1428571429%,50.2857142857
+2:Icy Wind,20.0%,17.6
+3:Hex,8.57142857143%,7.54285714286
+4:Foul Play,8.57142857143%,7.54285714286
+5:Shadow Ball,5.71428571429%,5.02857142857
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,11.2676056338%,9.91549295775
+2:Origin Pulse,8.45070422535%,7.43661971831
+3:Dazzling Gleam,8.45070422535%,7.43661971831
+4:Rock Slide,7.04225352113%,6.19718309859
+5:Water Spout,5.6338028169%,4.95774647887
+6:Flamethrower,5.6338028169%,4.95774647887
+7:Precipice Blades,4.22535211268%,3.71830985915
+8:Moonblast,4.22535211268%,3.71830985915
+9:Hyper Voice,4.22535211268%,3.71830985915
+10:Thunderbolt,4.22535211268%,3.71830985915
+11:Brave Bird,2.81690140845%,2.47887323944
+12:Sucker Punch,2.81690140845%,2.47887323944
+13:Gyro Ball,2.81690140845%,2.47887323944
+14:Psychic,2.81690140845%,2.47887323944
+15:Ice Beam,2.81690140845%,2.47887323944
+16:Fire Punch,2.81690140845%,2.47887323944
+17:Dragon Ascent,1.40845070423%,1.23943661972
+18:Psystrike,1.40845070423%,1.23943661972
+19:Scald,1.40845070423%,1.23943661972
+20:Foul Play,1.40845070423%,1.23943661972
+0:Other,12.676056338%,11.1549295775
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Thundurus
+5:Ferrothorn
+6:Kyogre
+7:Salamence
+8:Smeargle
+9:Espeon
+10:Meowstic
+11:Liepard
+12:Cresselia
+13:Giratina
+14:Bronzong
+15:Rayquaza
+16:Crobat
+17:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Ferrothorn
+5:Salamence
+6:Talonflame
+7:Thundurus
+8:Kangaskhan
+9:Aegislash
+10:Darmanitan
+11:Liepard
+12:Cresselia
+13:Giratina
+14:Dialga
+15:Rotom
+16:Garchomp
+17:Rayquaza
+18:Mawile
+19:Smeargle
+20:Espeon

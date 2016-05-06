@@ -1,0 +1,61 @@
+207:Pinsir|9
+ ---------- 
+Moves used:
+1:Feint,88.8888888889%,8.0
+2:Focus Punch,88.8888888889%,8.0
+3:Protect,88.8888888889%,8.0
+4:Thief,88.8888888889%,8.0
+5:Close Combat,11.1111111111%,1.0
+6:Return,11.1111111111%,1.0
+7:Quick Attack,11.1111111111%,1.0
+8:Swords Dance,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Pinsirite,100.0%,9.0
+
+ ---------- 
+Abilities used:
+1:Hyper Cutter,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Adamant,88.8888888889%,8.0
+2:Jolly,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Aurorus
+2:Liepard
+3:Smeargle
+4:Chatot
+5:Kecleon
+6:Manectric
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,100.0%,9.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,20.0%,1.8
+2:Overheat,20.0%,1.8
+3:Eruption,20.0%,1.8
+4:Ice Beam,20.0%,1.8
+5:Fire Punch,20.0%,1.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Chandelure
+3:Weavile
+4:Rayquaza
+5:Kyogre
+6:Breloom
+7:Zapdos
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Rayquaza

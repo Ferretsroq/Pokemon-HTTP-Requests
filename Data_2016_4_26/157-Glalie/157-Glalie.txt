@@ -1,0 +1,137 @@
+157:Glalie|64
+ ---------- 
+Moves used:
+1:Protect,98.4375%,63.0
+2:Explosion,92.1875%,59.0
+3:Freeze-Dry,51.5625%,33.0
+4:Frustration,35.9375%,23.0
+5:Ice Shard,32.8125%,21.0
+6:Return,21.875%,14.0
+7:Substitute,20.3125%,13.0
+8:Earthquake,10.9375%,7.0
+9:Super Fang,7.8125%,5.0
+10:Giga Impact,6.25%,4.0
+11:Sleep Talk,6.25%,4.0
+12:Frost Breath,4.6875%,3.0
+13:Sheer Cold,3.125%,2.0
+14:Icy Wind,3.125%,2.0
+15:Disable,3.125%,2.0
+16:Toxic,1.5625%,1.0
+
+ ---------- 
+Items used:
+1:Glalitite,92.1875%,59.0
+2:Leftovers,7.8125%,5.0
+
+ ---------- 
+Abilities used:
+1:Moody,71.875%,46.0
+2:Inner Focus,23.4375%,15.0
+3:Ice Body,4.6875%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,53.125%,34.0
+2:Jolly,39.0625%,25.0
+3:Timid,7.8125%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Dusknoir
+4:Rayquaza
+5:Kyogre
+6:Crobat
+7:Xerneas
+8:Mienshao
+9:Cofagrigus
+10:Sableye
+11:Kyurem
+12:Giratina
+13:Gengar
+14:Trevenant
+15:Kangaskhan
+16:Meowstic
+17:Landorus
+18:Ferrothorn
+19:Amoonguss
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,64.8648648649%,41.5135135135
+2:Frustration,18.9189189189%,12.1081081081
+3:Freeze-Dry,5.40540540541%,3.45945945946
+4:Frost Breath,2.7027027027%,1.72972972973
+5:Ice Shard,2.7027027027%,1.72972972973
+6:Return,2.7027027027%,1.72972972973
+7:Earthquake,2.7027027027%,1.72972972973
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,6.77966101695%,4.33898305085
+2:Water Spout,5.08474576271%,3.25423728814
+3:Brave Bird,3.38983050847%,2.16949152542
+4:Sucker Punch,3.38983050847%,2.16949152542
+5:Rock Slide,3.38983050847%,2.16949152542
+6:Origin Pulse,1.69491525424%,1.08474576271
+7:Dazzling Gleam,1.69491525424%,1.08474576271
+8:Moonblast,1.69491525424%,1.08474576271
+9:Psystrike,1.69491525424%,1.08474576271
+10:Grass Knot,1.69491525424%,1.08474576271
+11:Iron Head,1.69491525424%,1.08474576271
+12:Flash Cannon,1.69491525424%,1.08474576271
+13:Gyro Ball,1.69491525424%,1.08474576271
+14:Overheat,1.69491525424%,1.08474576271
+15:Hyper Voice,1.69491525424%,1.08474576271
+16:Fake Out,1.69491525424%,1.08474576271
+17:Sacred Fire,1.69491525424%,1.08474576271
+18:Earthquake,1.69491525424%,1.08474576271
+19:Thunderbolt,1.69491525424%,1.08474576271
+20:Fire Punch,1.69491525424%,1.08474576271
+0:Other,2.39808173319e-14%,1.53477230924e-14
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Salamence
+4:Xerneas
+5:Thundurus
+6:Amoonguss
+7:Yveltal
+8:Meowstic
+9:Landorus
+10:Ferrothorn
+11:Whimsicott
+12:Liepard
+13:Giratina
+14:Weavile
+15:Infernape
+16:Rayquaza
+17:Kyogre
+18:Mawile
+19:Hitmontop
+20:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Thundurus
+6:Terrakion
+7:Archeops
+8:Dialga
+9:Weavile
+10:Bronzong
+11:Empoleon
+12:Rayquaza
+13:Rayquaza
+14:Groudon
+15:Salamence
+16:Mawile
+17:Ho-Oh
+18:Mewtwo

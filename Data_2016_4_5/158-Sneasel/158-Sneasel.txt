@@ -1,0 +1,67 @@
+158:Sneasel|1
+ ---------- 
+Moves used:
+1:Foul Play,100.0%,1.0
+2:Assist,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Ice Punch,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Giratina
+3:Mewtwo
+4:Ditto
+5:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,58.3333333333%,0.583333333333
+2:Ice Punch,41.6666666667%,0.416666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,22.2222222222%,0.222222222222
+2:Precipice Blades,16.6666666667%,0.166666666667
+3:Low Kick,16.6666666667%,0.166666666667
+4:Hyper Voice,11.1111111111%,0.111111111111
+5:Power-Up Punch,5.55555555556%,0.0555555555556
+6:Scald,5.55555555556%,0.0555555555556
+7:Dragon Claw,5.55555555556%,0.0555555555556
+8:Eruption,5.55555555556%,0.0555555555556
+9:Fire Punch,5.55555555556%,0.0555555555556
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Kangaskhan
+3:Talonflame
+4:Landorus
+5:Thundurus
+6:Liepard
+7:Rayquaza
+8:Groudon
+9:Salamence
+10:Mawile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Mienshao
+4:Salamence
+5:Rayquaza
+6:Kyogre
+7:Kangaskhan

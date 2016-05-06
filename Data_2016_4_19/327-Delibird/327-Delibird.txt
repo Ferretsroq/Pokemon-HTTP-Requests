@@ -1,0 +1,39 @@
+327:Delibird|1
+ ---------- 
+Moves used:
+1:Ice Shard,100.0%,1.0
+2:Rapid Spin,100.0%,1.0
+3:Destiny Bond,100.0%,1.0
+4:Spikes,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Hustle,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Suicune
+3:Politoed
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Thunder,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

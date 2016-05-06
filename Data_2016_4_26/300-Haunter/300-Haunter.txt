@@ -1,0 +1,39 @@
+300:Haunter|1
+ ---------- 
+Moves used:
+1:Skill Swap,100.0%,1.0
+2:Shadow Ball,100.0%,1.0
+3:Pain Split,100.0%,1.0
+4:Substitute,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Gothitelle
+2:Skitty
+3:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Sucker Punch,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

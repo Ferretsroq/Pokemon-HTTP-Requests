@@ -1,0 +1,144 @@
+59:Sceptile|778
+ ---------- 
+Moves used:
+1:Dragon Pulse,86.8894601542%,676.0
+2:Quick Guard,73.5218508997%,572.0
+3:Grass Knot,60.6683804627%,472.0
+4:Detect,44.087403599%,343.0
+5:Protect,38.9460154242%,303.0
+6:Leaf Storm,37.4035989717%,291.0
+7:Grass Whistle,20.822622108%,162.0
+8:Focus Blast,7.96915167095%,62.0
+9:Giga Drain,7.19794344473%,56.0
+10:Rock Slide,6.29820051414%,49.0
+11:Endeavor,5.26992287918%,41.0
+12:Substitute,3.21336760925%,25.0
+13:Energy Ball,1.92802056555%,15.0
+14:Safeguard,1.92802056555%,15.0
+15:Worry Seed,1.41388174807%,11.0
+16:Hidden Power,1.15681233933%,9.0
+17:Grassy Terrain,0.514138817481%,4.0
+18:Earthquake,0.385604113111%,3.0
+19:Leaf Blade,0.25706940874%,2.0
+20:Dragon Breath,0.12853470437%,1.0
+
+ ---------- 
+Items used:
+1:Sceptilite,91.1311053985%,709.0
+2:Focus Sash,7.3264781491%,57.0
+3:Miracle Seed,1.54241645244%,12.0
+
+ ---------- 
+Abilities used:
+1:Overgrow,87.5321336761%,681.0
+2:Unburden,12.4678663239%,97.0
+
+ ---------- 
+Natures used:
+1:Timid,55.1413881748%,429.0
+2:Modest,38.3033419023%,298.0
+3:Hasty,5.39845758355%,42.0
+4:Rash,1.15681233933%,9.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Talonflame
+5:Rayquaza
+6:Jolteon
+7:Crobat
+8:Mewtwo
+9:Yveltal
+10:Ferrothorn
+11:Cresselia
+12:Thundurus
+13:Kangaskhan
+14:Scizor
+15:Hitmontop
+16:Meowstic
+17:Landorus
+18:Liepard
+19:Togekiss
+20:Infernape
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dragon Pulse,46.6858789625%,363.216138329
+2:Grass Knot,31.7002881844%,246.628242075
+3:Leaf Storm,16.1383285303%,125.556195965
+4:Giga Drain,2.30547550432%,17.9365994236
+5:Rock Slide,1.72910662824%,13.4524495677
+6:Energy Ball,0.864553314121%,6.72622478386
+7:Focus Blast,0.576368876081%,4.48414985591
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,15.6370656371%,121.656370656
+2:Dazzling Gleam,9.45945945946%,73.5945945946
+3:Double-Edge,5.40540540541%,42.0540540541
+4:Gyro Ball,4.6332046332%,36.0463320463
+5:Precipice Blades,4.44015444015%,34.5444015444
+6:Dragon Ascent,3.861003861%,30.0386100386
+7:Brave Bird,3.66795366795%,28.5366795367
+8:Hidden Power,3.4749034749%,27.0347490347
+9:Hyper Voice,3.28185328185%,25.5328185328
+10:Eruption,3.28185328185%,25.5328185328
+11:Fire Punch,3.0888030888%,24.0308880309
+12:Rock Slide,2.89575289575%,22.528957529
+13:Sucker Punch,2.7027027027%,21.027027027
+14:Play Rough,2.50965250965%,19.5250965251
+15:Dragon Pulse,2.50965250965%,19.5250965251
+16:Sludge Bomb,2.50965250965%,19.5250965251
+17:Extreme Speed,2.3166023166%,18.0231660232
+18:Return,1.73745173745%,13.5173745174
+19:Icicle Crash,1.35135135135%,10.5135135135
+20:Icy Wind,1.35135135135%,10.5135135135
+0:Other,18.9189189189%,147.189189189
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Kangaskhan
+5:Xerneas
+6:Salamence
+7:Smeargle
+8:Rayquaza
+9:Landorus
+10:Thundurus
+11:Gengar
+12:Talonflame
+13:Weavile
+14:Crobat
+15:Liepard
+16:Palkia
+17:Yveltal
+18:Meowstic
+19:Greninja
+20:Kyurem
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Salamence
+7:Ferrothorn
+8:Talonflame
+9:Mawile
+10:Gengar
+11:Landorus
+12:Cresselia
+13:Weavile
+14:Dialga
+15:Rayquaza
+16:Kyurem
+17:Yveltal
+18:Thundurus
+19:Bronzong
+20:Zapdos

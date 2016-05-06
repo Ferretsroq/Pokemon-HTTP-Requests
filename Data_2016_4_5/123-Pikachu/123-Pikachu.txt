@@ -1,0 +1,108 @@
+123:Pikachu|43
+ ---------- 
+Moves used:
+1:Fake Out,97.6744186047%,42.0
+2:Volt Tackle,81.3953488372%,35.0
+3:Protect,81.3953488372%,35.0
+4:Hidden Power,51.1627906977%,22.0
+5:Feint,34.8837209302%,15.0
+6:Nuzzle,27.9069767442%,12.0
+7:Endeavor,18.6046511628%,8.0
+8:Grass Knot,4.6511627907%,2.0
+9:Knock Off,2.32558139535%,1.0
+
+ ---------- 
+Items used:
+1:Light Ball,81.3953488372%,35.0
+2:Focus Sash,18.6046511628%,8.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,100.0%,43.0
+
+ ---------- 
+Natures used:
+1:Naive,69.7674418605%,30.0
+2:Naughty,9.3023255814%,4.0
+3:Jolly,6.97674418605%,3.0
+4:Adamant,6.97674418605%,3.0
+5:Hasty,4.6511627907%,2.0
+6:Lonely,2.32558139535%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Talonflame
+4:Greninja
+5:Groudon
+6:Thundurus
+7:Scizor
+8:Xerneas
+9:Kangaskhan
+10:Amoonguss
+11:Gengar
+12:Bronzong
+13:Crobat
+14:Ferrothorn
+15:Cresselia
+16:Weavile
+17:Mawile
+18:Swampert
+19:Kingdra
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hidden Power,57.1428571429%,24.5714285714
+2:Volt Tackle,42.8571428571%,18.4285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.8888888889%,5.97222222222
+2:Sucker Punch,8.33333333333%,3.58333333333
+3:Hyper Voice,8.33333333333%,3.58333333333
+4:Precipice Blades,5.55555555556%,2.38888888889
+5:Earth Power,5.55555555556%,2.38888888889
+6:Water Spout,5.55555555556%,2.38888888889
+7:Extreme Speed,5.55555555556%,2.38888888889
+8:Earthquake,5.55555555556%,2.38888888889
+9:Double-Edge,5.55555555556%,2.38888888889
+10:Origin Pulse,2.77777777778%,1.19444444444
+11:Power Whip,2.77777777778%,1.19444444444
+12:Draco Meteor,2.77777777778%,1.19444444444
+13:Brave Bird,2.77777777778%,1.19444444444
+14:Flare Blitz,2.77777777778%,1.19444444444
+15:Sacred Fire,2.77777777778%,1.19444444444
+16:Frustration,2.77777777778%,1.19444444444
+17:Sludge Bomb,2.77777777778%,1.19444444444
+18:Blizzard,2.77777777778%,1.19444444444
+19:Fire Punch,2.77777777778%,1.19444444444
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Talonflame
+3:Cresselia
+4:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Talonflame
+5:Landorus
+6:Kyogre
+7:Salamence
+8:Mawile
+9:Greninja
+10:Ferrothorn
+11:Palkia
+12:Lopunny
+13:Rayquaza
+14:Rayquaza
+15:Kyogre
+16:Salamence
+17:Gardevoir
+18:Ho-Oh
+19:Gengar

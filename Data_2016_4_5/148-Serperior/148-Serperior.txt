@@ -1,0 +1,101 @@
+148:Serperior|25
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,25.0
+2:Glare,92.0%,23.0
+3:Taunt,68.0%,17.0
+4:Dragon Pulse,60.0%,15.0
+5:Protect,28.0%,7.0
+6:Reflect,16.0%,4.0
+7:Light Screen,12.0%,3.0
+8:Hidden Power,8.0%,2.0
+9:Worry Seed,4.0%,1.0
+10:Gastro Acid,4.0%,1.0
+11:Giga Drain,4.0%,1.0
+12:Hyper Beam,4.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,56.0%,14.0
+2:Focus Sash,36.0%,9.0
+3:Miracle Seed,4.0%,1.0
+4:Yache Berry,4.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Contrary,100.0%,25.0
+
+ ---------- 
+Natures used:
+1:Timid,96.0%,24.0
+2:Modest,4.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Weavile
+4:Groudon
+5:Kangaskhan
+6:Thundurus
+7:Meowstic
+8:Mawile
+9:Garchomp
+10:Yveltal
+11:Hydreigon
+12:Talonflame
+13:Kyurem
+14:Landorus
+15:Reshiram
+16:Tornadus
+17:Dialga
+18:Rotom
+19:Mamoswine
+20:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Leaf Storm,66.6666666667%,16.6666666667
+2:Dragon Pulse,33.3333333333%,8.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.1111111111%,2.77777777778
+2:Hyper Voice,11.1111111111%,2.77777777778
+3:Precipice Blades,5.55555555556%,1.38888888889
+4:Origin Pulse,5.55555555556%,1.38888888889
+5:Oblivion Wing,5.55555555556%,1.38888888889
+6:Moonblast,5.55555555556%,1.38888888889
+7:Spacial Rend,5.55555555556%,1.38888888889
+8:Gunk Shot,5.55555555556%,1.38888888889
+9:Air Slash,5.55555555556%,1.38888888889
+10:Flare Blitz,5.55555555556%,1.38888888889
+11:Sucker Punch,5.55555555556%,1.38888888889
+12:Gyro Ball,5.55555555556%,1.38888888889
+13:Water Spout,5.55555555556%,1.38888888889
+14:Rock Slide,5.55555555556%,1.38888888889
+15:Blizzard,5.55555555556%,1.38888888889
+16:Ice Beam,5.55555555556%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Thundurus
+3:Kyogre
+4:Salamence
+5:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Salamence
+5:Yveltal
+6:Talonflame
+7:Greninja
+8:Kyurem
+9:Palkia
+10:Togekiss
+11:Bronzong
+12:Kangaskhan

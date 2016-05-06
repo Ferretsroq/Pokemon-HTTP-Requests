@@ -1,0 +1,135 @@
+92:Empoleon|183
+ ---------- 
+Moves used:
+1:Ice Beam,61.7486338798%,113.0
+2:Scald,61.2021857923%,112.0
+3:Flash Cannon,60.6557377049%,111.0
+4:Grass Knot,59.5628415301%,109.0
+5:Aqua Jet,40.9836065574%,75.0
+6:Steel Wing,38.2513661202%,70.0
+7:Protect,38.2513661202%,70.0
+8:Swords Dance,30.6010928962%,56.0
+9:Iron Defense,7.65027322404%,14.0
+10:Knock Off,0.546448087432%,1.0
+11:Waterfall,0.546448087432%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,60.1092896175%,110.0
+2:Lum Berry,19.6721311475%,36.0
+3:Life Orb,18.5792349727%,34.0
+4:Shuca Berry,1.6393442623%,3.0
+
+ ---------- 
+Abilities used:
+1:Torrent,60.6557377049%,111.0
+2:Defiant,39.3442622951%,72.0
+
+ ---------- 
+Natures used:
+1:Modest,42.6229508197%,78.0
+2:Adamant,38.2513661202%,70.0
+3:Quiet,18.5792349727%,34.0
+4:Brave,0.546448087432%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Meowstic
+6:Cresselia
+7:Raichu
+8:Lucario
+9:Crobat
+10:Ho-Oh
+11:Salamence
+12:Xerneas
+13:Weavile
+14:Thundurus
+15:Talonflame
+16:Landorus
+17:Amoonguss
+18:Greninja
+19:Hitmontop
+20:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,27.4193548387%,50.1774193548
+2:Ice Beam,23.3870967742%,42.7983870968
+3:Scald,18.5483870968%,33.9435483871
+4:Grass Knot,10.4838709677%,19.185483871
+5:Steel Wing,10.4838709677%,19.185483871
+6:Flash Cannon,9.67741935484%,17.7096774194
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.9122807018%,27.2894736842
+2:Earthquake,9.64912280702%,17.6578947368
+3:Low Kick,9.64912280702%,17.6578947368
+4:Thunder,8.77192982456%,16.0526315789
+5:Origin Pulse,5.26315789474%,9.63157894737
+6:Earth Power,4.38596491228%,8.02631578947
+7:Power-Up Punch,3.50877192982%,6.42105263158
+8:Water Spout,3.50877192982%,6.42105263158
+9:Extreme Speed,2.63157894737%,4.81578947368
+10:Thunderbolt,2.63157894737%,4.81578947368
+11:Dazzling Gleam,1.75438596491%,3.21052631579
+12:Snarl,1.75438596491%,3.21052631579
+13:Power Whip,1.75438596491%,3.21052631579
+14:Sucker Punch,1.75438596491%,3.21052631579
+15:Hyper Voice,1.75438596491%,3.21052631579
+16:Eruption,1.75438596491%,3.21052631579
+17:Superpower,1.75438596491%,3.21052631579
+18:Dragon Ascent,0.877192982456%,1.60526315789
+19:Moonblast,0.877192982456%,1.60526315789
+20:Fusion Bolt,0.877192982456%,1.60526315789
+0:Other,14.0350877193%,25.6842105263
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kyogre
+3:Salamence
+4:Groudon
+5:Kangaskhan
+6:Talonflame
+7:Landorus
+8:Yveltal
+9:Weavile
+10:Rayquaza
+11:Smeargle
+12:Gengar
+13:Thundurus
+14:Terrakion
+15:Liepard
+16:Kyurem
+17:Whimsicott
+18:Cresselia
+19:Togekiss
+20:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Landorus
+5:Rayquaza
+6:Yveltal
+7:Thundurus
+8:Xerneas
+9:Weavile
+10:Talonflame
+11:Ferrothorn
+12:Salamence
+13:Zekrom
+14:Hydreigon
+15:Palkia
+16:Dialga
+17:Electivire
+18:Garchomp
+19:Bronzong
+20:Rayquaza

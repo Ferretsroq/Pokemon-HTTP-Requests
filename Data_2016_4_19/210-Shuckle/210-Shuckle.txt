@@ -1,0 +1,46 @@
+210:Shuckle|1
+ ---------- 
+Moves used:
+1:Infestation,100.0%,1.0
+2:After You,100.0%,1.0
+3:Helping Hand,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Calm,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Groudon
+3:Gengar
+4:Xerneas
+5:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,20.0%,0.2
+2:Eruption,20.0%,0.2
+3:Flamethrower,20.0%,0.2
+4:Double-Edge,20.0%,0.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan

@@ -1,0 +1,106 @@
+207:Absol|24
+ ---------- 
+Moves used:
+1:Sucker Punch,100.0%,24.0
+2:Feint,37.5%,9.0
+3:Knock Off,37.5%,9.0
+4:Superpower,37.5%,9.0
+5:Play Rough,25.0%,6.0
+6:Foul Play,25.0%,6.0
+7:Detect,25.0%,6.0
+8:Psycho Cut,20.8333333333%,5.0
+9:Night Slash,20.8333333333%,5.0
+10:Snatch,20.8333333333%,5.0
+11:Ice Beam,16.6666666667%,4.0
+12:Protect,12.5%,3.0
+13:Rock Slide,8.33333333333%,2.0
+14:Swords Dance,8.33333333333%,2.0
+15:Megahorn,4.16666666667%,1.0
+
+ ---------- 
+Items used:
+1:Absolite,58.3333333333%,14.0
+2:Scope Lens,20.8333333333%,5.0
+3:Choice Band,20.8333333333%,5.0
+
+ ---------- 
+Abilities used:
+1:Super Luck,45.8333333333%,11.0
+2:Pressure,29.1666666667%,7.0
+3:Justified,25.0%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,45.8333333333%,11.0
+2:Jolly,33.3333333333%,8.0
+3:Naive,20.8333333333%,5.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Kyogre
+4:Thundurus
+5:Crobat
+6:Xerneas
+7:Aegislash
+8:Excadrill
+9:Hitmontop
+10:Articuno
+11:Ferrothorn
+12:Liepard
+13:Rayquaza
+14:Kangaskhan
+15:Goodra
+16:Talonflame
+17:Diggersby
+18:Mienshao
+19:Togekiss
+20:Rhyperior
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sucker Punch,75.0%,18.0
+2:Night Slash,12.5%,3.0
+3:Knock Off,12.5%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,10.0%,2.4
+2:Dazzling Gleam,10.0%,2.4
+3:Gyro Ball,10.0%,2.4
+4:Eruption,10.0%,2.4
+5:Precipice Blades,5.0%,1.2
+6:Moonblast,5.0%,1.2
+7:Play Rough,5.0%,1.2
+8:Brave Bird,5.0%,1.2
+9:Sucker Punch,5.0%,1.2
+10:Water Spout,5.0%,1.2
+11:Overheat,5.0%,1.2
+12:Hyper Voice,5.0%,1.2
+13:Rock Slide,5.0%,1.2
+14:Earthquake,5.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Landorus
+3:Thundurus
+4:Palkia
+5:Groudon
+6:Sceptile
+7:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Ferrothorn
+4:Kyogre
+5:Talonflame
+6:Landorus
+7:Kyogre
+8:Salamence
+9:Mawile
+10:Houndoom
+11:Kangaskhan

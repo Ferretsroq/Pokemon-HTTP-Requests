@@ -1,0 +1,165 @@
+39:Terrakion|1749
+ ---------- 
+Moves used:
+1:Rock Slide,99.1423670669%,1734.0
+2:Close Combat,91.5951972556%,1602.0
+3:Protect,74.8999428245%,1310.0
+4:Earthquake,29.4453973699%,515.0
+5:Quick Guard,28.6449399657%,501.0
+6:Double Kick,24.9285305889%,436.0
+7:Iron Head,10.5202973128%,184.0
+8:Taunt,10.3487707261%,181.0
+9:Quick Attack,9.5483133219%,167.0
+10:Stone Edge,6.97541452258%,122.0
+11:Sacred Sword,4.17381360778%,73.0
+12:Helping Hand,2.68724985706%,47.0
+13:X-Scissor,1.60091480846%,28.0
+14:Poison Jab,1.60091480846%,28.0
+15:Swords Dance,1.14351057747%,20.0
+16:Safeguard,0.971983990852%,17.0
+17:Rock Tomb,0.457404230989%,8.0
+18:Bulldoze,0.343053173242%,6.0
+19:Leer,0.343053173242%,6.0
+20:Reflect,0.285877644368%,5.0
+0:Other,0.343053173242%,6.0
+
+ ---------- 
+Items used:
+1:Lum Berry,51.8010291595%,906.0
+2:Life Orb,17.2670097198%,302.0
+3:Choice Scarf,14.465408805%,253.0
+4:Focus Sash,8.80503144654%,154.0
+5:Chople Berry,2.00114351058%,35.0
+6:White Herb,0.971983990852%,17.0
+7:Sitrus Berry,0.914808461978%,16.0
+8:Expert Belt,0.743281875357%,13.0
+9:Wide Lens,0.686106346484%,12.0
+10:Shuca Berry,0.62893081761%,11.0
+11:Roseli Berry,0.400228702115%,7.0
+12:Assault Vest,0.228702115495%,4.0
+13:Choice Band,0.228702115495%,4.0
+14:Babiri Berry,0.171526586621%,3.0
+15:Cheri Berry,0.171526586621%,3.0
+16:King's Rock,0.114351057747%,2.0
+17:Air Balloon,0.0571755288736%,1.0
+18:Stone Plate,0.0571755288736%,1.0
+19:Black Belt,0.0571755288736%,1.0
+20:Focus Band,0.0571755288736%,1.0
+
+ ---------- 
+Abilities used:
+1:Justified,100.0%,1749.0
+
+ ---------- 
+Natures used:
+1:Jolly,84.162378502%,1472.0
+2:Adamant,13.7793024585%,241.0
+3:Hasty,1.82961692396%,32.0
+4:Impish,0.114351057747%,2.0
+5:Rash,0.0571755288736%,1.0
+6:Naughty,0.0571755288736%,1.0
+
+ ---------- 
+Top teammates:
+1:Whimsicott
+2:Kyogre
+3:Rayquaza
+4:Groudon
+5:Xerneas
+6:Salamence
+7:Gengar
+8:Weavile
+9:Yveltal
+10:Smeargle
+11:Ferrothorn
+12:Kangaskhan
+13:Thundurus
+14:Talonflame
+15:Mawile
+16:Crobat
+17:Cresselia
+18:Dialga
+19:Amoonguss
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,58.6303284416%,1025.44444444
+2:Close Combat,29.1404612159%,509.666666667
+3:Double Kick,4.40251572327%,77.0
+4:Earthquake,3.7037037037%,64.7777777778
+5:Iron Head,1.11809923131%,19.5555555556
+6:Sacred Sword,1.04821802935%,18.3333333333
+7:Quick Attack,1.04821802935%,18.3333333333
+8:Stone Edge,0.698812019567%,12.2222222222
+9:Poison Jab,0.20964360587%,3.66666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.9230769231%,295.984615385
+2:Precipice Blades,12.1538461538%,212.570769231
+3:Water Spout,8.38461538462%,146.646923077
+4:Origin Pulse,6.38461538462%,111.666923077
+5:Low Kick,6.30769230769%,110.321538462
+6:Earth Power,4.92307692308%,86.1046153846
+7:Hyper Voice,4.38461538462%,76.6869230769
+8:Earthquake,3.15384615385%,55.1607692308
+9:Dragon Ascent,2.84615384615%,49.7792307692
+10:Gyro Ball,2.76923076923%,48.4338461538
+11:Iron Head,2.61538461538%,45.7430769231
+12:Brave Bird,2.46153846154%,43.0523076923
+13:Moonblast,2.0%,34.98
+14:Double-Edge,1.69230769231%,29.5984615385
+15:Scald,1.46153846154%,25.5623076923
+16:Flash Cannon,1.38461538462%,24.2169230769
+17:Grass Knot,1.30769230769%,22.8715384615
+18:Eruption,1.15384615385%,20.1807692308
+19:Draco Meteor,0.923076923077%,16.1446153846
+20:Extreme Speed,0.846153846154%,14.7992307692
+0:Other,14.0769230769%,246.205384615
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Salamence
+4:Smeargle
+5:Groudon
+6:Kyogre
+7:Crobat
+8:Xerneas
+9:Thundurus
+10:Ferrothorn
+11:Weavile
+12:Dialga
+13:Mawile
+14:Bronzong
+15:Gengar
+16:Kyurem
+17:Liepard
+18:Cresselia
+19:Yveltal
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Landorus
+8:Mawile
+9:Talonflame
+10:Thundurus
+11:Ferrothorn
+12:Bronzong
+13:Dialga
+14:Kyogre
+15:Weavile
+16:Kyurem
+17:Yveltal
+18:Whimsicott
+19:Mienshao
+20:Rayquaza

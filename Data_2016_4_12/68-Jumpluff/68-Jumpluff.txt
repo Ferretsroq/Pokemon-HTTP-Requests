@@ -1,0 +1,113 @@
+68:Jumpluff|292
+ ---------- 
+Moves used:
+1:Sleep Powder,98.9726027397%,289.0
+2:Rage Powder,94.1780821918%,275.0
+3:Encore,73.2876712329%,214.0
+4:Protect,69.1780821918%,202.0
+5:Helping Hand,31.1643835616%,91.0
+6:Worry Seed,19.1780821918%,56.0
+7:Grass Knot,6.16438356164%,18.0
+8:Cotton Spore,4.79452054795%,14.0
+9:Seed Bomb,2.39726027397%,7.0
+10:Reflect,0.684931506849%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,64.0410958904%,187.0
+2:Mental Herb,17.1232876712%,50.0
+3:Wide Lens,10.6164383562%,31.0
+4:Rocky Helmet,8.21917808219%,24.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,98.6301369863%,288.0
+2:Infiltrator,0.684931506849%,2.0
+3:Leaf Guard,0.684931506849%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,84.5890410959%,247.0
+2:Bold,8.21917808219%,24.0
+3:Jolly,6.50684931507%,19.0
+4:Calm,0.684931506849%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyurem
+4:Xerneas
+5:Talonflame
+6:Kyogre
+7:Salamence
+8:Cresselia
+9:Rayquaza
+10:Ferrothorn
+11:Mienshao
+12:Dialga
+13:Meowstic
+14:Sableye
+15:Palkia
+16:Gengar
+17:Togekiss
+18:Mawile
+19:Crobat
+20:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,50.0%,146.0
+2:Struggle,50.0%,146.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,10.6951871658%,31.2299465241
+2:Dazzling Gleam,9.6256684492%,28.1069518717
+3:Hyper Voice,9.6256684492%,28.1069518717
+4:Ice Beam,9.6256684492%,28.1069518717
+5:Brave Bird,6.41711229947%,18.7379679144
+6:Eruption,5.34759358289%,15.614973262
+7:Dragon Ascent,4.27807486631%,12.4919786096
+8:Extreme Speed,3.20855614973%,9.36898395722
+9:Rock Slide,3.20855614973%,9.36898395722
+10:Precipice Blades,2.67379679144%,7.80748663102
+11:Moonblast,2.67379679144%,7.80748663102
+12:Return,2.13903743316%,6.24598930481
+13:Sludge Bomb,2.13903743316%,6.24598930481
+14:Water Spout,1.60427807487%,4.68449197861
+15:Hidden Power,1.60427807487%,4.68449197861
+16:Blizzard,1.60427807487%,4.68449197861
+17:Spacial Rend,1.06951871658%,3.12299465241
+18:Iron Head,1.06951871658%,3.12299465241
+19:Heat Wave,1.06951871658%,3.12299465241
+20:Fake Out,1.06951871658%,3.12299465241
+0:Other,15.5080213904%,45.2834224599
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Liepard
+2:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Xerneas
+3:Groudon
+4:Salamence
+5:Kyogre
+6:Talonflame
+7:Rayquaza
+8:Cresselia
+9:Kyurem
+10:Gengar
+11:Yveltal
+12:Palkia
+13:Dialga
+14:Weavile
+15:Mawile
+16:Landorus
+17:Rayquaza
+18:Lugia
+19:Zapdos
+20:Klefki

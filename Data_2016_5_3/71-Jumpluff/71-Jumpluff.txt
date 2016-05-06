@@ -1,0 +1,119 @@
+71:Jumpluff|535
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,535.0
+2:Rage Powder,82.6168224299%,442.0
+3:Protect,81.4953271028%,436.0
+4:Encore,81.1214953271%,434.0
+5:Worry Seed,23.1775700935%,124.0
+6:Helping Hand,17.3831775701%,93.0
+7:Grass Knot,9.15887850467%,49.0
+8:Cotton Spore,2.80373831776%,15.0
+9:Seed Bomb,1.4953271028%,8.0
+10:Acrobatics,0.373831775701%,2.0
+11:Reflect,0.373831775701%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,69.1588785047%,370.0
+2:Mental Herb,15.3271028037%,82.0
+3:Wide Lens,9.90654205607%,53.0
+4:Rocky Helmet,5.23364485981%,28.0
+5:Sitrus Berry,0.373831775701%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,98.3177570093%,526.0
+2:Leaf Guard,1.1214953271%,6.0
+3:Infiltrator,0.560747663551%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,89.9065420561%,481.0
+2:Bold,5.23364485981%,28.0
+3:Jolly,3.92523364486%,21.0
+4:Calm,0.560747663551%,3.0
+5:Impish,0.373831775701%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Salamence
+5:Dialga
+6:Kyurem
+7:Mawile
+8:Kyogre
+9:Talonflame
+10:Cresselia
+11:Palkia
+12:Rayquaza
+13:Yveltal
+14:Mienshao
+15:Ferrothorn
+16:Sableye
+17:Ditto
+18:Gengar
+19:Togekiss
+20:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,66.6666666667%,356.666666667
+2:Acrobatics,16.6666666667%,89.1666666667
+3:Struggle,16.6666666667%,89.1666666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,9.83146067416%,52.5983146067
+2:Dazzling Gleam,9.26966292135%,49.5926966292
+3:Ice Beam,9.26966292135%,49.5926966292
+4:Hyper Voice,8.14606741573%,43.5814606742
+5:Brave Bird,6.1797752809%,33.0617977528
+6:Eruption,5.05617977528%,27.0505617978
+7:Rock Slide,4.49438202247%,24.0449438202
+8:Extreme Speed,3.08988764045%,16.5308988764
+9:Water Spout,2.80898876404%,15.0280898876
+10:Fire Punch,2.80898876404%,15.0280898876
+11:Moonblast,2.52808988764%,13.5252808989
+12:Sludge Bomb,2.24719101124%,12.0224719101
+13:Dragon Ascent,1.96629213483%,10.5196629213
+14:Precipice Blades,1.68539325843%,9.01685393258
+15:Origin Pulse,1.68539325843%,9.01685393258
+16:Return,1.68539325843%,9.01685393258
+17:Iron Head,1.40449438202%,7.51404494382
+18:Fake Out,1.40449438202%,7.51404494382
+19:Hidden Power,1.40449438202%,7.51404494382
+20:Blizzard,1.40449438202%,7.51404494382
+0:Other,19.9438202247%,106.699438202
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Liepard
+4:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Rayquaza
+8:Yveltal
+9:Cresselia
+10:Kyurem
+11:Gengar
+12:Landorus
+13:Mawile
+14:Palkia
+15:Weavile
+16:Rayquaza
+17:Dialga
+18:Zapdos
+19:Thundurus
+20:Ferrothorn

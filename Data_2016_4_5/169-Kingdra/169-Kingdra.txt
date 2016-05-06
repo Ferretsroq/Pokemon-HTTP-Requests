@@ -1,0 +1,95 @@
+169:Kingdra|19
+ ---------- 
+Moves used:
+1:Draco Meteor,73.6842105263%,14.0
+2:Protect,73.6842105263%,14.0
+3:Hidden Power,57.8947368421%,11.0
+4:Focus Energy,57.8947368421%,11.0
+5:Ice Beam,36.8421052632%,7.0
+6:Scald,26.3157894737%,5.0
+7:Dragon Pulse,26.3157894737%,5.0
+8:Flash Cannon,15.7894736842%,3.0
+9:Surf,15.7894736842%,3.0
+10:Hydro Pump,15.7894736842%,3.0
+
+ ---------- 
+Items used:
+1:Scope Lens,57.8947368421%,11.0
+2:Life Orb,21.0526315789%,4.0
+3:Choice Specs,15.7894736842%,3.0
+4:Lum Berry,5.26315789474%,1.0
+
+ ---------- 
+Abilities used:
+1:Sniper,57.8947368421%,11.0
+2:Swift Swim,42.1052631579%,8.0
+
+ ---------- 
+Natures used:
+1:Quiet,57.8947368421%,11.0
+2:Modest,42.1052631579%,8.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Infernape
+3:Landorus
+4:Zekrom
+5:Kyogre
+6:Whimsicott
+7:Ferrothorn
+8:Liepard
+9:Lucario
+10:Rayquaza
+11:Groudon
+12:Xerneas
+13:Meowstic
+14:Volcarona
+15:Amoonguss
+16:Metagross
+17:Cradily
+18:Ho-Oh
+19:Crobat
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Draco Meteor,78.5714285714%,14.9285714286
+2:Dragon Pulse,14.2857142857%,2.71428571429
+3:Hidden Power,7.14285714286%,1.35714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,21.4285714286%,4.07142857143
+2:Dragon Pulse,14.2857142857%,2.71428571429
+3:Ice Beam,14.2857142857%,2.71428571429
+4:Dragon Ascent,7.14285714286%,1.35714285714
+5:Play Rough,7.14285714286%,1.35714285714
+6:Power Whip,7.14285714286%,1.35714285714
+7:Thunder,7.14285714286%,1.35714285714
+8:Thunderbolt,7.14285714286%,1.35714285714
+9:Double-Edge,7.14285714286%,1.35714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Cresselia
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Weavile
+7:Bronzong
+8:Rayquaza
+9:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Dialga
+3:Kyogre
+4:Ferrothorn
+5:Cresselia
+6:Rayquaza
+7:Mawile
+8:Zapdos
+9:Kangaskhan

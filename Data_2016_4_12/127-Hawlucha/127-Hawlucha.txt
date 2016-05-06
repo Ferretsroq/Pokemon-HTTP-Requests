@@ -1,0 +1,105 @@
+127:Hawlucha|57
+ ---------- 
+Moves used:
+1:Fling,98.2456140351%,56.0
+2:Quick Guard,92.9824561404%,53.0
+3:Tailwind,85.9649122807%,49.0
+4:Encore,78.9473684211%,45.0
+5:Ally Switch,7.01754385965%,4.0
+6:Helping Hand,7.01754385965%,4.0
+7:High Jump Kick,7.01754385965%,4.0
+8:Acrobatics,5.26315789474%,3.0
+9:Iron Head,5.26315789474%,3.0
+10:Feather Dance,5.26315789474%,3.0
+11:Sky Drop,1.75438596491%,1.0
+12:Endeavor,1.75438596491%,1.0
+13:Protect,1.75438596491%,1.0
+14:Rock Slide,1.75438596491%,1.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,91.2280701754%,52.0
+2:Razor Fang,5.26315789474%,3.0
+3:King's Rock,1.75438596491%,1.0
+4:Coba Berry,1.75438596491%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,98.2456140351%,56.0
+2:Limber,1.75438596491%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,64.9122807018%,37.0
+2:Jolly,29.8245614035%,17.0
+3:Adamant,5.26315789474%,3.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Kyogre
+3:Kangaskhan
+4:Landorus
+5:Gengar
+6:Rayquaza
+7:Xerneas
+8:Weavile
+9:Yveltal
+10:Vivillon
+11:Thundurus
+12:Swoobat
+13:Togekiss
+14:Aron
+15:Smeargle
+16:Hitmonlee
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:High Jump Kick,100.0%,57.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,20.5128205128%,11.6923076923
+2:Hyper Voice,12.8205128205%,7.30769230769
+3:Origin Pulse,7.69230769231%,4.38461538462
+4:Brave Bird,5.12820512821%,2.92307692308
+5:Water Spout,5.12820512821%,2.92307692308
+6:Extreme Speed,5.12820512821%,2.92307692308
+7:Rock Slide,5.12820512821%,2.92307692308
+8:Ice Beam,5.12820512821%,2.92307692308
+9:Precipice Blades,2.5641025641%,1.46153846154
+10:Oblivion Wing,2.5641025641%,1.46153846154
+11:Moonblast,2.5641025641%,1.46153846154
+12:Play Rough,2.5641025641%,1.46153846154
+13:Parabolic Charge,2.5641025641%,1.46153846154
+14:Eruption,2.5641025641%,1.46153846154
+15:Assist,2.5641025641%,1.46153846154
+16:Hidden Power,2.5641025641%,1.46153846154
+17:Aeroblast,2.5641025641%,1.46153846154
+18:Explosion,2.5641025641%,1.46153846154
+19:Flamethrower,2.5641025641%,1.46153846154
+20:Double-Edge,2.5641025641%,1.46153846154
+0:Other,2.5641025641%,1.46153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Talonflame
+6:Landorus
+7:Rayquaza
+8:Yveltal
+9:Heliolisk
+10:Thundurus
+11:Liepard
+12:Cresselia
+13:Kyogre
+14:Mawile
+15:Smeargle
+16:Kangaskhan
