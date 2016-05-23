@@ -1,12 +1,13 @@
-# Pokemon HTTP Request
-# This program pulls additional data from the Pokemon GL website
-# to obtain more in-depth statistics
+# Pokemon HTTP Request Library
+# This file holds all of the functions/classes used in
+# the data collection
 
 from lxml import html
 import requests
 import json
 from fractions import Fraction
 import os
+import shelve
 
 def PrintData(section, name):
     '''A debugging function to print out individual blocks of data'''
@@ -184,7 +185,7 @@ def orderByRanking(listOfPokemon):
         numberOfPokemonWithoutThisRanking = 0
         if(rankingNotFound==1): lowestNumber+=1
         print "We are looking for rank %d" % (lowestNumber)
-        for pokemon in pokemonList:
+        for pokemon in listOfPokemon:
             if(hasattr(pokemon, 'thisPokemonRanking')):
                 if(pokemon.thisPokemonRanking == lowestNumber):
                     orderedList.append(pokemon)
@@ -234,34 +235,4 @@ headersDictionary = {
 
 url = "https://3ds.pokemon-gl.com/frontendApi/gbu/getSeasonPokemonDetail"
 
-
-pokemonList = [0]
-alternateFormesList = GetFormeData()
-
-'''Populates the pokemonList with every pokemon'''
-for dexNumber in range(720):
-    pokemonList.append(Pokemon(GetData(dexNumber+1)))
-    print pokemonList[dexNumber+1].thisPokemonName.decode('utf8')
-
-pokemonList = pokemonList + alternateFormesList
-
-'''Creates an ordered list, ordered by Battle Spot ranking'''
-orderedListByRank = orderByRanking(pokemonList)
-print orderedListByRank
-
-print "Length of ordered list: %d" % len(orderedListByRank)
-'''Writes the data to text files'''
-for x in orderedListByRank:
-    print x.thisPokemonRanking, x.thisPokemonName.decode('utf8'), x.totalNumberOfThisPokemon
-
-for pokemon in orderedListByRank:
-    pokemon.WriteAllData()
-
-movesFile = open(os.path.join('.','Data','MovesData.txt'),'w')
-for pokemon in orderedListByRank:
-    movesFile.write(str(pokemon.thisPokemonRanking)+'.'+ pokemon.thisPokemonName+'|'+str(pokemon.totalNumberOfThisPokemon)+'\n')
-    movesFile.write('---\n')
-    pokemon.WriteNumericalData(pokemon.movesThatThisPokemonUses, 'name', movesFile)
-    movesFile.write("\n ---------- \n")
-
-movesFile.close()
+print 'Successfully imported pokemon library.'
