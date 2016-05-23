@@ -1,0 +1,70 @@
+243:Sunflora|17
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,17.0
+2:Hidden Power,100.0%,17.0
+3:Protect,100.0%,17.0
+4:Grass Knot,88.2352941176%,15.0
+5:Energy Ball,11.7647058824%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,17.0
+
+ ---------- 
+Abilities used:
+1:Solar Power,100.0%,17.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,17.0
+
+ ---------- 
+Top teammates:
+1:Mawile
+2:Espeon
+3:Groudon
+4:Kyogre
+5:Gardevoir
+6:Crobat
+7:Moltres
+8:Heliolisk
+9:Togekiss
+10:Luxray
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,40.0%,6.8
+2:Energy Ball,40.0%,6.8
+3:Hidden Power,20.0%,3.4
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fire Punch,20.0%,3.4
+2:Dazzling Gleam,10.0%,1.7
+3:Brave Bird,10.0%,1.7
+4:Feint,10.0%,1.7
+5:Gyro Ball,10.0%,1.7
+6:Water Spout,10.0%,1.7
+7:Hyper Voice,10.0%,1.7
+8:Rock Slide,10.0%,1.7
+9:Ice Beam,10.0%,1.7
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Groudon
+3:Kyogre
+4:Kangaskhan
+5:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Talonflame
+4:Ferrothorn
+5:Cresselia
+6:Infernape
+7:Kyogre
+8:Salamence

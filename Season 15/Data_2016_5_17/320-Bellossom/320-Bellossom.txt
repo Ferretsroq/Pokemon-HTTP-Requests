@@ -1,0 +1,54 @@
+320:Bellossom|4
+ ---------- 
+Moves used:
+1:After You,75.0%,3.0
+2:Leaf Blade,75.0%,3.0
+3:Safeguard,75.0%,3.0
+4:Protect,75.0%,3.0
+5:Grass Knot,25.0%,1.0
+6:Teeter Dance,25.0%,1.0
+7:Sweet Scent,25.0%,1.0
+8:Sleep Powder,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,75.0%,3.0
+2:Life Orb,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,75.0%,3.0
+2:Timid,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Togekiss
+3:Kangaskhan
+4:Kyurem
+5:Gallade
+6:Salamence
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,25.0%,1.0
+2:Oblivion Wing,25.0%,1.0
+3:Hyper Voice,25.0%,1.0
+4:Crunch,25.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Sylveon
+3:Rayquaza
+4:Gyarados

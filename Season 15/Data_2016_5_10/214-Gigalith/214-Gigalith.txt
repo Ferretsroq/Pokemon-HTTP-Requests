@@ -1,0 +1,75 @@
+214:Gigalith|27
+ ---------- 
+Moves used:
+1:Explosion,100.0%,27.0
+2:Wide Guard,92.5925925926%,25.0
+3:Rock Slide,62.962962963%,17.0
+4:Earthquake,55.5555555556%,15.0
+5:Rock Blast,44.4444444444%,12.0
+6:Protect,44.4444444444%,12.0
+
+ ---------- 
+Items used:
+1:Chesto Berry,55.5555555556%,15.0
+2:Custap Berry,37.037037037%,10.0
+3:Weakness Policy,7.40740740741%,2.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,27.0
+
+ ---------- 
+Natures used:
+1:Brave,62.962962963%,17.0
+2:Adamant,37.037037037%,10.0
+
+ ---------- 
+Top teammates:
+1:Scizor
+2:Kyurem
+3:Kyurem
+4:Weavile
+5:Liepard
+6:Groudon
+7:Salamence
+8:Mewtwo
+9:Lucario
+10:Whimsicott
+11:Cresselia
+12:Kyogre
+13:Mawile
+14:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,62.5%,16.875
+2:Explosion,25.0%,6.75
+3:Rock Blast,12.5%,3.375
+
+ ---------- 
+Moves that KO this pokemon:
+1:Low Kick,16.6666666667%,4.5
+2:Dazzling Gleam,12.5%,3.375
+3:Precipice Blades,8.33333333333%,2.25
+4:Moonblast,8.33333333333%,2.25
+5:Hyper Voice,4.16666666667%,1.125
+6:Rock Slide,4.16666666667%,1.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Yveltal
+2:Xerneas
+3:Talonflame
+4:Weavile
+5:Groudon
+6:Manectric
+7:Ho-Oh
+8:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kangaskhan
+3:Groudon
+4:Salamence
+5:Aerodactyl

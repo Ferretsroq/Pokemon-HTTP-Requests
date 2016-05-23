@@ -1,0 +1,61 @@
+304:Sudowoodo|3
+ ---------- 
+Moves used:
+1:After You,66.6666666667%,2.0
+2:Stone Edge,66.6666666667%,2.0
+3:Copycat,66.6666666667%,2.0
+4:Low Kick,66.6666666667%,2.0
+5:Wood Hammer,33.3333333333%,1.0
+6:Sucker Punch,33.3333333333%,1.0
+7:Protect,33.3333333333%,1.0
+8:Rock Slide,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Enigma Berry,66.6666666667%,2.0
+2:Weakness Policy,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Sceptile
+2:Groudon
+3:Palkia
+4:Dialga
+5:Furret
+6:Yveltal
+7:Mesprit
+8:Mawile
+9:Hypno
+10:Machamp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Stone Edge,50.0%,1.5
+2:Sucker Punch,50.0%,1.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,0.75
+2:Dazzling Gleam,25.0%,0.75
+3:Power Whip,25.0%,0.75
+4:Water Spout,25.0%,0.75
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Ferrothorn
+3:Groudon
+4:Kyogre

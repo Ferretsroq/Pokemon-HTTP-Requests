@@ -1,0 +1,42 @@
+330:Magmortar|1
+ ---------- 
+Moves used:
+1:Clear Smog,100.0%,1.0
+2:Taunt,100.0%,1.0
+3:Heat Wave,100.0%,1.0
+4:Thunderbolt,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Air Balloon,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Vital Spirit,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Rayquaza
+3:Hitmonlee
+4:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,66.6666666667%,0.666666666667
+2:Psystrike,33.3333333333%,0.333333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Mewtwo

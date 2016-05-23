@@ -1,0 +1,135 @@
+154:Krookodile|96
+ ---------- 
+Moves used:
+1:Earthquake,88.5416666667%,85.0
+2:Knock Off,79.1666666667%,76.0
+3:Protect,71.875%,69.0
+4:Rock Slide,61.4583333333%,59.0
+5:Assurance,28.125%,27.0
+6:Crunch,23.9583333333%,23.0
+7:Superpower,21.875%,21.0
+8:Me First,19.7916666667%,19.0
+9:Outrage,4.16666666667%,4.0
+10:Stone Edge,1.04166666667%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,28.125%,27.0
+2:Choice Scarf,16.6666666667%,16.0
+3:Life Orb,15.625%,15.0
+4:Focus Sash,13.5416666667%,13.0
+5:Choice Band,12.5%,12.0
+6:Kee Berry,7.29166666667%,7.0
+7:Lum Berry,4.16666666667%,4.0
+8:Expert Belt,2.08333333333%,2.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,48.9583333333%,47.0
+2:Anger Point,40.625%,39.0
+3:Moxie,10.4166666667%,10.0
+
+ ---------- 
+Natures used:
+1:Jolly,84.375%,81.0
+2:Adamant,12.5%,12.0
+3:Impish,3.125%,3.0
+
+ ---------- 
+Top teammates:
+1:Smeargle
+2:Xerneas
+3:Rayquaza
+4:Groudon
+5:Yveltal
+6:Talonflame
+7:Thundurus
+8:Kangaskhan
+9:Clefairy
+10:Ho-Oh
+11:Dialga
+12:Lopunny
+13:Mawile
+14:Crobat
+15:Togekiss
+16:Gengar
+17:Thundurus
+18:Meowstic
+19:Whimsicott
+20:Kyogre
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,42.0289855072%,40.347826087
+2:Assurance,18.8405797101%,18.0869565217
+3:Rock Slide,15.9420289855%,15.3043478261
+4:Knock Off,13.0434782609%,12.5217391304
+5:Crunch,7.24637681159%,6.95652173913
+6:Stone Edge,1.44927536232%,1.39130434783
+7:Superpower,1.44927536232%,1.39130434783
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,13.7254901961%,13.1764705882
+2:Dazzling Gleam,9.80392156863%,9.41176470588
+3:Double-Edge,9.80392156863%,9.41176470588
+4:Precipice Blades,7.8431372549%,7.52941176471
+5:Ice Beam,5.88235294118%,5.64705882353
+6:Play Rough,3.92156862745%,3.76470588235
+7:Icicle Crash,3.92156862745%,3.76470588235
+8:Spacial Rend,3.92156862745%,3.76470588235
+9:Earthquake,3.92156862745%,3.76470588235
+10:Low Kick,3.92156862745%,3.76470588235
+11:Dragon Ascent,1.96078431373%,1.88235294118
+12:Origin Pulse,1.96078431373%,1.88235294118
+13:Oblivion Wing,1.96078431373%,1.88235294118
+14:Moonblast,1.96078431373%,1.88235294118
+15:Snarl,1.96078431373%,1.88235294118
+16:Foul Play,1.96078431373%,1.88235294118
+17:Grass Knot,1.96078431373%,1.88235294118
+18:Power Whip,1.96078431373%,1.88235294118
+19:Dragon Pulse,1.96078431373%,1.88235294118
+20:Dark Pulse,1.96078431373%,1.88235294118
+0:Other,11.7647058824%,11.2941176471
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Talonflame
+5:Xerneas
+6:Landorus
+7:Thundurus
+8:Ferrothorn
+9:Liepard
+10:Dialga
+11:Togekiss
+12:Salamence
+13:Mawile
+14:Yveltal
+15:Terrakion
+16:Whimsicott
+17:Cresselia
+18:Weavile
+19:Garchomp
+20:Bronzong
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Yveltal
+6:Salamence
+7:Palkia
+8:Weavile
+9:Rayquaza
+10:Mawile
+11:Kyurem
+12:Landorus
+13:Ferrothorn
+14:Whimsicott
+15:Dialga
+16:Smeargle

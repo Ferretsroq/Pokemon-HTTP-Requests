@@ -1,0 +1,75 @@
+246:Dewgong|16
+ ---------- 
+Moves used:
+1:Fake Out,93.75%,15.0
+2:Ice Beam,62.5%,10.0
+3:Perish Song,56.25%,9.0
+4:Encore,50.0%,8.0
+5:Protect,50.0%,8.0
+6:Safeguard,43.75%,7.0
+7:Disable,31.25%,5.0
+8:Sheer Cold,6.25%,1.0
+9:Icy Wind,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,93.75%,15.0
+2:Lum Berry,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,16.0
+
+ ---------- 
+Natures used:
+1:Sassy,43.75%,7.0
+2:Calm,43.75%,7.0
+3:Relaxed,6.25%,1.0
+4:Bold,6.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Mawile
+4:Palkia
+5:Raichu
+6:Dialga
+7:Gengar
+8:Amoonguss
+9:Chandelure
+10:Liepard
+11:Giratina
+12:Glalie
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Ice Beam,100.0%,16.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.2727272727%,4.36363636364
+2:Power-Up Punch,9.09090909091%,1.45454545455
+3:Power Whip,9.09090909091%,1.45454545455
+4:Brave Bird,9.09090909091%,1.45454545455
+5:Water Spout,9.09090909091%,1.45454545455
+6:Hyper Voice,9.09090909091%,1.45454545455
+7:Rock Slide,9.09090909091%,1.45454545455
+8:Thunderbolt,9.09090909091%,1.45454545455
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Rayquaza
+3:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Landorus
+4:Thundurus
+5:Ferrothorn
+6:Kyogre
+7:Salamence
+8:Kangaskhan

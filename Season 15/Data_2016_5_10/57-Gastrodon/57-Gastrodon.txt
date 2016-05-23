@@ -1,0 +1,165 @@
+57:Gastrodon|1034
+ ---------- 
+Moves used:
+1:Earth Power,91.4893617021%,946.0
+2:Ice Beam,71.7601547389%,742.0
+3:Scald,58.0270793037%,600.0
+4:Mirror Coat,36.8471953578%,381.0
+5:Protect,30.1740812379%,312.0
+6:Icy Wind,23.5976789168%,244.0
+7:Recover,21.1798839458%,219.0
+8:Clear Smog,16.4410058027%,170.0
+9:Muddy Water,12.5725338491%,130.0
+10:Fissure,12.5725338491%,130.0
+11:Counter,9.47775628627%,98.0
+12:Toxic,5.99613152805%,62.0
+13:Stockpile,2.90135396518%,30.0
+14:Stone Edge,2.32108317215%,24.0
+15:Sludge Bomb,2.12765957447%,22.0
+16:Sludge Wave,1.74081237911%,18.0
+17:Amnesia,0.386847195358%,4.0
+18:Yawn,0.290135396518%,3.0
+19:Earthquake,0.0967117988395%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,48.3558994197%,500.0
+2:Sitrus Berry,16.4410058027%,170.0
+3:Leftovers,14.6034816248%,151.0
+4:Expert Belt,5.89941972921%,61.0
+5:Rocky Helmet,4.44874274662%,46.0
+6:Rindo Berry,4.35203094778%,45.0
+7:Choice Specs,2.03094777563%,21.0
+8:Earth Plate,1.06382978723%,11.0
+9:Soft Sand,0.676982591876%,7.0
+10:Life Orb,0.290135396518%,3.0
+11:Quick Claw,0.290135396518%,3.0
+12:Kee Berry,0.193423597679%,2.0
+13:Focus Sash,0.193423597679%,2.0
+14:Custap Berry,0.193423597679%,2.0
+15:Float Stone,0.0967117988395%,1.0
+16:Lax Incense,0.0967117988395%,1.0
+17:Lum Berry,0.0967117988395%,1.0
+
+ ---------- 
+Abilities used:
+1:Storm Drain,99.9032882012%,1033.0
+2:Sand Force,0.0967117988395%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,44.003868472%,455.0
+2:Bold,29.0135396518%,300.0
+3:Modest,12.5725338491%,130.0
+4:Calm,8.70406189555%,90.0
+5:Relaxed,5.41586073501%,56.0
+6:Sassy,0.193423597679%,2.0
+7:Careful,0.0967117988395%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Rayquaza
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Kyogre
+7:Mawile
+8:Gengar
+9:Yveltal
+10:Talonflame
+11:Kyurem
+12:Landorus
+13:Crobat
+14:Aegislash
+15:Whimsicott
+16:Thundurus
+17:Dialga
+18:Mienshao
+19:Smeargle
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,40.701754386%,420.856140351
+2:Ice Beam,24.9122807018%,257.592982456
+3:Scald,13.8596491228%,143.30877193
+4:Icy Wind,8.42105263158%,87.0736842105
+5:Mirror Coat,4.73684210526%,48.9789473684
+6:Fissure,2.80701754386%,29.0245614035
+7:Muddy Water,1.9298245614%,19.9543859649
+8:Clear Smog,0.877192982456%,9.0701754386
+9:Counter,0.877192982456%,9.0701754386
+10:Sludge Bomb,0.526315789474%,5.44210526316
+11:Sludge Wave,0.175438596491%,1.81403508772
+12:Stone Edge,0.175438596491%,1.81403508772
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,15.7360406091%,162.710659898
+2:Precipice Blades,13.5363790186%,139.966159052
+3:Dragon Ascent,7.10659898477%,73.4822335025
+4:Double-Edge,6.93739424704%,71.7326565144
+5:Power Whip,5.41455160745%,55.986463621
+6:Dazzling Gleam,4.56852791878%,47.2385786802
+7:Grass Knot,3.55329949239%,36.7411167513
+8:Play Rough,2.87648054146%,29.7428087986
+9:Hyper Voice,2.70727580372%,27.9932318105
+10:Extreme Speed,2.70727580372%,27.9932318105
+11:Brave Bird,2.53807106599%,26.2436548223
+12:Moonblast,2.03045685279%,20.9949238579
+13:Return,1.86125211506%,19.2453468697
+14:Eruption,1.69204737733%,17.4957698816
+15:Knock Off,1.69204737733%,17.4957698816
+16:Water Spout,1.52284263959%,15.7461928934
+17:Earthquake,1.52284263959%,15.7461928934
+18:Fire Punch,1.35363790186%,13.9966159052
+19:Dragon Pulse,1.18443316413%,12.2470389171
+20:Shadow Ball,1.18443316413%,12.2470389171
+0:Other,17.089678511%,176.707275804
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Mawile
+5:Thundurus
+6:Xerneas
+7:Rayquaza
+8:Kangaskhan
+9:Landorus
+10:Talonflame
+11:Ferrothorn
+12:Smeargle
+13:Crobat
+14:Rayquaza
+15:Whimsicott
+16:Dialga
+17:Weavile
+18:Bronzong
+19:Cresselia
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Ferrothorn
+7:Salamence
+8:Mawile
+9:Landorus
+10:Rayquaza
+11:Yveltal
+12:Talonflame
+13:Cresselia
+14:Kyurem
+15:Amoonguss
+16:Dialga
+17:Gengar
+18:Thundurus
+19:Weavile
+20:Gengar

@@ -1,0 +1,133 @@
+185:Sharpedo|57
+ ---------- 
+Moves used:
+1:Protect,100.0%,57.0
+2:Destiny Bond,71.9298245614%,41.0
+3:Crunch,70.1754385965%,40.0
+4:Ice Fang,38.5964912281%,22.0
+5:Waterfall,33.3333333333%,19.0
+6:Taunt,17.5438596491%,10.0
+7:Substitute,15.7894736842%,9.0
+8:Screech,8.77192982456%,5.0
+9:Aqua Jet,7.01754385965%,4.0
+10:Dark Pulse,7.01754385965%,4.0
+11:Agility,7.01754385965%,4.0
+12:Hydro Pump,7.01754385965%,4.0
+13:Feint,5.26315789474%,3.0
+14:Ancient Power,5.26315789474%,3.0
+15:Super Fang,5.26315789474%,3.0
+
+ ---------- 
+Items used:
+1:Sharpedonite,59.649122807%,34.0
+2:Focus Sash,28.0701754386%,16.0
+3:Lum Berry,7.01754385965%,4.0
+4:Bright Powder,3.50877192982%,2.0
+5:Mental Herb,1.75438596491%,1.0
+
+ ---------- 
+Abilities used:
+1:Speed Boost,100.0%,57.0
+
+ ---------- 
+Natures used:
+1:Jolly,43.8596491228%,25.0
+2:Adamant,28.0701754386%,16.0
+3:Naive,17.5438596491%,10.0
+4:Modest,7.01754385965%,4.0
+5:Lonely,3.50877192982%,2.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Zekrom
+3:Toxicroak
+4:Lugia
+5:Marowak
+6:Greninja
+7:Groudon
+8:Kyogre
+9:Weavile
+10:Aegislash
+11:Walrein
+12:Yveltal
+13:Meowstic
+14:Talonflame
+15:Zoroark
+16:Palkia
+17:Murkrow
+18:Sableye
+19:Crobat
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Crunch,32.3529411765%,18.4411764706
+2:Destiny Bond,32.3529411765%,18.4411764706
+3:Ice Fang,11.7647058824%,6.70588235294
+4:Waterfall,11.7647058824%,6.70588235294
+5:Hydro Pump,5.88235294118%,3.35294117647
+6:Dark Pulse,2.94117647059%,1.67647058824
+7:Feint,2.94117647059%,1.67647058824
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,11.9047619048%,6.78571428571
+2:Precipice Blades,9.52380952381%,5.42857142857
+3:Brave Bird,7.14285714286%,4.07142857143
+4:Dragon Ascent,4.7619047619%,2.71428571429
+5:Moonblast,4.7619047619%,2.71428571429
+6:Power Whip,4.7619047619%,2.71428571429
+7:Water Spout,4.7619047619%,2.71428571429
+8:Eruption,4.7619047619%,2.71428571429
+9:Extreme Speed,4.7619047619%,2.71428571429
+10:Rock Slide,4.7619047619%,2.71428571429
+11:Earthquake,4.7619047619%,2.71428571429
+12:Origin Pulse,2.38095238095%,1.35714285714
+13:Earth Power,2.38095238095%,1.35714285714
+14:Gyro Ball,2.38095238095%,1.35714285714
+15:Volt Tackle,2.38095238095%,1.35714285714
+16:Dragon Claw,2.38095238095%,1.35714285714
+17:Bullet Seed,2.38095238095%,1.35714285714
+18:Rock Tomb,2.38095238095%,1.35714285714
+19:Knock Off,2.38095238095%,1.35714285714
+20:Return,2.38095238095%,1.35714285714
+0:Other,11.9047619048%,6.78571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Landorus
+3:Thundurus
+4:Xerneas
+5:Rayquaza
+6:Smeargle
+7:Kangaskhan
+8:Meowstic
+9:Talonflame
+10:Amoonguss
+11:Cresselia
+12:Bronzong
+13:Rayquaza
+14:Kyogre
+15:Salamence
+16:Breloom
+17:Ho-Oh
+18:Espeon
+19:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Rayquaza
+4:Kyogre
+5:Ferrothorn
+6:Kangaskhan
+7:Talonflame
+8:Yveltal
+9:Landorus
+10:Thundurus
+11:Breloom
+12:Ho-Oh
+13:Raichu

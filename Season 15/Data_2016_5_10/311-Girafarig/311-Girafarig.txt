@@ -1,0 +1,57 @@
+311:Girafarig|5
+ ---------- 
+Moves used:
+1:Bulldoze,60.0%,3.0
+2:Gravity,60.0%,3.0
+3:Skill Swap,60.0%,3.0
+4:Thunder Wave,60.0%,3.0
+5:Nasty Plot,40.0%,2.0
+6:Hyper Voice,40.0%,2.0
+7:Magic Coat,40.0%,2.0
+8:Psychic,40.0%,2.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,60.0%,3.0
+2:Mental Herb,40.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,5.0
+
+ ---------- 
+Natures used:
+1:Jolly,60.0%,3.0
+2:Modest,40.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Seismitoad
+3:Kyogre
+4:Mawile
+5:Kangaskhan
+6:Yveltal
+7:Xerneas
+8:Thundurus
+9:Darmanitan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Fusion Flare,25.0%,1.25
+2:Brave Bird,25.0%,1.25
+3:Hyper Voice,25.0%,1.25
+4:Sludge Bomb,25.0%,1.25
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyurem
+2:Salamence
+3:Ho-Oh
+4:Gengar

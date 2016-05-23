@@ -1,0 +1,44 @@
+353:Donphan|1
+ ---------- 
+Moves used:
+1:Ice Shard,100.0%,1.0
+2:Endeavor,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Earthquake,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Custap Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Groudon
+3:Talonflame
+4:Togekiss
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,50.0%,0.5
+2:Fire Punch,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence

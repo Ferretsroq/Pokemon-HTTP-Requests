@@ -1,0 +1,45 @@
+343:Golbat|1
+ ---------- 
+Moves used:
+1:Quick Guard,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Super Fang,100.0%,1.0
+4:Haze,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Impish,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Salamence
+2:Smeargle
+3:Yveltal
+4:Xerneas
+5:Kyurem
+6:Groudon
+7:Houndoom
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,50.0%,0.5
+2:Eruption,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon

@@ -1,0 +1,162 @@
+91:Dragonite|330
+ ---------- 
+Moves used:
+1:Extreme Speed,90.9090909091%,300.0
+2:Draco Meteor,41.5151515152%,137.0
+3:Dragon Dance,29.696969697%,98.0
+4:Dragon Claw,28.4848484848%,94.0
+5:Protect,27.5757575758%,91.0
+6:Earthquake,27.2727272727%,90.0
+7:Fire Blast,23.6363636364%,78.0
+8:Thunder Punch,20.303030303%,67.0
+9:Iron Head,19.0909090909%,63.0
+10:Dragon Rush,11.8181818182%,39.0
+11:Outrage,11.8181818182%,39.0
+12:Superpower,11.5151515152%,38.0
+13:Fire Punch,11.5151515152%,38.0
+14:Tailwind,8.78787878788%,29.0
+15:Hurricane,8.48484848485%,28.0
+16:Safeguard,6.9696969697%,23.0
+17:Thunder Wave,4.24242424242%,14.0
+18:Waterfall,3.93939393939%,13.0
+19:Ice Punch,3.0303030303%,10.0
+20:Sky Drop,2.72727272727%,9.0
+0:Other,6.66666666667%,22.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,51.2121212121%,169.0
+2:Lum Berry,14.8484848485%,49.0
+3:Assault Vest,7.87878787879%,26.0
+4:Choice Scarf,6.9696969697%,23.0
+5:Expert Belt,6.9696969697%,23.0
+6:Choice Band,6.66666666667%,22.0
+7:Haban Berry,3.93939393939%,13.0
+8:Life Orb,0.909090909091%,3.0
+9:Focus Sash,0.30303030303%,1.0
+10:Yache Berry,0.30303030303%,1.0
+
+ ---------- 
+Abilities used:
+1:Multiscale,81.8181818182%,270.0
+2:Inner Focus,18.1818181818%,60.0
+
+ ---------- 
+Natures used:
+1:Adamant,56.6666666667%,187.0
+2:Quiet,23.3333333333%,77.0
+3:Hasty,6.66666666667%,22.0
+4:Brave,6.36363636364%,21.0
+5:Timid,4.24242424242%,14.0
+6:Modest,1.81818181818%,6.0
+7:Jolly,0.909090909091%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Groudon
+5:Talonflame
+6:Smeargle
+7:Mewtwo
+8:Meowstic
+9:Thundurus
+10:Whimsicott
+11:Ludicolo
+12:Gengar
+13:Landorus
+14:Togekiss
+15:Crobat
+16:Xerneas
+17:Bronzong
+18:Kyurem
+19:Raichu
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Extreme Speed,40.8450704225%,134.788732394
+2:Draco Meteor,14.0845070423%,46.4788732394
+3:Dragon Claw,8.92018779343%,29.4366197183
+4:Outrage,7.98122065728%,26.338028169
+5:Thunder Punch,7.98122065728%,26.338028169
+6:Earthquake,5.6338028169%,18.5915492958
+7:Superpower,3.28638497653%,10.8450704225
+8:Iron Head,2.34741784038%,7.74647887324
+9:Fire Blast,2.34741784038%,7.74647887324
+10:Fire Punch,2.34741784038%,7.74647887324
+11:Dragon Rush,1.8779342723%,6.19718309859
+12:Hurricane,1.40845070423%,4.64788732394
+13:Thunder,0.469483568075%,1.54929577465
+14:Ice Punch,0.469483568075%,1.54929577465
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,18.2648401826%,60.2739726027
+2:Dazzling Gleam,9.58904109589%,31.6438356164
+3:Rock Slide,6.39269406393%,21.095890411
+4:Dragon Pulse,5.47945205479%,18.0821917808
+5:Gyro Ball,5.47945205479%,18.0821917808
+6:Double-Edge,5.02283105023%,16.5753424658
+7:Precipice Blades,4.56621004566%,15.0684931507
+8:Water Spout,4.56621004566%,15.0684931507
+9:Extreme Speed,3.19634703196%,10.5479452055
+10:Blizzard,3.19634703196%,10.5479452055
+11:Moonblast,2.7397260274%,9.04109589041
+12:Dragon Ascent,2.28310502283%,7.53424657534
+13:Play Rough,2.28310502283%,7.53424657534
+14:Origin Pulse,1.82648401826%,6.02739726027
+15:Brave Bird,1.82648401826%,6.02739726027
+16:Eruption,1.82648401826%,6.02739726027
+17:Hidden Power,1.82648401826%,6.02739726027
+18:Snarl,1.3698630137%,4.52054794521
+19:Draco Meteor,1.3698630137%,4.52054794521
+20:Knock Off,1.3698630137%,4.52054794521
+0:Other,14.6118721461%,48.2191780822
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Kyogre
+3:Kangaskhan
+4:Rayquaza
+5:Xerneas
+6:Talonflame
+7:Groudon
+8:Smeargle
+9:Ferrothorn
+10:Thundurus
+11:Rayquaza
+12:Crobat
+13:Cresselia
+14:Mawile
+15:Yveltal
+16:Weavile
+17:Dialga
+18:Bronzong
+19:Greninja
+20:Zekrom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Kangaskhan
+5:Ferrothorn
+6:Dialga
+7:Rayquaza
+8:Yveltal
+9:Kyurem
+10:Cresselia
+11:Mawile
+12:Salamence
+13:Talonflame
+14:Landorus
+15:Rayquaza
+16:Thundurus
+17:Liepard
+18:Giratina
+19:Gengar
+20:Gengar

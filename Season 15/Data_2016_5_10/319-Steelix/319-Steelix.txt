@@ -1,0 +1,52 @@
+319:Steelix|4
+ ---------- 
+Moves used:
+1:Protect,100.0%,4.0
+2:Earthquake,100.0%,4.0
+3:Heavy Slam,50.0%,2.0
+4:Gyro Ball,50.0%,2.0
+5:Rock Slide,50.0%,2.0
+6:Fire Fang,25.0%,1.0
+7:Explosion,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Steelixite,100.0%,4.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,75.0%,3.0
+2:Rock Head,25.0%,1.0
+
+ ---------- 
+Natures used:
+1:Brave,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Groudon
+3:Audino
+4:Cresselia
+5:Dialga
+6:Breloom
+7:Hitmontop
+8:Azumarill
+9:Crobat
+10:Golduck
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Scald,50.0%,2.0
+2:Earthquake,50.0%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Kyogre

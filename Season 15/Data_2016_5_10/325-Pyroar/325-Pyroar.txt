@@ -1,0 +1,43 @@
+325:Pyroar|1
+ ---------- 
+Moves used:
+1:Hyper Voice,100.0%,1.0
+2:Yawn,100.0%,1.0
+3:Taunt,100.0%,1.0
+4:Fire Blast,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Unnerve,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Meowstic
+3:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,50.0%,0.5
+2:Eruption,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Venusaur
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre

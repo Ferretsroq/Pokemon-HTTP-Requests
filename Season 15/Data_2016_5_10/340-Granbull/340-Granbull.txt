@@ -1,0 +1,46 @@
+340:Granbull|3
+ ---------- 
+Moves used:
+1:Play Rough,100.0%,3.0
+2:Low Kick,66.6666666667%,2.0
+3:Roar,66.6666666667%,2.0
+4:Fire Punch,66.6666666667%,2.0
+5:Protect,33.3333333333%,1.0
+6:Reflect,33.3333333333%,1.0
+7:Earthquake,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,66.6666666667%,2.0
+2:Eject Button,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,3.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Seismitoad
+3:Cresselia
+4:Dialga
+5:Rayquaza
+6:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Iron Head,100.0%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Mawile

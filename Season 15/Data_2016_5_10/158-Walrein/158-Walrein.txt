@@ -1,0 +1,131 @@
+158:Walrein|92
+ ---------- 
+Moves used:
+1:Super Fang,97.8260869565%,90.0
+2:Icy Wind,96.7391304348%,89.0
+3:Ice Beam,93.4782608696%,86.0
+4:Brine,42.3913043478%,39.0
+5:Snore,28.2608695652%,26.0
+6:Sheer Cold,20.652173913%,19.0
+7:Encore,7.60869565217%,7.0
+8:Frost Breath,4.34782608696%,4.0
+9:Sleep Talk,2.17391304348%,2.0
+10:Rock Slide,1.08695652174%,1.0
+11:Waterfall,1.08695652174%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,93.4782608696%,86.0
+2:Leftovers,6.52173913043%,6.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,100.0%,92.0
+
+ ---------- 
+Natures used:
+1:Modest,48.9130434783%,45.0
+2:Bold,45.652173913%,42.0
+3:Calm,2.17391304348%,2.0
+4:Timid,2.17391304348%,2.0
+5:Relaxed,1.08695652174%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Salamence
+3:Groudon
+4:Xerneas
+5:Mawile
+6:Mewtwo
+7:Greninja
+8:Ferrothorn
+9:Landorus
+10:Raichu
+11:Weavile
+12:Rayquaza
+13:Whimsicott
+14:Kangaskhan
+15:Sharpedo
+16:Smeargle
+17:Kyurem
+18:Ho-Oh
+19:Scizor
+20:Aegislash
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,48.7804878049%,44.8780487805
+2:Ice Beam,39.0243902439%,35.9024390244
+3:Brine,7.31707317073%,6.73170731707
+4:Sheer Cold,4.87804878049%,4.48780487805
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,21.9178082192%,20.1643835616
+2:Water Spout,10.9589041096%,10.0821917808
+3:Thunder,9.58904109589%,8.82191780822
+4:Rock Slide,8.21917808219%,7.56164383562
+5:Origin Pulse,6.84931506849%,6.30136986301
+6:Brave Bird,5.47945205479%,5.04109589041
+7:Double-Edge,5.47945205479%,5.04109589041
+8:Low Kick,4.1095890411%,3.78082191781
+9:Dragon Ascent,2.7397260274%,2.52054794521
+10:Grass Knot,2.7397260274%,2.52054794521
+11:Hyper Voice,2.7397260274%,2.52054794521
+12:Thunderbolt,2.7397260274%,2.52054794521
+13:Dazzling Gleam,1.3698630137%,1.2602739726
+14:Moonblast,1.3698630137%,1.2602739726
+15:Iron Head,1.3698630137%,1.2602739726
+16:Power Whip,1.3698630137%,1.2602739726
+17:Bullet Punch,1.3698630137%,1.2602739726
+18:Earth Power,1.3698630137%,1.2602739726
+19:Knock Off,1.3698630137%,1.2602739726
+20:Fake Out,1.3698630137%,1.2602739726
+0:Other,5.47945205479%,5.04109589041
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Rayquaza
+2:Yveltal
+3:Talonflame
+4:Thundurus
+5:Salamence
+6:Crobat
+7:Kangaskhan
+8:Xerneas
+9:Whimsicott
+10:Liepard
+11:Gengar
+12:Meowstic
+13:Landorus
+14:Ferrothorn
+15:Palkia
+16:Groudon
+17:Kyogre
+18:Salamence
+19:Mawile
+20:Sableye
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Landorus
+6:Thundurus
+7:Weavile
+8:Kyogre
+9:Salamence
+10:Crobat
+11:Sylveon
+12:Talonflame
+13:Terrakion
+14:Ferrothorn
+15:Rayquaza
+16:Rayquaza
+17:Mawile
+18:Ludicolo
+19:Sceptile
+20:Ho-Oh

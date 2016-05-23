@@ -1,0 +1,171 @@
+45:Metagross|1677
+ ---------- 
+Moves used:
+1:Protect,69.4692903995%,1165.0
+2:Iron Head,65.7722122838%,1103.0
+3:Zen Headbutt,61.2403100775%,1027.0
+4:Bullet Punch,54.8002385212%,919.0
+5:Ice Punch,54.2635658915%,910.0
+6:Meteor Mash,28.801431127%,483.0
+7:Thunder Punch,20.5128205128%,344.0
+8:Hammer Arm,12.8801431127%,216.0
+9:Substitute,8.05008944544%,135.0
+10:Explosion,7.39415623137%,124.0
+11:Earthquake,4.6511627907%,78.0
+12:Rock Slide,3.22003577818%,54.0
+13:Hidden Power,2.14669051878%,36.0
+14:Trick,1.72927847346%,29.0
+15:Brick Break,1.37149672033%,23.0
+16:Gravity,0.894454382826%,15.0
+17:Psych Up,0.715563506261%,12.0
+18:Psychic,0.715563506261%,12.0
+19:Grass Knot,0.477042337507%,8.0
+20:Power-Up Punch,0.119260584377%,2.0
+0:Other,0.77519379845%,13.0
+
+ ---------- 
+Items used:
+1:Metagrossite,66.3088849135%,1112.0
+2:Assault Vest,14.6094215862%,245.0
+3:Choice Scarf,5.24746571258%,88.0
+4:Normal Gem,2.80262373286%,47.0
+5:Lum Berry,2.38521168754%,40.0
+6:Air Balloon,2.20632081097%,37.0
+7:Choice Band,2.20632081097%,37.0
+8:Chesto Berry,1.07334525939%,18.0
+9:Weakness Policy,0.655933214073%,11.0
+10:Life Orb,0.655933214073%,11.0
+11:Expert Belt,0.596302921884%,10.0
+12:Safety Goggles,0.298151460942%,5.0
+13:Focus Sash,0.238521168754%,4.0
+14:Sitrus Berry,0.178890876565%,3.0
+15:Power Bracer,0.119260584377%,2.0
+16:Wide Lens,0.119260584377%,2.0
+17:Shuca Berry,0.119260584377%,2.0
+18:Occa Berry,0.119260584377%,2.0
+19:Light Clay,0.0596302921884%,1.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,99.9403697078%,1676.0
+2:Light Metal,0.0596302921884%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,54.6809779368%,917.0
+2:Jolly,42.2182468694%,708.0
+3:Hasty,1.66964818128%,28.0
+4:Timid,0.477042337507%,8.0
+5:Brave,0.417412045319%,7.0
+6:Modest,0.238521168754%,4.0
+7:Naive,0.238521168754%,4.0
+8:Sassy,0.0596302921884%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Talonflame
+5:Crobat
+6:Xerneas
+7:Weavile
+8:Landorus
+9:Yveltal
+10:Palkia
+11:Thundurus
+12:Mienshao
+13:Kangaskhan
+14:Whimsicott
+15:Salamence
+16:Amoonguss
+17:Kyurem
+18:Cresselia
+19:Infernape
+20:Giratina
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Iron Head,24.6222222222%,412.914666667
+2:Bullet Punch,19.8222222222%,332.418666667
+3:Ice Punch,19.4666666667%,326.456
+4:Zen Headbutt,14.2222222222%,238.506666667
+5:Meteor Mash,9.6%,160.992
+6:Thunder Punch,4.97777777778%,83.4773333333
+7:Explosion,3.11111111111%,52.1733333333
+8:Hammer Arm,1.51111111111%,25.3413333333
+9:Rock Slide,0.888888888889%,14.9066666667
+10:Earthquake,0.8%,13.416
+11:Hidden Power,0.622222222222%,10.4346666667
+12:Psychic,0.266666666667%,4.472
+13:Brick Break,0.0888888888889%,1.49066666667
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.5794392523%,244.497196262
+2:Water Spout,8.41121495327%,141.056074766
+3:Earth Power,6.91588785047%,115.979439252
+4:Eruption,6.72897196262%,112.844859813
+5:Origin Pulse,6.16822429907%,103.441121495
+6:Fire Punch,4.76635514019%,79.9317757009
+7:Sucker Punch,4.67289719626%,78.3644859813
+8:Flare Blitz,4.01869158879%,67.3934579439
+9:Dazzling Gleam,3.64485981308%,61.1242990654
+10:Overheat,3.17757009346%,53.2878504673
+11:Earthquake,2.24299065421%,37.614953271
+12:Flamethrower,2.14953271028%,36.0476635514
+13:Shadow Ball,1.96261682243%,32.9130841121
+14:Low Kick,1.8691588785%,31.3457943925
+15:Foul Play,1.58878504673%,26.6439252336
+16:Knock Off,1.4953271028%,25.076635514
+17:Moonblast,1.40186915888%,23.5093457944
+18:Hyper Voice,1.30841121495%,21.9420560748
+19:Scald,1.21495327103%,20.3747663551
+20:Extreme Speed,1.1214953271%,18.8074766355
+0:Other,12.9906542056%,217.853271028
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+3:Smeargle
+4:Kangaskhan
+5:Kyogre
+6:Talonflame
+7:Crobat
+8:Thundurus
+9:Landorus
+10:Groudon
+11:Rayquaza
+12:Amoonguss
+13:Kyurem
+14:Weavile
+15:Cresselia
+16:Gengar
+17:Rayquaza
+18:Whimsicott
+19:Gengar
+20:Liepard
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Talonflame
+6:Rayquaza
+7:Yveltal
+8:Landorus
+9:Salamence
+10:Rayquaza
+11:Dialga
+12:Thundurus
+13:Gengar
+14:Liepard
+15:Mawile
+16:Ho-Oh
+17:Aegislash
+18:Kyogre
+19:Kyurem
+20:Weavile

@@ -1,0 +1,39 @@
+361:Swanna|1
+ ---------- 
+Moves used:
+1:Scald,100.0%,1.0
+2:Brave Bird,100.0%,1.0
+3:Tailwind,100.0%,1.0
+4:Endeavor,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Keen Eye,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Naughty,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Diggersby
+2:Glaceon
+3:Lucario
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan

@@ -1,0 +1,54 @@
+301:Drifblim|6
+ ---------- 
+Moves used:
+1:Baton Pass,100.0%,6.0
+2:Minimize,100.0%,6.0
+3:Will-O-Wisp,83.3333333333%,5.0
+4:Stockpile,83.3333333333%,5.0
+5:Magic Coat,16.6666666667%,1.0
+6:Substitute,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Weakness Policy,83.3333333333%,5.0
+2:Sitrus Berry,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Unburden,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Bold,83.3333333333%,5.0
+2:Calm,16.6666666667%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kangaskhan
+3:Staraptor
+4:Rayquaza
+5:Dedenne
+6:Kingdra
+7:Mewtwo
+8:Chansey
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,25.0%,1.5
+2:Bullet Punch,25.0%,1.5
+3:Water Spout,25.0%,1.5
+4:Rock Slide,25.0%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Landorus
+3:Kyogre
+4:Scizor

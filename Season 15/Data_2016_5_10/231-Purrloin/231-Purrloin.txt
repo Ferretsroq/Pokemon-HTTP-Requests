@@ -1,0 +1,74 @@
+231:Purrloin|20
+ ---------- 
+Moves used:
+1:Assist,100.0%,20.0
+2:Protect,65.0%,13.0
+3:Thief,40.0%,8.0
+4:Copycat,20.0%,4.0
+5:Fake Out,20.0%,4.0
+
+ ---------- 
+Items used:
+1:Eviolite,45.0%,9.0
+2:Focus Sash,25.0%,5.0
+3:Wide Lens,15.0%,3.0
+4:Focus Band,10.0%,2.0
+5:Mental Herb,5.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Prankster,100.0%,20.0
+
+ ---------- 
+Natures used:
+1:Relaxed,45.0%,9.0
+2:Jolly,25.0%,5.0
+3:Sassy,20.0%,4.0
+4:Timid,10.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Meowstic
+2:Liepard
+3:Kyogre
+4:Smeargle
+5:Lapras
+6:Giratina
+7:Yveltal
+8:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Assist,75.0%,15.0
+2:Thief,25.0%,5.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,23.5294117647%,4.70588235294
+2:Origin Pulse,11.7647058824%,2.35294117647
+3:Brave Bird,11.7647058824%,2.35294117647
+4:Extreme Speed,11.7647058824%,2.35294117647
+5:Venoshock,5.88235294118%,1.17647058824
+6:Hammer Arm,5.88235294118%,1.17647058824
+7:Water Spout,5.88235294118%,1.17647058824
+8:Return,5.88235294118%,1.17647058824
+9:Double-Edge,5.88235294118%,1.17647058824
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Palkia
+3:Rayquaza
+4:Groudon
+5:Aron
+6:Gengar
+7:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Rayquaza
+6:Gengar

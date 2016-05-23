@@ -1,0 +1,59 @@
+251:Nosepass|1
+ ---------- 
+Moves used:
+1:Stealth Rock,100.0%,1.0
+2:Magic Coat,100.0%,1.0
+3:Pain Split,100.0%,1.0
+4:Toxic,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Berry Juice,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Rayquaza
+3:Kyogre
+4:Xerneas
+5:Raichu
+6:Ditto
+7:Florges
+8:Aron
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Power-Up Punch,16.6666666667%,0.166666666667
+2:Precipice Blades,8.33333333333%,0.0833333333333
+3:Origin Pulse,8.33333333333%,0.0833333333333
+4:Dazzling Gleam,8.33333333333%,0.0833333333333
+5:Snarl,8.33333333333%,0.0833333333333
+6:Feint,8.33333333333%,0.0833333333333
+7:Eruption,8.33333333333%,0.0833333333333
+8:Fake Out,8.33333333333%,0.0833333333333
+9:Low Kick,8.33333333333%,0.0833333333333
+10:Ice Beam,8.33333333333%,0.0833333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Yveltal
+4:Xerneas
+5:Cresselia
+6:Weavile
+7:Kyogre

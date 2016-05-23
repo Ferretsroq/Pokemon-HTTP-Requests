@@ -1,0 +1,65 @@
+282:Quagsire|9
+ ---------- 
+Moves used:
+1:Recover,100.0%,9.0
+2:Earth Power,88.8888888889%,8.0
+3:Icy Wind,88.8888888889%,8.0
+4:Haze,88.8888888889%,8.0
+5:Scald,11.1111111111%,1.0
+6:Sludge Wave,11.1111111111%,1.0
+7:Earthquake,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:Maranga Berry,88.8888888889%,8.0
+2:Leftovers,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,88.8888888889%,8.0
+2:Unaware,11.1111111111%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,9.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Kyogre
+3:Greninja
+4:Kyurem
+5:Clawitzer
+6:Yveltal
+7:Jolteon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,50.0%,4.5
+2:Icy Wind,50.0%,4.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,2.25
+2:Dazzling Gleam,12.5%,1.125
+3:Snarl,12.5%,1.125
+4:Bullet Seed,12.5%,1.125
+5:Knock Off,12.5%,1.125
+6:Solar Beam,12.5%,1.125
+7:Double-Edge,12.5%,1.125
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Kyogre
+4:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Yveltal
+3:Xerneas
+4:Mawile
+5:Breloom
+6:Kangaskhan

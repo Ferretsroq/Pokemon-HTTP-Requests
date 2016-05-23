@@ -1,0 +1,140 @@
+69:Azumarill|661
+ ---------- 
+Moves used:
+1:Aqua Jet,100.0%,661.0
+2:Play Rough,96.2178517398%,636.0
+3:Superpower,73.0711043873%,483.0
+4:Waterfall,69.1376701967%,457.0
+5:Protect,24.3570347958%,161.0
+6:Belly Drum,19.0620272315%,126.0
+7:Knock Off,11.1951588502%,74.0
+8:Ice Punch,3.78214826021%,25.0
+9:Icy Wind,1.96671709531%,13.0
+10:Aqua Tail,0.453857791225%,3.0
+11:Helping Hand,0.302571860817%,2.0
+12:Sleep Talk,0.302571860817%,2.0
+13:Facade,0.151285930408%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,65.6580937973%,434.0
+2:Sitrus Berry,18.6081694402%,123.0
+3:Life Orb,9.07715582451%,60.0
+4:Choice Band,4.99243570348%,33.0
+5:Mystic Water,0.756429652042%,5.0
+6:Expert Belt,0.453857791225%,3.0
+7:Choice Scarf,0.151285930408%,1.0
+8:Sea Incense,0.151285930408%,1.0
+9:Lum Berry,0.151285930408%,1.0
+
+ ---------- 
+Abilities used:
+1:Huge Power,100.0%,661.0
+
+ ---------- 
+Natures used:
+1:Adamant,90.015128593%,595.0
+2:Brave,9.83358547655%,65.0
+3:Jolly,0.151285930408%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Groudon
+5:Manectric
+6:Thundurus
+7:Xerneas
+8:Crobat
+9:Salamence
+10:Talonflame
+11:Bronzong
+12:Raichu
+13:Landorus
+14:Ferrothorn
+15:Zapdos
+16:Bisharp
+17:Cresselia
+18:Gengar
+19:Rotom
+20:Yveltal
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aqua Jet,43.6754176611%,288.69451074
+2:Play Rough,29.1169451074%,192.46300716
+3:Superpower,12.4105011933%,82.0334128878
+4:Waterfall,11.6945107399%,77.3007159905
+5:Knock Off,2.38663484487%,15.7756563246
+6:Ice Punch,0.715990453461%,4.73269689737
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,10.5540897098%,69.7625329815
+2:Double-Edge,6.86015831135%,45.345646438
+3:Dragon Ascent,6.5963060686%,43.6015831135
+4:Thunder,6.33245382586%,41.8575197889
+5:Water Spout,5.54089709763%,36.6253298153
+6:Sludge Bomb,4.48548812665%,29.6490765172
+7:Thunderbolt,4.48548812665%,29.6490765172
+8:Dazzling Gleam,3.95778364116%,26.1609498681
+9:Origin Pulse,3.69393139842%,24.4168865435
+10:Iron Head,3.16622691293%,20.9287598945
+11:Moonblast,2.63852242744%,17.4406332454
+12:Power Whip,2.63852242744%,17.4406332454
+13:Extreme Speed,2.11081794195%,13.9525065963
+14:Return,2.11081794195%,13.9525065963
+15:Rock Slide,2.11081794195%,13.9525065963
+16:Play Rough,1.84696569921%,12.2084432718
+17:Earth Power,1.84696569921%,12.2084432718
+18:Brave Bird,1.84696569921%,12.2084432718
+19:Ice Beam,1.84696569921%,12.2084432718
+20:Sucker Punch,1.58311345646%,10.4643799472
+0:Other,18.9973614776%,125.572559367
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Smeargle
+6:Talonflame
+7:Yveltal
+8:Ferrothorn
+9:Kyurem
+10:Rayquaza
+11:Salamence
+12:Dialga
+13:Thundurus
+14:Weavile
+15:Landorus
+16:Whimsicott
+17:Gengar
+18:Aegislash
+19:Bronzong
+20:Meowstic
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Thundurus
+8:Mawile
+9:Ferrothorn
+10:Gengar
+11:Yveltal
+12:Dialga
+13:Rayquaza
+14:Landorus
+15:Talonflame
+16:Giratina
+17:Cresselia
+18:Gengar
+19:Palkia
+20:Aegislash

@@ -1,0 +1,97 @@
+171:Furret|72
+ ---------- 
+Moves used:
+1:Follow Me,100.0%,72.0
+2:Super Fang,98.6111111111%,71.0
+3:Helping Hand,87.5%,63.0
+4:Fling,62.5%,45.0
+5:Protect,33.3333333333%,24.0
+6:Charm,13.8888888889%,10.0
+7:Sucker Punch,4.16666666667%,3.0
+
+ ---------- 
+Items used:
+1:Light Ball,62.5%,45.0
+2:Focus Sash,22.2222222222%,16.0
+3:Sitrus Berry,13.8888888889%,10.0
+4:Rocky Helmet,1.38888888889%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,100.0%,72.0
+
+ ---------- 
+Natures used:
+1:Careful,66.6666666667%,48.0
+2:Jolly,22.2222222222%,16.0
+3:Impish,11.1111111111%,8.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Talonflame
+3:Rayquaza
+4:Landorus
+5:Kangaskhan
+6:Groudon
+7:Amoonguss
+8:Sceptile
+9:Dialga
+10:Kyogre
+11:Linoone
+12:Mesprit
+13:Weavile
+14:Sudowoodo
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,9.67741935484%,6.96774193548
+2:Double-Edge,9.67741935484%,6.96774193548
+3:Dazzling Gleam,8.06451612903%,5.8064516129
+4:Brave Bird,8.06451612903%,5.8064516129
+5:Precipice Blades,4.83870967742%,3.48387096774
+6:Origin Pulse,4.83870967742%,3.48387096774
+7:Water Spout,4.83870967742%,3.48387096774
+8:Eruption,4.83870967742%,3.48387096774
+9:Sludge Bomb,4.83870967742%,3.48387096774
+10:Play Rough,3.22580645161%,2.32258064516
+11:Draco Meteor,3.22580645161%,2.32258064516
+12:Gyro Ball,3.22580645161%,2.32258064516
+13:Dragon Ascent,1.61290322581%,1.16129032258
+14:Moonblast,1.61290322581%,1.16129032258
+15:Clear Smog,1.61290322581%,1.16129032258
+16:Iron Head,1.61290322581%,1.16129032258
+17:Bullet Punch,1.61290322581%,1.16129032258
+18:Seed Bomb,1.61290322581%,1.16129032258
+19:Aura Sphere,1.61290322581%,1.16129032258
+20:Dragon Claw,1.61290322581%,1.16129032258
+0:Other,14.5161290323%,10.4516129032
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Talonflame
+6:Mawile
+7:Kangaskhan
+8:Gengar
+9:Rayquaza
+10:Yveltal
+11:Gourgeist
+12:Mienshao
+13:Ferrothorn
+14:Amoonguss
+15:Cresselia
+16:Giratina
+17:Dialga
+18:Bronzong
+19:Rayquaza
+20:Camerupt

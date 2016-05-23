@@ -1,0 +1,61 @@
+248:Palpitoad|1
+ ---------- 
+Moves used:
+1:After You,100.0%,1.0
+2:Endeavor,100.0%,1.0
+3:Icy Wind,100.0%,1.0
+4:Protect,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Ferrothorn
+4:Landorus
+5:Talonflame
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icy Wind,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,0.166666666667
+2:Water Spout,16.6666666667%,0.166666666667
+3:Origin Pulse,8.33333333333%,0.0833333333333
+4:Snarl,8.33333333333%,0.0833333333333
+5:Power Whip,8.33333333333%,0.0833333333333
+6:Ice Shard,8.33333333333%,0.0833333333333
+7:Air Slash,8.33333333333%,0.0833333333333
+8:Eruption,8.33333333333%,0.0833333333333
+9:Ice Beam,8.33333333333%,0.0833333333333
+10:Double-Edge,8.33333333333%,0.0833333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Yveltal
+4:Ferrothorn
+5:Cresselia
+6:Togekiss
+7:Weavile
+8:Groudon
+9:Kangaskhan

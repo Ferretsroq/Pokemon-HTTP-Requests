@@ -1,0 +1,75 @@
+236:Starmie|19
+ ---------- 
+Moves used:
+1:Scald,100.0%,19.0
+2:Protect,89.4736842105%,17.0
+3:Psychic,73.6842105263%,14.0
+4:Trick Room,68.4210526316%,13.0
+5:Magic Coat,21.0526315789%,4.0
+6:Icy Wind,15.7894736842%,3.0
+7:Ice Beam,15.7894736842%,3.0
+8:Thunderbolt,10.5263157895%,2.0
+9:Psyshock,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Iron Ball,68.4210526316%,13.0
+2:Focus Sash,15.7894736842%,3.0
+3:Life Orb,15.7894736842%,3.0
+
+ ---------- 
+Abilities used:
+1:Analytic,73.6842105263%,14.0
+2:Natural Cure,26.3157894737%,5.0
+
+ ---------- 
+Natures used:
+1:Quiet,68.4210526316%,13.0
+2:Timid,31.5789473684%,6.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Ferrothorn
+3:Ho-Oh
+4:Salamence
+5:Manectric
+6:Lopunny
+7:Rayquaza
+8:Ditto
+9:Kangaskhan
+10:Hitmonlee
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,57.1428571429%,10.8571428571
+2:Icy Wind,14.2857142857%,2.71428571429
+3:Psychic,14.2857142857%,2.71428571429
+4:Thunderbolt,14.2857142857%,2.71428571429
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,38.4615384615%,7.30769230769
+2:Thunder,15.3846153846%,2.92307692308
+3:Precipice Blades,7.69230769231%,1.46153846154
+4:Brave Bird,7.69230769231%,1.46153846154
+5:Dragon Pulse,7.69230769231%,1.46153846154
+6:Hyper Voice,7.69230769231%,1.46153846154
+7:Earthquake,7.69230769231%,1.46153846154
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Smeargle
+4:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Dialga
+6:Groudon
+7:Salamence

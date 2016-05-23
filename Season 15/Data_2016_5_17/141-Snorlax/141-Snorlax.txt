@@ -1,0 +1,137 @@
+141:Snorlax|118
+ ---------- 
+Moves used:
+1:Self-Destruct,93.2203389831%,110.0
+2:Protect,52.5423728814%,62.0
+3:Belly Drum,48.3050847458%,57.0
+4:Frustration,44.0677966102%,52.0
+5:Double-Edge,31.3559322034%,37.0
+6:Earthquake,28.813559322%,34.0
+7:Heavy Slam,24.5762711864%,29.0
+8:Sleep Talk,22.0338983051%,26.0
+9:Crunch,19.4915254237%,23.0
+10:Return,7.62711864407%,9.0
+11:Superpower,2.54237288136%,3.0
+12:After You,1.69491525424%,2.0
+13:Icy Wind,1.69491525424%,2.0
+14:Fire Punch,1.69491525424%,2.0
+15:Rest,0.847457627119%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,44.0677966102%,52.0
+2:Custap Berry,44.0677966102%,52.0
+3:Leftovers,5.08474576271%,6.0
+4:Normal Gem,2.54237288136%,3.0
+5:Life Orb,1.69491525424%,2.0
+6:Sitrus Berry,1.69491525424%,2.0
+7:Chesto Berry,0.847457627119%,1.0
+
+ ---------- 
+Abilities used:
+1:Thick Fat,55.9322033898%,66.0
+2:Gluttony,44.0677966102%,52.0
+
+ ---------- 
+Natures used:
+1:Brave,49.1525423729%,58.0
+2:Adamant,45.7627118644%,54.0
+3:Sassy,4.23728813559%,5.0
+4:Impish,0.847457627119%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Sableye
+3:Xerneas
+4:Dusclops
+5:Mawile
+6:Amoonguss
+7:Salamence
+8:Yveltal
+9:Giratina
+10:Kyogre
+11:Gardevoir
+12:Zekrom
+13:Cresselia
+14:Dialga
+15:Mewtwo
+16:Talonflame
+17:Kangaskhan
+18:Meowstic
+19:Landorus
+20:Braviary
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Self-Destruct,84.2696629213%,99.4382022472
+2:Frustration,4.49438202247%,5.30337078652
+3:Double-Edge,4.49438202247%,5.30337078652
+4:Sleep Talk,2.24719101124%,2.65168539326
+5:Earthquake,2.24719101124%,2.65168539326
+6:Crunch,1.12359550562%,1.32584269663
+7:Return,1.12359550562%,1.32584269663
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,4.5045045045%,5.31531531532
+2:Water Spout,3.6036036036%,4.25225225225
+3:Low Kick,3.6036036036%,4.25225225225
+4:Dazzling Gleam,2.7027027027%,3.18918918919
+5:Earth Power,1.8018018018%,2.12612612613
+6:Brave Bird,1.8018018018%,2.12612612613
+7:Close Combat,1.8018018018%,2.12612612613
+8:Dragon Ascent,0.900900900901%,1.06306306306
+9:Origin Pulse,0.900900900901%,1.06306306306
+10:Moonblast,0.900900900901%,1.06306306306
+11:Power Whip,0.900900900901%,1.06306306306
+12:Hyper Voice,0.900900900901%,1.06306306306
+13:Return,0.900900900901%,1.06306306306
+14:Sludge Bomb,0.900900900901%,1.06306306306
+15:Rock Slide,0.900900900901%,1.06306306306
+16:High Jump Kick,0.900900900901%,1.06306306306
+17:Earthquake,0.900900900901%,1.06306306306
+18:Blizzard,0.900900900901%,1.06306306306
+19:Double-Edge,0.900900900901%,1.06306306306
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Talonflame
+3:Kangaskhan
+4:Kyurem
+5:Smeargle
+6:Thundurus
+7:Crobat
+8:Kangaskhan
+9:Landorus
+10:Groudon
+11:Yveltal
+12:Cresselia
+13:Palkia
+14:Salamence
+15:Meowstic
+16:Ferrothorn
+17:Amoonguss
+18:Liepard
+19:Togekiss
+20:Weavile
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Mienshao
+6:Talonflame
+7:Kyurem
+8:Landorus
+9:Ferrothorn
+10:Dialga
+11:Lucario
+12:Rayquaza
+13:Salamence
+14:Ho-Oh
+15:Gengar
+16:Primeape

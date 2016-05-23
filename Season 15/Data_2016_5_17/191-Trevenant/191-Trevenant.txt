@@ -1,0 +1,126 @@
+191:Trevenant|50
+ ---------- 
+Moves used:
+1:Trick Room,98.0%,49.0
+2:Wood Hammer,50.0%,25.0
+3:Protect,48.0%,24.0
+4:Forest's Curse,40.0%,20.0
+5:Skill Swap,40.0%,20.0
+6:Magic Coat,22.0%,11.0
+7:Role Play,22.0%,11.0
+8:Rock Slide,16.0%,8.0
+9:Confuse Ray,16.0%,8.0
+10:Imprison,14.0%,7.0
+11:Will-O-Wisp,10.0%,5.0
+12:Horn Leech,6.0%,3.0
+13:Seed Bomb,6.0%,3.0
+14:Curse,6.0%,3.0
+15:Phantom Force,2.0%,1.0
+16:Destiny Bond,2.0%,1.0
+17:Leech Seed,2.0%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,34.0%,17.0
+2:Coba Berry,22.0%,11.0
+3:Focus Sash,20.0%,10.0
+4:Sitrus Berry,14.0%,7.0
+5:Occa Berry,8.0%,4.0
+6:Lum Berry,2.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Frisk,66.0%,33.0
+2:Harvest,18.0%,9.0
+3:Natural Cure,16.0%,8.0
+
+ ---------- 
+Natures used:
+1:Calm,36.0%,18.0
+2:Adamant,30.0%,15.0
+3:Brave,18.0%,9.0
+4:Sassy,12.0%,6.0
+5:Careful,2.0%,1.0
+6:Impish,2.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mawile
+3:Kyogre
+4:Cresselia
+5:Meowstic
+6:Talonflame
+7:Landorus
+8:Xerneas
+9:Zekrom
+10:Yveltal
+11:Dialga
+12:Rayquaza
+13:Glalie
+14:Medicham
+15:Crobat
+16:Clefairy
+17:Weavile
+18:Salamence
+19:Smeargle
+20:Garchomp
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Wood Hammer,50.0%,25.0
+2:Rock Slide,33.3333333333%,16.6666666667
+3:Seed Bomb,16.6666666667%,8.33333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,11.1111111111%,5.55555555556
+2:Ice Beam,8.33333333333%,4.16666666667
+3:Dragon Ascent,5.55555555556%,2.77777777778
+4:Knock Off,5.55555555556%,2.77777777778
+5:Fire Blast,5.55555555556%,2.77777777778
+6:Double-Edge,5.55555555556%,2.77777777778
+7:Precipice Blades,2.77777777778%,1.38888888889
+8:Origin Pulse,2.77777777778%,1.38888888889
+9:Play Rough,2.77777777778%,1.38888888889
+10:Hurricane,2.77777777778%,1.38888888889
+11:Iron Head,2.77777777778%,1.38888888889
+12:Brave Bird,2.77777777778%,1.38888888889
+13:Sucker Punch,2.77777777778%,1.38888888889
+14:Overheat,2.77777777778%,1.38888888889
+15:Eruption,2.77777777778%,1.38888888889
+16:Sludge Bomb,2.77777777778%,1.38888888889
+17:Earthquake,2.77777777778%,1.38888888889
+18:Blizzard,2.77777777778%,1.38888888889
+19:Flamethrower,2.77777777778%,1.38888888889
+20:Ice Punch,2.77777777778%,1.38888888889
+0:Other,2.77777777778%,1.38888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Aegislash
+3:Talonflame
+4:Landorus
+5:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Groudon
+3:Kyogre
+4:Rayquaza
+5:Mawile
+6:Aegislash
+7:Talonflame
+8:Kyurem
+9:Landorus
+10:Tornadus
+11:Bisharp
+12:Ferrothorn
+13:Palkia
+14:Dialga
+15:Rayquaza
+16:Kyogre
+17:Kangaskhan
+18:Gengar

@@ -1,0 +1,48 @@
+300:Samurott|2
+ ---------- 
+Moves used:
+1:Grass Knot,100.0%,2.0
+2:Encore,100.0%,2.0
+3:Detect,100.0%,2.0
+4:Hydro Pump,100.0%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Shell Armor,50.0%,1.0
+2:Torrent,50.0%,1.0
+
+ ---------- 
+Natures used:
+1:Quiet,50.0%,1.0
+2:Modest,50.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Bronzong
+3:Groudon
+4:Salamence
+5:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,25.0%,0.5
+2:Origin Pulse,25.0%,0.5
+3:Dragon Pulse,25.0%,0.5
+4:Water Spout,25.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kyurem
+3:Groudon

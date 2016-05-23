@@ -1,0 +1,95 @@
+196:Rotom-Frost|38
+ ---------- 
+Moves used:
+1:Blizzard,100.0%,38.0
+2:Thunder,97.3684210526%,37.0
+3:Dark Pulse,81.5789473684%,31.0
+4:Volt Switch,71.0526315789%,27.0
+5:Discharge,23.6842105263%,9.0
+6:Swagger,10.5263157895%,4.0
+7:Trick,7.89473684211%,3.0
+8:Will-O-Wisp,2.63157894737%,1.0
+9:Shadow Ball,2.63157894737%,1.0
+10:Thunderbolt,2.63157894737%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,92.1052631579%,35.0
+2:Choice Specs,7.89473684211%,3.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,38.0
+
+ ---------- 
+Natures used:
+1:Modest,86.8421052632%,33.0
+2:Timid,7.89473684211%,3.0
+3:Sassy,2.63157894737%,1.0
+4:Quiet,2.63157894737%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Talonflame
+3:Mewtwo
+4:Gengar
+5:Xerneas
+6:Garchomp
+7:Rayquaza
+8:Kangaskhan
+9:Aromatisse
+10:Meowstic
+11:Amoonguss
+12:Ambipom
+13:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Blizzard,84.2105263158%,32.0
+2:Volt Switch,5.26315789474%,2.0
+3:Discharge,5.26315789474%,2.0
+4:Thunder,5.26315789474%,2.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.2857142857%,5.42857142857
+2:Extreme Speed,14.2857142857%,5.42857142857
+3:Origin Pulse,10.7142857143%,4.07142857143
+4:Water Spout,10.7142857143%,4.07142857143
+5:Scald,7.14285714286%,2.71428571429
+6:Sucker Punch,7.14285714286%,2.71428571429
+7:Eruption,7.14285714286%,2.71428571429
+8:Flamethrower,7.14285714286%,2.71428571429
+9:Dazzling Gleam,3.57142857143%,1.35714285714
+10:Dragon Pulse,3.57142857143%,1.35714285714
+11:Overheat,3.57142857143%,1.35714285714
+12:Return,3.57142857143%,1.35714285714
+13:Double-Edge,3.57142857143%,1.35714285714
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Landorus
+3:Yveltal
+4:Talonflame
+5:Zekrom
+6:Whimsicott
+7:Liepard
+8:Weavile
+9:Rayquaza
+10:Kyogre
+11:Crobat
+12:Zapdos
+13:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Rayquaza
+4:Kangaskhan
+5:Yveltal
+6:Xerneas
+7:Heatran
+8:Sceptile

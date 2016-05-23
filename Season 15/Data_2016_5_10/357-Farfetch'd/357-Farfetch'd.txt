@@ -1,0 +1,44 @@
+357:Farfetch'd|1
+ ---------- 
+Moves used:
+1:Brave Bird,100.0%,1.0
+2:Night Slash,100.0%,1.0
+3:Slash,100.0%,1.0
+4:Swords Dance,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Stick,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Emolga
+2:Delibird
+3:Salamence
+4:Articuno
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Brave Bird,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Foul Play,50.0%,0.5
+2:Water Spout,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Yveltal
+2:Kyogre

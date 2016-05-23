@@ -1,0 +1,138 @@
+170:Zoroark|74
+ ---------- 
+Moves used:
+1:Taunt,66.2162162162%,49.0
+2:Protect,66.2162162162%,49.0
+3:Fling,54.0540540541%,40.0
+4:Night Daze,50.0%,37.0
+5:Dark Pulse,33.7837837838%,25.0
+6:Flamethrower,29.7297297297%,22.0
+7:Hidden Power,21.6216216216%,16.0
+8:Sludge Bomb,18.9189189189%,14.0
+9:Foul Play,14.8648648649%,11.0
+10:Grass Knot,6.75675675676%,5.0
+11:Nasty Plot,6.75675675676%,5.0
+12:U-turn,6.75675675676%,5.0
+13:Sucker Punch,5.40540540541%,4.0
+14:Focus Blast,4.05405405405%,3.0
+15:Swagger,4.05405405405%,3.0
+16:Trick,2.7027027027%,2.0
+17:Substitute,2.7027027027%,2.0
+18:Low Kick,2.7027027027%,2.0
+19:Swords Dance,2.7027027027%,2.0
+
+ ---------- 
+Items used:
+1:Lansat Berry,54.0540540541%,40.0
+2:Choice Specs,14.8648648649%,11.0
+3:Focus Sash,14.8648648649%,11.0
+4:Life Orb,12.1621621622%,9.0
+5:Black Glasses,4.05405405405%,3.0
+
+ ---------- 
+Abilities used:
+1:Illusion,100.0%,74.0
+
+ ---------- 
+Natures used:
+1:Timid,87.8378378378%,65.0
+2:Hasty,6.75675675676%,5.0
+3:Modest,2.7027027027%,2.0
+4:Adamant,2.7027027027%,2.0
+
+ ---------- 
+Top teammates:
+1:Lugia
+2:Toxicroak
+3:Zekrom
+4:Yveltal
+5:Kangaskhan
+6:Rayquaza
+7:Groudon
+8:Marowak
+9:Giratina
+10:Mewtwo
+11:Xerneas
+12:Landorus
+13:Raichu
+14:Talonflame
+15:Kyurem
+16:Sharpedo
+17:Gothorita
+18:Kyogre
+19:Manectric
+20:Mawile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dark Pulse,28.0%,20.72
+2:Night Daze,24.0%,17.76
+3:Flamethrower,16.0%,11.84
+4:Hidden Power,12.0%,8.88
+5:Sludge Bomb,8.0%,5.92
+6:Foul Play,4.0%,2.96
+7:Focus Blast,4.0%,2.96
+8:Fling,4.0%,2.96
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,30.5084745763%,22.5762711864
+2:Water Spout,10.1694915254%,7.52542372881
+3:Precipice Blades,8.47457627119%,6.27118644068
+4:Double-Edge,6.77966101695%,5.01694915254
+5:Moonblast,5.08474576271%,3.76271186441
+6:Hyper Voice,5.08474576271%,3.76271186441
+7:Power-Up Punch,3.38983050847%,2.50847457627
+8:Play Rough,3.38983050847%,2.50847457627
+9:Scald,3.38983050847%,2.50847457627
+10:Grass Knot,3.38983050847%,2.50847457627
+11:Eruption,3.38983050847%,2.50847457627
+12:Extreme Speed,3.38983050847%,2.50847457627
+13:Origin Pulse,1.69491525424%,1.25423728814
+14:Discharge,1.69491525424%,1.25423728814
+15:Dragon Pulse,1.69491525424%,1.25423728814
+16:Feint,1.69491525424%,1.25423728814
+17:Gyro Ball,1.69491525424%,1.25423728814
+18:Frustration,1.69491525424%,1.25423728814
+19:High Jump Kick,1.69491525424%,1.25423728814
+20:Earthquake,1.69491525424%,1.25423728814
+0:Other,2.04281036531e-14%,1.51167967033e-14
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Meowstic
+2:Kangaskhan
+3:Landorus
+4:Mawile
+5:Smeargle
+6:Xerneas
+7:Aegislash
+8:Talonflame
+9:Ferrothorn
+10:Cresselia
+11:Weavile
+12:Kyogre
+13:Salamence
+14:Shiftry
+15:Lugia
+16:Crobat
+17:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Kyogre
+3:Groudon
+4:Kangaskhan
+5:Salamence
+6:Amoonguss
+7:Whimsicott
+8:Mawile
+9:Landorus
+10:Thundurus
+11:Mienshao
+12:Ferrothorn
+13:Dialga
+14:Weavile
+15:Rayquaza
+16:Rayquaza

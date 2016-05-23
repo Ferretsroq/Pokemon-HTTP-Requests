@@ -1,0 +1,98 @@
+206:Carracosta|29
+ ---------- 
+Moves used:
+1:Aqua Jet,93.1034482759%,27.0
+2:Rock Slide,93.1034482759%,27.0
+3:Protect,79.3103448276%,23.0
+4:Low Kick,79.3103448276%,23.0
+5:Wide Guard,17.2413793103%,5.0
+6:Shell Smash,10.3448275862%,3.0
+7:Superpower,10.3448275862%,3.0
+8:Stone Edge,6.89655172414%,2.0
+9:Waterfall,6.89655172414%,2.0
+10:Knock Off,3.44827586207%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,79.3103448276%,23.0
+2:Weakness Policy,17.2413793103%,5.0
+3:Lum Berry,3.44827586207%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,29.0
+
+ ---------- 
+Natures used:
+1:Adamant,93.1034482759%,27.0
+2:Jolly,6.89655172414%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Kyogre
+3:Gengar
+4:Thundurus
+5:Ludicolo
+6:Kangaskhan
+7:Dialga
+8:Talonflame
+9:Liepard
+10:Bastiodon
+11:Rampardos
+12:Blaziken
+13:Clefable
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,60.0%,17.4
+2:Aqua Jet,25.0%,7.25
+3:Low Kick,10.0%,2.9
+4:Superpower,5.0%,1.45
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,13.6363636364%,3.95454545455
+2:Water Spout,13.6363636364%,3.95454545455
+3:Dazzling Gleam,9.09090909091%,2.63636363636
+4:Power Whip,9.09090909091%,2.63636363636
+5:Origin Pulse,4.54545454545%,1.31818181818
+6:Power-Up Punch,4.54545454545%,1.31818181818
+7:Moonblast,4.54545454545%,1.31818181818
+8:Brave Bird,4.54545454545%,1.31818181818
+9:Energy Ball,4.54545454545%,1.31818181818
+10:Dragon Claw,4.54545454545%,1.31818181818
+11:Hyper Voice,4.54545454545%,1.31818181818
+12:Eruption,4.54545454545%,1.31818181818
+13:Quick Attack,4.54545454545%,1.31818181818
+14:Thunderbolt,4.54545454545%,1.31818181818
+15:Low Kick,4.54545454545%,1.31818181818
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Talonflame
+4:Xerneas
+5:Thundurus
+6:Ferrothorn
+7:Liepard
+8:Cresselia
+9:Weavile
+10:Gengar
+11:Tentacruel
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Ferrothorn
+5:Sylveon
+6:Talonflame
+7:Mienshao
+8:Amoonguss
+9:Gardevoir
+10:Ditto
+11:Kangaskhan
+12:Raichu

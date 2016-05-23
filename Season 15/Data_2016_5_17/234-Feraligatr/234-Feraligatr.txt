@@ -1,0 +1,83 @@
+234:Feraligatr|19
+ ---------- 
+Moves used:
+1:Dragon Dance,100.0%,19.0
+2:Waterfall,100.0%,19.0
+3:Ice Punch,94.7368421053%,18.0
+4:Crunch,52.6315789474%,10.0
+5:Protect,42.1052631579%,8.0
+6:Aqua Jet,5.26315789474%,1.0
+7:Earthquake,5.26315789474%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,73.6842105263%,14.0
+2:Cheri Berry,26.3157894737%,5.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,100.0%,19.0
+
+ ---------- 
+Natures used:
+1:Adamant,57.8947368421%,11.0
+2:Jolly,42.1052631579%,8.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Xerneas
+3:Smeargle
+4:Rayquaza
+5:Kyogre
+6:Salamence
+7:Raichu
+8:Meowstic
+9:Talonflame
+10:Infernape
+11:Landorus
+12:Amoonguss
+13:Whimsicott
+14:Rotom
+15:Breloom
+16:Gardevoir
+17:Lugia
+18:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Waterfall,45.4545454545%,8.63636363636
+2:Ice Punch,45.4545454545%,8.63636363636
+3:Crunch,9.09090909091%,1.72727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,16.6666666667%,3.16666666667
+2:Moonblast,16.6666666667%,3.16666666667
+3:Double-Edge,16.6666666667%,3.16666666667
+4:Precipice Blades,8.33333333333%,1.58333333333
+5:Dazzling Gleam,8.33333333333%,1.58333333333
+6:Foul Play,8.33333333333%,1.58333333333
+7:Water Spout,8.33333333333%,1.58333333333
+8:Hyper Voice,8.33333333333%,1.58333333333
+9:Extreme Speed,8.33333333333%,1.58333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Smeargle
+3:Yveltal
+4:Kyogre
+5:Crobat
+6:Mewtwo
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Rayquaza
+3:Salamence
+4:Yveltal
+5:Rayquaza
+6:Groudon
+7:Kyogre
+8:Kangaskhan

@@ -1,0 +1,54 @@
+322:Golem|4
+ ---------- 
+Moves used:
+1:Explosion,100.0%,4.0
+2:Earthquake,100.0%,4.0
+3:Rock Slide,75.0%,3.0
+4:Bulldoze,50.0%,2.0
+5:Stealth Rock,25.0%,1.0
+6:Stone Edge,25.0%,1.0
+7:Protect,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Choice Band,50.0%,2.0
+2:Weakness Policy,25.0%,1.0
+3:Passho Berry,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Sturdy,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,75.0%,3.0
+2:Brave,25.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kyurem
+4:Mienshao
+5:Gallade
+6:Milotic
+7:Jumpluff
+8:Mewtwo
+9:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Explosion,75.0%,3.0
+2:Rock Slide,25.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Thundurus
+2:Kyogre
+3:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:

@@ -1,0 +1,74 @@
+280:Cinccino|9
+ ---------- 
+Moves used:
+1:Bullet Seed,100.0%,9.0
+2:Rock Blast,88.8888888889%,8.0
+3:Protect,88.8888888889%,8.0
+4:Tail Slap,77.7777777778%,7.0
+5:Sing,22.2222222222%,2.0
+6:U-turn,11.1111111111%,1.0
+7:Helping Hand,11.1111111111%,1.0
+
+ ---------- 
+Items used:
+1:King's Rock,66.6666666667%,6.0
+2:Lum Berry,22.2222222222%,2.0
+3:Razor Fang,11.1111111111%,1.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,9.0
+
+ ---------- 
+Natures used:
+1:Jolly,88.8888888889%,8.0
+2:Adamant,11.1111111111%,1.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Yveltal
+3:Talonflame
+4:Lucario
+5:Mewtwo
+6:Nidoking
+7:Whimsicott
+8:Dialga
+9:Groudon
+10:Kyogre
+11:Salamence
+12:Swampert
+13:Ho-Oh
+14:Smeargle
+15:Zapdos
+16:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Tail Slap,33.3333333333%,3.0
+2:Rock Blast,33.3333333333%,3.0
+3:Bullet Seed,33.3333333333%,3.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Eruption,28.5714285714%,2.57142857143
+2:Dazzling Gleam,14.2857142857%,1.28571428571
+3:Gyro Ball,14.2857142857%,1.28571428571
+4:Water Spout,14.2857142857%,1.28571428571
+5:Extreme Speed,14.2857142857%,1.28571428571
+6:Explosion,14.2857142857%,1.28571428571
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Greninja
+2:Thundurus
+3:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Ferrothorn
+4:Rayquaza
+5:Kyogre
+6:Metagross

@@ -1,0 +1,82 @@
+267:Floatzel|11
+ ---------- 
+Moves used:
+1:Soak,72.7272727273%,8.0
+2:Taunt,72.7272727273%,8.0
+3:Protect,63.6363636364%,7.0
+4:Waterfall,54.5454545455%,6.0
+5:Icy Wind,45.4545454545%,5.0
+6:Me First,27.2727272727%,3.0
+7:Low Kick,27.2727272727%,3.0
+8:Ice Punch,27.2727272727%,3.0
+9:Aqua Jet,9.09090909091%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,45.4545454545%,5.0
+2:Life Orb,27.2727272727%,3.0
+3:Chilan Berry,18.1818181818%,2.0
+4:Focus Sash,9.09090909091%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,72.7272727273%,8.0
+2:Water Veil,27.2727272727%,3.0
+
+ ---------- 
+Natures used:
+1:Timid,36.3636363636%,4.0
+2:Jolly,27.2727272727%,3.0
+3:Adamant,27.2727272727%,3.0
+4:Naive,9.09090909091%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Shedinja
+3:Mienshao
+4:Kyogre
+5:Smeargle
+6:Kangaskhan
+7:Dialga
+8:Rayquaza
+9:Xerneas
+10:Zekrom
+11:Thundurus
+12:Cherrim
+13:Salamence
+14:Manectric
+15:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Me First,50.0%,5.5
+2:Waterfall,50.0%,5.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,11.1111111111%,1.22222222222
+2:Dazzling Gleam,11.1111111111%,1.22222222222
+3:Moonblast,11.1111111111%,1.22222222222
+4:Power Whip,11.1111111111%,1.22222222222
+5:Brave Bird,11.1111111111%,1.22222222222
+6:U-turn,11.1111111111%,1.22222222222
+7:Focus Punch,11.1111111111%,1.22222222222
+8:Icy Wind,11.1111111111%,1.22222222222
+9:Sludge Bomb,11.1111111111%,1.22222222222
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Talonflame
+3:Kyurem
+4:Landorus
+5:Ferrothorn
+6:Lucario
+7:Groudon
+8:Gengar

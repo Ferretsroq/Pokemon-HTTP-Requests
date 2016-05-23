@@ -1,0 +1,52 @@
+264:Delcatty|1
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,1.0
+2:Baton Pass,100.0%,1.0
+3:Protect,100.0%,1.0
+4:Thunder Wave,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Lum Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Normalize,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Sableye
+2:Lugia
+3:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,30.0%,0.3
+2:Hyper Voice,20.0%,0.2
+3:Origin Pulse,10.0%,0.1
+4:Feint,10.0%,0.1
+5:Extreme Speed,10.0%,0.1
+6:Rock Slide,10.0%,0.1
+7:Fire Punch,10.0%,0.1
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Sylveon
+3:Rayquaza
+4:Groudon
+5:Kyogre
+6:Salamence
+7:Sableye
+8:Kangaskhan

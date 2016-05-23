@@ -1,0 +1,89 @@
+245:Articuno|16
+ ---------- 
+Moves used:
+1:Freeze-Dry,93.75%,15.0
+2:Hurricane,81.25%,13.0
+3:Ice Shard,43.75%,7.0
+4:Tailwind,43.75%,7.0
+5:Sheer Cold,43.75%,7.0
+6:Blizzard,37.5%,6.0
+7:Water Pulse,12.5%,2.0
+8:Protect,12.5%,2.0
+9:Roost,6.25%,1.0
+10:Icy Wind,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,43.75%,7.0
+2:Assault Vest,37.5%,6.0
+3:Icicle Plate,6.25%,1.0
+4:Life Orb,6.25%,1.0
+5:Expert Belt,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Snow Cloak,56.25%,9.0
+2:Pressure,43.75%,7.0
+
+ ---------- 
+Natures used:
+1:Modest,87.5%,14.0
+2:Timid,12.5%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Liepard
+4:Salamence
+5:Aegislash
+6:Absol
+7:Kangaskhan
+8:Whimsicott
+9:Kyogre
+10:Xerneas
+11:Thundurus
+12:Emolga
+13:Cresselia
+14:Latios
+15:Latias
+16:Delibird
+17:Farfetch'd
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Freeze-Dry,55.5555555556%,8.88888888889
+2:Sheer Cold,33.3333333333%,5.33333333333
+3:Ice Shard,11.1111111111%,1.77777777778
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,40.0%,6.4
+2:Origin Pulse,10.0%,1.6
+3:Brave Bird,10.0%,1.6
+4:Gyro Ball,10.0%,1.6
+5:Water Spout,10.0%,1.6
+6:Knock Off,10.0%,1.6
+7:Sacred Fire,10.0%,1.6
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Rayquaza
+3:Groudon
+4:Kyogre
+5:Salamence
+6:Smeargle
+7:Porygon2
+8:Crobat
+9:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Talonflame
+4:Landorus
+5:Weavile
+6:Bronzong
+7:Ho-Oh

@@ -1,0 +1,51 @@
+298:Foongus|2
+ ---------- 
+Moves used:
+1:Foul Play,100.0%,2.0
+2:Rage Powder,100.0%,2.0
+3:Spore,100.0%,2.0
+4:After You,50.0%,1.0
+5:Protect,50.0%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,100.0%,2.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,50.0%,1.0
+2:Effect Spore,50.0%,1.0
+
+ ---------- 
+Natures used:
+1:Relaxed,100.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Kyogre
+3:Salamence
+4:Xerneas
+5:Seismitoad
+6:Groudon
+7:Rayquaza
+8:Mewtwo
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,50.0%,1.0
+2:Dragon Ascent,25.0%,0.5
+3:Draco Meteor,25.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Dialga
+3:Rayquaza

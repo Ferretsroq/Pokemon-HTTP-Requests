@@ -1,0 +1,84 @@
+195:Tangrowth|42
+ ---------- 
+Moves used:
+1:Hidden Power,100.0%,42.0
+2:Protect,100.0%,42.0
+3:Grass Knot,83.3333333333%,35.0
+4:Sleep Powder,83.3333333333%,35.0
+5:Rage Powder,16.6666666667%,7.0
+6:Power Whip,16.6666666667%,7.0
+
+ ---------- 
+Items used:
+1:Wide Lens,83.3333333333%,35.0
+2:Life Orb,11.9047619048%,5.0
+3:Expert Belt,4.7619047619%,2.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,100.0%,42.0
+
+ ---------- 
+Natures used:
+1:Calm,83.3333333333%,35.0
+2:Naughty,16.6666666667%,7.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Kangaskhan
+4:Salamence
+5:Bronzong
+6:Xerneas
+7:Liepard
+8:Toxicroak
+9:Thundurus
+10:Mawile
+11:Smeargle
+12:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hidden Power,50.0%,21.0
+2:Grass Knot,41.6666666667%,17.5
+3:Power Whip,8.33333333333%,3.5
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,22.7272727273%,9.54545454545
+2:Flare Blitz,9.09090909091%,3.81818181818
+3:Eruption,9.09090909091%,3.81818181818
+4:Fire Punch,9.09090909091%,3.81818181818
+5:Origin Pulse,4.54545454545%,1.90909090909
+6:Oblivion Wing,4.54545454545%,1.90909090909
+7:Dazzling Gleam,4.54545454545%,1.90909090909
+8:Moonblast,4.54545454545%,1.90909090909
+9:Brave Bird,4.54545454545%,1.90909090909
+10:Gyro Ball,4.54545454545%,1.90909090909
+11:Water Spout,4.54545454545%,1.90909090909
+12:Hyper Voice,4.54545454545%,1.90909090909
+13:Superpower,4.54545454545%,1.90909090909
+14:Return,4.54545454545%,1.90909090909
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Salamence
+2:Groudon
+3:Kyogre
+4:Terrakion
+5:Amoonguss
+6:Cresselia
+7:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Talonflame
+4:Xerneas
+5:Yveltal
+6:Landorus
+7:Ferrothorn
+8:Salamence
+9:Kangaskhan

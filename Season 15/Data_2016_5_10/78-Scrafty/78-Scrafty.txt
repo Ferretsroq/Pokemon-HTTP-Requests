@@ -1,0 +1,162 @@
+78:Scrafty|449
+ ---------- 
+Moves used:
+1:Fake Out,86.6369710468%,389.0
+2:Knock Off,82.85077951%,372.0
+3:Super Fang,47.438752784%,213.0
+4:Drain Punch,45.434298441%,204.0
+5:Low Kick,43.2071269488%,194.0
+6:Quick Guard,23.3853006682%,105.0
+7:Ice Punch,13.5857461024%,61.0
+8:Protect,11.8040089087%,53.0
+9:Foul Play,7.79510022272%,35.0
+10:Taunt,7.5723830735%,34.0
+11:Snarl,6.01336302895%,27.0
+12:Detect,4.89977728285%,22.0
+13:High Jump Kick,4.89977728285%,22.0
+14:Rock Slide,3.56347438753%,16.0
+15:Crunch,3.34075723831%,15.0
+16:Poison Jab,2.44988864143%,11.0
+17:Head Smash,1.55902004454%,7.0
+18:Stone Edge,1.1135857461%,5.0
+19:Dragon Tail,0.890868596882%,4.0
+20:Iron Defense,0.890868596882%,4.0
+0:Other,0.668151447661%,3.0
+
+ ---------- 
+Items used:
+1:Assault Vest,37.416481069%,168.0
+2:Lum Berry,23.1625835189%,104.0
+3:Eject Button,14.0311804009%,63.0
+4:Life Orb,9.13140311804%,41.0
+5:Chesto Berry,5.34521158129%,24.0
+6:Coba Berry,2.89532293987%,13.0
+7:Sitrus Berry,2.89532293987%,13.0
+8:Focus Sash,1.55902004454%,7.0
+9:Leftovers,1.33630289532%,6.0
+10:Safety Goggles,0.668151447661%,3.0
+11:Expert Belt,0.445434298441%,2.0
+12:Roseli Berry,0.22271714922%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,449.0
+
+ ---------- 
+Natures used:
+1:Brave,39.8663697105%,179.0
+2:Adamant,26.9487750557%,121.0
+3:Careful,20.0445434298%,90.0
+4:Relaxed,5.12249443207%,23.0
+5:Impish,3.78619153675%,17.0
+6:Sassy,2.00445434298%,9.0
+7:Rash,1.78173719376%,8.0
+8:Calm,0.22271714922%,1.0
+9:Jolly,0.22271714922%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Rayquaza
+4:Cresselia
+5:Mawile
+6:Xerneas
+7:Salamence
+8:Kangaskhan
+9:Meowstic
+10:Gengar
+11:Mewtwo
+12:Thundurus
+13:Whimsicott
+14:Dialga
+15:Porygon2
+16:Talonflame
+17:Smeargle
+18:Sylveon
+19:Landorus
+20:Ferrothorn
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,29.1925465839%,131.074534161
+2:Knock Off,28.5714285714%,128.285714286
+3:Drain Punch,22.3602484472%,100.397515528
+4:High Jump Kick,5.5900621118%,25.099378882
+5:Fake Out,4.34782608696%,19.5217391304
+6:Rock Slide,2.48447204969%,11.1552795031
+7:Ice Punch,2.48447204969%,11.1552795031
+8:Snarl,1.86335403727%,8.36645962733
+9:Foul Play,1.24223602484%,5.57763975155
+10:Head Smash,1.24223602484%,5.57763975155
+11:Crunch,0.621118012422%,2.78881987578
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.7192429022%,75.0694006309
+2:Precipice Blades,11.9873817035%,53.8233438486
+3:Water Spout,7.88643533123%,35.4100946372
+4:Dragon Ascent,6.30914826498%,28.3280757098
+5:Origin Pulse,4.41640378549%,19.8296529968
+6:Play Rough,4.10094637224%,18.4132492114
+7:Brave Bird,4.10094637224%,18.4132492114
+8:Hyper Voice,4.10094637224%,18.4132492114
+9:Double-Edge,3.78548895899%,16.9968454259
+10:Ice Beam,3.47003154574%,15.5804416404
+11:Eruption,3.15457413249%,14.1640378549
+12:Moonblast,2.83911671924%,12.7476340694
+13:Thunderbolt,1.8927444795%,8.49842271293
+14:Low Kick,1.8927444795%,8.49842271293
+15:Flamethrower,1.57728706625%,7.08201892744
+16:Fire Punch,1.57728706625%,7.08201892744
+17:Oblivion Wing,1.261829653%,5.66561514196
+18:Power-Up Punch,0.946372239748%,4.24921135647
+19:Dragon Pulse,0.946372239748%,4.24921135647
+20:Close Combat,0.946372239748%,4.24921135647
+0:Other,11.9873817035%,53.8233438486
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Smeargle
+3:Kangaskhan
+4:Dialga
+5:Weavile
+6:Thundurus
+7:Ferrothorn
+8:Groudon
+9:Liepard
+10:Gengar
+11:Meowstic
+12:Cresselia
+13:Crobat
+14:Gengar
+15:Yveltal
+16:Kyurem
+17:Talonflame
+18:Palkia
+19:Greninja
+20:Landorus
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Salamence
+5:Rayquaza
+6:Kangaskhan
+7:Mawile
+8:Talonflame
+9:Rayquaza
+10:Yveltal
+11:Landorus
+12:Dialga
+13:Gengar
+14:Thundurus
+15:Ferrothorn
+16:Whimsicott
+17:Ho-Oh
+18:Ditto
+19:Infernape
+20:Kyogre

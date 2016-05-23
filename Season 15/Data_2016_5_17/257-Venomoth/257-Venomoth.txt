@@ -1,0 +1,67 @@
+257:Venomoth|14
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,14.0
+2:Rage Powder,78.5714285714%,11.0
+3:Skill Swap,78.5714285714%,11.0
+4:Protect,64.2857142857%,9.0
+5:Quiver Dance,21.4285714286%,3.0
+6:Bug Buzz,21.4285714286%,3.0
+7:Tailwind,14.2857142857%,2.0
+8:Baton Pass,14.2857142857%,2.0
+9:Sludge Bomb,7.14285714286%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,92.8571428571%,13.0
+2:Life Orb,7.14285714286%,1.0
+
+ ---------- 
+Abilities used:
+1:Tinted Lens,85.7142857143%,12.0
+2:Wonder Skin,14.2857142857%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,92.8571428571%,13.0
+2:Modest,7.14285714286%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Crobat
+3:Kyogre
+4:Dialga
+5:Meowstic
+6:Kyurem
+7:Lugia
+8:Kangaskhan
+9:Xerneas
+10:Krookodile
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Bug Buzz,100.0%,14.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.2857142857%,2.0
+2:Moonblast,14.2857142857%,2.0
+3:Brave Bird,14.2857142857%,2.0
+4:Gyro Ball,14.2857142857%,2.0
+5:Water Spout,14.2857142857%,2.0
+6:Aeroblast,14.2857142857%,2.0
+7:Ice Beam,14.2857142857%,2.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Talonflame
+4:Ferrothorn
+5:Groudon
+6:Lugia

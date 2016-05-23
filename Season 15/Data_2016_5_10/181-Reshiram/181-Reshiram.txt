@@ -1,0 +1,130 @@
+181:Reshiram|62
+ ---------- 
+Moves used:
+1:Earth Power,87.0967741935%,54.0
+2:Blue Flare,85.4838709677%,53.0
+3:Dragon Pulse,82.2580645161%,51.0
+4:Heat Wave,70.9677419355%,44.0
+5:Fusion Flare,20.9677419355%,13.0
+6:Draco Meteor,17.7419354839%,11.0
+7:Protect,12.9032258065%,8.0
+8:Stone Edge,8.06451612903%,5.0
+9:Outrage,8.06451612903%,5.0
+10:Fling,3.22580645161%,2.0
+11:Solar Beam,3.22580645161%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,67.7419354839%,42.0
+2:Life Orb,12.9032258065%,8.0
+3:Flame Plate,6.45161290323%,4.0
+4:Weakness Policy,4.83870967742%,3.0
+5:Choice Scarf,3.22580645161%,2.0
+6:Shuca Berry,3.22580645161%,2.0
+7:Expert Belt,1.61290322581%,1.0
+
+ ---------- 
+Abilities used:
+1:Turboblaze,100.0%,62.0
+
+ ---------- 
+Natures used:
+1:Modest,80.6451612903%,50.0
+2:Timid,11.2903225806%,7.0
+3:Naive,8.06451612903%,5.0
+
+ ---------- 
+Top teammates:
+1:Kangaskhan
+2:Groudon
+3:Salamence
+4:Espeon
+5:Thundurus
+6:Zekrom
+7:Gengar
+8:Meowstic
+9:Greninja
+10:Lickilicky
+11:Mawile
+12:Crobat
+13:Xerneas
+14:Ferrothorn
+15:Heatran
+16:Weavile
+17:Latios
+18:Mewtwo
+19:Talonflame
+20:Landorus
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,32.5581395349%,20.1860465116
+2:Dragon Pulse,27.9069767442%,17.3023255814
+3:Blue Flare,18.6046511628%,11.5348837209
+4:Earth Power,9.3023255814%,5.76744186047
+5:Draco Meteor,6.97674418605%,4.32558139535
+6:Fusion Flare,4.6511627907%,2.88372093023
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,27.0833333333%,16.7916666667
+2:Water Spout,12.5%,7.75
+3:Dragon Ascent,6.25%,3.875
+4:Dazzling Gleam,6.25%,3.875
+5:Double-Edge,6.25%,3.875
+6:Moonblast,4.16666666667%,2.58333333333
+7:Draco Meteor,4.16666666667%,2.58333333333
+8:Earth Power,4.16666666667%,2.58333333333
+9:Sucker Punch,4.16666666667%,2.58333333333
+10:Extreme Speed,4.16666666667%,2.58333333333
+11:Origin Pulse,2.08333333333%,1.29166666667
+12:Play Rough,2.08333333333%,1.29166666667
+13:Snarl,2.08333333333%,1.29166666667
+14:Foul Play,2.08333333333%,1.29166666667
+15:Cross Poison,2.08333333333%,1.29166666667
+16:Brave Bird,2.08333333333%,1.29166666667
+17:Return,2.08333333333%,1.29166666667
+18:Destiny Bond,2.08333333333%,1.29166666667
+19:Thunderbolt,2.08333333333%,1.29166666667
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Talonflame
+4:Landorus
+5:Cresselia
+6:Salamence
+7:Gengar
+8:Thundurus
+9:Ferrothorn
+10:Liepard
+11:Kyogre
+12:Raichu
+13:Xerneas
+14:Whimsicott
+15:Dialga
+16:Bronzong
+17:Lopunny
+18:Rayquaza
+19:Rayquaza
+20:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Rayquaza
+6:Yveltal
+7:Rayquaza
+8:Salamence
+9:Talonflame
+10:Thundurus
+11:Dialga
+12:Gastrodon
+13:Kyogre
+14:Mawile
+15:Houndoom
+16:Crobat

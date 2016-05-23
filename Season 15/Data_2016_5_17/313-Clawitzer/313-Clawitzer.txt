@@ -1,0 +1,48 @@
+313:Clawitzer|1
+ ---------- 
+Moves used:
+1:Dark Pulse,100.0%,1.0
+2:Aura Sphere,100.0%,1.0
+3:Water Pulse,100.0%,1.0
+4:Ice Beam,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Mega Launcher,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Weavile
+2:Kyogre
+3:Kyurem
+4:Quagsire
+5:Greninja
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Aura Sphere,66.6666666667%,0.666666666667
+2:Water Pulse,33.3333333333%,0.333333333333
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,50.0%,0.5
+2:Sludge Bomb,50.0%,0.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Smeargle
+3:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Gengar

@@ -1,0 +1,173 @@
+20:Amoonguss|13811
+ ---------- 
+Moves used:
+1:Rage Powder,99.7972630512%,13783.0
+2:Spore,99.7827818406%,13781.0
+3:Protect,88.675693288%,12247.0
+4:Grass Knot,72.7101585693%,10042.0
+5:Clear Smog,15.8424444284%,2188.0
+6:Giga Drain,12.1859387445%,1683.0
+7:After You,4.36608500471%,603.0
+8:Sludge Bomb,3.34515965535%,462.0
+9:Foul Play,1.6363768011%,226.0
+10:Energy Ball,0.55028600391%,76.0
+11:Hidden Power,0.376511476359%,52.0
+12:Gastro Acid,0.238939975382%,33.0
+13:Worry Seed,0.144812106292%,20.0
+14:Substitute,0.101368474404%,14.0
+15:Synthesis,0.072406053146%,10.0
+16:Swagger,0.0651654478314%,9.0
+17:Seed Bomb,0.0579248425168%,8.0
+18:Rest,0.036203026573%,5.0
+19:Bide,0.0072406053146%,1.0
+20:Toxic,0.0072406053146%,1.0
+
+ ---------- 
+Items used:
+1:Mental Herb,32.3510245457%,4468.0
+2:Coba Berry,20.9687929911%,2896.0
+3:Lum Berry,14.2205488379%,1964.0
+4:Sitrus Berry,8.84801969445%,1222.0
+5:Rocky Helmet,6.35001086091%,877.0
+6:Red Card,4.07646079212%,563.0
+7:Focus Sash,3.35964086598%,464.0
+8:Chesto Berry,2.85279849395%,394.0
+9:Occa Berry,1.99116646152%,275.0
+10:Black Sludge,1.94772282963%,269.0
+11:Yache Berry,0.789225979292%,109.0
+12:Eject Button,0.767504163348%,106.0
+13:Leftovers,0.651654478314%,90.0
+14:Jaboca Berry,0.289624212584%,40.0
+15:Bright Powder,0.130330895663%,18.0
+16:Quick Claw,0.101368474404%,14.0
+17:Big Root,0.0796466584606%,11.0
+18:Custap Berry,0.036203026573%,5.0
+19:Kee Berry,0.0217218159438%,3.0
+20:Air Balloon,0.0217218159438%,3.0
+0:Other,0.072406053146%,10.0
+
+ ---------- 
+Abilities used:
+1:Regenerator,80.139019622%,11068.0
+2:Effect Spore,19.860980378%,2743.0
+
+ ---------- 
+Natures used:
+1:Sassy,51.9513431323%,7175.0
+2:Relaxed,29.6140757367%,4090.0
+3:Bold,10.2526971255%,1416.0
+4:Calm,6.5961914416%,911.0
+5:Quiet,0.781985373977%,108.0
+6:Timid,0.246180580697%,34.0
+7:Careful,0.231699370067%,32.0
+8:Modest,0.144812106292%,20.0
+9:Rash,0.0651654478314%,9.0
+10:Gentle,0.0579248425168%,8.0
+11:Brave,0.0289624212584%,4.0
+12:Lax,0.0217218159438%,3.0
+13:Impish,0.0072406053146%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Salamence
+6:Rayquaza
+7:Talonflame
+8:Thundurus
+9:Mawile
+10:Cresselia
+11:Smeargle
+12:Landorus
+13:Dialga
+14:Yveltal
+15:Weavile
+16:Gengar
+17:Crobat
+18:Raichu
+19:Zapdos
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,77.4068322981%,10690.6576087
+2:Giga Drain,9.16149068323%,1265.29347826
+3:Clear Smog,8.07453416149%,1115.17391304
+4:Sludge Bomb,3.41614906832%,471.804347826
+5:Foul Play,1.08695652174%,150.119565217
+6:Energy Ball,0.465838509317%,64.3369565217
+7:Seed Bomb,0.155279503106%,21.4456521739
+8:Hidden Power,0.155279503106%,21.4456521739
+9:Struggle,0.0776397515528%,10.722826087
+
+ ---------- 
+Moves that KO this pokemon:
+1:Ice Beam,12.5059326056%,1727.19435216
+2:Double-Edge,9.49216896061%,1310.96345515
+3:Precipice Blades,7.21404841006%,996.332225914
+4:Eruption,6.79876601804%,938.977574751
+5:Dragon Ascent,6.70384432843%,925.867940199
+6:Fire Punch,5.80208827717%,801.32641196
+7:Brave Bird,5.03084954912%,694.810631229
+8:Hyper Voice,4.42572377788%,611.236710963
+9:Water Spout,4.03417180826%,557.159468439
+10:Iron Head,3.1798766018%,439.172757475
+11:Dazzling Gleam,2.04081632653%,281.857142857
+12:Return,1.98149027053%,273.663621262
+13:Origin Pulse,1.94589463692%,268.747508306
+14:Sludge Bomb,1.5187470337%,209.754152824
+15:Flamethrower,1.35263407689%,186.812292359
+16:Overheat,1.31703844328%,181.896179402
+17:Dragon Pulse,1.24584717608%,172.063953488
+18:Moonblast,1.22211675368%,168.78654485
+19:Rock Slide,1.12719506407%,155.676910299
+20:Oblivion Wing,1.07973421927%,149.122093023
+0:Other,18.7470336972%,2589.15282392
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Groudon
+3:Xerneas
+4:Smeargle
+5:Kangaskhan
+6:Whimsicott
+7:Thundurus
+8:Liepard
+9:Cresselia
+10:Rayquaza
+11:Landorus
+12:Bronzong
+13:Gengar
+14:Ferrothorn
+15:Weavile
+16:Rayquaza
+17:Yveltal
+18:Talonflame
+19:Jellicent
+20:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Salamence
+5:Rayquaza
+6:Talonflame
+7:Mawile
+8:Xerneas
+9:Yveltal
+10:Rayquaza
+11:Dialga
+12:Landorus
+13:Gengar
+14:Cresselia
+15:Weavile
+16:Kyurem
+17:Gengar
+18:Thundurus
+19:Palkia
+20:Ho-Oh

@@ -1,0 +1,82 @@
+242:Roserade|17
+ ---------- 
+Moves used:
+1:Sludge Bomb,100.0%,17.0
+2:Hidden Power,82.3529411765%,14.0
+3:Protect,70.5882352941%,12.0
+4:Magical Leaf,41.1764705882%,7.0
+5:Giga Drain,35.2941176471%,6.0
+6:Grass Knot,23.5294117647%,4.0
+7:Weather Ball,23.5294117647%,4.0
+8:Flash,11.7647058824%,2.0
+9:Double Team,11.7647058824%,2.0
+
+ ---------- 
+Items used:
+1:Life Orb,47.0588235294%,8.0
+2:Focus Sash,23.5294117647%,4.0
+3:Choice Scarf,17.6470588235%,3.0
+4:Lax Incense,11.7647058824%,2.0
+
+ ---------- 
+Abilities used:
+1:Technician,88.2352941176%,15.0
+2:Poison Point,11.7647058824%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,47.0588235294%,8.0
+2:Modest,41.1764705882%,7.0
+3:Calm,11.7647058824%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Yveltal
+3:Weavile
+4:Mewtwo
+5:Kangaskhan
+6:Talonflame
+7:Kyogre
+8:Klefki
+9:Landorus
+10:Porygon-Z
+11:Rayquaza
+12:Salamence
+13:Cobalion
+14:Gastrodon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hidden Power,77.7777777778%,13.2222222222
+2:Magical Leaf,11.1111111111%,1.88888888889
+3:Sludge Bomb,11.1111111111%,1.88888888889
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,22.2222222222%,3.77777777778
+2:Hyper Voice,22.2222222222%,3.77777777778
+3:Precipice Blades,11.1111111111%,1.88888888889
+4:Iron Head,11.1111111111%,1.88888888889
+5:Eruption,11.1111111111%,1.88888888889
+6:Fake Out,11.1111111111%,1.88888888889
+7:Double-Edge,11.1111111111%,1.88888888889
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Landorus
+2:Rayquaza
+3:Xerneas
+4:Ferrothorn
+5:Escavalier
+6:Groudon
+7:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Liepard
+5:Mawile
+6:Kangaskhan

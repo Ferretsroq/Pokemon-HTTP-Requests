@@ -1,0 +1,49 @@
+324:Furfrou|3
+ ---------- 
+Moves used:
+1:Protect,100.0%,3.0
+2:Baby-Doll Eyes,66.6666666667%,2.0
+3:Helping Hand,66.6666666667%,2.0
+4:Return,66.6666666667%,2.0
+5:Snarl,33.3333333333%,1.0
+6:Grass Knot,33.3333333333%,1.0
+7:Sucker Punch,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,33.3333333333%,1.0
+2:Silk Scarf,33.3333333333%,1.0
+3:Lucky Egg,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Fur Coat,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Impish,66.6666666667%,2.0
+2:Timid,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Talonflame
+4:Groudon
+5:Mewtwo
+6:Gengar
+7:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,100.0%,3.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre

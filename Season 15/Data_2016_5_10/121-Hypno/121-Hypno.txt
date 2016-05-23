@@ -1,0 +1,131 @@
+121:Hypno|177
+ ---------- 
+Moves used:
+1:Trick Room,100.0%,177.0
+2:Skill Swap,64.9717514124%,115.0
+3:Disable,60.4519774011%,107.0
+4:Foul Play,47.4576271186%,84.0
+5:Protect,37.8531073446%,67.0
+6:Taunt,22.0338983051%,39.0
+7:Magic Coat,19.7740112994%,35.0
+8:Psychic,10.1694915254%,18.0
+9:Safeguard,9.0395480226%,16.0
+10:Swagger,7.90960451977%,14.0
+11:Hypnosis,4.5197740113%,8.0
+12:Grass Knot,3.95480225989%,7.0
+13:Snatch,3.95480225989%,7.0
+14:Shadow Ball,3.95480225989%,7.0
+15:Psyshock,2.25988700565%,4.0
+16:Role Play,1.69491525424%,3.0
+
+ ---------- 
+Items used:
+1:Mental Herb,89.2655367232%,158.0
+2:Lum Berry,5.64971751412%,10.0
+3:Sitrus Berry,4.5197740113%,8.0
+4:Chesto Berry,0.564971751412%,1.0
+
+ ---------- 
+Abilities used:
+1:Inner Focus,70.6214689266%,125.0
+2:Insomnia,29.3785310734%,52.0
+
+ ---------- 
+Natures used:
+1:Sassy,51.9774011299%,92.0
+2:Relaxed,44.0677966102%,78.0
+3:Bold,3.95480225989%,7.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Dialga
+3:Kyogre
+4:Kangaskhan
+5:Mawile
+6:Ferrothorn
+7:Xerneas
+8:Salamence
+9:Ho-Oh
+10:Golduck
+11:Camerupt
+12:Landorus
+13:Talonflame
+14:Yveltal
+15:Machamp
+16:Amoonguss
+17:Liepard
+18:Palkia
+19:Kyurem
+20:Conkeldurr
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,78.9473684211%,139.736842105
+2:Psychic,10.5263157895%,18.6315789474
+3:Psyshock,5.26315789474%,9.31578947368
+4:Shadow Ball,5.26315789474%,9.31578947368
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.0305343511%,28.3740458015
+2:Water Spout,13.7404580153%,24.320610687
+3:Dazzling Gleam,6.87022900763%,12.1603053435
+4:Origin Pulse,5.34351145038%,9.45801526718
+5:Brave Bird,5.34351145038%,9.45801526718
+6:Eruption,5.34351145038%,9.45801526718
+7:Knock Off,4.58015267176%,8.10687022901
+8:Double-Edge,3.81679389313%,6.75572519084
+9:Dragon Ascent,2.29007633588%,4.0534351145
+10:U-turn,2.29007633588%,4.0534351145
+11:Hyper Voice,2.29007633588%,4.0534351145
+12:Extreme Speed,2.29007633588%,4.0534351145
+13:Moonblast,1.52671755725%,2.70229007634
+14:Snarl,1.52671755725%,2.70229007634
+15:Power Whip,1.52671755725%,2.70229007634
+16:Dark Pulse,1.52671755725%,2.70229007634
+17:Feint,1.52671755725%,2.70229007634
+18:Gyro Ball,1.52671755725%,2.70229007634
+19:Rock Slide,1.52671755725%,2.70229007634
+20:Earthquake,1.52671755725%,2.70229007634
+0:Other,16.7938931298%,29.7251908397
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Kangaskhan
+3:Talonflame
+4:Meowstic
+5:Greninja
+6:Tornadus
+7:Mienshao
+8:Whimsicott
+9:Weavile
+10:Rayquaza
+11:Groudon
+12:Lugia
+13:Gengar
+14:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Talonflame
+5:Landorus
+6:Kangaskhan
+7:Yveltal
+8:Weavile
+9:Salamence
+10:Ferrothorn
+11:Rayquaza
+12:Rayquaza
+13:Greninja
+14:Smeargle
+15:Gengar
+16:Vivillon
+17:Kyurem
+18:Thundurus
+19:Heatran
+20:Palkia

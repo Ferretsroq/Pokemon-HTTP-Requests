@@ -1,0 +1,131 @@
+135:Dusclops|126
+ ---------- 
+Moves used:
+1:Trick Room,99.2063492063%,125.0
+2:Pain Split,81.746031746%,103.0
+3:Night Shade,68.253968254%,86.0
+4:Skill Swap,67.4603174603%,85.0
+5:Destiny Bond,11.1111111111%,14.0
+6:Protect,11.1111111111%,14.0
+7:Gravity,10.3174603175%,13.0
+8:Disable,10.3174603175%,13.0
+9:Imprison,9.52380952381%,12.0
+10:Will-O-Wisp,7.14285714286%,9.0
+11:Shadow Punch,4.7619047619%,6.0
+12:Haze,4.7619047619%,6.0
+13:Leer,3.96825396825%,5.0
+14:Snatch,3.1746031746%,4.0
+15:Sunny Day,2.38095238095%,3.0
+16:Taunt,1.5873015873%,2.0
+17:Curse,1.5873015873%,2.0
+18:Infestation,0.793650793651%,1.0
+19:Memento,0.793650793651%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,98.4126984127%,124.0
+2:Mental Herb,1.5873015873%,2.0
+
+ ---------- 
+Abilities used:
+1:Frisk,84.9206349206%,107.0
+2:Pressure,15.0793650794%,19.0
+
+ ---------- 
+Natures used:
+1:Relaxed,67.4603174603%,85.0
+2:Sassy,25.3968253968%,32.0
+3:Calm,6.34920634921%,8.0
+4:Impish,0.793650793651%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Sableye
+3:Snorlax
+4:Kyogre
+5:Kangaskhan
+6:Zekrom
+7:Wobbuffet
+8:Mawile
+9:Meowstic
+10:Ferrothorn
+11:Whimsicott
+12:Xerneas
+13:Mienshao
+14:Metagross
+15:Camerupt
+16:Smeargle
+17:Yveltal
+18:Giratina
+19:Palkia
+20:Jigglypuff
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Night Shade,95.2380952381%,120.0
+2:Destiny Bond,4.7619047619%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,11.6666666667%,14.7
+2:Precipice Blades,10.0%,12.6
+3:Moonblast,8.33333333333%,10.5
+4:Dragon Ascent,6.66666666667%,8.4
+5:Dazzling Gleam,6.66666666667%,8.4
+6:Hyper Voice,5.0%,6.3
+7:Eruption,5.0%,6.3
+8:Origin Pulse,3.33333333333%,4.2
+9:Shadow Claw,3.33333333333%,4.2
+10:Knock Off,3.33333333333%,4.2
+11:Double-Edge,3.33333333333%,4.2
+12:Snarl,1.66666666667%,2.1
+13:Hex,1.66666666667%,2.1
+14:Foul Play,1.66666666667%,2.1
+15:Iron Head,1.66666666667%,2.1
+16:Power Whip,1.66666666667%,2.1
+17:Earth Power,1.66666666667%,2.1
+18:Brave Bird,1.66666666667%,2.1
+19:Dark Pulse,1.66666666667%,2.1
+20:Flare Blitz,1.66666666667%,2.1
+0:Other,13.3333333333%,16.8
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Salamence
+4:Yveltal
+5:Xerneas
+6:Greninja
+7:Mienshao
+8:Ferrothorn
+9:Amoonguss
+10:Cresselia
+11:Dialga
+12:Weavile
+13:Rayquaza
+14:Hitmontop
+15:Crobat
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Rayquaza
+6:Yveltal
+7:Talonflame
+8:Mawile
+9:Gengar
+10:Aegislash
+11:Kyurem
+12:Landorus
+13:Thundurus
+14:Bisharp
+15:Ferrothorn
+16:Liepard
+17:Rayquaza
+18:Linoone
+19:Kangaskhan

@@ -1,0 +1,159 @@
+82:Heliolisk|414
+ ---------- 
+Moves used:
+1:Protect,50.0%,207.0
+2:Hyper Beam,48.309178744%,200.0
+3:Electrify,48.0676328502%,199.0
+4:Hyper Voice,43.961352657%,182.0
+5:Thunder,43.7198067633%,181.0
+6:Glare,33.3333333333%,138.0
+7:Volt Switch,24.3961352657%,101.0
+8:Thunderbolt,16.9082125604%,70.0
+9:Parabolic Charge,16.1835748792%,67.0
+10:Focus Blast,14.7342995169%,61.0
+11:Electroweb,12.077294686%,50.0
+12:Surf,10.6280193237%,44.0
+13:Grass Knot,9.66183574879%,40.0
+14:Eerie Impulse,7.97101449275%,33.0
+15:Thunder Wave,5.55555555556%,23.0
+16:Hidden Power,4.8309178744%,20.0
+17:Electric Terrain,4.10628019324%,17.0
+18:Dragon Pulse,2.65700483092%,11.0
+19:Psych Up,2.17391304348%,9.0
+20:Dark Pulse,0.724637681159%,3.0
+0:Other,2.77555756156e-15%,1.14908083049e-14
+
+ ---------- 
+Items used:
+1:Choice Specs,29.2270531401%,121.0
+2:Life Orb,13.768115942%,57.0
+3:Red Card,9.66183574879%,40.0
+4:Choice Scarf,7.97101449275%,33.0
+5:Focus Sash,7.48792270531%,31.0
+6:Normal Gem,6.76328502415%,28.0
+7:Sitrus Berry,6.76328502415%,28.0
+8:Silk Scarf,5.55555555556%,23.0
+9:Leftovers,3.86473429952%,16.0
+10:Lum Berry,2.17391304348%,9.0
+11:Iron Ball,1.93236714976%,8.0
+12:King's Rock,1.93236714976%,8.0
+13:Air Balloon,1.2077294686%,5.0
+14:Kee Berry,0.966183574879%,4.0
+15:Wise Glasses,0.48309178744%,2.0
+16:Safety Goggles,0.24154589372%,1.0
+
+ ---------- 
+Abilities used:
+1:Solar Power,53.6231884058%,222.0
+2:Dry Skin,46.3768115942%,192.0
+
+ ---------- 
+Natures used:
+1:Timid,85.9903381643%,356.0
+2:Modest,11.5942028986%,48.0
+3:Jolly,2.4154589372%,10.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Crobat
+5:Smeargle
+6:Kangaskhan
+7:Rayquaza
+8:Mawile
+9:Talonflame
+10:Whimsicott
+11:Mewtwo
+12:Meowstic
+13:Kyurem
+14:Sceptile
+15:Mienshao
+16:Gengar
+17:Medicham
+18:Yveltal
+19:Ho-Oh
+20:Conkeldurr
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hyper Voice,47.5961538462%,197.048076923
+2:Hyper Beam,20.6730769231%,85.5865384615
+3:Thunderbolt,11.0576923077%,45.7788461538
+4:Thunder,8.17307692308%,33.8365384615
+5:Volt Switch,7.21153846154%,29.8557692308
+6:Electroweb,2.40384615385%,9.95192307692
+7:Parabolic Charge,1.92307692308%,7.96153846154
+8:Hidden Power,0.480769230769%,1.99038461538
+9:Surf,0.480769230769%,1.99038461538
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,14.3344709898%,59.3447098976
+2:Dazzling Gleam,6.82593856655%,28.2593856655
+3:Ice Beam,6.1433447099%,25.433447099
+4:Double-Edge,5.80204778157%,24.0204778157
+5:Sucker Punch,5.46075085324%,22.6075085324
+6:Earthquake,4.77815699659%,19.7815699659
+7:Earth Power,4.43686006826%,18.3686006826
+8:Water Spout,4.43686006826%,18.3686006826
+9:Eruption,3.41296928328%,14.1296928328
+10:Extreme Speed,3.07167235495%,12.7167235495
+11:Dragon Ascent,2.73037542662%,11.3037542662
+12:Low Kick,2.73037542662%,11.3037542662
+13:Gyro Ball,2.38907849829%,9.89078498294
+14:Fire Punch,2.38907849829%,9.89078498294
+15:Origin Pulse,2.04778156997%,8.47781569966
+16:Knock Off,2.04778156997%,8.47781569966
+17:Flare Blitz,1.70648464164%,7.06484641638
+18:Hyper Voice,1.70648464164%,7.06484641638
+19:Flamethrower,1.70648464164%,7.06484641638
+20:Sacred Fire,1.36518771331%,5.65187713311
+0:Other,15.6996587031%,64.9965870307
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Salamence
+5:Crobat
+6:Thundurus
+7:Talonflame
+8:Xerneas
+9:Smeargle
+10:Yveltal
+11:Liepard
+12:Landorus
+13:Gengar
+14:Amoonguss
+15:Whimsicott
+16:Cresselia
+17:Rayquaza
+18:Rayquaza
+19:Hawlucha
+20:Aromatisse
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Xerneas
+5:Rayquaza
+6:Salamence
+7:Landorus
+8:Mawile
+9:Ferrothorn
+10:Talonflame
+11:Weavile
+12:Yveltal
+13:Ho-Oh
+14:Kyurem
+15:Dialga
+16:Bronzong
+17:Rayquaza
+18:Gengar
+19:Mienshao
+20:Cresselia

@@ -1,0 +1,166 @@
+51:Heatran|1274
+ ---------- 
+Moves used:
+1:Earth Power,87.9120879121%,1120.0
+2:Flash Cannon,77.3940345369%,986.0
+3:Heat Wave,77.3155416013%,985.0
+4:Protect,57.4568288854%,732.0
+5:Hidden Power,24.4897959184%,312.0
+6:Overheat,23.1554160126%,295.0
+7:Flamethrower,21.978021978%,280.0
+8:Ancient Power,11.6954474097%,149.0
+9:Iron Head,5.57299843014%,71.0
+10:Substitute,4.63108320251%,59.0
+11:Dragon Pulse,3.61067503925%,46.0
+12:Fire Blast,1.33437990581%,17.0
+13:Will-O-Wisp,0.94191522763%,12.0
+14:Swagger,0.863422291994%,11.0
+15:Magma Storm,0.392464678179%,5.0
+16:Roar,0.392464678179%,5.0
+17:Stealth Rock,0.235478806907%,3.0
+18:Solar Beam,0.235478806907%,3.0
+19:Lava Plume,0.156985871272%,2.0
+20:Dark Pulse,0.0784929356358%,1.0
+0:Other,0.156985871272%,2.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,36.3422291994%,463.0
+2:Air Balloon,27.4725274725%,350.0
+3:Shuca Berry,8.71271585557%,111.0
+4:Lum Berry,6.82888540031%,87.0
+5:Life Orb,5.96546310832%,76.0
+6:Assault Vest,4.55259026688%,58.0
+7:Leftovers,2.74725274725%,35.0
+8:Focus Sash,2.04081632653%,26.0
+9:Red Card,1.56985871272%,20.0
+10:Chesto Berry,1.02040816327%,13.0
+11:Expert Belt,0.94191522763%,12.0
+12:Choice Specs,0.549450549451%,7.0
+13:Lax Incense,0.470957613815%,6.0
+14:Sitrus Berry,0.392464678179%,5.0
+15:Iron Plate,0.156985871272%,2.0
+16:Safety Goggles,0.0784929356358%,1.0
+17:Iron Ball,0.0784929356358%,1.0
+18:Chople Berry,0.0784929356358%,1.0
+
+ ---------- 
+Abilities used:
+1:Flash Fire,100.0%,1274.0
+
+ ---------- 
+Natures used:
+1:Modest,53.5321821036%,682.0
+2:Timid,23.5478806907%,300.0
+3:Quiet,14.9921507064%,191.0
+4:Relaxed,5.72998430141%,73.0
+5:Calm,1.64835164835%,21.0
+6:Bold,0.313971742543%,4.0
+7:Hasty,0.156985871272%,2.0
+8:Rash,0.0784929356358%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Rayquaza
+5:Salamence
+6:Kyogre
+7:Yveltal
+8:Thundurus
+9:Smeargle
+10:Giratina
+11:Gengar
+12:Talonflame
+13:Cresselia
+14:Whimsicott
+15:Landorus
+16:Mawile
+17:Mewtwo
+18:Weavile
+19:Raichu
+20:Crobat
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Heat Wave,44.5187165775%,567.168449198
+2:Flash Cannon,18.5828877005%,236.745989305
+3:Earth Power,14.9732620321%,190.759358289
+4:Flamethrower,9.6256684492%,122.631016043
+5:Hidden Power,6.41711229947%,81.7540106952
+6:Ancient Power,3.47593582888%,44.2834224599
+7:Overheat,1.47058823529%,18.7352941176
+8:Iron Head,0.668449197861%,8.51604278075
+9:Magma Storm,0.133689839572%,1.70320855615
+10:Dragon Pulse,0.133689839572%,1.70320855615
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,27.9202279202%,355.703703704
+2:Earth Power,16.6666666667%,212.333333333
+3:Low Kick,10.9686609687%,139.740740741
+4:Water Spout,9.82905982906%,125.222222222
+5:Origin Pulse,5.98290598291%,76.2222222222
+6:Earthquake,3.7037037037%,47.1851851852
+7:Sucker Punch,2.70655270655%,34.4814814815
+8:Moonblast,2.13675213675%,27.2222222222
+9:Waterfall,1.9943019943%,25.4074074074
+10:Scald,1.85185185185%,23.5925925926
+11:Dazzling Gleam,1.56695156695%,19.962962963
+12:Snarl,1.1396011396%,14.5185185185
+13:Hyper Voice,1.1396011396%,14.5185185185
+14:Thunderbolt,1.1396011396%,14.5185185185
+15:Power-Up Punch,0.997150997151%,12.7037037037
+16:Brave Bird,0.854700854701%,10.8888888889
+17:Double-Edge,0.854700854701%,10.8888888889
+18:Dark Pulse,0.712250712251%,9.07407407407
+19:Rock Slide,0.712250712251%,9.07407407407
+20:Extreme Speed,0.569800569801%,7.25925925926
+0:Other,5.84045584046%,74.4074074074
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Groudon
+3:Kangaskhan
+4:Salamence
+5:Smeargle
+6:Talonflame
+7:Landorus
+8:Ferrothorn
+9:Mawile
+10:Liepard
+11:Thundurus
+12:Weavile
+13:Kyogre
+14:Crobat
+15:Dialga
+16:Gengar
+17:Yveltal
+18:Rayquaza
+19:Amoonguss
+20:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Xerneas
+5:Rayquaza
+6:Yveltal
+7:Landorus
+8:Salamence
+9:Dialga
+10:Thundurus
+11:Kyurem
+12:Mawile
+13:Talonflame
+14:Weavile
+15:Greninja
+16:Hydreigon
+17:Palkia
+18:Kyogre
+19:Ho-Oh
+20:Mewtwo

@@ -1,0 +1,135 @@
+102:Purugly|258
+ ---------- 
+Moves used:
+1:Fake Out,100.0%,258.0
+2:Hypnosis,95.3488372093%,246.0
+3:Super Fang,51.9379844961%,134.0
+4:Return,45.7364341085%,118.0
+5:Snatch,41.4728682171%,107.0
+6:Knock Off,27.519379845%,71.0
+7:U-turn,25.5813953488%,66.0
+8:Sucker Punch,4.26356589147%,11.0
+9:Play Rough,2.71317829457%,7.0
+10:Body Slam,1.5503875969%,4.0
+11:Fake Tears,1.16279069767%,3.0
+12:Charm,1.16279069767%,3.0
+13:Foul Play,0.77519379845%,2.0
+14:Shadow Claw,0.77519379845%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,96.8992248062%,250.0
+2:Silk Scarf,1.93798449612%,5.0
+3:Wide Lens,0.77519379845%,2.0
+4:Life Orb,0.387596899225%,1.0
+
+ ---------- 
+Abilities used:
+1:Defiant,98.8372093023%,255.0
+2:Own Tempo,1.16279069767%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,99.6124031008%,257.0
+2:Adamant,0.387596899225%,1.0
+
+ ---------- 
+Top teammates:
+1:Mewtwo
+2:Groudon
+3:Crobat
+4:Golduck
+5:Sceptile
+6:Houndoom
+7:Xerneas
+8:Rayquaza
+9:Yveltal
+10:Meowstic
+11:Landorus
+12:Salamence
+13:Dialga
+14:Kyogre
+15:Lugia
+16:Hitmonlee
+17:Nidoking
+18:Zekrom
+19:Volcarona
+20:Swampert
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Return,52.8301886792%,136.301886792
+2:Knock Off,20.7547169811%,53.5471698113
+3:U-turn,13.2075471698%,34.0754716981
+4:Sucker Punch,7.54716981132%,19.4716981132
+5:Fake Out,5.66037735849%,14.6037735849
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,13.5416666667%,34.9375
+2:Precipice Blades,13.0208333333%,33.59375
+3:Water Spout,6.77083333333%,17.46875
+4:Hyper Voice,6.25%,16.125
+5:Brave Bird,5.72916666667%,14.78125
+6:Ice Beam,5.72916666667%,14.78125
+7:Eruption,5.20833333333%,13.4375
+8:Double-Edge,4.6875%,12.09375
+9:Low Kick,3.64583333333%,9.40625
+10:Origin Pulse,2.60416666667%,6.71875
+11:Fake Out,2.60416666667%,6.71875
+12:Extreme Speed,2.60416666667%,6.71875
+13:Foul Play,2.08333333333%,5.375
+14:Sludge Bomb,2.08333333333%,5.375
+15:Rock Slide,2.08333333333%,5.375
+16:Moonblast,1.5625%,4.03125
+17:Snarl,1.5625%,4.03125
+18:Explosion,1.5625%,4.03125
+19:Thunderbolt,1.5625%,4.03125
+20:Ice Shard,1.04166666667%,2.6875
+0:Other,13.0208333333%,33.59375
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Talonflame
+3:Kangaskhan
+4:Groudon
+5:Xerneas
+6:Thundurus
+7:Raichu
+8:Yveltal
+9:Cresselia
+10:Meowstic
+11:Greninja
+12:Landorus
+13:Amoonguss
+14:Whimsicott
+15:Rayquaza
+16:Rayquaza
+17:Kyogre
+18:Sableye
+19:Lugia
+20:Clefairy
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Yveltal
+8:Cresselia
+9:Landorus
+10:Liepard
+11:Weavile
+12:Rayquaza
+13:Rayquaza
+14:Gengar
+15:Thundurus
+16:Mienshao
+17:Dialga
+18:Kyogre
+19:Crobat
+20:Gengar

@@ -1,0 +1,125 @@
+163:Archeops|87
+ ---------- 
+Moves used:
+1:Tailwind,97.7011494253%,85.0
+2:Rock Slide,97.7011494253%,85.0
+3:Quick Guard,79.3103448276%,69.0
+4:Knock Off,79.3103448276%,69.0
+5:Protect,17.2413793103%,15.0
+6:Endeavor,14.9425287356%,13.0
+7:Ally Switch,3.44827586207%,3.0
+8:Taunt,3.44827586207%,3.0
+9:Head Smash,1.14942528736%,1.0
+10:Switcheroo,1.14942528736%,1.0
+11:U-turn,1.14942528736%,1.0
+12:Steel Wing,1.14942528736%,1.0
+13:Earthquake,1.14942528736%,1.0
+14:Roar,1.14942528736%,1.0
+
+ ---------- 
+Items used:
+1:Focus Sash,96.5517241379%,84.0
+2:Wide Lens,1.14942528736%,1.0
+3:Choice Band,1.14942528736%,1.0
+4:Bright Powder,1.14942528736%,1.0
+
+ ---------- 
+Abilities used:
+1:Defeatist,100.0%,87.0
+
+ ---------- 
+Natures used:
+1:Jolly,98.8505747126%,86.0
+2:Adamant,1.14942528736%,1.0
+
+ ---------- 
+Top teammates:
+1:Dialga
+2:Weavile
+3:Rayquaza
+4:Kyogre
+5:Landorus
+6:Yveltal
+7:Mawile
+8:Salamence
+9:Groudon
+10:Talonflame
+11:Garchomp
+12:Gardevoir
+13:Xerneas
+14:Sylveon
+15:Aegislash
+16:Kyurem
+17:Cresselia
+18:Ambipom
+19:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Rock Slide,81.4814814815%,70.8888888889
+2:Knock Off,18.5185185185%,16.1111111111
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,17.3913043478%,15.1304347826
+2:Water Spout,14.4927536232%,12.6086956522
+3:Rock Slide,11.5942028986%,10.0869565217
+4:Ice Beam,8.69565217391%,7.5652173913
+5:Origin Pulse,4.34782608696%,3.78260869565
+6:Sucker Punch,4.34782608696%,3.78260869565
+7:Scald,2.89855072464%,2.52173913043
+8:Grass Knot,2.89855072464%,2.52173913043
+9:Hyper Voice,2.89855072464%,2.52173913043
+10:Eruption,2.89855072464%,2.52173913043
+11:Icy Wind,2.89855072464%,2.52173913043
+12:Thunderbolt,2.89855072464%,2.52173913043
+13:Fire Punch,2.89855072464%,2.52173913043
+14:Moonblast,1.44927536232%,1.26086956522
+15:Foul Play,1.44927536232%,1.26086956522
+16:Iron Head,1.44927536232%,1.26086956522
+17:Dragon Pulse,1.44927536232%,1.26086956522
+18:Flare Blitz,1.44927536232%,1.26086956522
+19:Feint,1.44927536232%,1.26086956522
+20:Gyro Ball,1.44927536232%,1.26086956522
+0:Other,4.34782608696%,3.78260869565
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Smeargle
+3:Crobat
+4:Thundurus
+5:Dialga
+6:Yveltal
+7:Meowstic
+8:Mienshao
+9:Cofagrigus
+10:Cresselia
+11:Bronzong
+12:Salamence
+13:Glalie
+14:Ho-Oh
+15:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Landorus
+6:Amoonguss
+7:Kyogre
+8:Salamence
+9:Talonflame
+10:Greninja
+11:Kyurem
+12:Thundurus
+13:Thundurus
+14:Terrakion
+15:Scrafty
+16:Liepard
+17:Cresselia
+18:Dialga
+19:Bronzong
+20:Metagross

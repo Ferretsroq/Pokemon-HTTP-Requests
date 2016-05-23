@@ -1,0 +1,39 @@
+363:Vespiquen|1
+ ---------- 
+Moves used:
+1:Struggle Bug,100.0%,1.0
+2:Heal Order,100.0%,1.0
+3:Defend Order,100.0%,1.0
+4:Tailwind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Pressure,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Arcanine
+3:Pikachu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Rock Slide,100.0%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon

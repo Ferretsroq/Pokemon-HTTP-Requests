@@ -1,0 +1,168 @@
+49:Hitmontop|1433
+ ---------- 
+Moves used:
+1:Fake Out,96.5108164689%,1383.0
+2:Wide Guard,82.4145150035%,1181.0
+3:Close Combat,79.3440334962%,1137.0
+4:Feint,68.1088625262%,976.0
+5:Quick Guard,39.0788555478%,560.0
+6:Helping Hand,14.2358688067%,204.0
+7:Low Kick,6.00139567341%,86.0
+8:Bullet Punch,3.9776692254%,57.0
+9:Mach Punch,3.41939986043%,49.0
+10:High Jump Kick,2.51221214236%,36.0
+11:Endeavor,2.09351011863%,30.0
+12:Protect,1.04675505932%,15.0
+13:Role Play,0.418702023726%,6.0
+14:Rock Slide,0.348918353105%,5.0
+15:Stone Edge,0.139567341242%,2.0
+16:Brick Break,0.0697836706211%,1.0
+17:Revenge,0.0697836706211%,1.0
+18:Detect,0.0697836706211%,1.0
+19:Earthquake,0.0697836706211%,1.0
+20:Counter,0.0697836706211%,1.0
+0:Other,1.87905246918e-14%,2.69268218833e-13
+
+ ---------- 
+Items used:
+1:Eject Button,25.6106071179%,367.0
+2:Lum Berry,23.935799023%,343.0
+3:Focus Sash,15.0732728542%,216.0
+4:Sitrus Berry,12.0725750174%,173.0
+5:Rocky Helmet,6.69923237962%,96.0
+6:Fist Plate,6.21074668528%,89.0
+7:Black Belt,2.58199581298%,37.0
+8:Choice Scarf,2.37264480112%,34.0
+9:Coba Berry,2.23307745987%,32.0
+10:Expert Belt,0.488485694348%,7.0
+11:Life Orb,0.418702023726%,6.0
+12:Leftovers,0.348918353105%,5.0
+13:Red Card,0.279134682484%,4.0
+14:Roseli Berry,0.209351011863%,3.0
+15:Safety Goggles,0.209351011863%,3.0
+16:Quick Claw,0.209351011863%,3.0
+17:Custap Berry,0.209351011863%,3.0
+18:Assault Vest,0.139567341242%,2.0
+19:Muscle Band,0.139567341242%,2.0
+20:King's Rock,0.139567341242%,2.0
+0:Other,0.348918353105%,5.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,99.5812979763%,1427.0
+2:Technician,0.418702023726%,6.0
+
+ ---------- 
+Natures used:
+1:Adamant,58.8974180042%,844.0
+2:Impish,15.7013258897%,225.0
+3:Careful,13.0495464061%,187.0
+4:Sassy,3.90788555478%,56.0
+5:Jolly,3.34961618981%,48.0
+6:Brave,2.6517794836%,38.0
+7:Relaxed,2.37264480112%,34.0
+8:Bold,0.0697836706211%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Groudon
+4:Xerneas
+5:Kangaskhan
+6:Yveltal
+7:Mawile
+8:Gengar
+9:Talonflame
+10:Ferrothorn
+11:Salamence
+12:Thundurus
+13:Smeargle
+14:Dialga
+15:Scizor
+16:Whimsicott
+17:Mewtwo
+18:Cresselia
+19:Liepard
+20:Bronzong
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Close Combat,59.8062953995%,857.024213075
+2:Feint,28.813559322%,412.898305085
+3:Fake Out,3.63196125908%,52.0460048426
+4:High Jump Kick,2.66343825666%,38.1670702179
+5:Low Kick,2.66343825666%,38.1670702179
+6:Bullet Punch,1.45278450363%,20.818401937
+7:Mach Punch,0.726392251816%,10.4092009685
+8:Stone Edge,0.242130750605%,3.46973365617
+
+ ---------- 
+Moves that KO this pokemon:
+1:Moonblast,8.48549946294%,121.597207304
+2:Precipice Blades,7.41138560687%,106.205155747
+3:Dazzling Gleam,7.30397422127%,104.665950591
+4:Double-Edge,7.08915145005%,101.587540279
+5:Origin Pulse,5.58539205156%,80.0386680988
+6:Water Spout,5.37056928034%,76.9602577873
+7:Fire Punch,4.40386680988%,63.1074113856
+8:Brave Bird,4.18904403867%,60.0290010741
+9:Ice Beam,3.97422126745%,56.9505907626
+10:Dragon Ascent,3.86680988185%,55.4113856069
+11:Eruption,3.75939849624%,53.8721804511
+12:Scald,3.43716433942%,49.2545649839
+13:Play Rough,3.32975295381%,47.7153598281
+14:Hyper Voice,3.1149301826%,44.6369495166
+15:Gyro Ball,1.93340494092%,27.7056928034
+16:Thunderbolt,1.71858216971%,24.6272824919
+17:Earth Power,1.6111707841%,23.0880773362
+18:Extreme Speed,1.39634801289%,20.0096670247
+19:Sludge Bomb,1.39634801289%,20.0096670247
+20:Thunder,1.28893662728%,18.470461869
+0:Other,17.2932330827%,247.812030075
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Kyogre
+3:Ferrothorn
+4:Smeargle
+5:Dialga
+6:Thundurus
+7:Liepard
+8:Weavile
+9:Groudon
+10:Talonflame
+11:Xerneas
+12:Yveltal
+13:Raichu
+14:Whimsicott
+15:Mawile
+16:Crobat
+17:Kangaskhan
+18:Bronzong
+19:Rayquaza
+20:Greninja
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Talonflame
+7:Rayquaza
+8:Mawile
+9:Ferrothorn
+10:Thundurus
+11:Yveltal
+12:Rayquaza
+13:Landorus
+14:Gengar
+15:Cresselia
+16:Kyogre
+17:Dialga
+18:Whimsicott
+19:Gengar
+20:Palkia

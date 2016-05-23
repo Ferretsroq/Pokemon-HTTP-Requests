@@ -1,0 +1,55 @@
+306:Arbok|6
+ ---------- 
+Moves used:
+1:Glare,100.0%,6.0
+2:Acid Spray,83.3333333333%,5.0
+3:Switcheroo,83.3333333333%,5.0
+4:Gastro Acid,83.3333333333%,5.0
+5:Dragon Tail,16.6666666667%,1.0
+6:Beat Up,16.6666666667%,1.0
+7:Protect,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,83.3333333333%,5.0
+2:Focus Sash,16.6666666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Timid,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Chansey
+3:Gengar
+4:Kyogre
+5:Amoonguss
+6:Cresselia
+7:Gallade
+8:Smeargle
+9:Kangaskhan
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Earthquake,40.0%,2.4
+2:Precipice Blades,20.0%,1.2
+3:Moonblast,20.0%,1.2
+4:Thunder,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Landorus
+2:Xerneas
+3:Dialga
+4:Groudon

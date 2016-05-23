@@ -1,0 +1,54 @@
+323:Wigglytuff|4
+ ---------- 
+Moves used:
+1:Dazzling Gleam,100.0%,4.0
+2:Focus Blast,75.0%,3.0
+3:Magic Coat,75.0%,3.0
+4:Ice Beam,75.0%,3.0
+5:Fire Blast,25.0%,1.0
+6:Thunderbolt,25.0%,1.0
+7:Hyper Beam,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Expert Belt,75.0%,3.0
+2:Assault Vest,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Competitive,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Modest,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Liepard
+4:Yveltal
+5:Banette
+6:Swampert
+7:Jolteon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Dazzling Gleam,100.0%,4.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,1.33333333333
+2:Dazzling Gleam,33.3333333333%,1.33333333333
+3:Sludge Bomb,33.3333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Kangaskhan
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Gengar

@@ -1,0 +1,87 @@
+247:Vileplume|16
+ ---------- 
+Moves used:
+1:Sludge Bomb,100.0%,16.0
+2:Grass Knot,81.25%,13.0
+3:Moonblast,68.75%,11.0
+4:Hidden Power,68.75%,11.0
+5:Sleep Powder,31.25%,5.0
+6:After You,25.0%,4.0
+7:Protect,18.75%,3.0
+8:Giga Drain,6.25%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,62.5%,10.0
+2:Black Sludge,18.75%,3.0
+3:Focus Sash,12.5%,2.0
+4:Expert Belt,6.25%,1.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,87.5%,14.0
+2:Effect Spore,12.5%,2.0
+
+ ---------- 
+Natures used:
+1:Timid,87.5%,14.0
+2:Quiet,6.25%,1.0
+3:Modest,6.25%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Cresselia
+3:Kyogre
+4:Salamence
+5:Talonflame
+6:Mawile
+7:Landorus
+8:Smeargle
+9:Zapdos
+10:Kangaskhan
+11:Xerneas
+12:Kyurem
+13:Gothitelle
+14:Aggron
+15:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,50.0%,8.0
+2:Sludge Bomb,50.0%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,2.66666666667
+2:Dragon Ascent,8.33333333333%,1.33333333333
+3:Moonblast,8.33333333333%,1.33333333333
+4:Bug Bite,8.33333333333%,1.33333333333
+5:U-turn,8.33333333333%,1.33333333333
+6:Hyper Voice,8.33333333333%,1.33333333333
+7:Earthquake,8.33333333333%,1.33333333333
+8:Thunderbolt,8.33333333333%,1.33333333333
+9:Double-Edge,8.33333333333%,1.33333333333
+10:Ice Punch,8.33333333333%,1.33333333333
+11:Fire Punch,8.33333333333%,1.33333333333
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kyogre
+2:Xerneas
+3:Landorus
+4:Palkia
+5:Salamence
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Salamence
+3:Landorus
+4:Thundurus
+5:Weavile
+6:Rayquaza
+7:Groudon
+8:Smeargle
+9:Scizor
+10:Kangaskhan

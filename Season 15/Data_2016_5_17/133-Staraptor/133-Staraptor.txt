@@ -1,0 +1,132 @@
+133:Staraptor|137
+ ---------- 
+Moves used:
+1:Brave Bird,93.4306569343%,128.0
+2:Final Gambit,91.9708029197%,126.0
+3:Close Combat,60.5839416058%,83.0
+4:U-turn,53.2846715328%,73.0
+5:Tailwind,29.197080292%,40.0
+6:Protect,22.6277372263%,31.0
+7:Double-Edge,21.897810219%,30.0
+8:Whirlwind,12.4087591241%,17.0
+9:Return,6.56934306569%,9.0
+10:Uproar,3.6496350365%,5.0
+11:Quick Attack,3.6496350365%,5.0
+12:Giga Impact,0.729927007299%,1.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,66.4233576642%,91.0
+2:Lum Berry,21.1678832117%,29.0
+3:Rocky Helmet,6.56934306569%,9.0
+4:Choice Band,2.9197080292%,4.0
+5:Focus Sash,1.4598540146%,2.0
+6:Life Orb,1.4598540146%,2.0
+
+ ---------- 
+Abilities used:
+1:Intimidate,87.5912408759%,120.0
+2:Reckless,12.4087591241%,17.0
+
+ ---------- 
+Natures used:
+1:Jolly,72.2627737226%,99.0
+2:Adamant,27.7372262774%,38.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Kyogre
+5:Rayquaza
+6:Talonflame
+7:Smeargle
+8:Ferrothorn
+9:Yveltal
+10:Cresselia
+11:Raichu
+12:Palkia
+13:Metagross
+14:Manectric
+15:Mewtwo
+16:Whimsicott
+17:Mawile
+18:Thundurus
+19:Dialga
+20:Zapdos
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Final Gambit,53.0120481928%,72.6265060241
+2:Brave Bird,39.7590361446%,54.4698795181
+3:U-turn,3.61445783133%,4.95180722892
+4:Quick Attack,2.40963855422%,3.30120481928
+5:Close Combat,1.20481927711%,1.65060240964
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,5.64516129032%,7.73387096774
+2:Eruption,4.83870967742%,6.62903225806
+3:Thunderbolt,4.83870967742%,6.62903225806
+4:Water Spout,3.22580645161%,4.41935483871
+5:Ice Beam,2.41935483871%,3.31451612903
+6:Dragon Ascent,1.61290322581%,2.20967741935
+7:Dragon Pulse,1.61290322581%,2.20967741935
+8:Sludge Bomb,1.61290322581%,2.20967741935
+9:Fire Punch,1.61290322581%,2.20967741935
+10:Precipice Blades,0.806451612903%,1.10483870968
+11:Origin Pulse,0.806451612903%,1.10483870968
+12:Power-Up Punch,0.806451612903%,1.10483870968
+13:Moonblast,0.806451612903%,1.10483870968
+14:Icicle Crash,0.806451612903%,1.10483870968
+15:Psystrike,0.806451612903%,1.10483870968
+16:Draco Meteor,0.806451612903%,1.10483870968
+17:Vacuum Wave,0.806451612903%,1.10483870968
+18:Rock Tomb,0.806451612903%,1.10483870968
+19:Hyper Voice,0.806451612903%,1.10483870968
+20:Return,0.806451612903%,1.10483870968
+0:Other,1.61290322581%,2.20967741935
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Groudon
+3:Salamence
+4:Smeargle
+5:Talonflame
+6:Crobat
+7:Ferrothorn
+8:Xerneas
+9:Whimsicott
+10:Landorus
+11:Thundurus
+12:Cresselia
+13:Togekiss
+14:Bronzong
+15:Rayquaza
+16:Kyogre
+17:Mawile
+18:Lugia
+19:Meowstic
+20:Kyurem
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Thundurus
+5:Kangaskhan
+6:Kyurem
+7:Rayquaza
+8:Landorus
+9:Dialga
+10:Rotom
+11:Weavile
+12:Lucario
+13:Rayquaza
+14:Salamence
+15:Smeargle
+16:Zapdos
+17:Gengar

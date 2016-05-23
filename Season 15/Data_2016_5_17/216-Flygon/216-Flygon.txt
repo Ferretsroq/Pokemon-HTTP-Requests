@@ -1,0 +1,107 @@
+216:Flygon|27
+ ---------- 
+Moves used:
+1:Earth Power,96.2962962963%,26.0
+2:Tailwind,81.4814814815%,22.0
+3:Draco Meteor,77.7777777778%,21.0
+4:Feint,40.7407407407%,11.0
+5:Fissure,37.037037037%,10.0
+6:Protect,29.6296296296%,8.0
+7:Rock Slide,14.8148148148%,4.0
+8:Boomburst,3.7037037037%,1.0
+9:Bulldoze,3.7037037037%,1.0
+10:U-turn,3.7037037037%,1.0
+11:Superpower,3.7037037037%,1.0
+12:Giga Drain,3.7037037037%,1.0
+13:Earthquake,3.7037037037%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,48.1481481481%,13.0
+2:Focus Sash,14.8148148148%,4.0
+3:Sitrus Berry,11.1111111111%,3.0
+4:Earth Plate,7.40740740741%,2.0
+5:Mental Herb,7.40740740741%,2.0
+6:Choice Specs,3.7037037037%,1.0
+7:Haban Berry,3.7037037037%,1.0
+8:Yache Berry,3.7037037037%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,27.0
+
+ ---------- 
+Natures used:
+1:Timid,51.8518518519%,14.0
+2:Modest,14.8148148148%,4.0
+3:Naive,14.8148148148%,4.0
+4:Hasty,11.1111111111%,3.0
+5:Jolly,7.40740740741%,2.0
+
+ ---------- 
+Top teammates:
+1:Xerneas
+2:Mawile
+3:Kyurem
+4:Groudon
+5:Kyogre
+6:Yveltal
+7:Liepard
+8:Infernape
+9:Rayquaza
+10:Crobat
+11:Meowstic
+12:Zekrom
+13:Sneasel
+14:Kangaskhan
+15:Gengar
+16:Aegislash
+17:Talonflame
+18:Landorus
+19:Thundurus
+20:Excadrill
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,57.1428571429%,15.4285714286
+2:Draco Meteor,42.8571428571%,11.5714285714
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,22.2222222222%,6.0
+2:Ice Beam,16.6666666667%,4.5
+3:Origin Pulse,11.1111111111%,3.0
+4:Hidden Power,11.1111111111%,3.0
+5:Play Rough,5.55555555556%,1.5
+6:Hex,5.55555555556%,1.5
+7:Brave Bird,5.55555555556%,1.5
+8:Sucker Punch,5.55555555556%,1.5
+9:Eruption,5.55555555556%,1.5
+10:Extreme Speed,5.55555555556%,1.5
+11:Blizzard,5.55555555556%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Heatran
+3:Groudon
+4:Salamence
+5:Salamence
+6:Gengar
+7:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Cresselia
+3:Kyogre
+4:Yveltal
+5:Talonflame
+6:Landorus
+7:Landorus
+8:Palkia
+9:Rayquaza
+10:Groudon
+11:Mawile
+12:Suicune
+13:Gengar

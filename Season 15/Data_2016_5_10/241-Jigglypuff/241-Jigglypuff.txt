@@ -1,0 +1,78 @@
+241:Jigglypuff|18
+ ---------- 
+Moves used:
+1:Protect,100.0%,18.0
+2:Perish Song,77.7777777778%,14.0
+3:Endeavor,33.3333333333%,6.0
+4:Magic Coat,33.3333333333%,6.0
+5:Snatch,27.7777777778%,5.0
+6:Gravity,22.2222222222%,4.0
+7:Wish,22.2222222222%,4.0
+8:Helping Hand,22.2222222222%,4.0
+9:Disable,22.2222222222%,4.0
+10:Sing,22.2222222222%,4.0
+11:Heal Pulse,11.1111111111%,2.0
+12:Bounce,5.55555555556%,1.0
+
+ ---------- 
+Items used:
+1:Eviolite,66.6666666667%,12.0
+2:Focus Sash,33.3333333333%,6.0
+
+ ---------- 
+Abilities used:
+1:Friend Guard,100.0%,18.0
+
+ ---------- 
+Natures used:
+1:Relaxed,33.3333333333%,6.0
+2:Bold,33.3333333333%,6.0
+3:Sassy,22.2222222222%,4.0
+4:Careful,11.1111111111%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Mr. Mime
+3:Gengar
+4:Mewtwo
+5:Cresselia
+6:Dialga
+7:Rayquaza
+8:Dusclops
+9:Camerupt
+10:Mantine
+11:Kangaskhan
+12:Landorus
+13:Thundurus
+14:Ferrothorn
+15:Hariyama
+16:Meowstic
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,27.2727272727%,4.90909090909
+2:Fake Out,18.1818181818%,3.27272727273
+3:Dazzling Gleam,9.09090909091%,1.63636363636
+4:Earth Power,9.09090909091%,1.63636363636
+5:Water Spout,9.09090909091%,1.63636363636
+6:Extreme Speed,9.09090909091%,1.63636363636
+7:Return,9.09090909091%,1.63636363636
+8:Double-Edge,9.09090909091%,1.63636363636
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Liepard
+5:Palkia
+6:Weavile
+7:Rayquaza
+8:Kyogre

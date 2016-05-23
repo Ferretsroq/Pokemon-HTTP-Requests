@@ -1,0 +1,151 @@
+104:Nidoking|242
+ ---------- 
+Moves used:
+1:Earth Power,99.173553719%,240.0
+2:Ice Beam,92.1487603306%,223.0
+3:Sludge Bomb,69.8347107438%,169.0
+4:Protect,66.1157024793%,160.0
+5:Poison Jab,15.7024793388%,38.0
+6:Sludge Wave,14.0495867769%,34.0
+7:Thunder,11.9834710744%,29.0
+8:Flamethrower,11.9834710744%,29.0
+9:Thunderbolt,6.19834710744%,15.0
+10:Sucker Punch,2.89256198347%,7.0
+11:Fire Blast,2.47933884298%,6.0
+12:Focus Blast,2.06611570248%,5.0
+13:Super Fang,1.65289256198%,4.0
+14:Stealth Rock,1.23966942149%,3.0
+15:Superpower,0.826446280992%,2.0
+16:Megahorn,0.413223140496%,1.0
+17:Earthquake,0.413223140496%,1.0
+18:Double Kick,0.413223140496%,1.0
+19:Ice Punch,0.413223140496%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,71.0743801653%,172.0
+2:Choice Scarf,22.3140495868%,54.0
+3:Focus Sash,2.89256198347%,7.0
+4:Expert Belt,2.06611570248%,5.0
+5:Choice Specs,0.826446280992%,2.0
+6:Assault Vest,0.413223140496%,1.0
+7:Air Balloon,0.413223140496%,1.0
+
+ ---------- 
+Abilities used:
+1:Sheer Force,99.5867768595%,241.0
+2:Poison Point,0.413223140496%,1.0
+
+ ---------- 
+Natures used:
+1:Modest,52.8925619835%,128.0
+2:Timid,29.7520661157%,72.0
+3:Naughty,8.67768595041%,21.0
+4:Adamant,3.30578512397%,8.0
+5:Quiet,2.47933884298%,6.0
+6:Naive,2.47933884298%,6.0
+7:Hasty,0.413223140496%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Rayquaza
+3:Kangaskhan
+4:Groudon
+5:Xerneas
+6:Salamence
+7:Dialga
+8:Crobat
+9:Smeargle
+10:Ho-Oh
+11:Talonflame
+12:Mawile
+13:Yveltal
+14:Raichu
+15:Tornadus
+16:Giratina
+17:Lugia
+18:Liepard
+19:Ferrothorn
+20:Palkia
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earth Power,36.2068965517%,87.6206896552
+2:Ice Beam,28.4482758621%,68.8448275862
+3:Sludge Bomb,19.8275862069%,47.9827586207
+4:Sludge Wave,5.1724137931%,12.5172413793
+5:Poison Jab,4.31034482759%,10.4310344828
+6:Thunder,3.44827586207%,8.34482758621
+7:Flamethrower,1.72413793103%,4.1724137931
+8:Thunderbolt,0.862068965517%,2.08620689655
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,9.82658959538%,23.7803468208
+2:Water Spout,9.24855491329%,22.3815028902
+3:Origin Pulse,8.09248554913%,19.5838150289
+4:Double-Edge,8.09248554913%,19.5838150289
+5:Hyper Voice,5.78034682081%,13.9884393064
+6:Ice Beam,5.20231213873%,12.5895953757
+7:Earth Power,4.62427745665%,11.1907514451
+8:Dazzling Gleam,3.46820809249%,8.39306358382
+9:Moonblast,3.46820809249%,8.39306358382
+10:Sucker Punch,3.46820809249%,8.39306358382
+11:Return,3.46820809249%,8.39306358382
+12:Gyro Ball,2.8901734104%,6.99421965318
+13:Eruption,2.8901734104%,6.99421965318
+14:Dragon Ascent,2.31213872832%,5.59537572254
+15:Icicle Crash,1.73410404624%,4.19653179191
+16:Scald,1.73410404624%,4.19653179191
+17:Explosion,1.73410404624%,4.19653179191
+18:Earthquake,1.73410404624%,4.19653179191
+19:Snarl,1.15606936416%,2.79768786127
+20:Draco Meteor,1.15606936416%,2.79768786127
+0:Other,17.3410404624%,41.9653179191
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Salamence
+3:Thundurus
+4:Xerneas
+5:Dialga
+6:Talonflame
+7:Landorus
+8:Liepard
+9:Kyogre
+10:Ferrothorn
+11:Whimsicott
+12:Crobat
+13:Kangaskhan
+14:Mienshao
+15:Weavile
+16:Salamence
+17:Smeargle
+18:Yveltal
+19:Landorus
+20:Terrakion
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Salamence
+6:Ferrothorn
+7:Rayquaza
+8:Landorus
+9:Weavile
+10:Yveltal
+11:Talonflame
+12:Cresselia
+13:Mawile
+14:Kyurem
+15:Dialga
+16:Gengar
+17:Heliolisk
+18:Aegislash
+19:Diggersby
+20:Greninja

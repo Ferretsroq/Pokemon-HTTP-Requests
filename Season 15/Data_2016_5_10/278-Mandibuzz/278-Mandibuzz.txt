@@ -1,0 +1,56 @@
+278:Mandibuzz|1
+ ---------- 
+Moves used:
+1:Foul Play,100.0%,1.0
+2:Tailwind,100.0%,1.0
+3:Roost,100.0%,1.0
+4:Whirlwind,100.0%,1.0
+
+ ---------- 
+Items used:
+1:Rocky Helmet,100.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Overcoat,100.0%,1.0
+
+ ---------- 
+Natures used:
+1:Bold,100.0%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Lugia
+3:Mienshao
+4:Mawile
+5:Charizard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Foul Play,100.0%,1.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Origin Pulse,14.2857142857%,0.142857142857
+2:Dazzling Gleam,14.2857142857%,0.142857142857
+3:Play Rough,14.2857142857%,0.142857142857
+4:Brave Bird,14.2857142857%,0.142857142857
+5:Hyper Voice,14.2857142857%,0.142857142857
+6:Destiny Bond,14.2857142857%,0.142857142857
+7:Thunder,14.2857142857%,0.142857142857
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Garchomp
+2:Gengar
+3:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Salamence
+4:Mawile
+5:Ho-Oh
+6:Gengar

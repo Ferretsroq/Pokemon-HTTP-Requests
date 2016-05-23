@@ -1,0 +1,112 @@
+213:Goodra|27
+ ---------- 
+Moves used:
+1:Dragon Pulse,59.2592592593%,16.0
+2:Fire Blast,59.2592592593%,16.0
+3:Ice Beam,48.1481481481%,13.0
+4:Flamethrower,40.7407407407%,11.0
+5:Sludge Bomb,37.037037037%,10.0
+6:Draco Meteor,33.3333333333%,9.0
+7:Sludge Wave,25.9259259259%,7.0
+8:Thunderbolt,25.9259259259%,7.0
+9:Focus Blast,22.2222222222%,6.0
+10:Power Whip,18.5185185185%,5.0
+11:Thunder,11.1111111111%,3.0
+12:Blizzard,7.40740740741%,2.0
+13:Feint,3.7037037037%,1.0
+14:Rest,3.7037037037%,1.0
+15:Earthquake,3.7037037037%,1.0
+
+ ---------- 
+Items used:
+1:Assault Vest,74.0740740741%,20.0
+2:Weakness Policy,18.5185185185%,5.0
+3:Choice Specs,3.7037037037%,1.0
+4:Sitrus Berry,3.7037037037%,1.0
+
+ ---------- 
+Abilities used:
+1:Gooey,62.962962963%,17.0
+2:Sap Sipper,29.6296296296%,8.0
+3:Hydration,7.40740740741%,2.0
+
+ ---------- 
+Natures used:
+1:Modest,55.5555555556%,15.0
+2:Sassy,14.8148148148%,4.0
+3:Bold,14.8148148148%,4.0
+4:Calm,7.40740740741%,2.0
+5:Gentle,3.7037037037%,1.0
+6:Quiet,3.7037037037%,1.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Dialga
+5:Ditto
+6:Xerneas
+7:Mawile
+8:Meowstic
+9:Mienshao
+10:Rayquaza
+11:Azumarill
+12:Amoonguss
+13:Vaporeon
+14:Diggersby
+15:Landorus
+16:Thundurus
+17:Bisharp
+18:Gothitelle
+19:Cofagrigus
+20:Liepard
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Sludge Bomb,20.0%,5.4
+2:Ice Beam,20.0%,5.4
+3:Flamethrower,20.0%,5.4
+4:Sludge Wave,10.0%,2.7
+5:Power Whip,10.0%,2.7
+6:Draco Meteor,10.0%,2.7
+7:Fire Blast,10.0%,2.7
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,27.7777777778%,7.5
+2:Precipice Blades,11.1111111111%,3.0
+3:Gyro Ball,11.1111111111%,3.0
+4:Ice Beam,11.1111111111%,3.0
+5:Moonblast,5.55555555556%,1.5
+6:Iron Head,5.55555555556%,1.5
+7:Earth Power,5.55555555556%,1.5
+8:Brave Bird,5.55555555556%,1.5
+9:Extreme Speed,5.55555555556%,1.5
+10:Rock Slide,5.55555555556%,1.5
+11:Earthquake,5.55555555556%,1.5
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Kangaskhan
+2:Talonflame
+3:Thundurus
+4:Amoonguss
+5:Whimsicott
+6:Weavile
+7:Kyogre
+8:Mawile
+9:Raichu
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Kyogre
+4:Aegislash
+5:Talonflame
+6:Landorus
+7:Terrakion
+8:Ferrothorn
+9:Bronzong
+10:Rayquaza

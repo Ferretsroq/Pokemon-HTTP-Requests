@@ -1,0 +1,142 @@
+123:Pikachu|173
+ ---------- 
+Moves used:
+1:Fake Out,92.4855491329%,160.0
+2:Volt Tackle,67.6300578035%,117.0
+3:Feint,52.0231213873%,90.0
+4:Protect,45.6647398844%,79.0
+5:Hidden Power,31.7919075145%,55.0
+6:Nuzzle,25.4335260116%,44.0
+7:Endeavor,22.5433526012%,39.0
+8:Knock Off,17.9190751445%,31.0
+9:Brick Break,12.1387283237%,21.0
+10:Encore,11.5606936416%,20.0
+11:Thunderbolt,8.09248554913%,14.0
+12:Helping Hand,7.51445086705%,13.0
+13:Discharge,1.73410404624%,3.0
+14:Spark,1.73410404624%,3.0
+15:Slam,1.73410404624%,3.0
+
+ ---------- 
+Items used:
+1:Light Ball,75.7225433526%,131.0
+2:Focus Sash,21.9653179191%,38.0
+3:Magnet,0.578034682081%,1.0
+
+ ---------- 
+Abilities used:
+1:Lightning Rod,94.7976878613%,164.0
+2:Static,5.20231213873%,9.0
+
+ ---------- 
+Natures used:
+1:Naive,49.1329479769%,85.0
+2:Jolly,28.901734104%,50.0
+3:Timid,12.7167630058%,22.0
+4:Adamant,6.35838150289%,11.0
+5:Careful,1.73410404624%,3.0
+6:Modest,0.578034682081%,1.0
+7:Lonely,0.578034682081%,1.0
+
+ ---------- 
+Top teammates:
+1:Rayquaza
+2:Kyogre
+3:Xerneas
+4:Groudon
+5:Greninja
+6:Salamence
+7:Talonflame
+8:Kangaskhan
+9:Ferrothorn
+10:Blastoise
+11:Crobat
+12:Gengar
+13:Yveltal
+14:Smeargle
+15:Landorus
+16:Lugia
+17:Scizor
+18:Charizard
+19:Thundurus
+20:Latios
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Volt Tackle,57.7777777778%,99.9555555556
+2:Feint,15.5555555556%,26.9111111111
+3:Thunderbolt,11.1111111111%,19.2222222222
+4:Hidden Power,8.88888888889%,15.3777777778
+5:Nuzzle,2.22222222222%,3.84444444444
+6:Knock Off,2.22222222222%,3.84444444444
+7:Brick Break,2.22222222222%,3.84444444444
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,12.2302158273%,21.1582733813
+2:Dazzling Gleam,8.63309352518%,14.9352517986
+3:Double-Edge,7.19424460432%,12.4460431655
+4:Precipice Blades,5.75539568345%,9.95683453237
+5:Sucker Punch,5.03597122302%,8.71223021583
+6:Return,4.31654676259%,7.46762589928
+7:Origin Pulse,3.59712230216%,6.22302158273
+8:Hyper Voice,3.59712230216%,6.22302158273
+9:Fake Out,3.59712230216%,6.22302158273
+10:Sludge Bomb,3.59712230216%,6.22302158273
+11:Ice Beam,3.59712230216%,6.22302158273
+12:Extreme Speed,2.87769784173%,4.97841726619
+13:Earth Power,2.15827338129%,3.73381294964
+14:Rock Slide,2.15827338129%,3.73381294964
+15:Snarl,1.43884892086%,2.48920863309
+16:Scald,1.43884892086%,2.48920863309
+17:Foul Play,1.43884892086%,2.48920863309
+18:Draco Meteor,1.43884892086%,2.48920863309
+19:Brave Bird,1.43884892086%,2.48920863309
+20:Dragon Pulse,1.43884892086%,2.48920863309
+0:Other,20.8633093525%,36.0935251799
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Talonflame
+3:Groudon
+4:Kyogre
+5:Yveltal
+6:Xerneas
+7:Thundurus
+8:Cresselia
+9:Salamence
+10:Pangoro
+11:Landorus
+12:Tornadus
+13:Liepard
+14:Bronzong
+15:Rayquaza
+16:Ho-Oh
+17:Lugia
+18:Smeargle
+19:Azumarill
+20:Lapras
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Kangaskhan
+3:Groudon
+4:Xerneas
+5:Salamence
+6:Yveltal
+7:Thundurus
+8:Ferrothorn
+9:Cresselia
+10:Weavile
+11:Rayquaza
+12:Mawile
+13:Gengar
+14:Talonflame
+15:Greninja
+16:Dialga
+17:Rayquaza
+18:Kyogre
+19:Salamence
+20:Ditto

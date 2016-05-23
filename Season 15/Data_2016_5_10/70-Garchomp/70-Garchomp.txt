@@ -1,0 +1,166 @@
+70:Garchomp|605
+ ---------- 
+Moves used:
+1:Earthquake,91.2396694215%,552.0
+2:Rock Slide,81.4876033058%,493.0
+3:Dragon Claw,73.8842975207%,447.0
+4:Protect,42.8099173554%,259.0
+5:Iron Head,39.6694214876%,240.0
+6:Outrage,13.3884297521%,81.0
+7:Draco Meteor,8.92561983471%,54.0
+8:Earth Power,8.59504132231%,52.0
+9:Rock Tomb,6.11570247934%,37.0
+10:Roar,4.62809917355%,28.0
+11:Flamethrower,4.46280991736%,27.0
+12:Swords Dance,4.29752066116%,26.0
+13:Poison Jab,3.80165289256%,23.0
+14:Stone Edge,3.14049586777%,19.0
+15:Fire Fang,2.31404958678%,14.0
+16:Fire Blast,2.31404958678%,14.0
+17:Substitute,2.14876033058%,13.0
+18:Dual Chop,1.65289256198%,10.0
+19:Sleep Talk,0.99173553719%,6.0
+20:Dragon Rush,0.826446280992%,5.0
+0:Other,3.30578512397%,20.0
+
+ ---------- 
+Items used:
+1:Choice Band,44.958677686%,272.0
+2:Focus Sash,23.9669421488%,145.0
+3:Life Orb,12.7272727273%,77.0
+4:Garchompite,5.28925619835%,32.0
+5:Rocky Helmet,3.96694214876%,24.0
+6:Lum Berry,3.80165289256%,23.0
+7:Choice Scarf,2.14876033058%,13.0
+8:Roseli Berry,0.661157024793%,4.0
+9:Assault Vest,0.661157024793%,4.0
+10:Yache Berry,0.661157024793%,4.0
+11:Expert Belt,0.330578512397%,2.0
+12:Leftovers,0.330578512397%,2.0
+13:King's Rock,0.330578512397%,2.0
+14:Lansat Berry,0.165289256198%,1.0
+
+ ---------- 
+Abilities used:
+1:Rough Skin,99.6694214876%,603.0
+2:Sand Veil,0.330578512397%,2.0
+
+ ---------- 
+Natures used:
+1:Jolly,83.8016528926%,507.0
+2:Adamant,6.11570247934%,37.0
+3:Naive,4.62809917355%,28.0
+4:Modest,2.80991735537%,17.0
+5:Timid,1.48760330579%,9.0
+6:Impish,0.661157024793%,4.0
+7:Quiet,0.330578512397%,2.0
+8:Brave,0.165289256198%,1.0
+
+ ---------- 
+Top teammates:
+1:Talonflame
+2:Yveltal
+3:Xerneas
+4:Kyogre
+5:Kangaskhan
+6:Groudon
+7:Rayquaza
+8:Salamence
+9:Mawile
+10:Thundurus
+11:Gengar
+12:Crobat
+13:Mewtwo
+14:Ho-Oh
+15:Dialga
+16:Ferrothorn
+17:Cresselia
+18:Bisharp
+19:Aegislash
+20:Gardevoir
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Earthquake,45.1523545706%,273.171745152
+2:Rock Slide,22.7146814404%,137.423822715
+3:Dragon Claw,17.4515235457%,105.581717452
+4:Outrage,3.04709141274%,18.4349030471
+5:Iron Head,2.77008310249%,16.7590027701
+6:Draco Meteor,2.77008310249%,16.7590027701
+7:Earth Power,2.77008310249%,16.7590027701
+8:Dual Chop,1.108033241%,6.70360110803
+9:Rock Tomb,1.108033241%,6.70360110803
+10:Dragon Rush,0.277008310249%,1.67590027701
+11:Dragon Pulse,0.277008310249%,1.67590027701
+12:Fire Blast,0.277008310249%,1.67590027701
+13:Flamethrower,0.277008310249%,1.67590027701
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,12.3919308357%,74.9711815562
+2:Ice Beam,10.9510086455%,66.2536023055
+3:Precipice Blades,9.51008645533%,57.5360230548
+4:Sucker Punch,7.20461095101%,43.5878962536
+5:Origin Pulse,5.47550432277%,33.1268011527
+6:Moonblast,4.03458213256%,24.409221902
+7:Hyper Voice,3.45821325648%,20.9221902017
+8:Double-Edge,3.45821325648%,20.9221902017
+9:Dragon Pulse,3.17002881844%,19.1786743516
+10:Water Spout,3.17002881844%,19.1786743516
+11:Brave Bird,2.8818443804%,17.4351585014
+12:Eruption,2.59365994236%,15.6916426513
+13:Hidden Power,2.59365994236%,15.6916426513
+14:Draco Meteor,2.30547550432%,13.9481268012
+15:Icy Wind,1.72910662824%,10.4610951009
+16:Ice Punch,1.72910662824%,10.4610951009
+17:Foul Play,1.4409221902%,8.71757925072
+18:Return,1.4409221902%,8.71757925072
+19:Rock Slide,1.4409221902%,8.71757925072
+20:Explosion,1.4409221902%,8.71757925072
+0:Other,15.8501440922%,95.8933717579
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Xerneas
+3:Kyogre
+4:Kangaskhan
+5:Talonflame
+6:Salamence
+7:Mawile
+8:Thundurus
+9:Rayquaza
+10:Dialga
+11:Smeargle
+12:Kyurem
+13:Ferrothorn
+14:Gengar
+15:Yveltal
+16:Landorus
+17:Sableye
+18:Crobat
+19:Liepard
+20:Whimsicott
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Xerneas
+3:Groudon
+4:Kangaskhan
+5:Yveltal
+6:Salamence
+7:Dialga
+8:Landorus
+9:Talonflame
+10:Mawile
+11:Kyurem
+12:Cresselia
+13:Kangaskhan
+14:Liepard
+15:Weavile
+16:Rayquaza
+17:Thundurus
+18:Palkia
+19:Togekiss
+20:Rayquaza

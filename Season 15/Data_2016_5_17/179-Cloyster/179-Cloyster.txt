@@ -1,0 +1,123 @@
+179:Cloyster|65
+ ---------- 
+Moves used:
+1:Icicle Spear,100.0%,65.0
+2:Rock Blast,96.9230769231%,63.0
+3:Shell Smash,56.9230769231%,37.0
+4:Hydro Pump,44.6153846154%,29.0
+5:Icy Wind,27.6923076923%,18.0
+6:Swagger,24.6153846154%,16.0
+7:Razor Shell,18.4615384615%,12.0
+8:Ice Shard,15.3846153846%,10.0
+9:Sleep Talk,7.69230769231%,5.0
+10:Protect,7.69230769231%,5.0
+
+ ---------- 
+Items used:
+1:Choice Scarf,86.1538461538%,56.0
+2:Focus Sash,4.61538461538%,3.0
+3:Leftovers,3.07692307692%,2.0
+4:White Herb,3.07692307692%,2.0
+5:Razor Fang,1.53846153846%,1.0
+6:King's Rock,1.53846153846%,1.0
+
+ ---------- 
+Abilities used:
+1:Skill Link,100.0%,65.0
+
+ ---------- 
+Natures used:
+1:Jolly,83.0769230769%,54.0
+2:Adamant,9.23076923077%,6.0
+3:Naive,4.61538461538%,3.0
+4:Naughty,3.07692307692%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Lugia
+4:Kangaskhan
+5:Ferrothorn
+6:Yveltal
+7:Xerneas
+8:Whimsicott
+9:Smeargle
+10:Meowstic
+11:Palkia
+12:Misdreavus
+13:Mewtwo
+14:Terrakion
+15:Amoonguss
+16:Lopunny
+17:Crobat
+18:Hydreigon
+19:Togekiss
+20:Rayquaza
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Icicle Spear,81.8181818182%,53.1818181818
+2:Rock Blast,15.9090909091%,10.3409090909
+3:Icy Wind,2.27272727273%,1.47727272727
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,16.6666666667%,10.8333333333
+2:Precipice Blades,11.1111111111%,7.22222222222
+3:Origin Pulse,9.25925925926%,6.01851851852
+4:Water Spout,7.40740740741%,4.81481481481
+5:Hyper Voice,5.55555555556%,3.61111111111
+6:Eruption,5.55555555556%,3.61111111111
+7:Scald,3.7037037037%,2.40740740741
+8:Earth Power,3.7037037037%,2.40740740741
+9:Shadow Ball,3.7037037037%,2.40740740741
+10:Low Kick,3.7037037037%,2.40740740741
+11:Double-Edge,3.7037037037%,2.40740740741
+12:Moonblast,1.85185185185%,1.2037037037
+13:Shadow Force,1.85185185185%,1.2037037037
+14:Power Whip,1.85185185185%,1.2037037037
+15:Dragon Pulse,1.85185185185%,1.2037037037
+16:Air Slash,1.85185185185%,1.2037037037
+17:Sucker Punch,1.85185185185%,1.2037037037
+18:Close Combat,1.85185185185%,1.2037037037
+19:Gyro Ball,1.85185185185%,1.2037037037
+20:Overheat,1.85185185185%,1.2037037037
+0:Other,9.25925925926%,6.01851851852
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Thundurus
+3:Salamence
+4:Crobat
+5:Rayquaza
+6:Weavile
+7:Landorus
+8:Whimsicott
+9:Smeargle
+10:Kangaskhan
+11:Togekiss
+12:Rayquaza
+13:Kyogre
+14:Sableye
+15:Ho-Oh
+16:Gengar
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Salamence
+5:Kangaskhan
+6:Aegislash
+7:Ferrothorn
+8:Rayquaza
+9:Yveltal
+10:Giratina
+11:Dialga
+12:Togekiss
+13:Lucario
+14:Infernape
+15:Zapdos

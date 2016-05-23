@@ -1,0 +1,53 @@
+303:Zangoose|6
+ ---------- 
+Moves used:
+1:Facade,100.0%,6.0
+2:Quick Guard,83.3333333333%,5.0
+3:Feint,83.3333333333%,5.0
+4:Detect,83.3333333333%,5.0
+5:Protect,16.6666666667%,1.0
+6:Quick Attack,16.6666666667%,1.0
+7:Fire Punch,16.6666666667%,1.0
+
+ ---------- 
+Items used:
+1:Toxic Orb,100.0%,6.0
+
+ ---------- 
+Abilities used:
+1:Toxic Boost,100.0%,6.0
+
+ ---------- 
+Natures used:
+1:Jolly,100.0%,6.0
+
+ ---------- 
+Top teammates:
+1:Metagross
+2:Rayquaza
+3:Groudon
+4:Hitmontop
+5:Xerneas
+6:Talonflame
+7:Kangaskhan
+8:Slowbro
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Feint,100.0%,6.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Hyper Voice,20.0%,1.2
+2:Double-Edge,20.0%,1.2
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Amoonguss
+3:Breloom
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Salamence
+2:Kangaskhan

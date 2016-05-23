@@ -1,0 +1,129 @@
+155:Camerupt|96
+ ---------- 
+Moves used:
+1:Earth Power,100.0%,96.0
+2:Protect,98.9583333333%,95.0
+3:Eruption,52.0833333333%,50.0
+4:Heat Wave,50.0%,48.0
+5:Flamethrower,32.2916666667%,31.0
+6:Hidden Power,22.9166666667%,22.0
+7:Overheat,11.4583333333%,11.0
+8:Ancient Power,11.4583333333%,11.0
+9:Iron Head,9.375%,9.0
+10:After You,8.33333333333%,8.0
+11:Lava Plume,1.04166666667%,1.0
+12:Yawn,1.04166666667%,1.0
+13:Rock Slide,1.04166666667%,1.0
+
+ ---------- 
+Items used:
+1:Cameruptite,94.7916666667%,91.0
+2:Iron Ball,2.08333333333%,2.0
+3:Lum Berry,2.08333333333%,2.0
+4:Passho Berry,1.04166666667%,1.0
+
+ ---------- 
+Abilities used:
+1:Solid Rock,73.9583333333%,71.0
+2:Magma Armor,26.0416666667%,25.0
+
+ ---------- 
+Natures used:
+1:Quiet,92.7083333333%,89.0
+2:Modest,7.29166666667%,7.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Groudon
+3:Dialga
+4:Ferrothorn
+5:Rayquaza
+6:Bronzong
+7:Yveltal
+8:Hypno
+9:Xerneas
+10:Mienshao
+11:Marowak
+12:Jellicent
+13:Mewtwo
+14:Kangaskhan
+15:Slowbro
+16:Sylveon
+17:Meowstic
+18:Thundurus
+19:Conkeldurr
+20:Dusclops
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Eruption,34.6153846154%,33.2307692308
+2:Earth Power,30.7692307692%,29.5384615385
+3:Heat Wave,13.4615384615%,12.9230769231
+4:Flamethrower,9.61538461538%,9.23076923077
+5:Hidden Power,7.69230769231%,7.38461538462
+6:Overheat,3.84615384615%,3.69230769231
+
+ ---------- 
+Moves that KO this pokemon:
+1:Water Spout,19.0476190476%,18.2857142857
+2:Precipice Blades,17.4603174603%,16.7619047619
+3:Origin Pulse,14.2857142857%,13.7142857143
+4:Scald,6.34920634921%,6.09523809524
+5:Dazzling Gleam,4.7619047619%,4.57142857143
+6:Sucker Punch,4.7619047619%,4.57142857143
+7:Double-Edge,4.7619047619%,4.57142857143
+8:Earth Power,3.1746031746%,3.04761904762
+9:Ice Beam,3.1746031746%,3.04761904762
+10:Hydro Pump,3.1746031746%,3.04761904762
+11:Power-Up Punch,1.5873015873%,1.52380952381
+12:Moonblast,1.5873015873%,1.52380952381
+13:Brave Bird,1.5873015873%,1.52380952381
+14:Dragon Pulse,1.5873015873%,1.52380952381
+15:Close Combat,1.5873015873%,1.52380952381
+16:Gyro Ball,1.5873015873%,1.52380952381
+17:Eruption,1.5873015873%,1.52380952381
+18:Knock Off,1.5873015873%,1.52380952381
+19:Hidden Power,1.5873015873%,1.52380952381
+20:Rock Slide,1.5873015873%,1.52380952381
+0:Other,3.1746031746%,3.04761904762
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kangaskhan
+3:Thundurus
+4:Xerneas
+5:Landorus
+6:Amoonguss
+7:Dialga
+8:Salamence
+9:Crobat
+10:Talonflame
+11:Ferrothorn
+12:Whimsicott
+13:Sawk
+14:Bronzong
+15:Kyogre
+16:Mawile
+17:Ludicolo
+18:Smeargle
+19:Porygon2
+20:Espeon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kyogre
+2:Groudon
+3:Kangaskhan
+4:Xerneas
+5:Yveltal
+6:Landorus
+7:Palkia
+8:Kyogre
+9:Talonflame
+10:Thundurus
+11:Ferrothorn
+12:Infernape
+13:Rayquaza
+14:Swampert

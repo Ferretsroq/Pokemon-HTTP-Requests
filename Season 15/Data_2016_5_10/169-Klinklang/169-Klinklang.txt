@@ -1,0 +1,118 @@
+169:Klinklang|37
+ ---------- 
+Moves used:
+1:Gear Grind,100.0%,37.0
+2:Shift Gear,100.0%,37.0
+3:Protect,78.3783783784%,29.0
+4:Wild Charge,54.0540540541%,20.0
+5:Thunder Wave,24.3243243243%,9.0
+6:Trick Room,21.6216216216%,8.0
+7:Magic Coat,21.6216216216%,8.0
+
+ ---------- 
+Items used:
+1:Lum Berry,54.0540540541%,20.0
+2:Life Orb,45.9459459459%,17.0
+
+ ---------- 
+Abilities used:
+1:Clear Body,100.0%,37.0
+
+ ---------- 
+Natures used:
+1:Adamant,54.0540540541%,20.0
+2:Jolly,45.9459459459%,17.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Kangaskhan
+3:Amoonguss
+4:Rayquaza
+5:Mewtwo
+6:Xerneas
+7:Regigigas
+8:Salamence
+9:Mienshao
+10:Linoone
+11:Ditto
+12:Smeargle
+13:Landorus
+14:Terrakion
+15:Liepard
+16:Hitmontop
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Gear Grind,86.9565217391%,32.1739130435
+2:Wild Charge,13.0434782609%,4.82608695652
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,15.0%,5.55
+2:Low Kick,8.33333333333%,3.08333333333
+3:Earth Power,6.66666666667%,2.46666666667
+4:Flamethrower,6.66666666667%,2.46666666667
+5:Origin Pulse,5.0%,1.85
+6:Dazzling Gleam,5.0%,1.85
+7:Water Spout,5.0%,1.85
+8:Eruption,5.0%,1.85
+9:Brave Bird,3.33333333333%,1.23333333333
+10:Flare Blitz,3.33333333333%,1.23333333333
+11:Knock Off,3.33333333333%,1.23333333333
+12:Fire Punch,3.33333333333%,1.23333333333
+13:Dragon Ascent,1.66666666667%,0.616666666667
+14:Power-Up Punch,1.66666666667%,0.616666666667
+15:Phantom Force,1.66666666667%,0.616666666667
+16:Snarl,1.66666666667%,0.616666666667
+17:Scald,1.66666666667%,0.616666666667
+18:Foul Play,1.66666666667%,0.616666666667
+19:Gyro Ball,1.66666666667%,0.616666666667
+20:Hyper Voice,1.66666666667%,0.616666666667
+0:Other,10.0%,3.7
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Smeargle
+2:Xerneas
+3:Salamence
+4:Gengar
+5:Whimsicott
+6:Rayquaza
+7:Kyogre
+8:Crobat
+9:Kangaskhan
+10:Yveltal
+11:Talonflame
+12:Kyurem
+13:Thundurus
+14:Mienshao
+15:Giratina
+16:Weavile
+17:Lopunny
+18:Metagross
+19:Sableye
+20:Mr. Mime
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Kangaskhan
+4:Talonflame
+5:Xerneas
+6:Dialga
+7:Yveltal
+8:Kyurem
+9:Landorus
+10:Palkia
+11:Rayquaza
+12:Aegislash
+13:Mienshao
+14:Ferrothorn
+15:Liepard
+16:Weavile
+17:Infernape
+18:Kyogre
+19:Salamence
+20:Shedinja

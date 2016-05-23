@@ -1,0 +1,141 @@
+132:Toxicroak|137
+ ---------- 
+Moves used:
+1:Fake Out,93.4306569343%,128.0
+2:Gunk Shot,74.4525547445%,102.0
+3:Low Kick,69.3430656934%,95.0
+4:Feint,48.1751824818%,66.0
+5:Drain Punch,28.4671532847%,39.0
+6:Protect,19.7080291971%,27.0
+7:Knock Off,17.5182481752%,24.0
+8:Ice Punch,17.5182481752%,24.0
+9:Sucker Punch,10.9489051095%,15.0
+10:Poison Jab,8.02919708029%,11.0
+11:Quick Guard,5.83941605839%,8.0
+12:Bullet Punch,2.9197080292%,4.0
+13:Low Sweep,2.1897810219%,3.0
+14:Snatch,1.4598540146%,2.0
+
+ ---------- 
+Items used:
+1:Assault Vest,35.7664233577%,49.0
+2:Focus Sash,20.4379562044%,28.0
+3:Choice Scarf,17.5182481752%,24.0
+4:Expert Belt,16.7883211679%,23.0
+5:Life Orb,8.02919708029%,11.0
+6:Lum Berry,1.4598540146%,2.0
+
+ ---------- 
+Abilities used:
+1:Dry Skin,97.0802919708%,133.0
+2:Poison Touch,2.9197080292%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,49.6350364964%,68.0
+2:Jolly,34.3065693431%,47.0
+3:Careful,14.598540146%,20.0
+4:Sassy,1.4598540146%,2.0
+
+ ---------- 
+Top teammates:
+1:Kyogre
+2:Lugia
+3:Zekrom
+4:Zoroark
+5:Yveltal
+6:Groudon
+7:Thundurus
+8:Sceptile
+9:Scizor
+10:Talonflame
+11:Kangaskhan
+12:Whimsicott
+13:Kyurem
+14:Sharpedo
+15:Mawile
+16:Salamence
+17:Marowak
+18:Landorus
+19:Rayquaza
+20:Manectric
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Low Kick,42.8571428571%,58.7142857143
+2:Gunk Shot,20.6349206349%,28.2698412698
+3:Feint,20.6349206349%,28.2698412698
+4:Drain Punch,6.34920634921%,8.69841269841
+5:Ice Punch,4.7619047619%,6.52380952381
+6:Fake Out,3.1746031746%,4.34920634921
+7:Sucker Punch,1.5873015873%,2.1746031746
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,6.89655172414%,9.44827586207
+2:Gyro Ball,6.89655172414%,9.44827586207
+3:Hyper Voice,6.89655172414%,9.44827586207
+4:Dragon Ascent,5.74712643678%,7.87356321839
+5:Fire Punch,5.74712643678%,7.87356321839
+6:Earth Power,4.59770114943%,6.29885057471
+7:Brave Bird,4.59770114943%,6.29885057471
+8:Earthquake,4.59770114943%,6.29885057471
+9:Double-Edge,4.59770114943%,6.29885057471
+10:Dazzling Gleam,3.44827586207%,4.72413793103
+11:Sucker Punch,3.44827586207%,4.72413793103
+12:Thunder,3.44827586207%,4.72413793103
+13:Ice Beam,3.44827586207%,4.72413793103
+14:Oblivion Wing,2.29885057471%,3.14942528736
+15:Play Rough,2.29885057471%,3.14942528736
+16:Psystrike,2.29885057471%,3.14942528736
+17:Eruption,2.29885057471%,3.14942528736
+18:Psychic,2.29885057471%,3.14942528736
+19:Thunderbolt,2.29885057471%,3.14942528736
+20:Moonblast,1.14942528736%,1.57471264368
+0:Other,12.6436781609%,17.3218390805
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Xerneas
+2:Kangaskhan
+3:Kyogre
+4:Talonflame
+5:Smeargle
+6:Yveltal
+7:Ferrothorn
+8:Weavile
+9:Rayquaza
+10:Groudon
+11:Dialga
+12:Zapdos
+13:Lapras
+14:Greninja
+15:Kyurem
+16:Amoonguss
+17:Whimsicott
+18:Togekiss
+19:Bronzong
+20:Kyogre
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Ferrothorn
+4:Kangaskhan
+5:Landorus
+6:Rayquaza
+7:Kyogre
+8:Xerneas
+9:Talonflame
+10:Mawile
+11:Thundurus
+12:Yveltal
+13:Dialga
+14:Diggersby
+15:Greninja
+16:Cresselia
+17:Palkia
+18:Togekiss
+19:Weavile
+20:Rayquaza

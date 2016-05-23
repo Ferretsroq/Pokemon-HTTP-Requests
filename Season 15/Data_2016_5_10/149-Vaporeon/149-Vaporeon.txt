@@ -1,0 +1,141 @@
+149:Vaporeon|104
+ ---------- 
+Moves used:
+1:Scald,90.3846153846%,94.0
+2:Protect,78.8461538462%,82.0
+3:Icy Wind,70.1923076923%,73.0
+4:Roar,39.4230769231%,41.0
+5:Hyper Voice,33.6538461538%,35.0
+6:Detect,13.4615384615%,14.0
+7:Fake Tears,12.5%,13.0
+8:Ice Beam,10.5769230769%,11.0
+9:Muddy Water,8.65384615385%,9.0
+10:Wish,8.65384615385%,9.0
+11:Haze,8.65384615385%,9.0
+12:Blizzard,7.69230769231%,8.0
+13:Yawn,6.73076923077%,7.0
+14:Helping Hand,3.84615384615%,4.0
+15:Baton Pass,1.92307692308%,2.0
+16:Acid Armor,1.92307692308%,2.0
+17:Toxic,1.92307692308%,2.0
+18:Double Team,0.961538461538%,1.0
+
+ ---------- 
+Items used:
+1:Leftovers,45.1923076923%,47.0
+2:Lum Berry,29.8076923077%,31.0
+3:Sitrus Berry,23.0769230769%,24.0
+
+ ---------- 
+Abilities used:
+1:Water Absorb,100.0%,104.0
+
+ ---------- 
+Natures used:
+1:Bold,41.3461538462%,43.0
+2:Modest,37.5%,39.0
+3:Sassy,8.65384615385%,9.0
+4:Timid,6.73076923077%,7.0
+5:Calm,5.76923076923%,6.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Xerneas
+3:Kangaskhan
+4:Salamence
+5:Whimsicott
+6:Dialga
+7:Yveltal
+8:Sylveon
+9:Leafeon
+10:Thundurus
+11:Bronzong
+12:Talonflame
+13:Umbreon
+14:Espeon
+15:Meowstic
+16:Rayquaza
+17:Landorus
+18:Bisharp
+19:Porygon-Z
+20:Glaceon
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Scald,33.3333333333%,34.6666666667
+2:Icy Wind,31.1111111111%,32.3555555556
+3:Hyper Voice,13.3333333333%,13.8666666667
+4:Blizzard,13.3333333333%,13.8666666667
+5:Muddy Water,4.44444444444%,4.62222222222
+6:Ice Beam,4.44444444444%,4.62222222222
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.1290322581%,16.7741935484
+2:Dazzling Gleam,12.9032258065%,13.4193548387
+3:Dragon Ascent,11.2903225806%,11.7419354839
+4:Power Whip,6.45161290323%,6.70967741935
+5:Moonblast,4.83870967742%,5.03225806452
+6:Thunder,4.83870967742%,5.03225806452
+7:Double-Edge,4.83870967742%,5.03225806452
+8:Return,3.22580645161%,3.35483870968
+9:Sludge Bomb,3.22580645161%,3.35483870968
+10:Earthquake,3.22580645161%,3.35483870968
+11:Thunderbolt,3.22580645161%,3.35483870968
+12:Blizzard,3.22580645161%,3.35483870968
+13:Snarl,1.61290322581%,1.67741935484
+14:Wild Charge,1.61290322581%,1.67741935484
+15:Earth Power,1.61290322581%,1.67741935484
+16:Brave Bird,1.61290322581%,1.67741935484
+17:Dragon Pulse,1.61290322581%,1.67741935484
+18:Air Slash,1.61290322581%,1.67741935484
+19:Sucker Punch,1.61290322581%,1.67741935484
+20:Hyper Voice,1.61290322581%,1.67741935484
+0:Other,9.67741935484%,10.064516129
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Crobat
+2:Talonflame
+3:Landorus
+4:Rayquaza
+5:Groudon
+6:Kangaskhan
+7:Amoonguss
+8:Infernape
+9:Kyogre
+10:Salamence
+11:Mawile
+12:Raichu
+13:Xerneas
+14:Meowstic
+15:Cobalion
+16:Ferrothorn
+17:Liepard
+18:Weavile
+19:Bronzong
+20:Rayquaza
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
+2:Groudon
+3:Rayquaza
+4:Kyogre
+5:Kangaskhan
+6:Ferrothorn
+7:Thundurus
+8:Gengar
+9:Yveltal
+10:Meowstic
+11:Talonflame
+12:Kyurem
+13:Landorus
+14:Heatran
+15:Dialga
+16:Togekiss
+17:Bronzong
+18:Rayquaza
+19:Salamence
+20:Mawile

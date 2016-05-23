@@ -1,0 +1,120 @@
+72:Jumpluff|563
+ ---------- 
+Moves used:
+1:Sleep Powder,100.0%,563.0
+2:Rage Powder,83.1261101243%,468.0
+3:Protect,81.5275310835%,459.0
+4:Encore,81.3499111901%,458.0
+5:Worry Seed,23.2682060391%,131.0
+6:Helping Hand,16.8738898757%,95.0
+7:Grass Knot,8.8809946714%,50.0
+8:Cotton Spore,2.48667850799%,14.0
+9:Seed Bomb,1.59857904085%,9.0
+10:Acrobatics,0.532859680284%,3.0
+11:Reflect,0.355239786856%,2.0
+
+ ---------- 
+Items used:
+1:Focus Sash,66.785079929%,376.0
+2:Mental Herb,15.2753108348%,86.0
+3:Wide Lens,12.2557726465%,69.0
+4:Rocky Helmet,4.79573712256%,27.0
+5:Sitrus Berry,0.88809946714%,5.0
+
+ ---------- 
+Abilities used:
+1:Chlorophyll,98.0461811723%,552.0
+2:Leaf Guard,1.243339254%,7.0
+3:Infiltrator,0.710479573712%,4.0
+
+ ---------- 
+Natures used:
+1:Timid,90.5861456483%,510.0
+2:Bold,4.79573712256%,27.0
+3:Jolly,3.73001776199%,21.0
+4:Impish,0.532859680284%,3.0
+5:Calm,0.355239786856%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Xerneas
+4:Salamence
+5:Dialga
+6:Kyogre
+7:Mawile
+8:Kyurem
+9:Cresselia
+10:Palkia
+11:Talonflame
+12:Rayquaza
+13:Ditto
+14:Yveltal
+15:Ferrothorn
+16:Mienshao
+17:Sableye
+18:Gengar
+19:Togekiss
+20:Bronzong
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Grass Knot,57.1428571429%,321.714285714
+2:Struggle,28.5714285714%,160.857142857
+3:Acrobatics,14.2857142857%,80.4285714286
+
+ ---------- 
+Moves that KO this pokemon:
+1:Double-Edge,9.79381443299%,55.1391752577
+2:Dazzling Gleam,9.53608247423%,53.6881443299
+3:Ice Beam,9.53608247423%,53.6881443299
+4:Hyper Voice,8.24742268041%,46.4329896907
+5:Brave Bird,5.41237113402%,30.4716494845
+6:Eruption,4.89690721649%,27.5695876289
+7:Rock Slide,3.86597938144%,21.7654639175
+8:Fire Punch,3.35051546392%,18.8634020619
+9:Water Spout,3.09278350515%,17.412371134
+10:Extreme Speed,2.57731958763%,14.5103092784
+11:Sludge Bomb,2.0618556701%,11.6082474227
+12:Origin Pulse,1.80412371134%,10.1572164948
+13:Moonblast,1.80412371134%,10.1572164948
+14:Return,1.80412371134%,10.1572164948
+15:Dragon Ascent,1.54639175258%,8.70618556701
+16:Precipice Blades,1.54639175258%,8.70618556701
+17:Snarl,1.54639175258%,8.70618556701
+18:Fake Out,1.54639175258%,8.70618556701
+19:Iron Head,1.28865979381%,7.25515463918
+20:Feint,1.28865979381%,7.25515463918
+0:Other,21.1340206186%,118.984536082
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+2:Kyogre
+3:Thundurus
+4:Liepard
+5:Smeargle
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Kangaskhan
+2:Groudon
+3:Xerneas
+4:Kyogre
+5:Salamence
+6:Talonflame
+7:Yveltal
+8:Rayquaza
+9:Cresselia
+10:Gengar
+11:Kyurem
+12:Weavile
+13:Mawile
+14:Landorus
+15:Palkia
+16:Dialga
+17:Kyogre
+18:Raichu
+19:Thundurus
+20:Bronzong

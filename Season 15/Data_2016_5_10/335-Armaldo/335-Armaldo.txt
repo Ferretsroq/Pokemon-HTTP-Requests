@@ -1,0 +1,48 @@
+335:Armaldo|3
+ ---------- 
+Moves used:
+1:X-Scissor,100.0%,3.0
+2:Protect,100.0%,3.0
+3:Rock Slide,100.0%,3.0
+4:Superpower,66.6666666667%,2.0
+5:Crush Claw,33.3333333333%,1.0
+
+ ---------- 
+Items used:
+1:Life Orb,66.6666666667%,2.0
+2:Lum Berry,33.3333333333%,1.0
+
+ ---------- 
+Abilities used:
+1:Swift Swim,100.0%,3.0
+
+ ---------- 
+Natures used:
+1:Jolly,66.6666666667%,2.0
+2:Adamant,33.3333333333%,1.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kyogre
+3:Metagross
+4:Kangaskhan
+5:Gengar
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,33.3333333333%,1.0
+2:Scald,33.3333333333%,1.0
+3:Water Spout,33.3333333333%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Greninja
+2:Groudon
+3:Kyogre

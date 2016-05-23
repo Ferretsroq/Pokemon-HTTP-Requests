@@ -1,0 +1,72 @@
+285:Rotom-M|8
+ ---------- 
+Moves used:
+1:Leaf Storm,100.0%,8.0
+2:Thunderbolt,50.0%,4.0
+3:Dark Pulse,37.5%,3.0
+4:Shadow Ball,37.5%,3.0
+5:Hidden Power,37.5%,3.0
+6:Protect,37.5%,3.0
+7:Volt Switch,25.0%,2.0
+8:Thunder,25.0%,2.0
+9:Thunder Wave,25.0%,2.0
+10:Trick,12.5%,1.0
+11:Will-O-Wisp,12.5%,1.0
+
+ ---------- 
+Items used:
+1:Choice Specs,37.5%,3.0
+2:Life Orb,37.5%,3.0
+3:Choice Scarf,12.5%,1.0
+4:Quick Claw,12.5%,1.0
+
+ ---------- 
+Abilities used:
+1:Levitate,100.0%,8.0
+
+ ---------- 
+Natures used:
+1:Sassy,37.5%,3.0
+2:Timid,37.5%,3.0
+3:Modest,25.0%,2.0
+
+ ---------- 
+Top teammates:
+1:Groudon
+2:Kangaskhan
+3:Kyogre
+4:Aegislash
+5:Crobat
+6:Gengar
+7:Yveltal
+8:Xerneas
+9:Dialga
+10:Gyarados
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Hidden Power,100.0%,8.0
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dragon Ascent,12.5%,1.0
+2:Precipice Blades,12.5%,1.0
+3:Moonblast,12.5%,1.0
+4:Hammer Arm,12.5%,1.0
+5:Hyper Voice,12.5%,1.0
+6:Ice Beam,12.5%,1.0
+7:Flamethrower,12.5%,1.0
+8:Double-Edge,12.5%,1.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Groudon
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Salamence
+3:Xerneas
+4:Dialga
+5:Rayquaza
+6:Kyogre

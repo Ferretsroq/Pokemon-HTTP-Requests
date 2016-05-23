@@ -1,0 +1,127 @@
+144:Dedenne|112
+ ---------- 
+Moves used:
+1:Nuzzle,100.0%,112.0
+2:Super Fang,78.5714285714%,88.0
+3:Protect,56.25%,63.0
+4:Parabolic Charge,55.3571428571%,62.0
+5:Helping Hand,31.25%,35.0
+6:Charm,20.5357142857%,23.0
+7:Entrainment,16.0714285714%,18.0
+8:Hidden Power,10.7142857143%,12.0
+9:Thunderbolt,10.7142857143%,12.0
+10:Eerie Impulse,9.82142857143%,11.0
+11:Discharge,6.25%,7.0
+12:Recycle,2.67857142857%,3.0
+13:Grass Knot,0.892857142857%,1.0
+14:Substitute,0.892857142857%,1.0
+
+ ---------- 
+Items used:
+1:Sitrus Berry,72.3214285714%,81.0
+2:Focus Sash,13.3928571429%,15.0
+3:Life Orb,10.7142857143%,12.0
+4:Shuca Berry,1.78571428571%,2.0
+5:Rocky Helmet,0.892857142857%,1.0
+6:Chilan Berry,0.892857142857%,1.0
+
+ ---------- 
+Abilities used:
+1:Cheek Pouch,98.2142857143%,110.0
+2:Plus,0.892857142857%,1.0
+3:Pickup,0.892857142857%,1.0
+
+ ---------- 
+Natures used:
+1:Timid,55.3571428571%,62.0
+2:Jolly,42.8571428571%,48.0
+3:Bold,1.78571428571%,2.0
+
+ ---------- 
+Top teammates:
+1:Yveltal
+2:Kangaskhan
+3:Groudon
+4:Kyogre
+5:Metagross
+6:Xerneas
+7:Rayquaza
+8:Mienshao
+9:Salamence
+10:Ferrothorn
+11:Sceptile
+12:Liepard
+13:Weavile
+14:Bronzong
+15:Talonflame
+16:Mawile
+17:Kyurem
+18:Landorus
+19:Hitmontop
+20:Mewtwo
+
+ ---------- 
+Moves that this pokemon KOs with:
+1:Nuzzle,30.0%,33.6
+2:Parabolic Charge,30.0%,33.6
+3:Thunderbolt,20.0%,22.4
+4:Discharge,10.0%,11.2
+5:Hidden Power,10.0%,11.2
+
+ ---------- 
+Moves that KO this pokemon:
+1:Precipice Blades,16.091954023%,18.0229885057
+2:Origin Pulse,10.3448275862%,11.5862068966
+3:Dazzling Gleam,10.3448275862%,11.5862068966
+4:Water Spout,10.3448275862%,11.5862068966
+5:Earth Power,4.59770114943%,5.14942528736
+6:Eruption,4.59770114943%,5.14942528736
+7:Earthquake,4.59770114943%,5.14942528736
+8:Double-Edge,4.59770114943%,5.14942528736
+9:Flare Blitz,3.44827586207%,3.86206896552
+10:Sucker Punch,3.44827586207%,3.86206896552
+11:Sludge Bomb,3.44827586207%,3.86206896552
+12:Moonblast,2.29885057471%,2.57471264368
+13:Overheat,2.29885057471%,2.57471264368
+14:Rock Slide,2.29885057471%,2.57471264368
+15:Play Rough,1.14942528736%,1.28735632184
+16:Icicle Crash,1.14942528736%,1.28735632184
+17:Psystrike,1.14942528736%,1.28735632184
+18:Scald,1.14942528736%,1.28735632184
+19:Iron Head,1.14942528736%,1.28735632184
+20:Power Whip,1.14942528736%,1.28735632184
+0:Other,9.19540229885%,10.2988505747
+
+ ---------- 
+Pokemon that this pokemon KOs:
+1:Talonflame
+2:Kangaskhan
+3:Terrakion
+4:Amoonguss
+5:Weavile
+6:Groudon
+7:Kyogre
+8:Gyarados
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Groudon
+2:Kyogre
+3:Xerneas
+4:Kangaskhan
+5:Yveltal
+6:Talonflame
+7:Landorus
+8:Dialga
+9:Mawile
+10:Gengar
+11:Sylveon
+12:Dragalge
+13:Aegislash
+14:Terrakion
+15:Ferrothorn
+16:Cresselia
+17:Palkia
+18:Weavile
+19:Lucario
+20:Infernape

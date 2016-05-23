@@ -1,0 +1,47 @@
+318:Honchkrow|4
+ ---------- 
+Moves used:
+1:Brave Bird,100.0%,4.0
+2:Sucker Punch,100.0%,4.0
+3:Protect,75.0%,3.0
+4:Steel Wing,50.0%,2.0
+5:Foul Play,25.0%,1.0
+6:Tailwind,25.0%,1.0
+7:Haze,25.0%,1.0
+
+ ---------- 
+Items used:
+1:Black Glasses,75.0%,3.0
+2:Focus Sash,25.0%,1.0
+
+ ---------- 
+Abilities used:
+1:Moxie,100.0%,4.0
+
+ ---------- 
+Natures used:
+1:Adamant,100.0%,4.0
+
+ ---------- 
+Top teammates:
+1:Kyurem
+2:Liepard
+3:Xerneas
+4:Greninja
+5:Ferrothorn
+6:Gengar
+7:Raichu
+
+ ---------- 
+Moves that this pokemon KOs with:
+
+ ---------- 
+Moves that KO this pokemon:
+1:Dazzling Gleam,100.0%,4.0
+
+ ---------- 
+Pokemon that this pokemon KOs:
+
+ ---------- 
+Pokemon that KO this pokemon:
+1:Xerneas
