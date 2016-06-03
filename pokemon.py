@@ -19,7 +19,7 @@ def GetData(pokemonID):
     '''Pulls the json data from PGL and converts it to a usable dictionary'''
     requestDataList = [
         'languageId=2',
-        'seasonId=115',
+        'seasonId=116',
         'battleType=5',
         'timezone=EDT',
         'pokemonId=%d-0' % (pokemonID),
@@ -31,7 +31,7 @@ def GetData(pokemonID):
         'displayNumberPokemonIn=20',
         'displayNumberPokemonDown=20',
         'displayNumberPokemonDownWaza=20',
-        'timeStamp=1460576717081'
+        'timeStamp=1464197053594'
         ]
     requestDataString = "&".join(requestDataList)
     pokemonData = json.loads(requests.post(url, data=requestDataString, headers=headersDictionary).text)
@@ -61,7 +61,7 @@ def GetFormeData():
     for pokemon in pokemonWithFormes:
         requestDataList = [
         'languageId=2',
-        'seasonId=115',
+        'seasonId=116',
         'battleType=5',
         'timezone=EDT',
         'pokemonId=%s' % (pokemonWithFormes[pokemon]),
@@ -73,7 +73,7 @@ def GetFormeData():
         'displayNumberPokemonIn=20',
         'displayNumberPokemonDown=20',
         'displayNumberPokemonDownWaza=20',
-        'timeStamp=1460576717081'
+        'timeStamp=1464197053594'
         ]
         requestDataString = "&".join(requestDataList)
         print "Now obtaining %s!" % (pokemon)
@@ -228,8 +228,8 @@ headersDictionary = {
 	'Content-Type' : 'application/x-www-form-urlencoded; charset=UTF-8',
 	'Cookie' : '__ulfpc=201601211137474391; __utma=234147713.361904851.1453394265.1458005816.1458005816.1; __utmz=234147713.1458005816.1.1.utmcsr=pokemon-gl.com|utmccn=(referral)|utmcmd=referral|utmcct=/; region=1; language_id=2; site=2; _ga=GA1.2.361904851.1453394265; NO_MEMBER_DATA=%7B%22language_id%22%3A2%2C%22site%22%3A2%2C%22region%22%3A1%7D; JSESSIONID=7EF2250378221ABEE5A25264E4028FAD; AWSELB=99C3FF770EA3504C46F25D799674203D12E259AC7A4F0A5E1E369671A8F7594F0BEAC14B139D4F6D01FB26DFB85A3B6351067549EB45A267DB7E496BEA70327F1D05B86B10902FD1F8AC29087BDAD59C796899B4B7',
 	'Host' : '3ds.pokemon-gl.com',
-	'Origin' : 'http://3ds.pokemon-gl.com',
-	'Referer' : 'http://3ds.pokemon-gl.com/battle/oras/',
+	'Origin' : 'https://3ds.pokemon-gl.com',
+	'Referer' : 'https://3ds.pokemon-gl.com/battle/oras/',
 	'User-Agent' : '/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36'
         }
 

@@ -1,0 +1,415 @@
+{
+	u'nextPokemonId': u'186-0', 
+	u'rankingPokemonSuffererWaza': 
+		[
+			{
+				u'typeId': 15, 
+				u'ranking': 1, 
+				u'wazaName': u'Stone Edge', 
+				u'sequenceNumber': 1, 
+				u'usageRate': 50.0
+			}, 
+			{
+				u'typeId': 11, 
+				u'ranking': 2, 
+				u'wazaName': u'Sucker Punch', 
+				u'sequenceNumber': 2, 
+				u'usageRate': 50.0
+			}
+		], 
+	u'rankingPokemonInfo': 
+		{
+			u'typeId2': 0, 
+			u'ranking': 304, 
+			u'typeId1': 15, 
+			u'pokemonId': u'185-0', 
+			u'weight': u'0.84', 
+			u'height': u'394.0', 
+			u'typeName2': None, 
+			u'formNo': u'0', 
+			u'sequenceNumber': 304, 
+			u'typeName1': u'Rock', 
+			u'formName': None, 
+			u'monsno': 185, 
+			u'name': u'Sudowoodo'
+		}, 
+	u'timezoneName': u'GMT', 
+	u'status_code': u'0000', 
+	u'rankingPokemonDown': 
+		[
+			{
+				u'typeId2': 0, 
+				u'ranking': 1, 
+				u'typeId1': 18, 
+				u'pokemonId': u'716-0', 
+				u'sequenceNumber': 1, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Fairy', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 716, 
+				u'name': u'Xerneas'
+			}, 
+			{
+				u'typeId2': 17, 
+				u'ranking': 2, 
+				u'typeId1': 7, 
+				u'pokemonId': u'598-0', 
+				u'sequenceNumber': 2, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': u'Steel', 
+				u'formNo': u'0', 
+				u'typeName1': u'Grass', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 598, 
+				u'name': u'Ferrothorn'
+			}, 
+			{
+				u'typeId2': 3, 
+				u'ranking': 3, 
+				u'typeId1': 8, 
+				u'pokemonId': u'383-1', 
+				u'sequenceNumber': 3, 
+				u'battlingChangeFlg': 1, 
+				u'typeName2': u'Fire', 
+				u'formNo': u'1', 
+				u'typeName1': u'Ground', 
+				u'countBattleByForm': 1, 
+				u'formName': None, 
+				u'monsno': 383, 
+				u'name': u'Groudon'
+			}, 
+			{
+				u'typeId2': 0, 
+				u'ranking': 4, 
+				u'typeId1': 12, 
+				u'pokemonId': u'382-1', 
+				u'sequenceNumber': 4, 
+				u'battlingChangeFlg': 1, 
+				u'typeName2': None, 
+				u'formNo': u'1', 
+				u'typeName1': u'Water', 
+				u'countBattleByForm': 1, 
+				u'formName': None, 
+				u'monsno': 382, u
+				'name': u'Kyogre'
+			}
+		], 
+	u'rankingPokemonIn': 
+		[
+			{
+				u'typeId2': 0, 
+				u'ranking': 1, 
+				u'typeId1': 7, 
+				u'pokemonId': u'254-0', 
+				u'sequenceNumber': 1, 
+				u'battlingChangeFlg': 1, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Grass', 
+				u'countBattleByForm': 1, 
+				u'formName': None, 
+				u'monsno': 254, 
+				u'name': u'Sceptile'
+			}, 
+			{
+				u'typeId2': 0, 
+				u'ranking': 2, 
+				u'typeId1': 8, 
+				u'pokemonId': u'383-0', 
+				u'sequenceNumber': 2, 
+				u'battlingChangeFlg': 1, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Ground', 
+				u'countBattleByForm': 1, 
+				u'formName': None, 
+				u'monsno': 383, 
+				u'name': u'Groudon'
+			}, 
+			{
+				u'typeId2': 14, 
+				u'ranking': 3, 
+				u'typeId1': 12, 
+				u'pokemonId': u'484-0', 
+				u'sequenceNumber': 3, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': u'Dragon', 
+				u'formNo': u'0', 
+				u'typeName1': u'Water', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 484, 
+				u'name': u'Palkia'
+			}, 
+			{
+				u'typeId2': 14, 
+				u'ranking': 4, 
+				u'typeId1': 17, 
+				u'pokemonId': u'483-0', 
+				u'sequenceNumber': 4, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': u'Dragon', 
+				u'formNo': u'0', 
+				u'typeName1': u'Steel', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 483, 
+				u'name': u'Dialga'
+			}, 
+			{
+				u'typeId2': 0, 
+				u'ranking': 5, 
+				u'typeId1': 1, 
+				u'pokemonId': u'162-0', 
+				u'sequenceNumber': 5, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Normal', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 162, 
+				u'name': u'Furret'
+			}, 
+			{
+				u'typeId2': 6, 
+				u'ranking': 6, 
+				u'typeId1': 11, 
+				u'pokemonId': u'717-0', 
+				u'sequenceNumber': 6, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': u'Flying', 
+				u'formNo': u'0', 
+				u'typeName1': u'Dark', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 717, 
+				u'name': u'Yveltal'
+			}, 
+			{
+				u'typeId2': 0, 
+				u'ranking': 7, 
+				u'typeId1': 13, 
+				u'pokemonId': u'481-0', 
+				u'sequenceNumber': 7, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Psychic', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 481, 
+				u'name': u'Mesprit'
+			}, 
+			{
+				u'typeId2': 18, 
+				u'ranking': 8, 
+				u'typeId1': 17, 
+				u'pokemonId': u'303-0', 
+				u'sequenceNumber': 8, 
+				u'battlingChangeFlg': 1, 
+				u'typeName2': u'Fairy', 
+				u'formNo': u'0', 
+				u'typeName1': u'Steel', 
+				u'countBattleByForm': 1, 
+				u'formName': None, 
+				u'monsno': 303, 
+				u'name': u'Mawile'
+			}, 
+			{
+				u'typeId2': 0, 
+				u'ranking': 9, 
+				u'typeId1': 13, 
+				u'pokemonId': u'97-0', 
+				u'sequenceNumber': 9, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Psychic', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 97, 
+				u'name': u'Hypno'
+			}, 
+			{
+				u'typeId2': 0, 
+				u'ranking': 10, 
+				u'typeId1': 2, 
+				u'pokemonId': u'68-0', 
+				u'sequenceNumber': 10, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Fighting', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 68, 
+				u'name': u'Machamp'
+			}
+		], 
+	u'rankingPokemonDownWaza': 
+		[
+			{
+				u'typeId': 8, 
+				u'ranking': 1, 
+				u'wazaName': u'Precipice Blades', 
+				u'sequenceNumber': 1, 
+				u'usageRate': 25.0
+			}, 
+			{
+				u'typeId': 18, 
+				u'ranking': 2, 
+				u'wazaName': u'Dazzling Gleam', 
+				u'sequenceNumber': 2, 
+				u'usageRate': 25.0
+			}, 
+			{
+				u'typeId': 7, 
+				u'ranking': 3, 
+				u'wazaName': u'Power Whip', 
+				u'sequenceNumber': 3, 
+				u'usageRate': 25.0
+			}, 
+			{
+				u'typeId': 12, 
+				u'ranking': 4, 
+				u'wazaName': u'Water Spout', 
+				u'sequenceNumber': 4, 
+				u'usageRate': 25.0
+			}
+		], 
+	u'rankingPokemonSufferer': 
+		[
+			{
+				u'typeId2': 0, 
+				u'ranking': 1, 
+				u'typeId1': 18, 
+				u'pokemonId': u'716-0', 
+				u'sequenceNumber': 1, 
+				u'battlingChangeFlg': 0, 
+				u'typeName2': None, 
+				u'formNo': u'0', 
+				u'typeName1': u'Fairy', 
+				u'countBattleByForm': 0, 
+				u'formName': None, 
+				u'monsno': 716, 
+				u'name': u'Xerneas'
+			}, 
+			{
+				u'typeId2': 3, 
+				u'ranking': 2, 
+				u'typeId1': 8, 
+				u'pokemonId': u'383-1', 
+				u'sequenceNumber': 2, 
+				u'battlingChangeFlg': 1, 
+				u'typeName2': u'Fire', 
+				u'formNo': u'1', 
+				u'typeName1': u'Ground', 
+				u'countBattleByForm': 1, 
+				u'formName': None, 
+				u'monsno': 383, 
+				u'name': u'Groudon'
+			}
+		], 
+	u'rankingPokemonTrend': 
+		{
+			u'itemInfo': 
+				[
+					{
+						u'ranking': 1, 
+						u'name': u'Enigma Berry', 
+						u'sequenceNumber': 1, 
+						u'usageRate': 66.66666666666667
+					}, 
+					{
+						u'ranking': 2, 
+						u'name': u'Weakness Policy', 
+						u'sequenceNumber': 2, 
+						u'usageRate': 33.333333333333336
+					}
+				], 
+			u'wazaInfo': 
+				[
+					{
+						u'typeId': 1, 
+						u'ranking': 1, 
+						u'name': u'After You', 
+						u'sequenceNumber': 1, 
+						u'usageRate': 66.66666666666667
+					}, 
+					{
+						u'typeId': 15, 
+						u'ranking': 2, 
+						u'name': u'Stone Edge', 
+						u'sequenceNumber': 2, 
+						u'usageRate': 66.66666666666667
+					}, 
+					{
+						u'typeId': 1, 
+						u'ranking': 3, 
+						u'name': u'Copycat', 
+						u'sequenceNumber': 3, 
+						u'usageRate': 66.66666666666667
+					}, 
+					{
+						u'typeId': 2, 
+						u'ranking': 4, 
+						u'name': u'Low Kick', 
+						u'sequenceNumber': 4, 
+						u'usageRate': 66.66666666666667
+					}, 
+					{
+						u'typeId': 7, 
+						u'ranking': 5, 
+						u'name': u'Wood Hammer', 
+						u'sequenceNumber': 5, 
+						u'usageRate': 33.333333333333336
+					}, 
+					{
+						u'typeId': 11, 
+						u'ranking': 6, 
+						u'name': u'Sucker Punch', 
+						u'sequenceNumber': 6, 
+						u'usageRate': 33.333333333333336
+					}, 
+					{
+						u'typeId': 1, 
+						u'ranking': 7, 
+						u'name': u'Protect', 
+						u'sequenceNumber': 7, 
+						u'usageRate': 33.333333333333336
+					}, 
+					{
+						u'typeId': 15, 
+						u'ranking': 8, 
+						u'name': u'Rock Slide', 
+						u'sequenceNumber': 8, 
+						u'usageRate': 33.333333333333336
+					}
+				], 
+			u'seikakuInfo': 
+				[
+					{
+						u'ranking': 1, 
+						u'name': u'Brave', 
+						u'sequenceNumber': 1, 
+						u'usageRate': 100.0
+					}
+				], 
+			u'tokuseiInfo': 
+				[
+					{
+						u'ranking': 1, 
+						u'name': u'Sturdy', 
+						u'sequenceNumber': 1, 
+						u'usageRate': 100.0
+					}
+				]
+		}, 
+	u'beforePokemonId': u'184-0', 
+	u'rankingPokemonDownWazaOther': u''
+}
