@@ -1,0 +1,69 @@
+digraph G{
+	splines = ortho;
+	"Week"->"Pokémon" ->{"Moves","Natures","Abilities","Items","Partners","Pokemon That KO", "Pokemon KO'd", "Misc Info"}
+	{rank=same; "Moves","Natures","Abilities","Items","Partners","Pokemon That KO", "Pokemon KO'd", "Misc Info"}
+
+	keyMoves [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Ranking</td><td>Name</td><td>Type</td><td>Usage Rate</td><td>Total Number</td></tr>
+	      	<tr><td align="right" port="2">1</td><td>Protect</td><td>Normal</td><td>99.23801164924599</td><td>2487500</td></tr>
+	      	<tr><td align="right" port="3">2</td><td>Precipice Blades</td><td>Ground</td><td>82.96098300486715</td><td>2079500</td></tr>
+	      	</table>> style=invisible]
+		"Moves":e->keyMoves:1:w
+		{rank=same;keyMoves,"Moves"}
+
+	keyNatures [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Ranking</td><td align="right">Name</td></tr>
+	      	<tr><td align="right" port="2">1</td><td align="right">Jolly</td></tr>
+	      	<tr><td align="right" port="3">2</td><td align="right">Adamant</td></tr>
+	      	</table>> style=invisible]
+		"Natures":e->keyNatures:1:w
+		{rank=same;keyNatures,"Natures"}
+
+	keyAbilities [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Ranking</td><td align="right">Name</td></tr>
+	      	<tr><td align="right" port="2">1</td><td align="right">Drought</td></tr>
+	      	</table>> style=invisible]
+		"Abilities":e->keyAbilities:1:w
+		{rank=same;keyAbilities,"Abilities"}
+
+	keyItems [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Ranking</td><td align="right">Name</td></tr>
+	      	<tr><td align="right" port="2">1</td><td align="right">Red Orb</td></tr>
+	      	<tr><td align="right" port="3">2</td><td align="right">Choice Scarf</td></tr>
+	      	</table>> style=invisible]
+		"Items":e->keyItems:1:w
+		{rank=same;keyItems,"Items"}
+
+	keyPartners [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Ranking</td><td align="right">Name</td></tr>
+	      	<tr><td align="right" port="2">1</td><td align="right">Kangaskhan</td></tr>
+	      	<tr><td align="right" port="3">2</td><td align="right">Xerneas</td></tr>
+	      	</table>> style=invisible]
+		"Partners":e->keyPartners:1:w
+		{rank=same;keyPartners,"Partners"}
+
+	keyPokemonThatKO [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Ranking</td><td align="right">Name</td></tr>
+	      	<tr><td align="right" port="2">1</td><td align="right">Groudon</td></tr>
+	      	<tr><td align="right" port="3">2</td><td align="right">Kyogre</td></tr>
+	      	</table>> style=invisible]
+		"Pokemon That KO":e->keyPokemonThatKO:1:w
+		{rank=same;keyPokemonThatKO,"Pokemon That KO"}
+
+	keyPokemonKOd [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Ranking</td><td align="right">Name</td></tr>
+	      	<tr><td align="right" port="2">1</td><td align="right">Groudon</td></tr>
+	      	<tr><td align="right" port="3">2</td><td align="right">Kangaskhan</td></tr>
+	      	</table>> style=invisible]
+		"Pokemon KO'd":e->keyPokemonKOd:1:w
+		{rank=same;keyPokemonKOd,"Pokemon KO'd"}
+
+	keyMiscInfo [label=<<table border="0" cellpadding="2" cellspacing="0" cellborder="1">
+	      	<tr><td align="right" port="1">Item</td><td align="right">Value</td></tr>
+	      	<tr><td align="right" port="2">Name</td><td align="right">Groudon</td></tr>
+	      	<tr><td align="right" port="3">Ranking</td><td align="right">1</td></tr>
+	      	</table>> style=invisible]
+		"Misc Info":e->keyMiscInfo:1:w
+		{rank=same;keyMiscInfo,"Misc Info"}
+
+}
